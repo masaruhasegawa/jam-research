@@ -99,6 +99,7 @@
   .srcs{margin-top:14px;display:flex;flex-wrap:wrap;gap:6px 14px}
   .srcs a{font-family:var(--font-en);font-size:.68rem;color:var(--enji);letter-spacing:.02em;border-bottom:1px solid transparent;transition:border var(--ease)}
   .srcs a:hover{border-bottom-color:var(--enji)}
+  .srcs .srcdate{color:#a89a97;margin-left:.45em;font-size:.92em;letter-spacing:.01em}
   .status{margin-top:12px;font-size:.72rem;color:var(--gray-500);line-height:1.6;background:var(--bg);border:1px dashed var(--border);border-radius:3px;padding:9px 12px}
   .status b{font-family:var(--font-en);font-size:.6rem;font-weight:700;letter-spacing:.1em;color:var(--enji)}
 
@@ -239,7 +240,7 @@
     function cardEl(card, date, showDateTag){
       const st=storeFor(date), r=st[card.id]||{};
       const el=document.createElement("article"); el.className="card";
-      const srcHtml=(card.sources||[]).map(s=>`<a href="${s.u}" target="_blank" rel="noopener">↗ ${esc(s.t)}</a>`).join("");
+      const srcHtml=(card.sources||[]).map(s=>`<a href="${s.u}" target="_blank" rel="noopener">↗ ${esc(s.t)}${s.d?` <span class="srcdate">${esc(s.d)}</span>`:""}</a>`).join("");
       const rxHtml=RATINGS.map(o=>`<button class="rx${r.rating===o.v?' sel':''}" data-id="${card.id}" data-v="${o.v}"><span class="em">${o.em}</span>${o.label}</button>`).join("");
       const saved=ARCH.has(card.id);
       el.innerHTML=`
