@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>リサのリサーチ — jam cycle RESEARCH DESK</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700&family=Noto+Sans+JP:wght@300;400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#f9f8f6;--bg-card:#fff;--border:#edecea;--border-light:#f3f2f0;
+    --gray-300:#d4d2cf;--gray-500:#9b9893;--gray-700:#5c5955;
+    --charcoal:#2a2a2a;--black:#1a1a1a;--white:#fff;
+    --enji:#8b2335;--enji-light:#a82d42;--enji-pale:rgba(139,35,53,.06);
+    --green:#4a7a5b;
+    --font-en:'Sora',sans-serif;--font-ja:'Noto Sans JP',sans-serif;
+    --font-logo:'Arial Black',Gadget,sans-serif;
+    --ease:.3s cubic-bezier(.25,.46,.45,.94);
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{font-family:var(--font-ja);background:var(--bg);color:var(--charcoal);line-height:1.8;font-weight:300;-webkit-font-smoothing:antialiased;padding-bottom:120px}
+  button{cursor:pointer;border:none;background:none;font-family:inherit}
+  a{color:inherit;text-decoration:none}
+
+  /* ===== Masthead (HP準拠) ===== */
+  .shipping-banner{background:var(--charcoal);color:var(--white);text-align:center;padding:9px 16px;font-family:var(--font-en);font-size:.7rem;font-weight:500;letter-spacing:.14em;text-transform:uppercase}
+  .mast{position:sticky;top:0;z-index:40;background:rgba(249,248,246,.97);backdrop-filter:blur(20px);border-bottom:1px solid var(--border)}
+  .mast-top{display:flex;justify-content:space-between;align-items:center;padding:8px clamp(16px,5vw,28px);font-family:var(--font-en);font-size:.64rem;letter-spacing:.14em;text-transform:uppercase;color:var(--gray-500)}
+  .mast-mid{text-align:center;padding:6px 0 12px}
+  .mast-logo{font-family:var(--font-logo);font-weight:900;color:var(--enji);font-size:clamp(1.6rem,5vw,2.5rem);line-height:1}
+  .mast-sub{font-family:var(--font-en);font-size:.66rem;font-weight:600;letter-spacing:.34em;text-transform:uppercase;color:var(--gray-700);margin-top:6px}
+
+  /* ===== Subtitle nav (HP nav 準拠・テキストリンク) ===== */
+  .subnav{display:flex;justify-content:center;align-items:center;gap:32px;margin-top:15px;position:relative}
+  .navlink{font-family:var(--font-en);font-weight:600;font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:var(--gray-700);transition:color var(--ease);position:relative;padding-bottom:4px}
+  .navlink:hover{color:var(--enji)}
+  .navlink.active{color:var(--enji)}
+  .navlink.active::after{content:"";position:absolute;left:0;right:0;bottom:0;height:1.5px;background:var(--enji)}
+  .navlink .n{margin-left:5px;font-weight:700;opacity:.6}
+  .cal-pop{display:none;position:absolute;top:calc(100% + 12px);left:50%;transform:translateX(-50%);background:var(--bg-card);border:1px solid var(--border);border-radius:4px;box-shadow:0 14px 34px rgba(0,0,0,.12);padding:7px;z-index:45;min-width:190px}
+  .cal-pop.open{display:block}
+  .cal-date{display:block;width:100%;text-align:center;font-family:var(--font-en);font-size:.72rem;font-weight:500;letter-spacing:.06em;color:var(--gray-700);padding:9px 14px;border-radius:3px;transition:all var(--ease);white-space:nowrap}
+  .cal-date:hover{background:var(--bg);color:var(--enji)}
+  .cal-date.active{background:var(--charcoal);color:var(--white)}
+
+  /* ===== Greeting ===== */
+  .intro{max-width:820px;margin:34px auto 6px;padding:0 clamp(20px,5vw,28px)}
+  .intro .eyebrow{font-family:var(--font-en);font-size:.66rem;font-weight:600;letter-spacing:.24em;text-transform:uppercase;color:var(--enji)}
+  .intro h1{font-family:var(--font-ja);font-size:clamp(1.1rem,2.4vw,1.42rem);font-weight:500;line-height:1.7;margin-top:12px;color:var(--black)}
+  .intro .sig{margin-top:12px;font-size:.74rem;color:var(--gray-500);line-height:1.7}
+  .intro .sig b{color:var(--charcoal);font-weight:500}
+
+  /* ===== Feed ===== */
+  .feed{max-width:820px;margin:22px auto 0;padding:0 clamp(20px,5vw,28px);display:flex;flex-direction:column;gap:30px}
+  .emptyArc{text-align:center;color:var(--gray-500);font-size:.86rem;padding:60px 20px;line-height:2}
+  .emptyArc .big{font-size:2.4rem;opacity:.4;display:block;margin-bottom:10px}
+
+  .card{position:relative;background:var(--bg-card);border:1px solid var(--border);border-radius:5px;overflow:hidden;opacity:0;transform:translateY(20px);transition:opacity .6s ease,transform .6s ease,box-shadow var(--ease)}
+  .card.in{opacity:1;transform:none}
+  .card:hover{box-shadow:0 12px 34px rgba(20,20,20,.09)}
+  .datetag{position:absolute;top:0;left:0;z-index:3;background:var(--charcoal);color:var(--white);font-family:var(--font-en);font-size:.58rem;font-weight:600;letter-spacing:.08em;padding:4px 10px;border-radius:0 0 4px 0}
+
+  .imgwrap{position:relative;aspect-ratio:16/9;background:var(--border-light);overflow:hidden}
+  .imgwrap img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .6s var(--ease)}
+  .card:hover .imgwrap img{transform:scale(1.03)}
+  .imgwrap.ph{display:flex;align-items:center;justify-content:center;background:var(--enji-pale)}
+  .imgwrap.ph::after{content:attr(data-emoji);font-size:3.4rem;opacity:.5}
+  .imgwrap.ph img{display:none}
+  .badge{position:absolute;top:12px;left:12px;font-family:var(--font-en);font-size:.6rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;padding:5px 11px;border-radius:2px;background:var(--enji);color:var(--white)}
+  .badge-hot{position:absolute;top:12px;right:12px;font-family:var(--font-en);font-size:.6rem;font-weight:700;letter-spacing:.1em;padding:5px 11px;border-radius:2px;background:var(--charcoal);color:var(--white)}
+
+  .body{padding:22px clamp(20px,4vw,28px) 8px}
+  .kicker{display:flex;align-items:center;gap:10px;font-family:var(--font-en);font-size:.64rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--enji)}
+  .kicker .gj{color:var(--gray-500);font-weight:500}
+  .card h2{font-family:var(--font-ja);font-size:clamp(1.12rem,2.3vw,1.32rem);font-weight:700;line-height:1.5;color:var(--black);margin:10px 0 12px}
+  .l1{font-size:.92rem;line-height:1.85;color:var(--charcoal)}
+
+  .more{display:none;margin-top:4px}
+  .more.open{display:block}
+  .deep{margin-top:16px;background:var(--enji-pale);border-left:2px solid var(--enji);padding:13px 16px;border-radius:0 3px 3px 0}
+  .deep .dl{font-family:var(--font-en);font-size:.6rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--enji)}
+  .deep p{font-size:.86rem;line-height:1.85;margin-top:6px;color:var(--charcoal)}
+  .duo{margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  @media(max-width:600px){.duo{grid-template-columns:1fr}}
+  .duo .b{background:var(--bg);border:1px solid var(--border);border-radius:3px;padding:12px 14px}
+  .duo .b .bl{font-family:var(--font-en);font-size:.58rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--enji)}
+  .duo .b p{font-size:.8rem;line-height:1.7;margin-top:5px}
+  .srcs{margin-top:14px;display:flex;flex-wrap:wrap;gap:6px 14px}
+  .srcs a{font-family:var(--font-en);font-size:.68rem;color:var(--enji);letter-spacing:.02em;border-bottom:1px solid transparent;transition:border var(--ease)}
+  .srcs a:hover{border-bottom-color:var(--enji)}
+  .status{margin-top:12px;font-size:.72rem;color:var(--gray-500);line-height:1.6;background:var(--bg);border:1px dashed var(--border);border-radius:3px;padding:9px 12px}
+  .status b{font-family:var(--font-en);font-size:.6rem;font-weight:700;letter-spacing:.1em;color:var(--enji)}
+
+  .readmore{margin-top:12px;font-family:var(--font-en);font-size:.7rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--gray-500);display:inline-flex;align-items:center;gap:6px;transition:color var(--ease)}
+  .readmore:hover{color:var(--enji)}
+  .readmore .ar{transition:transform var(--ease)}
+  .readmore.open .ar{transform:rotate(180deg)}
+
+  /* ===== Reaction bar (SNS) ===== */
+  .react{margin-top:8px;border-top:1px solid var(--border-light);padding:14px clamp(20px,4vw,28px);display:flex;flex-wrap:wrap;gap:7px}
+  .rx{display:inline-flex;align-items:center;gap:6px;font-family:var(--font-ja);font-size:.78rem;font-weight:400;color:var(--gray-700);background:var(--bg);border:1px solid var(--border);border-radius:20px;padding:7px 13px;transition:all .14s var(--ease)}
+  .rx .em{font-size:.95rem;line-height:1}
+  .rx:hover{border-color:var(--enji-light);transform:translateY(-1px)}
+  .rx:active{transform:scale(.95)}
+  .rx.sel{background:var(--enji);border-color:var(--enji);color:var(--white)}
+  .rx.sel.pop{animation:pop .3s ease}
+  @keyframes pop{0%{transform:scale(1)}45%{transform:scale(1.14)}100%{transform:scale(1)}}
+
+  .cmtrow{padding:0 clamp(20px,4vw,28px) 16px;display:flex;flex-direction:column}
+  .acts{display:flex;gap:18px;align-items:center;flex-wrap:wrap}
+  .cmttoggle,.savebtn{font-family:var(--font-en);font-size:.7rem;font-weight:600;letter-spacing:.06em;color:var(--gray-500);display:inline-flex;gap:6px;align-items:center;transition:color var(--ease)}
+  .cmttoggle:hover,.savebtn:hover{color:var(--enji)}
+  .savebtn.saved{color:var(--enji)}
+  .cmtbadge{margin-left:4px;width:6px;height:6px;border-radius:50%;background:var(--enji);display:none}
+  .cmtbadge.on{display:inline-block}
+  textarea.cmt{display:none;width:100%;margin-top:10px;border:1px solid var(--border);border-radius:3px;background:var(--bg);font-family:inherit;font-size:.84rem;padding:11px 13px;resize:vertical;min-height:58px;color:var(--charcoal);line-height:1.7}
+  textarea.cmt:focus{outline:none;border-color:var(--enji)}
+  textarea.cmt.open{display:block}
+
+  /* ===== Send ===== */
+  .sendbar{position:fixed;right:22px;bottom:22px;z-index:50}
+  .sendbtn{font-family:var(--font-en);font-size:.78rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;background:var(--enji);color:var(--white);padding:14px 22px;border-radius:3px;box-shadow:0 8px 24px rgba(139,35,53,.32);transition:all var(--ease);display:flex;align-items:center;gap:9px}
+  .sendbtn:hover{background:var(--enji-light);transform:translateY(-2px);box-shadow:0 12px 30px rgba(139,35,53,.4)}
+  .sendbtn .count{background:var(--white);color:var(--enji);font-size:.72rem;font-weight:700;padding:2px 8px;border-radius:20px;min-width:22px;text-align:center}
+
+  .ov{position:fixed;inset:0;background:rgba(26,26,26,.55);backdrop-filter:blur(3px);z-index:60;display:none;align-items:center;justify-content:center;padding:22px}
+  .ov.open{display:flex}
+  .modal{background:var(--bg-card);border-radius:6px;max-width:580px;width:100%;padding:28px;box-shadow:0 30px 70px rgba(0,0,0,.3)}
+  .modal h3{font-family:var(--font-en);font-size:1.05rem;font-weight:700;letter-spacing:.04em;color:var(--enji)}
+  .modal p{font-size:.78rem;margin-top:8px;color:var(--gray-500);line-height:1.7}
+  .modal textarea{width:100%;height:230px;margin-top:14px;border:1px solid var(--border);border-radius:4px;background:var(--bg);font-family:var(--font-ja);font-size:.78rem;padding:14px;resize:vertical;line-height:1.8;color:var(--charcoal)}
+  .modal .row{display:flex;gap:10px;margin-top:14px;justify-content:flex-end}
+  .modal button{font-family:var(--font-en);font-weight:600;font-size:.76rem;letter-spacing:.04em;padding:11px 20px;border-radius:3px;transition:all var(--ease)}
+  .modal .copy{background:var(--enji);color:var(--white)}
+  .modal .copy:hover{background:var(--enji-light)}
+  .modal .close{background:var(--bg);color:var(--charcoal);border:1px solid var(--border)}
+
+  .toast{position:fixed;left:50%;bottom:30px;transform:translateX(-50%) translateY(80px);z-index:70;background:var(--charcoal);color:var(--white);font-size:.8rem;padding:13px 22px;border-radius:3px;letter-spacing:.02em;opacity:0;transition:all .35s ease;pointer-events:none}
+  .toast.show{transform:translateX(-50%);opacity:1}
+
+  footer.foot{max-width:820px;margin:46px auto 0;padding:0 28px;font-family:var(--font-en);font-size:.62rem;color:var(--gray-300);letter-spacing:.16em;text-transform:uppercase;text-align:center}
+</style>
+</head>
+<body>
+  <div class="shipping-banner">jam cycle research desk — curated, not algorithmic</div>
+  <header class="mast">
+    <div class="mast-top"><span>Lisa's Research</span><span id="topDate">—</span></div>
+    <div class="mast-mid">
+      <div class="mast-logo">jam cycle</div>
+      <div class="mast-sub">Research Desk · リサのリサーチ</div>
+      <nav class="subnav">
+        <button class="navlink" id="calLink">CALENDAR</button>
+        <button class="navlink arc" id="arcLink">ARCHIVE<span class="n" id="arcN">0</span></button>
+        <div class="cal-pop" id="calPop"></div>
+      </nav>
+    </div>
+  </header>
+
+  <section class="intro">
+    <div class="eyebrow" id="eyebrow">Lisa's Morning Research</div>
+    <h1 id="greeting"></h1>
+    <div class="sig">リサーチ＝<b>リサ</b>（リサーチ部長）／棚分け＝<b>ラナ</b>　・　気に入った一枚は <b>🔖 アーカイブへ送る</b>。評価は右下の <b>ラナに送る</b> で戻すと、明日のリサが学びます。</div>
+  </section>
+
+  <main class="feed" id="feed"></main>
+  <footer class="foot">jam cycle · research desk</footer>
+
+  <div class="sendbar"><button class="sendbtn" id="sendbtn">📨 ラナに送る <span class="count" id="cnt">0</span></button></div>
+
+  <div class="ov" id="ov">
+    <div class="modal">
+      <h3>この日の評価をラナに</h3>
+      <p>下のテキストをコピーして、ラナのチャットに貼ってください。ラナが台帳に記録し、明日のリサが学びます。</p>
+      <textarea id="out" readonly></textarea>
+      <div class="row"><button class="close" id="close">閉じる</button><button class="copy" id="copy">コピーする</button></div>
+    </div>
+  </div>
+  <div class="toast" id="toast"></div>
+
+  <script src="feeds.js"></script>
+  <script>
+    const RATINGS=[
+      {v:"like",em:"👍",label:"いいね"},
+      {v:"love",em:"💛",label:"好み"},
+      {v:"dig",em:"🔍",label:"深ぼりたい"},
+      {v:"article",em:"✍️",label:"記事にしたい"},
+      {v:"meh",em:"🤔",label:"あんまり"},
+    ];
+    const PH={trend:"📈",race:"🏁",parts:"🔧",beginner:"🌱",wheel:"🛞",market:"📊"};
+    const FEEDS=(window.LISA_FEEDS||[]).slice();
+    const esc=s=>(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+    const fmtDate=d=>{const[y,m,da]=d.split("-").map(Number);const w=["日","月","火","水","木","金","土"][new Date(y,m-1,da).getDay()];return `${m}月${da}日(${w})`;};
+
+    // ---- stores ----
+    const storeCache={};
+    function storeFor(date){ if(!storeCache[date]){ try{storeCache[date]=JSON.parse(localStorage.getItem("lisa-ratings-"+date)||"{}");}catch(e){storeCache[date]={};} } return storeCache[date]; }
+    function persistDate(date){ localStorage.setItem("lisa-ratings-"+date,JSON.stringify(storeCache[date]||{})); }
+    let ARCH; try{ARCH=new Set(JSON.parse(localStorage.getItem("lisa-archive")||"[]"));}catch(e){ARCH=new Set();}
+    function persistArch(){ localStorage.setItem("lisa-archive",JSON.stringify([...ARCH])); }
+
+    let view="day"; // "day" | "arc"
+    let current = FEEDS.length?FEEDS[0].date:null;
+
+    // ---- subnav (calendar / archive textリンク) ----
+    const calLink=document.getElementById("calLink"), arcLink=document.getElementById("arcLink"), calPop=document.getElementById("calPop");
+    function buildCal(){
+      calPop.innerHTML="";
+      FEEDS.forEach((f,i)=>{
+        const b=document.createElement("button");
+        b.className="cal-date"; b.dataset.date=f.date;
+        b.textContent=(i===0?"TODAY · ":"")+fmtDate(f.date);
+        b.onclick=()=>{ showDay(f.date); calPop.classList.remove("open"); };
+        calPop.appendChild(b);
+      });
+    }
+    calLink.onclick=e=>{ e.stopPropagation(); calPop.classList.toggle("open"); };
+    document.addEventListener("click",e=>{ if(!calPop.contains(e.target)&&e.target!==calLink) calPop.classList.remove("open"); });
+    arcLink.onclick=showArchive;
+
+    function markNav(){
+      arcLink.classList.toggle("active", view==="arc");
+      calLink.classList.toggle("active", view==="day");
+      document.getElementById("arcN").textContent=ARCH.size;
+      calPop.querySelectorAll(".cal-date").forEach(b=>b.classList.toggle("active", view==="day"&&b.dataset.date===current));
+    }
+
+    // ---- card builder ----
+    function cardEl(card, date, showDateTag){
+      const st=storeFor(date), r=st[card.id]||{};
+      const el=document.createElement("article"); el.className="card";
+      const srcHtml=(card.sources||[]).map(s=>`<a href="${s.u}" target="_blank" rel="noopener">↗ ${esc(s.t)}</a>`).join("");
+      const rxHtml=RATINGS.map(o=>`<button class="rx${r.rating===o.v?' sel':''}" data-id="${card.id}" data-v="${o.v}"><span class="em">${o.em}</span>${o.label}</button>`).join("");
+      const saved=ARCH.has(card.id);
+      el.innerHTML=`
+        ${showDateTag?`<span class="datetag">${fmtDate(date)}</span>`:''}
+        <div class="imgwrap" data-emoji="${PH[card.genre]||"📰"}">
+          <img src="${card.image||''}" alt="" loading="lazy" referrerpolicy="no-referrer">
+          <span class="badge">${esc(card.genreLabel)}</span>
+          ${card.hot?'<span class="badge-hot">🔥 PICK</span>':''}
+        </div>
+        <div class="body">
+          <div class="kicker">${esc(card.genreLabel)} <span class="gj">${esc(card.genreJa||'')}</span></div>
+          <h2>${esc(card.headline)}</h2>
+          <div class="l1">${esc(card.layer1)}</div>
+          <button class="readmore" data-act="more"><span>深掘り・効き方・出典を読む</span><span class="ar">▾</span></button>
+          <div class="more">
+            <div class="deep"><div class="dl">第二層 — 先回り深掘り</div><p>${esc(card.layer2)}</p></div>
+            ${(card.helps||card.flow)?`<div class="duo">${card.helps?`<div class="b"><div class="bl">jam cycle にどう効く</div><p>${esc(card.helps)}</p></div>`:''}${card.flow?`<div class="b"><div class="bl">どう流すと刺さる</div><p>${esc(card.flow)}</p></div>`:''}</div>`:''}
+            <div class="srcs">${srcHtml}</div>
+            <div class="status"><b>裏取り</b> ${esc(card.status)}</div>
+          </div>
+        </div>
+        <div class="react">${rxHtml}</div>
+        <div class="cmtrow">
+          <div class="acts">
+            <button class="cmttoggle" data-act="cmt">💬 ひとことコメント<span class="cmtbadge${r.comment?' on':''}"></span></button>
+            <button class="savebtn${saved?' saved':''}" data-act="save">🔖 ${saved?'アーカイブ済み':'アーカイブへ送る'}</button>
+          </div>
+          <textarea class="cmt${r.comment?' open':''}" data-id="${card.id}" placeholder="リサへ・記事の角度・気づいたこと…">${esc(r.comment||"")}</textarea>
+        </div>`;
+      el.dataset.id=card.id; el.dataset.date=date;
+      const iw=el.querySelector(".imgwrap"), im=iw.querySelector("img");
+      im.addEventListener("error",()=>iw.classList.add("ph"));
+      if(!card.image) iw.classList.add("ph");
+      return el;
+    }
+
+    function showDay(date){
+      view="day"; current=date;
+      const feed=FEEDS.find(f=>f.date===date); if(!feed)return;
+      document.getElementById("eyebrow").textContent="Lisa's Morning Research";
+      document.getElementById("greeting").textContent=feed.greeting;
+      document.getElementById("topDate").textContent=fmtDate(date);
+      const c=document.getElementById("feed"); c.innerHTML="";
+      feed.cards.forEach(card=>c.appendChild(cardEl(card,date,false)));
+      markNav(); observe(); updateCount();
+    }
+
+    function showArchive(){
+      view="arc";
+      document.getElementById("eyebrow").textContent="Archive · 保存した一枚たち";
+      document.getElementById("greeting").textContent="🔖 アーカイブへ送ったカード。気になったもの・あとで使うものを、ここにためていけます。";
+      document.getElementById("topDate").textContent="ARCHIVE";
+      const c=document.getElementById("feed"); c.innerHTML="";
+      const saved=[];
+      FEEDS.forEach(f=>f.cards.forEach(card=>{ if(ARCH.has(card.id)) saved.push({card,date:f.date}); }));
+      if(!saved.length){
+        c.innerHTML=`<div class="emptyArc"><span class="big">🔖</span>まだアーカイブは空です。<br>気に入ったカードの <b>🔖 アーカイブへ送る</b> を押すと、ここにたまります。</div>`;
+      }else{
+        saved.forEach(s=>c.appendChild(cardEl(s.card,s.date,true)));
+      }
+      markNav(); observe(); updateCount();
+    }
+
+    // ---- interactions (delegated) ----
+    const feedEl=document.getElementById("feed");
+    feedEl.addEventListener("click",e=>{
+      const cardNode=e.target.closest(".card"); const date=cardNode?cardNode.dataset.date:current;
+      const rx=e.target.closest(".rx");
+      if(rx){
+        const id=rx.dataset.id,v=rx.dataset.v,st=storeFor(date),sibs=rx.parentElement.querySelectorAll(".rx"),was=rx.classList.contains("sel");
+        sibs.forEach(s=>s.classList.remove("sel","pop"));
+        if(!was){rx.classList.add("sel","pop"); st[id]=Object.assign({},st[id],{rating:v});}
+        else{ if(st[id])delete st[id].rating; }
+        persistDate(date); updateCount(); return;
+      }
+      const more=e.target.closest('[data-act="more"]');
+      if(more){ more.classList.toggle("open"); more.nextElementSibling.classList.toggle("open");
+        more.querySelector("span").textContent=more.classList.contains("open")?"閉じる":"深掘り・効き方・出典を読む"; return; }
+      const ct=e.target.closest('[data-act="cmt"]');
+      if(ct){ const ta=ct.closest(".cmtrow").querySelector(".cmt"); ta.classList.toggle("open"); if(ta.classList.contains("open"))ta.focus(); return; }
+      const sv=e.target.closest('[data-act="save"]');
+      if(sv){ const id=cardNode.dataset.id; const now=!ARCH.has(id);
+        if(now){ARCH.add(id); sv.classList.add("saved"); sv.innerHTML="🔖 アーカイブ済み"; showToast("アーカイブに送りました");}
+        else{ARCH.delete(id); sv.classList.remove("saved"); sv.innerHTML="🔖 アーカイブへ送る"; if(view==="arc"){cardNode.remove();} showToast("アーカイブから外しました");}
+        persistArch(); markNav(); return; }
+    });
+    feedEl.addEventListener("input",e=>{
+      const ta=e.target.closest(".cmt"); if(!ta)return;
+      const cardNode=ta.closest(".card"), date=cardNode.dataset.date, id=ta.dataset.id, st=storeFor(date);
+      st[id]=Object.assign({},st[id],{comment:ta.value}); persistDate(date);
+      cardNode.querySelector(".cmtbadge").classList.toggle("on",!!ta.value);
+    });
+
+    function updateCount(){
+      const date=view==="day"?current:null;
+      let n=0;
+      if(date){ n=Object.values(storeFor(date)).filter(x=>x.rating).length; }
+      else{ FEEDS.forEach(f=>{const st=storeFor(f.date);f.cards.forEach(c=>{if(ARCH.has(c.id)&&st[c.id]&&st[c.id].rating)n++;});}); }
+      document.getElementById("cnt").textContent=n;
+    }
+
+    let io;
+    function observe(){
+      if(io)io.disconnect();
+      io=new IntersectionObserver(es=>es.forEach(en=>{if(en.isIntersecting){en.target.classList.add("in");io.unobserve(en.target);}}),{threshold:.08});
+      document.querySelectorAll(".card").forEach(c=>io.observe(c));
+    }
+
+    // ---- send ----
+    const RLAB=Object.fromEntries(RATINGS.map(o=>[o.v,o.em+" "+o.label]));
+    function buildText(){
+      if(view==="arc"){
+        let out=`【リサ評価 アーカイブ】\n`,any=false;
+        FEEDS.forEach(f=>{const st=storeFor(f.date);f.cards.forEach((c,i)=>{if(!ARCH.has(c.id))return;const r=st[c.id]||{};if(!r.rating&&!r.comment)return;any=true;
+          out+=`\n[${f.date}] [${r.rating?RLAB[r.rating]:"（評価なし）"}] ${c.headline}\n`;if(r.comment)out+=`   💬 ${r.comment}\n`;});});
+        if(!any)out+="\n（アーカイブ内に評価がありません）\n"; return out;
+      }
+      const feed=FEEDS.find(f=>f.date===current),st=storeFor(current);
+      let out=`【リサ評価 ${current}】\n`,any=false;
+      feed.cards.forEach((c,i)=>{const r=st[c.id]||{};if(!r.rating&&!r.comment)return;any=true;
+        out+=`\n${i+1}. [${r.rating?RLAB[r.rating]:"（評価なし）"}] ${c.headline}\n`;if(r.comment)out+=`   💬 ${r.comment}\n`;});
+      if(!any)out+="\n（まだ評価がありません）\n"; return out;
+    }
+    const ov=document.getElementById("ov");
+    document.getElementById("sendbtn").onclick=()=>{document.getElementById("out").value=buildText();ov.classList.add("open");};
+    document.getElementById("close").onclick=()=>ov.classList.remove("open");
+    ov.onclick=e=>{if(e.target===ov)ov.classList.remove("open");};
+    document.getElementById("copy").onclick=()=>{const ta=document.getElementById("out");ta.select();ta.setSelectionRange(0,99999);
+      let ok=false;try{ok=document.execCommand("copy");}catch(e){}
+      if(navigator.clipboard)navigator.clipboard.writeText(ta.value).then(()=>showToast("コピーしました。ラナに貼ってね")).catch(()=>{});
+      showToast(ok?"コピーしました。ラナに貼ってね":"テキストを選択しました。Ctrl+C でコピー");};
+    function showToast(m){const t=document.getElementById("toast");t.textContent=m;t.classList.add("show");setTimeout(()=>t.classList.remove("show"),2400);}
+
+    // ---- boot ----
+    buildCal();
+    if(current) showDay(current); else document.getElementById("greeting").textContent="（データがありません）";
+  </script>
+</body>
+</html>
