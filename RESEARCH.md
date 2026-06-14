@@ -7,7 +7,7 @@
 2. **WebSearch / WebFetch で“今この時期”の新鮮なネタを底まで潜って集める。** 古い一般論は出さない。
 3. **今日の10本**を作る（下記ルール）。
 4. `feeds.js` の `window.LISA_FEEDS` 配列の**先頭に**、今日の日付の新しいオブジェクトを1つ**追加**（過去日は消さない）。
-5. `git add -A && git commit -m "リサーチ自動更新 <YYYY-MM-DD>" && git push`（main へ）。
+5. `git add -A && git commit -m "リサーチ自動更新 <YYYY-MM-DD>" && git push origin HEAD:main`（必ず main へ・作業ブランチに残さない）。
 6. `index.html` / `*.png` / `manifest.webmanifest` は**触らない**。
 
 ## 10本のルール
