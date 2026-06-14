@@ -8,15 +8,16 @@
 - **feeds.js を直接手で書き換えてはいけない。** 必ず `today.json` を書いて `node merge.js` を走らせる。
 
 ## 今日やること（順番）
+0. **「今日」は必ず日本時間（JST）で決める。** クラウドの時計はUTCなので、何もしないと早朝4:30の実行が「前日」扱いになり、今日のカードが昨日のブロックに合流してしまう（実際に起きた）。最初に **`TZ=Asia/Tokyo date +%Y-%m-%d`** を実行し、その値を today.json の `date` と commit メッセージの両方に使う。**UTCの `date` は使わない。**
 1. **まず `feeds.js` を読む**（中身は `window.LISA_FEEDS = [ {date, greeting, cards:[...]}, ... ]`・新しい日が先頭）。**過去すべての見出しを読み、同じネタは二度出さない**（重大な新展開・続報なら可、その旨 layer に明記）。
 2. **WebSearch / WebFetch で“今この時期”の新鮮なネタを底まで潜って集める。** 古い一般論は出さない。検索は年・月で絞り（例：`2026`／直近表記）、**公開90日より古いニュースは主役にしない**（詳細は「10本のルール」の鮮度）。
 3. **今日の10本**を作る（下記ルール）。
-4. **`today.json` を書く**（下記の形・**厳密な有効JSON**）。今日の `{date, greeting, cards:[…10枚…]}` だけ。
+4. **`today.json` を書く**（下記の形・**厳密な有効JSON**）。今日の `{date, greeting, cards:[…10枚…]}` だけ。`date` は手順0のJST日付。
 5. **`node merge.js` を実行する。**
    - 成功すると `✓ feeds.js 更新OK。総日数 N …` と出る＝過去日が全部残ったまま今日が足された証拠。
    - エラーや `✗` が出たら、**feeds.js は触られていない（サイトは無傷）**。`today.json` を直して**もう一度 `node merge.js`**。feeds.js を手で直さない。
    - 同じ日付が既にあれば、merge.js が**既存カードを残して非重複ぶんだけ追加**する（差し替えない）。
-6. `git add -A && git commit -m "リサーチ自動更新 <YYYY-MM-DD>" && git push origin HEAD:main`（必ず main へ・作業ブランチに残さない）。
+6. `git add -A && git commit -m "リサーチ自動更新 <手順0のJST日付>" && git push origin HEAD:main`（必ず main へ・作業ブランチに残さない）。
 7. `index.html` / `merge.js` / `*.png` / `manifest.webmanifest` は**触らない**。
 
 ## 10本のルール
