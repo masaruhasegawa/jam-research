@@ -28,9 +28,10 @@
   .shipping-banner{background:var(--charcoal);color:var(--white);text-align:center;padding:9px 16px;font-family:var(--font-en);font-size:.7rem;font-weight:500;letter-spacing:.14em;text-transform:uppercase}
   .mast{position:sticky;top:0;z-index:40;background:rgba(249,248,246,.97);backdrop-filter:blur(20px);border-bottom:1px solid var(--border)}
   .mast-top{display:flex;justify-content:space-between;align-items:center;padding:8px clamp(16px,5vw,28px);font-family:var(--font-en);font-size:.64rem;letter-spacing:.14em;text-transform:uppercase;color:var(--gray-500)}
-  .mast-mid{text-align:center;padding:6px 0 12px}
-  .mast-logo{font-family:var(--font-logo);font-weight:900;color:var(--enji);font-size:clamp(1.6rem,5vw,2.5rem);line-height:1}
-  .mast-sub{font-family:var(--font-en);font-size:.66rem;font-weight:600;letter-spacing:.34em;text-transform:uppercase;color:var(--gray-700);margin-top:6px}
+  .mast-mid{text-align:center;padding:10px 0 12px}
+  .mast-title{font-family:var(--font-en);font-weight:700;font-size:clamp(1.4rem,4.4vw,2.1rem);letter-spacing:.16em;text-transform:uppercase;color:var(--black);line-height:1}
+  .mast-title span{color:var(--enji)}
+  .mast-sub{font-family:var(--font-en);font-size:.62rem;font-weight:600;letter-spacing:.3em;text-transform:uppercase;color:var(--gray-500);margin-top:9px}
 
   /* ===== Subtitle nav (HP nav 準拠・テキストリンク) ===== */
   .subnav{display:flex;justify-content:center;align-items:center;gap:32px;margin-top:15px;position:relative}
@@ -144,12 +145,12 @@
 </style>
 </head>
 <body>
-  <div class="shipping-banner">jam cycle research desk — curated, not algorithmic</div>
+  <div class="shipping-banner">research desk — curated, not algorithmic</div>
   <header class="mast">
     <div class="mast-top"><span>Lisa's Research</span><span id="topDate">—</span></div>
     <div class="mast-mid">
-      <div class="mast-logo">jam cycle</div>
-      <div class="mast-sub">Research Desk · リサのリサーチ</div>
+      <div class="mast-title">RESEARCH <span>DESK</span></div>
+      <div class="mast-sub">リサのリサーチ</div>
       <nav class="subnav">
         <button class="navlink" id="calLink">CALENDAR</button>
         <button class="navlink arc" id="arcLink">ARCHIVE<span class="n" id="arcN">0</span></button>
