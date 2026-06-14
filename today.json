@@ -1,0 +1,171 @@
+{
+  "date": "2026-06-14",
+  "greeting": "おはようございます、マサルさん！ 今朝の追加リサーチ、10本。契約なきフルームは海上225kmで表舞台へ、キンタナは涙の『ラストダンス』。機材はUCIの『ハンドル幅400mm』規制とフックレス退潮で潮目が変わり、ホイールは深さより内幅へ。国内は4月始動の青切符と『値上げの年』、あさひ減益が市場の答え合わせです。",
+  "cards": [
+    {
+      "id": "20260614-froome-pelagos",
+      "genre": "race",
+      "genreLabel": "RACE",
+      "genreJa": "レース",
+      "hot": false,
+      "image": "https://cdn.mos.cms.futurecdn.net/wBVkghci5Kxr5rSHsLFV9.jpg",
+      "headline": "チーム無き4度のツール王フルームが、6/19『海上自転車225km』で表舞台に帰ってくる",
+      "layer1": "2026年も所属先が決まらない41歳クリス・フルームが、6月19〜20日にイタリア・ヴィアレッジョからモナコまで地中海225kmを『ウォーターバイク（足こぎ水上自転車）』で渡るチャリティ横断『Together Crossing for the Pelagos』に参加する。",
+      "layer2": "これはただの余興ではない。フルームは昨年9月のトレーニング中の落車で『生命に関わる』重傷を負っており、これが事実上の復帰の場となる。イスラエル・プレミアテックとの契約は昨季限りで更新されず、ロードの現役に戻れるかは宙に浮いたまま——ツール級の英雄が、プロ契約ではなく海上のペダルでカムバックを切る構図が胸を打つ。主催はモナコのアルベール大公とシャルレーヌ公妃で、ペラゴス海洋保護区の生き物を守る募金が目的。元プロのフグルサン、ポッツァートらと走る。フルームの正式な引退表明は出ておらず、現役未練の行方は曖昧。横断の参加人数『32名・8チーム』は媒体間で一致するが念のため※要裏取り。",
+      "sources": [
+        {"t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/chris-froome-returns-to-action-in-pedal-boat-charity-race-across-the-mediterranean-sea/", "d": "2026-06-11"},
+        {"t": "Cycling Weekly", "u": "https://www.cyclingweekly.com/racing/chris-froome-to-cycle-across-mediterranean-for-charity-with-jakob-fuglsang-and-filippo-pozzato", "d": "2026-06"}
+      ],
+      "status": "確定＝6/19-20開催・225km・ヴィアレッジョ→モナコ・フルーム参加・主催はモナコ公室・昨年9月の重傷からの復帰の場。曖昧＝フルームのロード現役復帰の見通し（正式な引退表明なし）。参加人数は※要裏取り。"
+    },
+    {
+      "id": "20260614-quintana-lastdance",
+      "genre": "race",
+      "genreLabel": "RACE",
+      "genreJa": "レース",
+      "hot": false,
+      "image": "https://cdn.mos.cms.futurecdn.net/fYZqEXpTg3xmK2PVkBYsUh.jpg",
+      "headline": "『すべて終わった。家族のもとへ帰る』——ナイロ・キンタナの“ラストダンス”が静かに進行中",
+      "layer1": "ジロ／ブエルタ覇者ナイロ・キンタナ（36）が、2026年シーズン限りでの現役引退を表明。3月のカタルーニャ一周前会見で『これで終わり。すべて終わった。そして家族のもとへ帰る』と涙ながらに語り、今季を『最後のダンス』として走ると宣言した。",
+      "layer2": "コロンビアの英雄のキャリアの幕引きが、まさに今この6月に進んでいる。2013年ツール総合2位、2014年ジロ、2016年ブエルタ制覇という黄金期の後、2022年ツールでのトラマドール陽性による失格→事実上の追放を経て、2023年にモビスターへ復帰した苦難の物語が背景にある。引退の花道にも陰りが——当初『ブエルタが最後のレース』と報じられたが、その後スペイン紙マルカは『2026年はグランツール出走なし』の見込みと報道し、先のジロが彼の最後の3週間レースになる可能性が浮上。最大の舞台で有終を飾れないまま終わる恐れがあり、最終レースの行方は曖昧。キャリア年数は媒体間で16年/17年と揺れ※要裏取り。",
+      "sources": [
+        {"t": "Cycling Weekly", "u": "https://www.cyclingweekly.com/racing/it-is-all-over-grand-tour-champion-and-tour-de-france-podium-finisher-nairo-quintana-announces-retirement", "d": "2026-03-23"},
+        {"t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/former-tour-de-france-runner-up-and-multiple-grand-tour-champion-nairo-quintana-announces-retirement-for-end-of-season/", "d": "2026-03"},
+        {"t": "CyclingFlash", "u": "https://cyclingflash.com/news/no-grand-tour-for-nairo-quintana-in-his-farewell-year", "d": "2026-04"}
+      ],
+      "status": "確定＝2026シーズン限りで引退・3月カタルーニャ前に会見で表明・主要戦績・22年失格→23年復帰。曖昧＝最終レースがブエルタかどうか（マルカは26年グランツール出走なしと報道）。キャリア年数は※要裏取り。"
+    },
+    {
+      "id": "20260614-princeton-wake-6560-evo2",
+      "genre": "wheel",
+      "genreLabel": "WHEEL",
+      "genreJa": "ホイール",
+      "hot": false,
+      "image": "https://cdn.road.cc/wp-content/uploads/2026/02/Princeton-CarbonWorks-Wake-6560-Evolution-II-wheels-1024x683.jpg",
+      "headline": "Princeton『Wake 6560 Evolution II』——UCIリム高規制を逆手に『最速のUCI公認ホイール』主張",
+      "layer1": "Princeton CarbonWorksが新型『Wake 6560 Evolution II』を発表。製品名どおりリム高を60〜65mmに収め、深リム合戦に上限がかかる流れの中で『これまで風洞で計測した中で最速のUCI公認ホイール』と主張する。",
+      "layer2": "確定値——フックドリム、内幅22mm（前作21mmから拡大）、外幅33mm（同28.2mmから大幅拡大）、重量1,250gから、リム単体で1本約50g減（前作比約10%軽量）、価格3,550〜4,500ドル。空力はLuca Oggiano／NablaflowとのCFDで23〜32mmタイヤ×内幅21〜24mmを総当たり最適化、耐衝撃は120J超（UCI要求40Jの約3倍）。曖昧——『最速』は同社風洞での自社比較で第三者の横並び実測なし、英国価格未定（※要裏取り）。本質は『深さでなく内幅と断面形状で稼ぐ』方向転換で、内幅22〜25mm化は弊社取り扱いの中華カーボン（8LIENの25mm内幅化など）とも同じ潮流。",
+      "sources": [
+        {"t": "road.cc", "u": "https://road.cc/tech-news/princeton-carbonworks-unveils-wake-6560-evolution-ii-claiming-fastest-uci-legal-wheel-weve-tested", "d": "2026-02-26"},
+        {"t": "Escape Collective", "u": "https://escapecollective.com/princeton-carbonworks-reveals-new-wake-6560-evolution-ii/", "d": "2026-02"}
+      ],
+      "status": "確定＝リム高60-65mm・内幅22mm・外幅33mm・1,250gから・3,550〜4,500ドル・フックド。曖昧＝『最速UCI公認』は自社風洞比較のみで第三者横並び実測なし、英国価格未定（※要裏取り）。"
+    },
+    {
+      "id": "20260614-lightbicycle-aerorevo-cockpit",
+      "genre": "parts",
+      "genreLabel": "PARTS",
+      "genreJa": "パーツ",
+      "hot": false,
+      "image": "https://www.lightbicycle.com/light-bicycle/AeroRevo-Integrated-Road-Handlebar/light-bicycle-aerorevo-integrated-road-handlebar-uci-compliant.jpg",
+      "headline": "中華カーボンLight Bicycleの一体コックピット『AeroRevo』が欧州デザイン賞受賞——価格破壊から『設計主導』へ",
+      "layer1": "中華カーボンのLight Bicycleが一体型コックピット『AeroRevo』を投入し、権威ある2026 Design & Innovation Awardを受賞。低価格OEMの印象が強かった中華勢が、コックピット領域でも自社設計で欧州の賞を獲る段階に入った。",
+      "layer2": "確定値——AeroRevoは250gから（±15g）、NACA断面のモノコック構造、ステム角-10°、18サイズ展開、価格410ドルから。幅は340/380・360/400・375/415・395/435mm（フード／ドロップ）。背景として、2026年1月施行のUCI新規制でロードのハンドル幅が下限400mm（外-外）に縛られ、極狭バー競争に上限がかかったため、各社は『規制適合かつ速い』設計で勝負する局面にある（規制の詳細は別カードのトレンド枠を参照）。曖昧——AeroRevoの正確な発売日は明記なし、実走インプレは未出（※要裏取り）。中華カーボンが価格だけでなく設計で評価され始めた象徴で、弊社取り扱いブランドの付加価値訴求にも示唆。",
+      "sources": [
+        {"t": "Light Bicycle 公式", "u": "https://www.lightbicycle.com/AeroRevo-Integrated-Road-Handlebar.html", "d": "2026"},
+        {"t": "Design & Innovation Award", "u": "https://design-innovation-award.com/winner/light-bicycle-aerorevo-road-handlebar/", "d": "2026"},
+        {"t": "road.cc（UCI規制背景）", "u": "https://road.cc/content/tech-news/toot-engineering-takes-controversial-uci-bar-width-rules-317015", "d": "2025-11-26"}
+      ],
+      "status": "確定＝AeroRevoは250gから・410ドルから・18サイズ・2026 Design & Innovation Award受賞。曖昧＝正確な発売日・実走インプレは未出（※要裏取り）。"
+    },
+    {
+      "id": "20260614-aokippu-debut",
+      "genre": "beginner",
+      "genreLabel": "BEGINNER",
+      "genreJa": "初中級",
+      "hot": true,
+      "image": "https://www.sompo-direct.co.jp/otona/oshiete/image/article/bicycle-blue-ticket-kv.jpg?20251027",
+      "headline": "2026年4月スタートの自転車『青切符』——初中級ローディーが今すぐ直すべき5つの違反",
+      "layer1": "2026年4月1日から16歳以上の自転車に反則金制度（青切符）が導入。これまで警告止まりだった違反が、その場で反則金の対象になった。ロードに乗る人ほど無意識にやりがちな行為が並ぶ。",
+      "layer2": "確定の反則金——ながらスマホ＝12,000円、信号無視＝6,000円、逆走・指定外の歩道通行など＝6,000円、イヤホン運転＝5,000円、一時不停止＝5,000円。納付すれば前科はつかない。ローディーが特に注意すべきは（1）信号のない交差点での一時不停止（2）走行中のサイコン操作＝ながらスマホ扱いの恐れ（停止して操作が無難）（3）並走＝3,000円（4）指定外の歩道走行（5）逆走。マサルさんの店では『初心者ほど歩道に逃げがち＝逆走・歩道通行で6,000円リスク』という導線で接客に使える。違反は約113項目あり、取り締まり頻度や初期運用の厳しさは施行直後で実データが乏しく、ここは※要裏取り。",
+      "sources": [
+        {"t": "政府広報オンライン", "u": "https://www.gov-online.go.jp/article/202410/entry-6604.html", "d": "2024-10"},
+        {"t": "SOMPOダイレクト おとなの自動車保険", "u": "https://www.sompo-direct.co.jp/otona/oshiete/car/bicycle-blue-ticket.html", "d": "2025-10-27"},
+        {"t": "三菱UFJ銀行 コラム", "u": "https://www.bk.mufg.jp/column/others/b0112.html", "d": "2026-03-31"}
+      ],
+      "status": "確定＝施行日2026/4/1・16歳以上対象・反則金額（ながらスマホ12,000／信号無視6,000／逆走・歩道6,000／イヤホン5,000／一時不停止5,000）・前科なし。曖昧＝実際の取り締まり頻度と初期運用の厳しさ（※要裏取り）。"
+    },
+    {
+      "id": "20260614-uci-hbar-hookless",
+      "genre": "trend",
+      "genreLabel": "TREND",
+      "genreJa": "トレンド",
+      "hot": false,
+      "image": "https://cdn.road.cc/wp-content/uploads/roadcc/oho2161-1024x683.jpg",
+      "headline": "2026年の機材潮流が反転——UCIが『極狭ハンドル』に規制、フックレスは退潮へ",
+      "layer1": "2026年1月1日からUCIがロード／シクロクロスのマスドレースでハンドル幅を規制（最小幅・内側寸法・フード角度に上限）。エアロ目的の超狭ハンドルと内向きフードの流れに歯止め。同時にプロ現場ではフックレスリム採用が縮小に転じている。",
+      "layer2": "確定——UCI新規定はマスドレースで全体幅400mm（外〜外）を最低ラインとし、内側280mm・フレア最大65mm・フード位置（ハンドル外端からレバー内側まで50mm以内）を規定。狙いは『ハンドル幅で一定の空気抵抗を確保し速度を抑える』安全策。UCIは2026年中に測定方法を見直す可能性を残し、最終数値は流動的（※要裏取り）。潮流——フックレスリムは安全懸念から退潮との分析が複数。2025年ツールでフックレス採用チームが約半減し、フック付き／ミニフックへ回帰の動き。マサルさんの店では『超狭ハンドルはレースで不可＝極端なエアロ化は一段落』『高圧運用の細タイヤ×フックレスは慎重に、フック付きホイールが再評価』という説明が初中級者への提案に使える。フックレス完全終焉と断定はまだ早く予測ベース（※要裏取り）。",
+      "sources": [
+        {"t": "road.cc", "u": "https://road.cc/content/tech-news/handlebars-uci-minor-relaxation-controversial-handlebar-rule-316081", "d": "2025-09-25"},
+        {"t": "BikeRadar", "u": "https://www.bikeradar.com/features/tech/uci-handlebar-width-rules-2026", "d": "2025-06-13"},
+        {"t": "ロードバイクはやめられない（chan-bike）", "u": "https://chan-bike.com/what-will-road-bike-equipment-look-like-in-2026", "d": "2026-01-02"}
+      ],
+      "status": "確定＝UCIハンドル幅規制が2026/1/1施行（全体幅400mm最低・内側280mm・フレア65mm・フード50mm）・狙いは安全／減速。曖昧＝2026年中の測定方法見直しの可能性、フックレス退潮は予測・トレンド分析ベース（いずれも※要裏取り）。"
+    },
+    {
+      "id": "20260614-shimano-priceup-wave",
+      "genre": "market",
+      "genreLabel": "MARKET",
+      "genreJa": "国内市場",
+      "hot": false,
+      "image": "https://bike-memo.com/wp-content/uploads/2026/01/zakki_C110.jpg",
+      "headline": "2026年は『値上げの年』——シマノ8/1改定＋ピナレロ・トレックが相次ぎ価格改定、完成車はまた上がる",
+      "layer1": "シマノが2026年8月1日からペダル・シューズ・クリート・LAZERヘルメット等を価格改定（PD-R7000 23,928→25,125円など、概ね2〜5%増）。完成車側もピナレロが1/21に改定、トレックは2〜3月に3〜5%、ジャイアント／メリダは春以降5〜8%の値上げが見込まれる。",
+      "layer2": "確定——シマノ公式の8/1改定（対象カテゴリと改定額）、ピナレロ1/21改定は告知ベースで確度高。曖昧——完成車各社の値上げ幅は『3〜5%』『5〜8%』等の業界予測で、メーカー正式発表前のものは※要裏取り。経営インパクト——完成車原価の3〜4割を占めるコンポ価格が押し上げ要因。10〜20万円のエントリー帯が最も影響を受け、10万円未満の実用ロードはほぼ消滅方向。打ち手は『改定前の駆け込み訴求』と、値上げ後を見据えた高単価メンテ・パーツ交換・中古下取りの収益化。低価格新車で集客する従来モデルは厳しくなるため、在庫は型落ち消化を急ぎ、入荷は値上げ幅の大きいエントリー帯を絞るのが定石。",
+      "sources": [
+        {"t": "シマノ公式 価格改定のお知らせ", "u": "https://shop-jp.shimano.com/blogs/news/price_update", "d": "2026-06"},
+        {"t": "バイクメモ 2026ロードバイク値上げ速報", "u": "https://bike-memo.com/cycle_260113_price-up/", "d": "2026-01-13"}
+      ],
+      "status": "確定＝シマノ8/1改定（対象・改定額）、ピナレロ1/21改定。曖昧＝トレック・ジャイアント等の完成車値上げ幅は業界予測（※要裏取り）。"
+    },
+    {
+      "id": "20260614-asahi-q4-pivot",
+      "genre": "market",
+      "genreLabel": "MARKET",
+      "genreJa": "国内市場",
+      "hot": false,
+      "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2391415022122025000000-1.jpg?ixlib=js-3.8.0&w=638&h=359&auto=format%2Ccompress&fit=crop&bg=FFFFFF&s=f284021431d2393a4848abfa0fdd0ef1",
+      "headline": "あさひが減益、新車は買い控え・伸びるのは『修理とパーツ』——『値下げしてる／してない』論争の答え合わせ",
+      "layer1": "最大手あさひの2026年2月期は最終減益。物価高の節約志向で新車の買い替え需要が低迷し、一般車・子供車は計画比約1割減。一方で電動アシストの単価増と『部品交換ニーズ』は底堅い、と日経。ブログ・Xでは『2026年、ロードは値下がりしたのか？』論争が続く。",
+      "layer2": "確定——あさひ減益と『新車不振・部品交換は底堅い』という構図（日経・あさひIR）。曖昧——純利益の正確な減少率は12月の下方修正報道（純利益約26億・前年比26%減）と通期実績報道（純利益約22.68億・36.2%減）で数字が割れるため※要裏取り（IR短信で確認）。論争の核心は『定価は高止まり・実売は下落』——希望価格は円安・部材高で下がらないが、店頭は型落ち大幅値引きで実質的に買いやすくなった、という構図。マサルへの示唆——完成車の薄利販売だけでは大手と同じく利益が削られる。あさひですら稼ぎ頭が修理・パーツ・電アシに移っているのが市場の答え。個人プロショップの勝ち筋は、値引き競争でなく工賃・フィッティング・メンテ会員化など高粗利サービスへの軸足移動。",
+      "sources": [
+        {"t": "日本経済新聞 あさひ一転最終減益に", "u": "https://www.nikkei.com/article/DGXZQOUF223300S5A221C2000000/", "d": "2025-12-22"},
+        {"t": "サトユキブログ 2026ロードバイクは本当に値下がりしている？", "u": "https://satoyukiblog.com/2026/03/09/2026-road-bike-prices-are-they-actually-dropping/", "d": "2026-03-09"}
+      ],
+      "status": "確定＝あさひ減益・新車不振／部品交換は底堅い、実売値引きの存在。曖昧＝純利益の正確な減益率（報道で26%減と36%減が割れる）、店頭値引き幅は記事ベース（※要裏取り）。"
+    },
+    {
+      "id": "20260614-tukus-pro-shift",
+      "genre": "trend",
+      "genreLabel": "TREND",
+      "genreJa": "トレンド",
+      "hot": false,
+      "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2026/02/Tukus-Chinese-carbon-cycling-wheels-and-wheelsets-1200x800.png?media=1716897874",
+      "headline": "Tukus（中華新興ホイール）が『格安』から脱皮——五輪王者契約・UCI認証・旗艦C88NEOで本気モードへ",
+      "layer1": "2020年創業の中華新興ホイールブランドTukusが、五輪トラック金メダリスト鍾天使（Zhong Tianshi）との契約・UCI認証取得・88mmハイトの旗艦『Bluefin C88NEO』投入で、格安OEM勢から『性能で勝負する世界ブランド』へ路線転換を鮮明にしている。",
+      "layer2": "確定——Bluefinはスチールスポーク版で実測約1,300g、限定『Rainbow』は約1,340g、第4世代カーボンスポーク＋RD18プラネタリーラチェットハブ＋セラミックBBを採用。曖昧——C88NEOの実走インプレ（剛性・制動・ハブ掛かり・耐久）は媒体側がまだレビュー予告段階で第三者検証はこれから（※要裏取り）。読み筋——9Velo・Tukusら『工場直系ブランドの選手スポンサー＋UCI認証』の動きは2026年の中華新興勢の共通テンプレ。弊社取り扱い（8LIEN／CRW／GOOSYNN／NEPEST／FARSPORTS／PARTICLE）と価格帯が競合し始める領域なので、性能訴求の比較トークが要る。",
+      "sources": [
+        {"t": "Velo Fanatics", "u": "https://www.velofanatics.com/tukus-wheels-carbon-chinese-cycling-wheels/", "d": "2026-02-15"},
+        {"t": "Cyclingnews（Winspace Orange Seal 2026参考）", "u": "https://www.cyclingnews.com/road/teams/uci-womens-proteam/2026/winspace-orange-seal/", "d": "2026-01"}
+      ],
+      "status": "確定＝五輪王者契約・UCI認証・C88NEO投入と主要スペック（約1,300g／第4世代スポーク／RD18ハブ）。曖昧＝C88NEOの第三者実走データは未公開（※要裏取り）。"
+    },
+    {
+      "id": "20260614-sram-xplr-13s-gravel",
+      "genre": "parts",
+      "genreLabel": "PARTS",
+      "genreJa": "パーツ",
+      "hot": false,
+      "image": "https://images.theradavist.com/uploads/2024/07/SRAM-RED-XPLR-11-1.jpg",
+      "headline": "SRAMが13速で先手——RED XPLR AXSはハンガーレス『フルマウント』13速グラベル、シマノは初の完全ワイヤレスXTR Di2でMTBから追走",
+      "layer1": "SRAMはグラベル向けRED XPLR AXSをUDH対応・ハンガーレスの『フルマウント』13速RDで投入（1x、12-46Tでレンジ460%、レバー操作力を従来比約20%軽減）。一方シマノは2025年6月にMTBで初の完全ワイヤレスXTR Di2（RD内蔵バッテリー＝SRAM Transmission型レイアウト）を出し、ワイヤレス化で正面から追走する構図。",
+      "layer2": "確定——RED XPLRは12tスタート・最大46Tでレンジ460%、MTB Transmission譲りのフルマウント機構、パワメ内蔵RED carbonクランク。確定——XTR Di2はシートポスト電池・配線を廃しRDバッテリー駆動でシマノ初の完全ワイヤレス。曖昧——媒体筋はワイヤレスが今後ロード／グラベルへ波及し、ロード・グラベル・MTBの相互互換（SRAMエコシステム型）への道が開く可能性を指摘するが、シマノはカンパ流の非対称バッテリー方式を採る可能性（※要裏取り）。注——本件は『シマノ13速デュラR9300ロードリーク』とは別件で、こちらはSRAMの市販グラベル13速＋シマノMTB無線。",
+      "sources": [
+        {"t": "Bikerumor", "u": "https://bikerumor.com/sram-force-rival-axs-12-xplr-13-groupsets-road-gravel/", "d": "2025-06"},
+        {"t": "Cyclingnews", "u": "https://www.cyclingnews.com/news/shimano-finally-goes-wireless-with-xtr-di2-but-what-does-this-mean-for-future-road-and-gravel-groupsets/", "d": "2025-06-04"},
+        {"t": "The Radavist", "u": "https://theradavist.com/sram-red-xplr-axs-review", "d": "2024-07"}
+      ],
+      "status": "確定＝RED XPLR 13速の主要スペック（460%／フルマウント／操作力20%減）とXTR Di2が完全ワイヤレスである点。曖昧＝今後のロード／グラベル無線化の時期と相互互換・特許回避の方式は推測（※要裏取り）。"
+    }
+  ]
+}
