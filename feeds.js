@@ -2,239 +2,177 @@
 window.LISA_FEEDS = [
   {
     "date": "2026-06-14",
-    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。国内市場の話題（青切符・中華の評価）も入れました。聞いてください！",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。TdF開幕まで20日・スイスは3日後スタート。カンパ13速登場・UCI規制動く・中華パワーメーターが来てます。",
     "cards": [
       {
-        "id": "20260614-tirewidth",
-        "genre": "trend",
-        "genreLabel": "TREND",
-        "genreJa": "トレンド",
+        "id": "20260614-tdf2026",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
         "hot": true,
-        "image": "https://cdn-jupiter.metropolis.co.uk/wp-content/uploads/sites/9/2026/04/Paris-Roubaix-Bikes-42-scaled.webp",
-        "headline": "プロの「28c」は、もう28mmじゃない ── 30〜32mm時代の“ラベル vs 実測”",
-        "layer1": "メディアは「30〜32mmが新標準」と煽る。レースでも太タイヤ化が進み、「太いほど速い」のはリムがそのタイヤ向けに設計されている時だけ（理想内幅21〜25mm）、と言われる。",
-        "layer2": "実レースの装着を底まで見ると——32mmはまだ“石畳クラシック専用”。パリ〜ルーベ2026はほぼ全チーム32mm（ファンデルプール/ファンアールト、ポガチャルは前35/後32異径）で空気圧3.5〜4.5bar。一方、普段のレースの標準は依然28c。ただしポガチャルの28cはENVE（内幅23.5mm）で実測31.25mm。30mm採用は過去最多（Intermarché全員30mm/UAE30mm）だが標準化ではない。直近のオーヴェルニュ2026山岳系はConti勢28mm選択。＝「32mmは時期尚早」ではなく、プロは事実上もう30mm級を走らせている。ただし“ラベルの28c”と“石畳専用の本物の32mm”は別物。",
+        "image": "",
+        "headline": "ツール・ド・フランス2026、7月4日開幕 ── 1971年以来初のTTT開幕、アルプ・デュエズを2日連続で登る異例コース",
+        "layer1": "バルセロナ Grand Départ（チームTT 19.7km）→ 21ステージ・3,333km・5万4,450m獲得標高。最終週にアルプ・デュエズ連続頂上ゴール（S19＆S20）とモンマルトルの石畳フィナーレ。ポガチャル・ヴィンゲゴー・エヴェネプール三つ巴が最大焦点。",
+        "layer2": "コース設計の「意図」を読むと——開幕TTTはチーム力が問われ、UAE（ポガチャル）とヴィスマ（ヴィンゲゴー）のTT力は僅差（推定差22秒程度）。第1週にピレネー、最終週にアルプスの二段構え。S20はクロワ・ド・フェール→テレグラフ→ガリビエ→サレンヌ→アルプ・デュエズの超級コース、S19も同じ頂上ゴールで「2日連続登頂」は前代未聞に近い。ワイルドカードはPlateau de Solaison（平均9.1%・11.3km、2026最難関勾配）。エヴェネプールはS16 ITTで大きなアドバンテージを狙える。最終週まで総合争いが続く設計。",
         "sources": [
-          {
-            "t": "BikeRadar TdF2025 tyre tech",
-            "u": "https://www.bikeradar.com/features/tech/tour-de-france-2025-pro-road-tyre-tech"
-          },
-          {
-            "t": "Cyclist Paris-Roubaix bikes 2026",
-            "u": "https://www.cyclist.co.uk/in-depth/paris-roubaix-bikes-2026"
-          },
-          {
-            "t": "BikeRadar Auvergne-Rhône-Alpes 2026",
-            "u": "https://www.bikeradar.com/features/tech/5-tech-trends-from-the-2026-tour-auvergne-rhone-alpes"
-          }
+          {"t": "CyclingArchives TdF2026 stage schedule", "u": "https://cyclingarchives.com/tour-de-france-2026-dates-complete-stage-schedule-rest-days-barcelona-grand-depart/"},
+          {"t": "cyclinguptodate route & profiles", "u": "https://cyclinguptodate.com/cycling/profiles-route-tour-de-france-2026-alpe-dhuez-on-stage-19-and-20-7-mountain-stages-and-montmarte-cobblestones"},
+          {"t": "Domestique stage-by-stage guide", "u": "https://www.domestiquecycling.com/en/features/tour-de-france-2026-stage-by-stage-guide/"}
         ],
-        "status": "確定＝ルーベ32mm・TdF2025の28c実測31mm・30mm採用増。曖昧＝ポガ2026異径の他媒体確認／「30-32新標準」系ブログは一次でない（対比で使う）。"
+        "status": "確定＝日程(7/4〜26)・バルセロナTTT・3,333km・5万4,450m・アルプ・デュエズ×2（複数媒体）。曖昧＝優勝予測（レース前・断言しない）。"
       },
       {
-        "id": "20260614-dauphine",
+        "id": "20260614-tds2026",
         "genre": "race",
         "genreLabel": "RACE",
         "genreJa": "レース",
         "hot": false,
-        "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/Decathlon-CMA-CGM-Team/CORVOS_00038886-263.jpg?width=2400&height=1260&quality=75&crop=8021%2C4212%2C0%2C567",
-        "headline": "ドフィネが「ツール・ド・オーヴェルニュ＝ローヌ＝アルプ」に改名",
-        "layer1": "78回目から正式に名称変更。地域への敬意とサイクリング人気拡大が理由。今年はポガ＆ヴィンゲ不在で、ザイシャス/デル・トロ/アユソら次世代の主役争いが話題。",
-        "layer2": "改名そのものは複数媒体で裏取り済み。ただし2026優勝者・結果は未確認＝断言しない。並行して、ツール・ド・スイス（ポガチャル初出走）は今レース中（6/17〜21、6/20クイーンステージ）＝結果が出たら“続報”で。",
+        "image": "",
+        "headline": "ツール・ド・スイス2026、3日後スタート ── ポガチャル初出走、史上初のイタリア（ソンドリオ）発",
+        "layer1": "6月17〜21日（5ステージ）。89回目にして初めてイタリア（ソンドリオ）スタート。ポガチャルがTdF前最後の試金石として初出走。前年王者アルメイダが3連覇を狙う。ヴァン・デル・プールも参戦。",
+        "layer2": "スタートリストとコースを確認すると——S1はソンドリオ周回109km、序盤は平坦→終盤90kmで複数峠、スプリントまたは逃げ決着か。S5の頂上ゴール（ヴィラール・シュル・オロン）が総合決着ステージ。ポガチャルはツール・ド・ロマンディ圧勝後で調子良好・筆頭候補。TdFバルセロナ開幕まで残り17日なので疲弊させず勝つのが狙い。注目点は「ポガチャルがどのリズムでTdFに入るか」＝仕上がりの確認レース。2025ダウフィネから「ツール・ド・オーヴェルニュ」と改名されたレースを経て、スイスが事実上TdF唯一の前哨戦に格上げされた年。",
         "sources": [
-          {
-            "t": "Yahoo Sports（改名確認）",
-            "u": "https://sports.yahoo.com/articles/criterium-du-dauphin-now-known-211855144.html"
-          },
-          {
-            "t": "Domestique 2026 preview",
-            "u": "https://www.domestiquecycling.com/en/features/criterium-du-dauphine-2026-preview-seixas-takes-centre-stage-ahead-of-historic-tour-debut/"
-          }
+          {"t": "CyclingArchives TdS2026 preview", "u": "https://cyclingarchives.com/tour-de-suisse-2026-preview-pogacar-debut-almeida-three-peat-defence-5-stage-sondrio-villars-sur-ollon/"},
+          {"t": "idlprocycling startlist 2026", "u": "https://www.idlprocycling.com/cycling/tour-de-suisse-2026-startlist-pogacar-van-der-poel-pidcock-and-more-at-tour-de-france-warm-up"},
+          {"t": "cyclinguptodate stages & route", "u": "https://cyclinguptodate.com/cycling/tour-de-suisse-2026-preview-stages-favourites-predictions"}
         ],
-        "status": "確定＝改名。曖昧＝2026優勝者は未確認。"
+        "status": "確定＝日程(6/17〜21)・5ステージ・初イタリア発・出走メンバー（複数媒体）。曖昧＝優勝者は未確定（レース前）。"
       },
       {
-        "id": "20260614-mucoff",
+        "id": "20260614-campa-record13",
         "genre": "parts",
         "genreLabel": "PARTS",
         "genreJa": "パーツ",
         "hot": false,
-        "image": "https://c02.purpledshub.com/uploads/sites/39/2026/03/Muc-Off-Dark-Energy-chain-lube_20260312_SvB_A6300_BR_9025-scaled.jpg?w=1200",
-        "headline": "Muc-Off 初のワックス系「Dark Energy」投入（4年・8,500時間試験）",
-        "layer1": "Muc-Off がワックス潮流に参戦。ドロッパー式、90超の処方、10万km超実走。社外比較でSilca/Squirt/CeramicSpeedを上回るとされ、1回最大約480km持つと。",
-        "layer2": "発表は2026年3月、6月に競合比較が再燃。ただし“◯◯ワット速い”系の具体数値は媒体間で揺れ＝独り歩きしやすいので観測トーンで。マサルが自分でテストして一次インプレを乗せれば、公称に頼らない“うちにしか書けない”記事になる。",
+        "image": "",
+        "headline": "カンパニョーロ「Record 13」登場 ── ワイヤレス13速がSuperRecordより37%安く、ロードにも5バリエーション",
+        "layer1": "2026年4月29日発売。2×13ロード（Record 13 2×13 Road）€2,699〜。SuperRecord 13比37%安（差額€1,200〜1,600節約）。ロード・グラベル・オールロード×1×/2×の5バリエーション。バッテリー航続750km。",
+        "layer2": "SuperRecordとの実質差を底まで見ると——クランクはチタン軸→ステンレス軸、ベアリングは鋼鉄（SRはセラミック）、一部カーボンパーツをアルミ代替。重量増は数百g程度とされるが正確値は媒体間で揺れ（※要裏取り）。競合と比べると——Shimano Ultegra Di2（約€1,300〜・半額以下）・SRAM Force AXS（€2,400〜）の間に位置。「フルワイヤレス・イタリア製・13速」の付加価値で差別化。SRとRecord間でコンポ互換あり、グレード混在も可。BikeRadarは「カンパニョーロが苦境を脱する大きな一歩」と評価。Ultegra Di2ユーザーが乗り換えを検討するには依然高いが、レコードが「第三の無線グルポ」として選択肢に入る市場が形成されつつある。",
         "sources": [
-          {
-            "t": "Muc-Off公式プレス",
-            "u": "https://muc-off.com/blogs/press/a"
-          },
-          {
-            "t": "BikeRadar Dark Energy",
-            "u": "https://www.bikeradar.com/news/muc-off-dark-energy-wax-lube"
-          },
-          {
-            "t": "Bikerumor",
-            "u": "https://bikerumor.com/muc-off-expands-lubrication-portfolio-with-new-dark-energy-chain-wax/"
-          }
+          {"t": "Cyclingnews Record 13 launch", "u": "https://www.cyclingnews.com/cycling-tech-components/campagnolo-record-returns-with-13-speeds-and-a-more-affordable-price-point/"},
+          {"t": "Bikerumor Record 13 prices & weights", "u": "https://bikerumor.com/campagnolo-record-13-wireless-road-and-gravel-groupset/"},
+          {"t": "BikeRadar opinion", "u": "https://www.bikeradar.com/features/opinion/campagnolo-record-13-is-huge-step-for-the-troubled-brand"}
         ],
-        "status": "確定＝Dark Energyの存在・試験規模。曖昧＝具体ワット数（媒体で揺れ・※要裏取り）。"
+        "status": "確定＝発売日(4/29)・価格(€2,699〜)・37%安・750km電池・5バリエーション（複数媒体）。曖昧＝SR比の正確重量差（媒体間揺れ・※要裏取り）。"
       },
       {
-        "id": "20260614-tubeless",
-        "genre": "beginner",
-        "genreLabel": "BEGINNER",
-        "genreJa": "初中級",
+        "id": "20260614-uci-helmet",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
         "hot": false,
-        "image": "https://c02.purpledshub.com/uploads/sites/39/2024/06/Hutchinson-Blackbird-Racing-Lab-TLR-02.jpg?w=1200",
-        "headline": "「チューブレスって結局どうなの？」が今も初中級の最大の壁",
-        "layer1": "新作カーボンの約68%がチューブレスレディ（22年41%→上昇）。チューブ比でタイヤ2〜4W・セットで4〜8W軽い、6mmまで自己シール、とされる。でも初中級は「セッティング難しそう」で止まっている。",
-        "layer2": "普及率68%やワット数は媒体提示の数字＝「〜とされる」で扱うのが安全（※要裏取り）。本当の壁は数字より心理＝「失敗が怖い」。だから一次情報（実際にやってみた手順・失敗・コツ）が効く。うちのホイールはほぼTLRなので“買った後どうする”を見せられる。",
+        "image": "",
+        "headline": "2026年1月から「TTヘルメット」ロードレース禁止 ── 新ブランドPIKIO LABSがVirginia Tech首位を奪取",
+        "layer1": "UCI規制変更（2026/1/1施行）でTT専用ヘルメットがマスストートレース（ロードレース・CX）での着用禁止に。最低換気要件・耳を覆うシェルの禁止・バイザー禁止が新基準。POC Procenの耳カバーはロードレース使用不可に。",
+        "layer2": "「消費者は何を買えばいい？」を正確に整理すると——禁止されるのは「TTヘルメット」カテゴリのみ（閉鎖型ベンチレーション・耳カバー・バイザー一体型）。Specialized Evade / Giro Aries / Bell Zephyr等の既存エアロロードヘルメットは「ロードヘルメット」カテゴリに収まる限り継続使用OK。注目は新興PIKIO LABS「Si」（OBLIKテクノロジー搭載）がVirginia Tech安全テストで全モデル中1位を記録したこと（2026年）。規制を機に「安全性とエアロを両立した新設計」競争が激化。一般消費者レベルでは「UCI規制 = 上位互換のヘルメットが増える」と前向きに捉えるのが正解。",
         "sources": [
-          {
-            "t": "Yoeleo チューブレスガイド2026",
-            "u": "https://www.yoeleobike.com/blogs/wheels/tubeless-road-bike-wheels-setup-guide"
-          },
-          {
-            "t": "BikeRadar best tubeless tyres 2026",
-            "u": "https://www.bikeradar.com/advice/buyers-guides/best-tubeless-road-tyres"
-          }
+          {"t": "Cyclingnews UCI helmet 2026 classifications", "u": "https://www.cyclingnews.com/news/uci-releases-further-details-on-the-new-2026-road-helmet-classifications/"},
+          {"t": "Bikerumor PIKIO LABS Si", "u": "https://bikerumor.com/upstart-pikio-labs-new-si-road-helmet-with-oblik-technology-tops-virginia-tech-ratings-by-a-lot/"},
+          {"t": "UCI official statement", "u": "https://www.uci.org/pressrelease/uci-statement-on-its-recent-decisions-regarding-changes-to-equipment/39bHGV3T3d3sNHKNe2Rvbx"}
         ],
-        "status": "確定＝TLR普及の方向性。曖昧＝68%・ワット数の具体値（※要裏取り）。"
+        "status": "確定＝2026/1/1施行・TT禁止基準3項目・UCI公式（UCI・Cyclingnews）。曖昧＝各メーカー全モデルの新カテゴリ判定（全数確認は未完・※要確認）。"
       },
       {
-        "id": "20260614-nepest",
+        "id": "20260614-farsports-evos",
         "genre": "wheel",
         "genreLabel": "WHEEL",
         "genreJa": "ホイール",
         "hot": false,
-        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png?media=1716897874",
-        "headline": "中国カーボン界、次の注目は「NEPEST」との声 ── ただし出どころ要確認",
-        "layer1": "2026年の中国カーボンまとめ記事の一つで、NEPESTが「次のブレイクアウトかも」と名指しされていた。",
-        "layer2": "ただし、当たれた大手テスト記事の本文にはNEPESTの実テストが無く、言及は検索スニペット段階＝本文での裏取りが取れていない。断定はしない。出どころの特定が次の宿題。",
+        "image": "",
+        "headline": "FARSPORTS 2026 EVO S、カーボンスポーク3深さ展開・1,280g・$1,700 ── 「業界基準を引き上げた」と各媒体",
+        "layer1": "FARSPORTSが2026モデルEVO Sシリーズをリリース。Tヘッド型カーボンスポーク・ディスクブレーキ専用。S4(45mm)/S5(50mm)/S6(58.5mm)の3深さ。最軽量1,280g（S6）。ハブは前モデル比剛性+10%・重量-5%。価格$1,700。",
+        "layer2": "「業界基準」主張の裏を取ると——Tヘッドカーボンスポークにより横風時の空力ロスを軽減、ピーク3W削減を公称（独立検証なし・※要裏取り）。内幅24mm・外幅31.5mm（28〜32cタイヤ向け）。18/18H 2:1組み、センターロック、UCI認証済み。価格$1,700はZipp 404（$3,200〜）やRoval Rapide（$2,800〜）の約半額、ただしICANや廉価中華（$400〜600）の3倍。「プレミアム中華の代表格」としてFARSPORTSが占める価格帯。注意点：カーボンスポーク破損時の交換費用・難度は鋼スポークより高い可能性あり（FARSPORTS公称は「交換可能」としている）。うちの8LIEN/CRW/GOOSYNNが置かれる「コスパ中華」とは別の価格帯だが、上位ブランドの機能進化は市場全体の信頼底上げにもなる。",
         "sources": [
-          {
-            "t": "velofanatics 2026（本文未確認）",
-            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/"
-          }
+          {"t": "FARSPORTS公式 2026 EVO S", "u": "https://www.farsports.com/products/pre-order-farsports-2026-new-evo-s-series"},
+          {"t": "Panda Podium EVO S 2026", "u": "https://www.pandapodium.cc/product/farsports-2026-evo-s-series-carbon-spokes-wheelset/"},
+          {"t": "Bicycles4ever EVO S review", "u": "https://bicycles4ever.com/en/farsports-did-it-again-2026-evo-s-series-raises-the-industry-standard-for-wheels/"}
         ],
-        "status": "※噂・要裏取り。出どころ特定まで断定しない。画像はバナー寄り＝実写に差し替え候補。"
+        "status": "確定＝3深さ・カーボンスポーク・$1,700・ハブ剛性/軽量比（FARSPORTS公式・複数小売）。曖昧＝「1,280g」の対象深さ・「3W節約」の独立検証（公称のみ・※要裏取り）。"
       },
       {
-        "id": "20260614-aozippu",
-        "genre": "market",
-        "genreLabel": "MARKET",
-        "genreJa": "国内市場",
-        "hot": true,
-        "image": "https://images.cyclehack.jp/wp-content/uploads/2026/03/pixta_87586192_M.jpg",
-        "headline": "2026年4月、自転車に「青切符」が始まった ── 日本のローディー全員が当事者",
-        "layer1": "2026年4月1日施行。16歳以上が対象で、信号無視や一時不停止などに反則金を科す交通反則通告制度（青切符）が、自転車にも導入された。各メディア・ブログ・Xで「結局いくら？」「ロードはどうなる？」が読まれ・議論され続けている、いま日本の自転車界で最も熱いテーマ。",
-        "layer2": "ブログの煽り（『ロードバイクが狙い撃ち』）に対して、一次（政府広報・警視庁）で正確値を取ると——対象違反は113種類、反則金は信号無視6,000円／一時不停止5,000円／右側通行6,000円／無灯火・傘差し・イヤホン各5,000円／携帯保持12,000円。青切符は期限内に納めれば起訴・前科なしの特例で、赤切符（刑事罰）とは別物。ロードバイクを名指しする条文はなく、全自転車一律。ただしXでは『マナー問題でロードが矢面に立つ』論争が再燃しており、“実際の違反率はママチャリ・歩行者の方が高い”という反論も。＝制度は事実、ロード狙い撃ちは感情論。",
-        "sources": [
-          {
-            "t": "政府広報オンライン",
-            "u": "https://www.gov-online.go.jp/article/202410/entry-6604.html"
-          },
-          {
-            "t": "警視庁 交通反則通告制度の導入",
-            "u": "https://www.keishicho.metro.tokyo.lg.jp/kotsu/jikoboshi/bicycle/cycle_kaisei.html"
-          },
-          {
-            "t": "CYCLE HACK 青切符解説",
-            "u": "https://cyclehack.jp/1384"
-          }
-        ],
-        "status": "確定＝4/1施行・対象113種・主要反則金額（政府/警視庁で裏取り済）。曖昧＝『ロード狙い撃ち』はXの論争＝感情論で一次根拠なし（※対比で使う）。"
-      },
-      {
-        "id": "20260614-chuka-kakuduke",
+        "id": "20260614-japan-import-tax",
         "genre": "market",
         "genreLabel": "MARKET",
         "genreJa": "国内市場",
         "hot": false,
-        "image": "https://journal.buychari.com/wp-content/uploads/2025/12/名称未設定のデザイン-8-884x600.jpg",
-        "headline": "日本の自転車ジャーナリストが「買いなロード」筆頭に中華ブランドを挙げた ── 価値観の転換点",
-        "layer1": "buychari『2026年に狙うべき買いなロードバイク』が日本のブログで読まれている。筆頭がWinspace「SLC5」（約50万円）。記事は『中国メーカーが“圧倒的に安ければ許せる”という従来の戦略から脱却し、主力メーカーと同等の価格帯に到達した』と評価。中華カーボンが『怪しいパーツ』から『賢い選択』へ、という空気が日本市場に定着しつつある。",
-        "layer2": "煽りでなく実態を底まで見ると——同時期の国内ブログでも中華ホイール格付けが軒並みPV上位（bike-memo等）。ただしランキングの常連はWinspace・Yoeleo・Elitewheels・ICAN・FARSPORTSで、価格は$599〜$1,399（実勢¥90,000〜¥200,000）と“安さが武器”の層が依然主役。＝『中華=高くても買う』はWinspace等の一部最上位だけで、市場の大半はまだ『主力ブランドの1/3〜1/2の価格』が選ばれる理由。つまり“高級中華”と“コスパ中華”は別の戦場。うち（8LIEN/CRW/GOOSYNN/NEPEST）が立つのは後者寄り＝ここが伸びている。",
+        "image": "",
+        "headline": "「中華ホイールを個人輸入すると関税が怖い」は誤解 ── 正確には無関税・実質6%消費税のみ",
+        "layer1": "自転車本体・ホイール・フレーム・タイヤ等の自転車関連製品はすべて関税0%。課税は消費税のみ（海外小売価格×60%×10% = 実質6%）。海外小売価格が16,667円以下は免税。",
+        "layer2": "「怖い」の実態を具体的な数字で見ると——$500（約75,000円）のホイールセット：消費税 = 75,000×0.6×0.1 = 4,500円のみ。通関手数料（200〜500円程度）を合わせても5,000円以内。$1,000（約150,000円）のホイールでも9,000円の追加に過ぎない。関税0%・消費税実質6%は複数のサイクルブログが共通して確認している事実。本当のリスクは「関税」でなく「初期不良時の返送コスト」と「サポート体制の差」。FAR SPORTS等の有力中華ブランドは日本向けサポートが整備されてきており、このハードルも低下中。「関税が怖いから個人輸入できない」と機会損失している初中級層は少なくない。正確な情報共有が信頼獲得の入口になる。",
         "sources": [
-          {
-            "t": "buychari『2026買いなロードバイク』",
-            "u": "https://journal.buychari.com/2026-latest-road-bikes/"
-          },
-          {
-            "t": "bike-memo 中華カーボン格付け2026",
-            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/"
-          },
-          {
-            "t": "bike-memo 中華おすすめTOP5",
-            "u": "https://bike-memo.com/cycle_260202_carbon-wheels/"
-          }
+          {"t": "cyclabo 自転車海外通販税金まとめ", "u": "https://www.cyclabo.com/ja/topics/wcwjgfq9av/"},
+          {"t": "hunade 海外通販・自転車関税解説", "u": "https://hunade.com/bicycle-yunyu"},
+          {"t": "escape.poo.tokyo 輸入関税", "u": "https://escape.poo.tokyo/duties-and-taxes-postal-matters/"}
         ],
-        "status": "確定＝buychari筆頭がWinspace・記事の論調／格付けブログのブランドと価格帯。曖昧＝『市場の主役が高級中華に移った』は言い過ぎ（※コスパ層が依然中心・対比で使う）。"
+        "status": "確定＝自転車関連品は関税0%・消費税計算式(×0.6×10%)・免税16,667円ライン（複数ブログ一致）。曖昧＝通関実務の細則（ケース次第・税関確認推奨）。"
       },
       {
-        "id": "20260614-sram13s",
-        "genre": "parts",
-        "genreLabel": "PARTS",
-        "genreJa": "パーツ",
+        "id": "20260614-chuka-powermeter",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
         "hot": false,
-        "image": "https://cdn-jupiter.metropolis.co.uk/wp-content/uploads/sites/9/2024/05/sram-red-axs-2024-review-21-970x647.webp",
-        "headline": "「ロードも13速になる」の噂 ── 実際どこまで本当か",
-        "layer1": "SRAMの13速化が機材界で話題。ネット上では『次期RED は13速』『シマノも13速のE-Tubeリークあり』という噂が飛び交い、初中級が『今12速を買って大丈夫？』と不安になっている。",
-        "layer2": "噂と現実を切り分けると——現時点で実在する13速はSRAMの“XPLR”系（RED/Force/Rival/Apex XPLR）で、いずれも1×13＝グラベル専用。しかもこれらは『Full Mount』方式で、UDH（ユニバーサルディレイラーハンガー）対応フレーム専用＝既存フレームに後付け不可。一方、ロード用の2×は今もすべて12速のまま。『2026/2027にロード2×13も』は複数媒体が“rumor（噂・憶測）”と明記しており公式発表なし。＝『ロードが今すぐ13速になって12速が陳腐化する』は誤解。今12速を買って当面問題なし。",
+        "image": "",
+        "headline": "「パワーメーターは10万円」の時代終わり ── 中華スパイダー型が3万円台で±1%精度、日本でも人気急上昇",
+        "layer1": "2026年のマイベスト・ラルプバイク等のパワーメーター特集でSIGEYI（シーゲイ）AXO SLが上位に登場。既存クランクに装着するスパイダー型、重量80g、精度±1%。日本での実勢は3〜4万円台。中華ホイールの次は中華パワーメーターが来ている。",
+        "layer2": "GPLama（2026年1月）の実測レビューで正確に言うと——平均パワー計測精度±1%は達成。ただしスプリント時（高カデンス）でカデンスデータが乱れる問題が指摘されており、左右バランス推定も不正確（スパイダー型構造上の限界）。→ロングライド・ヒルクライム・エンデュランスのパワーデータ収集は十分。スプリントデータを重視するレーサーは要確認。競合：Magene（マジーン）も同価格帯でスパイダー型あり。4iiiiはクランクアーム装着型で片側計測から選べる。日本国内のブログ・Youtubeで「初めてのパワートレーニング」動画が増えており、パワーメーター需要の底上げ期に入っている。パワーメーターを持ったローディーが増える＝ホイール重量・剛性の"数字で確認したくなる"欲求も増える。",
         "sources": [
-          {
-            "t": "Cyclist SRAM groupsets 2026 guide",
-            "u": "https://www.cyclist.co.uk/buying-guides/sram-groupsets-buyers-guide"
-          },
-          {
-            "t": "Singletrack Force/Rival XPLR 13速",
-            "u": "https://singletrackworld.com/gritcx/2025/06/sram-force-and-rival-xplr-groupsets-go-13-speed/"
-          }
+          {"t": "GPLama SIGEYI AXO SL review (2026/1)", "u": "https://gplama.com/2026/01/09/sigeyi-axo-sl-spider-power-meter-review/"},
+          {"t": "マイベスト パワーメーターランキング2026", "u": "https://my-best.com/906"},
+          {"t": "ラルプバイク コスパ最強パワーメーター", "u": "https://lalpebike.com/power-meter-roadbike/"}
         ],
-        "status": "確定＝XPLR系1×13がUDH専用で実在・ロード2×は12速のまま（Cyclistで裏取り）。曖昧＝『次期RED/シマノ13速』は媒体も“rumor”表記＝公式発表なし（※噂・要裏取り）。"
+        "status": "確定＝SIGEYI AXO SL価格帯・精度±1%・GPLamaの詳細レビュー(2026/1)。曖昧＝「日本で人気急上昇」はランキング上位という観察（定量的根拠なし）。"
       },
       {
-        "id": "20260614-chuka-longterm",
-        "genre": "wheel",
-        "genreLabel": "WHEEL",
-        "genreJa": "ホイール",
-        "hot": false,
-        "image": "http://innertop.com/wp-content/uploads/2018/10/chinesecarbonwheels.png",
-        "headline": "「中華カーボン、数年使ったらどうなった？」 ── 不安の核心“耐久性”の実走レポート",
-        "layer1": "中華カーボンの長期レビュー記事が読まれている。買う前に誰もが抱く『安いけど何年もつ？壊れない？』への、実走ベースの答え。あるブロガーはAliExpress経由で実勢35,034円（関税なし・送料込）のセットを購入、数年使い続け『買い増ししたほどおすすめ』と結論。",
-        "layer2": "公称（メーカーのうたう品質）vs 実走の実態を見ると——この個体は購入後半年で3,000〜3,500km走行、その後も使い続けて重大トラブルなしと記録。ただし注意点も底まで拾うと、ハブはPowerway R13など廉価ハブのことが多く、国内の他レビューでも『リム品質は十分だが“ハブとベアリングの寿命”が当たり外れの分かれ目』が共通見解。だからFARSPORTS等が“DT Swiss 350/240ハブ選択可”を売りにする。＝『中華カーボンは壊れる』は誤解に近く、実態は“リムは信頼できる／ハブ選びが寿命を決める”。",
-        "sources": [
-          {
-            "t": "innertop 中華カーボン長期レビュー",
-            "u": "https://innertop.com/carbonwheel/"
-          },
-          {
-            "t": "bike-memo 中華カーボン格付け（ハブ寿命の指摘）",
-            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/"
-          }
-        ],
-        "status": "確定＝長期レビューの走行距離・結論／『ハブ選びが寿命を分ける』は複数ブログの共通見解。曖昧＝個体差ゆえ一般化は注意（※n=1の体験談・対比で使う）。"
-      },
-      {
-        "id": "20260614-beginner-fear",
+        "id": "20260614-bikefit-saddle",
         "genre": "beginner",
         "genreLabel": "BEGINNER",
         "genreJa": "初中級",
         "hot": false,
         "image": "",
-        "headline": "いま初中級が検索しているのは「2026年、ロードバイクは安く買えるのか？」",
-        "layer1": "国内ブログのPV上位に『2026 ロードバイク 値下げ／安い時期／本当に値下がりしている？』が並ぶ。コロナ禍ブームの反動で供給過多→大手の価格改定・型落ち大幅値引きが相次ぎ、『今が買い時か』を初中級が真剣に調べている。",
-        "layer2": "煽り（『今すぐ買え』『もう値下がりしない』）に対し、複数ブログの実態を突き合わせると——2026年6月時点は在庫潤沢で値下がり傾向、型落ちは新品保証付きで20〜40%安というのが共通見解。ただし“底”はこれからで、狙い目は8〜10月の旧モデル処分と12〜1月の年末年始セール、と時期が具体的。＝『今すぐ』ではなく『秋まで待つ選択肢もある』が冷静な結論。完成車が安くなる＝新規ローディーの母数が増える＝ホイール・パーツのアップグレード需要（=うちの主戦場）が後から効いてくる。",
+        "headline": "「サドルを5mm上げただけで膝の痛みが消えた」── ハムレーメソッドから始めるバイクフィット入門",
+        "layer1": "初中級が膝痛で悩む最大の原因の一つがサドル高さのズレ。ハムレーメソッド（股下mm × 0.883）をBBセンターからサドルトップまでの距離として出発点にし、5mm刻みで1週間ずつ様子見——これだけでロングライドの快適度が劇変する。",
+        "layer2": "「膝のどこが痛いか」で調整方向が変わる——膝の前側（膝蓋骨周辺）：サドルが低すぎるか前に出すぎ→後ろ・上に調整。膝の裏側（ハムストリング）：高すぎか後ろすぎ→前・下に調整。膝の内側/外側：クリート位置の問題（サドル高さだけでは解決しない）。プロのバイクフィット（費用1〜3万円）が理想だが、まず「自己流でハムレーメソッド→5mm刻み調整→1週間様子見」を繰り返してから相談する方が効率的。重要：変更は5mm以内・急な大きな変更は逆効果（別の部位を痛める）。どんな完成車も・どんなホイールも、適切なフィッティングなしには本来の性能を発揮しない。お金をかける前に試せる最高のROI改善手段。",
         "sources": [
-          {
-            "t": "サトユキブログ『本当に値下がりしている？』",
-            "u": "https://satoyukiblog.com/2026/03/09/2026-road-bike-prices-are-they-actually-dropping/"
-          },
-          {
-            "t": "bike-memo 2026ロードバイク値下げ",
-            "u": "https://bike-memo.com/cycle_260204_roadbike/"
-          }
+          {"t": "runbikecalc バイクフィット完全ガイド2026", "u": "https://runbikecalc.com/blog/bike-fit-positioning-complete-guide-2026"},
+          {"t": "cyclingarchives bike fit guide", "u": "https://cyclingarchives.com/bike-fit-guide-how-to-fit-road-bike/"},
+          {"t": "orca-school 膝の痛みとポジション", "u": "https://orca-school.com/injury-knee/"}
         ],
-        "status": "確定＝『2026は買い手有利・型落ち20〜40%安』は複数ブログの共通見解・セール時期。曖昧＝具体的な値引き率は店舗/車種次第（※断言せず傾向トーン・要裏取り）。"
+        "status": "確定＝ハムレーメソッド(×0.883)・膝の場所別調整方向（複数フィッティングガイド一致）。曖昧＝「5mm上げで治る」は個人差あり・一般化はしない。"
+      },
+      {
+        "id": "20260614-rim-depth",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "",
+        "headline": "「ホイール、何mm選べばいい？」── 38/50/60mmの正しい使い分けと日本の峠道の答え",
+        "layer1": "初めてのカーボンホイールで最初の壁が「リムハイト選び」。38mm＝軽くて峠向き・50mm＝オールラウンダー・60mm以上＝平坦高速向き、が大まかな区分。日本のロードライドではどれが現実解か？",
+        "layer2": "実走環境で答えを絞ると——38mm（〜40mm）：最軽量クラス・横風に最も強い・ヒルクライム中心のルーティンなら最適。50mm：平坦も峠も及第点・最も売れている深さ（在庫・選択肢も豊富）。60mm（〜65mm）：平均速度35km/h以上の高速域・レース向け・横風（強風時）で不安定になりやすい。80mm以上：TT・トラック・イベント専用、一般峠道には不向き。日本の主要峠コース（箱根・美ヶ原・ヤビツ等）では38〜50mmが主戦場。初めての1セットなら「50mm」が汎用性・使いやすさのバランスが最高。「ホイールを2セット持つなら50mm+38mm」の組み合わせが多いパターン。8LIEN/CRW/GOOSYNNは38/50mmを軸に展開しており、日本の山岳ライドに合った選択肢が揃っている。",
+        "sources": [
+          {"t": "CYCLEHACK ディープリムガイド", "u": "https://cyclehack.jp/229"},
+          {"t": "ICAN リムハイト解説（日本語）", "u": "https://ja.icancycling.com/blogs/articles/how-to-choose-the-correct-road-bike-wheels-depth"},
+          {"t": "cyclo-rider 38mm vs 50mm比較", "u": "https://cyclo-rider.net/2020/08/25/%E3%83%AA%E3%83%A0%E5%B9%85%E3%81%AF%E3%80%8138mm%E3%81%A850mm%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%8C%E3%81%84%E3%81%84%EF%BC%9F/"}
+        ],
+        "status": "確定＝リムハイト別の用途・特性（複数ガイド一致）。曖昧＝「最も売れる深さ=50mm」の数値根拠なし（観察トーン）・横風の臨界点は個体差あり。"
+      },
+      {
+        "id": "20260614-shimano105di2",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "",
+        "headline": "Shimano 105 Di2が「電動シフトの入口」として定着 ── ミッドレンジ完成車の12速電動化が加速",
+        "layer1": "2022年登場のShimano 105 Di2（R7100、12速・油圧ディスク）が2026年で4年目。ミッドレンジ完成車への標準搭載が進み、70〜100万円クラスでの電動選択肢が現実的になっている。「今12速電動を買って後悔するか？」という初中級の問いへの答えが変わってきた。",
+        "layer2": "「Di2かメカか」の市場実態を確認すると——Di2の優位：シフトの確実性（押しきりで必ず変速）・トリムなし（チェーンライン自動補正）・重量はほぼ同等かわずかに軽い。Ultegra Di2との差：主に素材とFDのデザイン、変速性能は体感上ほぼ同等との評価が多い。ShimanoのR7100後継（R9200系の技術トリクルダウン版）は公式発表なし（※要裏取り）。現時点で「今Di2 12速を買って大丈夫か？」→大丈夫。1x13化がロードに来るとしても数年単位。105 Di2搭載完成車を買った人の次のアップグレード先がホイール——「電動シフトで快適になったから次はホイールを変えたい」という流れが日本市場でも増えている。うちのカーボンホイールはDi2完成車オーナーのアップグレード需要と直結している。",
+        "sources": [
+          {"t": "road.cc Shimano 105 Di2 R7100 review", "u": "https://road.cc/content/review/shimano-105-r7100-di2-groupset-295267"},
+          {"t": "CyclingNews best groupsets 2026", "u": "https://www.cyclingnews.com/features/road-bike-groupsets/"},
+          {"t": "velo.outsideonline best groupsets 2026", "u": "https://velo.outsideonline.com/road/road-gear/best-road-groupset-2026-comparison/"}
+        ],
+        "status": "確定＝105 Di2 R7100の基本スペック・評価（複数媒体）。曖昧＝後継モデルは公式発表なし（※要裏取り）、実勢価格は店舗次第。"
       }
     ]
   }
