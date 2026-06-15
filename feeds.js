@@ -1,7 +1,7 @@
 window.LISA_FEEDS = [
   {
     "date": "2026-06-15",
-    "greeting": "おはようございます、マサルさん！ 今朝の追加リサーチ、10本。契約なきフルームは海上225kmで表舞台へ、キンタナは涙の『ラストダンス』。機材はUCIの『ハンドル幅400mm』規制とフックレス退潮で潮目が変わり、ホイールは深さより内幅へ。国内は4月始動の青切符と『値上げの年』、あさひ減益が市場の答え合わせです。",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ツール前哨戦ウィークで、機材プロトも人間ドラマも豊作です。",
     "cards": [
       {
         "id": "20260615-froome-pelagos",
@@ -267,6 +267,221 @@ window.LISA_FEEDS = [
           }
         ],
         "status": "確定＝RED XPLR 13速の主要スペック（460%／フルマウント／操作力20%減）とXTR Di2が完全ワイヤレスである点。曖昧＝今後のロード／グラベル無線化の時期と相互互換・特許回避の方式は推測（※要裏取り）。"
+      },
+      {
+        "id": "20260615-seixas-hero-auvergne",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Paul_Seixas_-_podium_medaille_bronze_-_2025_European_road_championship.jpg/250px-Paul_Seixas_-_podium_medaille_bronze_-_2025_European_road_championship.jpg",
+        "headline": "セイシャス、落車から血まみれで7位完走——19歳『その日の英雄』が89年ぶり最年少でツールへ",
+        "layer1": "旧ドーフィネ改めTour Auvergne-Rhône-Alpes第7ステージ、19歳ポール・セイシャスが残り100km超で落車・約3分遅れに。チーム総力で集団復帰し、激坂グラン・コロンビエでステージ7位(+1分21秒)。山頂はデル・トロが制した。",
+        "layer2": "セイシャスは7/4開幕のツール・ド・フランスに出場予定で、約89年ぶりの最年少スターターになる(2006年生・19歳/Decathlon CMA CGM)。本人はポガチャルとの比較を避けつつ『経験のためだけに出るつもりはない』と上位GCを明言。落車してなお食らいつく姿が現地で『その日の英雄』と評された——結果速報より、この粘りの物語が刺さる。",
+        "sources": [
+          {
+            "t": "IDL Procycling",
+            "u": "https://www.idlprocycling.com/cycling/pogacar-will-have-liked-what-he-saw-from-del-toro-and-seixas-in-tour-auvergne-rhone-alpes-mountain-stage",
+            "d": "2026-06-13"
+          },
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/racing/age-is-neither-a-hindrance-nor-an-excuse-paul-seixas-to-ride-tour-to-france-and-become-youngest-rider-in-almost-90-years",
+            "d": "2026-05-04"
+          },
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/i-cannot-even-imagine-a-comparison-paul-seixas-on-tadej-pogacar-and-tour-de-france-debut",
+            "d": "2026-05-08"
+          }
+        ],
+        "status": "確定＝ステージ7位・落車後の復帰(複数媒体)。最終GCは変動の可能性。最年少記録の年数(約89年ぶり)は媒体報道＝※最終確認推奨。"
+      },
+      {
+        "id": "20260615-giro-donne-vollering-vdb",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/GFVfW9NH6q8BRVWMAKEQvK.jpg",
+        "headline": "ヴォレリング、最終山岳で49秒差を逆転——『カムバックの女王』VDBの夢を最後に奪う",
+        "layer1": "2026ジロ・デ・イタリア・ドンネ(5/30-6/7)、デミ・ヴォレリングが最終山岳で49秒差を逆転し総合優勝。2位VDBに+2分23秒。最終ステージは病み上がりのロンゴ・ボルギーニが勝利し『勝利以上の意味がある』と。",
+        "layer2": "物語の主役は引退から復帰したアンナ・ファンデルブレッヘン。第4ステージの上りTTで世界王者ロイサーに1分超差をつけマリアローザを奪還し『諦めずに戦えば、また来る』と語った。だが最終日コッレッタ・ディ・ブロンデッロでヴォレリングが突き放し、GC三冠目を達成。復帰の女王の善戦と、執念の逆転——女子レースの厚みが増している。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/racing/demi-vollering-overhauls-anna-van-der-breggen-to-win-the-2026-giro-d-italia-women-as-longo-borghini-sprints-to-stage-9-victory",
+            "d": "2026-06-07"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/giro-d-italia-women-anna-van-der-breggen-crushes-opposition-with-stunning-uphill-time-trial-victory-on-stage-4-moves-into-pink-jersey/",
+            "d": "2026-06-02"
+          }
+        ],
+        "status": "確定＝最終GC・各ステージ結果(複数媒体一致)。"
+      },
+      {
+        "id": "20260615-tour-de-suisse-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-03/tadej-pogacar-tom-pidcock-mathieu-van-der-poel-69c181a5059a3.jpg",
+        "headline": "ツール最終前哨『短縮版』ツール・ド・スイス開幕直前——ポガチャル初参戦、MvdP復帰、8→5日に圧縮",
+        "layer1": "6/17-21、ツール・ド・スイスが例年の8日間から5日間に短縮して開催。ポガチャルが自身初出場、パリ〜ルーベ以来となるファンデルポール復帰、ピドコック、ログリッチ、ヴィンゲゴーらツール組が前哨戦に集結する。",
+        "layer2": "ポガチャルは『ビッグ7』ステージレースの総合未勝利を埋めにかかる本命格。日程短縮はカレンダー過密・選手負荷への対応で、7/4開幕ツールの直前調整という色が濃い。MvdPはステージ勝利狙いで総合は不参加の構え。※最終出走は当日まで変動あり。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/startlist-tour-de-suisse-2026-riders-tadej-pogacar-mathieu-van-der-poel-tom-pidcock-primoz-roglic-and-more",
+            "d": "2026-06-11"
+          }
+        ],
+        "status": "確定＝日程・短縮・主要エントリー/出走は前日まで変動可。"
+      },
+      {
+        "id": "20260615-cube-litening-aero-c68x-proto",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2026/06/060626_AshleyQuinlan_003-1-scaled.jpg?webp=1&w=1200",
+        "headline": "トタルエネルジーの新型キューブ『Litening Aero C:68X』が前哨戦で初露出——“斜めシートポスト”で抗力30%減を主張",
+        "layer1": "Tour Auvergne-Rhône-Alpesで、チーム・トタルエネルジーが未発表のキューブ Litening Aero C:68Xを投入。後方へ傾斜・露出を増やした特徴的なシートポスト集合部、ティアドロップ断面、ワンピース・エアロコックピットを採用。",
+        "layer2": "メーカーは『フォーク/ステム/ハンドル/シートポストを統合し抗力30%減』と主張(※公称・条件不明、要裏取り)。狙いは縦コンプライアンス(快適性)とエアロの両立で、タイヤクリアランスも現行31mmより拡大の見込み。正式発表は2026年秋・2027モデル想定。プロト段階で数値はうのみ禁物。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/unreleased-cube-litening-aero-c68x",
+            "d": "2026-06-07"
+          }
+        ],
+        "status": "曖昧＝プロト段階。抗力30%減は公称値、独立検証なし＝※要裏取り。"
+      },
+      {
+        "id": "20260615-kask-mistral-3-tt-helmet",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.shopify.com/s/files/1/0040/5251/6910/files/Mistral_3.0_3resize.jpg?v=1780581141",
+        "headline": "カスク『Mistral 3.0』TTヘルメット——UCI合法に作り直したバイザーで55km/h時11W節約、ガンナがジロITTで実戦投入",
+        "layer1": "カスクがTTヘルメット Mistral 3.0を6/4発売。シェル形状は据え置きで、UCI違反だった旧バイザーを『形状で稼ぐ』設計に作り直したAero Pro Visor 3.0を新搭載。55km/hで11W、50km/hで8W、45km/hで6Wの節約を主張する。",
+        "layer2": "ガンナが2026ジロの個人TT(平坦42km・平均54.9km/h)で実戦投入＝主張速度域とほぼ一致するのがミソで、一般ライダーの巡航(30km/h台)では恩恵は大きく目減りする。価格は本体クリアバイザー込みで€700/£600、替えバイザー€370〜。サイズはL(59-62cm)のみ・旧型とは非互換。",
+        "sources": [
+          {
+            "t": "Rouleur",
+            "u": "https://www.rouleur.cc/blogs/desire-journal/new-kask-mistral-3-0-helmet-is-the-same-shape-but-has-a-redesigned-uci-legal-visor-that-saves-11-watts",
+            "d": "2026-06-04"
+          }
+        ],
+        "status": "確定＝発売日・価格・節約値(メーカー公称)/実走の独立検証はこれから。"
+      },
+      {
+        "id": "20260615-newmen-streem-g62-spokes",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://bikerumor.com/wp-content/uploads/2026/06/Newmen-Streem-G62-ultra-wide-lightweight-aero-carbon-gravel-bike-race-wheels_up-close.jpg",
+        "headline": "ニューメン『Streem G.62』——カーボンスポーク vs スチールで重量差70g・価格差€300、ENVEの半額以下という現実",
+        "layer1": "独ニューメンが62mm深・外幅45mmのワイドエアログラベルホイール Streem G.62を発表。カーボンスポーク1,530g/€1,690と、スチール(Sapim CX-Ray)1,600g/€1,390の2本立て。ENVE G SES 6.7 Pro(€3,899)の半額以下に収めてきた。",
+        "layer2": "焦点は『カーボンスポークの上乗せ€300・軽量化わずか70g』が見合うかという問い。プロ(ペストルベルガーのTraka 200勝利)が使う一方、実利は限定的との見方も根強い。中国カーボン(FARSPORTS等)が同種のカーボンスポーク＆ワイドリムをさらに安く出す流れの延長線上で、『高い順=速い順』という価格の建前が崩れつつある。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/enve-streem-g62-gravel-wheelset",
+            "d": "2026-06-05"
+          },
+          {
+            "t": "Bikerumor",
+            "u": "https://bikerumor.com/newmen-streem-g-62-is-ultra-wide-deep-aero-carbon-spoked-gravel-race-light/",
+            "d": "2026-06-05"
+          }
+        ],
+        "status": "確定＝重量/価格(公称)・発売は8月。エアロ主張は独立検証待ち。"
+      },
+      {
+        "id": "20260615-pardus-europe-push",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/06/2026-Pardus-opener.jpeg",
+        "headline": "中華『Pardus』が欧州本格進出——Ultegra Di2・カーボンスポークで6.7kg/€4,990、組立はポーランド・販売店経由へ",
+        "layer1": "中国メーカーPardusが欧州に恒久拠点(ポーランド集中組立＋地域サービス)を構え、ネット直販でなく独立系販売店経由の構造的進出へ転換。旗艦Robin Evoは6.7kg・€4,990(Ultegra Di2/フルカーボン/自社サブブランドMVMTのカーボンスポークホイール)。",
+        "layer2": "ラインはSPK Gen4エアロ€5,090/Robin Sport€3,690/グラベルUragano Evo€2,590。欧州は電動、アジアは機械式が好まれると同社。Toray素材から最終組立まで10万㎡で垂直統合する。英国上陸のSeka(Spearフレーム685g)と並び、『中華の本気化』は国内中級価格帯への直接の脅威——ショップ目線では競合動向として要注視。買うのは日本の人だからこそ効く。",
+        "sources": [
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/tech-news/chinas-pardus-makes-european-push-with-sub-4500-6-7kg-carbon-road-bike",
+            "d": "2026-06-03"
+          },
+          {
+            "t": "road.cc (Tech of the Week)",
+            "u": "https://road.cc/tech-news/will-this-ai-bike-light-with-real-time-intelligence-and-automatic-turn-signals-prove-a-hit-on-kickstarter-plus-kask-joins-the-ott-tt-helmet-party-yours-for-600-chinas-seka-bikes-lands-in-uk",
+            "d": "2026-06-06"
+          }
+        ],
+        "status": "確定＝価格/スペック(公称)・流通体制。国内需要への影響は今後。"
+      },
+      {
+        "id": "20260615-kakaku-china-carbon-ranking",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://m.media-amazon.com/images/I/41fc2FOXeXL._SL500_.jpg",
+        "headline": "価格.com『6月の人気ホイールランキング』上位に中華カーボンがずらり——ELITEWHEELS/SUPERTEAM/ICANが定番化",
+        "layer1": "価格.comの自転車用ホイール人気ランキング(集計5/16-6/14、6/15時点)で、カーボン勢の上位を中華が占有。ELITEWHEELS 700c 50mm(¥85,999)、SUPERTEAM(45/50/65mm)、ICAN、安価なpisipe(¥19,979)などが並ぶ。",
+        "layer2": "『中華＝安かろう悪かろう』はもう過去で、日本の購入導線(価格.com/Amazon)で“最初の一本”候補として完全に定番化している。買うのは日本の人——ショップ目線では、入門〜中級カーボンホイールの価格基準が中華に引っ張られている事実そのものが経営に効く。※PVベースの人気順は時期で変動する。",
+        "sources": [
+          {
+            "t": "価格.com 人気ホイールランキング",
+            "u": "https://kakaku.com/ranking/bicycle/0009_0002/0034/",
+            "d": "2026-06-15"
+          }
+        ],
+        "status": "確定＝6月集計の上位構成/順位は日々変動。"
+      },
+      {
+        "id": "20260615-auvergne-tech-trends",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2026/06/060626_AshleyQuinlan_004-4-scaled.jpg?webp=1&w=1200",
+        "headline": "前哨戦の機材トレンド5つ——プロト続々・ハンドルは“規制で太く”・ワックス系チェーンルブにほぼ全面移行",
+        "layer1": "BikeRadarがTour Auvergne-Rhône-Alpesの機材傾向を総括。(1)タイヤは28mm(コンチ系)〜30mm(ヴィットリア系)で割れる(2)リドレー/ヴァンラッセル/オルベアの新型プロトが続々『軽量レーサーは死んでいない』(3)UCIの最低400mm規制でハンドルがむしろ太く(4)新タイヤ(ミシュランPower Cup S他)(5)ワックス系ルブにほぼ全面移行。",
+        "layer2": "注目は(3)——“極狭ハンドル”規制(本日別カード参照)で潮目が反転し、快適性・グリップ重視で幅が戻ってきた。プロが揃ってワックス系ルブに移ったのも、初中級者が真似しやすい“効く”話。プロトの多さは、エアロ一辺倒でなく軽量オールラウンダー回帰の証左で、完成車選びの軸が動いている。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/features/tech/5-tech-trends-from-the-2026-tour-auvergne-rhone-alpes",
+            "d": "2026-06-09"
+          }
+        ],
+        "status": "確定＝現地観察ベースの傾向(BikeRadar)。"
+      },
+      {
+        "id": "20260615-veloneer-ai-light",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/06/Tech-of-the-Week-05-June-2026-1024x683.jpg",
+        "headline": "AIが曲がる/止まるを自動で光らせる自転車ライト『Veloneer』——青切符時代の“見せる安全”ガジェット",
+        "layer1": "road.ccの週刊テックで、AI＋センサーで動きと交通を解析し、ウインカー/ブレーキ灯/緊急灯を自動点灯する自転車ライトVeloneerがKickstarter予定として紹介。スマホ/クラウド不要、前1200lm(オフロード2400lm)、ランタイムは前125h/後100h(ECO)を謳う。",
+        "layer2": "日本では2026年4月施行の自転車『青切符』で安全意識が急上昇——手信号が苦手な初中級者に“見せる安全”は刺さりやすい。ただしクラウドファンディング段階で、AI判定の精度・耐久・実売価格は未確定。便利そうでも飛びつく前に量産化を見極めたい。※製品は未発売・要裏取り。",
+        "sources": [
+          {
+            "t": "road.cc (Tech of the Week)",
+            "u": "https://road.cc/tech-news/will-this-ai-bike-light-with-real-time-intelligence-and-automatic-turn-signals-prove-a-hit-on-kickstarter-plus-kask-joins-the-ott-tt-helmet-party-yours-for-600-chinas-seka-bikes-lands-in-uk",
+            "d": "2026-06-06"
+          }
+        ],
+        "status": "曖昧＝Kickstarter予定・未発売。性能はメーカー公称＝※要裏取り。"
       }
     ]
   },
