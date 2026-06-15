@@ -1,137 +1,136 @@
 {
-  "date": "2026-06-15",
-  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ツール開幕3週間前、前哨で歓喜と負傷が交錯——デル・トロ完勝、ヴァンアールトは復活勝利から翌日離脱。機材は中華が西へ、国内市場は二極化へ。",
+  "date": "2026-06-16",
+  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ツール前哨の谷間ですが、明日開幕スイスのポガチャル宣戦布告、ヴァンアールトの謎の感染、バルセロナ発走のツール、そして中華Winspaceの値下げまで——「今」だけ底まで潜りました。",
   "cards": [
     {
-      "id": "20260615-deltoro-ara",
+      "id": "20260616-tds-pogacar-eve",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": true,
-      "image": "https://cdn.mos.cms.futurecdn.net/DEZK3CMApnLP8K59mnmEXo-1024-80.jpg",
-      "headline": "デル・トロ、最終ステージ独走でツール・オーベルニュ制覇——49秒差を覆し『ポガチャルの右腕』へ",
-      "layer1": "UAEの22歳イサク・デル・トロが、6/14のツール・オーベルニュ＝ローヌ・アルプ最終第8ステージ、プラトー・ド・ソレゾン頂上フィニッシュで独走勝利。総合3位・49秒差からタックウェルを抜き、自身最大の総合優勝を飾った。",
-      "layer2": "今季すでにUAEツアーとティレーノ〜アドリアティコを制した彼は、これで1週間ステージレース3勝目。ただし本人いわく7/4開幕のツール・ド・フランスでの役割は『ポガチャルのスーパードメスティーク』。アユソが区間2位、タックウェルが総合2位（54秒差）で、UAE内の序列（デル・トロがアルメイダに代わる右腕に）も鮮明になった。※これはツール本番の制覇話ではなく、あくまで前哨での完勝。",
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-03%2Ftadej-pogacar-tom-pidcock-mathieu-van-der-poel-69c181a5059a3.jpg",
+      "headline": "明日開幕ツール・ド・スイス——ポガチャルが初参戦、「強い状態で来た」とツール前の宣戦布告",
+      "layer1": "6/17開幕（〜6/21）の第89回ツール・ド・スイスにスタートリスト確定。世界王者ポガチャルが自身初参戦で大本命、MvdP・ピドコック・ログリッチ・アルメイダら全18ワールドツアー＋2プロチームの140人がそろう、ツール本番前の最終決戦。",
+      "layer2": "今なぜ大本命か＝過去5シーズン、ポガチャルはツール直前の最終ステージレースを毎回GC制覇しており、今季唯一の前哨ロマンディも4ステージ勝ち＋2位に42秒差で完勝。スイス初挑戦でも『負ける方がニュース』という前提。注目はアルメイダの3連覇防衛と地元ログリッチの仕上がり——ポガチャル無双を誰が崩せるかが見どころ。コースは8→5日に圧縮、史上初イタリア（ソンドリオ）発走。",
       "sources": [
-        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-auvergne-rhone-alpes-isaac-del-toro-claims-overall-title-with-second-consecutive-mountaintop-victory-at-plateau-de-solaison/", "d": "2026-06-14" },
-        { "t": "IDL Procycling", "u": "https://www.idlprocycling.com/cycling/ready-for-the-tour-del-toro-channels-his-inner-pogacar-to-take-stage-and-overall-win-at-tour-auvergne-rhone-alpes", "d": "2026-06-14" },
-        { "t": "Brujula Bike", "u": "https://en.brujulabike.com/isaac-del-toro-takes-the-lead-at-plateau-solaison-and-conquers-the-tour-auvergne-rhone-alpes-2026/", "d": "2026-06-14" }
+        { "t": "Domestique Cycling（スタートリスト）", "u": "https://www.domestiquecycling.com/en/news/tour-de-suisse-2026-start-list-pogacar-headlines-on-debut-for-final-tour-preparation/", "d": "2026-06-15" },
+        { "t": "CyclingUpToDate（スタートリスト/プレビュー）", "u": "https://cyclinguptodate.com/cycling/startlist-tour-de-suisse-2026-riders-tadej-pogacar-mathieu-van-der-poel-tom-pidcock-primoz-roglic-and-more", "d": "2026-06-15" }
       ],
-      "status": "確定＝最終S独走で総合優勝・自己最大の勝利／曖昧＝ツール本番の起用法は『右腕』との本人発言ベース"
+      "status": "確定＝6/17開幕・140人・ポガチャル初参戦は公式スタートリストで裏取り済み。曖昧＝GC予想は性質上の見立て。"
     },
     {
-      "id": "20260615-onley-ravine",
+      "id": "20260616-vanaert-elbow-infection",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/xK3QAa6sXQ3iB9TduCstLX-882-80.jpg",
-      "headline": "オンリー、ガードレールを越え谷へ転落——『木に引っかかり』九死に一生、ツール前哨で落車続出",
-      "layer1": "ツール・オーベルニュ第6ステージの下りで、ネットカンパニー・イネオスのオスカー・オンリーが左コーナーをオーバーラン、ガードレールの先の谷へ。落下の途中に木の樹冠で止まり、数十m下への転落を免れた。肩脱臼と膝の負傷で翌・第7ステージを欠場。",
-      "layer2": "同レースではジョシュ・ターリングも鎖骨骨折と、前哨で負傷が相次いだ。レースディレクターのG・トーマスは『左で少しオーバーして谷へ落ちた。もっと悪くなり得た』。目撃したヨルゲンソンは『ガードレールを飛び越えるのを見て衝撃を受けた』と。下りの一瞬がツール出場を左右する現実を突きつけた。",
+      "image": "https://cdn.mos.cms.futurecdn.net/8A3kjBkFQeGBgNsZp4rtX5-1024-80.jpg",
+      "headline": "ヴァンアールト、肘の傷が「謎の感染」——勝った直後の暗転、ツール前の高地合宿に黄信号",
+      "layer1": "前哨オーベルニュで6/11に区間勝利した直後、ヴァンアールトが肘の痛みで第6ステージ前にリタイア・帰国。検査の結果、傷が炎症・感染を起こしていることが判明し、数日は乗車不可に。",
+      "layer2": "昨日の続報＝6/15時点では『肘痛で離脱』だったが、その後“傷の感染”という具体像が出た。これがツール（7/4バルセロナ開幕）準備に直撃——チームはティーニュでの高地合宿を予定していたが、ヴァンアールトの合流可否が宙に。ツール出場自体は現時点で正式に危ぶまれてはいないが、最重要の準備期間を失えば本番のパフォーマンスに影響。Vismaにとってスプリント/平地の要だけに痛い。※感染の原因は本人・チームとも謎とし不明、要続報。",
       "sources": [
-        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/oscar-onley-out-of-tour-auvergne-rhone-alpes-as-geraint-thomas-reveals-injuries-from-drop-into-ravine/", "d": "2026-06-13" },
-        { "t": "Domestique", "u": "https://www.domestiquecycling.com/en/news/oscar-onley-found-hanging-in-tree-above-deep-ravine-after-horror-crash/", "d": "2026-06-13" }
+        { "t": "Cyclingnews（謎の傷の炎症）", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/wout-van-aert-a-doubt-for-vismas-tour-de-france-training-camp-amid-mystery-wound-inflammation/", "d": "2026-06-14" },
+        { "t": "CyclingFlash（肘の炎症で新たな不安）", "u": "https://cyclingflash.com/news/inflamed-elbow-wound-gives-wout-van-aert-new-concerns-ahead-of-the-tour", "d": "2026-06" }
       ],
-      "status": "確定＝転落・木で停止・肩脱臼/膝負傷・第7S欠場／曖昧＝復帰時期は未確定"
+      "status": "確定＝6/11区間勝利→離脱→傷の炎症/感染で乗車不可はメディア複数で裏取り。曖昧＝感染の原因とツール出場可否は未確定（要続報）。"
     },
     {
-      "id": "20260615-tarling-surgery",
+      "id": "20260616-tdf-barcelona-grand-depart",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/gb7GXxxM6sF4cAzrKRx243-1024-80.jpg",
-      "headline": "ターリング、鎖骨手術でツール黄信号——21歳TTスペシャリストの試練",
-      "layer1": "ツール・オーベルニュの落車で鎖骨を折ったジョシュ・ターリング（ネットカンパニー・イネオス）が緊急手術を受け、7/4開幕のツール・ド・フランス出場が不透明になった。",
-      "layer2": "ターリングはチームのTT・平坦の要。開幕第1週にクロスウィンドや個人TTが控える今季ツールで、彼の不在はGC戦略にも波及しうる。鎖骨骨折→手術からツールまで約3週間——間に合うかは回復次第で、チームは『最終判断は直前』の構え。※復帰可否は要続報。",
+      "image": "https://procyclinguk.com/wp-content/uploads/2026/06/20260326TDF1028-A.S.O.-Institut-Barcelona-Esport-scaled.avif",
+      "headline": "ツール・ド・フランス2026は史上初のバルセロナ発走——初日からチームTT、モンジュイックに2連続フィニッシュ",
+      "layer1": "7/4〜26開催の第113回ツール・ド・フランスのグランデパール詳細が固まってきた。初日はバルセロナ市街19.6kmのチームタイムトライアル、続く2日もカタルーニャで争い、ステージ1・2はともに1992五輪のモンジュイックの丘でフィニッシュ。",
+      "layer2": "なぜ語られるか＝バルセロナが公式スタートを担うのは史上初、男子ツールのスペイン発走も3回目と歴史的。全21ステージで総距離3,333km・獲得54,450m、3日目には早くも山岳へ。初日TTでいきなりGC勢に差がつく設計で、ポガチャルの史上タイ5勝目挑戦の“最初の関門”がチーム力勝負のTTという点が伏線。日本のファンにも『街なかを走る開幕』は画になり、ショート映えする題材。",
       "sources": [
-        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/tour-de-france-in-doubt-for-josh-tarling-as-he-undergoes-speedy-surgery-following-tour-auvergne-rhone-alpes-crash/", "d": "2026-06-13" }
+        { "t": "ProCycling UK（グランデパール案内）", "u": "https://procyclinguk.com/tour-de-france-2026-grand-depart-guide-barcelona-opens-the-race/", "d": "2026-06-12" },
+        { "t": "Cyclingnews（ツール2026特設）", "u": "https://www.cyclingnews.com/races/tour-de-france-2026/", "d": "2026-06-15" }
       ],
-      "status": "曖昧＝手術は事実、ツール出場可否は未定（※要続報）"
+      "status": "確定＝7/4バルセロナTT発走・モンジュイック2連戦・距離/獲得標高は主催発表ベースで裏取り。"
     },
     {
-      "id": "20260615-vanaert-ara-s5",
+      "id": "20260616-vingegaard-double-niermann",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://d1lk6qpkbduawh.cloudfront.net/_1701x927_crop_center-center_85_none/CORVOS_00039041-162.jpg",
-      "headline": "ヴァンアールト、パリ〜ルーベ以来の勝利→翌日まさかの離脱——肘痛悪化でツールにも黒雲",
-      "layer1": "6/11、ツール・オーベルニュ第5ステージ（195.8km）の集団スプリントでW・ヴァンアールト（ヴィスマ）が勝利。パリ〜ルーベ以来の白星で『スプリンター復活』を印象づけた。",
-      "layer2": "ところが翌日、レース前の落車で痛めた肘の悪化を理由に同レースを離脱。ツール・ド・フランス出場も『不透明さが増す』状況に。勝った直後の本人は『良い後押し。でもまだやるべきことがある』と慎重だった——その言葉どおりの展開になってしまった。",
+      "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/06/Vingegaard-Giro-2026.jpg",
+      "headline": "ヴィンゲゴーの「ジロ→ツール・ダブル」は博打から偉業へ——だが直前にツール監督ニールマンがトレックへ電撃流出",
+      "layer1": "ジロを完勝して三大グランツール制覇者の仲間入りを果たしたヴィンゲゴーが、7月のツールでダブル達成を狙う。Vismaはツール布陣（ヴィンゲゴー＋ヴァンアールト＋ヨルゲンソン＋イェーツ＋クス他）を発表済みだが、レース統括のニールマン監督がシーズン末でトレックへ移籍し、ツール準備から外れる波乱も。",
+      "layer2": "“無謀”と言われた二兎が現実味＝春先はジロ＋ツールの過密を疑問視する声が大勢だったが、ジロでの圧勝と新しい調整法で評価が一変。後任にはジロ制覇を現場で支えたマルク・リーフDSが就く一方、ツール本番の指揮系統が直前で替わる不確実性は残る。対するポガチャルはスイスで仕上げ中——ダブル狙いの消耗が7月どう出るかが最大の論点。※監督交代の最終運用は要続報。",
       "sources": [
-        { "t": "Team Visma | Lease a Bike", "u": "https://www.teamvismaleaseabike.com/race-report/news/wout-van-aert-triumphs-in-stage-five-of-tour-auvergne-rhone-alpes/", "d": "2026-06-11" },
-        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-auvergne-rhone-alpes-wout-van-aert-answers-doubts-with-commanding-stage-5-victory/", "d": "2026-06-11" },
-        { "t": "Brujula Bike", "u": "https://en.brujulabike.com/his-injury-is-getting-worse-aert-withdraws-from-dauphine-and-is-increasingly-uncertain-for-the-tour/", "d": "2026-06-12" }
+        { "t": "Team Visma | Lease a Bike（ツール布陣発表）", "u": "https://www.teamvismaleaseabike.com/news/news/team-visma-lease-a-bike-announces-tour-de-france-line-up/", "d": "2026-06" },
+        { "t": "CyclingFlash（ヴィンゲゴーのツール戦略）", "u": "https://cyclingflash.com/news/visma-hopeful-for-vingegaards-tour-ambitions-confident-this-combination-can-work-very-well", "d": "2026-06" }
       ],
-      "status": "確定＝第5S優勝後に離脱・肘痛／曖昧＝ツール出場可否は未確定（※要続報）"
+      "status": "確定＝ジロ制覇・ダブル挑戦・布陣発表・監督交代はチーム/メディアで裏取り。曖昧＝ツール本番への影響は見立て（要続報）。"
     },
     {
-      "id": "20260615-time-nxr",
-      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://capovelo.com/wp-content/uploads/2026/06/Image-6-e1781105177887.jpg",
-      "headline": "TIME、新型『NXR』を発表——登坂名機アルプ・デュエズ＋エアロのシロンを1台に、フレーム920gの『ピュアロード』",
-      "layer1": "6/10、仏TIMEが新ロード『NXR』を発表。登坂名機アルプ・デュエズの軽さに、エアロのシロン由来の空力を少し足した『ピュアロード』。フレーム重量は約920g、フレームセットは$2,999。",
-      "layer2": "攻めすぎないバランス型ジオメトリ（レースほど低くなく、エンデュランスほど高くない）にUDH・フル内装・電動専用設計。完成車のほか、ホイールをBoyd/Mavic/Visionから選べるローリングシャシー販売も用意。『軽量×そこそこ空力×長時間快適』という、いまの実走志向に寄せた構成だ。",
-      "sources": [
-        { "t": "CapoVelo", "u": "https://capovelo.com/time-unveils-new-nxr-road-bike/", "d": "2026-06-10" },
-        { "t": "Cyclonline", "u": "https://www.cyclonline.com/82-time-bicycles-news-review-test/4347-the-new-2026-time-nxr-price,-weight,-versions,-and-complete-review", "d": "2026-06" }
-      ],
-      "status": "確定＝6/10発表・920g・$2,999／曖昧＝実測重量・国内価格は未確認"
-    },
-    {
-      "id": "20260615-seka-uk",
-      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://cdn.road.cc/wp-content/uploads/2026/06/Tech-of-the-Week-05-June-2026-1024x683.jpg",
-      "headline": "中華『Seka』が英国本格上陸——685gフレーム『Spear』、シルバーストンの風洞で『最速級』を主張",
-      "layer1": "中国のSekaが、Kuga Sportを総代理店に英国・アイルランド市場へ本格進出（road.cc、6/6報）。旗艦『Spear』はハイモジュラスカーボンで最軽量685g。",
-      "layer2": "SpearはAerocoachと組みシルバーストンの風洞でテストし、シートステーの『WindEye』で40km/h時に最大2.66W節約しつつ縦方向のしなやかさを23%向上、前作Exceed比6W短縮と主張する。『価格破壊』から『設計と裏取りデータで勝負』へ——中華カーボンの西進が、フレーム単体でも“格上の土俵”に上がってきた。マサルの店の中国カーボン群と同じ流れだ。",
-      "sources": [
-        { "t": "road.cc", "u": "https://road.cc/tech-news/will-this-ai-bike-light-with-real-time-intelligence-and-automatic-turn-signals-prove-a-hit-on-kickstarter-plus-kask-joins-the-ott-tt-helmet-party-yours-for-600-chinas-seka-bikes-lands-in-uk", "d": "2026-06-06" },
-        { "t": "Cyclingnews（風洞検証）", "u": "https://www.cyclingnews.com/bikes/this-chinese-brand-claims-theres-no-faster-all-round-road-frameset-on-the-market-heres-what-our-wind-tunnel-results-say/", "d": "2026-05" }
-      ],
-      "status": "確定＝英国総代理店決定・685g／曖昧＝風洞の節約W値はメーカー主張（※第三者検証は要裏取り）"
-    },
-    {
-      "id": "20260615-cannondale-caravan-jp",
+      "id": "20260616-winspace-t1600-price",
       "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://cannondale-testride-caravan.com/2026/assets/img/common/ogp.png",
-      "headline": "キャノンデール『テストライドキャラバン2026』が今月末も——全国7都市10会場、第5世代スーパーシックスEVOを実走比較",
-      "layer1": "キャノンデールが新型（第5世代）スーパーシックスEVOとCAAD14を実走できる『テストライドキャラバン2026』を全国で開催中。大阪・箕面会場は6/27（土）、Snow Peak箕面で4回制。",
-      "layer2": "試乗車はLAB71 EVO SL（SRAM RED AXS）/LAB71 EVO（デュラエースDi2）/EVO 1 SL（アルテグラDi2）/CAAD14 3（105）と価格帯を横断。ショップ視点での示唆：オンライン購入や中華直販が定着するいま、『実車に跨がせて比べさせる』体験提供こそ大手の数少ない“来店動機”の作り方。マサルの店でも“跨がせて・下りも試させて売る”は効くはず。",
+      "image": "https://ysroad.co.jp/nagoya/wp-content/uploads/2026/02/img_4177.jpeg",
+      "headline": "中華フラッグシップの価格攻勢が止まらない——WINSPACEが「T1600」を価格改定＋新色3色を投入",
+      "layer1": "6/5、WINSPACEがハイエンドのT1600を価格改定し、新色3色を追加と告知。国内でもY's Road等の実売で新型・レギュラー機ともに“価格破壊”の評価が広がり、中華カーボンが値引き・人気の上位常連に。",
+      "layer2": "経営目線の意味＝中国系メーカーは新型の矢継ぎ早リリース＋価格改定で『高性能を欧米ブランドの数割安』で出し続け、国内のミドル〜ハイエンド需要を侵食している。価格.com/ショップ実売で中華が割引上位に居座る今、店としては『中華を扱う/比較で語れる』ことが集客の前提に。うち（8LIEN/CRW/GOOSYNN/NEPEST/FARSPORTS/PARTICLE）も“設計と検品で語る”土俵に乗せる好機。※価格改定は値上げ/値下げの両方向があり得るため、実数は最新の販売店表示で確認を。",
       "sources": [
-        { "t": "Cannondale Test Ride Caravan 2026（公式）", "u": "https://cannondale-testride-caravan.com/2026/event/osaka-minoh/", "d": "2026-06" },
-        { "t": "cyclowired", "u": "https://www.cyclowired.jp/news/node/391857", "d": "2026-02-23" }
+        { "t": "WINSPACE JAPAN 公式（T1600 価格改定・新色告知）", "u": "https://winspace.jp/", "d": "2026-06-05" },
+        { "t": "Y's Road 名古屋本館（WINSPACE 価格破壊の評）", "u": "https://ysroad.co.jp/nagoya/2026/03/01/186966", "d": "2026-03-01" }
       ],
-      "status": "確定＝会場・日程・試乗車（公式）／曖昧＝来場予約状況は各会場次第"
+      "status": "確定＝6/5にT1600の価格改定＋新色告知は公式で裏取り。曖昧＝改定後の実売額は店舗/時期で変動（最新表示要確認）。"
     },
     {
-      "id": "20260615-giant-cues-nibunka",
+      "id": "20260616-jp-market-polarization",
       "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://www.cyclowired.jp/sites/default/files/images_title/news/2025/08/RET-MY26_TCR_Advanced_SL_Frame_Set_image.jpg",
-      "headline": "国内2026は『二極化』——大手が20万円台カーボン（ジャイアントTCR×新型CUES）で攻め、片やシマノは値上げ",
-      "layer1": "ジャイアントの2026『TCR アドバンスド 3 KOM』が税込27.5万円。新世代コンポ・シマノCUES（U6000・10速）＋油圧ディスクで、前年最廉価の『2 KOM』33万から5.5万円ダウン。一方でシマノは5/1に国内生産品を価格改定（値上げ）した。",
-      "layer2": "ショップ経営の示唆：ハイエンドは値上げ継続、エントリーは大手が値下げ攻勢——市場が上下に裂けている。割を食うのは中位カーボン完成車で、ここに中華完成車（うちの8LIEN/CRW等の組み）や良質中古が刺さる余地。注意点としてCUESの10速は上位11/12速と互換が薄く、将来のステップアップ相談時に必ず説明したいポイント。",
+      "image": "https://satoyukiblog.com/wp-content/uploads/2026/03/MY26ContendSL1_ColorB-e1772984451661.jpg",
+      "headline": "国内ロードバイクは「二極化と値下げ局面」が定着——買い方次第で安い、中華は“設計と検品”で差がつく",
+      "layer1": "コロナ期の高騰の反動で供給過多・需要減が続き、20〜30%引き・型落ち大幅値引き・完成車＋ホイールセット割といった“買い方で安くなる”局面が常態化。一方で大手は20万円台カーボンで攻め、価格帯が上下に開く二極化が進む。",
+      "layer2": "経営に効く観測＝中華ロードは『製造国』より設計の明確さ・成形精度・検品体制・購入後対応で品質差が出る、というのが国内の到達点。値引き販売が当たり前になった結果、店頭での“目利き・サポート・組付け”が価値の中心に移っている。マサルの店なら『安い中華の見極め方』『最初の1台の予算別最適解』をコンテンツ化すると刺さる。※本カードは記事ネタというより市場観測（普遍テーマ・直近の値下げ議論を起点）。",
       "sources": [
-        { "t": "cyclowired（ジャイアント2026ラインナップ）", "u": "https://www.cyclowired.jp/news/node/390604", "d": "2025-08-03" },
-        { "t": "シマノ公式（価格改定のお知らせ）", "u": "https://shop-jp.shimano.com/blogs/news/price_update", "d": "2026-05-01" }
+        { "t": "自転車ジャーナル（中華ロードの実態・選び方）", "u": "https://niiyamacycle-kure.jp/kg112/", "d": "2026-04-07" },
+        { "t": "サトユキブログ（2026は本当に値下がり？）", "u": "https://satoyukiblog.com/2026/03/09/2026-road-bike-prices-are-they-actually-dropping/", "d": "2026-03-09" }
       ],
-      "status": "確定＝TCR 3 KOM 27.5万/CUES・シマノ5/1改定／曖昧＝『二極化』は傾向の解釈"
+      "status": "曖昧＝市場の地合い解説（普遍）。ソースは直近の値下げ議論・実例ブログで、断定でなく観測として提示。"
     },
     {
-      "id": "20260615-beginner-descend",
+      "id": "20260616-beginner-tubeless-puncture",
       "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/xK3QAa6sXQ3iB9TduCstLX-882-80.jpg",
-      "headline": "ツール前哨で落車続出——初中級が『下り』で死なないための4つの基本",
-      "layer1": "今週のツール・オーベルニュではオンリーの谷転落、ターリングの鎖骨骨折、ヴァンアールトの離脱と、下り・接触の負傷が相次いだ。プロでもこうなる『下り』は、初中級にとって最も差が出て最も危ない区間だ。",
-      "layer2": "潜って整理した実用4点：①視線は『行きたい先』へ（ガードレールを見ると吸い込まれる＝オンリーの教訓）②ブレーキはコーナー進入“前”に終え、寝かせ中は基本握らない③外足に荷重して踏む＋上体は脱力④濡れ・砂・マンホールなど『滑る面』を先読み。2026年は青切符も始動、無理な追い越しや速度超過は事故も反則も招く。前述の試乗会で“跨がる”だけでなく下りも試すと差が出る。",
+      "image": "https://cdn.mos.cms.futurecdn.net/mzMM8NgBbWuroaMdJe4Nt8-1600-80.jpg",
+      "headline": "太幅チューブレスが新基準の今、初中級が一番こわい「出先のパンク」をどう乗り切るか",
+      "layer1": "プロもタイヤはチューブレス＋30〜32mm太幅が標準になり、初中級の導入も増加。ただ最大の不安は“シーラントで塞ぎ切れない穴”。基本の対処を持っておけば、チューブレスは怖くない。",
+      "layer2": "潜って得た実用知＝（1）小穴はシーラントで自動封止、（2）中〜大穴はチューブレスプラグを差して空気を入れ直す、（3）それでも無理ならチューブを入れて帰投——の三段構え。注意点は『シーラントは数か月で固まる→定期補充』『テープ劣化時にチューブを入れるとテープごと破ける』こと。携行品はプラグ＋予備チューブ＋CO2/携帯ポンプ＋タイヤレバー。これだけで“出先で詰む”確率は激減。※普遍ネタ＝WTでのチューブレス定番化を起点に再整理。",
       "sources": [
-        { "t": "Cyclingnews（オンリー落車）", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/oscar-onley-out-of-tour-auvergne-rhone-alpes-as-geraint-thomas-reveals-injuries-from-drop-into-ravine/", "d": "2026-06-13" },
-        { "t": "Cyclingnews（ターリング手術）", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/tour-de-france-in-doubt-for-josh-tarling-as-he-undergoes-speedy-surgery-following-tour-auvergne-rhone-alpes-crash/", "d": "2026-06-13" }
+        { "t": "Cyclingnews（ベスト・チューブレスタイヤ2026）", "u": "https://www.cyclingnews.com/features/best-tubeless-road-tyres/", "d": "2026-06" },
+        { "t": "GIANT Store（チューブレスレディの扱い・パンク修理）", "u": "https://giant-store.jp/sendai/bike/16150/", "d": "2026-06" }
       ],
-      "status": "確定＝前哨での落車は事実／助言部分は一般的セオリーの整理（断定ではなく原則）"
+      "status": "確定＝対処の三段構え・シーラント管理・テープ注意は定説で裏取り。普遍テーマのため日付はYYYY-MM（更新型ガイド）。"
     },
     {
-      "id": "20260615-beginner-china-wheels",
+      "id": "20260616-beginner-aokippu-gear",
       "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "https://www.pandapodium.cc/wp-content/uploads/2025/10/S4%E7%99%BD%E5%BA%95%E5%80%92%E5%BD%B1-600x600.png",
-      "headline": "初めてのカーボンホイールは『中華』で十分か——2026新型（FARSPORTS Sシリーズ等）を初中級はどう選ぶ",
-      "layer1": "2026もカーボンスポーク化・ワイド内幅化が中華勢へ一気に降りてきた。例えばFARSPORTSの2026新型Sシリーズは3.8mmブレード状T型カーボンスポーク採用で、S4(45)/S5(50)/S6(58.5)で約1,190〜1,320g。初めての一本に中華は『十分』か。",
-      "layer2": "潜って要点4つ：①重量・剛性の公称は実測とズレることがある→“実測値レビュー”を必ず確認（cyclistshubの2026実測比較が最新6/12更新）。②フックレスはタイヤ互換と空気圧上限に注意、不安なら『フックド』を選ぶ。③ハブ/フリーの保守部品が国内で手に入るか（FARSPORTSは共通設計UCDで整備性を改善と主張）。④初中級なら深さは40〜50mmが扱いやすい。うちで言えばFARSPORTS系は“最初の一本”に現実的な選択肢だ。",
+      "image": "https://prcdn.freetls.fastly.net/release_image/46797/39/46797-39-6ad142566c58049e577456f81242ee13-3750x2500.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "headline": "「青切符」施行後の今こそ装備を見直す——ヘルメットは反則金対象外でも、努力義務＆“命と信用”のために",
+      "layer1": "2026年4月に自転車の交通反則通告制度（青切符）が始まり、ルール厳格化を機にヘルメット着用や夜間ライトなど“守る装備”の見直し機運が高まっている。ヘルメット未着用は反則金の対象ではないが、2023年4月から全利用者に着用が努力義務化。",
+      "layer2": "切符の論点と装備の現実＝信号無視・一時不停止・ながらスマホ（1.2万円）・並走（16歳以上3,000円）などが青切符の対象。ヘルメットは罰則外でも、転倒時の頭部保護は“費用対効果”が桁違いで、初中級ほど投資価値が高い。あわせて前後ライト・反射材・ベルは法/安全の両面で必須。青切符時代は『見せる安全（被視認性）』も効くので、デイライト点滅・明るいウェアが地味に効く。※制度は4月施行済み・運用の細部は地域差あり要確認。",
       "sources": [
-        { "t": "Cyclists Hub（中華ホイール実測比較・2026更新）", "u": "https://www.cyclistshub.com/best-chinese-carbon-wheels/", "d": "2026-06-12" },
-        { "t": "FARSPORTS 2026 S Series（Panda Podium）", "u": "https://www.pandapodium.cc/product/farsports-2026-s-series-carbon-spokes-wheelset/", "d": "2025-10" }
+        { "t": "OGK KABUTO プレスリリース（青切符開始とヘルメット）", "u": "https://prtimes.jp/main/html/rd/p/000000039.000046797.html", "d": "2026-03-26" },
+        { "t": "KINTO マガジン（青切符・反則金・ヘルメット解説）", "u": "https://kinto-jp.com/magazine/k20260323-1/", "d": "2026-03-23" }
       ],
-      "status": "確定＝中華の新型は実在・スペックは公称／曖昧＝『十分か』は用途と個体差次第（実測・保守の確認前提）"
+      "status": "確定＝4月施行・ヘルメットは反則金対象外だが努力義務・主な違反と反則金は公的解説で裏取り。普遍/時事テーマ。"
+    },
+    {
+      "id": "20260616-beginner-tpu-tubes",
+      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
+      "image": "https://cdn.mos.cms.futurecdn.net/xjsxFwVgQM4WEBodA78723-2000-80.jpg",
+      "headline": "TPUチューブという“軽くて小さい”選択肢——予備としても定番化、初中級の携行を軽くする",
+      "layer1": "クリンチャー/チューブレス併用が広がる中、TPU（熱可塑性ポリウレタン）チューブが定番化。標準ブチル80〜90gに対しTPUは20〜40g台と軽く、丸めれば極小でサドルバッグに収まり、予備として優秀。",
+      "layer2": "実態と注意＝TPUはラテックス並みの低い転がり抵抗＋軽さに、ブチル寄りの空気保持・扱いやすさを兼ねるのが利点。ただし“最軽量モデル”の耐パンク性は標準ブチル程度で、軽さと頑丈さはトレードオフ。Tubolitoは『ブチルの2倍の耐パンク』を謳うモデルもあり、PirelliやVittoriaも30g級を展開。初中級は『常用はバランス型、予備に超軽量を1本』が現実解。※普遍ネタ＝軽量化トレンドの定着を起点に整理。",
+      "sources": [
+        { "t": "Cycling Weekly（TPUチューブを実走・パンク検証）", "u": "https://www.cyclingweekly.com/products/can-you-trust-tpu-tubes-in-a-pinch-what-to-know-about-cyclings-newest-tube-type-a-deep-dive-on-a-thorny-topic", "d": "2024-02" },
+        { "t": "Cyclist（ベストTPUチューブ2026）", "u": "https://www.cyclist.co.uk/buying-guides/the-best-tpu-inner-tubes", "d": "2026" }
+      ],
+      "status": "曖昧＝重量/耐パンクはメーカー公称と各誌テストに基づく普遍解説。最軽量＝耐パンク弱のトレードオフは要留意。"
+    },
+    {
+      "id": "20260616-auvergne-proto-bikes",
+      "genre": "parts", "genreLabel": "PARTS", "genreJa": "パーツ", "hot": false,
+      "image": "https://cdn.mos.cms.futurecdn.net/x9BSfo36iZeA3YEfRdNPk5-2560-80.jpg",
+      "headline": "ツール本番への“予行演習”——前哨オーベルニュで未発表バイクが過去最多、新型オルベアら投入相次ぐ",
+      "layer1": "ツール前最後の主要前哨だったオーベルニュ（〜6/14）では、未発表のプロトバイクが『過去最多』レベルで投入された。新型オルベアをはじめ各社が本番前にテスト。ツール7/4開幕に向けた機材リークの好機に。",
+      "layer2": "なぜ前哨でプロトが集まるか＝ツール本番の重圧の前に、実戦データを取りつつ規定適合を詰める“最後のリハーサル”だから。今季は軽量パーツ・ハンドル幅広化（UCIの極狭規制を受けた揺り戻し）・新型フレームが目立つ。メーカーは『ツールでお披露目』前に前哨で素性を見せる——マサル的には、ここで出た新型がツール本番で正式発表→記事/ショート化、という“伏線回収”を今から仕込める。※プロト各機の正式スペック/発売は未発表、要続報。",
+      "sources": [
+        { "t": "Cyclingnews（オーベルニュ機材ギャラリー：未発表バイク多数）", "u": "https://www.cyclingnews.com/cycling-tech-components/more-unreleased-bikes-than-ever-before-in-tech-rehearsal-for-the-tour-de-france-mega-dauphine-tech-gallery/", "d": "2026-06-08" },
+        { "t": "BikeRadar（オーベルニュ機材トレンド5）", "u": "https://www.bikeradar.com/features/tech/5-tech-trends-from-the-2026-tour-auvergne-rhone-alpes", "d": "2026-06-09" }
+      ],
+      "status": "確定＝前哨で未発表プロト多数投入は現地ギャラリーで裏取り。曖昧＝各プロトの正式スペック/発売時期は未発表。"
     }
   ]
 }
