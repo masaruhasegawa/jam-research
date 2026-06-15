@@ -1,7 +1,7 @@
 window.LISA_FEEDS = [
   {
     "date": "2026-06-16",
-    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ツール前哨の谷間ですが、明日開幕スイスのポガチャル宣戦布告、ヴァンアールトの謎の感染、バルセロナ発走のツール、そして中華Winspaceの値下げまで——「今」だけ底まで潜りました。",
+    "greeting": "おはようございます、マサルさん！ 追加リサーチ10本お届けします（本日は朝の回と合わせて計20本）。ツール前哨の谷間を底まで——モビスター存続危機、6/17同日開幕の2大ステージレース、ロス五輪コース発表、DJIの1500Wロード参入まで、全カード画像つき・全ソース日付つきで揃えました。",
     "cards": [
       {
         "id": "20260616-tds-pogacar-eve",
@@ -242,6 +242,261 @@ window.LISA_FEEDS = [
           }
         ],
         "status": "確定＝前哨で未発表プロト多数投入は現地ギャラリーで裏取り。曖昧＝各プロトの正式スペック/発売時期は未発表。"
+      },
+      {
+        "id": "20260616-movistar-sponsor-exit",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/oKcvufWwQjPJuei54zuUhg-1024-80.jpg",
+        "headline": "現存最古級の名門モビスター、存続に黒雲——タイトルスポンサーが契約離脱を画策とブルームバーグ報道",
+        "layer1": "6/13、テレフォニカ系のモビスターがチームのタイトルスポンサー契約から早期撤退を望んでいるとブルームバーグが報道。1980年代から系譜が続く現存最古級のチームだけに、ツール直前のこの時期に存続を巡る不安が一気に広がった。",
+        "layer2": "なぜ重いか＝モビスターは長年スポンサーが継続してきた象徴的存在で、選手やスタッフの去就、最悪はチーム売却・消滅にまで波及しうる。背景には2026年のワールドツアー運営費の高騰と、企業側の『露出対効果』への懐疑がある。レース界全体の地盤の弱さを映す話で、機材ブランドや新興チームの勢力図にも影響しうる。※現時点はブルームバーグの観測報道で、チーム/スポンサーの公式確定ではない。要続報。",
+        "sources": [
+          {
+            "t": "Cyclingnews（スポンサー離脱意向の報道）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/movistar-teams-future-up-in-the-air-title-sponsor-wants-out-of-its-contract-according-to-bloomberg/",
+            "d": "2026-06-13"
+          },
+          {
+            "t": "Cyclingnews（移籍・チーム動向ハブ）",
+            "u": "https://www.cyclingnews.com/transfers/",
+            "d": "2026-06"
+          }
+        ],
+        "status": "確定＝スポンサー離脱意向を伝える報道があった点。曖昧＝チーム存続/売却の帰趨は未確定（観測報道・要続報）。"
+      },
+      {
+        "id": "20260616-belgium-slovenia-opener",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-04%2Ftim-merlier-69dfbb84b326b.jpg",
+        "headline": "本命組がスイスに集う裏で——ベルギー＆スロベニアの2大ステージレースが6/17同日開幕、スプリンター頂上決戦",
+        "layer1": "6/17、ツール・ド・スイス（本命組）と並走して、第95回バロワーズ・ベルギーツアーとツール・オブ・スロヴェニアが同日開幕。ベルギーはメルリエ・フィリプセン・コーイ・ギルマイとスプリンター総出演、スロベニアは地元モホリッチが主役に。",
+        "layer2": "見どころ＝ベルギーは5ステージ中3つがスプリント向きで、メルリエ vs フィリプセン vs コーイの発射台争いがツール本番のグリーンジャージ前哨になる。スロベニアはWellens・Groenewegen・Bauhaus・Dunbar・Molanoらが集い、13年ぶり復活のVršič峠（1611m）を擁する第4ステージが勝負所。ポガチャル・ログリッチが不在のなか、地元モホリッチがどこまで魅せるかが物語。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（ベルギーツアー スタートリスト）",
+            "u": "https://cyclinguptodate.com/cycling/startlist-baloise-belgium-tour-2026-riders-tim-merlier-jasper-philipsen-olav-kooij-biniam-girmay-and-more",
+            "d": "2026-06"
+          },
+          {
+            "t": "Domestique Cycling（ベルギーツアー概要）",
+            "u": "https://www.domestiquecycling.com/en/cycling-races/belgium-tour/2026/",
+            "d": "2026-06-09"
+          },
+          {
+            "t": "CyclingUpToDate（スロベニア 暫定スタートリスト）",
+            "u": "https://cyclinguptodate.com/cycling/preliminary-startlist-tour-of-slovenia-with-mohoric-wellens-groenewegen-bauhaus-dunbar-and-molano",
+            "d": "2026-06-15"
+          }
+        ],
+        "status": "確定＝6/17同日開幕・主要スタートリストはメディアで裏取り。曖昧＝勝者予想は性質上の見立て。"
+      },
+      {
+        "id": "20260616-tour-de-suisse-women",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/jZ3mbHyKV2yXSgDK4xSf3f-2000-80.jpg",
+        "headline": "ツール・ド・スイス女子が拡大開催——最強SD Worxは「スター温存」、若手とホーム期待に託す布陣",
+        "layer1": "6/15、男子と並走する女子ツール・ド・スイスが今年は拡大開催と報道。最強軍団SD Worx-Protimeはトップスターを温存し、台頭中のGC若手とスイス地元の期待選手を軸に据える布陣を選んだ。",
+        "layer2": "何が読めるか＝女子の前哨も7月後半の『ツール・ド・フランス・ファム』を見据えた調整期に入り、各チームが主力の出し入れを始めた。SD Worxがエースを温存できるのは選手層の厚さの証左で、若手にGC経験を積ませる狙い。日本でも女子レースの配信・注目度は年々上昇しており、男子一辺倒でない題材としてショート映えする。※具体メンバーは発表ベース、最終登録で変動あり。",
+        "sources": [
+          {
+            "t": "Cyclingnews（SD Worxの女子ツール・ド・スイス布陣）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/no-superstar-rider-but-sd-worx-protime-count-on-rising-gc-talent-and-home-hopeful-to-take-on-expanded-tour-de-suisse-women/",
+            "d": "2026-06-15"
+          },
+          {
+            "t": "Cyclingnews（女子レース ハブ）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/",
+            "d": "2026-06"
+          }
+        ],
+        "status": "確定＝拡大開催・SD Worxの主力温存方針はチーム/メディアで裏取り。曖昧＝最終メンバー。"
+      },
+      {
+        "id": "20260616-la28-road-course",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://smmirror.com/wp-content/uploads/2026/06/Olympic.jpg",
+        "headline": "ロス五輪2028のロードコース発表——ヴェニスビーチ発、ゴールはグリフィス天文台への「上り」フィニッシュ",
+        "layer1": "6/11〜12、LA28組織委が五輪ロードレースのコースを公開。男子250km/女子150km、ヴェニスビーチのボードウォークをスタートし、標高346mのグリフィス天文台へ。ラスト約2km・平均7%の上りで決着する設計。タイムトライアルはLA動物園発・天文台ゴール。",
+        "layer2": "何が面白いか＝海岸→都市→丘陵を貫く『ロサンゼルスを縦断する』設計で、最後の上りはパンチャー/オールラウンダー有利。2028時点でポガチャル世代がどんな状態で臨むかの伏線になり、3年越しで追える長期ネタ。日程は2028年7/19（TT）・7/22（女子RR）・7/23（男子RR）。※詳細プロフィール・周回数は2026年内に追加発表予定。",
+        "sources": [
+          {
+            "t": "Santa Monica Mirror（コース発表）",
+            "u": "https://smmirror.com/2026/06/la28-reveals-route-for-olympic-road-cycling-race-beginning-in-venice-beach/",
+            "d": "2026-06-12"
+          },
+          {
+            "t": "Olympics.com（LA28ロードコース）",
+            "u": "https://www.olympics.com/en/news/la28-road-cycling-routes-los-angeles-key-landmarks",
+            "d": "2026-06"
+          },
+          {
+            "t": "Cycling Weekly（上りフィニッシュの詳細）",
+            "u": "https://www.cyclingweekly.com/racing/uphill-finishes-revealed-for-2028-la-olympics-road-races-and-time-trials",
+            "d": "2026-06"
+          }
+        ],
+        "status": "確定＝発着地・距離・上りフィニッシュは組織委発表で裏取り。曖昧＝勾配/距離の細部は今後の詳細発表待ち。"
+      },
+      {
+        "id": "20260616-megamo-upon-dji",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/06/2026-Megamo-Upon-action-riding-on-hoods-1024x683.jpeg",
+        "headline": "ドローンのDJIが「1500Wモーター」でロードに本格参入——メガモ「Upon」が示すe-ロードのパワー戦争",
+        "layer1": "6/9、スペインのMegamoがDJIの最新Avinox M2Sモーターを積む専用設計のe-ロードバイク『Upon』を発表。ピーク1500W・トルク150Nm（常用は約1300W/130Nm）、600Whバッテリーで航続70〜120km、価格は€3,999〜6,499。",
+        "layer2": "何が新しいか＝e-MTB/グラベルを席巻したドローン大手DJIのモーターが、ついにドロップバーのロードに到達した。Uponはグラベル流用ではなく『ロード専用ジオメトリー＋滑らかな出力特性』を売りに、集団走行や一定ケイデンスでの自然なアシストを狙う。ただし1500Wは欧州の公道アシスト上限（定格250W/25km/h）を大きく超える数値で、フルパワーはクローズド/法域次第——“スペック競争”と“公道規制”のギャップが論点。日本のアシスト規制（24km/hで自動カット）とも相性が悪く、当面は話題先行になりやすい。",
+        "sources": [
+          {
+            "t": "road.cc ebiketips（メガモUpon発表）",
+            "u": "https://road.cc/ebiketips/tech-news/megamo-launches-dedicated-e-road-bike-powered-by-super-powerful-avinox-motor",
+            "d": "2026-06-09"
+          },
+          {
+            "t": "Bikerumor（Avinox搭載e-ロード詳報）",
+            "u": "https://bikerumor.com/megamo-brings-avinox-power-to-the-tarmac-with-new-upon-e-road-bike/",
+            "d": "2026-06-09"
+          },
+          {
+            "t": "Cycling Weekly（DJIの1500Wがロードへ）",
+            "u": "https://www.cyclingweekly.com/products/drone-company-djis-1-500w-motor-started-an-e-bike-power-war-and-now-its-coming-to-road-bikes",
+            "d": "2026-06-09"
+          }
+        ],
+        "status": "確定＝発表日・モーター諸元・価格はメーカー/複数メディアで裏取り。曖昧＝公道での実効アシストは法域依存。"
+      },
+      {
+        "id": "20260616-garmin-edge-550",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/rJmgeocSSqc78bsfZGW8Ro-2560-80.jpg",
+        "headline": "ガーミン新型サイコン「Edge 550」登場——“5シリーズ”が中位機の決定版、初中級のアップグレード候補",
+        "layer1": "6/15、Cyclingnewsが新型『Garmin Edge 550』のレビューを公開。ミドルクラスの5シリーズ最新機で、地図ナビ・トレーニング指標・スマホ連携を一通り備え、上位1040系より手頃な“ちょうどいい”サイコンとして高評価。",
+        "layer2": "初中級にどう効くか＝サイコンは『速度/距離だけ』から『ナビ＋パワー/心拍＋ログ共有』へ役割が広がった。550クラスは地図ナビと坂を予告するClimbPro系を備え、ロングライドの安心感が段違い。フラッグシップは高価すぎ、入門機は地図が弱い——その中庸を埋めるのが550で、最初の“ちゃんとした1台”に向く。※国内価格/発売時期は要確認（海外レビュー先行）。",
+        "sources": [
+          {
+            "t": "Cyclingnews（Garmin Edge 550 レビュー）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/garmin-edge-550-review/",
+            "d": "2026-06-15"
+          }
+        ],
+        "status": "確定＝新型550のレビュー公開・中位機としての位置づけはメディアで裏取り。曖昧＝国内価格/発売時期は未確認。"
+      },
+      {
+        "id": "20260616-chain-wax-standard",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn-jupiter.metropolis.co.uk/wp-content/uploads/sites/9/2024/02/Silca-prewaxed-chain.webp",
+        "headline": "2026年、プロが「ワックス系チェーン」へ全面移行——なぜ今“注油の常識”が変わったのか",
+        "layer1": "前哨戦の機材観測でプロのほぼ全車がワックス系チェーンルブに移行。独立ラボのテストでもワックスは従来のウェット系より2〜5W省け、汚れにくく寿命も延びる、というのが2026年の到達点になった。",
+        "layer2": "仕組みと初中級の使い分け＝ワックスは（1）ホットメルト（鍋で溶かして浸す・最強だが手間）と（2）ドリップワックス（垂らすだけ・手軽）の二系統。SilcaのSecret Chain Blendは『市販で最低摩擦』とされ、ドリップではSilca Synergeticやスクワートが定番、Squirtは低価格で“9割の清潔さ”。注意は『最初にしっかり脱脂してから施工』『ドリップは塗布頻度がやや高い』こと。レースに出ない人でも“チェーンが真っ黒にならない・手が汚れない”恩恵は大きい。※数値はZero Friction Cycling等の独立テスト準拠。",
+        "sources": [
+          {
+            "t": "Cyclist（ベスト・チェーンワックス2026）",
+            "u": "https://www.cyclist.co.uk/buying-guides/best-chain-wax",
+            "d": "2026-01"
+          },
+          {
+            "t": "Cycling Weekly（ベスト・チェーンルブ2026）",
+            "u": "https://www.cyclingweekly.com/group-tests/best-chain-lube-wet-or-dry-289671",
+            "d": "2026"
+          },
+          {
+            "t": "Cyclingnews（ベスト・バイクチェーンルブ）",
+            "u": "https://www.cyclingnews.com/features/best-bike-chain-lube/",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝ワックス優位（省ワット/清潔/寿命）は複数の独立テストで裏取り。普遍テーマのため日付はYYYY-MM。"
+      },
+      {
+        "id": "20260616-ebike-market-jp",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://img.my-best.com/contents/9dbc812fc20e6f85dfd090906e112bbb.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=3b2fa61703204ccef22cb7cc76051391",
+        "headline": "【経営メモ】DJI参入でe-bikeが“パワー競争”へ——日本のスポーツe-bike市場、店はどう構えるか",
+        "layer1": "メガモ×DJIの1500W e-ロード（前述）に象徴されるように、e-bikeは性能・価格競争の新局面へ。日本でもパナソニック・ヤマハ・ブリヂストン・ジャイアント・スペシャライズドがスポーツe-bikeを拡充し、街乗りからロング・ヒルクライムまで裾野が広がっている。",
+        "layer2": "店目線の要点＝（1）e-bikeは客単価・粗利ともに高く、サイクル不況下でも数少ない伸び筋。（2）ただし日本は『定格250W/24km/hで自動カット』の規制が壁で、DJIの1500W級フルパワーはそのまま公道に出せない＝“スペックの夢”と“合法の現実”を翻訳して売る役割が店にある。（3）中華e-roadや海外直販はバッテリー保安・PSE・アフターの不安が大きく、ここがリアル店の差別化点。マサルの店なら『合法・安心・組付け・保守』をパッケージ化すると刺さる。※本カードは市場観測（記事化不要の経営メモ）。",
+        "sources": [
+          {
+            "t": "マイベスト（スポーツe-bikeおすすめ・2026年6月）",
+            "u": "https://my-best.com/14061",
+            "d": "2026-06"
+          },
+          {
+            "t": "road.cc ebiketips（DJI参入の象徴・メガモUpon）",
+            "u": "https://road.cc/ebiketips/tech-news/megamo-launches-dedicated-e-road-bike-powered-by-super-powerful-avinox-motor",
+            "d": "2026-06-09"
+          }
+        ],
+        "status": "曖昧＝市場観測（経営メモ）。規制（定格250W/24km/hで自動カット）は国内の制度事実。個別製品の評価は店頭/最新表示で確認を。"
+      },
+      {
+        "id": "20260616-used-roadbike-buyers-market",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/01/zakki_C128.jpg",
+        "headline": "中古ロードバイクが「買い手市場」へ——ブーム期の良質中古が流通、初中級の狙い目が広がる",
+        "layer1": "コロナ期に高騰した中古バブルが調整局面入り。供給過多と需要減で、ブーム期に買われた良質な中古が市場へ戻り、売り手市場から買い手市場へ。じっくり比較して買える環境になりつつある。",
+        "layer2": "初中級への実利と注意＝新車の値引きと並んで、中古は『型落ちカーボン×コンポ良好』を予算20万円前後で狙える好機。ただし中古は（1）フレーム/フォークの打痕・カーボン損傷、（2）消耗品（チェーン/タイヤ/BB/ワイヤ）の残量、（3）電動コンポのバッテリー劣化、を要チェック。可能なら整備記録のある店経由が安全。店側は『中古の目利き＋整備＋保証』で価値を出せる。※市場観測（普遍テーマ・直近の調整局面を起点）。",
+        "sources": [
+          {
+            "t": "サトユキブログ（2026は本当に値下がり？・中古の充実に言及）",
+            "u": "https://satoyukiblog.com/2026/03/09/2026-road-bike-prices-are-they-actually-dropping/",
+            "d": "2026-03-09"
+          },
+          {
+            "t": "bike-memo（2026 大手価格改定と高コスパ新興）",
+            "u": "https://bike-memo.com/cycle_260204_roadbike/",
+            "d": "2026-02-04"
+          }
+        ],
+        "status": "曖昧＝市場観測（普遍）。中古は個体差が大きく、現物・整備履歴の確認を推奨。"
+      },
+      {
+        "id": "20260616-beginner-summer-heat",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://www.longride.org/wp/wp-content/uploads/2022/06/22062214-00.jpg",
+        "headline": "梅雨明け前に備える——初中級のための「夏ロード」暑さ・熱中症・補給の実践三本柱",
+        "layer1": "まもなく到来する酷暑シーズン。夏のロードは『水分・塩分の補給』『ウェア/日焼け対策』『走行時間の管理』が三本柱。準備不足のロングは熱中症で命に関わるため、初中級ほど基本を固めたい。",
+        "layer2": "潜って得た実用知＝（1）補給：1時間あたり500〜1000mlを目安に、汗で失う塩分も意識（経口補水/塩タブ）。保冷ボトルで冷たさをキープ。（2）冷却：首・脇・腿など太い血管を冷やすと体温が下がりやすい。氷嚢/冷却タオルが有効。（3）時間管理：真昼を避け早朝・夕方に走り、2週間ほどかけて暑さに体を慣らす『暑熱順化』を。異変（頭痛/めまい/吐き気）は即中止・日陰・冷却・水分。※普遍テーマ＝夏本番を前に再整理。",
+        "sources": [
+          {
+            "t": "ロングライド.org（暑さ・熱中症対策11選）",
+            "u": "https://www.longride.org/heat-measure-longride/",
+            "d": "2022-06"
+          },
+          {
+            "t": "buychariジャーナル（酷暑ライドの必須3点）",
+            "u": "https://journal.buychari.com/extreme-heat-cycling-tips/",
+            "d": "2025-07"
+          }
+        ],
+        "status": "確定＝補給量の目安・冷却部位・暑熱順化は定説で裏取り。普遍テーマのため日付はYYYY-MM。"
       }
     ]
   },
