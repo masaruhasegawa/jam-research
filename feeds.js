@@ -1,5 +1,256 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-06-17",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本お届けします。スイス・ベルギー・スロベニアが同日に走り出す“ツール直前のごった煮”を底まで——中華カーボンの最新序列も更新されました。",
+    "cards": [
+      {
+        "id": "20260617-cn-carbon-2026",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": true,
+        "image": "https://www.cyclistshub.com/wp-content/uploads/2021/03/Best-Chinese-Carbon-Road-Bike-Wheels-1024x538.jpg",
+        "headline": "中華カーボン2026の最新序列が更新——ELITEWHEELS DRIVE IIとYOELEO NxT SL2が頂点争い、FARSPORTS C5は『快適で安定』評価",
+        "layer1": "Cyclists Hubが定番の『最良の中華カーボンホイール』比較を2026-06-12に更新。実測テストを伴う上位リストが入れ替わり、プレミアム枠はELITEWHEELS DRIVE II（50mm・公称1322g）とYOELEO NxT SL2（C60・約1320g）が並んだ。",
+        "layer2": "注目は価格と実測のせめぎ合い。うちでも扱うFARSPORTS C5（50mm・1328g・スチールスポーク）は『快適で意外なほど安定』と評価され、バリュー枠ではELITEWHEELS EDGE（50mm・1353g）、新世代UCI認証のLún HYPER 5（D50・1263g・封入フランジ）が伸びた。公称重量は1300g前後で横並びだが、編集部は『安全と品質管理の観点から実績ある中華ブランドを選べ』と明記——まさに8LIEN/CRW/FARSPORTS級の“設計と検品で選ぶ”時代。テスト主体ゆえ単独新製品発表ではなく、序列の再編成が主役。",
+        "sources": [
+          {
+            "t": "Cyclists Hub",
+            "u": "https://www.cyclistshub.com/best-chinese-carbon-wheels/",
+            "d": "2026-06-12"
+          }
+        ],
+        "status": "確定＝記事は2026-06-12更新で各モデルの公称重量・価格帯を明記。曖昧＝個別実測ワット値やクロスウィンド数値は記事内に未掲載のため横断比較は要追加裏取り。"
+      },
+      {
+        "id": "20260617-storer-vingegaard",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2025/Tour-de-France/CORVOS_00038148-007.jpg",
+        "headline": "ジロで実際に当たったストーラーが断言——『今年のツールはヴィンゲゴーがポガチャルを倒す』",
+        "layer1": "ジロ・デ・イタリアでヴィンゲゴーに敗れたマイケル・ストーラーが、6月16日のインタビューでヴィンゲゴーのツール・ド・フランス2026優勝を予想した。",
+        "layer2": "ストーラーは『彼は今、真っ赤に燃える好調。ジロのときよりさらにツールでは強くなると思う』『座ったまま我々を引き離せた。地味だが、刻んだタイム差が彼の強さを物語っていた』と具体的に証言。ジロ→ツールのダブル挑戦自体は既報だが、ジロで実際に走った当事者ライバルが名指しでヴィンゲゴー優位を語った点が新しい。あくまで一選手の予想であり、ポガチャルが依然として大本命であることは各メディアの共通見解。",
+        "sources": [
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/id-put-it-out-there-vingegaard-beats-pogacar-at-the-tour-this-year-storer-on-his-giro-rival-and-the-tour-de-france/",
+            "d": "2026-06-16"
+          }
+        ],
+        "status": "確定＝ストーラーの発言・ジロ結果（ヴィンゲゴーが複数ステージ勝利＋総合）/曖昧＝ツール本番の優勝予想（一選手の見解にすぎず未確定）。"
+      },
+      {
+        "id": "20260617-belgium-sprint",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/watermark:AlpecinCycling/width:3840/height:2560/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/www.indeleiderstrui.nl/images/2026-02/jasper-philipsen-699ddd80053be.jpg@webp",
+        "headline": "本日開幕バロワーズ・ベルギーツアー——フィリプセン対メルリールのスプリント直接対決、コーイは『ツール選考』が懸かる正念場",
+        "layer1": "6月17日開幕のバロワーズ・ベルギーツアーは、5ステージ中3つ以上がスプリント勝負と見られ、トップスプリンターたちがツール・ド・フランス直前の照準合わせに集結した。",
+        "layer2": "主役はヤスパー・フィリプセン（アルペシン）、ティム・メルリール（スーダル）、オラフ・コーイ（デカトロン）。フィリプセンは日曜のコペンハーゲン・スプリント勝利で好調を携え、フィニッシュ地スヘルペンヒューフェルでの過去2勝という相性も。コーイにとっては『ステージ勝利がツール選考に直結しうる』正念場と複数媒体が指摘。なおフィリプセンとメルリールが今季初対戦とする報道もあるが、これは一部ソースのみで主要プレビューでは未確認のため要裏取り。",
+        "sources": [
+          {
+            "t": "IDLProCycling",
+            "u": "https://www.idlprocycling.com/cycling/baloise-belgium-tour-2026-sprint-battles-fireworks-in-the-hills-all-with-an-eye-on-the-tour-de-france",
+            "d": "2026-06-16"
+          },
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/startlist-baloise-belgium-tour-2026-riders-tim-merlier-jasper-philipsen-olav-kooij-biniam-girmay-and-more",
+            "d": "2026-06-16"
+          }
+        ],
+        "status": "確定＝開催日程・出場スプリンター陣・フィリプセンのコペンハーゲン勝利/曖昧＝『フィリプセンとメルリール今季初対戦』は一部報道のみ（※要裏取り）、各ステージの勝者は未確定。"
+      },
+      {
+        "id": "20260617-slovenia-vrsic",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/watermark:Sirotti/width:3840/height:2560/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/www.indeleiderstrui.nl/images/2026-04/tadej-pogacar-69f05d9d384c7.jpg@webp",
+        "headline": "本日開幕ツアー・オブ・スロベニア——13年ぶり復活の名峠ヴルシッチ（1611m）が総合の決戦地に",
+        "layer1": "6月17日開幕のツアー・オブ・スロベニア2026で、スロベニア最高所の名峠ヴルシッチ（標高1611m）が13年ぶりにコース復帰し、第4ステージがクイーンステージとして総合を分ける。",
+        "layer2": "第4ステージはクラニ〜クランスカ・ゴーラの183.1km、獲得標高は約3825m（公式・Wikipedia系で3825m、一部媒体は4000m超と表記しブレあり）。総合本命はレッドブル・ボーラのフロリアン・リポヴィッツ、ジュリオ・ペリッツァーリ、ローレンス・ピシー。地元の注目株として2025年ジロ・ネクストジェン覇者のヤコブ・オムルゼル（バーレーン）も。なおポガチャルはツール準備でツール・ド・スイスに出場しており本レース不在。",
+        "sources": [
+          {
+            "t": "Tour of Slovenia 公式",
+            "u": "https://tourofslovenia.si/en/article/414/details-of-the-32nd-tour-of-slovenia-revealed",
+            "d": "2026-04-14"
+          },
+          {
+            "t": "Wikipedia (2026 Tour of Slovenia)",
+            "u": "https://en.wikipedia.org/wiki/2026_Tour_of_Slovenia",
+            "d": "2026-06-16"
+          }
+        ],
+        "status": "確定＝開催日程・ヴルシッチ13年ぶり復活・第4ステージが決戦地・総合favourites/曖昧＝第4ステージ獲得標高（3825m vs 4000m超で媒体間にブレ、※要裏取り）、レース結果は未確定。"
+      },
+      {
+        "id": "20260617-dauphine-proto-wheels",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/06/Dauphine-2026-Tech-Gallery-1024x683.jpg",
+        "headline": "ツール前哨『旧ドフィネ』2026で試作ホイールが続出——プロトのDura-Aceカーボンスポーク勢が本番前の最終テスト",
+        "layer1": "road.ccが2026-06-08に旧クリテリウム・デュ・ドフィネ（現ツール・オーヴェルニュ・ローヌ・アルプ）2026の大型テックギャラリーを公開。ツール直前の『前哨戦』らしく、Visma-Lease a BikeのCervélo S5に組まれたReserveリアディスクなど未発表・試作ホイールが並んだ。",
+        "layer2": "今季の伏線は、シマノが市販C60（スチールスポーク）に対し、プロトタイプのDura-Aceカーボンスポーク・ホイール（ニップルをハブ側へ移設・2:1組み）をMvdPらが各レースで投入してきた流れにある。UCI規定では初使用から12カ月以内の市販化が求められ、ツール本番での正式お披露目が濃厚。エアロ最適化に加え、前まわりの低重心化も観測され、各社の『エアロ＋軽量』両取り競争が鮮明。中華勢が公称1300g級で迫る今、シマノが何を出すかは価格と性能の基準点になる。",
+        "sources": [
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/feature/the-mini-tour-de-france-provides-maximum-bike-tech-goodness-mega-tech-gallery-from-the-race-formerly-known-as-the-criterium-du-dauphine",
+            "d": "2026-06-08"
+          },
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/racing/tour-de-france/unreleased-shimano-c60-wheelset-with-carbon-spokes-breaks-cover-ahead-of-the-tour-de-france",
+            "d": "2025-07-03"
+          }
+        ],
+        "status": "確定＝ドフィネ2026ギャラリーは2026-06-08公開（road.cc）。曖昧＝シマノ試作Dura-Aceカーボンスポークの正式型番・重量・ワット値は未発表で、個別投入車の特定は要追加裏取り。"
+      },
+      {
+        "id": "20260617-dauphine-parts-tech",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/06/Dauphine-2026-Tech-Gallery-1024x683.jpg",
+        "headline": "ツール直前のパーツ最前線——前哨戦でコードレス空気入れ・1xチェーンリング・Di2小技が一斉に表面化",
+        "layer1": "road.ccのドフィネ2026テックギャラリー（2026-06-08）は、完成車だけでなくプロのパーツ運用と現場ハックを多数収録。メカニックの標準装備としてMatikaのコードレス・インフレーターが定着しつつある点が目を引いた。",
+        "layer2": "ドライブトレイン周りでは、XDS AstanaのTTバイクに非スポンサーの1xチェーンリングが装着され、UNO-X選手車には167.5mmという短クランクも確認。Di2内蔵バッテリーのカスタム処理や、Astanaメカニックがバーテープ仕上げテープでDi2リアディレイラー配線を固定するなどの小技も。コックピット系ではSpecialized S-Works Sitteroサドルや長尺スペーサー積み増しが見られ、ツール本番投入前の最終調整が透ける内容。Silca×UAEのチェーンワックス連携も現場で稼働。",
+        "sources": [
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/feature/the-mini-tour-de-france-provides-maximum-bike-tech-goodness-mega-tech-gallery-from-the-race-formerly-known-as-the-criterium-du-dauphine",
+            "d": "2026-06-08"
+          }
+        ],
+        "status": "確定＝記事は2026-06-08公開で各パーツ・ハックを写真付きで明記。曖昧＝1xチェーンリングのブランドや短クランク採用の選手意図は記事に詳細記載がなく、製品化/正式採用かは要追加裏取り。"
+      },
+      {
+        "id": "20260617-helmet-ecwave2",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://prcdn.freetls.fastly.net/release_image/46797/39/46797-39-6ad142566c58049e577456f81242ee13-3750x2500.jpg",
+        "headline": "【経営メモ】青切符でヘルメット・安全用品に第2波需要——商機は『啓発』から『アップグレード』へ",
+        "layer1": "2026-06-16付のEC分析が、4月施行の青切符を引き金にヘルメットの第2波需要を予測。2023年の努力義務化では大人用が約2カ月で約10倍に跳ね、価格帯は3千〜5千円に一気に下がった。",
+        "layer2": "経営含意。今回は罰則という金銭負担が買い替えを後押しするため、様子見層やデリバリー・通勤の高頻度ユーザーが実購入に動く可能性が高い（確定＝2023年の販売急増実績、曖昧＝2026年の伸び幅は未確定）。完成車が伸びない局面で、ヘルメット・ライト・鍵などSG適合や上位グレードの用品販売は利益率と来店動機の両面で効く。安さ訴求より認証・デザイン・買い替え提案に寄せるのが筋。",
+        "sources": [
+          {
+            "t": "ラクット！(EC商機分析)",
+            "u": "https://blog.rakutto.com/2026%E5%B9%B4%E6%96%B0%E4%BA%A4%E9%80%9A%E3%83%AB%E3%83%BC%E3%83%AB%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8Bec%E5%95%86%E6%A9%9F%EF%BD%9C%E8%87%AA%E8%BB%A2%E8%BB%8A%E3%83%98%E3%83%AB%E3%83%A1%E3%83%83/",
+            "d": "2026-06-16"
+          },
+          {
+            "t": "Nint ECデータラボ",
+            "u": "https://www.nint.jp/blog/icycle-helmet-demand-2026-law-revision/",
+            "d": "2026-03-10"
+          },
+          {
+            "t": "オージーケーカブト(PR TIMES)",
+            "u": "https://prtimes.jp/main/html/rd/p/000000039.000046797.html",
+            "d": "2026-03-26"
+          }
+        ],
+        "status": "確定＝2023年に大人用ヘルメット売上が約10倍・低価格帯シフト、青切符は2026-04-01施行。曖昧＝第2波の規模と単価上昇は未確定（※要裏取り）。"
+      },
+      {
+        "id": "20260617-ebike-premium",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2184572.jpg",
+        "headline": "【経営メモ】電動アシストが高級化——売れ筋が12〜13万円から15〜18万円帯へ、完成車不振の裏で『高単価の柱』に",
+        "layer1": "電動アシスト自転車の値上げが続き、売れ筋価格帯が従来の12〜13万円台から15〜18万円台へ上昇。ブリヂストンが2025年9月、ヤマハがPAS主要モデルで2026年2月から1万円超の値上げを実施した。",
+        "layer2": "経営含意。原材料・円安・物流・電池競合という構造要因が背景で、かつての高級帯が標準帯になった（確定＝両社の値上げ実施、曖昧＝今後の高止まり幅）。ロードバイク完成車が売れない局面で、電動アシストは台数より単価で稼げる成長カテゴリ。ヤマハは新型10.2Ahバッテリー搭載のPAS CHEER 2026を4月18日発売と、利便性で買い替えを促す動き。補助金・型落ち在庫・店頭受取など購入導線の提案が来店と粗利の両取りに効く。",
+        "sources": [
+          {
+            "t": "note(市場分析)",
+            "u": "https://note.com/fuji_note_/n/n643c24f0b884",
+            "d": "2026-03-27"
+          },
+          {
+            "t": "Response.jp(ヤマハPAS CHEER 2026)",
+            "u": "https://response.jp/article/2026/02/12/407340.html",
+            "d": "2026-02-12"
+          },
+          {
+            "t": "ヤマハ発動機 ニュースリリース",
+            "u": "https://global.yamaha-motor.com/jp/news/2026/0212/pas.html",
+            "d": "2026-02-12"
+          }
+        ],
+        "status": "確定＝ブリヂストン2025-09・ヤマハ2026-02値上げ、PAS CHEER 2026は4/18発売。曖昧＝売れ筋15〜18万円帯はブログ集計値で公式統計ではない（※要裏取り）。"
+      },
+      {
+        "id": "20260617-pass1m-rule",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://coki.jp/wp-content/uploads/2026/03/kaisei_road.jpg",
+        "headline": "自転車追い抜き『1m間隔』ルールに誤解と論争——実は固定義務ではなく『十分な間隔＋必要に応じた減速』",
+        "layer1": "2026年4月施行の改正道交法で、クルマが自転車の右側を追い抜く際に十分な側方間隔と必要に応じた減速が義務化。ネットでは『1m未満は即違反』との誤解が広がり、狭い道で非現実的とドライバーから批判が噴出した。",
+        "layer2": "先回り。法律が求めるのは固定の1m義務ではなく『十分な間隔と減速』で、警察庁の『少なくとも1m程度』はあくまで目安（確定＝義務化と罰則、曖昧＝現場の運用解釈はこれから固まる）。自転車側にも『できる限り左端通行』の義務が課され反則金対象。販売・接客面では、車道走行が前提の安全装備（テールライト・リアレーダー・反射材）と走行位置の指導が刺さるトレンドで、ロードユーザーの不安解消トークの材料になる。",
+        "sources": [
+          {
+            "t": "FreeMile Blog(1m義務は誤解)",
+            "u": "https://www.freemile.jp/blog/oikoshi-1m-gimu-gokai/",
+            "d": "2026-05-12"
+          },
+          {
+            "t": "coki(批判殺到)",
+            "u": "https://coki.jp/article/column/72944/",
+            "d": "2026-03-21"
+          },
+          {
+            "t": "JAFMate Online",
+            "u": "https://jafmate.jp/car/sp_20260327_1198851.html",
+            "d": "2026-03-27"
+          }
+        ],
+        "status": "確定＝2026-04-01施行・間隔/減速義務と罰則・自転車側の左端通行義務。曖昧＝『1m未満で一律違反』は誤り、現場運用は流動的（※Xでドライバーが論争、※要裏取り）。"
+      },
+      {
+        "id": "20260617-disc-fade-natsu",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://bike-plus.com/cdn/shop/files/hydraulic-disc-brakes-usage-coutions-02.webp",
+        "headline": "夏の長い下りで効かなくなる油圧ディスク——『フェード』を起こさない握り方と、前夜の3点点検",
+        "layer1": "ツール前哨戦が6/14に山岳決着で閉幕し、山と下りの季節が本格化。同時に日本も熱中症警戒アラートが連日出る猛暑入り。初めての夏の峠下りに向かう初中級者へ、油圧ディスクの『フェード』（連続制動でオイルとパッドが過熱し効きが落ちる現象）と汚染トラブルの基礎を整理する。",
+        "layer2": "フェードは強く一瞬握るより『弱く握りっぱなし』で起きやすい。長い下りは断続的にしっかり握って速度を落とし、合間にレバーを離して冷ます『ポンピング』が基本。重い人ほど油温が上がりやすいので、フィン付きパッドや厚めローターも有効。下り後のローターは火傷するほど熱いので素手で触らない。前夜点検は3点。(1)レバーの引きが奥までスカスカ（エア噛み）なら車体を立ててレバーを連打しエアを戻す、改善しなければショップへ。(2)注油・洗車時はキャリパーをビニールで覆い、油がパッド/ローターに付くと一発で効かなくなり鳴きの元。素手でパッド面を触らない。(3)パッド残厚（シマノ0.5mm/SRAM1.0mmが交換目安）とオイル漏れ・ホース傷を確認。輪行で車体を逆さにするとエアが入りやすいので、パッドスペーサーでピストンの押し出しを防ぐ。",
+        "sources": [
+          {
+            "t": "バイクプラス(油圧ディスクブレーキ使用上の注意)",
+            "u": "https://bike-plus.com/blogs/blog/hydraulic-disc-brakes-usage-coutions",
+            "d": "2025-05-11"
+          },
+          {
+            "t": "cyclinguptodate(ツール・オーヴェルニュ・ローヌ・アルプ2026最終結果)",
+            "u": "https://cyclinguptodate.com/cycling/tour-auvergne-rhone-alpes-2026-final-classifications-isaac-del-toro-snatches-overall-victory-as-luke-tuckwell-loses-yellow-and-juan-ayuso-completes-podium",
+            "d": "2026-06-14"
+          },
+          {
+            "t": "tenki.jp(熱中症警戒アラート運用)",
+            "u": "https://tenki.jp/forecaster/y_nakagawa/2026/04/22/38647.html",
+            "d": "2026-04-22"
+          }
+        ],
+        "status": "確定＝フェードの機序・対処・点検手順は油圧ディスクの一般的な技術情報として確定。曖昧＝『季節の本格化』は前哨戦終了と熱中症アラートを根拠にした編集判断。"
+      }
+    ]
+  },
+  {
     "date": "2026-06-16",
     "greeting": "おはようございます、マサルさん！ 本日2回目の追加リサーチ、10本お届けします。ツール前哨の谷間を底まで——史上初イタリア発走のスイス女王ステージ、エヴェネプールの『68日ノーレース』の賭け、フォレリングの女子スイス、ターマックSL9の茂み潜伏スパイ撮、青切符の初月実績、海外D2Cの価格圧力まで。全カード画像つき・全ソース公開日つきで揃えました。",
     "cards": [
