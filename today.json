@@ -1,139 +1,130 @@
 {
   "date": "2026-06-16",
-  "greeting": "おはようございます、マサルさん！ 追加リサーチ10本お届けします（本日は朝の回と合わせて計20本）。ツール前哨の谷間を底まで——モビスター存続危機、6/17同日開幕の2大ステージレース、ロス五輪コース発表、DJIの1500Wロード参入まで、全カード画像つき・全ソース日付つきで揃えました。",
+  "greeting": "おはようございます、マサルさん！ 本日2回目の追加リサーチ、10本お届けします。ツール前哨の谷間を底まで——史上初イタリア発走のスイス女王ステージ、エヴェネプールの『68日ノーレース』の賭け、フォレリングの女子スイス、ターマックSL9の茂み潜伏スパイ撮、青切符の初月実績、海外D2Cの価格圧力まで。全カード画像つき・全ソース公開日つきで揃えました。",
   "cards": [
     {
-      "id": "20260616-movistar-sponsor-exit",
+      "id": "20260616-tds-mens-queenstage",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/oKcvufWwQjPJuei54zuUhg-1024-80.jpg",
-      "headline": "現存最古級の名門モビスター、存続に黒雲——タイトルスポンサーが契約離脱を画策とブルームバーグ報道",
-      "layer1": "6/13、テレフォニカ系のモビスターがチームのタイトルスポンサー契約から早期撤退を望んでいるとブルームバーグが報道。1980年代から系譜が続く現存最古級のチームだけに、ツール直前のこの時期に存続を巡る不安が一気に広がった。",
-      "layer2": "なぜ重いか＝モビスターは長年スポンサーが継続してきた象徴的存在で、選手やスタッフの去就、最悪はチーム売却・消滅にまで波及しうる。背景には2026年のワールドツアー運営費の高騰と、企業側の『露出対効果』への懐疑がある。レース界全体の地盤の弱さを映す話で、機材ブランドや新興チームの勢力図にも影響しうる。※現時点はブルームバーグの観測報道で、チーム/スポンサーの公式確定ではない。要続報。",
+      "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/UAE-Team-Emirates-XRG/CORVOS_00038913-266.jpg?width=832&height=468&format=jpg&crop=3972%2C2235%2C0%2C206",
+      "headline": "ツール・ド・スイスが史上初のイタリア発走——5日間に圧縮、最終日は『コル・ド・ラ・クロワ4回』の女王ステージでポガチャル本命",
+      "layer1": "6/17開幕の第89回ツール・ド・スイスは、レース史上初めてイタリア・ソンドリオで発走。8→5日に圧縮され、ポガチャルがキャリア初参戦する。最終第5ステージは標高差4,200m超、ヴィラール＝シュル＝オロンでコル・ド・ラ・クロワを4回登る正真正銘の女王ステージ。",
+      "layer2": "なぜ本命か＝ポガチャルは過去5シーズン、ツール前『最後に出たステージレース』を毎回総合制覇しており、ツール・ド・ロマンディでも4ステージ勝利と絶好調。5日間に平坦TTがなく登坂主体の構成は、彼にとって理想的な最終調整になる。対抗はピドコック、初参戦のログリッチ、2021年以来復帰のMvdP（ステージ狙い）。本番ツール（7/4バルセロナ発）へ各陣営が脚を測る一週間。",
       "sources": [
-        { "t": "Cyclingnews（スポンサー離脱意向の報道）", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/movistar-teams-future-up-in-the-air-title-sponsor-wants-out-of-its-contract-according-to-bloomberg/", "d": "2026-06-13" },
-        { "t": "Cyclingnews（移籍・チーム動向ハブ）", "u": "https://www.cyclingnews.com/transfers/", "d": "2026-06" }
+        { "t": "Domestique Cycling（スイス男子プレビュー）", "u": "https://www.domestiquecycling.com/en/features/tour-de-suisse-2026-preview-pogacars-debut-ahead-of-record-equalling-tour-bid/", "d": "2026-06-15" },
+        { "t": "CyclingUpToDate（スイス プレビュー）", "u": "https://cyclinguptodate.com/cycling/tour-de-suisse-2026-preview-stages-favourites-predictions-will-tadej-pogacar-win-his-pre-tour-de-france-test", "d": "2026-06-15" }
       ],
-      "status": "確定＝スポンサー離脱意向を伝える報道があった点。曖昧＝チーム存続/売却の帰趨は未確定（観測報道・要続報）。"
+      "status": "確定＝日程・コース・出場はメディアで裏取り。曖昧＝勝者予想は性質上の見立て。"
     },
     {
-      "id": "20260616-belgium-slovenia-opener",
+      "id": "20260616-tdf-favourites-ranking",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-04%2Ftim-merlier-69dfbb84b326b.jpg",
-      "headline": "本命組がスイスに集う裏で——ベルギー＆スロベニアの2大ステージレースが6/17同日開幕、スプリンター頂上決戦",
-      "layer1": "6/17、ツール・ド・スイス（本命組）と並走して、第95回バロワーズ・ベルギーツアーとツール・オブ・スロヴェニアが同日開幕。ベルギーはメルリエ・フィリプセン・コーイ・ギルマイとスプリンター総出演、スロベニアは地元モホリッチが主役に。",
-      "layer2": "見どころ＝ベルギーは5ステージ中3つがスプリント向きで、メルリエ vs フィリプセン vs コーイの発射台争いがツール本番のグリーンジャージ前哨になる。スロベニアはWellens・Groenewegen・Bauhaus・Dunbar・Molanoらが集い、13年ぶり復活のVršič峠（1611m）を擁する第4ステージが勝負所。ポガチャル・ログリッチが不在のなか、地元モホリッチがどこまで魅せるかが物語。",
+      "image": "https://domestique-cycling.b-cdn.net/production/2025/Tour-de-France/CORVOS_00038200-246.jpg?width=832&height=468&format=jpg&crop=2000%2C1125%2C0%2C104",
+      "headline": "ツール本番まで3週間——『ポガチャルを止められるのは誰か』、序列はヴィンゲゴーが筆頭、19歳セイシャスは未知数",
+      "layer1": "6/6、ツール・ド・フランス2026（7/4バルセロナ発）の直前フォーム序列が出揃った。世界王者ポガチャルが圧倒的本命、ジロを5ステージ勝利で制したヴィンゲゴーが『唯一の対抗』として浮上した。",
+      "layer2": "各論＝ヴィンゲゴーは最後にポガチャルを破った2023年以来の最高の仕上がりで、ジロを脚を使い切らずに勝ち切った点が大きい。19歳の新星セイシャスは春に週ごとに成長したが、グランツール3週間の経験ゼロが最大の不安。エヴェネプールは長期ノーレースの賭け（別カード）、リポヴィッツは表彰台候補だが『異次元の2人』には届かない見立て。要は『2強＋α』の構図がさらに固まった。",
       "sources": [
-        { "t": "CyclingUpToDate（ベルギーツアー スタートリスト）", "u": "https://cyclinguptodate.com/cycling/startlist-baloise-belgium-tour-2026-riders-tim-merlier-jasper-philipsen-olav-kooij-biniam-girmay-and-more", "d": "2026-06" },
-        { "t": "Domestique Cycling（ベルギーツアー概要）", "u": "https://www.domestiquecycling.com/en/cycling-races/belgium-tour/2026/", "d": "2026-06-09" },
-        { "t": "CyclingUpToDate（スロベニア 暫定スタートリスト）", "u": "https://cyclinguptodate.com/cycling/preliminary-startlist-tour-of-slovenia-with-mohoric-wellens-groenewegen-bauhaus-dunbar-and-molano", "d": "2026-06-15" }
+        { "t": "Domestique Cycling（2026ツール本命分析）", "u": "https://www.domestiquecycling.com/en/news/analysing-the-2026-tour-de-france-favourites/", "d": "2026-06-06" }
       ],
-      "status": "確定＝6/17同日開幕・主要スタートリストはメディアで裏取り。曖昧＝勝者予想は性質上の見立て。"
+      "status": "確定＝各選手の戦績・調整状況は裏取り。曖昧＝序列・優劣は分析・見立て。"
     },
     {
-      "id": "20260616-tour-de-suisse-women",
+      "id": "20260616-evenepoel-noraces-gamble",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/jZ3mbHyKV2yXSgDK4xSf3f-2000-80.jpg",
-      "headline": "ツール・ド・スイス女子が拡大開催——最強SD Worxは「スター温存」、若手とホーム期待に託す布陣",
-      "layer1": "6/15、男子と並走する女子ツール・ド・スイスが今年は拡大開催と報道。最強軍団SD Worx-Protimeはトップスターを温存し、台頭中のGC若手とスイス地元の期待選手を軸に据える布陣を選んだ。",
-      "layer2": "何が読めるか＝女子の前哨も7月後半の『ツール・ド・フランス・ファム』を見据えた調整期に入り、各チームが主力の出し入れを始めた。SD Worxがエースを温存できるのは選手層の厚さの証左で、若手にGC経験を積ませる狙い。日本でも女子レースの配信・注目度は年々上昇しており、男子一辺倒でない題材としてショート映えする。※具体メンバーは発表ベース、最終登録で変動あり。",
+      "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/Red-Bull-Bora-hansgrohe/CORVOS_00038827-034.jpg?width=832&height=468&format=jpg&crop=3404%2C1915%2C0%2C177",
+      "headline": "エヴェネプール、ツールまで『68日間ノーレース』の大博打——425Wの閾値、狙いは2022年グラノンでポガチャルを崩した『あの戦術』",
+      "layer1": "6/11、レッドブル・ボーラはエヴェネプールがリエージュ〜バストーニュ以来レースをせず、実戦勘ゼロのままツール本番（バルセロナ）に入ると報じられた。テイデ山合宿では425Wの閾値セッション（FTP反復）を公開している。",
+      "layer2": "なぜ賭けか＝近代ツールで、これほど長いレース間隔（約68日）で本番入りして優勝した選手はいない。本人は2022年にユンボがヴィンゲゴーとログリッチの二枚看板でポガチャルをグラノンで孤立させた展開を『青写真』と明言し、レッドブルでリポヴィッツとのダブルリーダー体制で再現を狙う。実戦勘の欠如をピーキングの精度で上回れるか——勝負勘 vs 仕上がり、という人間ドラマが見どころ。",
       "sources": [
-        { "t": "Cyclingnews（SD Worxの女子ツール・ド・スイス布陣）", "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/no-superstar-rider-but-sd-worx-protime-count-on-rising-gc-talent-and-home-hopeful-to-take-on-expanded-tour-de-suisse-women/", "d": "2026-06-15" },
-        { "t": "Cyclingnews（女子レース ハブ）", "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/", "d": "2026-06" }
+        { "t": "Domestique Cycling（エヴェネプールの調整・パワー値）", "u": "https://www.domestiquecycling.com/en/news/remco-evenepoel-gives-rare-glimpse-into-tour-de-france-preparation-with-impressive-power-data/", "d": "2026-06-11" }
       ],
-      "status": "確定＝拡大開催・SD Worxの主力温存方針はチーム/メディアで裏取り。曖昧＝最終メンバー。"
+      "status": "確定＝調整方針・公開パワー値は本人/チーム発で裏取り。曖昧＝結果は本番次第。"
     },
     {
-      "id": "20260616-la28-road-course",
-      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://smmirror.com/wp-content/uploads/2026/06/Olympic.jpg",
-      "headline": "ロス五輪2028のロードコース発表——ヴェニスビーチ発、ゴールはグリフィス天文台への「上り」フィニッシュ",
-      "layer1": "6/11〜12、LA28組織委が五輪ロードレースのコースを公開。男子250km/女子150km、ヴェニスビーチのボードウォークをスタートし、標高346mのグリフィス天文台へ。ラスト約2km・平均7%の上りで決着する設計。タイムトライアルはLA動物園発・天文台ゴール。",
-      "layer2": "何が面白いか＝海岸→都市→丘陵を貫く『ロサンゼルスを縦断する』設計で、最後の上りはパンチャー/オールラウンダー有利。2028時点でポガチャル世代がどんな状態で臨むかの伏線になり、3年越しで追える長期ネタ。日程は2028年7/19（TT）・7/22（女子RR）・7/23（男子RR）。※詳細プロフィール・周回数は2026年内に追加発表予定。",
+      "id": "20260616-tds-women-vollering",
+      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
+      "image": "https://procyclinguk.com/wp-content/uploads/2025/06/Marlen-Reusser-2025-Tour-de-Suisse-Women-Stage-4-Getty.avif",
+      "headline": "ツール・ド・スイス女子は男女同コースの5日制へ拡大——ジロ覇者フォレリングが本命、地元昨年覇者ロイサーが追う",
+      "layer1": "6/17開幕の女子ツール・ド・スイスは、男子と同じコースを走る5日制に拡大。6/11時点の下馬評では、ジロ・ドンネを最終山岳の逆転で制したデミ・フォレリングが総合本命に立つ。",
+      "layer2": "構図＝初日ソンドリオから登りが牙を剥き『逃げ場のない』設定で、第4ステージに23.8kmの個人TT、最終はヴィラール＝シュル＝オロン山頂と、純クライマー一辺倒でなく総合力が要る。対抗はロンゴボルギーニ、ジロ総合2位ニーダーマイヤー、地元の昨年覇者ロイサー、テクニカルに強いニェヴィアドマ＝フィニー。7月のツール・ド・フランス・ファムへ向けた本格前哨で、配信・注目度も年々上昇。男子一辺倒でない題材としてショート映えする。",
       "sources": [
-        { "t": "Santa Monica Mirror（コース発表）", "u": "https://smmirror.com/2026/06/la28-reveals-route-for-olympic-road-cycling-race-beginning-in-venice-beach/", "d": "2026-06-12" },
-        { "t": "Olympics.com（LA28ロードコース）", "u": "https://www.olympics.com/en/news/la28-road-cycling-routes-los-angeles-key-landmarks", "d": "2026-06" },
-        { "t": "Cycling Weekly（上りフィニッシュの詳細）", "u": "https://www.cyclingweekly.com/racing/uphill-finishes-revealed-for-2028-la-olympics-road-races-and-time-trials", "d": "2026-06" }
+        { "t": "ProCyclingUK（女子スイス 本命プレビュー）", "u": "https://procyclinguk.com/tour-de-suisse-women-2026-contenders-preview/", "d": "2026-06-11" }
       ],
-      "status": "確定＝発着地・距離・上りフィニッシュは組織委発表で裏取り。曖昧＝勾配/距離の細部は今後の詳細発表待ち。"
+      "status": "確定＝日程・コース・本命はメディアで裏取り。曖昧＝勝者予想は見立て。"
     },
     {
-      "id": "20260616-megamo-upon-dji",
-      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://cdn.road.cc/wp-content/uploads/2026/06/2026-Megamo-Upon-action-riding-on-hoods-1024x683.jpeg",
-      "headline": "ドローンのDJIが「1500Wモーター」でロードに本格参入——メガモ「Upon」が示すe-ロードのパワー戦争",
-      "layer1": "6/9、スペインのMegamoがDJIの最新Avinox M2Sモーターを積む専用設計のe-ロードバイク『Upon』を発表。ピーク1500W・トルク150Nm（常用は約1300W/130Nm）、600Whバッテリーで航続70〜120km、価格は€3,999〜6,499。",
-      "layer2": "何が新しいか＝e-MTB/グラベルを席巻したドローン大手DJIのモーターが、ついにドロップバーのロードに到達した。Uponはグラベル流用ではなく『ロード専用ジオメトリー＋滑らかな出力特性』を売りに、集団走行や一定ケイデンスでの自然なアシストを狙う。ただし1500Wは欧州の公道アシスト上限（定格250W/25km/h）を大きく超える数値で、フルパワーはクローズド/法域次第——“スペック競争”と“公道規制”のギャップが論点。日本のアシスト規制（24km/hで自動カット）とも相性が悪く、当面は話題先行になりやすい。",
+      "id": "20260616-tds-roglic-pidcock",
+      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
+      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-03/tadej-pogacar-tom-pidcock-mathieu-van-der-poel-69c181a5059a3.jpg",
+      "headline": "ログリッチ、悲願の『最後の1ピース』へツール・ド・スイス初参戦——ピドコックは総合候補に脱皮",
+      "layer1": "6/15のプレビューで、ボーラのログリッチが『パルマレスに唯一欠けた大会』を狙ってツール・ド・スイスにキャリア初参戦すると判明。春に好調だったピドコックも総合（GC）候補として名乗りを上げた。",
+      "layer2": "物語＝百戦錬磨のログリッチでも未勝利の大会がまだ残っており、平坦TTと序盤のパンチャー区間が彼の強みに合う。一方ピドコックはミラノ〜サンレモでポガチャルを苦しめ、昨年ブエルタ総合3位とステージ屋から総合候補へ脱皮中。本命ポガチャルが『いる中で』どこまで迫れるかが、両者のツール本番に向けた試金石になる。※順位予想は性質上の見立て。",
       "sources": [
-        { "t": "road.cc ebiketips（メガモUpon発表）", "u": "https://road.cc/ebiketips/tech-news/megamo-launches-dedicated-e-road-bike-powered-by-super-powerful-avinox-motor", "d": "2026-06-09" },
-        { "t": "Bikerumor（Avinox搭載e-ロード詳報）", "u": "https://bikerumor.com/megamo-brings-avinox-power-to-the-tarmac-with-new-upon-e-road-bike/", "d": "2026-06-09" },
-        { "t": "Cycling Weekly（DJIの1500Wがロードへ）", "u": "https://www.cyclingweekly.com/products/drone-company-djis-1-500w-motor-started-an-e-bike-power-war-and-now-its-coming-to-road-bikes", "d": "2026-06-09" }
+        { "t": "CyclingUpToDate（スイス プレビュー・本命）", "u": "https://cyclinguptodate.com/cycling/tour-de-suisse-2026-preview-stages-favourites-predictions-will-tadej-pogacar-win-his-pre-tour-de-france-test", "d": "2026-06-15" }
       ],
-      "status": "確定＝発表日・モーター諸元・価格はメーカー/複数メディアで裏取り。曖昧＝公道での実効アシストは法域依存。"
+      "status": "確定＝出場・狙いはメディア報道で裏取り。曖昧＝結果・順位は本番次第。"
     },
     {
-      "id": "20260616-garmin-edge-550",
+      "id": "20260616-tarmac-sl9-projectblack",
+      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": true,
+      "image": "https://cdn.mos.cms.futurecdn.net/CDs7SbZyWquz28KBAwjhFa.jpg",
+      "headline": "スペシャライズド新型『ターマックSL9』、ツール前哨でスパイ撮——カメラマンは茂みに潜伏、本番デビューへ『Project Black』",
+      "layer1": "6/5、ツール前哨（旧クリテリウム・ド・ドーフィネ、現オーベルニュ）で、2026年もっとも待たれる新型ロード『ターマックSL9』をカメラマンが激写。レッドブル・ボーラの機材で、メカニックがカメラに気づいて隠そうとした＝本物の新型である強い証拠だ。",
+      "layer2": "何が変わったか＝シートチューブを後輪に沿わせてドロップドステーまで一体化し（後輪のシュラウド化）、湾曲シートポスト、幅広フォークなどで空力を上げつつ、立ち位置は『オールラウンダー』を維持。完全エアロ専用機には振り切らず、SL8譲りの快適性と運動性を保ったまま速さを足す方向だ。本番ツールでスポンサーチームが一斉投入する見込み。正式名・価格・発売日は未公表（Project Black）。",
+      "sources": [
+        { "t": "Cyclingnews（茂み潜伏のSL9スパイショット）", "u": "https://www.cyclingnews.com/bikes/road/i-hid-in-a-bush-to-get-the-first-spy-shots-of-the-new-specialized-tarmac-sl9-at-the-newly-named-dauphine/", "d": "2026-06-05" },
+        { "t": "BikeRadar（SL9リーク続報・設計考察）", "u": "https://www.bikeradar.com/news/specialized-tarmac-sl9-leaked", "d": "2026-05-18" }
+      ],
+      "status": "確定＝前哨で新型が目撃された点。曖昧＝詳細スペック・価格・発売日は未公表（要続報）。"
+    },
+    {
+      "id": "20260616-vanrysel-rcr-unreleased",
       "genre": "parts", "genreLabel": "PARTS", "genreJa": "パーツ", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/rJmgeocSSqc78bsfZGW8Ro-2560-80.jpg",
-      "headline": "ガーミン新型サイコン「Edge 550」登場——“5シリーズ”が中位機の決定版、初中級のアップグレード候補",
-      "layer1": "6/15、Cyclingnewsが新型『Garmin Edge 550』のレビューを公開。ミドルクラスの5シリーズ最新機で、地図ナビ・トレーニング指標・スマホ連携を一通り備え、上位1040系より手頃な“ちょうどいい”サイコンとして高評価。",
-      "layer2": "初中級にどう効くか＝サイコンは『速度/距離だけ』から『ナビ＋パワー/心拍＋ログ共有』へ役割が広がった。550クラスは地図ナビと坂を予告するClimbPro系を備え、ロングライドの安心感が段違い。フラッグシップは高価すぎ、入門機は地図が弱い——その中庸を埋めるのが550で、最初の“ちゃんとした1台”に向く。※国内価格/発売時期は要確認（海外レビュー先行）。",
+      "image": "https://cdn.sanity.io/images/iocd9e4k/production/18f6402cc273acaf6dbce320125c7239c5863adb-1920x1278.jpg?w=1920&auto=format&q=80&fit=max",
+      "headline": "デカトロンの新型『ヴァンリセル』も前哨に出現——19歳セイシャス用、登坂寄りに磨いたRCR系プロト",
+      "layer1": "6/3、ツール・オーベルニュ前のシエラネバダ合宿で、デカトロンCMA CGMのポール・セイシャスが未発表のヴァンリセル製レースバイクで調整しているのが目撃された。",
+      "layer2": "何が読めるか＝これまでの断片からは、既存RCR-Rをより洗練させ『登坂寄り』に振った印象で、過激なエアロ機FTP²とは別路線。ターマックSL9と並び、ツール前哨が『未発表バイクの見本市』化している象徴的な一台だ。ヴァンリセルはデカトロン傘下で価格対性能が高く、プロ供給機の思想が市販に降りてくれば、コスパ志向の選択肢がまた一段厚くなる。正式名・スペックは未確認。",
       "sources": [
-        { "t": "Cyclingnews（Garmin Edge 550 レビュー）", "u": "https://www.cyclingnews.com/cycling-tech-components/garmin-edge-550-review/", "d": "2026-06-15" }
+        { "t": "Velora Cycling（前哨の未発表ヴァンリセル/SL9）", "u": "https://veloracycling.com/tech/specialized-tarmac-sl9-van-rysel-bikes-dauphine-2026", "d": "2026-06-03" }
       ],
-      "status": "確定＝新型550のレビュー公開・中位機としての位置づけはメディアで裏取り。曖昧＝国内価格/発売時期は未確認。"
+      "status": "確定＝合宿で新型が目撃された点。曖昧＝モデル名・スペックは未確認（要続報）。"
     },
     {
-      "id": "20260616-chain-wax-standard",
-      "genre": "parts", "genreLabel": "PARTS", "genreJa": "パーツ", "hot": false,
-      "image": "https://cdn-jupiter.metropolis.co.uk/wp-content/uploads/sites/9/2024/02/Silca-prewaxed-chain.webp",
-      "headline": "2026年、プロが「ワックス系チェーン」へ全面移行——なぜ今“注油の常識”が変わったのか",
-      "layer1": "前哨戦の機材観測でプロのほぼ全車がワックス系チェーンルブに移行。独立ラボのテストでもワックスは従来のウェット系より2〜5W省け、汚れにくく寿命も延びる、というのが2026年の到達点になった。",
-      "layer2": "仕組みと初中級の使い分け＝ワックスは（1）ホットメルト（鍋で溶かして浸す・最強だが手間）と（2）ドリップワックス（垂らすだけ・手軽）の二系統。SilcaのSecret Chain Blendは『市販で最低摩擦』とされ、ドリップではSilca Synergeticやスクワートが定番、Squirtは低価格で“9割の清潔さ”。注意は『最初にしっかり脱脂してから施工』『ドリップは塗布頻度がやや高い』こと。レースに出ない人でも“チェーンが真っ黒にならない・手が汚れない”恩恵は大きい。※数値はZero Friction Cycling等の独立テスト準拠。",
-      "sources": [
-        { "t": "Cyclist（ベスト・チェーンワックス2026）", "u": "https://www.cyclist.co.uk/buying-guides/best-chain-wax", "d": "2026-01" },
-        { "t": "Cycling Weekly（ベスト・チェーンルブ2026）", "u": "https://www.cyclingweekly.com/group-tests/best-chain-lube-wet-or-dry-289671", "d": "2026" },
-        { "t": "Cyclingnews（ベスト・バイクチェーンルブ）", "u": "https://www.cyclingnews.com/features/best-bike-chain-lube/", "d": "2026" }
-      ],
-      "status": "確定＝ワックス優位（省ワット/清潔/寿命）は複数の独立テストで裏取り。普遍テーマのため日付はYYYY-MM。"
-    },
-    {
-      "id": "20260616-ebike-market-jp",
+      "id": "20260616-aokippu-firstmonth",
       "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://img.my-best.com/contents/9dbc812fc20e6f85dfd090906e112bbb.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=3b2fa61703204ccef22cb7cc76051391",
-      "headline": "【経営メモ】DJI参入でe-bikeが“パワー競争”へ——日本のスポーツe-bike市場、店はどう構えるか",
-      "layer1": "メガモ×DJIの1500W e-ロード（前述）に象徴されるように、e-bikeは性能・価格競争の新局面へ。日本でもパナソニック・ヤマハ・ブリヂストン・ジャイアント・スペシャライズドがスポーツe-bikeを拡充し、街乗りからロング・ヒルクライムまで裾野が広がっている。",
-      "layer2": "店目線の要点＝（1）e-bikeは客単価・粗利ともに高く、サイクル不況下でも数少ない伸び筋。（2）ただし日本は『定格250W/24km/hで自動カット』の規制が壁で、DJIの1500W級フルパワーはそのまま公道に出せない＝“スペックの夢”と“合法の現実”を翻訳して売る役割が店にある。（3）中華e-roadや海外直販はバッテリー保安・PSE・アフターの不安が大きく、ここがリアル店の差別化点。マサルの店なら『合法・安心・組付け・保守』をパッケージ化すると刺さる。※本カードは市場観測（記事化不要の経営メモ）。",
+      "image": "https://blog.worldcycle.co.jp/wp-content/uploads/2026/06/%E3%82%B5%E3%83%A0%E3%83%8D.jpg",
+      "headline": "自転車『青切符』初月の実績が判明——交付2,147件・指導13.5万件、Xでは『で、どこ走れば？』論争が再燃",
+      "layer1": "6/12、ワールドサイクルが公的データを分析。2026年4月の1か月で青切符の交付は2,147件、指導警告は135,855件。内訳は一時不停止が最多の40%（846件）、ながらスマホ等が33%（713件）と続いた。",
+      "layer2": "経営・初中級への含意＝『いきなり青切符』になるのは携帯使用・遮断踏切立入など重大6類型のみで、多くはまず指導から始まる。反則金はながらスマホ12,000円、信号無視6,000円、無灯火・2人乗り3,000円。一方Xでは『自転車レーンは路駐だらけ』『順序がおかしい』とインフラ先行論が再燃し、制度そのものへの不満も可視化された。店頭ではライト・ベル等の安全装備需要が読みやすく、初中級には『6類型だけは絶対やらない』の徹底が刺さる。※SNSの声は世論の一端、数字は4月単月。",
       "sources": [
-        { "t": "マイベスト（スポーツe-bikeおすすめ・2026年6月）", "u": "https://my-best.com/14061", "d": "2026-06" },
-        { "t": "road.cc ebiketips（DJI参入の象徴・メガモUpon）", "u": "https://road.cc/ebiketips/tech-news/megamo-launches-dedicated-e-road-bike-powered-by-super-powerful-avinox-motor", "d": "2026-06-09" }
+        { "t": "ワールドサイクル（4月の青切符を分析）", "u": "https://blog.worldcycle.co.jp/20260612/46562/", "d": "2026-06-12" },
+        { "t": "Yahoo!リアルタイム検索（青切符のSNSバズまとめ）", "u": "https://search.yahoo.co.jp/realtime/search/matome/c2ba2bdedab8473d85b0c0bfb795e6b8-1775950500", "d": "2026-04-12" }
       ],
-      "status": "曖昧＝市場観測（経営メモ）。規制（定格250W/24km/hで自動カット）は国内の制度事実。個別製品の評価は店頭/最新表示で確認を。"
+      "status": "確定＝4月の交付/指導件数・反則金額は公的データ系で裏取り。曖昧＝SNSの世論は定性的（※一端）。"
     },
     {
-      "id": "20260616-used-roadbike-buyers-market",
+      "id": "20260616-ribble-d2c-memo",
       "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://bike-memo.com/wp-content/uploads/2026/01/zakki_C128.jpg",
-      "headline": "中古ロードバイクが「買い手市場」へ——ブーム期の良質中古が流通、初中級の狙い目が広がる",
-      "layer1": "コロナ期に高騰した中古バブルが調整局面入り。供給過多と需要減で、ブーム期に買われた良質な中古が市場へ戻り、売り手市場から買い手市場へ。じっくり比較して買える環境になりつつある。",
-      "layer2": "初中級への実利と注意＝新車の値引きと並んで、中古は『型落ちカーボン×コンポ良好』を予算20万円前後で狙える好機。ただし中古は（1）フレーム/フォークの打痕・カーボン損傷、（2）消耗品（チェーン/タイヤ/BB/ワイヤ）の残量、（3）電動コンポのバッテリー劣化、を要チェック。可能なら整備記録のある店経由が安全。店側は『中古の目利き＋整備＋保証』で価値を出せる。※市場観測（普遍テーマ・直近の調整局面を起点）。",
+      "image": "https://cdn.road.cc/wp-content/uploads/2026/06/Ribble-launches-new-Ultra-Road-and-Allroad-Carbon-June-2026-1024x683.jpg",
+      "headline": "【経営メモ】海外D2Cが『7.5kgカーボンを£2,599から』——リブル新型が突きつける価格圧力",
+      "layer1": "6/3、英リブルが新型『Ultra-Road』『Allroad Carbon』を発表。Ultra-RoadはUCI認可・最軽量7.5kgで105機械式が£2,599〜（上位£5,999〜）、Allroad Carbonはティアグラ£1,799〜・8.1kg。いずれも直販（D2C）中心の販売だ。",
+      "layer2": "店はどう構えるか＝高スタック・短リーチの快適ジオに、ダウンチューブ収納や38mmタイヤクリアランスなど、初中級〜ロングライド層に効く実用設計を低価格で出してきた。D2Cは中間マージンを抜くぶん『同等装備で国内完成車より安く映りやすく』、中華勢に続く価格の下押し要因になる。対抗軸は①実車試乗・フィッティング・即日整備という『触れて買える』体験価値、②保証とアフターの明確化、③型落ち＆ホイール同時購入の値引き設計。値段だけで殴り合わない導線づくりが鍵。",
       "sources": [
-        { "t": "サトユキブログ（2026は本当に値下がり？・中古の充実に言及）", "u": "https://satoyukiblog.com/2026/03/09/2026-road-bike-prices-are-they-actually-dropping/", "d": "2026-03-09" },
-        { "t": "bike-memo（2026 大手価格改定と高コスパ新興）", "u": "https://bike-memo.com/cycle_260204_roadbike/", "d": "2026-02-04" }
+        { "t": "road.cc（リブル Ultra-Road/Allroad Carbon発表）", "u": "https://road.cc/tech-news/are-you-riding-the-wrong-bike-ribble-thinks-so-as-it-launches-new-ultra-road-and-allroad-carbon", "d": "2026-06-03" }
       ],
-      "status": "曖昧＝市場観測（普遍）。中古は個体差が大きく、現物・整備履歴の確認を推奨。"
+      "status": "確定＝価格・重量・仕様はメーカー発表で裏取り。曖昧＝国内実勢への影響は見立て。"
     },
     {
-      "id": "20260616-beginner-summer-heat",
-      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "https://www.longride.org/wp/wp-content/uploads/2022/06/22062214-00.jpg",
-      "headline": "梅雨明け前に備える——初中級のための「夏ロード」暑さ・熱中症・補給の実践三本柱",
-      "layer1": "まもなく到来する酷暑シーズン。夏のロードは『水分・塩分の補給』『ウェア/日焼け対策』『走行時間の管理』が三本柱。準備不足のロングは熱中症で命に関わるため、初中級ほど基本を固めたい。",
-      "layer2": "潜って得た実用知＝（1）補給：1時間あたり500〜1000mlを目安に、汗で失う塩分も意識（経口補水/塩タブ）。保冷ボトルで冷たさをキープ。（2）冷却：首・脇・腿など太い血管を冷やすと体温が下がりやすい。氷嚢/冷却タオルが有効。（3）時間管理：真昼を避け早朝・夕方に走り、2週間ほどかけて暑さに体を慣らす『暑熱順化』を。異変（頭痛/めまい/吐き気）は即中止・日陰・冷却・水分。※普遍テーマ＝夏本番を前に再整理。",
+      "id": "20260616-light-eroad-hpr60",
+      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
+      "image": "https://c02.purpledshub.com/uploads/sites/39/2026/04/Mahle-M40-Motor-scaled.jpg",
+      "headline": "『見た目はただのロード』が9kg台へ——TQ新型HPR60で軽量eロードがまた軽く・強くなる",
+      "layer1": "6/15、軽量eバイク用ドライブの新型『TQ HPR60』が登場。ピーク350W・トルク60Nm（先代HPR50比で出力17%・トルク20%増）ながら、モーター単体1.92kg／290Whバッテリー込みシステム3.53kgと『クラス最軽量』を主張する。",
+      "layer2": "何がうれしいか＝DJIの1500W（朝の回で既報）が『パワー競争』なら、こちらは『軽さと自然なペダリング感』路線。マーレX20では完成車9.83kg（オリジーヌNewton[e]）と非アシスト機に肉薄する例も出ており、UDH対応など整備性も前進している。脚力・年齢・故障明けで『もう一段アシストは欲しいが、重さと露骨な電動感は嫌』という層の現実的な入口になる。スポーツeロードは日本でも伸びしろが大きく、店として客層を広げる一台。",
       "sources": [
-        { "t": "ロングライド.org（暑さ・熱中症対策11選）", "u": "https://www.longride.org/heat-measure-longride/", "d": "2022-06" },
-        { "t": "buychariジャーナル（酷暑ライドの必須3点）", "u": "https://journal.buychari.com/extreme-heat-cycling-tips/", "d": "2025-07" }
+        { "t": "Cyclonline（TQ HPR60 新型モーター）", "u": "https://www.cyclonline.com/bicycles-news/tq-hpr60-2026-new-motor-for-lightweight-e-bikes-with-more-power-and-torque,-same-light-weight", "d": "2026-06-15" },
+        { "t": "BIKE Magazin（マーレX20で10kg未満のeロード）", "u": "https://www.bike-magazin.de/en/components/e-bike-motors/e-bike-under-10-kilos-lightweight-e-road-bikes-thanks-to-mahle-x20-motor/", "d": "2026-05-22" }
       ],
-      "status": "確定＝補給量の目安・冷却部位・暑熱順化は定説で裏取り。普遍テーマのため日付はYYYY-MM。"
+      "status": "確定＝モーターの公称値・重量はメーカー/媒体で裏取り。曖昧＝実走の体感・電費は要実機。"
     }
   ]
 }
