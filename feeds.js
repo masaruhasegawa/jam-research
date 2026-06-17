@@ -1,5 +1,256 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-06-18",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ツール・ド・スイス開幕でポガチャルがいきなり70km独走、ベルギーではギルマイが大混戦を制し、機材側はエディ・メルクスが『ジオメトリ革命』。本番3週前、人も機材も一気に動き出しました。",
+    "cards": [
+      {
+        "id": "20260618-pogacar-tds-st1",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/X95beHCVtNWZ6Dyio7pnuP-1200-80.jpg",
+        "headline": "ポガチャル、ツール・ド・スイス開幕でいきなり70km独走——本番3週前の『宣戦布告』、今季12走で10勝目",
+        "layer1": "6/17開幕のツール・ド・スイス第1ステージで、世界王者ポガチャルがTdS初参戦初日からゴール70km以上手前で抜け出し独走勝利。2位カラパスに2分22秒差をつけた。",
+        "layer2": "潜って分かったのは『これがツール前最後の調整レース』だという文脈の重さ。本来は脚を温存する初日に、僚友マクナルティが最後の登りで集団を10名まで削り、そこからポガチャルが単独で発射——勝つだけでなく『差を見せつける』走り方を選んだ。陣営は今季『12レース日で10勝』と公称、キャリア118勝目（※勝利数は媒体集計で1勝前後の振れあり）。7/4バルセロナ発のツールへ、ヴィンゲゴーらへの心理的圧力は最大級。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/tour-de-suisse-tadej-pogacar-goes-long-with-surprise-72-kilometre-raid-to-smash-opening-stage/",
+            "d": "2026-06-17"
+          },
+          {
+            "t": "IDLProCycling",
+            "u": "https://www.idlprocycling.com/cycling/pogacar-destroys-field-with-outrageous-long-range-attack-in-tour-de-suisse-opener",
+            "d": "2026-06-17"
+          },
+          {
+            "t": "UAE Team Emirates",
+            "u": "https://www.uaeteamemirates.com/tadej-pogacar-solos-remarkable-tour-de-suisse-stage-victory/",
+            "d": "2026-06-17"
+          }
+        ],
+        "status": "確定＝ポガチャルがTdS第1ステージを70km超の独走で勝利・2位カラパス+2:22。曖昧＝通算勝利数の集計（媒体差±1）。"
+      },
+      {
+        "id": "20260618-girmay-belgium-st1",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-06/hlbmlgwxqaak7zs-6a32ba8a6755b.jpg",
+        "headline": "ギルマイ、大混戦のベルギーツアー開幕を写真判定で制す——メルリールを抑え、2月以来の復活勝利",
+        "layer1": "6/17開幕バロワーズ・ベルギーツアー第1ステージは、ビニアム・ギルマイ（NSN）がメルリールを写真判定で抑えて優勝。3位はマックス・カンター。ギルマイは2月のクラシカ・アルメリア以来の勝利。",
+        "layer2": "ここはツール選考を懸けたスプリンター頂上決戦——だが裏で起きていたのは『発射台の崩壊』。アルペシンとデカトロンが早がけしてリードアウトが空中分解、フィリプセンは表彰台外。さらにUAEのヘレゴッツが単独で逃げ、メイン集団がこれを残り150mで飲み込む混沌のなか、冷静に脚を残したNSNがギルマイで仕留めた。スランプ気味だったギルマイの復活が、ツールのスプリント枠争い（メルリール／フィリプセン／コーイ）を一段と熱くした。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/baloise-belgium-tour-biniam-girmay-wins-opener-in-hotly-contested-bunch-sprint/",
+            "d": "2026-06-17"
+          },
+          {
+            "t": "IDLProCycling",
+            "u": "https://www.idlprocycling.com/cycling/in-a-stacked-sprinters-field-girmay-overcomes-merlier-at-baloise-belgium-tour-stage-1",
+            "d": "2026-06-17"
+          },
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/results-baloise-belgium-tour-2026-stage-1-biniam-girmay-denies-tim-merlier-in-photo-finish-after-rune-herregodts-scare",
+            "d": "2026-06-17"
+          }
+        ],
+        "status": "確定＝ギルマイが第1ステージ優勝・2位メルリール（写真判定）・3位カンター。"
+      },
+      {
+        "id": "20260618-tds-women-devries",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/2Szco4y7ysPkYV62tvhitB-1200-80.jpg",
+        "headline": "ツール・ド・スイス女子、無名のデ・フリースがプロ初勝利でピンクを着る——猛暑の逃げが優勝候補を出し抜く",
+        "layer1": "6/17開幕のツール・ド・スイス女子第1ステージで、フェムケ・デ・フリース（Visma）がプロ初勝利。起伏と暑さの初日にローレン・ディクソンと逃げ、ゴールスプリントを制して最初のリーダージャージを獲得。",
+        "layer2": "『なぜ逃げが残ったのか』を潜ると、総合本命フォレリングが今大会を欠場（ツール・ド・フランス女子へ照準）し、GCチームが牽制し合った隙が見える。猛暑と難コースで集団のペースが上がらず、攻めた者が報われた一日。GCは大混戦で、若手が表舞台に出るチャンスが続く週になりそう。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/a-tough-course-hot-weather-and-attacking-panache-how-the-breakaway-beat-the-gc-favourites-on-the-opening-stage-of-the-tour-de-suisse-women/",
+            "d": "2026-06-17"
+          },
+          {
+            "t": "IDLProCycling",
+            "u": "https://www.idlprocycling.com/cycling/tour-de-suisse-women-2026-vismas-de-vries-wins-the-first-pink-jersey-but-heres-whats-coming-up",
+            "d": "2026-06-17"
+          }
+        ],
+        "status": "確定＝デ・フリースがプロ初勝利で第1ステージ制覇＆リーダー。曖昧＝GC本命の欠場理由は陣営説明ベース。"
+      },
+      {
+        "id": "20260618-froome-future",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/HuAao84S9g7GA59MH5Dbc9.jpg",
+        "headline": "フルームの『引退しない』が動く——ツールのスポンサー、シュコダのアンバサダー就任で“ツール復帰”観測",
+        "layer1": "4度のツール覇者フルーム（40）が、ツール・ド・フランスの主要パートナーで緑ジャージ協賛のシュコダの『ブランドアンバサダー』に就任。チーム無し・引退未表明のまま、ツールの場に戻る可能性が取り沙汰されている。",
+        "layer2": "ここは盛らずに整理。観測の根拠はアンバサダー契約＝レース車列やホスピタリティでの“登場”であって、選手としての復帰ではない可能性が高い。昨夏の練習中落車で心臓を負傷し3度目の手術を受けた経緯からも、プロ復帰のハードルは高い。本人は『そのうち分かる』と明言を避けており、競技復帰の話は現時点で※要裏取り。",
+        "sources": [
+          {
+            "t": "road.cc（ライブブログ 6/17）",
+            "u": "https://road.cc/news/cycling-live-blog-17-june-2026",
+            "d": "2026-06-17"
+          }
+        ],
+        "status": "確定＝シュコダのアンバサダー就任・引退未表明。曖昧＝“ツール復帰”は車列/ホスピタリティ参加の観測、競技復帰は※要裏取り。"
+      },
+      {
+        "id": "20260618-merckx-525r",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/06/2026-Eddy-Merckx-525R-riding-driveside-1024x683.jpeg",
+        "headline": "エディ・メルクスが新型エアロ『525R』——“ジオメトリ革命”で、速さと快適を両取りと主張",
+        "layer1": "6/17、ベルギーの名門エディ・メルクスが新型エアロロード『525R』を発表。サイズ別に変化する『プログレッシブ・ジオメトリ』で効率的な前傾と一日中の快適性を両立し、旧525比で空気抵抗を9%削減と公称。",
+        "layer2": "数字を裏取りすると、シート角はXSの74.5度から大サイズの76度まで段階的に変化、ヘッドチューブは高めでバー位置を確保、フレーム重量952g（Mサイズ公称）、タイヤクリアランス34mm。価格はSRAM Force 1xの£5,849からデュラエースDi2 £9,499、カンパ・スーパーレコード £11,499まで。100台限定のLaunch Editionは€6,999。車名の『525』はメルクスの通算525勝に由来。要は『プロのポジションをそのまま押し付けない』設計思想が売り。",
+        "sources": [
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/tech-news/eddy-merckx-launches-525r-road-bike-claiming-geometry-revolution-delivers-speed-gains-without-sacrificing-comfort",
+            "d": "2026-06-17"
+          },
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/2026-eddy-merckx-525r",
+            "d": "2026-06-17"
+          }
+        ],
+        "status": "確定＝価格・重量952g・9%抗力減・34mmクリアランスはメーカー公称。曖昧＝抗力9%は自社風洞値（第三者実測は未確認）。"
+      },
+      {
+        "id": "20260618-fit-revolution-trend",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/06/Ribble-launches-new-Ultra-Road-and-Allroad-Carbon-June-2026-1024x683.jpg",
+        "headline": "2026の新しい主戦場は『フィット』——『プロのポジションは万人向けじゃない』と各社が言い始めた",
+        "layer1": "新型ラッシュの裏に共通する潮流が見える。エディ・メルクス525Rは『サイズ別プログレッシブ・ジオメトリ』、リブルの新型Ultra-Roadは『スタック高め・リーチ短め』を掲げ、どちらも“プロの前傾コピー”からの脱却を打ち出した。",
+        "layer2": "ここを深掘りすると、メッセージは『無理な前傾より、長く保てる前傾の方が結局速い』。リブルは公式に『プロのポジションは全員に正しくはない』と明言し、スタックを上げて空力姿勢を持続させる狙い。エアロ一辺倒だった数年への揺り戻しで、軸は“数値上の最速”から“実走で出し切れる姿勢”へ。試乗・フィッティングの価値が上がる＝店にとっては追い風の流れ。",
+        "sources": [
+          {
+            "t": "road.cc（リブル新型）",
+            "u": "https://road.cc/tech-news/are-you-riding-the-wrong-bike-ribble-thinks-so-as-it-launches-new-ultra-road-and-allroad-carbon",
+            "d": "2026-06-03"
+          },
+          {
+            "t": "road.cc（メルクス525R）",
+            "u": "https://road.cc/tech-news/eddy-merckx-launches-525r-road-bike-claiming-geometry-revolution-delivers-speed-gains-without-sacrificing-comfort",
+            "d": "2026-06-17"
+          }
+        ],
+        "status": "確定＝両社が前傾緩和・フィット重視の設計思想を公表。曖昧＝“業界トレンド化”はリサの観測（複数社の同方向の動きから）。"
+      },
+      {
+        "id": "20260618-hunt-4am-spokes",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/05/2026-Hunt-4AM-Limitless-Steel-Spoke-riding-1024x683.jpeg",
+        "headline": "ハント『4AM Limitless』が今月末発送開始——カーボン/スチール“スポーク2択”の軽量エアロ、ENVE 4.5 Proを上回ると主張",
+        "layer1": "ハントの新型軽量エアロ『4AM Limitless』が今月末（6月末）に発送開始。カーボンスポーク版とスチールスポーク版を用意し、30mmタイヤ・45km/h時でENVE 4.5 Pro比1.4W速く、しかも139g軽いと公称。",
+        "layer2": "実用目線で噛み砕くと、Ti_UD（カーボンスポーク）版は約1,156g、スチール版は約1,283g——“軽さと値段”を取るか“価格と耐久の安心”を取るかの2択。1.4Wは正直わずかだが、軽さの差は登りで効く。ここで効いてくるのが中華勢の存在で、FARSPORTSら『カーボンスポーク×半額級』が同じ土俵に並びつつある——舶来ハイエンドを買う前に、中華の現在地を必ず比較したい。",
+        "sources": [
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/tech-news/hunt-launches-lightweight-4am-limitless-aero-wheels-with-carbon-and-steel-spoke-options",
+            "d": "2026-05-21"
+          }
+        ],
+        "status": "確定＝重量・対ENVE 1.4W/-139gはメーカー公称、発送は6月末。曖昧＝中華の同等性は一般評（個別実測は別途要確認）。"
+      },
+      {
+        "id": "20260618-keiei-launch-glut",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/06/2026-Eddy-Merckx-525R-riding-driveside-1024x683.jpeg",
+        "headline": "【経営メモ】海外の新型ラッシュが同週着弾——円安下で『価格』では勝てない。武器はフィッティングとアフター",
+        "layer1": "今週は海外の新型が一気に出た——エディ・メルクス525R（£5,849〜）、リブルUltra-Road/Allroad（£2,599〜）、ハント4AM。いずれも“フィット×エアロ”か“軽量エアロ”を強調し、価格の幅も広い。",
+        "layer2": "店目線の打ち手を潜って整理。①円安で舶来ハイエンド（メルクスのデュラエース£9,499など）は国内定価がさらに開く＝『価格』では戦えない。②一方でリブル£2,599やハント、そして中華カーボンが“同等性能・半額級”の選択肢を広げている＝価格はそちらが優位。③だからうちの勝ち筋は『現物試乗＋フィッティング＋アフター（組立・調整・保証）』。各社が口を揃える“プロの前傾は万人向けじゃない”は、まさにフィッティング需要の追い風。新型情報は仕入れ判断より『会話のフック』として使うのが筋。",
+        "sources": [
+          {
+            "t": "road.cc（メルクス525R）",
+            "u": "https://road.cc/tech-news/eddy-merckx-launches-525r-road-bike-claiming-geometry-revolution-delivers-speed-gains-without-sacrificing-comfort",
+            "d": "2026-06-17"
+          },
+          {
+            "t": "road.cc（リブル新型）",
+            "u": "https://road.cc/tech-news/are-you-riding-the-wrong-bike-ribble-thinks-so-as-it-launches-new-ultra-road-and-allroad-carbon",
+            "d": "2026-06-03"
+          },
+          {
+            "t": "road.cc（ハント4AM）",
+            "u": "https://road.cc/tech-news/hunt-launches-lightweight-4am-limitless-aero-wheels-with-carbon-and-steel-spoke-options",
+            "d": "2026-05-21"
+          }
+        ],
+        "status": "確定＝各新型の価格はメーカー公称。曖昧＝国内定価/着地は為替・代理店次第（経営示唆はリサの分析）。"
+      },
+      {
+        "id": "20260618-market-nikyokuka",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/05/2026-Hunt-4AM-Limitless-Steel-Spoke-riding-1024x683.jpeg",
+        "headline": "2026夏も続く『二極化』——舶来ハイエンドは値上がり、対して中華カーボンは依然コスパの主役",
+        "layer1": "今週の新型群が示すのは、海外ハイエンドの価格帯がさらに上（メルクスのデュラエース仕様で£9,499＝円安ぶん上乗せ）に伸びる一方、リブル£2,599〜や中華カーボン完成車が“買える性能”を担う、という構図の固定化だ。",
+        "layer2": "国内の買い手目線で深掘り。コロナ後の在庫過多と値下げ局面は続き、初中級にとっては『始めやすい時代』が継続。ただし“安い”の中身は二極で、（A）大手の型落ち値引き、（B）中華カーボン（WINSPACE/ELVES等）の新車コスパ——のどちらを選ぶかで満足度が割れる。中華は『設計と検品』で差がつくため、入口の一台ほど“どのブランド/どのロット”かを店で見極める価値が大きい。記事化するなら『2026夏、10万円台でどこまで戦えるか』が刺さりやすい。",
+        "sources": [
+          {
+            "t": "road.cc（メルクス525R・価格）",
+            "u": "https://road.cc/tech-news/eddy-merckx-launches-525r-road-bike-claiming-geometry-revolution-delivers-speed-gains-without-sacrificing-comfort",
+            "d": "2026-06-17"
+          },
+          {
+            "t": "bike-memo（国内値下げ・新興メーカー）",
+            "u": "https://bike-memo.com/cycle_260204_roadbike/",
+            "d": "2026-02"
+          }
+        ],
+        "status": "確定＝舶来ハイエンドの価格上昇は今週の新型で裏取り。曖昧＝国内『二極化』の継続はトレンド観測＋既報ベース（最新の国内販売統計は未取得）。"
+      },
+      {
+        "id": "20260618-beginner-geometry",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/06/Ribble-launches-new-Ultra-Road-and-Allroad-Carbon-June-2026-1024x683.jpg",
+        "headline": "初めての一台、『エアロ』か『エンデュランス』か——初中級はプロの前傾を真似ない方が、結局速い",
+        "layer1": "新型各社（メルクス・リブル）が『プロのポジションは万人向けじゃない』と打ち出した今、初中級が迷う“ジオメトリの選び方”を整理する。鍵は数字の最速ではなく『その姿勢を一日保てるか』。",
+        "layer2": "実践に落とすと——（1）まず『スタック（高さ）』を見る：高めだと上体が起きて長距離が楽、低いほどエアロだが体幹と柔軟性が要る。（2）『リーチ（遠さ）』が長いと前傾は深いが首肩が疲れる。（3）初中級はエンデュランス寄り（スタック高め・リーチ短め・タイヤ32〜35mm可）から入ると、痛みで“結局乗らない”を避けられる。エアロ機でも今年は前傾を緩めた設計が増えたので、試乗で『5分前傾を保てるか』を体感してから選ぶのが正解。フィッティング前提で買うのが遠回りに見えて最短。",
+        "sources": [
+          {
+            "t": "road.cc（リブル『プロのポジションは万人向けでない』）",
+            "u": "https://road.cc/tech-news/are-you-riding-the-wrong-bike-ribble-thinks-so-as-it-launches-new-ultra-road-and-allroad-carbon",
+            "d": "2026-06-03"
+          },
+          {
+            "t": "road.cc（メルクス525R・プログレッシブ・ジオメトリ）",
+            "u": "https://road.cc/tech-news/eddy-merckx-launches-525r-road-bike-claiming-geometry-revolution-delivers-speed-gains-without-sacrificing-comfort",
+            "d": "2026-06-17"
+          }
+        ],
+        "status": "確定＝スタック/リーチの定義と各社の設計方向。曖昧＝最適解は体格・柔軟性で個人差（フィッティング推奨）。"
+      }
+    ]
+  },
+  {
     "date": "2026-06-17",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本お届けします。スイス・ベルギー・スロベニアが同日に走り出す“ツール直前のごった煮”を底まで——中華カーボンの最新序列も更新されました。",
     "cards": [
