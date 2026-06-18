@@ -1,5 +1,256 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-06-19",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ツール・ド・スイスはポガチャル一強で『退屈論争』が再燃、女子はロンゴボルギーニが独走で黄金ジャージへ。Canyonは『AI安全バイク』を公開し、来週のユーロバイクに向けて機材も一気に動き出しました。",
+    "cards": [
+      {
+        "id": "20260619-tds-women-st2",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/q2tseM7iJkD9m6eLvK2P4.jpg",
+        "headline": "ツール・ド・スイス女子、ロンゴボルギーニが『オール・オア・ナッシング』の独走勝利——だが影で総合勢が道を間違え、ジガートは顎骨折",
+        "layer1": "6/18の第2ステージ（ロカルノ周回105.6km）で、エリーザ・ロンゴボルギーニ（UAEチームADQ）が残り9kmの激坂ヴィア・コンシリオ・メッツァーノでアタック、そのまま独走で勝利し総合首位（黄ジャージ）に立った。",
+        "layer2": "ドラマは勝者の背後で起きた。追走の総合候補ニーヴィアドマ（キャニオン・スラム）とロイサー（モビスター）が残り3kmで『コースを曲がり間違え』、約47秒をまとめて失った——自滅でロンゴボルギーニを楽にした形。さらに最終キロでポガチャルの恋人ウルシュカ・ジガートが落車し顎を骨折と報じられた。総合はロンゴボルギーニ首位、ディクソン+27秒、ファンダム+34秒。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-suisse-women-elisa-longo-borghini-wins-hilly-stage-2-and-takes-gc-lead-with-attack-on-final-climb-in-locarno/",
+            "d": "2026-06-18"
+          },
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/racing/elisa-longo-borghini-solos-to-victory-on-tour-de-suisse-women-stage-2",
+            "d": "2026-06-18"
+          },
+          {
+            "t": "Cycling Uptodate",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-de-suisse-women-2026-stage-2-elisa-longo-borghini-takes-stage-win-and-race-lead-reusser-and-niewiadoma-ride-off-course-in-the-final-kilometers",
+            "d": "2026-06-18"
+          }
+        ],
+        "status": "確定＝ロンゴボルギーニ勝利・総合首位、ニーヴィアドマ／ロイサーのコースミス（約47秒喪失）。曖昧＝ジガートの負傷は『顎骨折』と複数報道だが正式な診断・離脱期間は未確定（※続報待ち）。"
+      },
+      {
+        "id": "20260619-tds-men-st2-gregoire",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-06/collage-tadejpogacartiesjbenoot-6a33be348e3c8.jpg",
+        "headline": "ツール・ド・スイス第2ステージ、グレゴワールが14人逃げから逃げ切り——猛追のポガチャルを4秒抑えてキャリア3勝目",
+        "layer1": "6/18の第2ステージは、ロマン・グレゴワール（グルパマ・FDJ）が約120km地点から形成された14人の逃げを生き残り、終盤のポガチャルの追走を振り切って優勝。WorldTour通算3勝目を挙げた。",
+        "layer2": "逃げにはアラフィリップ、モレマ、ザナ、エウラリオら実力者が揃った。ポガチャルはヴァチェクと共にフルガスで追ったが届かず、4秒差の10位前後。総合はポガチャルが初日の70km独走で築いた大量リード（カラパス＋2分22秒、第3位バジョーリ＋2分39秒）を維持。ステージは譲っても、本番3週前の『勝てる脚』は隠していない。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-suisse-romain-gregoire-holds-off-a-chasing-tadej-pogacar-to-claim-hard-fought-breakaway-victory-on-stage-2/",
+            "d": "2026-06-18"
+          },
+          {
+            "t": "Cycling Uptodate",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-de-suisse-2026-stage-2-romain-gregoire-survives-late-pogacar-attacks-as-breakaway-battle-for-victory",
+            "d": "2026-06-18"
+          }
+        ],
+        "status": "確定＝グレゴワール勝利（逃げ切り）、ポガチャル総合首位維持。曖昧＝着差『約4秒』は速報値、最終リザルトで微修正の可能性。"
+      },
+      {
+        "id": "20260619-pogacar-boring",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/UAE-Team-Emirates-XRG/CORVOS_00038925-203.jpg",
+        "headline": "『ポガチャルがロードを壊している』論争がまた再燃——だが本当の問題は本人の“ツール飽き”かもしれない",
+        "layer1": "ツール・ド・スイス初日の70km独走で勝負を数時間で終わらせたポガチャルに対し、SNSで恒例の『退屈論争（彼が勝ちすぎてレースがつまらない）』が再燃。Xやまとめ記事で賛否が割れている。",
+        "layer2": "裏取りすると、対戦相手のティース・ベノートは『たとえ我々が踏んでも追いつけなかった』と脱帽し、サガンは『別カテゴリーで走らせるべき、WorldTourは彼には狭い』と発言。一方でドメスティーク誌は別角度を提示——退屈の正体はポガチャルの強さではなく、本人が『毎年ツールに縛られている。なぜまだここにいるのかと自問する』とグランツール形式に飽きている点で、UAEは一日完結レースや新装スイスで“動機づけ”を管理しているという見立て。煽りより構造の話。",
+        "sources": [
+          {
+            "t": "road.cc（ライブブログ）",
+            "u": "https://road.cc/news/cycling-live-blog-18-june-2026",
+            "d": "2026-06-18"
+          },
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/pogacar-continues-boredom-proof-tour-build-up-at-revamped-tour-de-suisse/",
+            "d": "2026-06-15"
+          },
+          {
+            "t": "Cycling Uptodate",
+            "u": "https://cyclinguptodate.com/cycling/even-if-we-had-ridden-we-wouldnt-have-caught-him-is-the-tour-de-suisse-peloton-helpless-against-tadej-pogacar",
+            "d": "2026-06-18"
+          }
+        ],
+        "status": "確定＝論争の存在とベノート／サガンの発言、ポガチャルのツール形式への不満コメント。曖昧＝『退屈か否か』は価値判断（※Xで話題、入口はSNSだが主役は裏取りできた発言・レース結果）。"
+      },
+      {
+        "id": "20260619-canyon-predict",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/aHbTRaa7WDCW8nCsjHhSej.jpg",
+        "headline": "Canyonが『史上最も安全なロード』を標榜——AI＋360°センサーで危険を“先読み”するコンセプト車Predict",
+        "layer1": "Canyonがコンセプト車『Predict』を公開。カメラ・レーダー・エッジAIと360°センサー群で路面やクルマ・集団走行の危険を先回りで察知し、ブラケットの点滅と振動で警告するという。6/24〜27のユーロバイクで初披露予定。",
+        "layer2": "“予知”の中身：コーナー進入速度の助言、路面悪化の事前検知、集団走行の挙動把握まで担い、クラウド遅延を避けるため演算はオンボードのエッジAIで完結。可変ハードはドロッパーで重心を下げて安定性を上げる。専用ヘルメット『Stingr Smart』はHUD付き。設計責任者デリッチは『クルマは10年で安全になったが自転車は進歩していない。死傷者は多くの国で増えている』と動機を語る。ただし量産可否・時期は未定（＝あくまで“思想の提示”段階）。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/news/powered-by-ai-with-360-degree-sensors-is-canyons-new-predict-prototype-the-future-of-bike-safety",
+            "d": "2026-06-18"
+          },
+          {
+            "t": "BIKE（bike-magazin.de）",
+            "u": "https://www.bike-magazin.de/en/equipment/bike-helmets/cycling-innovations-canyon-eurobike-preview-featuring-32-inch-bikes-and-smart-safety-features/",
+            "d": "2026-06-17"
+          }
+        ],
+        "status": "確定＝コンセプト公開・機能概要・ユーロバイク披露予定。曖昧＝市販化の有無と価格は『未定』とCanyon自身が明言（過度な期待は禁物）。"
+      },
+      {
+        "id": "20260619-eurobike-wheel-trend",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://media.delius-klasing.de/images/dpr_auto,fl_progressive,f_auto,c_auto,g_auto,h_600,w_1068/q_auto:eco/bike/677543-8593436a-5244-4262-9811-1c7edd0e78ef-5ee8a6-original-1779987158_b356d653a675f6f89d4fdf7b79dc2736/cycling-innovations-canyon-eurobike-preview-featuring-32-inch-bikes-and-smart-safety-features",
+        "headline": "来週ユーロバイク（6/24〜）の主役は“ホイールの常識”——『32インチ』論争とワイドリム化が同時に押し寄せる",
+        "layer1": "6/24〜27のユーロバイク（フランクフルト）に向け、各社のホイール戦略が表面化。Canyonは32インチホイールのXC車を、Fulcrumは2026年新作で“より幅広”のカーボンリムとエアロ刷新を予告。プログラム自体が『32インチ論争』を軸に組まれている。",
+        "layer2": "マサル視点での整理：32インチはいま“グラベル/MTB”の話で、ロードに直接来る話ではない（ロードはUCIのリム高・極狭ハンドル規制で別方向）。ただし通底するのは『ワイドリム＋太タイヤで快適と速さを両取り』という潮流で、ここはロードにも効く。舶来勢のリム内幅拡大が標準になれば、中華勢（うちのFARSPORTS/8LIEN系）も内幅・対応タイヤ幅の表記を合わせる必要がある。展示の“尖った概念”と、実売で効く“ワイド化”を切り分けて見るのが吉。",
+        "sources": [
+          {
+            "t": "BIKE（bike-magazin.de）",
+            "u": "https://www.bike-magazin.de/en/equipment/bike-helmets/cycling-innovations-canyon-eurobike-preview-featuring-32-inch-bikes-and-smart-safety-features/",
+            "d": "2026-06-17"
+          },
+          {
+            "t": "Cyclingnews（テック）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/",
+            "d": "2026-06-17"
+          }
+        ],
+        "status": "確定＝ユーロバイク日程（6/24〜27）と32インチが展示テーマ、Fulcrumのワイド化・エアロ刷新予告。曖昧＝Fulcrum新作の正式スペック・価格は会期での発表待ち（※詳細要裏取り）。"
+      },
+      {
+        "id": "20260619-close-pass-position",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/06/Driver-close-passes-cyclist-on-blind-bend-towards-oncoming-car%E2%80%A6-and-immediately-gets-pulled-over-by-police-officer.jpg",
+        "headline": "“被せ追い越し”の瞬間に警官が登場——海外バズが突きつける『車道のどこを走るか』問題",
+        "layer1": "6/18にダブリンで、見通しの悪いカーブで対向車に向かって自転車を危険追い越ししたBMWを、近くにいた警官が即座に停止させる映像が話題に。コメント欄では『端に寄るほど被せ追い越しを誘発するのでは』という走行位置論争に発展した。",
+        "layer2": "初中級が誤解しがちな点：日本は道交法で“車道左側端”が原則だが、左端ピッタリ＝安全とは限らない。側溝・段差・路駐・見通しの悪いカーブでは、無理な追い越しを物理的に防ぐためにやや車道側を取る“位置取り”は合理的で違法でもない（危険回避の裁量）。4月からの青切符でも『安全な間隔＋必要に応じた減速』が運転者側の義務であり、ローディーが端に張り付く義務はない。狭い・見えない場所では“後ろに付かせて待たせる”勇気が結局は安全、というのが海外の合意点。",
+        "sources": [
+          {
+            "t": "road.cc（ライブブログ）",
+            "u": "https://road.cc/news/cycling-live-blog-18-june-2026",
+            "d": "2026-06-18"
+          }
+        ],
+        "status": "確定＝映像と警官の対応、走行位置をめぐる議論の存在。曖昧＝日本の解釈は一般原則の整理（個別状況の可否は警察判断、※法令の最終確認は要裏取り）。"
+      },
+      {
+        "id": "20260619-bardet-decathlon",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/06/15/image-17aac79d-b642-4f48-b6eb-82188f20937e-85-2560-1440.jpeg",
+        "headline": "“最も愛されたクライマー”バルデが指揮官へ——2027年からデカトロンCMA CGMのスポーツマネージャー就任",
+        "layer1": "6/18、デカトロンCMA CGMが、元プロのロマン・バルデを2027年1月1日付でスポーツマネージャーに迎えると発表。WorldTourから育成・ジュニアまで、コーチ・監督・栄養・データ分析を統括する新設ポジションに就く。",
+        "layer2": "人間ドラマとして：バルデはツール総合表彰台・山岳賞を争ったフランスの人気クライマーで、引退後すぐに現場のトップ・マネジメントへ。本人は『パウル・セイシャス（19歳の新星）だけのプロジェクトではない。全選手を彼と同じように育てる』と強調し、特定スター依存ではなくチーム全体の育成思想を掲げた。組織上はCEOセリエの下、レースディレクターのジョリーらの上に位置する。今夏のセイシャスのツール初出場には“まだ関与しない”。",
+        "sources": [
+          {
+            "t": "Eurosport",
+            "u": "https://www.eurosport.fr/cyclisme/romain-bardet-nouveau-manager-sportif-de-decathlon-cma-cgm-en-2027-ce-nest-pas-seulement-le-projet-paul-seixas_sto23310488/story.shtml",
+            "d": "2026-06-18"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/romain-bardet-to-take-on-senior-management-role-at-decathlon-cma-cgm/",
+            "d": "2026-06-18"
+          }
+        ],
+        "status": "確定＝就任発表・役割・開始時期（2027/1/1）・本人コメント。曖昧＝具体的な権限範囲の細部は今後の運用次第。"
+      },
+      {
+        "id": "20260619-jp-shop-shakeout",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2391415022122025000000-1.jpg?ixlib=js-3.8.0&w=638&h=359&auto=format%2Ccompress&fit=crop&bg=FFFFFF&s=f284021431d2393a4848abfa0fdd0ef1",
+        "headline": "【経営メモ】『バブルの清算』が続く——あさひ最終減益＋プロショップ閉店ラッシュ、需要は確かに縮んでいる",
+        "layer1": "国内最大手あさひが2026年2月期を一転最終減益（税引利益−26％の26億円、売上810億円）に下方修正。物価高による買い控えが効き、地方の一般車・子供車が約1割減。一方でプロショップ側はタキザワ（2025年末）やクラウンギアーズ（2026年）の撤退など閉店が続く。",
+        "layer2": "ショップオーナー目線の含意（記事化不要の経営インテリジェンス）：①総需要は縮小局面、しかし“伸びている”のは修理・パーツと高単価e-bike＝粗利の柱はここに移っている。②舶来ハイエンドの価格高騰（円安＋フル内装/Di2標準化）が新車を遠ざけ、清算（在庫処分・値下げ）と二極化を生んだ。③倒れているのは『新車一本足』の店。生き残りは“技術料・アフター・目利き”で稼ぐ業態転換。中華カーボンの国内検品＋保証代行は、まさにこの粗利源と差別化に直結する。",
+        "sources": [
+          {
+            "t": "日本経済新聞（あさひ下方修正）",
+            "u": "https://www.nikkei.com/article/DGXZQOUF223300S5A221C2000000/",
+            "d": "2025-12-22"
+          },
+          {
+            "t": "サトユキブログ（価格下落の検証）",
+            "u": "https://satoyukiblog.com/2026/03/09/2026-road-bike-prices-are-they-actually-dropping/",
+            "d": "2026-03-09"
+          }
+        ],
+        "status": "確定＝あさひの業績下方修正の数字、買い控え基調、閉店事例の存在。曖昧＝『閉店ラッシュ』の全体規模は定量データ不足（※体感・報道ベース、要裏取り）。経営メモにつき主役は中長期の市場環境データ。"
+      },
+      {
+        "id": "20260619-china-carbon-tiers",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bicycles4ever.com/en/wp-content/uploads/sites/3/2025/11/FARSPORTS-Did-it-AGAIN-2026-EVO-S-Series-RAISES-the-1024x576.jpg",
+        "headline": "【経営メモ】中華カーボンの“格付け”が国内で定着——買い手市場の今、店の価値は『目利き＋アフター』",
+        "layer1": "日本語ブログ・まとめで2026年の中華カーボンホイール格付けがPVを伸ばしている。WINSPACE Hyper50（カーボンスポーク・UCI認証、概ね$899〜1199）を筆頭に、ICAN Aero50（国内倉庫・$699〜899）、Light Bicycle AR56（フルカスタム）、ELITEWHEELS Drive40/50（軽量・約1300g級）、FARSPORTS Ventoux50（リム精度高・$599〜799）が定番として並ぶ。",
+        "layer2": "経営インテリジェンス：もはや論点は『中華＝怪しい』ではなく『どの中華をどう選び、誰が面倒を見るか』。大手の1/3〜1/2価格で重量・剛性・空力は遜色ない一方、留意点は届いた時点の1〜2mm程度の振れ、海外保証の対応の遅さ、当たり外れ。ここに“国内ショップの介在価値”がある——うちが扱うFARSPORTS/8LIEN/CRW等を、国内で検品・振れ取り・保証代行までやれば、価格訴求では勝てない局面でも『安心料』で粗利を取れる。買い手市場＝目利きを売る店が選ばれる。",
+        "sources": [
+          {
+            "t": "bike-memo（2026中華カーボン格付け）",
+            "u": "https://bike-memo.com/cycle_260202_carbon-wheels/",
+            "d": "2026-02-02"
+          },
+          {
+            "t": "Velo Fanatics（Best Chinese Carbon Wheels 2026）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026-02"
+          }
+        ],
+        "status": "確定＝主要ブランドの価格帯・特徴の相場観、品質向上の流れ。曖昧＝価格は変動・為替次第、個体差（振れ）は確率の話（※具体値は購入時に要確認）。経営メモにつき主役は市場の相場観データ。"
+      },
+      {
+        "id": "20260619-ruggins-record",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/9kqsE4C4LVQ4tai4ZYQd63.jpg",
+        "headline": "1日22時間・睡眠90分で6,000km——サラ・ラギンズが『欧州縦断最速』記録に挑み、6/18ノルウェー入り（予定より3日前倒し）",
+        "layer1": "サラ・ラギンズ博士が6/5にスペイン最南端タリファを出発、ノルウェー・ノールカップまで欧州9カ国・約6,000km（獲得約35,000m）を走る『One Way North』に挑戦中。6/18にはノルウェー入りし、予定を3日以上前倒しと報じられた。",
+        "layer2": "なぜ心が動くか：狙う記録は2019年イアン・ウォーカーの16日20時間59分。破るには1日500km超・睡眠90分弱で17日未満という極限。背景がさらに重い——彼女は15歳で世界有数の激痛疾患CRPSと診断され、そこから人生を立て直してエディンバラ大で経済学の博士号を取り、耐久自転車に辿り着いた。今回はWorld Bicycle Reliefへ£60,000（自転車500台分）を集めるチャリティでもある。スペックより“物語”が刺さる一本。",
+        "sources": [
+          {
+            "t": "road.cc（ライブブログ・進捗）",
+            "u": "https://road.cc/news/cycling-live-blog-18-june-2026",
+            "d": "2026-06-18"
+          },
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/racing/more-than-a-record-attempt-dr-sarah-ruggins-set-to-begin-6-000km-fastest-ever-ride-from-bottom-to-the-top-of-europe",
+            "d": "2026-06-04"
+          }
+        ],
+        "status": "確定＝挑戦の概要・出発日・6/18ノルウェー入り・背景・チャリティ。曖昧＝記録達成の成否はゴール（進行中、※最終結果は続報待ち）。"
+      }
+    ]
+  },
+  {
     "date": "2026-06-18",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ツール・ド・スイス開幕でポガチャルがいきなり70km独走、ベルギーではギルマイが大混戦を制し、機材側はエディ・メルクスが『ジオメトリ革命』。本番3週前、人も機材も一気に動き出しました。",
     "cards": [
