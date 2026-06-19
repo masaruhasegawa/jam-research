@@ -1,7 +1,7 @@
 window.LISA_FEEDS = [
   {
     "date": "2026-06-19",
-    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ツール・ド・スイスはポガチャル一強で『退屈論争』が再燃、女子はロンゴボルギーニが独走で黄金ジャージへ。Canyonは『AI安全バイク』を公開し、来週のユーロバイクに向けて機材も一気に動き出しました。",
+    "greeting": "おはようございます、マサルさん！ 本日の追いリサーチ10本。ツール前哨は前線が熱く（フルームは本日“海上225km”へ）、国内は『値引き競争×中華プレミアム上陸』が同時進行です。",
     "cards": [
       {
         "id": "20260619-tds-women-st2",
@@ -247,6 +247,241 @@ window.LISA_FEEDS = [
           }
         ],
         "status": "確定＝挑戦の概要・出発日・6/18ノルウェー入り・背景・チャリティ。曖昧＝記録達成の成否はゴール（進行中、※最終結果は続報待ち）。"
+      },
+      {
+        "id": "20260619-froome-pelagos",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/o7cQ69UMtJK7WcYfXir2GC.jpg",
+        "headline": "『チーム無き4度のツール王』フルームが本日6/19、地中海225kmを“水上自転車”で横断——慈善とドラマ",
+        "layer1": "チームを持たないクリス・フルーム（41）が、本日6/19スタートの慈善イベント『Crossing for the Pelagos』で、イタリア・ヴィアレッジョからモナコまで地中海225kmを水上自転車（ペダルボート）で渡る。フグルサング、ポッツァートら8チーム×4名が参加。",
+        "layer2": "これは“レース復帰”ではなく海洋保護の慈善挑戦。資金はモナコのアルベール2世財団／シャルレーヌ妃財団へ、対象は仏リヴィエラ〜リグーリア沖の海洋保護区『ペラゴス・サンクチュアリ』。水難事故防止の啓発も掲げる。フルームは正式な引退表明をしておらず、先日のシュコダ・アンバサダー就任と合わせ“ツール周辺で姿を見せる”動きが続く。完走の可否と所要時間が焦点。",
+        "sources": [
+          {
+            "t": "IDL Procycling",
+            "u": "https://www.idlprocycling.com/cycling/teamless-chris-froome-set-to-cross-the-mediterranean-sea-on-a-water-bike",
+            "d": "2026-06-11"
+          },
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/racing/chris-froome-to-cycle-across-mediterranean-for-charity-with-jakob-fuglsang-and-filippo-pozzato",
+            "d": "2026-06-10"
+          }
+        ],
+        "status": "確定＝6/19スタート・225km・参加者／曖昧＝完走の可否や所要時間は本稿時点で未確定"
+      },
+      {
+        "id": "20260619-uk-nats-startlist",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/4bvuwSMiSKK4WHe6Rfgbfm.jpg",
+        "headline": "全英ロード選手権2026、6/17に豪華スタートリスト発表——連覇狙うワトソン＆クーゼンズに、ファーガソン＆バックステッドが挑む",
+        "layer1": "6/17、英国自転車連盟が2026年全英選手権（6/25 TT→6/26サーキット→6/28ロード、ウェールズ・アベリストウィス周辺）の暫定エントリーを発表。ロード連覇を狙うサム・ワトソンとミリー・クーゼンズに、好調カット・ファーガソン（モビスター）やゾーイ・バックステッドらが挑む。",
+        "layer2": "TT防衛のバックステッドは『簡単ではないが、良い状態で勝負に行きたい』とコメント。Y Gors（最大勾配12.7%）の上りを各周回でこなす消耗戦で、周回を重ねるごとに集団がそぎ落とされる設計。ナショナルチャンピオンの“一年だけの特別ジャージ”が懸かる一戦。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/racing/star-studded-start-list-revealed-for-british-national-road-championships",
+            "d": "2026-06-17"
+          },
+          {
+            "t": "British Cycling",
+            "u": "https://www.britishcycling.org.uk/nationalroadchampionships/article/20260617-Host-of-national-champions-among-a-stacked-rider-list-for-2026-Lloyds-National-Road-Championships-announced--0",
+            "d": "2026-06-17"
+          }
+        ],
+        "status": "確定＝日程・コース・主要エントリー／曖昧＝出走は暫定リスト（直前変更あり）"
+      },
+      {
+        "id": "20260619-belgium-merlier-st2",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-06/hlbmlgwxqaak7zs-6a32ba8a6755b.jpg",
+        "headline": "バロワーズ・ベルギーツアー第2ステージ、メルリールが“雪辱”——初日の写真判定負けを晴らし総合首位へ",
+        "layer1": "6/18の第2ステージ（クノックヘイスト）で、ティム・メルリール（スーダル・クイックステップ）が上りスプリントを制し、コーイ、フィリプセンを抑えて勝利＋総合首位に立った。初日にギルマイへ写真判定で敗れた直後の雪辱劇。",
+        "layer2": "ツール前哨の“スプリンター品定め”。初日はギルマイがメルリールを際どく差し、メルリール陣営は雪辱を期していた。フィリプセンはコーイの発射台の後方に詰まり不発。残るステージで総合は山岳寄りに移り、純スプリンターの首位がどこまで保つかが見どころ。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/baloise-belgium-tour-tim-merlier-wins-stage-2-to-claim-race-lead/",
+            "d": "2026-06-18"
+          },
+          {
+            "t": "Cycling Uptodate（第1ステージ）",
+            "u": "https://cyclinguptodate.com/cycling/results-baloise-belgium-tour-2026-stage-1-biniam-girmay-denies-tim-merlier-in-photo-finish-after-rune-herregodts-scare",
+            "d": "2026-06-17"
+          }
+        ],
+        "status": "確定＝第2勝者・総合首位／曖昧＝最終総合は未確定"
+      },
+      {
+        "id": "20260619-giant-liv-campaign",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/03/SLorencePhoto_GiantLIv2026_002-1024x683.jpg",
+        "headline": "【経営メモ】ジャイアント＆Livが『カーボン サマーキャンペーン』(6/16〜8/31)——最大5.5万円分ギア進呈、大手の“実質値引き”が加速",
+        "layer1": "6/16、ジャイアント／Livが対象MY26カーボン完成車購入で最大5.5万円分のライダーギア（新作Rev Pro Mips／Pursuit Mipsヘルメット等）を進呈するキャンペーンを8/31まで実施と発表。",
+        "layer2": "在庫潤沢・需要縮小の局面で、大手は“値札を下げず特典で実質値引き”に動いている（ワイズロードの最大20%OFFセール、あさひのアプリ会員特典なども同方向）。店としては価格勝負では大手・円安に勝てない以上、フィッティング・アフター・目利きで価値を出す方針が要。キャンペーンは大手の在庫消化策である点を踏まえて対抗策を組みたい。",
+        "sources": [
+          {
+            "t": "cyclowired",
+            "u": "https://www.cyclowired.jp/news/node/392679",
+            "d": "2026-06-16"
+          }
+        ],
+        "status": "確定＝キャンペーン期間・特典上限／曖昧＝対象車種の細目は要確認"
+      },
+      {
+        "id": "20260619-xlab-japan",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.funq.jp/contents/uploads/2026/05/07224731/X-LAB_main.jpg",
+        "headline": "XDSアスタナの『X-LAB』が日本本格展開——RT9フレーム46.8万円、完成車6.2kg、“中華プレミアム”がWorldTeamの看板で上陸",
+        "layer1": "6月、UCIワールドチーム『XDSアスタナ』の使用ブランド X-LAB が国内ショップで取り扱い開始。Mt.富士ヒルクライム（6/6-7）で実車をお披露目、中旬以降に納車。軽量クライム旗艦RT9はフレーム46.8万円、Dura-Ace Di2＋Branta C50完成車で約6.2kg（L）。",
+        "layer2": "X-LABは年産800万台超のXDSが“原糸〜組立まで自社一貫”で作るプレミアムライン。中華＝格安の時代から、WorldTeam供給の看板を背負う“中華プレミアム”へ。国内取扱店ではAD9（エアロ・フレーム39.6万）、RS5（アルミ23.98万）など6系統を展開。買うのは日本のユーザー——『中華＝安かろう』の固定観念が崩れ、舶来ハイエンドの価格を脅かす存在に。実走インプレ・供給安定性は今後の評価待ち。",
+        "sources": [
+          {
+            "t": "BECKON（取扱開始告知）",
+            "u": "https://beckon.jp/blogs/morefun/20260603",
+            "d": "2026-06-03"
+          },
+          {
+            "t": "Bicycle Club（funq）",
+            "u": "https://www.funq.jp/bicycle-club/article/1065557/",
+            "d": "2026-05-08"
+          },
+          {
+            "t": "SPORTS-W",
+            "u": "https://sports-w.com/news/x-lab/x-lab-news260507/",
+            "d": "2026-05-07"
+          }
+        ],
+        "status": "確定＝国内展開・価格体系・公称重量／曖昧＝実走インプレ・供給量は未確定（※要裏取り）"
+      },
+      {
+        "id": "20260619-market-clearance-wait",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C164.jpg",
+        "headline": "【経営メモ】6月は『決算セール×試乗会』ラッシュ、だが客は“秋待ち”——在庫潤沢の今、勝負所は回転より粗利防衛",
+        "layer1": "国内は決算セールや各社の試乗会（メリダ新型REACTO等）が同時多発。一方、在庫が潤沢で値下がり基調のため『急がず秋のモデル入替まで待つ』という買い控えの空気も強い。",
+        "layer2": "背景は“バブルの清算”：トレックは10〜14%、ジャイアントも一部を値下げ改定。完成車は売れず、伸びるのは修理・パーツ・アップグレード。値引き合戦に巻き込まれると粗利が溶ける。狙いは①回転より単価・粗利の防衛、②試乗会を“接客と囲い込み”の入口に、③NESTO／GUSTO等の高コスパ新興も棚に置き『価格で来た客』を逃さない。『待てば安い』と言う客には、フィット・整備・保証の価値で“今買う理由”を提示したい。",
+        "sources": [
+          {
+            "t": "cyclowired（試乗会／キャンペーン）",
+            "u": "https://www.cyclowired.jp/news/node/392679",
+            "d": "2026-06-16"
+          },
+          {
+            "t": "bike-memo（値下げ・新興）",
+            "u": "https://bike-memo.com/cycle_260204_roadbike/",
+            "d": "2026-02-04"
+          }
+        ],
+        "status": "曖昧＝市況の解釈（一次データは各社の値下げ改定。販売現場の温度感は要現地確認）"
+      },
+      {
+        "id": "20260619-merida-reacto-jp",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/03/New-Merida-Reacto-March-2026-1024x683.jpg",
+        "headline": "メリダ新型REACTO『最も先進的なエアロ』が国内で試乗開始（6/13-14〜）——32mmタイヤ対応、旗艦は風洞196W",
+        "layer1": "6/13-14、新型メリダREACTOの試乗会が国内各地で始動（新潟ほか）。2020年以来のフルモデルチェンジで、旗艦REACTO Oneは風洞196W（45km/h）、最軽量REACTO Teamで7.1kg（M）、タイヤは32mmまで対応。",
+        "layer2": "新型コックピット『Team CW』が空力改善の約50%を担い、ヘッド／ダウンチューブ周りの一体設計で“速さと快適の両立”を主張。価格はREACTO 4000の約£2,400からOne約£10,000まで2フレーム10モデル。日本でメリダは販路が太く、試乗→受注の動線が組みやすい。公称はメーカー値で、実走比較は試乗で確認したい。",
+        "sources": [
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/tech-news/the-most-advanced-aero-bike-we-have-ever-created-merida-unveils-new-reacto",
+            "d": "2026-03-06"
+          },
+          {
+            "t": "cyclowired（国内試乗会）",
+            "u": "https://www.cyclowired.jp/news",
+            "d": "2026-06-13"
+          }
+        ],
+        "status": "確定＝スペック・価格帯・国内試乗開始／曖昧＝実測重量・実走空力は試乗待ち"
+      },
+      {
+        "id": "20260619-tire-pressure-2026",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/04/Untitled-design-8-1024x683.png",
+        "headline": "新型エアロが軒並み『32mmタイヤ対応』に——“太いほど遅い”は過去、空気圧『120psiは死んだ』が2026の新常識",
+        "layer1": "新型REACTO／プロペル／フェルトNexarなど2026のエアロは軒並み32mmタイヤ対応へ拡大。同時に『ワイド＋チューブレス＋低圧』で転がり・快適・空力を底上げする流れが定着し、旧来の高圧（〜120psi）は“もう速くない”という見方が主流に。",
+        "layer2": "23Cチューブラー時代の高圧を28〜32Cの広内幅リムに当てると遅く・痛い。適正圧へ下げるだけで8〜12W拾えるとされ、最も安い高速化の一つ。注意：フックレスは72.5psi上限・対応タイヤ限定で、安全面からフック有りへ回帰する動きも。初中級は『太め＋低め』を体重・リム内幅から詰めるのが正解。数値は条件依存で、体重・路面により最適点は変わる。",
+        "sources": [
+          {
+            "t": "road.cc（Merida 32mm対応）",
+            "u": "https://road.cc/tech-news/the-most-advanced-aero-bike-we-have-ever-created-merida-unveils-new-reacto",
+            "d": "2026-03-06"
+          },
+          {
+            "t": "Cyclingnews（ベスト・チューブレスタイヤ2026）",
+            "u": "https://www.cyclingnews.com/features/best-tubeless-road-tyres/",
+            "d": "2026-06"
+          }
+        ],
+        "status": "曖昧＝適正空気圧は条件依存（一般論。体重・リム内幅で最適点を詰める。ワット差の数値は※要裏取り）"
+      },
+      {
+        "id": "20260619-china-carbon-pick",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://niiyamacycle-kure.jp/wp-content/uploads/2025/12/32918645_s.jpg",
+        "headline": "『初めての中華カーボン』で失敗しない3つの確認——X-LAB上陸＆“格付け”定着で関心が再燃する今こそ",
+        "layer1": "WorldTeam供給のX-LAB上陸や、ELITEWHEELS／YOELEO／Winspaceらの“格付け”定着で、初中級の中華カーボン熱が再燃。だが初めての1本は『軽さ・価格』より、買った後で後悔しない地味な3点で選ぶのが正解。",
+        "layer2": "①実在ブランドか（公式サイトで型番・保証・問い合わせ窓口が確認できるか）②規格の明確さ（BB規格・アクスル・シートポストの互換）③保証が“実際に使える”条件か（中古可否・必要書類・返送送料の負担）。加えてハンガー等の補修部品が長期入手できるか。送料・関税・返送費込みの“総額”で比較を。初購入は国内ショップ／日本語公式経由が安心。極端な軽量より補修性・サポートを優先したい。",
+        "sources": [
+          {
+            "t": "自転車ジャーナル（新山サイクル）",
+            "u": "https://niiyamacycle-kure.jp/kg111/",
+            "d": "2026-04-07"
+          },
+          {
+            "t": "bike-memo（中華カーボン格付け）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-01-18"
+          }
+        ],
+        "status": "確定＝選定の考え方／曖昧＝個別ブランドの当たり外れは個体差あり（※要裏取り）"
+      },
+      {
+        "id": "20260619-slovenia-rajovic-st2",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-03/girodisardegna-dusanrajovic-2-69adcf5f32e38.jpg",
+        "headline": "ツアー・オブ・スロベニア第2ステージ、日本拠点NIPPOのラヨヴィッチが勝利——落車で“レース中断”の波乱を制す",
+        "layer1": "6/18の第2ステージ（ラドリェ→オルモジュ）で、ドゥシャン・ラヨヴィッチ（Solution Tech-NIPPO Rali）が縮小集団のスプリントを制し勝利。総合首位ピシー（レッドブル）が2位、アルヴァニトゥが3位。",
+        "layer2": "残り約29kmで落車が発生し、救急体制確保のためレースが一時中断・実質ニュートラル化する波乱。初日を制したピシーがリーダージャージを堅守した。NIPPO系チームの勝利は日本のファンにも刺さる一勝。中断の経緯・負傷者の詳細は続報待ち。",
+        "sources": [
+          {
+            "t": "Cycling Uptodate",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-of-slovenia-2026-stage-2-dusan-rajovic-takes-big-win-as-crash-causes-race-to-be-neutralised",
+            "d": "2026-06-18"
+          }
+        ],
+        "status": "確定＝勝者・総合首位・中断の事実／曖昧＝負傷者・中断の詳細は未確定（※要裏取り）"
       }
     ]
   },
