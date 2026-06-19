@@ -1,5 +1,466 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-06-20",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ20本。週末のツール前哨が一気に動きました——スイスでポガチャルが婚約者ジガートの落車を背負って独走、ナルバエスが嵐の2人逃げ切り、スロベニアでピシー、ベルギーでアランブル。さらにラポルト離脱でヴィスマに二重の痛手、ツールの緑ジャージ配点見直しも。機材は『ターマックSL9』リークとユーロバイク(6/24)前夜です。",
+    "cards": [
+      {
+        "id": "20260620-pogacar-zigart-suisse",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-06%2Ftadej-pogacar-6a35334733024.jpg",
+        "headline": "『この黄色を彼女のもとへ持ち帰る』——ポガチャル、婚約者ジガートの落車を背負ってツール・ド・スイスを独走",
+        "layer1": "ツール・ド・スイスでマイヨジョーヌを着るポガチャルが、婚約者で同じプロ選手のウルシュカ・ジガートが落車・顎を骨折して入院した直後のレースで、『彼女がこのジャージを家に持ち帰ってほしいと言っている』と語り、勝利に向ける特別な動機を明かした。",
+        "layer2": "『どれだけ独走しているのか』——確定：第1ステージの70km独走以降、総合2位カラパスに2分50秒という圧倒的リードを保持。週末は土曜の24km個人TTと日曜のクイーンステージ（ヴィラール・スュル・オロン）が残るが、勝負あり濃厚。背景：ジガートは『気丈にしている』とのことで、月曜に再会する予定。人間ドラマと支配が重なった、今いちばん心が動く一本。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/she-wants-me-to-bring-this-jersey-home-tadej-pogacar-reveals-extra-tour-de-suisse-motivation-after-urska-zigart-crash",
+            "d": "2026-06-19"
+          },
+          {
+            "t": "IDLProCycling",
+            "u": "https://www.idlprocycling.com/cycling/pogacar-breaks-his-silence-after-fiancee-zigarts-crash-shes-a-real-fighter",
+            "d": "2026-06-18"
+          }
+        ],
+        "status": "確定＝GCリード2:50・ジガート骨折で入院／曖昧＝完全復帰時期は未公表"
+      },
+      {
+        "id": "20260620-narvaez-suisse-st3",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-06%2Fcaptura-de-ecra-2026-06-19-164526-6a356421c3d00.png",
+        "headline": "嵐の2人逃げを冷徹に計算——ナルバエス、ツール・ド・スイス第3ステージをメルリスとの一騎打ちで制す",
+        "layer1": "6/19、雷雨と冠水の悪路となった第3ステージ（157.4km）で、UAEのジョナタン・ナルバエスがザンドロ・メルリスとの2人逃げを最後まで守り切り、スプリントで勝利。マグナス・コルトが3位、ファンデルプールは5位だった。",
+        "layer2": "『なぜ追走のプロトンは届かなかったのか』——確定：終盤30kmは無線オフ。ナルバエスは『プロトンが追いつくには70km/h巡航が必要、彼らは55km/hだから無理』と頭の中で計算し、嵐の中で動じず逃げ切った。意味：ジロ3勝に続く今季の勝利で、UAEは3日で2勝目。冷静なレースマネジメントが光った一本。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-de-suisse-2026-stage-3-jhonatan-narvaez-beats-xandro-meurisse-in-storm-lashed-finale-as-sprint-chase-comes-too-late",
+            "d": "2026-06-19"
+          },
+          {
+            "t": "ProCyclingStats",
+            "u": "https://www.procyclingstats.com/race/tour-de-suisse/2026/stage-3/result/result",
+            "d": "2026-06-19"
+          }
+        ],
+        "status": "確定＝勝者ナルバエス、2位メルリス、3位コルト"
+      },
+      {
+        "id": "20260620-aranburu-belgium-st3",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-06%2Fhll6xvdwsaasjak-6a355e4c83d6d.jpg",
+        "headline": "アランブル、ベルギーツアー第3ステージのデュルブイ激坂を制す——ブリトンのアスケイを抑える",
+        "layer1": "6/19、何度も分裂と再集合を繰り返したデュルブイの混戦フィナーレ（173km・登坂2,661m）を、コフィディスのアレックス・アランブルが急坂スプリントで制覇。2位ルイス・アスケイ、3位カルロス・カナル。",
+        "layer2": "『総合はどう動いたか』——CyclingUpToDate報道ではアランブルが総合首位に立ったとされる（※前日首位のメルリールとの最終GC差は要確認）。意味：平坦スプリント主体だったこのレースに、ようやく訪れた本格的な“クイーンステージの殴り合い”。コフィディスにとって価値ある一勝。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/results-baloise-belgium-tour-2026-stage-3-alex-aranburu-wins-chaotic-durbuy-finale-ahead-of-brit-lewis-askey",
+            "d": "2026-06-19"
+          }
+        ],
+        "status": "確定＝勝者アランブル、2位アスケイ／曖昧＝総合首位の確定差（※要裏取り）"
+      },
+      {
+        "id": "20260620-pithie-slovenia-st3",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-06%2Fpithie-marit.png",
+        "headline": "ピシー、スロベニア第3ステージで今大会2勝目——チェリスカ・コチャの試練を越えてリーダージャージを死守",
+        "layer1": "6/19、ツアー・オブ・スロベニア第3ステージ（マリボル〜ツェリエ、133.5km）で、リーダージャージを着るローレンス・ピシーが終盤の登坂チェリスカ・コチャを生き残り、スプリントで2勝目。コボ、オルダニが続いた。",
+        "layer2": "『なぜ独走勢ではなくピシーなのか』——確定：レッドブル＝ボーラが終盤の登坂を完全に支配して逃げを早めに吸収、絞られた集団スプリントに持ち込んだ。背景：ピシーはここ1か月で6勝目という絶好調で、登れるスプリンターとして総合首位も堅持。",
+        "sources": [
+          {
+            "t": "ProCyclingStats",
+            "u": "https://www.procyclingstats.com/race/tour-of-slovenia/2026/stage-3/result/result",
+            "d": "2026-06-19"
+          },
+          {
+            "t": "IDLProCycling",
+            "u": "https://www.idlprocycling.com/cycling/even-lipowitz-sacrifices-himself-for-a-remarkable-red-bull-one-two-at-tour-of-slovenia",
+            "d": "2026-06-18"
+          }
+        ],
+        "status": "確定＝勝者ピシー、今大会2勝目・総合首位"
+      },
+      {
+        "id": "20260620-laporte-out-tdf",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-04%2Fchristophe-laporte-69ce238812d67.jpg",
+        "headline": "ラポルトも落車で離脱——ヴィンゲゴーのヴィスマ、ツール直前に“二重の痛手”",
+        "layer1": "ヴィスマ・リースアバイクのクリストフ・ラポルト（33）が練習中の落車で大腿四頭筋を断裂、ツール・ド・フランス2026を欠場。先日のファンアールト欠場に続く、総合エース ヴィンゲゴーへの二重の打撃となった。",
+        "layer2": "『誰が穴を埋めるのか』——確定：8人目の枠には22歳のノルウェー人ペル・ストランド・ハーゲネスが繰り上がり、エドアルド・アフィニも起用される見込み。意味：平地でヴィンゲゴーを守る経験豊富なクラシック屋を2枚（ファンアールト＋ラポルト）失い、布陣の厚みが明確に落ちた。マサル注目：ヴィンゲゴーは『ジロ→ツール』二冠に挑む直前だけに痛い。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/huge-disappointment-team-visma-lease-a-bike-and-vingegaard-dealt-major-tour-de-france-blow-as-laporte-ruled-out",
+            "d": "2026-06-18"
+          },
+          {
+            "t": "CyclingFlash",
+            "u": "https://cyclingflash.com/news/per-strand-hagenes-replaces-christophe-laporte-in-visma-lease-a-bike-tour-selection",
+            "d": "2026-06-18"
+          }
+        ],
+        "status": "確定＝大腿四頭筋断裂で欠場・ハーゲネス繰り上げ"
+      },
+      {
+        "id": "20260620-usa-pro-nats-crit",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://assets.usacycling.org/prod/assets/_1440xAUTO_crop_center-center_none/815705/2026-Pro-Road-Elite-Crit-Recap_1130x600.webp",
+        "headline": "全米プロ選手権、クリテはケンドール・ライアンが7度目の戴冠——本命のロードレースは週末に",
+        "layer1": "6/16〜21にウェストバージニア州チャールストンで開催中の全米プロ・ロード選手権。エリート・クリテリウムは女子でケンドール・ライアンが通算7度目の優勝、男子はルーク・エルフィングストンが制した。",
+        "layer2": "『最大の見どころは』——確定：目玉のエリート・ロードレースは大会最終日6/21に予定され、昨年王者クイン・シモンズが連覇を狙う。意味：欧州のツール前哨と同週に北米のチャンピオンが続々決まる時期。星条旗ジャージは来季のチーム内序列にも効く一戦。",
+        "sources": [
+          {
+            "t": "USA Cycling",
+            "u": "https://usacycling.org/article/ryan-and-elphingstone-win-elite-criterium-national-titles-at-2026-pro-road-national-championships",
+            "d": "2026-06-18"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/2026-road-national-champions-index/",
+            "d": "2026-06-18"
+          }
+        ],
+        "status": "確定＝クリテ優勝ライアン/エルフィングストン／ロードは6/21予定"
+      },
+      {
+        "id": "20260620-tdf-green-jersey-points",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2025-07%2Fjonathan-milan-imago1064089738-68727fbb2c422.jpg",
+        "headline": "ツール、緑ジャージの配点を見直し——平坦ステージ勝者が『50→70点』に、純スプリント優遇へ",
+        "layer1": "ツール・ド・フランス2026が、ポイント賞（緑ジャージ）の配点変更を発表。純粋な平坦スプリントステージ（5本）は勝者の獲得点を50から70点に引き上げ、起伏のある4ステージは50点据え置きとし、両者を明確に区別する。",
+        "layer2": "『なぜ今変えるのか』——確定：純スプリンターが平坦で稼ぎやすくなる設計。背景・推測：起伏ステージでポイントをかっさらってきた“万能型”（=ポガチャルら）の独占を抑え、ミランら本職スプリンターの緑ジャージ争いを盛り上げる狙いとみられる（※意図は主催の明言ではなく観測）。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/sprinters-rejoice-tour-de-france-confirms-major-rule-change-that-could-transform-green-jersey-battle",
+            "d": "2026-06-19"
+          },
+          {
+            "t": "IDLProCycling",
+            "u": "https://www.idlprocycling.com/cycling/tour-de-france-organisers-overhaul-points-system-possibly-to-stop-a-dominant-pogacar",
+            "d": "2026-06-18"
+          }
+        ],
+        "status": "確定＝平坦勝者70点へ／曖昧＝“ポガチャル封じ”の意図（※観測）"
+      },
+      {
+        "id": "20260620-belgium-sprint-trio",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-06%2Fmerlier-kooij-philipsen.jpg",
+        "headline": "メルリール×コーイ×フィリプセン、ベルギーで“ガチの三つ巴”——コーイはツール選考が懸かる正念場",
+        "layer1": "ベルギーツアーで、メルリール、コーイ、フィリプセンという現役トップスプリンター3人が、ようやく本気の直接対決を実現。各チームの発射台がそろう中での三つ巴は、ツール前の貴重な力比べとなった。",
+        "layer2": "『なぜこの対決が重いのか』——確定：オラフ・コーイにとってこのレースの出来はヴィスマのツール選考に直結する正念場。意味：3人の力関係はそのままツールの平坦ステージの行方を占う。背景：写真判定までもつれた接戦が続き、発射タイミングと最後の伸びの“紙一重”が浮き彫りに。",
+        "sources": [
+          {
+            "t": "IDLProCycling",
+            "u": "https://www.idlprocycling.com/cycling/merlier-kooij-and-philipsen-finally-sprint-against-each-other-for-real-at-the-baloise-belgium-tour",
+            "d": "2026-06-18"
+          },
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/results-baloise-belgium-tour-2026-stage-3-alex-aranburu-wins-chaotic-durbuy-finale-ahead-of-brit-lewis-askey",
+            "d": "2026-06-19"
+          }
+        ],
+        "status": "確定＝3者直接対決が成立／曖昧＝コーイのツール当落は未確定"
+      },
+      {
+        "id": "20260620-visma-tdf-squad",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-03%2Fnlb-202078646-69c7ba6aa34e7.jpg",
+        "headline": "ヴィスマ、ツール8人目はクライマーではなく若手ハーゲネス——“二冠”ヴィンゲゴーの布陣が固まる",
+        "layer1": "ファンアールトとラポルトを相次いで欠いたヴィスマが、ツール・ド・フランスの最後の1枠に登れるクライマーではなく22歳のハーゲネスを選んだ。ジロを制したヴィンゲゴーの『ジロ→ツール』二冠挑戦を支える布陣が固まりつつある。",
+        "layer2": "『博打が偉業に変わるのか』——確定：ヴィンゲゴーはジロ優勝で復活を証明済み。意味：守りの駒（クラシック屋2枚）を失った分、平地のコントロール力に不安、しかし山岳の総合力は健在。背景：直前にツール監督ニールマンがトレックへ電撃移籍した件と合わせ、勝てば“偉業”、崩れれば“博打”の二択がより鮮明に。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/visma-might-have-chosen-its-eight-man-for-the-tour-de-france-and-its-not-one-of-its-bright-climbers",
+            "d": "2026-06-18"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/races/tour-de-france-2026/preview/",
+            "d": "2026-06-18"
+          }
+        ],
+        "status": "確定＝8人目はハーゲネス系の若手／曖昧＝最終8名の全確定は要確認"
+      },
+      {
+        "id": "20260620-tarmac-sl9-prototype-leak",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/ZmdwK3Pj4AaPp53H6d4fy3.jpg",
+        "headline": "新型『ターマックSL9』の姿、ツール前哨で激写——キューブの新型エアロも同時出現",
+        "layer1": "ツール前哨（オーヴェルニュ＝ローヌアルプ）で、未発表の新型スペシャライズド・ターマックSL9とみられる車体が撮影された。フォークとシートチューブにエアロ更新が見られ、同時にキューブ・ライトニング・エアロC:68Xの新型（深いヘッドチューブ＋タイヤクリアランス拡大）も目撃された。",
+        "layer2": "『何が変わるのか』——確定：ターマックSL9は“過激な刷新”ではなく正常進化（フォーク/シートチューブのエアロ最適化）の見立て。キューブは34mm級タイヤまで飲める拡大クリアランスが要点。ほかヴァンリセルRCRプロ（セイシャス用）や軽量リドリー試作も。意味：本番ツールでの“新車お披露目”が近い合図。鮮度補足：撮影は6/7（=14日ライン内）。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/news/watch-unreleased-bikes-our-video-team-spotted-at-tour-de-france-warm-up-race",
+            "d": "2026-06-07"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/is-this-the-new-tarmac-sl9-mystery-specialized-bike-spotted-at-team-training-camp/",
+            "d": "2026-06-10"
+          }
+        ],
+        "status": "確定＝試作目撃／曖昧＝正式スペックは未発表（※リーク段階）"
+      },
+      {
+        "id": "20260620-eurobike-2026-preview",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://www.ciclonline.com/images/stories/fbici20253/Eurobike_2026.jpg",
+        "headline": "ユーロバイク2026、6/24フランクフルト開幕——“ロード回帰”と安全テクノロジーが主役",
+        "layer1": "世界最大級の自転車見本市ユーロバイクが6/24〜28にフランクフルトで開幕。約1,500社が出展し、近年のeモビ偏重から『ロード・グラベル・eMTB』のスポーツ核へ回帰する。各社が安全テクノロジーを前面に押し出す。",
+        "layer2": "『何を見るべきか』——確定：キャニオンはレーダー＋カメラ＋ハンドル内ディスプレイの未来型コンセプト『Predict』を出展、スマート警告システムや対話型ヘルメットも。意味：新型ロード/エアロ/32mm対応の発表が集中し、ここで出た物が秋以降に国内入荷する。マサル注目：仕入れ計画の“答え合わせ”になる一週間。",
+        "sources": [
+          {
+            "t": "Cyclonline",
+            "u": "https://www.cyclonline.com/eurobike-2026-frankfurt-news/eurobike-2026-event-preview-redrawing-the-future-of-cycling-and-mobility-%E2%80%93-dates,-times,-program",
+            "d": "2026-06-19"
+          },
+          {
+            "t": "TOUR Magazin",
+            "u": "https://www.tour-magazin.de/en/buying-advice/clothing/helmets/eurobike-preview-canyon-connected-cycling-innovations-featuring-smart-safety-and-32-inch-wheels/",
+            "d": "2026-06-12"
+          }
+        ],
+        "status": "確定＝6/24-28開催・出展概要／曖昧＝個別新製品の詳細は会期で判明"
+      },
+      {
+        "id": "20260620-endurance-bikes-2026",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2026/06/top-endurance-bikes-2026.jpg?w=1200",
+        "headline": "2026は『カテゴリーが溶ける』年——エンデュランスがエアロと太タイヤを取り込み、最前線へ",
+        "layer1": "BikeRadarが『2026年に心が躍ったエンデュランスバイク6台』を特集。エアロ・軽量・エンデュランスという従来の枠が混ざり合い、最も面白いのは“自分のレーンに留まらない”車たちだと指摘する。",
+        "layer2": "『初中級にとって何が嬉しいのか』——確定：エンデュランス系がエアロ性能と太タイヤクリアランス（32mm超）を獲得し、“快適なのに速い”が普通になった。意味：プロの前傾エアロを無理に真似なくても、現代エンデュランスなら速さと快適を両取りできる。最初の一台選びの“正解”が広がっている。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/features/opinion/most-exciting-endurance-bikes-2026",
+            "d": "2026-06-12"
+          }
+        ],
+        "status": "確定＝カテゴリ融解の潮流／所感記事（具体性は車種により差）"
+      },
+      {
+        "id": "20260620-roadcc-hivis-safety",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/06/Heidi-Alexander-riding-to-work-on-a-Brompton.jpg",
+        "headline": "『ハイビズはどこ？』——英運輸相の“普段着通勤”動画が称賛と論争の両方を呼ぶ",
+        "layer1": "英国の運輸相が普段着で自転車通勤する動画が『見事だ』と称賛される一方、一部ドライバーから『危険な服装だ』と批判を浴びた。20mゾーン（時速約32km制限）の是非とも絡み、road.ccのライブブログで論争に。",
+        "layer2": "『日本のローディーにどう刺さるか』——背景：自転車が“特別な装備の趣味”か“普段着の移動”かという価値観の衝突。意味：日本でも2026/4の青切符施行で安全意識が高まる中、『ヘルメット・反射材は義務か、自衛か』の議論と地続き。海外の温度感は、店頭での安全用品トークの材料になる。",
+        "sources": [
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/news/cycling-live-blog-19-june-2026",
+            "d": "2026-06-19"
+          }
+        ],
+        "status": "確定＝英国での論争の存在／論評（数値の断定はしない）"
+      },
+      {
+        "id": "20260620-china-carbon-ranking",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/01/zakki_C128.jpg",
+        "headline": "中華カーボンの“買い手市場”が加速——夏セールで序列上位がさらに射程に",
+        "layer1": "ELITEWHEELSが6/10〜30の夏セール（最大20%オフ＋特典）を実施するなど、中華カーボンの価格攻勢が続く。国内では『どれが買いか』の序列が定着し、Drive II／Drive SLなどUCI認証で表彰台級の選択肢が、舶来の半額以下で手に入る。",
+        "layer2": "『今の上位は何か』——整理：ELITEWHEELS DRIVE II、YOELEO、WINSPACE、FARSPORTSなどが“設計と検品”で評価を固める層。うちの取り扱い（FARSPORTS C5は『快適で安定』評価／8LIEN・CRW等）とも自然に接続できる。注意：セール時こそ“重量・リム内幅・対応タイヤ・アフター”を実測/公称で確認するのが鉄則。",
+        "sources": [
+          {
+            "t": "ELITEWHEELS Japan",
+            "u": "https://jp.elite-wheels.com/",
+            "d": "2026-06-10"
+          },
+          {
+            "t": "bike-memo（中華格付け）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-01-18"
+          }
+        ],
+        "status": "確定＝夏セール実施・序列の大枠／序列の細部は各社更新中（※要確認）"
+      },
+      {
+        "id": "20260620-market-china-discount",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://blog.cbnanashi.net/wp-content/uploads/2024/03/ew.jpg",
+        "headline": "【経営メモ】中華の“夏値引き攻勢”と舶来の値上げで二極化が鮮明——店の武器は『目利き＋アフター』",
+        "layer1": "ELITEWHEELS等が最大20%オフの夏セールを仕掛ける一方、舶来ハイエンドは円安で値上げ基調。価格で勝てない構図が一段と鮮明になり、買い手はますます中華の“賢い選択”へ流れている。",
+        "layer2": "『店としてどう戦うか』——経営観点：①価格勝負は不毛＝粗利防衛を最優先、②中華は“設計と検品”で差がつくため、店の付加価値は『目利き（地雷回避の助言）＋アフター（振れ取り・保証・フィッティング）』に集約する。③セール期は問い合わせが増えるので、相談→自店アフター付き購入へ誘導する導線を用意。記事化不要、現場の打ち手として。",
+        "sources": [
+          {
+            "t": "ELITEWHEELS Japan",
+            "u": "https://jp.elite-wheels.com/",
+            "d": "2026-06-10"
+          },
+          {
+            "t": "CBN Blog（ELITEWHEELS評価）",
+            "u": "https://blog.cbnanashi.net/2024/03/22946",
+            "d": "2024-03-22"
+          }
+        ],
+        "status": "確定＝夏セール/値上げ基調の方向性／経営判断メモ（数値断定なし）"
+      },
+      {
+        "id": "20260620-groupset-13s-era",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2026/03/Shimano-13-speed-app-leak-scaled.jpg?webp=1&w=1200",
+        "headline": "コンポは大変革期——『13速・フルワイヤレス』の足音、いま機械式やリムを買うのはアリか",
+        "layer1": "シマノの13速デュラエース（R9300）をうかがわせるE-Tubeアプリのリークや特許（フルワイヤレス観測）が出回り、SRAMもパワーメーターを中位グレードへ降ろしてきた。コンポの世代交代が見えてきた今、初中級が悩むのが『今買って大丈夫か』。",
+        "layer2": "『結論、どうすべきか』——整理：13速デュラエースは本格普及が2027シーズン頃との観測で、初中級の現実解（105 Di2/機械式）が来年“即陳腐化”する心配は小さい。リムブレーキ車は新車の主流から外れるが、整備性・価格で“今お得に乗る”選択は十分アリ。盛らない結論＝『最上位の先取り』より『自分の予算で確実に楽しむ』が正解。",
+        "sources": [
+          {
+            "t": "BikeRadar（13速リーク）",
+            "u": "https://www.bikeradar.com/news/shimano-13-speed-e-tube-leak",
+            "d": "2026-03-10"
+          },
+          {
+            "t": "Cyclist's Hub（デュラ/アルテ噂）",
+            "u": "https://www.cyclistshub.com/shimano-dura-ace-and-ultegra-rumors/",
+            "d": "2026-06-05"
+          }
+        ],
+        "status": "確定＝リーク/特許の存在／曖昧＝発売時期は未確定（※要裏取り）"
+      },
+      {
+        "id": "20260620-market-eurobike-restock",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.image.st-hatena.com/image/scale/85c648441a55083dad826637685ebf1d5ded9378/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcyclekaigyou%2F20260125%2F20260125133221.png",
+        "headline": "【経営メモ】ユーロバイク(6/24)の新型ラッシュ＝秋の国内入荷を見据えた仕入れ判断の起点",
+        "layer1": "6/24開幕のユーロバイクで出る新型（現代エンデュランス・エアロ・32mm対応・安全テック）は、例年そのまま秋〜冬の国内入荷につながる。需要が縮む“清算”局面のいま、何を仕込み、何を見送るかの判断が利益を左右する。",
+        "layer2": "『どう構えるか』——経営観点：①需要縮小局面では“広く薄く”より“売れ筋を厚く”、②太タイヤ/32mm対応・フィット提案できる現代エンデュランスは初中級の買い替え動機になりやすく仕込み価値が高い、③安全テック（ライト/レーダー）は青切符後の啓発需要と相性が良い。会期の発表を見て予約受注に乗せるのが堅い。記事化不要。",
+        "sources": [
+          {
+            "t": "Cyclonline（ユーロバイク2026）",
+            "u": "https://www.cyclonline.com/eurobike-2026-frankfurt-news/eurobike-2026-event-preview-redrawing-the-future-of-cycling-and-mobility-%E2%80%93-dates,-times,-program",
+            "d": "2026-06-19"
+          },
+          {
+            "t": "BikeRadar（2026エンデュランス）",
+            "u": "https://www.bikeradar.com/features/opinion/most-exciting-endurance-bikes-2026",
+            "d": "2026-06-12"
+          }
+        ],
+        "status": "確定＝ユーロバイク開催・潮流／経営判断メモ（具体入荷は会期後）"
+      },
+      {
+        "id": "20260620-wider-tyres-standard",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2024/06/Hutchinson-Blackbird-Racing-Lab-TLR-02.jpg?w=1200",
+        "headline": "太タイヤ＆チューブレスが“標準”へ——ロードとグラベルの境界が溶けていく2026",
+        "layer1": "2026のロードは『フレームにクリアランスがあれば28mmが最低、30mm以上でより良い』が新常識化。グラベルは50〜55mmクリアランスが標準になり、ロードとグラベルの境界が急速に溶けつつある。",
+        "layer2": "『なぜ太い方が良いとされるのか』——確定：プロもパリ〜ルーベでポガチャルが30C、ヴィンゲゴーがツールで28C、ファンデルプールが石畳で32Cと太幅へ。フックレス（hookless）リムを一般ライダーが安全に使えるようにしたのも太幅・低圧化の後押し。意味：『太い＝遅い』は過去で、転がり抵抗・快適・パンク耐性の総合で勝つ時代。",
+        "sources": [
+          {
+            "t": "BikeRadar（ベスト・チューブレス2026）",
+            "u": "https://www.bikeradar.com/advice/buyers-guides/best-tubeless-road-tyres",
+            "d": "2026-06-08"
+          }
+        ],
+        "status": "確定＝太幅化/クリアランス拡大の潮流／個別最適幅は車体次第"
+      },
+      {
+        "id": "20260620-aokippu-now",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://www.roadbike-expert.com/wp-content/uploads/2026/06/aozappu_ogp.png",
+        "headline": "青切符の“現在地”——施行から約2か月、ヘルメットは結局どう扱われているか",
+        "layer1": "2026年4月から自転車にも交通反則通告制度（青切符）が導入され、16歳以上が対象。並走3,000円など、113類型もの違反が反則金の対象になり得る。初中級が一番気にするのが『で、ヘルメットは？』という点だ。",
+        "layer2": "『結論、ヘルメットは罰則対象か』——確定：ヘルメット未着用は青切符の対象ではなく、2023年4月以降の“努力義務”のまま（反則金は科されない）。意味：罰則がなくても、命と“信用”のために被るのが現実解。施行後は信号無視・一時不停止・スマホ等が実際の取り締まり対象。マサル的には安全用品の啓発が販売導線にもなる局面。",
+        "sources": [
+          {
+            "t": "CYCLING ROAD（青切符2026ガイド）",
+            "u": "https://www.roadbike-expert.com/bicycle-blue-ticket-2026-guide/",
+            "d": "2026-06-05"
+          },
+          {
+            "t": "KINTO（自転車ルール改正解説）",
+            "u": "https://kinto-jp.com/magazine/k20260323-1/",
+            "d": "2026-03-23"
+          }
+        ],
+        "status": "確定＝ヘルメットは反則金対象外・努力義務／施行は2026/4"
+      },
+      {
+        "id": "20260620-carapaz-best-shape",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-06%2Fhlgythswyaetdq0-6a352b0231306.jpg",
+        "headline": "『人生で最高の登坂状態』——ポガチャルが唯一落とせなかった男、カラパスがスイス総合2位",
+        "layer1": "ツール・ド・スイスで圧倒的なポガチャルに対し、EFのリチャル・カラパスだけが3分以内（2:50差）の総合2位に踏みとどまる。本人は『今まででいちばん良い登りの状態だ』と語り、ポガチャルが唯一振り切れなかった登坂力を誇示した。",
+        "layer2": "『この好調はツールにどう効くのか』——確定：ポガチャル相手に食らいつける数少ない総合系として、本番ツールでの“山岳での暴れ役”候補に。背景：かつてのジロ＆五輪王者が、30代半ばでも登坂のキレを保っているのは異例。人間ドラマ：ポガチャル一強の物語に、唯一の対抗線を引く存在として要注目。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/the-best-climbing-shape-i-have-ever-had-the-man-tadej-pogacar-could-not-drop-at-the-tour-de-suisse",
+            "d": "2026-06-19"
+          }
+        ],
+        "status": "確定＝カラパスがスイス総合2位・本人コメント"
+      }
+    ]
+  },
+  {
     "date": "2026-06-19",
     "greeting": "おはようございます、マサルさん！ 本日の追いリサーチ20本。ツール前哨が一気に動き（ファンアールトがツール欠場、ポガチャル通算100勝、コルナゴ新TT2投入）、国内はタイムNXR・ビアンキ・ドグマ新色と高級新作ラッシュです。",
     "cards": [
