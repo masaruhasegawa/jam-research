@@ -1,135 +1,263 @@
 {
   "date": "2026-06-19",
-  "greeting": "おはようございます、マサルさん！ 本日の追いリサーチ10本。ツール前哨は前線が熱く（フルームは本日“海上225km”へ）、国内は『値引き競争×中華プレミアム上陸』が同時進行です。",
+  "greeting": "おはようございます、マサルさん！ 本日の追いリサーチ20本。ツール前哨が一気に動き（ファンアールトがツール欠場、ポガチャル通算100勝、コルナゴ新TT2投入）、国内はタイムNXR・ビアンキ・ドグマ新色と高級新作ラッシュです。",
   "cards": [
     {
-      "id": "20260619-froome-pelagos",
+      "id": "20260619-vanaert-out-tdf",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": true,
-      "image": "https://cdn.mos.cms.futurecdn.net/o7cQ69UMtJK7WcYfXir2GC.jpg",
-      "headline": "『チーム無き4度のツール王』フルームが本日6/19、地中海225kmを“水上自転車”で横断——慈善とドラマ",
-      "layer1": "チームを持たないクリス・フルーム（41）が、本日6/19スタートの慈善イベント『Crossing for the Pelagos』で、イタリア・ヴィアレッジョからモナコまで地中海225kmを水上自転車（ペダルボート）で渡る。フグルサング、ポッツァートら8チーム×4名が参加。",
-      "layer2": "これは“レース復帰”ではなく海洋保護の慈善挑戦。資金はモナコのアルベール2世財団／シャルレーヌ妃財団へ、対象は仏リヴィエラ〜リグーリア沖の海洋保護区『ペラゴス・サンクチュアリ』。水難事故防止の啓発も掲げる。フルームは正式な引退表明をしておらず、先日のシュコダ・アンバサダー就任と合わせ“ツール周辺で姿を見せる”動きが続く。完走の可否と所要時間が焦点。",
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/watermark:Picture%3A%20Sirotti/width:3840/height:2560/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-06/wout-van-aert-6a2ac5baabddc.jpg@webp",
+      "headline": "ファンアールト、肘の感染症でツール・ド・フランス2026欠場が確定——ヴィンゲゴーに痛手",
+      "layer1": "6/17、ヴィスマ・リースアバイクがウァウト・ファンアールトのツール・ド・フランス欠場を発表。練習中の落車でできた肘の傷が感染し、出場不可能になった。先日の「謎の感染」報道がついに最悪の形で確定した続報。",
+      "layer2": "「どれほど深刻だったのか」——確定：傷の感染はツール・オーヴェルニュ＝ローヌアルプ中に悪化して同レースをリタイア、その後の入院で患部を再洗浄、敗血症（sepsis）に至るのを防ぐため外科処置を受け一晩経過観察となった。7/4バルセロナのグランデパールに最高の状態で間に合う見込みはなかった。意味：総合エースのヨナス・ヴィンゲゴーがポガチャル対抗の最重要アシストを失う大打撃。曖昧：完全復帰の時期は明示されていない。",
       "sources": [
-        { "t": "IDL Procycling", "u": "https://www.idlprocycling.com/cycling/teamless-chris-froome-set-to-cross-the-mediterranean-sea-on-a-water-bike", "d": "2026-06-11" },
-        { "t": "Cycling Weekly", "u": "https://www.cyclingweekly.com/racing/chris-froome-to-cycle-across-mediterranean-for-charity-with-jakob-fuglsang-and-filippo-pozzato", "d": "2026-06-10" }
+        { "t": "CyclingUpToDate", "u": "https://cyclinguptodate.com/cycling/breaking-wout-van-aert-out-of-the-2026-tour-de-france", "d": "2026-06-17" },
+        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/wout-van-aert-could-have-contracted-sepsis-underwent-surgery-to-clear-infected-elbow-that-ruled-him-out-of-tour-de-france/", "d": "2026-06-18" }
       ],
-      "status": "確定＝6/19スタート・225km・参加者／曖昧＝完走の可否や所要時間は本稿時点で未確定"
+      "status": "確定＝肘の傷感染でツール欠場、外科処置・一晩入院／曖昧＝復帰時期は不明、回復見通しは要裏取り"
     },
     {
-      "id": "20260619-uk-nats-startlist",
+      "id": "20260619-backstedt-badragaz",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/4bvuwSMiSKK4WHe6Rfgbfm.jpg",
-      "headline": "全英ロード選手権2026、6/17に豪華スタートリスト発表——連覇狙うワトソン＆クーゼンズに、ファーガソン＆バックステッドが挑む",
-      "layer1": "6/17、英国自転車連盟が2026年全英選手権（6/25 TT→6/26サーキット→6/28ロード、ウェールズ・アベリストウィス周辺）の暫定エントリーを発表。ロード連覇を狙うサム・ワトソンとミリー・クーゼンズに、好調カット・ファーガソン（モビスター）やゾーイ・バックステッドらが挑む。",
-      "layer2": "TT防衛のバックステッドは『簡単ではないが、良い状態で勝負に行きたい』とコメント。Y Gors（最大勾配12.7%）の上りを各周回でこなす消耗戦で、周回を重ねるごとに集団がそぎ落とされる設計。ナショナルチャンピオンの“一年だけの特別ジャージ”が懸かる一戦。",
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/width:3840/height:2560/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-06/zoebackstedt-6a351de8ac67b.jpg@webp",
+      "headline": "ベックステッド、ロングスプリントで「一人舞台」——ツール・ド・スイス女子第3ステージ制覇",
+      "layer1": "6/19、ツール・ド・スイス女子第3ステージ（バート・ラガーツ発着120.8km）でゾーイ・ベックステッド（キャニオン・スラム）が残り300m手前から早駆けし、数台分の差をつけて圧勝した。",
+      "layer2": "「なぜ早駆けが通ったのか」——確定：わずかに下り基調のフィニッシュ直線で、ニーヴィアドマ＝フィニーらチームの完璧なリードアウトが整い、本人がパワーを早めに解放できた。これは21歳のウェールズ人にとって今季2勝目で、混戦のバンチスプリントでのワールドツアー初勝利、キャリア通算9勝目。父はパリ〜ルーベ覇者マグナス・ベックステッドという「自転車一家」の物語も背景にある。曖昧：父娘エピソードは過去記事由来で本ステージ記事には明記なし。総合は引き続きロンゴボルギーニがリード。",
       "sources": [
-        { "t": "Cycling Weekly", "u": "https://www.cyclingweekly.com/racing/star-studded-start-list-revealed-for-british-national-road-championships", "d": "2026-06-17" },
-        { "t": "British Cycling", "u": "https://www.britishcycling.org.uk/nationalroadchampionships/article/20260617-Host-of-national-champions-among-a-stacked-rider-list-for-2026-Lloyds-National-Road-Championships-announced--0", "d": "2026-06-17" }
+        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-suisse-women-zoe-backstedt-stuns-the-field-with-scorching-long-range-sprint-to-win-stage-3/", "d": "2026-06-19" },
+        { "t": "ProCyclingUK", "u": "https://procyclinguk.com/tour-de-suisse-women-2026-stage-3-zoe-backstedt-powers-to-sprint-victory-in-bad-ragaz/", "d": "2026-06-19" },
+        { "t": "CyclingUpToDate", "u": "https://cyclinguptodate.com/cycling/results-tour-de-suisse-women-2026-stage-3-zoe-backstedt-takes-unbelievable-sprint-win-with-several-bike-lengths", "d": "2026-06-19" }
       ],
-      "status": "確定＝日程・コース・主要エントリー／曖昧＝出走は暫定リスト（直前変更あり）"
+      "status": "確定＝6/19バート・ラガーツでベックステッドが勝利、2位ウィリアムズ・3位ボシュイ／曖昧＝『数台分差』など差の数値は媒体表現で要裏取り"
     },
     {
-      "id": "20260619-belgium-merlier-st2",
+      "id": "20260618-prades-slovenia-crash",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-06/hlbmlgwxqaak7zs-6a32ba8a6755b.jpg",
-      "headline": "バロワーズ・ベルギーツアー第2ステージ、メルリールが“雪辱”——初日の写真判定負けを晴らし総合首位へ",
-      "layer1": "6/18の第2ステージ（クノックヘイスト）で、ティム・メルリール（スーダル・クイックステップ）が上りスプリントを制し、コーイ、フィリプセンを抑えて勝利＋総合首位に立った。初日にギルマイへ写真判定で敗れた直後の雪辱劇。",
-      "layer2": "ツール前哨の“スプリンター品定め”。初日はギルマイがメルリールを際どく差し、メルリール陣営は雪辱を期していた。フィリプセンはコーイの発射台の後方に詰まり不発。残るステージで総合は山岳寄りに移り、純スプリンターの首位がどこまで保つかが見どころ。",
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/watermark:Screenshot%20Eurosport/width:3840/height:2560/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/www.indeleiderstrui.nl/images/2026-06/neutralisatie-slovenie.png@webp",
+      "headline": "ツアー・オブ・スロベニア大荒れ——落車で約30分中断、38歳プラデスは脛骨骨折でツール選考も消滅",
+      "layer1": "6/18の第2ステージは残り約27kmの下りカーブで大規模落車が発生、レースは20〜30分中断された。エドゥアルド・プラデス（カハ・ルラル）ら2人が脚を骨折した。",
+      "layer2": "「なぜ止まり、誰が一番失ったのか」——確定：当初ローリング中立化を試みたが、医療対応の時間確保のため集団を完全停止し、その後ほぼ元の状況に戻して再開した。原因の一端はレッドブルがクライマーのペリッツァーリを前方に送って集団を絞った緊張感にあったとされる。人間ドラマ：38歳のプラデスは右脛骨骨折で回復見込み約9週間、来月のチームのツール・ド・フランス選考から外れることになった。曖昧：もう1人の負傷者の詳細・チームは未確定。",
       "sources": [
-        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/racing/baloise-belgium-tour-tim-merlier-wins-stage-2-to-claim-race-lead/", "d": "2026-06-18" },
-        { "t": "Cycling Uptodate（第1ステージ）", "u": "https://cyclinguptodate.com/cycling/results-baloise-belgium-tour-2026-stage-1-biniam-girmay-denies-tim-merlier-in-photo-finish-after-rune-herregodts-scare", "d": "2026-06-17" }
+        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/two-riders-suffer-broken-legs-at-tour-of-slovenia/", "d": "2026-06-18" },
+        { "t": "idlprocycling", "u": "https://www.idlprocycling.com/cycling/neutralisation-chaos-unsettles-pithie-and-red-bull-rajovic-wins-tour-of-slovenia-stage-2", "d": "2026-06-18" }
       ],
-      "status": "確定＝第2勝者・総合首位／曖昧＝最終総合は未確定"
+      "status": "確定＝第2ステージ落車で約20〜30分中断、プラデス右脛骨骨折でツール選考外／曖昧＝もう1人の負傷者の氏名・所属と回復期間は要裏取り"
     },
     {
-      "id": "20260619-giant-liv-campaign",
-      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://cdn.road.cc/wp-content/uploads/2026/03/SLorencePhoto_GiantLIv2026_002-1024x683.jpg",
-      "headline": "【経営メモ】ジャイアント＆Livが『カーボン サマーキャンペーン』(6/16〜8/31)——最大5.5万円分ギア進呈、大手の“実質値引き”が加速",
-      "layer1": "6/16、ジャイアント／Livが対象MY26カーボン完成車購入で最大5.5万円分のライダーギア（新作Rev Pro Mips／Pursuit Mipsヘルメット等）を進呈するキャンペーンを8/31まで実施と発表。",
-      "layer2": "在庫潤沢・需要縮小の局面で、大手は“値札を下げず特典で実質値引き”に動いている（ワイズロードの最大20%OFFセール、あさひのアプリ会員特典なども同方向）。店としては価格勝負では大手・円安に勝てない以上、フィッティング・アフター・目利きで価値を出す方針が要。キャンペーンは大手の在庫消化策である点を踏まえて対抗策を組みたい。",
+      "id": "20260615-slock-gippingen-crash-win",
+      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
+      "image": "https://cdn.mos.cms.futurecdn.net/axXw3dbWQQQZXY99GnnTXc.jpg",
+      "headline": "両手を上げた瞬間、突風で落車——それでも勝った スロックがGPギッピンゲンでプロ初勝利",
+      "layer1": "6/14のGPギッピンゲン（スイス、173.8km）で、25歳のベルギー人リアム・スロック（ロット・インターマルシェ）が残り約500mで勝利を確信し両手を上げた直後、突風にハンドルをあおられて肩から落車。だが自転車が先にラインを越え、プロ初勝利をつかんだ。",
+      "layer2": "「本当に勝ち認定されたのか、なぜ感動的か」——確定：転倒しながらもバイクが先頭でフィニッシュを通過し勝利が認められた。本人は「ちょっと間抜けだけど、とにかくものすごく嬉しい」とコメント。意味：プロ3年半で未勝利だった選手の念願の初勝利で、ニス／ファンヒルス／パウレスら歴代勝者に名を連ねた。曖昧：突風という落車原因は本人談で、映像・公式見解の追加検証が望ましい。",
       "sources": [
-        { "t": "cyclowired", "u": "https://www.cyclowired.jp/news/node/392679", "d": "2026-06-16" }
+        { "t": "Cycling Weekly", "u": "https://www.cyclingweekly.com/racing/it-feels-a-bit-silly-but-im-just-incredibly-happy-belgian-rider-crashes-over-finish-line-and-still-wins", "d": "2026-06-15" },
+        { "t": "road.cc", "u": "https://road.cc/news/pro-cyclist-goes-viral-after-crashing-over-finish-line-while-celebrating-and-still-managing-to-win-the-race", "d": "2026-06-15" }
       ],
-      "status": "確定＝キャンペーン期間・特典上限／曖昧＝対象車種の細目は要確認"
+      "status": "確定＝6/14 GPギッピンゲンでスロックが落車しつつプロ初勝利／曖昧＝落車原因（突風）は本人談ベース"
     },
     {
-      "id": "20260619-xlab-japan",
-      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://cdn.funq.jp/contents/uploads/2026/05/07224731/X-LAB_main.jpg",
-      "headline": "XDSアスタナの『X-LAB』が日本本格展開——RT9フレーム46.8万円、完成車6.2kg、“中華プレミアム”がWorldTeamの看板で上陸",
-      "layer1": "6月、UCIワールドチーム『XDSアスタナ』の使用ブランド X-LAB が国内ショップで取り扱い開始。Mt.富士ヒルクライム（6/6-7）で実車をお披露目、中旬以降に納車。軽量クライム旗艦RT9はフレーム46.8万円、Dura-Ace Di2＋Branta C50完成車で約6.2kg（L）。",
-      "layer2": "X-LABは年産800万台超のXDSが“原糸〜組立まで自社一貫”で作るプレミアムライン。中華＝格安の時代から、WorldTeam供給の看板を背負う“中華プレミアム”へ。国内取扱店ではAD9（エアロ・フレーム39.6万）、RS5（アルミ23.98万）など6系統を展開。買うのは日本のユーザー——『中華＝安かろう』の固定観念が崩れ、舶来ハイエンドの価格を脅かす存在に。実走インプレ・供給安定性は今後の評価待ち。",
+      "id": "20260618-pogacar-100-wins",
+      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/watermark:Picture%3A%20Sirotti/width:3840/height:2560/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-06/pogacar-suiza-vuelta-1276558327.jpg@webp",
+      "headline": "ポガチャル、通算100勝を記念表彰——ツール・ド・スイス第2ステージのロカルノで",
+      "layer1": "6/18、ツール・ド・スイス第2ステージのスタート地ロカルノで、リーダーのタデイ・ポガチャルがキャリア通算100勝到達を記念して表彰された。",
+      "layer2": "「100勝はいつ達成し、勢いはどうか」——確定：100勝目自体は昨年のツール第4ステージで達成済みで、そこから本記念までに18勝を積み上げている。当日はグレゴワールが逃げ切り、ポガチャルは追走に回って勝利こそ逃したが、総合首位を堅持。意味：四半世紀でキンタナ級の支配力を示す節目で、ツール・ド・フランス2026前哨での存在感を改めて印象づけた。曖昧：表彰式の具体的演出は媒体間で記述差があり要裏取り。",
       "sources": [
-        { "t": "BECKON（取扱開始告知）", "u": "https://beckon.jp/blogs/morefun/20260603", "d": "2026-06-03" },
-        { "t": "Bicycle Club（funq）", "u": "https://www.funq.jp/bicycle-club/article/1065557/", "d": "2026-05-08" },
-        { "t": "SPORTS-W", "u": "https://sports-w.com/news/x-lab/x-lab-news260507/", "d": "2026-05-07" }
+        { "t": "CyclingUpToDate", "u": "https://cyclinguptodate.com/cycling/the-incredible-record-held-only-by-nairo-quintana-and-laurent-jalabert-that-tadej-pogacar-has-just-matched", "d": "2026-06-18" },
+        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-suisse-romain-gregoire-holds-off-a-chasing-tadej-pogacar-to-claim-hard-fought-breakaway-victory-on-stage-2/", "d": "2026-06-18" }
       ],
-      "status": "確定＝国内展開・価格体系・公称重量／曖昧＝実走インプレ・供給量は未確定（※要裏取り）"
+      "status": "確定＝6/18ロカルノで通算100勝を記念表彰、当日勝者はグレゴワール／曖昧＝表彰の具体内容は媒体間で差があり要裏取り"
     },
     {
-      "id": "20260619-market-clearance-wait",
-      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C164.jpg",
-      "headline": "【経営メモ】6月は『決算セール×試乗会』ラッシュ、だが客は“秋待ち”——在庫潤沢の今、勝負所は回転より粗利防衛",
-      "layer1": "国内は決算セールや各社の試乗会（メリダ新型REACTO等）が同時多発。一方、在庫が潤沢で値下がり基調のため『急がず秋のモデル入替まで待つ』という買い控えの空気も強い。",
-      "layer2": "背景は“バブルの清算”：トレックは10〜14%、ジャイアントも一部を値下げ改定。完成車は売れず、伸びるのは修理・パーツ・アップグレード。値引き合戦に巻き込まれると粗利が溶ける。狙いは①回転より単価・粗利の防衛、②試乗会を“接客と囲い込み”の入口に、③NESTO／GUSTO等の高コスパ新興も棚に置き『価格で来た客』を逃さない。『待てば安い』と言う客には、フィット・整備・保証の価値で“今買う理由”を提示したい。",
-      "sources": [
-        { "t": "cyclowired（試乗会／キャンペーン）", "u": "https://www.cyclowired.jp/news/node/392679", "d": "2026-06-16" },
-        { "t": "bike-memo（値下げ・新興）", "u": "https://bike-memo.com/cycle_260204_roadbike/", "d": "2026-02-04" }
-      ],
-      "status": "曖昧＝市況の解釈（一次データは各社の値下げ改定。販売現場の温度感は要現地確認）"
-    },
-    {
-      "id": "20260619-merida-reacto-jp",
-      "genre": "parts", "genreLabel": "PARTS", "genreJa": "パーツ", "hot": false,
-      "image": "https://cdn.road.cc/wp-content/uploads/2026/03/New-Merida-Reacto-March-2026-1024x683.jpg",
-      "headline": "メリダ新型REACTO『最も先進的なエアロ』が国内で試乗開始（6/13-14〜）——32mmタイヤ対応、旗艦は風洞196W",
-      "layer1": "6/13-14、新型メリダREACTOの試乗会が国内各地で始動（新潟ほか）。2020年以来のフルモデルチェンジで、旗艦REACTO Oneは風洞196W（45km/h）、最軽量REACTO Teamで7.1kg（M）、タイヤは32mmまで対応。",
-      "layer2": "新型コックピット『Team CW』が空力改善の約50%を担い、ヘッド／ダウンチューブ周りの一体設計で“速さと快適の両立”を主張。価格はREACTO 4000の約£2,400からOne約£10,000まで2フレーム10モデル。日本でメリダは販路が太く、試乗→受注の動線が組みやすい。公称はメーカー値で、実走比較は試乗で確認したい。",
-      "sources": [
-        { "t": "road.cc", "u": "https://road.cc/tech-news/the-most-advanced-aero-bike-we-have-ever-created-merida-unveils-new-reacto", "d": "2026-03-06" },
-        { "t": "cyclowired（国内試乗会）", "u": "https://www.cyclowired.jp/news", "d": "2026-06-13" }
-      ],
-      "status": "確定＝スペック・価格帯・国内試乗開始／曖昧＝実測重量・実走空力は試乗待ち"
-    },
-    {
-      "id": "20260619-tire-pressure-2026",
+      "id": "20260619-colnago-tt2",
       "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://cdn.road.cc/wp-content/uploads/2026/04/Untitled-design-8-1024x683.png",
-      "headline": "新型エアロが軒並み『32mmタイヤ対応』に——“太いほど遅い”は過去、空気圧『120psiは死んだ』が2026の新常識",
-      "layer1": "新型REACTO／プロペル／フェルトNexarなど2026のエアロは軒並み32mmタイヤ対応へ拡大。同時に『ワイド＋チューブレス＋低圧』で転がり・快適・空力を底上げする流れが定着し、旧来の高圧（〜120psi）は“もう速くない”という見方が主流に。",
-      "layer2": "23Cチューブラー時代の高圧を28〜32Cの広内幅リムに当てると遅く・痛い。適正圧へ下げるだけで8〜12W拾えるとされ、最も安い高速化の一つ。注意：フックレスは72.5psi上限・対応タイヤ限定で、安全面からフック有りへ回帰する動きも。初中級は『太め＋低め』を体重・リム内幅から詰めるのが正解。数値は条件依存で、体重・路面により最適点は変わる。",
+      "image": "https://www.rouleur.cc/cdn/shop/articles/TT2-prototipo-Pogacar_23_1_resize_7fc9b2f5-6580-4659-af60-8be0c96b5f80.jpg?v=1777365619&width=1500",
+      "headline": "ポガチャルの新TTマシン『コルナゴTT2』、TTバイクで初の「6.8kg組み」が可能に",
+      "layer1": "コルナゴが6/19、新TTバイク『TT2』を正式発表。フレームキットを先代TT1比で550g軽量化し、ポガチャルが6/20ツール・ド・スイスのTTで実戦投入。",
+      "layer2": "TTバイクの潮流が「とにかくエアロ」から、テクニカル・登坂混じりの現代TTコースに合わせた『軽さと操縦性』へ振れたことを示す一台。ベイヨネット式を捨てた通常ステアラー採用でフォークだけで530g→393gに削った。確定なのはSサイズフレームキット2,240g（未塗装、TT1の2,785gから550g減）と「ディスクホイール込みでUCI 6.8kg組みが可能」というコルナゴの主張、ポガチャルのスイス投入、市販は9月。曖昧＝エアロ性能が実際どれだけ向上したかの第三者検証はこれから。",
       "sources": [
-        { "t": "road.cc（Merida 32mm対応）", "u": "https://road.cc/tech-news/the-most-advanced-aero-bike-we-have-ever-created-merida-unveils-new-reacto", "d": "2026-03-06" },
-        { "t": "Cyclingnews（ベスト・チューブレスタイヤ2026）", "u": "https://www.cyclingnews.com/features/best-tubeless-road-tyres/", "d": "2026-06" }
+        { "t": "BikeRadar", "u": "https://www.bikeradar.com/news/2026-colnago-tt2", "d": "2026-06-19" },
+        { "t": "Rouleur", "u": "https://www.rouleur.cc/blogs/desire-journal/new-colnago-tt2-italian-brand-chases-weight-savings-to-leave-pogacar-and-co-with-redesigned-time-trial-bike-thats-on-the-limit", "d": "2026-06-19" }
       ],
-      "status": "曖昧＝適正空気圧は条件依存（一般論。体重・リム内幅で最適点を詰める。ワット差の数値は※要裏取り）"
+      "status": "確定＝フレームキット550g減・Sで2,240g・6.8kg組み可能（コルナゴ主張）・6/20スイスTT投入・市販9月／曖昧＝エアロ向上幅の独立検証は未実施 ※要裏取り"
     },
     {
-      "id": "20260619-china-carbon-pick",
+      "id": "20260619-bosch-hubline",
+      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
+      "image": "https://cdn.road.cc/wp-content/uploads/2026/06/weekebikes19june-1024x683.jpg",
+      "headline": "ボッシュ初の「ハブモーター」登場——e-ロード/都市バイクの勢力図を塗り替えるか",
+      "layer1": "ボッシュが6/18、自社初のリアハブ内蔵モーター『Hub Line』を発表。45Nm・2.3kgで、25km/h超では完全に切り離されモーター抵抗ゼロでただのバイクのように転がる。第一弾はキャニオンの『Roadlite:ON CF』。",
+      "layer2": "ミッドドライブ全盛のボッシュが、あえて軽量・スリムなハブ駆動に踏み込んだ点が本質。Smart Systemに接続しeShiftや盗難防止も使える「軽量都市/e-ロード」狙いで、トルクは控えめ45Nmと割り切りが明確。確定なのは「ボッシュ初のハブモーター」「45Nm/2.3kg/360Whで80km+」「キャニオンRoadlite:ON CFは13.9kg・€2,999」。一方で本格スポーツe-ロードへ展開するか、出力面でミッドドライブを脅かすかは未確定で当面は街乗り寄り。DJI系の高トルク路線とは対極の『軽さ・自然なフィーリング』アプローチである点に注目。",
+      "sources": [
+        { "t": "New Atlas", "u": "https://newatlas.com/bicycles/bosch-hub-line-ebike-motor/", "d": "2026-06-18" },
+        { "t": "BikeRadar", "u": "https://www.bikeradar.com/news/2026-bosch-hub-line-motor", "d": "2026-06-18" },
+        { "t": "road.cc ebiketips", "u": "https://road.cc/ebiketips/feature/bosch-unveils-its-first-hub-motor-semi-pro-wins-voi-bike-challenge-at-nocturne-crit-race-florida-sets-close-pass-law-more", "d": "2026-06-19" }
+      ],
+      "status": "確定＝ボッシュ初のリアハブモーター・45Nm/2.3kg/360Wh・Canyon Roadlite:ON CF €2,999/13.9kgが第一弾／曖昧＝本格スポーツe-ロードへの展開可否と実走航続は未確定 ※要裏取り"
+    },
+    {
+      "id": "20260606-uci-gps-cap",
+      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
+      "image": "https://media.dcrainmaker.com/images/2026/06/BiggestBikeComputers.png",
+      "headline": "UCIがサイコン画面に「126×71mm」上限——データ過多に安全規制のメス",
+      "layer1": "UCIがGPSサイクルコンピューターの寸法上限を126×71mmに設定（2028年1月施行）。レース中の情報過多が「ライダーの安全を損なう」恐れがあるとして大型化に歯止めをかける。",
+      "layer2": "ハンドル幅・リムハイト規制に続く「機材の安全規制」路線の新展開で、規制対象がついに画面サイズ＝情報量にまで及んだ点が新しい。UCIは大画面が認知的負荷を高めると主張するが、当のUCIが「ライダーが実際にどうデータを扱うかはまだ調べていない」と認めており、根拠の薄さが論点。確定なのは上限126×71mm・施行2028/1/1という規定そのもの。曖昧＝安全効果の実証は無く、各社の現行フラッグシップ機がどこまで抵触するかも要精査。煽りは『サイコン禁止』的トーンだが一次の実態はあくまで寸法キャップで既存機の多くは継続可能とみられる。",
+      "sources": [
+        { "t": "DC Rainmaker", "u": "https://www.dcrainmaker.com/2026/06/maximum-cycling-thoughts.html", "d": "2026-06-06" }
+      ],
+      "status": "確定＝上限126×71mm・2028年1月施行／曖昧＝安全効果の実証なし、抵触する現行機の範囲は要精査 ※要裏取り"
+    },
+    {
+      "id": "20260617-tdf-channel5-fta",
+      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
+      "image": "https://deadline.com/wp-content/uploads/2026/06/cycling2.jpg?w=681&h=383&crop=1",
+      "headline": "ツール2026、英国で「無料放送」復活へ——Channel 5とTNTが大型契約",
+      "layer1": "6/17、英Channel 5（パラマウント傘下）がTNT Sportsと提携し、ツール・ド・フランスのハイライトを地上波無料で放送する複数年契約を発表。ITV撤退で消えかけた『無料ツール』が復活する。",
+      "layer2": "機材ではなく『ロードレースの視聴アクセス』という普及の土台に関わる潮流。WBD/TNTが英国独占権を持つため2026年は40年ぶりに無料放送ゼロになる恐れがあったが、それを回避した点が本質。確定なのは対象（ツール/ブエルタ2026〜28、ジロ2027〜29、ツール・ド・フランス・ファムも含む）、毎晩19時ハイライト、進行役レベッカ・チャールトン、2027年UKグランデパールはライブ。曖昧＝煽りは『無料でツールが帰ってきた』だが、一次の実態は『ハイライトのみ無料・生中継はTNT有料（月£34.99）』という限定的な無料化である点に注意。",
+      "sources": [
+        { "t": "Deadline", "u": "https://deadline.com/2026/06/5-wins-tour-de-france-highlights-paramount-wbd-tnt-1236958192/", "d": "2026-06-17" },
+        { "t": "BikeRadar", "u": "https://www.bikeradar.com/news/5-to-broadcast-2026-tour-de-france-highlights-in-uk", "d": "2026-06-17" }
+      ],
+      "status": "確定＝Channel 5×TNTの無料ハイライト契約（ツール/ブエルタ2026〜28・ジロ2027〜29）、毎晩19時、生中継はTNT有料継続／曖昧＝視聴者数や日本含む他地域への波及は不明 ※要裏取り"
+    },
+    {
+      "id": "20260617-shimano-xt-m8200",
+      "genre": "parts", "genreLabel": "PARTS", "genreJa": "パーツ", "hot": false,
+      "image": "https://cdn.road.cc/wp-content/uploads/2026/06/2026-shimano-deore-xt-hero.jpg",
+      "headline": "シマノ XT がメカニカルを刷新、ブレーキローターは1.7→2.2mmへ『厚盛り』",
+      "layer1": "シマノが新型『XT M8200』メカニカル系を発表。ウェッジ形状RD・デュアルスプリング・Hyperglide+を投入し、新型の厚口ブレーキローターと新ペダル2種も同時公開。ユーロバイク直前の本命アップデート。",
+      "layer2": "確定情報として、新ローター（RT-CL750系）は従来1.7mmから2.2mmへ肉厚化し、放熱・耐衝撃・耐久を狙う。XTR/XT/Deoreの4ポット対向と互換。価格はRD119.99ポンド、シフター64.99ポンド、ローター49.99〜54.99ポンド（200/220mm、6ボルト・センターロック）。カセットは12s（10-51t/9-45t）と11s Linkglideを用意。曖昧点＝あくまでMTB/グラベル寄りの系列でロード用ではない。重量実測値は記事に未掲載のため未確認。なお『XTR Di2』とは別物（こちらは機械式XT）。",
+      "sources": [
+        { "t": "road.cc", "u": "https://road.cc/offroad/tech-news/shimano-brings-flagship-innovation-to-its-xt-mechanical-drivetrain-and-introduces-thick-brake-rotors", "d": "2026-06-17" }
+      ],
+      "status": "確定＝ローター厚2.2mm化・価格・互換・12/11s展開／曖昧＝MTB系のため対ロード適性は限定、実測重量 ※要裏取り"
+    },
+    {
+      "id": "20260615-magene-c606pro-worldtour",
+      "genre": "parts", "genreLabel": "PARTS", "genreJa": "パーツ", "hot": false,
+      "image": "https://cdn.road.cc/wp-content/uploads/2026/06/Untitled-design-4-1024x683.png",
+      "headline": "中華計測ブランドがワールドツアーへ——マジーン C606 Pro が約209ポンドで殴り込み",
+      "layer1": "XDSアスタナが2026年に採用するマジーン『C606 Pro』GPSサイコンが英国で約209ポンドで登場。中国計測ブランドのプロ供給が一気に表面化し、ガーミン/ワフー一強に楔を打ち込む。",
+      "layer2": "確定スペックは2.8インチ・カラータッチ液晶、公称バッテリー約25時間、ANT+/Bluetooth/WiFi、ClimbProやGPXルート（最大1000km）対応。価格は地域で揺れ209ポンド/199ドル/209ユーロ（無印C606は159ドル表記）。供給はサイコンに留まらずスマトレT500・レーダーテールL508・心拍H613までパッケージ。曖昧点＝GPS精度・ナビ品質の実走評価はこれから。中華パーツ志向の店なら計測機器でも中国勢台頭の文脈に乗せやすい一本。",
+      "sources": [
+        { "t": "road.cc", "u": "https://road.cc/tech-news/can-magenes-top-end-bike-computer-as-used-by-astana-compete-with-the-best-plus-specializeds-3d-printed-mirror-saddle-and-more-from-rapha-joe-blow-and-gaciron", "d": "2026-06-15" },
+        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/cycling-tech-components/two-new-chinese-bike-computer-brands-have-entered-the-worldtour-for-2026/", "d": "2026-06-15" }
+      ],
+      "status": "確定＝液晶/バッテリー公称/価格/プロ採用／曖昧＝実走でのGPS精度・ナビ完成度は未検証 ※要裏取り"
+    },
+    {
+      "id": "20260612-9velo-extreme-csub1000",
+      "genre": "wheel", "genreLabel": "WHEEL", "genreJa": "ホイール", "hot": false,
+      "image": "https://ueeshop.ly200-cdn.com/u_file/UPAW/UPAW609/2510/30/products/1.jpg",
+      "headline": "9Velo EXTREME、52mm深なのにペア約999gという『sub-1000g』中華カーボン",
+      "layer1": "中華カーボンの9Veloが2026モデルの超軽量カーボンスポーク『EXTREME』C42/C52/C62を展開。C52は52mm深・内幅23.6mmで公称999g(±30g)、ディープでもペア1kg割れという尖った数値。",
+      "layer2": "確定スペック（C52）＝52mm深、内幅23.6mm/外幅30mm、20H/20H・1:1のブレード状カーボンスポーク、X21カーボンスポークハブ（ストレートプル36T、センターロック、12×100/142）、フックドリム、システム重量上限100kg、価格1899ドル、HG/XDR/N3W対応。同シリーズC42は公称992g・C62は1162g。曖昧点＝重量はアルミフリーハブ・テープ別の条件付き公称で、第三者実測は未確認。上限100kgと『舗装路のみ』想定で軽量特化ゆえ用途は明確に限定。8LIEN/FARSPORTS等を扱う店なら『同価格帯ディープの軽さ競争』として自店在庫へ橋渡ししやすい。",
+      "sources": [
+        { "t": "9Velo（製品ページ）", "u": "https://www.9velo.com/products/9velo-2026-ultralight-road-disc-carbon-spoke-extreme-c52-road-wheels-20h-20h-236-mm-inner-wide,-sub1000-grams", "d": "2026-06-12" },
+        { "t": "Cyclists Hub", "u": "https://www.cyclistshub.com/best-chinese-carbon-wheels/", "d": "2026-06-12" }
+      ],
+      "status": "確定＝寸法/スポーク/ハブ/価格/上限/対応フリーハブ／曖昧＝公称999gは条件付き、第三者実測重量 ※要裏取り"
+    },
+    {
+      "id": "20260612-china-carbon-50mm-1300g",
+      "genre": "wheel", "genreLabel": "WHEEL", "genreJa": "ホイール", "hot": false,
+      "image": "https://www.cyclistshub.com/wp-content/uploads/2021/03/Best-Chinese-Carbon-Road-Bike-Wheels.jpg",
+      "headline": "中華カーボン50mmが軒並み『実測1300g台』——ディープ＝重いは過去の話に",
+      "layer1": "6/12更新の実測ベース中華カーボン総覧で、50mm前後オールラウンドが実測1300g前後に集中。ディープでも軽いのが当たり前という地殻変動が数値で可視化された。",
+      "layer2": "確定の実測値（媒体テスト）＝Farsports Cシリーズ50mmが1328g、YOELEO C60が1359g、Elitewheels EDGE 50mmが1353g、Lún HYPER 5 D50が1263g。いずれも50mm級で1.3kg前後に収れんし、価格帯は幅広い。曖昧点＝測定条件（テープ/バルブ有無）が完全統一とは限らず、個体差±数十gは想定すべき。優劣の序列には踏み込まず、あくまで重量水準のトレンドとして提示。FARSPORTSを実扱いする店なら『1300g台が標準ライン』という相場観の説明材料に最適。",
+      "sources": [
+        { "t": "Cyclists Hub", "u": "https://www.cyclistshub.com/best-chinese-carbon-wheels/", "d": "2026-06-12" }
+      ],
+      "status": "確定＝各モデルの媒体実測重量／曖昧＝測定条件の完全統一は不明、個体差 ※要裏取り"
+    },
+    {
+      "id": "20260619-time-nxr-jp",
+      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
+      "image": "https://web5.cyclowired.jp/sites/default/files/styles/title-thumbnail-1/public/images_title/news/2026/06/HVTIME_NXR-14.jpg?itok=dEH5K6wJ",
+      "headline": "タイムが新型『NXR』を国内投入——名車アルプデュエズの血統を継ぐ『ピュアロード』52万8千円",
+      "layer1": "フランスのカーボン名門タイムが、新型ロードフレーム『NXR』を発表。代理店はポディウム、価格はフレームセットで52万8千円（税込）。廃番の名機『アルプデュエズ』のDNAを受け継ぐ『ピュアロード』を掲げ、編み込みカーボン構造『BCS』に超高分子量ポリエチレン繊維『ダイニーマ』を組み込んで振動吸収性を高めた。最大32mmタイヤクリアランス、フル内装、SRAMのUDH対応リアエンドと現代的規格を網羅。複数媒体が6/11〜14に一斉に取り上げ国内ローディーの注目を集めている。",
+      "layer2": "タイムは『足すべきものも引くべきものもない』という思想を掲げ、エアロ全盛のなかあえて軽量ピュアレーサーに回帰した。エアロ一辺倒への食傷気味なムードがベテラン層にあり、こうした原点回帰モデルは『語れる機材』として記事の伸びが期待できる。フレーム単体52万8千円は完成車100万円超が前提の超高級帯。在庫過多で値引き合戦が続く量販帯とは別世界で、ブランド志向の旗艦は値崩れしにくく利幅も確保しやすい。マサルの店では『高くても語れる一台』を求める常連向けの提案軸になる。",
+      "sources": [
+        { "t": "シクロワイアード", "u": "https://www.cyclowired.jp/news/node/392646", "d": "2026-06-14" },
+        { "t": "Bicycle Club / Yahoo!ニュース", "u": "https://news.yahoo.co.jp/articles/64709b4e1513c21634489ce983175b099cd1cc3d", "d": "2026-06-11" },
+        { "t": "Y's Road 上野アサゾー店", "u": "https://ysroad.co.jp/asazo/2026/06/11/93802", "d": "2026-06-11" }
+      ],
+      "status": "確定＝価格52.8万円・代理店ポディウム・発表日は複数媒体一致"
+    },
+    {
+      "id": "20260619-bianchi-infinito-pro",
+      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
+      "image": "https://web5.cyclowired.jp/sites/default/files/styles/title-thumbnail-1/public/images_title/news/2026/06/impr202605-st--173_0.jpg?itok=clSmJVhn",
+      "headline": "ビアンキ新型『INFINITO PRO』登場——カウンターヴェイル20%軽量化＋40mmクリアランスの現代派エンデュランス",
+      "layer1": "チェレステで知られるビアンキが、エンデュランスロードの新型『INFINITO PRO』を発表。シクロワイアードが6/12にインプレを掲載、代理店はサイクルヨーロッパジャパン、価格は86万9千円（税込）。看板の振動吸収素材『カウンターヴェイル』を従来比20%軽量化して搭載し、最大40mm幅タイヤクリアランス、シマノ105 Di2、リム高49mmの自社カーボンホイール『B 49R』、ダウンチューブ内収納を備える。",
+      "layer2": "ロードバイク離れと言われるなか、いま動いているのは『速さ』より『一日中ラクに走れる快適性』を求める層。40mmクリアランス＋内装収納＋105 Di2という構成はその需要を狙い撃ちにしている。チェレステというブランド資産は日本でも根強く、写真映えして指名買いも出やすい。一方で86万9千円は安くなく、同価格帯ではスペシャライズドやトレックのエンデュランスと真っ向勝負。マサルの店では『レース機材ではなく一生モノの相棒』という売り方で、ボーナス時期の高単価客に当てたい一台。",
+      "sources": [
+        { "t": "シクロワイアード", "u": "https://www.cyclowired.jp/news/node/392598", "d": "2026-06-12" }
+      ],
+      "status": "確定＝価格86.9万円・代理店サイクルヨーロッパジャパン・カウンターヴェイル20%軽量化はソース記載／曖昧＝重量・実売は要確認"
+    },
+    {
+      "id": "20260619-dogma-f-2027color",
+      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
+      "image": "https://web5.cyclowired.jp/sites/default/files/styles/title-thumbnail-1/public/images_title/news/2026/06/RET-COBALT_PHANTOM_POST_1024x768.jpg?itok=t97P1wR_",
+      "headline": "ピナレロ『DOGMA F』2027新色4色——光で表情を変えるカラーがXで話題、8月の値上げ前なら旧価格でオーダー可",
+      "layer1": "ピナレロの旗艦『DOGMA F』に2027年向け新色4色（PHANTOM ICE／MOLTEN SAND／OBSIDIAN EMERALD／COBALT PHANTOM）が追加された。シクロワイアードが6/16に掲載、同日ワイズロード大阪本館・神戸店なども『速報』を連発し、Xで日本のローディーが反応している。とくに前方パープルから後方ブラックへ滑らかに移ろう『COBALT PHANTOM』が、光の角度で表情を変える特殊塗装として話題に。フレームセットは現在115万5千円（税込）で、8月1日から127万6千円へ価格改定されるため、それ以前のオーダーなら旧価格が適用される。",
+      "layer2": "新色は単なる塗装替えに見えて、旗艦ブランドにとっては最大の話題創出装置。写真がそのまま拡散ネタになり、ブログ・XのPVを稼ぎやすい鉄板ジャンルだ。経営面では『8月1日の値上げ前に旧価格で押さえられる』という駆け込み需要の窓が開いた点が効く。100万円超の旗艦を検討する客は『どうせなら値上げ前に』が強い購買動機になるため、6〜7月のうちに見込み客へ声がけすれば前倒し受注を取りやすい。値引きで利幅が削られる量販帯と違い、こうした指名買い旗艦はマサルの店の単価と利益を支える柱になる。",
+      "sources": [
+        { "t": "シクロワイアード", "u": "https://www.cyclowired.jp/news/node/392685", "d": "2026-06-16" },
+        { "t": "Y's Road 大阪本館", "u": "https://ysroad.co.jp/osaka/2026/06/16/259465", "d": "2026-06-16" },
+        { "t": "Y's Road 神戸店", "u": "https://ysroad.co.jp/kobe/2026/06/16/251970", "d": "2026-06-16" }
+      ],
+      "status": "確定＝新色4色・発表6/16・8/1にフレーム115.5万→127.6万円へ改定／曖昧＝Xバズは複数店の同日速報から痕跡を確認、個別ポストの一次裏取りは未取得 ※Xで話題・要裏取り"
+    },
+    {
+      "id": "20260619-winspace-g3-gravel",
+      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
+      "image": "https://web5.cyclowired.jp/sites/default/files/styles/title-thumbnail-1/public/images_title/news/2026/06/RET-IMG_5588.jpg?itok=0sa-tvsO",
+      "headline": "【経営メモ】中華ウィンスペースがグラベル完成車『G3』を国内投入——GRX825搭載66万8千円、勝負どころは『価格』から『完成車提案』へ",
+      "layer1": "中国カーボンの大手ウィンスペースが、エアロを意識したグラベル『G3』に完成車モデルを追加し国内投入した（シクロワイアード6/16）。これまでフレーム売りだったG3に、シマノGRX825（フロントシングル42T・リア10-51T）、自社Gryperカーボンホイール、700×40cタイヤ、最大50mmクリアランスを組んだ完成車を66万8千円（税込）で用意。サドルとバーテープはセライタリアと仕上げにも気を配った構成だ。",
+      "layer2": "ここが経営的に重要。これまで中華カーボンは『安いフレームを買って自分で組む（＝ショップを通さない）』層が中心だった。だが今回のG3は、GRX完成車を66万8千円という決して最安ではない価格で、しかも完成車として出してきた。つまり中華勢は『価格』だけでなく『買ってすぐ乗れる完成車提案』『成長著しいグラベル市場』という、これまで国内ショップの主戦場だった領域に正面から踏み込んできた。マサルの店にとっては脅威であると同時にヒント。客が中華の名前を出してきても、組立精度・初期セッティング・アフター・トラブル対応というショップにしか出せない価値で勝負すれば取り込める。『持ち込み組立』を嫌って門前払いするより、中華も含めた目利きとサポートを売りにする方が、グラベル拡大期の客を逃さない。価格表をにらむより、自店の完成車提案力とグラベル試乗環境を整えるのが先決。",
+      "sources": [
+        { "t": "シクロワイアード", "u": "https://www.cyclowired.jp/news/node/392609", "d": "2026-06-16" },
+        { "t": "WINSPACE JAPAN（公式）", "u": "https://winspace.jp/", "d": "2026-06-05" }
+      ],
+      "status": "確定＝G3完成車66.8万円・GRX825・50mmクリアランス・発表6/16はソース記載／曖昧＝販売チャネル詳細と国内供給数は要確認"
+    },
+    {
+      "id": "20260619-wet-tirepressure",
       "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "https://niiyamacycle-kure.jp/wp-content/uploads/2025/12/32918645_s.jpg",
-      "headline": "『初めての中華カーボン』で失敗しない3つの確認——X-LAB上陸＆“格付け”定着で関心が再燃する今こそ",
-      "layer1": "WorldTeam供給のX-LAB上陸や、ELITEWHEELS／YOELEO／Winspaceらの“格付け”定着で、初中級の中華カーボン熱が再燃。だが初めての1本は『軽さ・価格』より、買った後で後悔しない地味な3点で選ぶのが正解。",
-      "layer2": "①実在ブランドか（公式サイトで型番・保証・問い合わせ窓口が確認できるか）②規格の明確さ（BB規格・アクスル・シートポストの互換）③保証が“実際に使える”条件か（中古可否・必要書類・返送送料の負担）。加えてハンガー等の補修部品が長期入手できるか。送料・関税・返送費込みの“総額”で比較を。初購入は国内ショップ／日本語公式経由が安心。極端な軽量より補修性・サポートを優先したい。",
+      "image": "https://ysroad.co.jp/shimbashi/wp-content/uploads/2026/05/s-ceb4f3bb-ec83-44b9-8db2-d9ad9281a99b.jpg",
+      "headline": "梅雨の濡れ路面、空気圧は『気持ち下げる』が正解だった",
+      "layer1": "雨の日にいつも通りパンパンに入れたまま走り、白線やマンホールでヒヤッとする初中級者は多い。大手ショップが梅雨入りの今、空気圧設定をあらためて発信した。",
+      "layer2": "実践的な答えとして、雨天はグリップ確保のため推奨気圧から『約0.5BAR下げる』のが目安（確定＝下げ方向が正しい）。例として一般路ロングで前4.2／後4.7BAR前後、近年のチューブレスは5〜6BAR帯で転がりとグリップを両立、という方向性。ただし下げすぎはコーナーやブレーキでリム打ち・よれのリスクがあるので、まず0.3〜0.5BAR刻みで試すのが安全。具体的な数値は走者体重・タイヤ幅で変わるため、自分の晴天時セットを基準に1割引きから始めるのが現実的（曖昧＝最適値は個人差大）。",
       "sources": [
-        { "t": "自転車ジャーナル（新山サイクル）", "u": "https://niiyamacycle-kure.jp/kg111/", "d": "2026-04-07" },
-        { "t": "bike-memo（中華カーボン格付け）", "u": "https://bike-memo.com/cycle_260118_carbon-wheels/", "d": "2026-01-18" }
+        { "t": "Y's Road 新橋店ブログ", "u": "https://ysroad.co.jp/shimbashi/2026/06/19/109367", "d": "2026-06-19" }
       ],
-      "status": "確定＝選定の考え方／曖昧＝個別ブランドの当たり外れは個体差あり（※要裏取り）"
+      "status": "確定＝雨天は推奨気圧より下げる方向／曖昧＝最適BARは体重・タイヤ幅で個人差、約0.5BARや前4.2後4.7等の数値はショップ作例の目安で万人共通値ではない ※具体数値は要裏取り"
     },
     {
-      "id": "20260619-slovenia-rajovic-st2",
-      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-03/girodisardegna-dusanrajovic-2-69adcf5f32e38.jpg",
-      "headline": "ツアー・オブ・スロベニア第2ステージ、日本拠点NIPPOのラヨヴィッチが勝利——落車で“レース中断”の波乱を制す",
-      "layer1": "6/18の第2ステージ（ラドリェ→オルモジュ）で、ドゥシャン・ラヨヴィッチ（Solution Tech-NIPPO Rali）が縮小集団のスプリントを制し勝利。総合首位ピシー（レッドブル）が2位、アルヴァニトゥが3位。",
-      "layer2": "残り約29kmで落車が発生し、救急体制確保のためレースが一時中断・実質ニュートラル化する波乱。初日を制したピシーがリーダージャージを堅守した。NIPPO系チームの勝利は日本のファンにも刺さる一勝。中断の経緯・負傷者の詳細は続報待ち。",
+      "id": "20260619-aogippu-ranking",
+      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
+      "image": "https://dol.ismcdn.jp/mwimgs/b/a/-/img_bab9401b9c89c4e30ea4f66d8022eb08314927.jpg",
+      "headline": "青切符、実は『歩道走行』では切られていなかった",
+      "layer1": "4月施行前は歩道走行ばかり心配されたが、4月の青切符の違反種別ランキングに歩道走行は入らなかった。ロード乗りが実際に切られているのは別の行為だった。",
+      "layer2": "先回りすると、要注意は反射的にやりがちな普段の動作のほう。報道された4月データでは『指定場所一時不停止』が約40%で最多、次いで『携帯使用（ながら）』約33%、『信号無視』約14%。つまり空いた道のSTOPで足を着かずに転がる、信号際でスマホを見る、が一番のリスク。練習ライドでも一時停止は確実に足着き＆完全停止、スマホ・イヤホンは停車してから、を徹底すれば反則金（3,000〜12,000円）はまず回避できる。なお4月は指導警告票が約13万件超と圧倒的に多く、いきなり切符より警告先行の運用（曖昧＝今後切符比率が上がる可能性）。",
       "sources": [
-        { "t": "Cycling Uptodate", "u": "https://cyclinguptodate.com/cycling/results-tour-of-slovenia-2026-stage-2-dusan-rajovic-takes-big-win-as-crash-causes-race-to-be-neutralised", "d": "2026-06-18" }
+        { "t": "ダイヤモンド・オンライン", "u": "https://diamond.jp/articles/-/392390", "d": "2026-06-16" }
       ],
-      "status": "確定＝勝者・総合首位・中断の事実／曖昧＝負傷者・中断の詳細は未確定（※要裏取り）"
+      "status": "確定＝違反種別の上位は一時不停止・ながら・信号無視で歩道走行は上位に不在／曖昧＝4月の青切符総数2,147件は警察庁の暫定値、月次で変動 ※件数は要裏取り"
+    },
+    {
+      "id": "20260619-rainy-gear6",
+      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
+      "image": "https://www.harusome-roadbike.com/wp-content/uploads/2026/06/upload_20260603_065033.jpg",
+      "headline": "梅雨でも乗りたい人の『雨装備6点』——泥よけと指先がカギ",
+      "layer1": "梅雨で乗れない・乗ると背中とシューズがびしょ濡れ、という初中級者向けに、雨でも走るための実用装備をまとめた個人ブログが今月公開された。",
+      "layer2": "確定的に効くのは『跳ね対策』と『指先・目』。後ろ用泥よけ（ASS Savers系）で背中の泥はね、前用で足元の跳ねを抑え、シューズカバーとレインキャップ（つばで雨が目に入るのを防ぐ）で快適性が一段上がる。指先は防水グローブ（VeloToze等）でブレーキ操作の冷え・滑りを軽減。走行後はシューズ乾燥機やブロワーで乾かすと翌日の不快とニオイ・サビ予防に効く。機材面では、雨を前提にするならディスクブレーキ＋35c前後の太めタイヤの安心感は大きく、これから一台目／二台目を選ぶ初中級者が雨も視野に入れるなら検討価値あり（曖昧＝製品の優劣は個人の好み・予算次第、ブランドは作例の一例）。",
+      "sources": [
+        { "t": "はるそめロードバイク日記", "u": "https://www.harusome-roadbike.com/entry/roadbike-gear-for-rainyday", "d": "2026-06-09" }
+      ],
+      "status": "確定＝前後泥よけ・防水グローブ・レインキャップ・走行後乾燥が梅雨ライドに有効／曖昧＝具体的製品名は筆者の選定例で唯一解ではない、ディスク＋太タイヤ推奨も用途次第"
     }
   ]
 }
