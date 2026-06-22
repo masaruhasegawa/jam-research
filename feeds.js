@@ -1,5 +1,436 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-06-23",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、20本。今日は『ツール選考デー』——締切（6/23〜24）間際の人間ドラマを軸に、ビンゲゴーの自信、フィリプセン＆リポヴィッツの前哨V、明日開幕ユーロバイクの足音まで底まで潜りました。",
+    "cards": [
+      {
+        "id": "20260623-vanaert-replacement",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/Av6vwm2k94B2FtcNww6iFd-2560-80.jpg",
+        "headline": "ファンアールトを失ったヴィスマ、ツールの『穴』を今日6/23に埋める——締切ギリギリの布陣作り",
+        "layer1": "肘の感染症でファンアールトがツール欠場（6/17確定）。ヴィスマは6/23に代役を発表すると予告し、ビンゲゴーを支える1枠の最終調整に入った。続報＝6/19のメディアは候補を具体的に分析。",
+        "layer2": "本命はブエルタ制覇の経験があるベン・テュレット。安全策ならベテランのケルダーマン、未来枠なら21歳ノルダゲン。失うのは『勝てる山岳列車の一角＋クラシックの脚＋TTT牽引』という複合機能で、誰を入れても役割は分散せざるを得ない——単なる1人交代ではなく、初日バルセロナのTTTから第5ステージのルーベ石畳までの作戦全体が組み替わる。",
+        "sources": [
+          {
+            "t": "Cyclingnews（代役分析）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/how-do-you-replace-wout-van-aert-at-the-tour-de-france-analysing-who-could-fill-the-void-in-vismas-supporting-cast-for-jonas-vingegaard/",
+            "d": "2026-06-19"
+          },
+          {
+            "t": "Cyclingnews（欠場確定）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/struggling-wout-van-aert-ruled-out-of-tour-de-france-in-big-blow-to-visma-lease-a-bike/",
+            "d": "2026-06-17"
+          }
+        ],
+        "status": "確定＝ファンアールト欠場・6/23代役発表予告。曖昧＝代役の人選は発表待ち（※当日確報を要確認）。"
+      },
+      {
+        "id": "20260623-quinn-simmons-usnats",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/mjrDNbarinV5Y7rCoUGCoF-2000-80.jpg",
+        "headline": "『キャプテン・アメリカ』クイン・シモンズ、全米ロード3度目V——残り29kmから独走、星条旗でツールへ",
+        "layer1": "シャルルストン（西バージニア）の猛暑で、リドル・トレックのクイン・シモンズが最終周回の登りで仕掛けて単独逃げ切り。2分差をつけて3度目（2023・2025・2026）の全米ロード王者に。",
+        "layer2": "『数で不利なのは腹立たしい——だから脚に喋らせた』。少人数チームで包囲される中、力勝負に持ち込んで黙らせた一発が見どころ。星条旗ジャージはこの1年、ツールの第一週から世界中の中継に映る『歩く広告』になる。マサルの人間ドラマ枠＝アメリカ人クライマー兼パンチャーの自己証明の物語。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/us-road-championships-quinn-simmons-goes-solo-to-take-third-elite-mens-road-race-title/",
+            "d": "2026-06-21"
+          }
+        ],
+        "status": "確定＝独走優勝・3度目戴冠（USA Cycling公式・Cyclingnews）。"
+      },
+      {
+        "id": "20260623-philipsen-belgium-tour",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-06%2Fhlwklajwgaalo-p-6a37fe561dc07.jpg",
+        "headline": "フィリプセン、ベルギーツアー最終日に2秒差を逆転——区間＆総合の二冠でツールへ最高の弾み",
+        "layer1": "アルペシン・ドゥクーニンクのヤスパー・フィリプセンが最終第5ステージ（フーラート）のスプリントを制し、首位アランブルとの2秒差を土壇場で引っくり返して総合優勝。",
+        "layer2": "スプリンターが『ボーナス秒』を積み上げて総合を獲るのは、平坦寄りの短いステージレースならではの芸当。逃げ集団を最終1kmで吸収→集団スプリント→着順ボーナスで逆転、という設計通りの勝ち方。落車・写真判定に泣いた前哨戦が続いたフィリプセンには、ツール緑ジャージ争いへ向けて『勝ち切る力』を取り戻した一戦。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/results-baloise-belgium-tour-2026-stage-5-jasper-philipsen-wins-final-stage-and-overall-after-dramatic-finale",
+            "d": "2026-06-21"
+          }
+        ],
+        "status": "確定＝区間＆総合優勝（CyclingUpToDate）。"
+      },
+      {
+        "id": "20260623-lipowitz-slovenia",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-06%2Fflorianlipowitz-6a381da90a0ee.jpg",
+        "headline": "リポヴィッツ、ツアー・オブ・スロベニア総合V——『約2年ぶりの白星』を2勝＋総合で、ツール前の最高の上げ",
+        "layer1": "レッドブル＝ボーラのフロリアン・リポヴィッツが最終日トゥルスカ・ゴラの登りで守りから攻めへ転じて区間勝利、2勝＋総合優勝でレッドブルの完勝を締めた。",
+        "layer2": "リポヴィッツは2025年ツールで総合3位に入った逸材だが、その後は約2年も勝利から遠ざかっていた。スロベニアで『勝ち方』を取り戻したのは、エヴェネプールと共同エースを張るツール（7/4〜）への絶好の前振り。レッドブルはGCをエヴェネプール＆リポヴィッツの二枚看板で組み、ログリッチはブエルタの最多勝記録挑戦へ回す布陣（※レッドブルのツール最終8人は発表確認を要する）。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-of-slovenia-2026-stage-5-florian-lipowitz-turns-final-day-defence-into-attack-to-seal-stage-win-gc-and-red-bull-domination",
+            "d": "2026-06-21"
+          }
+        ],
+        "status": "確定＝区間＆総合V。曖昧＝ツール最終メンバー構成は各チームの正式発表待ち（※要裏取り）。"
+      },
+      {
+        "id": "20260623-vingegaard-giro-effect",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/rAsAd4XPiLEaLrbBawWTL3-2400-80.jpg",
+        "headline": "ビンゲゴー、初のジロ制覇で『最強のツール準備』——だがポガチャルとの比較は依然『未知数』",
+        "layer1": "ビンゲゴーは新戦略として今季ジロ・デ・イタリアに初出場して制覇。ローマからバルセロナまで5週間で仕上げ、3度目のマイヨジョーヌを狙う。『我々は一歩前進した。強くなった』と語る。",
+        "layer2": "ジロ＋ツールの『ダブル』狙いは諸刃。グランツール1本を勝った疲労を5週間で抜き、さらに上積みできるかが鍵。ポガチャルはツール・ド・スイス総合制覇（6/22）で支配力を誇示しており、両者は今季ここまで別レースで歩んできたため『直接対決の物差し』がない。だからこそ初日バルセロナのTTTと第1週の石畳が、最初の答え合わせになる。",
+        "sources": [
+          {
+            "t": "ProCyclingUK",
+            "u": "https://procyclinguk.com/jonas-vingegaard-at-the-tour-de-france-2026-can-he-win-yellow-again/",
+            "d": "2026-06-20"
+          },
+          {
+            "t": "Cyclingnews（ジロ準備分析）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/by-winning-the-giro-d-italia-jonas-vingegaard-has-had-his-strongest-tour-de-france-preparation-yet-but-we-still-have-no-idea-how-hell-compare-with-tadej-pogacar/",
+            "d": "2026-06-01"
+          }
+        ],
+        "status": "確定＝ジロ制覇・本人コメント。曖昧＝対ポガチャルの優劣（誰にも分からない、が各誌の総意）。"
+      },
+      {
+        "id": "20260623-tdf-startlist-deadline",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/06/hindley-gall-groves.jpg",
+        "headline": "ツール最終エントリーの締切は6/23〜24——移籍で様変わりしたプロトンが、いよいよ8人に絞られる",
+        "layer1": "6/20時点で111人が確定、残り枠を各チームが今日明日で提出。startlistは7/1バルセロナのチーム発表で確定する。今季はオフの大移籍でプロトンの勢力図が一変している。",
+        "layer2": "エヴェネプール（ソウダル→レッドブル）、アユソ（UAE→リドル・トレック）、ウィトデブロックス（ヴィスマ→モビスター）など主役級が動いた。ソウダルはエース流出後、メルリール中心のスプリント編成＋クラシック核（ストゥイヴェン、ファンバーレら）に再構築。デカトロンCMA CGMはコーイ獲得で第3勢力を狙う。マサル目線では『どのブランドの誰がどの機材で第1週を戦うか』が秋の話のタネになる。",
+        "sources": [
+          {
+            "t": "Velo（移籍総括）",
+            "u": "https://velo.outsideonline.com/news/cycling-transfer-market-2026-27/",
+            "d": "2026-06-02"
+          },
+          {
+            "t": "Cyclingnews（startlist）",
+            "u": "https://www.cyclingnews.com/tour-de-france/start-list/",
+            "d": "2026-06-20"
+          }
+        ],
+        "status": "確定＝締切6/23〜24・チーム発表7/1。曖昧＝各チームの最終8人は提出待ち。"
+      },
+      {
+        "id": "20260623-tdf-route-climbers",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://escapecollective.com/content/images/size/w1200/2026/06/sunflowers1.jpg",
+        "headline": "ツール2026は『クライマー天国』——累積54,450m、アルプデュエズ2回、個人TTはわずか26km",
+        "layer1": "7/4バルセロナ発・7/26パリ着の全21ステージ。総距離3,333km、累積標高54,450m（前2年より約2,000m増）。山岳8・山頂ゴール5、アルプデュエズは2度登場。個人TTは26.1kmの1本だけ、開幕はチームTT19.6km。",
+        "layer2": "TTが極端に短く登りが多い＝純粋な登坂力がそのまま順位に出る設計。重量級スプリンターには第1週の石畳（ピカルディ／リール周辺）が勝負所で、ここでファンデルプールやフィリプセンが暴れる。軽量バイク＆ホイールの価値が上がる構成で、店頭の『軽さは正義か』談義の良いネタになる。",
+        "sources": [
+          {
+            "t": "Escape Collective（ルートガイド）",
+            "u": "https://escapecollective.com/2026-tour-de-france-route-guide/",
+            "d": "2026-06-17"
+          }
+        ],
+        "status": "確定＝距離・標高・TT本数・山頂ゴール（Escape Collective／ASO発表）。"
+      },
+      {
+        "id": "20260623-golden-age-tech",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/asxZnsqnjssCEBPnBuArnB-1920-80.jpg",
+        "headline": "『サイクルテック黄金時代』論——レーダー・パワー・AIで、自転車はどこまで便利になるか",
+        "layer1": "Cycling Weeklyが6/18に『今は自転車テックの黄金時代、抗うな』という論考を掲載。後方レーダー、パワーメーター、AIによる危険予測などの普及をどう捉えるかを問うた。",
+        "layer2": "争点は『便利さ』と『純粋さ』の綱引き。レーダーは事故予防に効くが、ライドが通知漬けになる懸念も。マサル的には、安全テックは青切符時代の日本の初中級者に刺さる売り文句であり、『最初の1台＋後方レーダー』のセット提案が現実的な落とし所。煽らず、過信させず——“保険であって免罪符ではない”という線引きが要る。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/products/opinion-the-golden-age-of-cycling-tech-is-here-stop-fighting-it",
+            "d": "2026-06-18"
+          }
+        ],
+        "status": "確定＝論考の存在・主旨。曖昧＝是非は意見記事（断定しない）。"
+      },
+      {
+        "id": "20260623-canyon-stingr-hud",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://d21buns5ku92am.cloudfront.net/69671/images/682526-VHR_S01_Hero_test_1-085ecc-large-1781715195.jpg",
+        "headline": "キャニオン、視界に危険を映す『Stingr』HUDヘルメットを6/18発表——安全テックがついに頭の上へ",
+        "layer1": "キャニオンが6/18、ヘッドアップディスプレイ（HUD）内蔵のスマートヘルメット試作『Stingr』を公開。引き込み式バイザー内側の表示に、路面のハザード、周囲の車両挙動、グループライドの動き、走り方の助言などを映す。同社の安全プラットフォーム“Predict”の一部。",
+        "layer2": "サイコンを見るために下を向く時間を減らし、視線を前に保てる——のが狙い。コンセプト段階で市販時期・価格は未定だが、『自転車の安全テックはバイク本体（レーダー／カメラ）から装着物（ヘルメット）へ』という流れを示す象徴的プロトタイプ。日本では青切符＋ヘルメット努力義務という追い風があり、“魅せる安全装備”として将来の販売トークになり得る。",
+        "sources": [
+          {
+            "t": "Canyon Newsroom",
+            "u": "https://media-centre.canyon.com/en-INT/266866-new-canyon-heads-up-display-helmet-could-be-a-safety-gamechanger-for-road-riding/",
+            "d": "2026-06-18"
+          }
+        ],
+        "status": "確定＝6/18発表・機能概要（メーカー公式）。曖昧＝市販可否・価格（試作のため未定）。"
+      },
+      {
+        "id": "20260623-women-million-dollar",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/06/hindley-gall-groves.jpg",
+        "headline": "女子プロ、初の『100万ドル契約』時代へ——200人が契約切れ、移籍フィーバーは過熱",
+        "layer1": "Veloの移籍特集（6/2）は、女子の最高額契約が初めて100万ドルに達したと報じ、約200人が契約満了を迎える“移籍フィーバー”の始まりを伝えた。",
+        "layer2": "女子レースの商業価値が上がり、トップ選手の処遇が一気に底上げされた構図。背景には放映拡大とスポンサー流入があり、男子に偏っていた予算配分が変わりつつある。日本のショップ視点では、女子人気の高まり＝Liv等の女性向けカテゴリーや小柄ライダー向けジオメトリ／クランク長の需要に効いてくる伏線。",
+        "sources": [
+          {
+            "t": "Velo",
+            "u": "https://velo.outsideonline.com/news/cycling-transfer-market-2026-27/",
+            "d": "2026-06-02"
+          }
+        ],
+        "status": "確定＝特集の主旨・100万ドル到達の報。曖昧＝個別契約額は非公表が多い（※要裏取り）。"
+      },
+      {
+        "id": "20260623-china-complete-bike-cospa",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://niiyamacycle-kure.jp/wp-content/uploads/2025/12/22820679_s.jpg",
+        "headline": "【経営メモ】中華完成車のコスパ論争は続く——製品サイクル加速で、店の武器は『目利き＋アフター』へ",
+        "layer1": "国内ブログ・SNSでは『中華ロードは安かろう悪かろう』ではなく『直販・フレーム売り中心で広告/流通費が薄い』ことが価格差の正体、という整理が定着。一方で“試乗しにくい・相談先が少ない・組み合わせ確認が自己責任”という負担も共有されている。",
+        "layer2": "ウィンスペースはSLC3の後継SLC5を早くも投入するなど、中華勢の製品更新が速い。これは買い手には『型落ちがすぐ出る＝中古/値引きの狙い目』、店には『在庫を抱えにくい代わりに、目利きと組み付け・アフターで付加価値を出す』ことを意味する。価格勝負に乗らず、“買った後の安心”を売る方向が現実解。",
+        "sources": [
+          {
+            "t": "自転車ジャーナル（新山サイクル）",
+            "u": "https://niiyamacycle-kure.jp/kg112/",
+            "d": "2025-12"
+          },
+          {
+            "t": "ペダルログ（note）",
+            "u": "https://note.com/pedal_log/n/ndb0d05b1e4f7",
+            "d": "2026-01-20"
+          }
+        ],
+        "status": "曖昧＝市場の傾向整理（経営メモ）。個別ブランド評価は店頭での実物確認が前提（※要裏取り）。"
+      },
+      {
+        "id": "20260623-gravel-practical",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://img.my-best.com/contents/29ad2fa6a90304e8b86e4940c8fc9c62.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=42f37309184f6a8794bb7b494cf736a0",
+        "headline": "【経営メモ】グラベル人気は『実用・拡張性』へ——積載・内蔵ストレージ・1xが選定軸に",
+        "layer1": "国内の2026グラベル選びは、レース性能一辺倒から『バイクパッキング適性・拡張性・実用性』重視へ。ダウンチューブ内蔵ストレージやケーブル内装、フロントシングル運用などが評価ポイントになっている（マイベスト等の6月ランキングが反映）。",
+        "layer2": "ロードの太タイヤ化でロードとグラベルの境界が溶ける一方、『荷物を積んで遠くへ』はグラベル固有の強み。ショップとしては“2台目需要”と“通勤＋週末ロングの兼用”を取り込みやすい。フレーム選びは積載点（ダボ穴）・最大タイヤ幅・1x適性の3点を聞き出すと提案が締まる。",
+        "sources": [
+          {
+            "t": "マイベスト（6月ランキング）",
+            "u": "https://my-best.com/31094",
+            "d": "2026-06"
+          },
+          {
+            "t": "サイクルスポーツ（グラベル機材2026）",
+            "u": "https://www.cyclesports.jp/news/new-product/147820/",
+            "d": "2026-06"
+          }
+        ],
+        "status": "曖昧＝市場傾向（経営メモ）。ランキングは集計時点で変動（※要裏取り）。"
+      },
+      {
+        "id": "20260623-giant-2026-grades",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://giant-store.jp/imabari/files/2025/07/s-T-080-MY26-TCR-Advanced-Pro-FF_Color-D-Neon-Flux.jpg",
+        "headline": "【経営メモ】ジャイアント2026、新グレード続々——105 Di2＋カーボンホイールの“中核価格帯”を厚く",
+        "layer1": "ジャイアントの2026年モデルでは、Advanced Pro／AdvancedにデュラエースDi2搭載、105 Di2＋カーボンホイール、CUES搭載など複数の新グレードが追加され、標準クランク長も見直された。",
+        "layer2": "据え置き・微増の価格で“電動105＋カーボンホイール”の完成車が増える＝舶来ハイエンドの値上げと好対照の『手の届く中核価格帯』を厚くする戦略。日本一売れるブランドの布陣が中価格帯に寄ることは、ショップの主戦場（30〜50万円）の競争を激化させる。中華プレミアムとどう棲み分けるかが棚づくりの肝。",
+        "sources": [
+          {
+            "t": "GIANT Store（2026モデル）",
+            "u": "https://giant-store.jp/imabari/bike/35016/",
+            "d": "2026"
+          }
+        ],
+        "status": "曖昧＝ラインアップ動向（経営メモ）。各グレードの最終価格・在庫は要確認（※要裏取り）。"
+      },
+      {
+        "id": "20260623-helmet-demand-wave",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://prcdn.freetls.fastly.net/release_image/46797/39/46797-39-6ad142566c58049e577456f81242ee13-3750x2500.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+        "headline": "【経営メモ】ヘルメット需要に『第二の波』——青切符施行で、大人の着用意識がようやく前向きに",
+        "layer1": "2026年1月公表の調査で、2023年の努力義務化以降はじめて大人の着用意識に前向きな変化が出た。約7割の保護者が『親自身も着けたい』と回答。4月の青切符施行が後押しになっている（ヘルメット自体は青切符の対象外・努力義務のまま）。",
+        "layer2": "ヘルメット未着用は反則金にならないが、“ルール厳格化ムード”が買い替えを促す心理トリガーになっている。EC・量販でヘルメット需要の再燃が指摘され、ショップは『青切符の正しい説明＋規格（JCF/CE/SG）と被り心地の提案』をセットにすると、安全意識を売上に繋げやすい。煽らず、事実（致死率・頭部損傷比率）ベースで。",
+        "sources": [
+          {
+            "t": "OGKカブト（PR TIMES）",
+            "u": "https://prtimes.jp/main/html/rd/p/000000039.000046797.html",
+            "d": "2026-04"
+          },
+          {
+            "t": "エキサイトニュース（着用意識調査）",
+            "u": "https://www.excite.co.jp/news/article/Trafficnews_625365/",
+            "d": "2026-01-18"
+          }
+        ],
+        "status": "確定＝努力義務継続・青切符対象外。曖昧＝需要“第二波”は各社の観測（※要裏取り）。"
+      },
+      {
+        "id": "20260623-beginner-watch-tdf",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://escapecollective.com/content/images/size/w1200/2026/06/sunflowers1.jpg",
+        "headline": "はじめてのツール観戦ガイド——7/4バルセロナ開幕、『ビッグ4』の構図を3分で",
+        "layer1": "ツール・ド・フランス2026は7/4にスペイン・バルセロナで開幕（チームTT）、7/26パリ着。総合の主役はポガチャル・ビンゲゴー・エヴェネプール・ログリッチの“ビッグ4”だが、ログリッチは今季ブエルタ重視との観測。",
+        "layer2": "初心者の楽しみ方＝『黄色＝総合首位、緑＝ポイント（スプリント）、水玉＝山岳、白＝若手』の4ジャージを追うだけで物語が見える。今年はTTが短く登りが多いので“純クライマー有利”。第1週の石畳ステージは大波乱の名物区間で、ファンデルプール級のクラシック巧者が暴れる。まずは初日のTTTと第1週の石畳だけでも観ると沼にハマる。",
+        "sources": [
+          {
+            "t": "Escape Collective（ルートガイド）",
+            "u": "https://escapecollective.com/2026-tour-de-france-route-guide/",
+            "d": "2026-06-17"
+          }
+        ],
+        "status": "確定＝開幕日・コース・ジャージ制度。曖昧＝ログリッチの最終的な出場/役割（※要裏取り）。"
+      },
+      {
+        "id": "20260623-beginner-tubeless-pressure",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://journal.buychari.com/wp-content/uploads/2025/03/DSC_9117.jpg",
+        "headline": "チューブレスの空気圧、『入れすぎ』が一番こわい——28〜30Cなら4bar台が新常識",
+        "layer1": "太タイヤ＆チューブレス普及で、ロードの常識は『7bar』から大きく下がった。28〜30Cユーザーはおおむね4bar台、リム内幅や体重次第では3bar台での運用が推奨される場面も。逆に入れすぎてタイヤが外れ、リムを傷めた事例も報告されている。",
+        "layer2": "チューブレスは低圧でも転がりと乗り心地を両立できるのが利点だが、フックレスリムには“上限気圧”があり、超えるとビードが外れる危険がある。初中級者がやりがちなのは『不安だから高め』。正解は逆で、メーカー指定の上限を守りつつ、体重×リム内幅×タイヤ幅から適正値を下げていくこと。シーラント管理が要る点は要説明（初心者には敷居）。",
+        "sources": [
+          {
+            "t": "BUYCHARI Journal（適正空気圧）",
+            "u": "https://journal.buychari.com/road-bike-air-pressure/",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝低圧化トレンド・フックレス上限の存在。曖昧＝個別の最適値は体重/リムで変動（※要裏取り）。"
+      },
+      {
+        "id": "20260623-beginner-crank-length",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://giant-store.jp/imabari/files/2025/07/s-T-080-MY26-TCR-Advanced-Pro-FF_Color-D-Neon-Flux.jpg",
+        "headline": "2026年は各社が『クランク長』を見直し中——短いクランクは、初中級にこそアリ？",
+        "layer1": "ジャイアントが2026モデルで標準クランク長を見直すなど、各社が完成車の標準クランクを短め方向に振り始めている。プロも“短クランク化”が進む潮流。",
+        "layer2": "短いクランク（例：170→165mmなど）は、股関節の詰まりが減って高ケイデンスを回しやすく、エアロポジションも取りやすい——脚の長さや柔軟性に不安がある初中級・小柄ライダーほど恩恵が大きい。デメリットは“踏み込みのテコ”がわずかに減ること（実走では体感差は小さいとの報告が多い）。完成車購入時に『身長だけでなくクランク長も相談』が、地味だが効く一手。",
+        "sources": [
+          {
+            "t": "GIANT Store（2026モデル・クランク長変更）",
+            "u": "https://giant-store.jp/imabari/bike/35016/",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝標準クランク短縮の動き。曖昧＝最適長は個人差（フィッティング前提・※要裏取り）。"
+      },
+      {
+        "id": "20260623-beginner-china-support",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://niiyamacycle-kure.jp/wp-content/uploads/2025/12/22820679_s.jpg",
+        "headline": "はじめての中華カーボン完成車——『安さ』の裏にある“サポート問題”をどう埋めるか",
+        "layer1": "完成車10万円台からの高品質モデルも珍しくなくなった中華カーボン。だが安さの裏には『試乗しにくい・相談先が少ない・補修部品の入手や組み合わせ確認を自分でやる』という負担がある。",
+        "layer2": "失敗しない順番は、(1)規格（ディスク/スルーアクスル/BB/対応タイヤ幅）を事前に確認、(2)初期整備・面倒を見てくれる店や持ち込み可否を先に確保、(3)“激安”より“レビューと実績のある型”を選ぶ。直販で浮いた予算の一部を『プロの組み付け＋初回点検』に回すのが、結局いちばん安く安全に乗り出すコツ。8LIEN/CRW/FARSPORTS級の“素性が分かる”銘柄から入ると安心。",
+        "sources": [
+          {
+            "t": "自転車ジャーナル（新山サイクル）",
+            "u": "https://niiyamacycle-kure.jp/kg112/",
+            "d": "2025-12"
+          },
+          {
+            "t": "コスパバイク",
+            "u": "https://cosperbike.com/how-to-chinese-road-bike/",
+            "d": "2026"
+          }
+        ],
+        "status": "曖昧＝買い方の指針（普遍ネタ）。個別銘柄の品質は実物・実績で確認（※要裏取り）。"
+      },
+      {
+        "id": "20260623-eurobike-32inch",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "http://www.fairsonline.org/sites/default/files/2026-06/eurobike-2026-trends-01.webp.2560.webp",
+        "headline": "明日開幕ユーロバイク、中心議題は『32インチ』車輪——グラベル/MTBから、ロードへ波及するか",
+        "layer1": "6/24フランクフルト開幕のユーロバイク2026は、専門セッションと展示で『32インチ』大径ホイールをグラベル/MTB向けの目玉に据える。キャニオンは32インチ＋エアロコクピットのXC試作を出展。",
+        "layer2": "大径化は転がり・障害物越え・直進安定で有利な一方、フレーム設計・タイヤ供給・規格統一が課題で、ロードへの即時波及は懐疑的な見方も多い。続報の文脈＝“明日からの会場で実物の反応が出る”ため、いま注目。ロード側は引き続きワイドリム化＋太タイヤ前提が主軸で、ホイールの話題は『深さ』より『内幅と空力』に寄っている。",
+        "sources": [
+          {
+            "t": "FairsOnline（ユーロバイク2026プログラム）",
+            "u": "https://www.fairsonline.org/eurobike-builds-its-2026-program-around-32-inch-wheel-debate",
+            "d": "2026-06"
+          },
+          {
+            "t": "TOUR Magazin（キャニオン出展）",
+            "u": "https://www.tour-magazin.de/en/buying-advice/clothing/helmets/eurobike-preview-canyon-connected-cycling-innovations-featuring-smart-safety-and-32-inch-wheels/",
+            "d": "2026-06-17"
+          }
+        ],
+        "status": "確定＝ユーロバイクの議題設定・キャニオン出展。曖昧＝ロードへの波及は未知（※会場の反応を要確認）。"
+      },
+      {
+        "id": "20260623-shop-tdf-traffic",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/06/hindley-gall-groves.jpg",
+        "headline": "【経営メモ】ツール開幕（7/4）を“来店トリガー”に——観戦×試乗×SNSで、夏の需要を店頭へ繋ぐ",
+        "layer1": "在庫潤沢・値下がりで客が“秋待ち”の今、夏の最大イベントはツール・ド・フランス（7/4バルセロナ開幕）。世界が3週間ロードに注目するこの期間は、来店動機を作る数少ない追い風になる。",
+        "layer2": "具体策＝(1)開幕に合わせた観戦上映/朝練×中継のミニ企画で“来る理由”を作る、(2)プロが使う機材（軽量バイク・ワイドリム・太タイヤ）の実物を触れる試乗導線、(3)レースのドラマ（シモンズの星条旗、リポヴィッツの復活、ビンゲゴーの挑戦）をSNSで自店の言葉に翻訳して発信。売るのは“今すぐの完成車”でなく“憧れと相談のきっかけ”。粗利防衛局面でこそ、回転より関係づくりに投資する月。",
+        "sources": [
+          {
+            "t": "Escape Collective（ツール2026ルート）",
+            "u": "https://escapecollective.com/2026-tour-de-france-route-guide/",
+            "d": "2026-06-17"
+          },
+          {
+            "t": "Velo（移籍・話題の選手）",
+            "u": "https://velo.outsideonline.com/news/cycling-transfer-market-2026-27/",
+            "d": "2026-06-02"
+          }
+        ],
+        "status": "曖昧＝販促の提案（経営メモ②）。効果は店の客層・立地で変わる（※要裏取り）。"
+      }
+    ]
+  },
+  {
     "date": "2026-06-22",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ20本。ツール・ド・スイスは昨日ヴィラールで決着——ポガチャルが最終日も独走を仕留め、男女とも総合制覇のドラマで幕。一方ツール本番(7/4バルセロナ)前は負傷ラッシュで、UAEは満身創痍のまま8人選びが難航、イネオスはオンリーとターリングが相次ぎ落車。機材はユーロバイク(6/24)前夜のプロト流出と、UCI規制で『ナローバー時代の反転』。国内は青切符1ヶ月の実数と、値上げ局面でESCAPE R3が6万9300円据え置きの全面刷新。経営メモはトレック完成車の投げ売り常態化を深掘りしました。",
     "cards": [
