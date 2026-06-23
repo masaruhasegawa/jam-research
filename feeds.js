@@ -1,5 +1,451 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-06-24",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、20本。本日はユーロバイク開幕＆ツール最終メンバー続々確定の『動く一日』。レース人間ドラマと機材最前線、国内市場まで底まで潜りました。",
+    "cards": [
+      {
+        "id": "20260624-visma-piganzoli",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/Team-Visma-Lease-a-Bike/CORVOS_00038993-177.jpg?width=832&height=468&format=jpg",
+        "headline": "ファンアールトの穴は『ジロ総合8位の23歳』で埋める——ヴィスマ、6/23にピガンツォーリを最終8人へ",
+        "layer1": "ヴィスマが6/23、ツール最終メンバーを発表。肘の感染症で離脱したファンアールトの代役に、今季加入のダヴィデ・ピガンツォーリ（23歳・伊）を起用した。",
+        "layer2": "なぜ大抜擢か。彼は先のジロで総合8位に入りつつヴィンゲゴーの総合優勝を支えた実績がある。ヴィスマは『スプリント/クラシック型の代役』ではなく『山岳サポートの厚み』を選び、ヨルゲンソン・クスと並ぶ高山域の駒に据えた。布陣はカンペナールツ、アフィニ、ハーゲネス、アルミライユら＋ヴィンゲゴー。",
+        "sources": [
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/piganzoli-replaces-van-aert-in-vismas-tour-de-france-team/",
+            "d": "2026-06-23"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/this-is-jonas-vingegaards-support-squad-for-the-tour-de-france-as-visma-lease-a-bike-confirm-line-up/",
+            "d": "2026-06-23"
+          }
+        ],
+        "status": "確定＝6/23発表、ピガンツォーリがファンアールトの代役。役割は高山域サポート。"
+      },
+      {
+        "id": "20260624-uae-final-squad",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/www.indeleiderstrui.nl/images/2026-06/wellens-pogacar-6a33cfb333688.jpg",
+        "headline": "UAE、唯一の不安は『アルメイダのウイルス』——デルトロ初出場で布陣はほぼ固まる",
+        "layer1": "ポガチャルのツール布陣がほぼ確定。デルトロのツール初出場、マクナルティ、ウェレンス、フェルメールシュ、ポリットが軸。Gianettiはコンディションのカギをアルメイダのウイルスからの回復と語った。",
+        "layer2": "ジロでソレル・ヤーツ・ヴァインが同一落車で離脱した余波が残るが、首脳陣は『チームは順調、選手は良いコンディション』と強調。ポガチャル5勝目へ死角は薄く、変数は本人の調子とアルメイダの回復度のみ。最終8人は6/23-24提出で確定（詳細は※要裏取り）。",
+        "sources": [
+          {
+            "t": "IDLProCycling",
+            "u": "https://www.idlprocycling.com/cycling/pogacar-no-longer-worrying-about-uaes-tour-de-france-selection-he-is-the-only-question-mark",
+            "d": "2026-06-18"
+          }
+        ],
+        "status": "曖昧＝最終8人は提出締切（6/23-24）で確定。デルトロ初出場は確定、アルメイダの可否は※要裏取り。"
+      },
+      {
+        "id": "20260624-national-champs-weekend",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/LtS4bcjAdUZx9pd4bQry8G-2000-80.jpg",
+        "headline": "今週末は各国ロード選手権——ツール直前、王者たちは『出るか様子見か』",
+        "layer1": "欧州各国のロード選手権がこの週末に集中。ツール開幕（7/4）の10日前で、出場組はリスク回避のため欠場することも多い（2025はポガチャル・ログリッチが欠場）。",
+        "layer2": "チャンピオンジャージはツール本番でも1年間着用できる『見せ場』＝若手やワンデー勢には大きな動機。米国は既に終了し、男子はクイン・シモンズが連覇、TTはシュミット。欧州勢の動向が次の話題。",
+        "sources": [
+          {
+            "t": "Cyclingnews 2026 Road National Champions index",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/2026-road-national-champions-index/",
+            "d": "2026-06-21"
+          }
+        ],
+        "status": "確定＝週末に各国選手権集中。主力の出場可否は各チーム判断（直前情報を要確認）。"
+      },
+      {
+        "id": "20260624-eurobike-opens",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://media.delius-klasing.de/dpr_auto,fl_progressive,f_jpg,c_fill,g_face:center,h_675,w_1200/q_auto:eco/tour/677543-8593436a-5244-4262-9811-1c7edd0e78ef-5ee8a6-original-1779987158_5121456a03789d292e34167da769a473",
+        "headline": "ユーロバイク2026、本日6/24開幕——約800社、主役は『32インチ車輪』と安全テック",
+        "layer1": "フランクフルトでユーロバイク2026が本日開幕（〜27日、40カ国超・約800社）。中心議題は32インチ車輪とコネクテッド安全テクノロジー。",
+        "layer2": "本日のInnovation SummitでDT SwissのNils Verhoevenが32インチの可能性を講演。シマノは屋内ブースをやめ屋外試乗エリアで出展。32インチはグラベル/MTBが先行（Unbound・Cape Epicで実戦投入済み）で、ロードはUCI径規制と空力が壁。",
+        "sources": [
+          {
+            "t": "TOUR Magazin",
+            "u": "https://www.tour-magazin.de/en/buying-advice/clothing/helmets/eurobike-preview-canyon-connected-cycling-innovations-featuring-smart-safety-and-32-inch-wheels/",
+            "d": "2026-06-17"
+          },
+          {
+            "t": "EUROBIKE 公式プレス",
+            "u": "https://eurobike.com/frankfurt/en/press-and-media/press-releases/press-releases/how-eurobike-makes-trends-visible.html",
+            "d": "2026-06-08"
+          }
+        ],
+        "status": "確定＝会期6/24-27。テーマは32インチと安全テック。"
+      },
+      {
+        "id": "20260624-canyon-predict-debut",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/06/682508-2026_EVT_PREDICT_Concept-bike_-_-_Eurobike-beauty-full_-_16x9_-_ALL-7560ad-original-1781711395_2.jpg",
+        "headline": "『ロードに安全革命を』——Canyon Predict＋Stingrが本日ユーロバイクで実機デビュー",
+        "layer1": "キャニオンが安全コンセプト車Predictとスマートヘルメット Stingr を本日ユーロバイク（hall 11.0・B50）で実機公開。360度センサー＋レーダー＋カメラ＋Edge AIで危険を『先読み』する。",
+        "layer2": "ハンドルバー内ディスプレイが警告を表示、StingrはARバイザーでデータ可視化、DT Swissハブに多軸センサーを内蔵。コーナー速度・路面・集団内の動きを助言する。ただし量産化は未確約で、市販は『約3年後』の見込み＝現状は未来像の提示。",
+        "sources": [
+          {
+            "t": "Canyon Newsroom",
+            "u": "https://media-centre.canyon.com/en-INT/266864-futuristic-prototype-canyon-predict-bike-makes-debut-at-eurobike-to-define-the-future-of-rider-safety/",
+            "d": "2026-06-18"
+          },
+          {
+            "t": "サイクルスポーツ",
+            "u": "https://www.cyclesports.jp/news/new-product/163564/",
+            "d": "2026-06-21"
+          },
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/advertising-feature/four-canyon-innovations-that-show-the-future-of-cycling-tech",
+            "d": "2026-06-22"
+          }
+        ],
+        "status": "確定＝本日6/24実機デビュー。市販時期は約3年後の見込みで未確約。"
+      },
+      {
+        "id": "20260624-shimano-13s-eurobike-leak",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://www.ciclonline.com/images/stories/fbici20253/biciclette-2027-rumors.jpg",
+        "headline": "ユーロバイクで2027リーク続々——シマノ13速・フルワイヤレス Dura-Ace R9300 の足音",
+        "layer1": "会期に合わせ2027世代のリークが一斉に。シマノDura-Ace R9300は12→13速、半ワイヤレスから『フルワイヤレス』へ移行が濃厚と報じられる。",
+        "layer2": "根拠はE-Tubeアプリの設定更新（今春）と2024年5月出願の特許。前後で互換しない2種バッテリーを採用しSRAMの無線特許を回避する設計。WorldTourでプロトタイプ目撃、2026後半にDura-Ace→2027にUltegraが本命線。過去カード（6/21）の続報で、本日の新点はユーロバイクでの実物気配と2027全カテゴリーのリーク。",
+        "sources": [
+          {
+            "t": "Ciclonline",
+            "u": "https://www.cyclonline.com/eurobike-2026-frankfurt-news/eurobike-frankfurt-2026-rumors-about-2027-road,-mtb,-gravel,-and-e-bikes",
+            "d": "2026-06-23"
+          }
+        ],
+        "status": "曖昧＝特許・アプリ更新・プロト目撃が根拠。発表時期は※要裏取り。"
+      },
+      {
+        "id": "20260624-campagnolo-record-13",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/eMPSTvY42Krp6FrpkakFdj-2560-80.jpg",
+        "headline": "カンパ Record 13 が『Ultegra価格』で参戦——ユーロバイクで実物、いよいよ3社13速時代",
+        "layer1": "カンパニョーロが廉価版の13速グループ Record 13 を投入し、ユーロバイクで実物を展示。1x13フルワイヤレスが€2,129〜で、シマノUltegra／SRAM Force級の価格帯に降りてきた。",
+        "layer2": "重量2,656〜2,783g、電池航続750km、USB-C充電。最上位Super Recordと設計・機能を共有しつつ1,000ユーロ超安い。経営難だったカンパの反転攻勢で、シマノR9300・SRAM Red 13と合わせ『3社13速』が現実に。日本価格は※要裏取り。",
+        "sources": [
+          {
+            "t": "Ciclonline（ユーロバイク2026）",
+            "u": "https://www.cyclonline.com/eurobike-2026-frankfurt-news/eurobike-frankfurt-2026-rumors-about-2027-road,-mtb,-gravel,-and-e-bikes",
+            "d": "2026-06-23"
+          },
+          {
+            "t": "Cyclingnews（価格・仕様）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/campagnolo-record-returns-with-13-speeds-and-a-more-affordable-price-point/",
+            "d": "2026-04-29"
+          }
+        ],
+        "status": "確定＝€2,129〜の13速。発表は4/29、ユーロバイクで実物展示。日本価格は未確定。"
+      },
+      {
+        "id": "20260624-32inch-wheels-road",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://media.delius-klasing.de/dpr_auto,fl_progressive,f_jpg,c_fill,g_face:center,h_675,w_1200/q_auto:eco/bike/677543-8593436a-5244-4262-9811-1c7edd0e78ef-5ee8a6-original-1779987158_b356d653a675f6f89d4fdf7b79dc2736",
+        "headline": "32インチ車輪はロードに来るか——ユーロバイク最大の論争、空力とUCI規制が壁",
+        "layer1": "ユーロバイクの目玉論争が32インチ大径ホイール。転がり抵抗減・トラクション増でグラベル/MTBが先行し、業界も『思ったより速い』と認め始めた。",
+        "layer2": "ただしロードは別。SchwalbeやMeridaの技術者はパリ〜ルーべ的悪路での利点を示唆する一方、UCIの径規制と空力の未解決で時期尚早との声。『在庫過多の市場に新たなパイを切るだけ』との冷めた見方もあり、初中級が今すぐ気にする必要は薄い。",
+        "sources": [
+          {
+            "t": "BIKE Magazin",
+            "u": "https://www.bike-magazin.de/en/equipment/bike-helmets/cycling-innovations-canyon-eurobike-preview-featuring-32-inch-bikes-and-smart-safety-features/",
+            "d": "2026-06-17"
+          },
+          {
+            "t": "BikeRadar（業界の本音）",
+            "u": "https://www.bikeradar.com/features/tech/32in-wheels-to-hit-the-mainstream",
+            "d": "2026-03-29"
+          }
+        ],
+        "status": "曖昧＝グラベル/MTBは前進、ロード採用は空力とUCI規制が未解決。"
+      },
+      {
+        "id": "20260624-cannondale-quick-2026",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/06/C26_Quick_Texas_6840.jpg",
+        "headline": "キャノンデールの人気クロス『Quick』2026刷新、6/10から国内オーダー——スマホ連携を標準装備",
+        "layer1": "入門クロスの定番Quickが2026年モデルで刷新。国内オーダーは6/10開始、7月中旬から順次入荷。スマホ連携機能を標準装備した。",
+        "layer2": "通勤・フィットネスの入口市場へスマート機能を下ろす流れ。最初の一台＝クロスの底上げは、店の裾野（将来のロード/グラベル客）を広げる。価格詳細は※要裏取り。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ",
+            "u": "https://www.cyclesports.jp/news/new-product/162575/",
+            "d": "2026-06-10"
+          }
+        ],
+        "status": "確定＝6/10オーダー開始、スマホ連携標準。価格は※要裏取り。"
+      },
+      {
+        "id": "20260624-shimano-price-bikes",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://shop-jp.shimano.com/cdn/shop/articles/shimano_logo_1200x1200_9f811464-93bb-4937-b635-71e4e91f8493.jpg?v=1780281559",
+        "headline": "【経営メモ】シマノ5/1値上げが完成車全体を押し上げる——客説明の準備を今から",
+        "layer1": "シマノ国内品は2026/5/1に価格改定（公式）。完成車原価の3〜4割がコンポ代＝各社の完成車定価もじわじわ上がる。",
+        "layer2": "店としては『型落ち・在庫車が割安な今』と『新車値上げ』のギャップを接客で橋渡しするのが効く。欧州ブランドは代理店の値上げスケジュールが決まっており、買い時の説明力が差になる。",
+        "sources": [
+          {
+            "t": "シマノ公式（価格改定）",
+            "u": "https://shop-jp.shimano.com/blogs/news/price_update",
+            "d": "2026-06-01"
+          },
+          {
+            "t": "KAMIHAGI cycle",
+            "u": "https://kamihagi.com/shimano-price-revisions/",
+            "d": "2026-04"
+          }
+        ],
+        "status": "確定＝5/1改定済み。完成車への波及は継続。"
+      },
+      {
+        "id": "20260624-domestic-discount-market",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bike-plus.com/cdn/shop/collections/zaikosyobun_sale_2026.jpg?v=1778225478",
+        "headline": "【経営メモ】在庫潤沢・値下がり相場、夏は『秋待ち』——回転より粗利防衛へ",
+        "layer1": "国内は在庫潤沢で値下がり傾向。大手の在庫処分は最大40%OFFも珍しくなく、20〜40%引きが常態化している。",
+        "layer2": "本番の入替セールは10〜11月との見方が強く、夏は客が『秋待ち』で客単価が崩れやすい。今は回転を追うより粗利防衛が肝。試乗・アフター・カスタムで価格以外の価値を作る局面。",
+        "sources": [
+          {
+            "t": "バイクプラス 在庫処分セール",
+            "u": "https://bike-plus.com/collections/bike-clearance-sale",
+            "d": "2026-06"
+          },
+          {
+            "t": "プライシー（買い時解説）",
+            "u": "https://www.pricey.jp/web/articles/3501",
+            "d": "2026-06"
+          }
+        ],
+        "status": "確定＝値下がり相場が継続。本番セールは秋の見込み。"
+      },
+      {
+        "id": "20260624-tour-watch-2026",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/06/TdF2026_H1-4_cc26_v2_2.jpg",
+        "headline": "公式プログラム6/22発売——にわかでも語れるツール2026の見どころ、鍵は『26kmだけのTT』",
+        "layer1": "ツール2026公式プログラムが6/22発売。7/4バルセロナ開幕、累積54,450m、アルプデュエズ2連続、最終日モンマルトルと『クライマー天国』。",
+        "layer2": "ポイントは個人TTが僅か26kmしかないこと。タイム差が登りで決まるため、ポガチャル・ヴィンゲゴーのクライマー対決が総合を支配しやすい。ビッグ4（＋若手セイシャ）の構図を押さえれば十分楽しめる。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ",
+            "u": "https://www.cyclesports.jp/news/others/163260/",
+            "d": "2026-06-18"
+          }
+        ],
+        "status": "確定＝7/4開幕、TTは26kmのみで山岳偏重。"
+      },
+      {
+        "id": "20260624-moshimo-tour-japan",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/06/2606moshimotour-matome1.jpg",
+        "headline": "『もしも日本でツールを再現したら？』——全21ステージ完全実走ガイドが話題",
+        "layer1": "サイクルスポーツが『もし日本でツール全21ステージを再現したら』という企画をまとめ公開（6/22）。第1ステージは福岡で再現するなど、距離・標高を日本の地名に置き換える。",
+        "layer2": "海外レースの規模感を身近に伝える仕掛けで、にわかファン獲得に効く好例。ショート/記事で『日本に置き換える』見せ方は、観戦の入口づくりとしてマサルの発信にも応用しやすい。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ",
+            "u": "https://www.cyclesports.jp/topics/163461/",
+            "d": "2026-06-22"
+          }
+        ],
+        "status": "確定＝企画まとめ6/22公開。"
+      },
+      {
+        "id": "20260624-gravel-strongest",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/06/2606crux5-1.jpg",
+        "headline": "『もうロードじゃなくていいかも』——グラベル最強説を検証する記事が伸びる",
+        "layer1": "サイクルスポーツが『グラベルバイク最強説』を検証（6/22）。1台で舗装も未舗装もこなし、太タイヤで快適という万能性が支持を集める。",
+        "layer2": "弱点は重量とロードでの巡航性。だが初中級の『1台で何でもやりたい』ニーズには刺さる。新型エアロが軒並み32〜40mmタイヤ対応に寄り、ロードとグラベルの境界が溶ける2026を象徴する話題。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ",
+            "u": "https://www.cyclesports.jp/topics/162288/",
+            "d": "2026-06-22"
+          }
+        ],
+        "status": "確定＝検証記事6/22。万能性が支持、弱点は重量/巡航。"
+      },
+      {
+        "id": "20260624-eurobike-future-3years",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://d21buns5ku92am.cloudfront.net/69671/images/682508-2026_EVT_PREDICT_Concept-bike_-_-_Eurobike-beauty-full_-_16x9_-_ALL-7560ad-large_webp-1781711395.webp",
+        "headline": "ユーロバイクが描く『自転車の3年後』——コネクテッド・AI・V2X都市バイクが一斉提示",
+        "layer1": "キャニオンはユーロバイクで安全システムPredict／スマートヘルメット／コネクテッド・エコシステム／V2X都市バイク Roadlite:ON など4コンセプトを提示。市販目標は約3年後。",
+        "layer2": "安全テックが『あれば便利』から『標準』へ向かう布石。一方でコスト・プライバシー・法規・電池依存は未整理で、量産化のハードルは高い。今は方向性を示す段階で、すぐ買える話ではない点に注意。",
+        "sources": [
+          {
+            "t": "Canyon Newsroom",
+            "u": "https://media-centre.canyon.com/en-INT/267005-what-to-see-from-canyon-at-eurobike-2026/",
+            "d": "2026-06-18"
+          }
+        ],
+        "status": "曖昧＝いずれもコンセプト。市販は約3年後で未確約。"
+      },
+      {
+        "id": "20260624-china-carbon-firsttime",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C163.jpg",
+        "headline": "はじめての中華カーボン、2026の選び方——『安さ』の裏のサポート問題をどう埋めるか",
+        "layer1": "中華カーボンは大手の1/3〜1/2の価格で、重量・剛性・空力が肉薄するレベルに到達。ユーロバイクで中華新興勢の台頭が改めて見える今、関心が再燃している。",
+        "layer2": "落とし穴は『安さ』の裏のサポート/アフター。信頼できる代理店・ショップで保証と初期整備を担保するのが鍵。9VeloやTukus等の新興ブランドの格付けも国内で定着しつつある。普遍ネタだが、買う前に必ず保証条件を確認する姿勢を。",
+        "sources": [
+          {
+            "t": "bike-memo（中華ホイール2026）",
+            "u": "https://bike-memo.com/cycle_260202_carbon-wheels/",
+            "d": "2026-02-02"
+          },
+          {
+            "t": "innertop（長期レビュー）",
+            "u": "https://innertop.com/carbonwheel/",
+            "d": "2026"
+          }
+        ],
+        "status": "普遍ネタ＝直近の中華勢台頭をきっかけに。サポート条件の確認が必須。"
+      },
+      {
+        "id": "20260624-buy-timing-2026",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/01/zakki_C110.jpg",
+        "headline": "値上げ局面の『最初の一台』——型落ちか現行か、買い時を分ける3つの軸",
+        "layer1": "シマノ5/1値上げの後、欧州勢も代理店の値上げが続く。一方で在庫車・型落ちは割安。最初の一台で『今買う／秋まで待つ』の判断が難しい局面。",
+        "layer2": "判断軸は3つ。①予算（値上げ前在庫は狙い目）②サポート（保証・整備のある店か）③乗る頻度（すぐ乗るなら今、急がないなら10〜11月の入替セールも視野）。焦って型落ちを掴むより、用途に合うサイズ・コンポを優先。",
+        "sources": [
+          {
+            "t": "bike-memo（2026値上げ）",
+            "u": "https://bike-memo.com/cycle_260113_price-up/",
+            "d": "2026-01-13"
+          },
+          {
+            "t": "プライシー（安い時期）",
+            "u": "https://www.pricey.jp/web/articles/3501",
+            "d": "2026-06"
+          }
+        ],
+        "status": "普遍ネタ＝値上げ×値下がりの併存局面。用途優先で判断。"
+      },
+      {
+        "id": "20260624-aokippu-helmet",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/04/kabuto26ss_8867.jpg",
+        "headline": "【経営メモ】青切符施行3か月、ヘルメット需要に『第二の波』——大人の着用意識が前向きに",
+        "layer1": "自転車の青切符は4/1施行から約3か月。16歳以上が対象で113違反に3,000〜12,000円。基本は指導警告、悪質・危険な違反は取締りという運用。",
+        "layer2": "罰則の現実味が出たことで、努力義務のヘルメットでも大人の着用意識が前向きに（需要の第二波）。ヘルメット・ライト・反射材など安全用品は店頭の確実な需要枠。施行直後の交付は慎重スタートで最多違反は一時不停止だった点も接客の材料に（件数は※要裏取り）。",
+        "sources": [
+          {
+            "t": "警視庁 青切符ポータル",
+            "u": "https://www.keishicho.metro.tokyo.lg.jp/kotsu/jikoboshi/bicycle/cycle_kaisei.html",
+            "d": "2026-06"
+          },
+          {
+            "t": "サイクルスポーツ（ヘルメット2026）",
+            "u": "https://www.cyclesports.jp/news/new-product/159293/",
+            "d": "2026-04-27"
+          }
+        ],
+        "status": "確定＝4/1施行・約3か月。交付件数の最新値は※要裏取り。"
+      },
+      {
+        "id": "20260624-domestic-demand-shrink",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2391415022122025000000-1.jpg?auto=format&bg=FFFF&crop=focalpoint&fit=crop&h=630&w=1200&s=ac31bab46029abb4acbf5d3b252ecdb7",
+        "headline": "【経営メモ】国内需要は確かに縮んでいる——あさひ最終減益、軸足は電アシ・整備へ",
+        "layer1": "あさひのFY2026は税引き利益が前期比約26%減の26億円、売上も約810億円と下方修正で最終減益。物価高による買い替え低迷が背景（報道は2025年12月）。",
+        "layer2": "一般車・子供車が地方で落ち込む一方、単価の高い電動アシストや部品交換は堅調。『バブルの清算』が続く局面で、スポーツ車は秋待ち需要。店の利益源は粗利の高い電アシ・整備・カスタムへ寄せるのが現実解。",
+        "sources": [
+          {
+            "t": "日本経済新聞",
+            "u": "https://www.nikkei.com/article/DGXZQOUF223300S5A221C2000000/",
+            "d": "2025-12-22"
+          }
+        ],
+        "status": "背景データ＝報道は2025-12（FY2026決算）。市場縮小の継続を示す材料。"
+      },
+      {
+        "id": "20260624-pogacar-only-rival",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/06/sprintcyclingagency_9186593_1_2000px.jpg",
+        "headline": "ツール10日前、『敵はいるのか』——ポガチャルはスイス総合V＋通算100勝で死角なし",
+        "layer1": "前哨ツール・ド・スイスを総合制覇し、通算100勝も記念したポガチャルが絶好調でツールへ。最大の対抗は、ジロを初制覇し三大ツール完全制覇で勢いに乗るヴィンゲゴー。",
+        "layer2": "スイスでは2位カラパスに4分超の大差。クライマー天国の今年のコースは王者に有利で、5勝目なら歴代に並ぶ。人間ドラマの焦点は『勝ちすぎる王者の動機』と、ヴィスマがファンアールト不在でどこまで挑めるか。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ（スイス第1S）",
+            "u": "https://www.cyclesports.jp/news/race/163233/",
+            "d": "2026-06-17"
+          },
+          {
+            "t": "IDLProCycling",
+            "u": "https://www.idlprocycling.com/cycling/pogacar-no-longer-worrying-about-uaes-tour-de-france-selection-he-is-the-only-question-mark",
+            "d": "2026-06-18"
+          }
+        ],
+        "status": "確定＝スイス総合V・100勝。対抗はジロ覇者ヴィンゲゴー。"
+      }
+    ]
+  },
+  {
     "date": "2026-06-23",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、20本。今日は『ツール選考デー』——締切（6/23〜24）間際の人間ドラマを軸に、ビンゲゴーの自信、フィリプセン＆リポヴィッツの前哨V、明日開幕ユーロバイクの足音まで底まで潜りました。",
     "cards": [
