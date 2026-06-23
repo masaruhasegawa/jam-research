@@ -1,7 +1,7 @@
 window.LISA_FEEDS = [
   {
     "date": "2026-06-24",
-    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、20本。本日はユーロバイク開幕＆ツール最終メンバー続々確定の『動く一日』。レース人間ドラマと機材最前線、国内市場まで底まで潜りました。",
+    "greeting": "おはようございます、マサルさん！ 今朝の20本に、ツール直前の『人間ドラマ』とエントリー機材の続報を4本追加しました（合計24本）。パリ〜ルーベの聖地が火災、ポガチャルは家族最優先で高地合宿見送り、シマノCUESが油圧ドロップバー解禁——昨日今日の動きを底まで。",
     "cards": [
       {
         "id": "20260624-visma-piganzoli",
@@ -442,6 +442,102 @@ window.LISA_FEEDS = [
           }
         ],
         "status": "確定＝スイス総合V・100勝。対抗はジロ覇者ヴィンゲゴー。"
+      },
+      {
+        "id": "20260624-pogacar-altitude-family",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/MckhUicBCQLrhqVa4tdPDD-1024-80.jpg",
+        "headline": "ポガチャル、ツール直前の最終高地合宿を見送り——『家族が最優先』、パートナー・ジガートの顎骨折で帰宅",
+        "layer1": "ポガチャルが6/23、ツール最後の調整だったイゾラ2000（仏アルプス）での高地合宿を見送り、モナコの自宅へ戻ると報じられた。理由はパートナーのウルシュカ・ジガートがツール・ド・スイス女子で落車し顎を骨折したため。",
+        "layer2": "ジガートはロカルノで段差を越えた直後に落車。ポガチャル本人はスイス第3ステージ直前にこれを知り『動揺した』とされ、表彰式後すぐ病院へ向かった。合宿は短期の『仕上げの最終調整』だったため戦力面の打撃は限定的との見方だが、本人は『計画は少し狂った。今は一緒に過ごす時間が一番大事』と発言。死角なしの王者に唯一できた『人間の隙間』として刺さる話。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/tadej-pogacars-final-tour-de-france-altitude-camp-on-hold-as-family-comes-first/",
+            "d": "2026-06-23"
+          },
+          {
+            "t": "Escape Collective",
+            "u": "https://escapecollective.com/pogacar-unsure-of-pre-tour-altitude-plans-after-zigarts-crash/",
+            "d": "2026-06-23"
+          }
+        ],
+        "status": "確定＝高地合宿を見送り帰宅。理由はジガートの顎骨折。戦力影響は限定的との見方。"
+      },
+      {
+        "id": "20260624-larbre-fire",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/HQPcZQLxrxJbUhuprjGRGL-2001-80.jpg",
+        "headline": "パリ〜ルーベの聖地が燃えた——名所『カレフール・ド・ラルブル』のレストランが火災で屋根ほぼ全焼",
+        "layer1": "パリ〜ルーベの象徴的な石畳区間カレフール・ド・ラルブル脇の老舗レストラン『ラルブル』が6/22夕（18時すぎ）に火災。屋根がほぼ全焼したが、当時休業中で負傷者はなかった。",
+        "layer2": "出火元は洗濯室付近とされ、消防士55名が出動。レストランは毎春レースが真横を通る『北の地獄』の聖地で、2025年9月にシェフ、ブノワ・ベルナール氏が引き継いだばかりだった。地元市長は『我々の共同体の象徴のひとつ』と語り、再建支援の動きが始まっている。レース文化の重みを伝える、ショート向きの『なぜ心が動くか』ネタ。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/its-a-catastrophe-emergency-services-called-after-major-fire-affects-famous-paris-roubaix-restaurant/",
+            "d": "2026-06-22"
+          },
+          {
+            "t": "France 3 Hauts-de-France",
+            "u": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/roubaix/le-mythique-restaurant-du-carrefour-de-l-arbre-symbole-du-paris-roubaix-touche-par-un-violent-incendie-3373603.html",
+            "d": "2026-06-22"
+          }
+        ],
+        "status": "確定＝6/22夕の火災、屋根ほぼ全焼・負傷者なし。出火原因は調査中（洗濯室付近の見方）。"
+      },
+      {
+        "id": "20260624-said-haddou-death",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/F8rJaV8uAHLk5thMQEsfhQ-2001-80.jpg",
+        "headline": "トロ・ブロ・レオン2勝の元プロ、サイード・アドゥ氏がオートバイ事故で死去（43）——引退後はヴックレールの相棒だった",
+        "layer1": "元プロのサイード・アドゥ氏が6/22、オートバイの交通事故で死去した。43歳。グラベル色の強いワンデー『トロ・ブロ・レオン』を2007・2009年に制した名選手だった（L'Equipe報）。",
+        "layer2": "2003〜2012年にBigmat-Auber93やBouygues Telecom（後のEuropcar）で走り、ジロ・ツールにも出場。1954年以来となる北アフリカ系の初のツール出場者だった。引退後はフランステレビジョンのモト運転手として、かつての盟友トマ・ヴックレールを乗せてレース中継のレポートを支えた。沿道とテレビの両側からレースを愛し続けた人物の訃報。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/two-time-tro-bro-leon-winner-said-haddou-dies-in-a-traffic-accident/",
+            "d": "2026-06-22"
+          },
+          {
+            "t": "IDLProCycling",
+            "u": "https://www.idlprocycling.com/cycling/said-haddou-two-time-winner-of-the-tro-bro-leon-has-died-at-the-age-of-43",
+            "d": "2026-06-23"
+          }
+        ],
+        "status": "確定＝6/22にオートバイ事故で死去、43歳。トロ・ブロ・レオン2勝。"
+      },
+      {
+        "id": "20260624-shimano-cues-dropbar",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/06/Shimano-CUES-U4030-1024x683.jpg",
+        "headline": "シマノ、エントリーの本命——CUES 9速ドロップバー＋油圧ディスクが解禁、レバー約£100から",
+        "layer1": "シマノが6/23、廉価グループCUESに9速の油圧ドロップバー用レバー（U4030系）を追加。これで『9速＋油圧ディスク』の安価なロード/グラベル完成車が成立する。1x・2xに対応。",
+        "layer2": "従来9速CUESは機械式ディスクどまりで、油圧は10/11速が必要だった。U4030は到達リーチを短縮した新形状で、手の小さい人にも届きやすい。価格はブレーキレバー単体£99.99、STIレバー£119.99/本、キャリパー付きで£159.99〜169.99。値上げ局面で『最初の一台』の底値を支える駒で、入門客の裾野を広げる材料。日本価格・入荷時期は※要裏取り。",
+        "sources": [
+          {
+            "t": "road.cc（tech-news）",
+            "u": "https://road.cc/tech-news/you-can-now-build-a-9-speed-shimano-cues-road-or-gravel-bike-with-hydraulic-disc-brakes",
+            "d": "2026-06-23"
+          },
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/shimano-cues-u4030-9-speed-shifters",
+            "d": "2026-06-23"
+          }
+        ],
+        "status": "確定＝9速油圧ドロップバー解禁、£99.99〜。日本価格・入荷は※要裏取り。"
       }
     ]
   },
