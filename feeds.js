@@ -1,5 +1,491 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-06-25",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ20本。ユーロバイクが『変速機の死』を突きつけ、ツール直前は負傷と選考のドラマが連鎖、国内はCAAD14抽選とあさひ四半期決算まで——昨日今日の動きを底まで潜りました。",
+    "cards": [
+      {
+        "id": "20260625-avinox-mg-gearbox",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": true,
+        "image": "https://bikerumor.com/wp-content/uploads/2026/06/Avinox-MG-Concept-at-2026-Eurobike_prototype-lightweight-full-power-eBike-motor-and-gearbox-drivetrain-combined_driveside-mystery-all-in-one-box.jpg",
+        "headline": "ユーロバイク最大の衝撃『変速機の死』——アヴィノックスがモーター＋ギアボックス一体型を公開、リアディレイラー不要の新世代駆動系",
+        "layer1": "DJI系のアヴィノックスが6/24、ユーロバイク2026でモーターと多段ギアボックスを一体化した『Avinox MG Concept』を初公開。リアディレイラーとカセットを廃し、シングルスピードのチェーン／ベルトで駆動するためメンテがほぼ不要とうたう。Canyon・Commencal・Forbidden・Mondrakerと共同開発。",
+        "layer2": "高トルクのペダリング中でも0.1秒未満で変速、ギアレシオ幅520%（SRAM最上位Eagle相当）、ケイデンス連動オートやAIモードも搭載。当面はeMTB／eグラベル等のe-bike向けだが、業界メディアが『Death of Derailleurs（変速機の死）』と報じた象徴的プロトタイプ。意味は機材オタク向けの話を超えて、駆動系のサプライチェーン（＝シマノ／SRAM依存）を中期で揺らしうる点。電装を内製するブランドが『コマ』そのものを置き換えにきた。現時点はコンセプトで市販時期・価格は未定（※量産化・価格は要裏取り）。",
+        "sources": [
+          {
+            "t": "Bikerumor",
+            "u": "https://bikerumor.com/avinox-mg-concept-combined-ebike-motor-and-gearbox-at-eurobike-2026/",
+            "d": "2026-06-24"
+          },
+          {
+            "t": "Cycling Electric",
+            "u": "https://www.cyclingelectric.com/news/avinox-motor-gearbox",
+            "d": "2026-06-24"
+          }
+        ],
+        "status": "確定＝6/24公開のコンセプト発表。仕様はメーカー公称。市販時期・価格は未定（※要裏取り）。"
+      },
+      {
+        "id": "20260625-ferguson-ankle",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/zFdvi3nnbrvFdzYbVNMpaA-2560-80.jpg",
+        "headline": "『胸が張り裂ける』——20歳キャット・ファーガソン、両足首骨折でツール・ド・フランス・ファム初出場が消える",
+        "layer1": "英国の新星キャット・ファーガソン（モビスター）が、5月末ジロ・ドンナ第1ステージの落車の精密検査で『足首2カ所の骨折』と判明。6/23、ツール・ド・フランス・ファムと英国選手権の欠場が確定した。",
+        "layer2": "当初は脳震盪と打撲の疑いで経過観察だったが回復が進まず、追加検査で骨折が発覚。チームは『癒合と治癒に数週間』とし、本人はあと最低3週間の松葉杖生活に。インスタで『heartbroken（胸が張り裂ける思い）』と投稿した。今季ジュニアから一気に跳ねた次世代スターの初グランツールが幻に——ツールの華やかさの裏にある『間に合わなかった物語』。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/racing/cat-ferguson-ruled-out-of-tour-de-france-femmes-with-double-ankle-fracture",
+            "d": "2026-06-23"
+          },
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/another-setback-for-movistar-team-star-cat-ferguson-had-just-begun-rehab-unaware-of-a-new-injury",
+            "d": "2026-06-23"
+          }
+        ],
+        "status": "確定＝骨折・欠場はチーム公式。『3週間松葉杖』は本人／チームコメントベース。"
+      },
+      {
+        "id": "20260625-decathlon-delay-seixas",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-06%2Fpaul-seixas-6a3aabaf9e91a.jpg",
+        "headline": "デカトロン、ツール最終メンバー発表を当日に急きょ延期——複数選手に体調不安、ただし19歳セイシャスは出場確定",
+        "layer1": "6/24午前にレザルクで予定されていたデカトロンCMA CGMの8名発表会見が、開始直前に中止。L'Equipeによれば複数選手に病気などの不確定要素があり、ダーン・ホーレはオランダ選手権TTも欠場した。GCの19歳ポール・セイシャス本人は影響を受けず出場確定。",
+        "layer2": "ツール開幕（7/4バルセロナ）直前、各チームが6/23〜24に最終8名を提出する局面での『発表延期』は異例。約90年ぶりの最年少級スターター候補セイシャスを抱えるフランスチームの内部調整が難航していることを示す。スプリンターのオラフ・コーイの起用可否は流動的。仏の希望の星をどう守るか——開幕前の緊張がにじむ。",
+        "sources": [
+          {
+            "t": "IDL Pro Cycling",
+            "u": "https://www.idlprocycling.com/cycling/is-paul-seixas-tour-de-france-start-in-doubt-decathlon-cma-cgm-postpones-tour-de-france-announcement",
+            "d": "2026-06-24"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/paul-seixas-decathlon-cma-cgm-team-forced-to-delay-decision-on-tour-de-france-squad-selection/",
+            "d": "2026-06-24"
+          }
+        ],
+        "status": "確定＝発表延期・セイシャス出場はチーム／L'Equipe一次。コーイ起用可否は流動的。"
+      },
+      {
+        "id": "20260625-visma-squad-hagenes",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-06%2Fvisma-lease-a-bike-6a3a9a7a2df93.jpg",
+        "headline": "ヴィスマ、ヴィンゲゴーのツール布陣を確定——史上最年少級、22歳ハーゲネスがデビューでラポルトの穴を埋める",
+        "layer1": "ヴィスマ・リースアバイクが6/23〜24、ヴィンゲゴー擁するツール8名を発表。クス、ヨルゲンソン、カンペナールツ、アフィニ、アルミライユに加え、負傷ファンアールトの代役にダヴィデ・ピガンツォーリ（23）、負傷ラポルトの代役にペア・ストランド・ハーゲネス（22）。グランツール未経験の若手2名を抜擢した。",
+        "layer2": "ピガンツォーリ起用は既報だが、今回の主役はチーム全体像＝『経験で穴を埋めず若さに賭けた』編成。ノルウェーの逸材ハーゲネスはツールデビュー。クラシック王ファンアールト不在を埋めるのに、ベテラン補強ではなく長期育成カードを切った点に、ポガチャル対抗の中長期戦略がにじむ。短期の勝負手としては薄さの不安も残るが、これが現ヴィスマの『色』。",
+        "sources": [
+          {
+            "t": "IDL Pro Cycling",
+            "u": "https://www.idlprocycling.com/cycling/visma-lease-a-bike-names-its-2026-tour-de-france-squad-including-surprising-replacement-for-van-aert",
+            "d": "2026-06-24"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/this-is-jonas-vingegaards-support-squad-for-the-tour-de-france-as-visma-lease-a-bike-confirm-line-up/",
+            "d": "2026-06-23"
+          }
+        ],
+        "status": "確定＝チーム正式発表。ハーゲネスはツールデビュー。"
+      },
+      {
+        "id": "20260625-vauquelin-virus",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-06%2Fkevin-vauquelin-6a26b02b1cf76.jpg",
+        "headline": "イネオスのツール、もう一人のリーダーも危機——ヴォークランがウイルス＋細菌感染で仏選手権を回避",
+        "layer1": "ネットカンパニー・イネオスの仏GC候補ケヴァン・ヴォークランが、ツール・オーヴェルニュ＝ローヌ＝アルプで罹患したウイルスと細菌感染で6/23、フランス選手権の欠場を発表。ツール共同リーダーの一角が直前に崩れた。",
+        "layer2": "本人は『健康が最優先』とコメント。バルセロナ・グランデパール（7/4）で共同リーダーに据えられていたが、相棒オスカー・オンリーも谷に落ちかけた落車から復帰途上で、イネオスはGCの二枚看板が揃って不安を抱えてツールへ向かう。本人は『ツールに間に合わせたい』と希望を語るが、最終的なコンディションは未知数。死角の少ない上位陣の中で、『健康』というもっとも読めない変数が前哨を支配している。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/ineos-suffer-another-potential-tour-de-france-blow-vauquelin-suffers-virus-and-a-bacterial-infection-as-decision-made",
+            "d": "2026-06-23"
+          },
+          {
+            "t": "Total-Velo",
+            "u": "https://www.total-velo.com/malade-kevin-vauquelin-renonce-aux-championnats-de-france-2026/",
+            "d": "2026-06-23"
+          }
+        ],
+        "status": "確定＝本人コメント・仏選手権欠場。ツール最終起用可否は曖昧（本人は出場希望）。"
+      },
+      {
+        "id": "20260625-dutch-tt-hengeveld",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/LtS4bcjAdUZx9pd4bQry8G-2000-80.jpg",
+        "headline": "各国TT選手権ウィーク開幕——オランダ女子個人TTで22歳ヘンゲフェルトが初戴冠、デフリースらを下す",
+        "layer1": "ツール直前恒例の各国選手権が6/24スタート。オランダ女子エリートTT（ドレンテ、35.8km）で、ヴィスマ・リースアバイク所属の22歳ダニエク・ヘンゲフェルトが平均47.5km/hで初優勝、フェムケ・デフリース、リーケ・ノーイエンを抑えた。",
+        "layer2": "チームメイトのデフリース（ツールスイス女子のステージ勝者）を実力で上回っての戴冠で、ヴィスマ女子の若手台頭を象徴。男子は同日開催、英国TTは6/25にウェールズ・ランペターで実施予定（イーサン・ヘイター有力）。選手権ウィークはツール直前のコンディション情報の場でもあり、デカトロンのホーレが体調不良で男子TTを欠場するなど『誰が元気か』が透ける。",
+        "sources": [
+          {
+            "t": "ProCyclingStats",
+            "u": "https://www.procyclingstats.com/race/nc-netherlands-we-itt/2026/result/result/result",
+            "d": "2026-06-24"
+          },
+          {
+            "t": "Cyclingnews（2026 Road National Champions index）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/2026-road-national-champions-index/",
+            "d": "2026-06-24"
+          }
+        ],
+        "status": "曖昧＝ヘンゲフェルト優勝・順位はPCS／検索ベースで確認。英国TT結果は本日6/25実施で未確定（※要裏取り）。"
+      },
+      {
+        "id": "20260625-dickson-collarbone",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/mrmbkAfixoUpWtMFECgTGJ-1024-80.jpg",
+        "headline": "ジロの新星に試練——ローレン・ディクソン、嵐のツール・ド・スイス女子で鎖骨骨折、ツール・ファムへも暗雲",
+        "layer1": "ジロ・ドンナで台頭した英国の新星ローレン・ディクソン（FDJ United-SUEZ）が、嵐に見舞われたツール・ド・スイス女子第3ステージ（バート・ラガーツ）終盤の落車で鎖骨を骨折。第4ステージをスタートできず離脱した。",
+        "layer2": "残り約4km、他選手のペダルがバリアに引っかかって落車。ディクソンは一度立ち上がり87位で完走したが、その後病院へ。総合2位につけFDJのGC希望を担っていただけに、チームは有力GC候補と最も好調な一枚を同時に失った。離脱見込みは約5週間で、8月のツール・ド・フランス・ファムへの影響も懸念される。ファーガソン同様、女子の次世代スターが立て続けに落車に泣く——層の厚みと裏腹のもろさが見える。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/lauren-dickson-suffered-a-broken-collarbone-in-stage-3-crash-at-the-tour-de-suisse/",
+            "d": "2026-06-19"
+          },
+          {
+            "t": "ProCyclingUK",
+            "u": "https://procyclinguk.com/lauren-dickson-suffers-collarbone-fracture-in-tour-de-suisse-women-stage-3-crash/",
+            "d": "2026-06"
+          }
+        ],
+        "status": "確定＝骨折・離脱。『5週間』は負傷トラッキング推定値で※要裏取り。"
+      },
+      {
+        "id": "20260625-conti-aero111-tdf",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://www.continental.com/fileadmin/_processed_/b/e/csm_continental_pp_tourdefrance26_3_5156aed949.png",
+        "headline": "コンチネンタル、2026ツール限定タイヤを発表——空力フロント『Aero 111』が初の“飴色”サイドウォールで登場",
+        "layer1": "コンチネンタルが6/23、2026ツール・ド・フランス限定エディションのタイヤパッケージを発表。空力フロントタイヤ『Aero 111』を初めてトランスペアレント（飴色）サイドウォールで提供する。",
+        "layer2": "フロント＝Aero 111（29mm／265g、Swiss Side・DT Swiss共同開発、48個のディンプルで横風時の乱流を制御）、リア＝Grand Prix 5000 S TR（30mm／305g）の前後セット。両者ともBlackChiliコンパウンド・Vectranブレーカー、チューブレスレディ＆フックレス対応。セット価格は£199.99／€216.95で、Aero 111のこの飴色仕様はセット限定（単体販売なし）。UAE・モビスター・Uno-Xら6チームへ供給。見た目（飴色）と空力という、ショート映えとウンチクの両取りができるネタ。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/continental-2026-tour-de-france-tyres",
+            "d": "2026-06-23"
+          },
+          {
+            "t": "Continental（公式プレス）",
+            "u": "https://www.continental.com/en/press/press-releases/20260623-tour-de-france-2026/",
+            "d": "2026-06-23"
+          }
+        ],
+        "status": "確定＝仕様・価格・供給チームは公式／BikeRadar一致。"
+      },
+      {
+        "id": "20260625-rohloff-e14",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://bikerumor.com/wp-content/uploads/2026/06/2026-Eurobike-tease_Rohloff-E14-Solo-electronic-shift-internally-geared-hub_shift-with-dropbar-controls-on-a-BikeAhead-lightweight-gravel-bike.jpg",
+        "headline": "ロロフ、E-14電子変速を全Speedhubに開放——過去30年の14速内装ハブが“後付け”でデジタル化へ",
+        "layer1": "ロロフがユーロバイク2026で、これまでBoschモーター専用だった電子変速『E-14』を、過去約30年に製造された全Speedhub 500/14に後付け対応させると発表。アナログ専用だった内装変速の名機が一斉に電子化の道を開いた。",
+        "layer2": "制御ユニットはハブ外側に配置するため既存ハブにレトロフィット可能。当面は有線専用で、TRPのドロップバーコントローラー等と組み合わせる（写真は軽量グラベルでのドロップバー操作例）。供給はまずOEM向けが今年から、リテール後付けキットは2027年から。メンテをほぼ不要にする内装変速＋電子化は、アヴィノックスの一体型と並んで『駆動系をどう簡素化するか』という同じ潮流の別解。ロード／グラベルの長距離・悪天候ユーザーには刺さる選択肢になりうる（※リテール時期2027は要継続確認）。",
+        "sources": [
+          {
+            "t": "Bikerumor",
+            "u": "https://bikerumor.com/sneak-peek-2026-eurobike-trade-show-kicks-off-in-frankfurt/",
+            "d": "2026-06-23"
+          },
+          {
+            "t": "Rohloff（公式・E-14）",
+            "u": "https://www.rohloff.de/en/products/speedhub/e-14",
+            "d": "2026-06-23"
+          }
+        ],
+        "status": "確定＝発表内容はBikerumor現地取材ベース。リテール後付けの2027年供給は※要裏取り。"
+      },
+      {
+        "id": "20260625-shimano-xt-m8200",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://www.bikeradar.com/resources/content/32337f2f-7841-4ef6-a233-d1f001580530/db5e7474-2d8f-48d2-a8fd-a4bd3686faaa/a207c660-9490-4b42-9685-adc1278ff207/677611-Shimano_DEORE-XT-M8200-Mech-M8200_KFickling_2026_002-319e26-original-1780047210.jpeg?preview=false&platform=WEB&deviceId=34fe8e41-421c-4d58-94d1-e3039d53fa95&w=1200",
+        "headline": "シマノ、新型Deore XT『M8200』で機械式12速を堅持——電子化の逆を行く“ハイエンド機械式は健在”",
+        "layer1": "シマノが新型Deore XT M8200を発表。電子化が進むMTBコンポ市場で『ハイエンド機械式は健在』を掲げ、ケーブル式12速とLinkGlide 11速の2系統を用意した。",
+        "layer2": "新リアメカは低背・くさび型ボディの『Shadow ES』設計で障害物への引っかかりを低減。調整式クラッチを廃しデュアルスプリングでチェーンテンションを70%増、シフトのストロークを短縮して節度を刷新。カセットは中ケージ（9-45t）と長ケージ（10-51t）を選択可。アヴィノックス／ロロフが“変速機を消す”方向に動く同じユーロバイクで、シマノは『安くて壊れにくい機械式』に踏みとどまった——この対比こそが今のドライブトレイン論争の縮図。価格・重量は未公表（※要裏取り）。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/2026-shimano-deore-xt-m8200",
+            "d": "2026-06-17"
+          },
+          {
+            "t": "Pinkbike",
+            "u": "https://www.pinkbike.com/news/shimano-launches-cable-actuated-xt-drivetrain.html",
+            "d": "2026-06-17"
+          }
+        ],
+        "status": "確定＝6/17発表。価格・重量は未公表（※要裏取り）。"
+      },
+      {
+        "id": "20260625-reserve-30xc",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/04/2026-reserve-30xc-hero1-scaled.jpg",
+        "headline": "リザーブ、新基準ホイール『30|XC』が6月出荷——30mm幅リム＋DT Swiss新機構でペダルキックバック低減",
+        "layer1": "リザーブ・ホイールズがXCワールドカップ＆現代XCバイク向けの新ホイール『30|XC』を発表、標準モデルが2026年6月に出荷開始。従来より内幅を広げ、ペダルキックバック低減技術を初めてXC帯に投入した。",
+        "layer2": "30mm（内幅）リムで2.35〜2.5の太タイヤに対応、スポークを24→28に増。DT Swiss 350ハブに新機構『Degree of Freedom』を載せ、重量増なしでペダルキックバックを抑えサス追従性を改善。標準は$1,599・実測1,515g、上位SLはカーボンスポーク＋DT Swiss 180で1,304g・$2,499。MTBの話だが『内幅を広げて太タイヤ＋低圧で速く・快適に』という設計思想はロード／グラベルの太幅化トレンドと地続きで、店頭の説明にも使える。リム生涯保証付き。",
+        "sources": [
+          {
+            "t": "off-road.cc（road.cc）",
+            "u": "https://road.cc/offroad/tech-news/reserves-new-30xc-cross-country-wheelset-gets-pedal-kickback-reducing-degrees-of-freedom-tech",
+            "d": "2026-04"
+          },
+          {
+            "t": "Pinkbike",
+            "u": "https://www.pinkbike.com/news/reserve-announces-new-30xc-wheels.html",
+            "d": "2026-04"
+          }
+        ],
+        "status": "確定＝発表は4月だが標準モデル出荷が2026年6月（発表日は鮮度ラインの外＝出荷タイミングで採用）。"
+      },
+      {
+        "id": "20260625-eurobike-shrinking",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://bikerumor.com/wp-content/uploads/2026/06/welcome-to-Eurobike-2026-teaser.jpg",
+        "headline": "名門ユーロバイクが過去最小級に——出展約800社へ半減、シマノ・スペシャ・SRAM・ボッシュらが続々離脱",
+        "layer1": "6/24開幕のユーロバイク2026は出展者約800と、2025年の1,500超から半減。シマノ、スペシャライズド、スコット、SRAM、ボッシュeBike、シュワルベらが不参加を決め、自転車業界の情報発信構造そのものが転換点を迎えている。",
+        "layer2": "2025年10月にドイツの主要業界団体が運営側との改革交渉決裂で支援を撤回。シマノは離脱理由に『来場者動線の変化、出展コストの上昇、ブランドとライダーのつながり方の変化』を挙げた。会場はOEM／日常モビリティと消費者向けを分けるコンパクトな新レイアウトに再編。背景には欧州の在庫過剰・需要冷え込みがある。『巨大展示会で新製品が一斉発表』という従来モデルが、各社の自前デジタル発表やD2Cへ分散——これは消費者が触れる製品の“出方”と価格にも効く構造ニュース。",
+        "sources": [
+          {
+            "t": "Bikerumor",
+            "u": "https://bikerumor.com/sneak-peek-2026-eurobike-trade-show-kicks-off-in-frankfurt/",
+            "d": "2026-06-23"
+          },
+          {
+            "t": "endurance.biz",
+            "u": "https://endurance.biz/2026/industry-news/eurobike-2026-reporting-around-800-exhibitors-for-34th-edition/",
+            "d": "2026-06-16"
+          }
+        ],
+        "status": "確定＝出展者数・離脱ブランドは複数媒体で一致。"
+      },
+      {
+        "id": "20260625-caad14-teamdream",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://chan-bike.com/wp-content/uploads/2026/06/moko0407_A_remarkably_detailed_cinematic_wide-angle_product_p_58af5950-d091-46aa-be09-186224e4618d_1.jpg",
+        "headline": "キャノンデール×Team Dream『CAAD14』国内わずか15本の抽選——稲妻グラフィックのアルミ最高峰が398,000円、6/30締切で争奪戦",
+        "layer1": "キャノンデールがLA拠点アパレル『Team Dream』と組んだCAAD14特別仕様フレームセットを発表。世界100本、国内はわずか15本の抽選販売。価格398,000円（税込）、申込は6/17〜6/30、当選発表7/3。各フレームにシリアル刻印＋限定キット付き。レトロな稲妻グラフィックがSNS映えし、X・個人ブログで『抽選参加報告』が拡散中。",
+        "layer2": "マサルへの示唆——『アルミ＝廉価』の常識が崩れ、刷新されたCAAD14は“趣味としてのアルミ”という新ジャンルを作りつつある。限定・抽選・シリアルという稀少性ドリブンの売り方は、値引き合戦に疲れた完成車ビジネスと対極で、利益率と話題性を両立させる導線。自店で抽選車を扱えなくても『CAAD14（通常フレームセット）を実車で見られる店』として来店フックに使える。値下がり一色の市場で“定価で売れる限定もの”は数少ない明るいネタ。※画像はブログのイメージ画像。実車写真は公式商品ページ推奨。",
+        "sources": [
+          {
+            "t": "Yahoo!ニュース（Cannondale／FUNQ配信）",
+            "u": "https://news.yahoo.co.jp/articles/5b27fc85786b2ff2f73f2dcb1faa55ee3e2372c1",
+            "d": "2026-06-16"
+          },
+          {
+            "t": "ロードバイクはやめられない（個人ブログ）",
+            "u": "https://chan-bike.com/cannondale-x-team-dream-caad14-frameset",
+            "d": "2026-06-17"
+          }
+        ],
+        "status": "確定＝台数15本・価格398,000円・申込期間は複数ソース一致。"
+      },
+      {
+        "id": "20260625-asahi-q1",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3195148019062026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=2f12ecc6bc51e56e4e4c32fdeca5137e",
+        "headline": "【経営メモ】あさひ3-5月期は増収減益——売上277億円(+3%)でも賃上げ・新店費用が利益を8%削る",
+        "layer1": "サイクルベースあさひ（3333）の2026年3-5月期単独決算は、税引き利益が前年同期比8%減の21億円。売上高は3%増の277億円、営業利益は5%減の30億円。電動アシスト・子供用は堅調だったが、賃上げに伴う人件費が8%増、新規出店の運営費・減価償却費も利益を押し下げた。",
+        "layer2": "マサルへの示唆——『増収・減益』は、需要そのものよりコスト（人件費・出店費）が利益を食う局面を示す。下田佳史社長は『計画線上』とし、メーカー・小売の撤退で競争が緩み子供用需要を取り込めた点に言及。ショップ経営には、(1)電アシ／キッズが粗利の下支え役、(2)賃上げ圧力は大手でも利益率を削る＝小規模店ほど人時生産性の管理が要、の2点が刺さる。大手の採算店重視の出店継続は地域の競争環境変化として要注視。※売上『277億円』は四半期単独値。",
+        "sources": [
+          {
+            "t": "日本経済新聞",
+            "u": "https://www.nikkei.com/article/DGXZQOUF19A610Z10C26A6000000/",
+            "d": "2026-06-22"
+          },
+          {
+            "t": "サイクルベースあさひ IR",
+            "u": "https://www.cb-asahi.co.jp/news/category/ir/",
+            "d": "2026-06"
+          }
+        ],
+        "status": "確定＝公開6/22・数値は日経原文ベースで確認。既出『あさひ通期最終減益』とは別の四半期続報。"
+      },
+      {
+        "id": "20260625-canyon-wbd-sale",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cyclejapan.club/wp-content/uploads/2026/05/Semn8R9DqASrtutZi8ii.png",
+        "headline": "【経営メモ】キャニオン、エアロード“恒久値下げ”に重ねて最大25%セール——客は『アルテDi2で79.9万』を新しい基準にし始める",
+        "layer1": "キャニオンが5月初旬にエアロードを最大21%恒久値下げ（Aeroad CF SLX 8 Di2が103.9万円→79.9万円、24万円ダウン）した上に、5/22〜6/9の『World Bicycle Day Sale』で値下げ後価格にさらに最大25%OFFを重ねた。直販（D2C）が国内の“相場観”を一段引き下げる動きで、ショップ完成車の同等スペックとの差が露骨に可視化された。",
+        "layer2": "マサルへの示唆——客は『キャニオンならアルテDi2エアロが79.9万』を新しいアンカー（参照価格）にして来店する。対抗は同じ土俵（価格）ではなく、フィッティング・即日メンテ・試乗・保証という“直販に無い価値”を商談の前段で言語化すること。上位CFRは値下げ幅が小さく、ハイエンド帯はまだ実店舗の納車サポートで戦える。セールは6/9で終了済みなので、『キャニオンを見て迷っている買い逃し層』は逆に取り込みのチャンス。",
+        "sources": [
+          {
+            "t": "サイクルジャパン",
+            "u": "https://cyclejapan.club/canyon-wcd-sale-2026may/",
+            "d": "2026-05-28"
+          },
+          {
+            "t": "Bicycle Club（funq）",
+            "u": "https://www.funq.jp/bicycle-club/article/1065332/",
+            "d": "2026-05-05"
+          }
+        ],
+        "status": "確定＝セール期間・値下げ事実は複数ソース一致。CFR値下げ率は※要裏取り。"
+      },
+      {
+        "id": "20260625-aozippu-earphone",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://alterlock.net/wp-content/uploads/2025/09/2026-traffic-law-roadbike-points-min.png",
+        "headline": "青切符で『ロード乗りが誤解しがちな点』が記事化——イヤホンは“片耳・骨伝導OK”に、スマホ固定ナビも『注視』で1.2万円",
+        "layer1": "盗難防止IoT『AlterLock』が、青切符制度（2026/4/1施行）でロード乗りが誤解しやすい点を整理。反則金はスマホ操作12,000円・信号無視6,000円・一時不停止5,000円。注目は『両耳をふさぐ形式がNG／片耳・骨伝導・オープンイヤーで周囲音が聞こえればOK』とイヤホン規定が明確化された点と、スマホをマウント固定していても『保持して注視』と判断されれば対象になる点。",
+        "layer2": "マサルへの示唆——施行2ヶ月、客の質問は『結局なにがアウト？』のフェーズへ。ロード乗りはビンディング・イヤホン・サイコン操作など固有の不安で困惑しがち。店頭で『骨伝導はOK』『ナビは停車して操作』と即答できれば信頼獲得＝骨伝導イヤホン・トップチューブバッグ・マウント周りの提案につながる。施行1ヶ月で2,147件交付（一時不停止846・ながらスマホ713・信号無視298）という“実際に切られ始めた”緊張感も補強材料。運用解釈は現場判断に幅があり※要裏取り。",
+        "sources": [
+          {
+            "t": "AlterLock（公式コラム）",
+            "u": "https://alterlock.net/ja/2026-traffic-law-roadbike-points",
+            "d": "2025-09"
+          },
+          {
+            "t": "JAF Mate Online",
+            "u": "https://jafmate.jp/car/traffic_topics_20260520_1199203.html",
+            "d": "2026-05-20"
+          }
+        ],
+        "status": "曖昧→確定混在＝反則金額・違反件数は確定。イヤホン／スマホ固定の運用解釈は※要裏取り。"
+      },
+      {
+        "id": "20260625-wax-vs-lube",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/3LzNWmssy6nqm8PT6gba9Q-810-80.jpg",
+        "headline": "チェーンはもう『注油』じゃなく『ワックス』？——2026年の論争、初中級者のリアルな損得勘定",
+        "layer1": "2026年も『ワックス vs 注油（オイル）』論争が続く。Cycling Weeklyは6/1公開のSilcaワックスシステム評で『手間に見合うか？』を正面から検証し、ワックスの摩擦損失の低さと駆動系の寿命延長を指摘した。",
+        "layer2": "ワックスの利点は実証済み——ホットメルトの摩擦損失は小さく、チェーン／カセットが汚れにくく寿命が延びる（W値・延長率は条件依存、※要裏取り）。一方で初中級者の本音は『面倒』。初回は工場グリス／旧オイルの完全脱脂が必要で、塗布は走行前夜が基本。結論の出し方は『速さオタクの選択』ではなく『掃除が嫌い・ドライブトレインを長持ちさせたい人の選択』と提示すると刺さる。入口は安価なドリップワックス、本格イマージョンは次段階の二段構え。雨・冬の泥なら湿式オイルを残す但し書きも忘れずに。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/reviews/workshop-tools-lubricants-and-cleaners/silca-waxing-system-review-worth-the-time-and-effort-or-more-faff-than-is-needed",
+            "d": "2026-06-01"
+          },
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/products/can-a-waxed-chain-really-make-you-faster-than-a-new-aero-frame-could-we-crunched-the-numbers-to-find-out-if-chain-waxing-is-worth-it-and-the-answer-might-surprise-you",
+            "d": "2025-08-13"
+          }
+        ],
+        "status": "確定＝主役は6/1記事。摩擦損失Wと寿命延長率は条件依存で※要裏取り。"
+      },
+      {
+        "id": "20260625-wider-tyres",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2026/02/pothole-woz.jpeg?w=1200",
+        "headline": "まだ25C・28C？——プロがルーベを32mmで走る2026年、初中級こそ30C/32Cで『速く・楽に』なる",
+        "layer1": "2026年のロードタイヤは『太いほうが速い』が定説化。BikeRadarの実走検証では『30mm超に変えて1年、もう細いタイヤには戻らない』と断言。HutchinsonはBlackbirdに32/34mm幅を追加し、独立試験で32mmは30mmより約5%速く転がるとされる（※メーカー由来、要裏取り）。",
+        "layer2": "『太い＝遅い・重い』は荒れた実路では逆。太いタイヤは低圧で使えて振動ロスが減り、巡航では空力ペナルティを相殺してむしろ速い場面が多い、というのが今の理解。初中級者への実利は『速さ』より先に快適さ・グリップ・パンク耐性。まず確認すべきは自分のフレーム／ブレーキの最大クリアランス（ディスク車は30C以上が入ることが多い）、次に空気圧——太くした分はしっかり下げないと恩恵が出ない。完璧な路面だけを走るなら細めが有利な場面も残るので『全員32cにしろ』ではない、という但し書きも添えると誠実。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/features/opinion/i-ve-been-riding-30mm-road-tyres-for-a-year",
+            "d": "2026-02-28"
+          },
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/hutchinson-adds-32mm-and-34mm-widths-to-blackbird-tyre-range",
+            "d": "2026-03-03"
+          }
+        ],
+        "status": "確定＝記事日付・画像確認済み。Hutchinsonの『32mmが5%速い』はメーカー主張で※要裏取り。"
+      },
+      {
+        "id": "20260625-disc-bedding",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2024/07/Silence-disc-brakes.jpg?w=1200",
+        "headline": "新車のディスクが『キーッ』と鳴く・効かない——多くは“アタリ出し”不足かも、初中級者の正しい慣らし方",
+        "layer1": "ディスクブレーキの鳴き・効きの甘さは、多くが『ベッドイン（アタリ出し）』不足か油分汚染が原因。新車・新パッド時は安全な場所で15〜20回、止まりきらずに減速を繰り返してパッド材をローターへ均一転写するのが基本とされる（BikeRadar解説）。",
+        "layer2": "陥りがちな順で整理。(1)鳴きの最多原因は油分汚染——チェーンオイル、洗浄スプレー、素手の脂までがパッド／ローターに付くと鳴く。作業時はグローブか無塵布を。(2)汚染したら清掃だけでは不十分でパッド交換が確実、ローターはディスク専用クリーナーかイソプロピルアルコールで。(3)キャリパーの擦れは『ボルトを緩め→レバーを握ったまま締め直す』セルフセンタリングで多くが解決。(4)ベッドインは新車／パッド交換のたびに必須——飛ばすと効きが弱く不均一な堆積で鳴きやすい。梅雨明けの整備需要に絡めて店頭で語れるネタ。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/advice/workshop/how-to-silence-disc-brakes",
+            "d": "2025-09"
+          },
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/advice/workshop/how-to-bed-in-new-disc-brake-pads",
+            "d": "2023-08"
+          }
+        ],
+        "status": "曖昧＝普遍ネタ。直近フックは弱め（新車シーズン・梅雨明け整備に絡める想定）。"
+      },
+      {
+        "id": "20260625-rear-radar",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2026/04/Garmin-rearvue-815-01Andy-Lloyd.jpeg?w=1200",
+        "headline": "夏ライドの後方レーダー、初心者こそ要る？要らない？——最新Varia RearVue 820で割れる評価を読み解く",
+        "layer1": "夏は交通量も増え、初心者がもっとも怖いのが『背後から来るクルマ』。後方レーダー（Garmin Varia等）は本当に効くのか、最新820世代のレビューを手がかりに、初中級者の使いどころを整理する。",
+        "layer2": "新型Varia RearVue 820は車両のサイズ・走行レーン・横移動まで判別し、約192mの検知範囲と60度の広角で脅威を段階表示する。レビューでは『レーダーは10年議論の余地なく有用な稀な製品』とする一方、『市街地はクルマが多すぎて鳴りっぱなしで意味が薄く、真価は峠の下りなど背後の音が聞こえない高速域』とも。初中級者向け実務：(1)まずは安価なRTL515系でも入門には十分、(2)過信は禁物でレーダーは“目視・ミラー・走行位置取り”の補助、(3)テールライト兼用なので夏の薄暮・トンネルの被視認性にも効く。猛暑対策（水分・塩分）とは別軸の『夏の安全＝対クルマ』テーマ。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/features/opinion/rearview-radar-lights-test-2026",
+            "d": "2026-05-30"
+          },
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/reviews/lights-reflectives/garmin-varia-rearvue-820-review-a-genuinely-next-gen-bike-radar",
+            "d": "2026-05"
+          }
+        ],
+        "status": "曖昧＝主役ソースが5/30で直近フックはやや弱い。普遍の安全ネタとして提示。"
+      }
+    ]
+  },
+  {
     "date": "2026-06-24",
     "greeting": "おはようございます、マサルさん！ 今朝の20本に、ツール直前の『人間ドラマ』とエントリー機材の続報を4本追加しました（合計24本）。パリ〜ルーベの聖地が火災、ポガチャルは家族最優先で高地合宿見送り、シマノCUESが油圧ドロップバー解禁——昨日今日の動きを底まで。",
     "cards": [
