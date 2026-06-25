@@ -1,5 +1,476 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-06-26",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、20本。ツール開幕まで9日、欠場と復活の人間ドラマが交錯しています。ユーロバイク2026は『値ごろ化』と素材戦争、国内はコスパ勢の価格破壊と超高級化が同時進行。今日のPICKは、敗血症一歩手前から走り出したファンアールトです。",
+    "cards": [
+      {
+        "id": "20260626-vanaert-sepsis",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/TxNKBKUeydYK6G89H5ZLWL-1200-80.jpg",
+        "headline": "敗血症の一歩手前だったファンアールト、ツール欠場——退院6日後に小児がん支援ライドで67km",
+        "layer1": "ヴィスマのワウト・ファンアールトが肘の傷の感染症で2026年ツール欠場。8年連続の出場が途切れた。トレーニング中の落車が発端だった。",
+        "layer2": "潜って分かったのは深刻さの度合い。チームのハイボアー曰く、月曜の傷の外科的洗浄がなければ敗血症（sepsis）の可能性があった（確定＝チーム関係者の証言）。本人は「トレーニングの落車が計画を狂わせた」とコメント。それでも退院から1週間足らずの6/21、地元ヘレンタルスの小児がん支援団体オリビア基金のチャリティーライドで67.6kmを平均30.6km/hで走り「またハンドルを握る最初の挑戦」と投稿した。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/wout-van-aert-could-have-contracted-sepsis-underwent-surgery-to-clear-infected-elbow-that-ruled-him-out-of-tour-de-france/",
+            "d": "2026-06-17"
+          },
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/first-attempt-to-hold-my-bars-again-wout-van-aert-rides-67km-days-after-infected-elbow-ended-tour-de-france-hopes",
+            "d": "2026-06-21"
+          }
+        ],
+        "status": "確定＝肘感染症によるツール欠場・敗血症リスク・チャリティーライド。曖昧＝今季後半の復帰時期は未確定"
+      },
+      {
+        "id": "20260626-onley-ravine",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/i59bjccv7mTafcwEFxm6Pi-1200-80.jpg",
+        "headline": "渓谷へ転落も木に救われたオンリー、肩の重傷でツール断念——昨年4位の23歳「打ちのめされた」",
+        "layer1": "ネットカンパニー・イネオスのオスカー・オンリー（23）が2026年ツール欠場。ツール・オーヴェルニュ＝ローヌ＝アルプ第6ステージの下りでガードレールを越えて渓谷へ転落していた。",
+        "layer2": "潜って分かった経緯。チームディレクターのG・トーマスは「左コーナーをわずかにオーバーし、渓谷へ落ちた。もっと悪い結果もあり得た」と証言（木立に阻まれ難を逃れた）。当初は脱臼とされたが、合宿でのリコン後の精密検査で『重大な肩の負傷』と判明し離脱が確定。昨年ツール総合4位の有望株は「今年スタートラインに立てず打ちのめされた。今はリハビリに集中する」とコメント。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/racing/im-gutted-oscar-onley-ruled-out-of-tour-de-france-with-shoulder-injury",
+            "d": "2026-06-25"
+          }
+        ],
+        "status": "確定＝肩の重傷でツール欠場・本人コメント。曖昧＝復帰時期は『励みになる進展』とのみで未確定"
+      },
+      {
+        "id": "20260626-vingegaard-himself",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/vBZPP7RmmEBr3kthafjAfg-1200-80.jpg",
+        "headline": "「やっと、あの頃の自分に戻れた」——落車と脳震盪の2年を越え、ヴィンゲゴーがツール直前に語った復活",
+        "layer1": "ツール開幕直前、ヴィスマのヨナス・ヴィンゲゴーが「数々の挫折の前の、あの頃と同じ自分にやっと戻れた」と語った。今季は無事故でパリ〜ニース、カタルーニャ、ジロを全て制し、ツールへ自信を深めている。",
+        "layer2": "潜って分かった『挫折』の中身。2024年イツリア・バスクの大落車で重傷を負い、2025年は脳震盪などで春〜初夏をほぼ棒に振った経緯がある。本人は「むしろ当時よりさらに強くなった自分だと感じる」と続け、5月のジロ制覇（史上8人目の3大ツール完全制覇）が確信の裏付けに（確定＝本人コメント・今季戦績）。ポガチャルを3年ぶりに破れるかが最大の焦点だが、勝敗は当然これからの話（曖昧＝ツール本番の結果）。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/i-feel-like-im-an-even-stronger-version-than-i-was-jonas-vingegaard-backs-himself-for-tour-de-france-success-after-setback-free-run-up-to-july/",
+            "d": "2026-06-24"
+          },
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/finally-i-feel-like-im-the-same-person-i-was-as-before-vingegaard-believes-he-can-win-tour-de-france-ahead-of-pogacar-showdown",
+            "d": "2026-06-24"
+          }
+        ],
+        "status": "確定＝本人の『元の自分に戻れた』発言・今季無敗の戦績・過去の落車/脳震盪。曖昧＝ツール本番の成績は未来の話"
+      },
+      {
+        "id": "20260626-bosoni-divide",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://bikepacking.com/wp-content/uploads/2026/06/Victor-Bosoni-2026-Tour-Divide-Winner_1.jpg",
+        "headline": "ホルモン疾患でロード断念した24歳ボゾーニ、ツール・ディバイド記録を1日半短縮——毎晩8時間休んで",
+        "layer1": "フランスのヴィクトル・ボゾーニ（24）が全長約4,418kmの過酷なバイクパッキングレース、ツール・ディバイドを11日8時間27分で制覇。2024年の従来記録を1日17時間49分も更新した。",
+        "layer2": "潜って分かった人間ドラマ。ボゾーニは2022年に遺伝性のテストステロン異常低下と診断されロードレース継続を断念、ウルトラ路線へ転向していた経歴を持つ。今回は『睡魔と戦う』通説に反し毎晩約8時間（睡眠5時間＋食事・整備3時間）を確保し、2位ラウレンス・テン・ダムに約375マイル差をつける圧勝。「よく食べ、よく眠れば、本当に良い一日になる」と語った。2025年トランスコンチネンタル最年少優勝、2026年アトラス・マウンテン・レース覇者でもある。",
+        "sources": [
+          {
+            "t": "BIKEPACKING.com",
+            "u": "https://bikepacking.com/plog/victor-bosoni-wins-the-2026-tour-divide/",
+            "d": "2026-06-23"
+          },
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/news/cycling-live-blog-24-june-2026",
+            "d": "2026-06-24"
+          }
+        ],
+        "status": "確定＝ツール・ディバイド新記録・睡眠戦略・経歴。曖昧＝記録時間は媒体間で数分の差（27分/37分）あり要確認"
+      },
+      {
+        "id": "20260626-longoborghini-home",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.sanity.io/images/iocd9e4k/production/7d89342c0feba36bd1db4a3589412a4aeb746d26-1920x1280.jpg?w=1200&auto=format&q=80&fit=max",
+        "headline": "長い病から戻ったロンゴボルギーニ、地元ヴェルバーニア近くで独走勝利——家族の前でマリアジャッラ",
+        "layer1": "イタリア王者エリーザ・ロンゴボルギーニがツール・ド・スイス女子第2ステージを独走で制し、総合首位の黄色いジャージを獲得。最後の登りでアタックを決めた。",
+        "layer2": "潜って分かった舞台と物語。アタックは自宅のあるヴェルバーニアから25km圏内で、家族や友人が見守る前での勝利だった。長期の体調不良に苦しんだ彼女にとって、ジロ・ドンネ最終日の好走に続く『勝利以上の意味を持つ復活』の一歩。本人は「謙虚に、働き続ける」「黄色を着るのは自分にもチームにも大きな誇り」と語った。総合はその後ロイサーが逆転（曖昧＝この日時点では首位、最終総合はロイサー）。",
+        "sources": [
+          {
+            "t": "Velora Cycling",
+            "u": "https://veloracycling.com/news/longo-borghini-wins-tour-de-suisse-stage-2026",
+            "d": "2026-06-18"
+          }
+        ],
+        "status": "確定＝地元近くでの独走ステージ勝利・病からの復活・本人コメント。曖昧＝最終総合はロイサーが制覇（この勝利はステージ＆一時的首位）"
+      },
+      {
+        "id": "20260626-deore-m7200-mech",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2026/06/677574-Shimano_DEORE-M6200-Mech-M6200_On-Bike_KFickling_2026_043-a0c9c6-original-1780038083.jpeg?w=1200",
+        "headline": "シマノ、機械式12速の中核「Deore M7200/M6200」発表——廉価帯に新リアメカ",
+        "layer1": "ユーロバイク開催週の6/15、シマノが新型Deore（M7200/M7230/M6200）を発表。XT M8200より下のミドル〜エントリー帯を機械式12速で刷新し、新リアディレイラーを投入した。",
+        "layer2": "上位のM7200/M7230は新設計の「Shadow ES」リアメカでスプリング張力を約70%強化し薄型化、岩などへのヒット耐性を向上。M6200は従来のShadow+クラッチを継続するコスト重視構成。10-51Tワイドレシオ、Hyperglide+、Servo Wave油圧ブレーキ、直付けスチールチェーンリングを採用。先行のXT M8200（既出）と同系思想を価格帯を下げて展開する位置づけ。価格は記事内では非開示。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/2026-shimano-deore-m7200-and-m6200-groupsets",
+            "d": "2026-06-15"
+          }
+        ],
+        "status": "確定＝新型Deore M7200/M6200の発表・主要仕様。曖昧＝価格は未発表（※要裏取り）。"
+      },
+      {
+        "id": "20260626-carbonova-cc-rotor",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/06/DSC_5994.jpg",
+        "headline": "カーボンセラミック製ローター「Carbonova MK-26」——160mmで約74g、フェード激減を主張",
+        "layer1": "ユーロバイク2026・2日目（6/25）の取材で、中国Carbonovaがスーパーカー由来のカーボンセラミック製ディスクローターを展示。140mm/160mmセンターロックを用意。",
+        "layer2": "公称重量は140mm＝62.58g、160mm＝73.50g。スチール製比で1枚あたり約100g軽量とされ、長い高速ダウンヒルでのブレーキフェード低減を訴求（ブースではダイナモでシマノ鋼ローターとの発熱差を実演）。専用パッドとセット。用途はロード/グラベル向け。既出の『シマノ2.2mmローター』とは別系統（カーボンセラミック素材）。価格は約279ドル（メーカー直販ページでは品切れ表示）。",
+        "sources": [
+          {
+            "t": "Velo (Outside)",
+            "u": "https://velo.outsideonline.com/road/road-gear/eurobike-2026-tech-roundup-day-2/",
+            "d": "2026-06-25"
+          },
+          {
+            "t": "Carbonova（製品ページ）",
+            "u": "https://www.carbonova.cn/products/carbonova-carbon-ceramic-brake-discs",
+            "d": "2026-06-25"
+          }
+        ],
+        "status": "確定＝ユーロバイク展示・公称重量・素材。曖昧＝発熱低減の実数値、量産供給状況（直販は品切れ・※要裏取り）。"
+      },
+      {
+        "id": "20260626-canyon-luxera-biplane-bar",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://bikerumor.com/wp-content/uploads/2026/06/Canyon-Lux-Era-aero-XC_32-inch-concept-cross-country-bike-with-biplane-wing-handlebar.jpg",
+        "headline": "キャニオン『Lux Era』が複葉（バイプレーン）翼型ハンドルを披露——XCにも空力の波",
+        "layer1": "6/22、キャニオンがコンセプトバイク「Lux Era」を公開。二段構えの『バイプレーン』エアロハンドルが主役で、通常のワイドグリップに加え、フォーククラウン付近に低く構えるエアログリップを併設する。",
+        "layer2": "キャニオンは過去10年でXCの平均速度が約33%（18→24km/h）上がったとし、空力最適化の必要性を主張。尖頭ヘッドチューブ、トップチューブ内蔵リアショック、逆さ細クラウンフォーク、トップキャップ一体ディスプレイなども盛り込む。車輪は32インチ（フロント周りが従来29erより約7cm高い）。UCI認可は未取得で、現状はあくまでコンセプト。",
+        "sources": [
+          {
+            "t": "Bikerumor",
+            "u": "https://bikerumor.com/canyon-lux-era-aero-32-concept-xc-bike-with-biplane-wing-handlebar/",
+            "d": "2026-06-22"
+          }
+        ],
+        "status": "確定＝コンセプト発表・ハンドル構造・狙い。曖昧＝市販化時期・重量・空力実数値は未提示（コンセプト段階・※要裏取り）。"
+      },
+      {
+        "id": "20260626-reynolds-damping-rim",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://www.ciclonline.com/images/stories/fbici20262/eurobike-2026-report.jpg",
+        "headline": "レイノルズ、振動吸収を狙う新編み込みカーボンリムを出展（ユーロバイク2026）",
+        "layer1": "ユーロバイク2026のライブレポート（6/25）で、Reynoldsが特殊な織り（weave）でロードの微振動をより吸収すると謳う新カーボンリムを披露。グラベル/オールロード方向の快適性トレンドに沿う一手。",
+        "layer2": "今回のショーは出展面積が前年比およそ35%と縮小し、大手不在の中で『振動吸収カーボン』『クロスウインド対策（DTスイスARC 1100のラジアル系）』など素材・形状の差別化が目立った。Reynoldsの新リムは編み構造で乗り味（コンプライアンス）を作る点が要点だが、重量・幅・価格・実測の振動低減値は現時点で未開示。",
+        "sources": [
+          {
+            "t": "Cyclonline（ライブレポート）",
+            "u": "https://www.cyclonline.com/125-eurobike-2026-frankfurt-news/4380-eurobike-2026-live-report-all-the-tech,-bike,-and-accessory-innovations",
+            "d": "2026-06-25"
+          }
+        ],
+        "status": "曖昧＝ショー出展の速報レベル。リム諸元・価格・振動低減の実数値はいずれも未提示（※要裏取り）。"
+      },
+      {
+        "id": "20260626-lightbicycle-anax32",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2026/02/LightBicycleAnax32_IMG_0330-scaled.jpg?w=1200",
+        "headline": "ライトバイシクル「Anax32」——32インチでも軽い、約1,499gのカーボンXC/グラベルホイール",
+        "layer1": "ユーロバイク2026初日（6/24）のPinkbike取材で、Light Bicycleが32インチ・カーボンの「Anax32」を出展。同社はグラベル用32インチ（内幅30mm、約1,331g・約1,380ドル）も展示し、32erの実用化を後押しした。",
+        "layer2": "XC版Anax32はフックレスのカーボンリムで1本380g（最小構成のセット重量はDTスイス240 EXP+アルミニップルで約1,499g、ヘビーデューティ420g版は体重150kgまで対応）。内幅30mm、価格は約1,464ドル〜（5年保証、+100ドルで無償保証延長）、ハブはDTスイス/I9/Hope/Chris King等から選択のフルカスタム。既出の『32インチ車輪論争』『リザーブ30|XC』とは別個の製品で、量産フックレス32erの具体例として注目。",
+        "sources": [
+          {
+            "t": "Pinkbike（Jessie-May's Day 1 Randoms）",
+            "u": "https://www.pinkbike.com/news/jessie-may-day-1-randoms-eurobike-2026.html",
+            "d": "2026-06-24"
+          },
+          {
+            "t": "BikeRadar（製品詳細）",
+            "u": "https://www.bikeradar.com/news/lightbicycle-anax32-xc-32in-wheels",
+            "d": "2026-02-09"
+          }
+        ],
+        "status": "確定＝ユーロバイク出展（6/24・主役は会期内）と製品諸元。注記＝詳細諸元の出典BikeRadarは2/9付（製品自体の初出は会期前。※鮮度は会期内のPinkbike取材を主役として担保）。"
+      },
+      {
+        "id": "20260626-eurobike-pause-cologne",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://www.bikeradar.com/resources/content/32337f2f-7841-4ef6-a233-d1f001580530/41ecea9a-0002-4cc8-b684-078f79e6ec43/a02a687a-07f9-4a06-a3df-44df67977eba/eurobike-2026-flags.jpg?preview=false&platform=WEB&deviceId=98bdc039-dd0c-4e36-8794-20088b52c95c&w=1200",
+        "headline": "ユーロバイク、2028年は「開催せず」——2027年以降は隔年開催へ。ケルンで対抗見本市も始動",
+        "layer1": "ユーロバイク主催側は、2027年はフランクフルトで9月に会場を移して開催した後、2028年を休止し、2029年に再開。以後は隔年開催に移行すると発表した（6/25報道）。一方、ドイツ自転車工業会ZIVは離脱の末、ケルンで新見本市『Towards Tomorrow – European Bike Show』(2027/9/6-8)を立ち上げ、ユーロバイク(同9/1-4)の直後に対抗開催する。",
+        "layer2": "潜って確認できたこと：これは単なる『規模縮小』ではなく、ドイツ業界団体(ZIVおよびZukunft Fahrrad)の離脱を契機にした見本市の構造再編。主催側は『対面の人脈・取引先訪問が依然重要』との市場調査を根拠に隔年化を正当化し、ZIVは『業界による、業界のための』B2B特化を掲げて差別化を図る。確定＝隔年化と2028休止、ケルン新見本市の日程。曖昧＝両者がどこまで出展ブランドを奪い合うか、新見本市が『世界基幹見本市』として定着するかは未知数。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/eurobike-to-pause-in-2028",
+            "d": "2026-06-25"
+          },
+          {
+            "t": "Bicycle Retailer and Industry News",
+            "u": "https://www.bicycleretailer.com/announcements/2026/06/23/first-european-bike-show-take-place-cologne-2027",
+            "d": "2026-06-23"
+          }
+        ],
+        "status": "確定＝ユーロバイク2028休止・隔年化、ケルン新見本市Towards Tomorrow(2027/9/6-8)の立ち上げ/曖昧＝出展ブランドの奪い合いの行方、新見本市の定着度（※要裏取り）"
+      },
+      {
+        "id": "20260626-eurobike-value-shift",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://bikerumor.com/wp-content/uploads/2026/06/welcome-to-Eurobike-2026-teaser.jpg",
+        "headline": "ユーロバイク2026は「値ごろ化」が裏の主役——油圧ディスク・12速がエントリー帯まで降りてきた",
+        "layer1": "開催中のユーロバイク2026(6/24-27)の現地リポートによれば、不況で高価格化が続いた反動として、エントリー〜ミドル帯の充実が今年の目立つ流れに。Shimanoの新型CUES（9速油圧U4030）を積んだ手頃なバイクが大量に並び、ロードでも2,000ポンド/ドル以下の価格帯が最激戦区になっている。",
+        "layer2": "潜って確認できたこと：これは単なる安売りではなく、上位グループセット由来の技術が下位へ降りる『トリクルダウン』。2,000以下でも12速・油圧ディスク・エンデュランス系ジオメトリが成立し、E-MTBでもAvinox搭載・800Whの入門機が約3,999ユーロから登場している。確定＝CUES油圧の普及と入門帯の価格性能改善は現地で確認済み。曖昧＝『値ごろ化＝需要回復』ではない点に注意。複数リポートが、価格環境は2023-24年より改善も、利益率拡大を伴う本格的な需要主導の回復には至っていないと釘を刺す（※要裏取り）。",
+        "sources": [
+          {
+            "t": "Cyclonline（Eurobike 2026ライブリポート）",
+            "u": "https://www.cyclonline.com/125-eurobike-2026-frankfurt-news/4380-eurobike-2026-live-report-all-the-tech,-bike,-and-accessory-innovations",
+            "d": "2026-06-25"
+          },
+          {
+            "t": "Bikerumor（Eurobike 2026 sneak peek）",
+            "u": "https://bikerumor.com/sneak-peek-2026-eurobike-trade-show-kicks-off-in-frankfurt/",
+            "d": "2026-06-23"
+          }
+        ],
+        "status": "確定＝CUES油圧の普及・入門帯の価格性能改善（油圧ディスク/12速のトリクルダウン）は現地で確認/曖昧＝『値ごろ化＝需要回復』ではなく、利益率を伴う本格回復には至っていない（※要裏取り）"
+      },
+      {
+        "id": "20260626-eu-market-reset",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://vmn-bike-eu.imgix.net/uploads/2026/06/bike-europe-om-43-2026-market-reports.jpg?auto=compress%2Cformat&q=50&w=1920&h=1080&fit=crop",
+        "headline": "欧州自転車市場は「リセット」局面へ——英国は2020年以来の初プラス、国ごとに明暗くっきり",
+        "layer1": "Bike Europeの市場リポート(6/12、6/16更新)によれば、欧州の自転車市場は『リセット』段階に入り、回復の足取りは国ごとに大きく割れている。英国は2020年以来初の成長、ベルギーはリース制度・E-bike・通勤需要で堅調。一方でイタリアは販売減で専門店が苦境、オランダは7%減と地域差が鮮明。",
+        "layer2": "潜って確認できたこと：これは一律の『回復』でも単純な『不況』でもなく、過剰在庫の解消が最悪期を脱した一方、需要が本格回復のペースに届かない『まだら模様の正常化』。ドイツ・スペインはE-bike中心に売上が安定、ベルギーはリース主導で例外的に拡大。販売店の50%が旧モデル在庫の滞留を指摘し、E-bike大手2社が依然減収。確定＝英国の初プラス、ベルギー堅調、伊・蘭の落ち込みという地域分裂。曖昧＝本格的な需要再点火の時期は未確定。",
+        "sources": [
+          {
+            "t": "Bike Europe",
+            "u": "https://www.bike-eu.com/52559/europes-bicycle-market-begins-reset",
+            "d": "2026-06-12"
+          }
+        ],
+        "status": "確定＝在庫リセット進行と国別の明暗（英国初プラス・ベルギー堅調・伊蘭は減）/曖昧＝需要の本格回復時期は未確定（※要裏取り）"
+      },
+      {
+        "id": "20260626-derosa-idol-japan-order",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://whoo.jp/wp-content/uploads/2026/06/IMG_8857-1024x768.jpg",
+        "headline": "デローザ新型IDOL、国内で『セミオーダー×戦略価格』攻勢——取扱店が続々デモ試乗会",
+        "layer1": "デローザの代表モデルNEW IDOLが国内で勢いづいている。105 Di2完成車748,000円〜と高級ブランドにしては戦略的価格で、サイズ・カラー・コンポ・ハンドル幅・ステム長を選べる『THE CHOICE IS YOURS』のセミオーダー制を採用。今週は新規取扱店whoo（6/13-14デモ試乗）やファーストバイクス（東京・6/20-28展示試乗）など、各地のショップが実車試乗会を相次ぎ開催中。",
+        "layer2": "マサルへ：高級輸入ブランドが『吊るしの完成車』ではなく『その場でフィット最適化できる注文制＋抑えめ価格』で勝負してきたのが要点。GUSTO等のコスパ勢が下から攻める中、ミドル〜ハイは『選ぶ楽しさ＋採寸・組み立ての店頭価値』で差別化する流れ。デモバイク試乗会は実店舗にしかできない最強の来店トリガーで、自店でも『試乗→セミオーダー受注』の導線を作れるかが分かれ目。",
+        "sources": [
+          {
+            "t": "whoo bicycles（新規取扱・デモ試乗会告知）",
+            "u": "https://whoo.jp/2026/06/13/6903/",
+            "d": "2026-06-13"
+          },
+          {
+            "t": "DE ROSA JAPAN（NEW IDOL完成車 価格・THE CHOICE IS YOURS）",
+            "u": "https://www.derosa.jp/products/new-idol-complete",
+            "d": "2026-06-13"
+          },
+          {
+            "t": "Bicycle Club（新型IDOL 戦略価格コンセプト）",
+            "u": "https://www.funq.jp/bicycle-club/article/1018662/",
+            "d": "2025-06-27"
+          }
+        ],
+        "status": "確定＝新規取扱店のデモ試乗会6/13-14・各地での試乗展開は店舗ブログ（6/13公開）ベース、価格748,000円〜/836,000円とセミオーダー仕様はデローザ公式記載。曖昧＝ファーストバイクス6/20-28の会期は検索スニペット由来で一次裏取り未確認のため補足扱い。"
+      },
+      {
+        "id": "20260626-ysroad-summersale",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://portal.ysroad.co.jp/news/ysroad/260511cyclist_cp/ouen.jpg",
+        "headline": "【経営メモ】ワイズロード、サマーセール6/30始動——完成車最大60%OFFの値引き攻勢",
+        "layer1": "国内最大級のワイズロードが『サイクリスト応援キャンペーン』（店頭5/16〜6/28、最大28,000pt還元）の感謝企画として、6/30 20時よりオンラインSUMMER SALEを開催と告知。例年クロスバイク20%OFF〜、最新ロードは最大60%OFF、小径・折りたたみも対象。",
+        "layer2": "マサルへ：大手のセールは6月末〜夏に前倒しの傾向。客は『あと数日待てばワイズで割引』を知っている。同じ車種で正価勝負は厳しい。整備保証・即納在庫・トラブル時の駆け込み対応など『近所のプロショップにしか出せない価値』を明示し、値引き直接対抗ではなくサービス差で囲い込む。セール期間中の試乗・相談だけでも来店動機になる。",
+        "sources": [
+          {
+            "t": "ワイズロード サイクリスト応援キャンペーン",
+            "u": "https://portal.ysroad.co.jp/news/ysroad/260511cyclist_cp/",
+            "d": "2026-05-11"
+          },
+          {
+            "t": "ワイズロードオンライン サマーセール特設",
+            "u": "https://online.ysroad.co.jp/shop/pages/summersale.aspx",
+            "d": "2026-06-25"
+          }
+        ],
+        "status": "確定＝サイクリスト応援CP期間（〜6/28）はワイズ公式記載。曖昧＝サマーセール6/30開始・最大割引率は公式告知文＋例年実績ベースで、2026年版の正式プレスは未確認（割引率は前年踏襲の見込み）。"
+      },
+      {
+        "id": "20260626-gusto-cospa-hakai",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://chibacycle.com/apps/wp-content/uploads/2025/11/gusto-gtr-pro-600x440.jpg",
+        "headline": "【経営メモ】台湾コスパ勢GUSTOに国内で受注殺到——『70万円級スペックが46万円』が価格破壊",
+        "layer1": "自社工場を持つ台湾発GUSTOが国内で『話題のニューネーム』化。GTR SPORT TE（105 Di2・油圧ディスク）が税込466,000円で、ショップ側も『通常このスペックは70万円』と評価。デュラエース搭載GTR MAXは受注一時停止になるほどの人気。各地の試乗会も活況（6/28にニコー製作所でANCHOR×GUSTO合同試乗会など）。",
+        "layer2": "マサルへ：WINSPACE等の『中華カーボン2.0』に続き、台湾コスパ勢が王道ブランドの実質半額〜2/3で同等コンポを当ててくる。完成車マージンでの勝負は年々苦しくなる構図。コスパ機を『仕入れて売る』か、組み・フィッティング・アフターで稼ぐ業態へ寄せるかの判断時期。試乗会を集客フックにする手は実店舗の強みが活きる。",
+        "sources": [
+          {
+            "t": "ちばサイクル（GUSTO GTR/COBRA評判・価格）",
+            "u": "https://chibacycle.com/blog/index.php?category=arrival&store=sagamiono&p=51996",
+            "d": "2026-05-10"
+          },
+          {
+            "t": "ニコー製作所 ANCHOR×GUSTO合同試乗会告知",
+            "u": "https://www.niko758.com/anchor_gusto_quoc_minoura_26/",
+            "d": "2026-06-16"
+          }
+        ],
+        "status": "確定＝GUSTO価格・スペック・受注停止はショップ記事ベース、合同試乗会6/28は店舗公式告知。曖昧＝『70万円相当』はショップ社長の主観インプレ。"
+      },
+      {
+        "id": "20260626-pinarello-lv-dogma",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bikenewsmag.com/wp-content/uploads/2026/06/cocoparisienne-magazine-250069.jpg",
+        "headline": "ルイ・ヴィトン×ピナレロの世界に1台『ドグマF』がパリコレ登場——高級化の象徴に",
+        "layer1": "Xで話題。パリ・メンズファッションウィークで、ルイ・ヴィトンとピナレロが共作した世界に1台のDOGMA Fが披露（ランウェイでは肩担ぎで実走なし）。LVブラウン×ブラック、専用レザーサドル。かつてLVMHがピナレロ株を保有した縁。日本のローディーの間でも『自転車がついにファッションの小道具』『行き着く先がこれか』と賛否。",
+        "layer2": "マサルへ：コスパ勢の価格破壊（前カード）と真逆の『超高級化』が同時進行＝市場の二極化を象徴。ハイブランド文脈はロードバイクの世間的注目を上げる一方、競技志向の常連には響かない。話題のネタとして店頭・SNSで触れつつ、自店の主役はあくまで『乗って楽しむ実用価格帯』だと客に再認識させる材料に使える。",
+        "sources": [
+          {
+            "t": "Bike News Mag",
+            "u": "https://bikenewsmag.com/2026/06/25/louis-vuitton-unveils-a-one-of-a-kind-pinarello-dogma-f-at-paris-fashion-week/",
+            "d": "2026-06-25"
+          }
+        ],
+        "status": "確定＝LV×ピナレロ世界1台のパリコレ披露・仕様はBike News Mag報道ベース。曖昧＝日本のローディーの賛否は高級化トレンドへの一般的反応を要約（※Xで話題、要裏取り）。グローバル発の話題で国内市場色は弱め。"
+      },
+      {
+        "id": "20260626-denki-keitai-pump",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://lovecyclist.me/wp-content/uploads/2024/07/cycplus-as2.002.jpeg",
+        "headline": "パナレーサーも参入——初パンク対策、CO2ボンベから『電動携帯ポンプ』へ乗り換える人が増加中",
+        "layer1": "国内タイヤ大手パナレーサーが初の電動携帯ポンプ『P-pump』を投入し、約97gのCYCPLUSなど超小型モデルと競合。出先のパンク復旧手段が、使い切りのCO2ボンベから充電式の電動ポンプへ移りつつある。",
+        "layer2": "CO2は速いが1本使い切り＆失敗するとガス切れの不安があり、初心者が現場で焦りやすい。電動ポンプは満充電で700×25Cを約2本ぶん入れられ、ボタンを押すだけで指定空気圧近くまで自動充填、ボンベ買い足しコストもゼロ。一方で水濡れ・バッテリー切れに弱く、価格は手動の4〜5倍。実用解は『電動ポンプ＋予備チューブ＋タイヤレバー』、または安心重視で電動と手動の併携帯。まず1台なら表示なしの廉価モデル（P-pump／CYCPLUS AS2クラス）で十分。",
+        "sources": [
+          {
+            "t": "でらサイクル（P-pumpレビュー）",
+            "u": "https://tachi51.com/ppump/",
+            "d": "2026-03-09"
+          },
+          {
+            "t": "LOVE CYCLIST（CYCPLUS AS2レビュー）",
+            "u": "https://lovecyclist.me/cycplus-as2-review/",
+            "d": "2025-07-03"
+          },
+          {
+            "t": "マイベスト 携帯ポンプ ランキング",
+            "u": "https://my-best.com/7638",
+            "d": "2026-06-25"
+          }
+        ],
+        "status": "確定＝パナレーサーP-pumpの存在・約140g（ケース込）・廉価帯、CYCPLUS約97gの仕様はレビュー各記事で一致。曖昧＝『CO2離れが進む』はランキング上位に電動が並ぶ傾向からの推測で統計値ではない（※市場シェアは要裏取り）。"
+      },
+      {
+        "id": "20260626-saddle-zakotsu",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://images.cyclehack.jp/wp-content/uploads/2024/02/pixta_89584727_M.jpg",
+        "headline": "夏の距離が伸びる前に——お尻の痛みは『坐骨幅』で大半が決まる、サドル選びの順番",
+        "layer1": "日が長く走行距離が伸びる夏前に、初中級者の定番悩み『お尻の痛み』を解消する手順が改めて整理されている。鍵は高価なサドルより、自分の坐骨幅に合った幅選び。",
+        "layer2": "痛みの原因の多くは『姿勢に慣れていない』か『サドル幅が坐骨に合っていない』のどちらか。坐骨幅より狭いサドルだと骨ではなく柔らかい部分に荷重がかかり、しびれ・痛みに直結する。順番は①ショップで坐骨幅を計測→②乗車スタイルに合う幅・形状を選ぶ→③高さ・前後・角度を微調整、の後にレーパン（パッド付き）やサドルカバーを足す。先にカバーやゲルだけ試して根本がズレたまま、が初心者の典型的な遠回り。慣れには2〜4週間、徐々に距離を伸ばすのが安全。",
+        "sources": [
+          {
+            "t": "CYCLE HACK（サドルおすすめ18選）",
+            "u": "https://cyclehack.jp/168",
+            "d": "2026-05-12"
+          },
+          {
+            "t": "マイベスト サドル ランキング",
+            "u": "https://my-best.com/6491",
+            "d": "2026-06-25"
+          },
+          {
+            "t": "Bike Plus（サドルの選び方）",
+            "u": "https://bike-plus.com/blogs/blog/how-to-choose-saddle",
+            "d": "2025-11-04"
+          }
+        ],
+        "status": "確定＝『坐骨幅に合わせてサドル幅を選ぶ』『痛みの主因は姿勢未習熟かサドル不適合』『慣れに2〜4週間』は複数媒体で一致。曖昧＝定量根拠は弱く本文は『多くは』表現で統一（※強調値は要裏取り）。"
+      },
+      {
+        "id": "20260626-first-binding-pedal",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://images.cyclehack.jp/wp-content/uploads/2023/08/44657776915_3bbdc8a08b_c.jpg",
+        "headline": "夏に距離を伸ばす前に——初ビンディングは『SPD-SLより先にSPD』が立ちゴケしにくい理由",
+        "layer1": "走行距離が伸びる夏は、フラットペダルからビンディングへ移行する初中級者が増える時期。最初の一足を巡って、ロード定番のSPD-SLよりまずSPDという選び方が改めて勧められている。",
+        "layer2": "SPD-SLは固定面が広く効率は高いが、足をしっかりひねらないと外れず、信号待ちなど咄嗟の場面で焦って立ちゴケしやすい。SPDはクリートが小さく着脱がスムーズで、歩きやすく、停車の多い街乗り・輪行・観光地でも安心。失敗を減らす実践策は、(1)ペダルのテンション調整ネジを最弱にする、(2)壁やローラー台で『はめる→かかとを外側にひねって外す』を反復、(3)発進前に必ず外す側の足を決めておく。慣れたらSPD-SLへステップアップでも遅くない。最初からSPD-SLで立ちゴケして苦手意識、が典型的な遠回り。",
+        "sources": [
+          {
+            "t": "CYCLE HACK（ビンディングペダル22選）",
+            "u": "https://cyclehack.jp/203",
+            "d": "2026-02-16"
+          },
+          {
+            "t": "Specialized 仙台泉（SPDとSPD-SLの違い）",
+            "u": "https://specialized-store.jp/sendai-izumi/blog/9738/",
+            "d": "2025-08-09"
+          },
+          {
+            "t": "にしきのサイクリングBLOG（SPD立ちゴケ回避 体験談）",
+            "u": "https://nishiki-cycling.com/option_binding-pedal-2/",
+            "d": "2024-09-01"
+          }
+        ],
+        "status": "確定＝SPDは着脱がスムーズで初心者向き／SPD-SLは固定力が高く立ちゴケしやすい、テンション調整・壁/ローラー台での練習が有効、は複数媒体で一致。曖昧＝にしきのBLOGの公開日は概算（※d=2024-09は要裏取り、主役はCYCLE HACK/Specializedで担保）。"
+      }
+    ]
+  },
+  {
     "date": "2026-06-25",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ20本。ユーロバイクが『変速機の死』を突きつけ、ツール直前は負傷と選考のドラマが連鎖、国内はCAAD14抽選とあさひ四半期決算まで——昨日今日の動きを底まで潜りました。",
     "cards": [
