@@ -1,5 +1,486 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-06-27",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、20本。ツール開幕（7/4バルセロナ）まであと7日、各国選手権ウィークで明暗がくっきり——欠場と引退、そして再起の物語が交錯しています。機材はユーロバイク2026の潮流（カーボンスポーク・厚ローター・32インチ・ワイドタイヤ）、国内は専門店の再編と横並び値下げ、そしてツール観戦商戦の立ち上がり。今日のPICKは、どん底から最後のツールへ向かう37歳イサギレの幕引きの物語です。",
+    "cards": [
+      {
+        "id": "20260627-izagirre-finaltour",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-06%2Fion-izagirre-1263678178.jpg",
+        "headline": "イサギレ、最後のツールへ——『路頭に迷う自分を想像した』どん底からの再起",
+        "layer1": "コフィディスのイオン・イサギレ（37）が、引退を決めた今季最後のツール・ド・フランスを前に心境を吐露。プロ16〜17年のキャリアで、2024年には『路上に放り出される自分を思い描いた瞬間さえあった』と、職を失う恐怖と向き合った時期を振り返った。",
+        "layer2": "2024年は結果が出ず自信を失い、グルペットで過ごす苦しいシーズンだった。しかし2026年は『体の調子が良く、噛み合ってきて、結果も出ている』とキャリア最良の充実期を迎え、最後のグランツールへ臨む。引退は1レース限りではなく、家族と過ごすため、故郷オルマイステギで毎年10月25日に開かれるシクロクロスでキャリアを締めくくる計画。ベテランの再起と幕引きの物語が核。発言・引退計画は本人コメントとして確定、ただし最終的なツール出場は最終メンバー確定待ち。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/ion-izagirre-ahead-of-his-final-tour-de-france-there-was-a-moment-when-i-thought-id-be-out-of-a-job",
+            "d": "2026-06-24"
+          }
+        ],
+        "status": "確定＝イサギレが今季限りで引退、最後のツールへ向け心境を語る。曖昧＝ツール最終メンバー入りは選考確定待ち（※要裏取り）"
+      },
+      {
+        "id": "20260627-landa-out",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2024-08%2Fmikel-landa-vuelta-1179602537.jpg",
+        "headline": "ミケル・ランダ、骨盤骨折からの復帰ならず——スーダル選外でツール断念",
+        "layer1": "6月26日、スーダル・クイックステップの最終8人からミケル・ランダが外れたことが判明。今季の最大目標だったツール・ド・フランスを、イツリア・バスクで負った骨盤骨折からの回復不足で逃した。",
+        "layer2": "ランダはこの骨折でジロ・デ・イタリアも欠場。6月17日のツール・ド・スイスで実戦復帰しフィットネスを試したが、唯一の本格山岳ステージとなる最終日にリタイアし、3週間のグランツールに耐える登坂力が戻っていないことが裏付けられた。スーダルはバレンタン・パレペントルやイラン・ファンウィルダーを軸にツール体制を再構築する見込み。選外は確定だが、ランダ本人の今後の出場プラン（ブエルタ等）は未発表で曖昧。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/tough-news-mikel-landa-left-out-of-the-2026-tour-de-france",
+            "d": "2026-06-26"
+          }
+        ],
+        "status": "確定＝6/26スーダル最終メンバー選外。曖昧＝代替目標（ブエルタ等）は未確定"
+      },
+      {
+        "id": "20260627-courtney-usroad",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/TaNDSftcehwVDmpM8fZMh9.jpg",
+        "headline": "MTB二冠のケイト・コートニー、ロード転向初年で全米女子王者に",
+        "layer1": "MTB世界王者ケイト・コートニーが、シャールストン（ウェストバージニア）の全米プロロード選手権・エリート女子ロードレースを制覇。残り700mから仕掛けたスプリントでベテランのローレン・スティーブンスを抑え、初のロード全米王者に輝いた。",
+        "layer2": "コートニーはXCO（2018年）とマラソン（2025年）でMTB世界選手権二冠を持つ30歳。ロードはほぼ未経験で、今季から全米代表として欧州レースに参戦し、5月にチェコのツール・ド・フェミニンでステージ勝利を挙げたばかりだった。そのわずか数戦のロードキャリアでスターズ・アンド・ストライプスを掴んだ異色の物語が核心。『早めに行ってコーナーを攻め、あとは粘る、それが最善の賭けだと思った』と勝因を語った。結果と経歴は確定。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/us-road-championships-kate-courtney-outsprints-lauren-stephens-to-win/",
+            "d": "2026-06-21"
+          },
+          {
+            "t": "Escape Collective",
+            "u": "https://escapecollective.com/kate-courtney-and-quinn-simmons-are-the-2026-us-road-champs/",
+            "d": "2026-06-22"
+          }
+        ],
+        "status": "確定＝コートニーが全米女子ロード初制覇、MTB二冠からの転向"
+      },
+      {
+        "id": "20260627-affini-crash",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039047-038.jpg?width=832&height=468&format=jpg&crop=2000%2C1125%2C0%2C104",
+        "headline": "アフィニ、イタリアTT選手権で激しい落車——ツール出場に黄信号",
+        "layer1": "ヴィスマ・リースアバイクのエドアルド・アフィニが、イタリア個人TT選手権で約6km地点のダウンヒルで激しく落車。意識はあったが救急車で搬送された。",
+        "layer2": "検査の結果、骨折はなかったものの、股間部に深い裂傷を負い内外の縫合を要したと報じられ、ツール出場が『ますます不透明』に。アフィニはヴィスマの8人枠に選ばれ、平坦ステージでヴィンゲゴーを守る役割を担うはずだった。ファンアールト欠場に続き、開幕1週間前にチームの平坦リードアウトを揺るがす一件。チームは『意識を失うことはなかった』とし数日間モニタリングするとしたが、出場可否のタイムラインは未確定で要裏取り。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/are-visma-lease-a-bike-about-to-lose-another-tour-de-france-rider-edoardo-affini-crashes-heavily-at-italian-road-championships/",
+            "d": "2026-06-25"
+          },
+          {
+            "t": "Domestique",
+            "u": "https://www.domestiquecycling.com/en/news/affinis-tour-de-france-at-risk-after-heavy-italian-championships-crash/",
+            "d": "2026-06-25"
+          }
+        ],
+        "status": "確定＝6/25落車・搬送、骨折なし・股間部裂傷。曖昧＝ツール出場可否は未確定（※要裏取り）"
+      },
+      {
+        "id": "20260627-ganna-itt",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/J4uCmTJNy3sqyVW594VPn3-2398-80.jpg",
+        "headline": "ガンナ、イタリアTT選手権で歴代最多級7勝目——ツールへ盤石",
+        "layer1": "フィリッポ・ガンナ（ネットカンパニー・イネオス）が約40kmのコースを圧倒し、イタリア個人TT選手権で通算7度目の優勝。2位ルカ・ジャイミに2分06秒差をつける独走だった。",
+        "layer2": "29歳のガンナにとって7勝目はイタリアTT選手権の最多記録級で、ツール・ド・フランス（7/4バルセロナ開幕、初日チームTT）へ向けた重要な調整となった。同じレースで同僚格のアフィニが落車・搬送される明暗が分かれる一日となり、イネオスにとっては数少ない明るい材料。優勝・タイム差は確定。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/filippo-ganna-dominates-italian-time-trial-championships-for-seventh-elite-mens-victory/",
+            "d": "2026-06-25"
+          },
+          {
+            "t": "IDLProCycling",
+            "u": "https://www.idlprocycling.com/cycling/filippo-ganna-adds-7th-italian-time-trial-title-to-his-palmares-as-vismas-affini-crashes-hard",
+            "d": "2026-06-26"
+          }
+        ],
+        "status": "確定＝ガンナがイタリアTT7勝目、2分06秒差独走"
+      },
+      {
+        "id": "20260627-castrillo-tt",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/5JE8yjzDMHmintCoKh2tTF-2100-80.jpg",
+        "headline": "カストリージョ、4年ぶりの白星がスペインTT王者——僅差の写真判定で復活",
+        "layer1": "パブロ・カストリージョ（モビスター）が、スペイン個人TT選手権エリートを写真判定の僅差で制し、初のエリートTT王者に。30.8kmを37分40秒で走り、ホットシートで残り走者を退けた。",
+        "layer2": "25歳のカストリージョにとって、スペインTT制覇はU23時代の4年前以来で、勝利そのものが2024年ブエルタ・ア・エスパーニャでの2ステージ勝利以来となる久々の白星。エリートでは過去にITTトップ10が2度あったが頂点には届いておらず、まさに復活の一勝。シャビエル・ミケル・アスパレンが4秒差、パブロ・トーレスがさらに3秒差と、僅差の表彰台だった点が物語性を高める。結果・タイムは確定。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/pablo-castrillo-captures-unexpected-elite-mens-time-trial-at-spanish-road-nationals/",
+            "d": "2026-06-25"
+          },
+          {
+            "t": "CyclingFlash",
+            "u": "https://cyclingflash.com/news/pablo-castrillo-takes-spanish-time-trial-title-after-thrilling-photo-finish",
+            "d": "2026-06-25"
+          }
+        ],
+        "status": "確定＝6/25カストリージョがスペインTT初のエリート制覇、僅差の写真判定"
+      },
+      {
+        "id": "20260627-vittoria-terreno-5055",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://bikerumor.com/wp-content/uploads/2026/06/Vittoria-Bigger-gravel-tires-50-55-full-line-up--scaled.jpg",
+        "headline": "ヴィットリア テレーノが50mm／55mmへ拡幅、グラベル耐久ラインを総入れ替え",
+        "layer1": "ヴィットリアがグラベル耐久タイヤ『テレーノ』シリーズを700x50c／55cまで拡幅。T10・T30・T50・T70が両サイズ対応、泥用T80は50cのみ追加した。ユーロバイク2026開催週（6/24）に告知。",
+        "layer2": "確定情報は価格が全サイズ81.99ドル（既存サイズから値上げなし）で、ブラックとブラウン（飴色）サイドの2色展開、100TPI耐久ケーシングに耐パンクベルトと補強ナイロンを採用という点。MTBタイヤ流用ではなく硬い路面用から泥用までグラベル専用トレッドを維持したのが要点で、50c≒29x2.0、55c≒29x2.25相当。曖昧＝公称重量は媒体記事では未掲載で、転がり抵抗の実測値も未公開（※要裏取り）。",
+        "sources": [
+          {
+            "t": "Bikerumor",
+            "u": "https://bikerumor.com/vittoria-goes-bigger-with-50mm-and-55mm-terreno-gravel-endurance-tires/",
+            "d": "2026-06-24"
+          },
+          {
+            "t": "Bikepacking.com",
+            "u": "https://bikepacking.com/news/2026-vittoria-gravel-tires/",
+            "d": "2026-06-23"
+          }
+        ],
+        "status": "確定＝サイズ展開・価格81.99ドル・2色・100TPI耐久ケーシング/曖昧＝公称重量と転がり抵抗の実測値は未掲載（※要裏取り）"
+      },
+      {
+        "id": "20260627-shimano-thick-rotors",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/06/2026-shimano-deore-xt-hero.jpg",
+        "headline": "シマノが2.2mm厚ブレーキローター（RT-CL750系）を投入、放熱と耐衝撃を強化",
+        "layer1": "シマノが標準1.7mmより厚い2.2mm厚のディスクローター（RT-CL6B750／RT-CL750）を新設。XTR・XT・Deoreの4ピストン系に対応し、モジュレーションと耐久性向上を狙う。ユーロバイク2026週に各誌が報道。",
+        "layer2": "確定情報はローター厚2.2mm、6ボルト／センターロックの両仕様、200mmと220mmの2径、価格が200mm 49.99ポンド／220mm 54.99ポンド、新設計のベントホール配置という点。ユーロバイク2026では複数ブランドが厚手ローター化のトレンドを示しており、シマノの動きはその実装例。曖昧＝具体的な放熱性能の実測データ（同条件比較）や重量増加分は公称・実測とも未提示（※要裏取り）。位置づけはDeore XT世代の新ローター単体で、ローター自体が新製品。",
+        "sources": [
+          {
+            "t": "road.cc (off-road.cc)",
+            "u": "https://road.cc/offroad/tech-news/shimano-brings-flagship-innovation-to-its-xt-mechanical-drivetrain-and-introduces-thick-brake-rotors",
+            "d": "2026-06-17"
+          },
+          {
+            "t": "cyclonline (Eurobike 2026)",
+            "u": "https://www.cyclonline.com/125-eurobike-2026-frankfurt-news/4396-eurobike-2026-5-components-to-make-your-bike-faster-and-safer-in-2027",
+            "d": "2026-06-26"
+          }
+        ],
+        "status": "確定＝2.2mm厚・200/220mm・6ボルト/CL両対応・価格（49.99/54.99ポンド）/曖昧＝放熱の実測比較データと重量増は未提示（※要裏取り）"
+      },
+      {
+        "id": "20260627-eurobike26-aero-tyre-trend",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://bikepacking.com/wp-content/uploads/2026/06/2026-vittoria-gravel-tires_main-2000x1334.jpeg",
+        "headline": "ユーロバイク2026の最前線、タイヤ幅が新たな空力指標に——各社がワイド×低圧へ舵",
+        "layer1": "ユーロバイク2026（フランクフルト、6/24-26）のパーツ潮流は明確で、ワイドリム内幅に最適化したタイヤを各社が投入。タイヤ幅そのものを空力パラメータとして扱い、低い運用空気圧でのスピードを追求する流れが鮮明になった。",
+        "layer2": "確定情報はユーロバイク2026会場でワイドプロファイル化（30-35mm級）とワイド内幅リム前提のタイヤ設計が主流化したという報道事実、UDHベースのフルマウント変速やエアロ形状ブレーキディスクも同時に並んだ点。実例としてヴィットリアのグラベル50/55c拡幅（6/24）が同週に重なる。曖昧＝媒体記事はブランド別の具体重量・価格・実測ドラッグ値を伴わない概況報道が中心で、各製品の公称vs実測は個別裏取りが必要（※要裏取り）。",
+        "sources": [
+          {
+            "t": "cyclonline (Eurobike 2026 Day1)",
+            "u": "https://www.cyclonline.com/125-eurobike-2026-frankfurt-news/4396-eurobike-2026-5-components-to-make-your-bike-faster-and-safer-in-2027",
+            "d": "2026-06-26"
+          },
+          {
+            "t": "Bikepacking.com（ヴィットリア実例）",
+            "u": "https://bikepacking.com/news/2026-vittoria-gravel-tires/",
+            "d": "2026-06-23"
+          }
+        ],
+        "status": "確定＝ユーロバイク2026でワイド×低圧/空力タイヤ潮流とUDHフルマウント・エアロディスクの併載/曖昧＝ブランド別の重量・価格・実測ドラッグは概況報道で個別裏取り必要（※要裏取り）"
+      },
+      {
+        "id": "20260627-tune-nano-cs",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://www.ciclonline.com/images/stories/fbici20262/eurobike-2026-report.jpg",
+        "headline": "チューネ、カーボンスポーク専用ハブ『Nano CS』をユーロバイク2026で公開",
+        "layer1": "ドイツのTuneがユーロバイク2026会場で、カーボンスポーク前提に設計した新ハブ『Nano CS』（CS＝Carbon Spokes）を発表。まずはロード向けで、特許出願済みの新方式という。",
+        "layer2": "肝はスポークの直進性。カーボンスポークは常に真っ直ぐでないと折れるが、リムごとにERD（有効リム径）とスポーク角度が異なるため整列が難しい。Nano CSはハブ側でスポークが一直線に揃う構造で耐久性を狙う、というのがメーカー説明。確定なのは『ロード専用・新ハブ』までで、重量・剛性・価格の実数値や第三者実測は現時点で未公開。XC向けBoost展開は『要望次第』と曖昧。SapimもCX系カーボン/ポリマー新スポークを同会場で出しており、カーボンスポーク量産化が今回のユーロバイクの底流。",
+        "sources": [
+          {
+            "t": "Ciclonline (Eurobike 2026 Live Report)",
+            "u": "https://www.cyclonline.com/125-eurobike-2026-frankfurt-news/4380-eurobike-2026-live-report-all-the-tech,-bike,-and-accessory-innovations",
+            "d": "2026-06-26"
+          },
+          {
+            "t": "Pinkbike (Eurobike 2026 Randoms)",
+            "u": "https://www.pinkbike.com/news/euro-brands-randoms-eurobike-2026.html",
+            "d": "2026-06-26"
+          }
+        ],
+        "status": "確定＝ユーロバイク2026でロード向けカーボンスポーク専用ハブNano CSを公開、特許出願済みとの説明。曖昧＝重量/剛性/価格の実数値・発売時期・第三者実測（※要裏取り）。画像はPinkbike原典が403のため同日付Ciclonlineの検証済og:imageで代替"
+      },
+      {
+        "id": "20260627-farsports-evo-s-2026",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://www.farsports.com/cdn/shop/files/EVOs5_e40214f2-47f6-461d-b6a6-3f7209c3eadb.jpg?v=1773998008",
+        "headline": "ファーストポーツ2026 EVO S、T字断面カーボンスポーク＋新軽量ハブで先行予約中",
+        "layer1": "中華カーボンのFarsportsが2026フラッグシップ『EVO S』シリーズを展開中。新形状のT-headカーボンスポークと新ラチェットハブを採用し、EVO4（登坂）/EVO5（オールラウンド）/EVO6（エアロ）の3深さをラインナップ。",
+        "layer2": "公称は『前作より大きい前面投影でも横風時の空力ドラッグはむしろ低い』という逆説的主張で、40/45/50km/hの自社比較で全速度域改善・高速側ピーク3W短縮。ハブは大径フランジ化で前世代比『剛性+10%・重量-5%』、EVO5/6はUCI承認。重量は外部紹介でペア約1,246g・外幅31.5mm（前30mm）、18本2:1ラジアル組み。いずれもメーカー/販売店公称で第三者実測なし、3Wも自社テスト条件依存。一般公開時期は曖昧（先行予約・受注後5〜10日製造、過去レビュー記事は2025年11月付）。",
+        "sources": [
+          {
+            "t": "FARSPORTS 公式（2026 EVO S 先行予約）",
+            "u": "https://www.farsports.com/products/pre-order-farsports-2026-new-evo-s-series",
+            "d": "2026-06-26"
+          },
+          {
+            "t": "Bicycles4ever（2026 EVO S 解説）",
+            "u": "https://bicycles4ever.com/en/farsports-did-it-again-2026-evo-s-series-raises-the-industry-standard-for-wheels/",
+            "d": "2025-11-21"
+          }
+        ],
+        "status": "確定＝2026 EVO Sの存在・3深さ構成・T-headカーボンスポーク・UCI承認（EVO5/6）・公式先行予約。曖昧＝剛性+10%/重量-5%・3W短縮・ペア1,246gはメーカーまたは販売店公称で第三者未検証、一般発売日も不明（※要裏取り）"
+      },
+      {
+        "id": "20260627-eurobike-rival-show",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://www.bikeradar.com/resources/content/32337f2f-7841-4ef6-a233-d1f001580530/41ecea9a-0002-4cc8-b684-078f79e6ec43/a02a687a-07f9-4a06-a3df-44df67977eba/eurobike-2026-flags.jpg?preview=false&platform=WEB&w=1200",
+        "headline": "ユーロバイクに対抗馬出現、独業界団体ZIVが2027年9月『Towards Tomorrow』を旗揚げ",
+        "layer1": "ドイツ最大の業界団体ZIVが、新トレードショー『Towards Tomorrow – European Bike Show』を2027年9月6〜8日にケルンで開催すると発表。直前のユーロバイク（9月1〜4日）を狙い撃ちする日程で、業界の見本市勢力図が割れた。",
+        "layer2": "ZIVが掲げるのは『業界による、業界のための』ショー。BoschやZIVがユーロバイク撤退を決めた延長線上にあり、来場者・出展者の囲い込み合戦に発展する公算が大きい。ボッシュ等の主要プレーヤーが新ショー側に付くかが今後の主導権を左右する（※新ショーの最終出展者リストは要裏取り）。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/eurobike-to-pause-in-2028",
+            "d": "2026-06-25"
+          },
+          {
+            "t": "bike-eu",
+            "u": "https://www.bike-eu.com/52670/eurobike-2026-makes-challenging-start",
+            "d": "2026-06-24"
+          }
+        ],
+        "status": "確定＝ZIVが2027年9月にケルンで対抗ショーを発表/曖昧＝対抗ショーへ移る大手ブランドの確定リストは要裏取り"
+      },
+      {
+        "id": "20260627-uci-2026-tech-crackdown",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/nQohErpwtr6eGUWaWccJbi-1600-80.png",
+        "headline": "UCI機材ルール2026始動、リム高65mm上限・ハンドル400mm下限・ヘルメット二分化で『規制の年』へ",
+        "layer1": "2026年1月施行のUCI新規則が現場に浸透。ロードレースのリム高は65mm上限、ハンドル幅は最小400mm、ヘルメットはマススタート用とTT用を区別する分類が導入され、機材設計に直接効き始めた。",
+        "layer2": "目玉だった最大ギア比54×11制限は、SRAMの法的措置を受けて棚上げ状態で2026年の確定施行には至っていない。安全名目のテック規制とメーカーの主導権争いが綱引きを続ける構図で、テック不正の取り締まり強化も同時並行（※ギア比制限の最終的な扱いは流動的）。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/rules/the-uci-rules-have-changed-for-2026-everything-you-need-to-know/",
+            "d": "2026-06-22"
+          },
+          {
+            "t": "Velo",
+            "u": "https://velo.outsideonline.com/road/road-gear/new-uci-gear-rules-incoming-rim-height-limits-wider-bars-crackdown-tech-fraud/",
+            "d": "2026-06-20"
+          }
+        ],
+        "status": "確定＝リム高65mm・ハンドル400mm・ヘルメット二分化は2026年施行/曖昧＝54×11ギア比制限はSRAM法的措置で棚上げ、施行時期は未確定"
+      },
+      {
+        "id": "20260627-32inch-wheels-2027",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://www.ciclonline.com/images/stories/fbici20262/eurobike-2026-foto.jpg",
+        "headline": "32インチ旋風がフランクフルトを席巻、グラベル/MTBの次世代ホイール径が2027年量産入りを狙う",
+        "layer1": "ユーロバイク2026のオフロード勢で最大の話題が32インチホイール。フルサスXCの競技プロトがフランクフルトに並び、Unbound GravelやCape Epicでの結果を引っさげて『次の標準』候補として浮上した。",
+        "layer2": "推進力はフラットな乗り越え角・トラクション増・転がり抵抗減。カーボンリムやファイバースポークで重量増をほぼ相殺できる点が現実味を後押しする。レースでの実績次第で早ければ2027年に量産帯へ降りてくる見立てだが、剛性・ジオメトリ・ハンドリングの課題は残り標準化は未確定（※量産投入時期は各社判断次第）。",
+        "sources": [
+          {
+            "t": "cyclonline (Eurobike 2026 Day 2)",
+            "u": "https://www.cyclonline.com/125-eurobike-2026-frankfurt-news/4400-eurobike-2026-day-2-report",
+            "d": "2026-06-26"
+          },
+          {
+            "t": "EUROBIKE",
+            "u": "https://eurobike.com/frankfurt/en/press-and-media/press-releases/press-releases/how-eurobike-makes-trends-visible.html",
+            "d": "2026-06-08"
+          }
+        ],
+        "status": "確定＝32インチのレース投入とユーロバイク2026での展示/曖昧＝2027年量産・標準化の時期は各社判断次第で未確定"
+      },
+      {
+        "id": "20260627-hotbath-acclimation",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2023/06/GettyImages-2162002612.jpg?w=1200",
+        "headline": "猛暑ライドは『冷やす』より『水だけ飲まない』が先——BikeRadarが熱順化に熱い風呂を推す",
+        "layer1": "梅雨明けを前にBikeRadarが夏ライド記事を更新（2026-05-26）。road.ccも夏ライド特集を出した（2026-06-23）。初心者が陥りがちな『水をひたすら飲む』対策に、両誌そろって電解質と熱順化の重要性を強調している。",
+        "layer2": "確定しているのは、長時間の発汗で水だけを大量に飲むと低ナトリウム血症（hyponatremia）のリスクがあること。だから食事に塩を足す、走行前から強めの電解質ドリンクで体内のナトリウムを満たしておく（プリロード）のが効くとBikeRadarは説明する。意外なのは熱順化の方法で、涼しい時期の運動後に10分から40分へと6日かけて熱い風呂に入ると安静時の深部体温が約0.3度下がり、運動による順化より効果が高いという研究を紹介。これは室内で完結するので梅雨時の準備にも使える。曖昧なのは効果の個人差で、体重や発汗量によって最適なナトリウム量は変わるため、数値は目安。road.ccはSPF50＋を4時間ごとに塗り直す、通気の良い長袖でUVを防ぐといった肌と服の対策を補足している。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/advice/fitness-and-training/cycling-in-hot-weather",
+            "d": "2026-05-26"
+          },
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/offroad/content/feature/how-to-survive-hot-summer-rides-protect-your-skin-hydrate-and-pick-the-right",
+            "d": "2026-06-23"
+          }
+        ],
+        "status": "確定＝水だけ大量摂取は低ナトリウム血症リスク・電解質プリロードが有効/曖昧＝最適ナトリウム量や熱順化効果は体格と発汗量で個人差"
+      },
+      {
+        "id": "20260627-faux-tubeless",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2025/11/Faux-tubeless-setup-Richard-Hallet-1.jpg?w=1200",
+        "headline": "チューブレスが難しい人へ——フレームビルダーが提案する『擬似チューブレス』という第三の道",
+        "layer1": "フレームビルダーのRichard HallettがBikeRadarで『faux tubeless（擬似チューブレス）』を提案（2025-11-11）。チューブをタイヤ内側に専用接着剤で貼り、少量のシーラントを併用する手法で、チューブレス非対応ホイールでもパンク耐性の恩恵を狙える。",
+        "layer2": "確定しているのは前提条件で、チューブレス対応リムもテープも不要、普通のクリンチャー機材のまま、手押しポンプで空気が入れられること。シーラント量は本格チューブレスの約半分で済み、ビードが上がるかどうかの不安や後片付けの面倒さを避けられるのが狙い。一方で限界もはっきりしていて、リム打ちパンク（pinch flat）やシーラントで塞げない裂けには通常のチューブ運用と同じく弱い。Hallett本人も、対応機材を持つ人には重量と乗り心地で本物のチューブレスが上だと認めている。つまりこれは『チューブレスに踏み切れない初中級者の妥協案』であって上位互換ではない。曖昧なのは接着剤の耐久性や貼り直しの手間で、長期運用のデータは記事段階では限定的。まずは普通のクリンチャー＋良いタイヤで十分という見方も両立する。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/faux-tubeless",
+            "d": "2025-11-11"
+          }
+        ],
+        "status": "確定＝非対応機材でも可・シーラント半量・手押しポンプで完結/曖昧＝リム打ちには弱く接着剤の長期耐久データは限定的、本物のチューブレスの上位互換ではない"
+      },
+      {
+        "id": "20260627-proshop-collapse",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/c/cyclekaigyou/20260125/20260125133221.png",
+        "headline": "【経営メモ】プロショップ閉店ラッシュ、ライバルの店じまいは自店の商機になる",
+        "layer1": "2025年末にサイクルショップタキザワ、2026年3月末にクラウンギアーズ（シュッピン運営）が自転車事業を終了。専門店の撤退が相次ぎ、業界に清算ムードが広がっている。",
+        "layer2": "撤退の構図は共通する。①EC・直販の台頭で新車販売が薄利化、②油圧ブレーキ・電動変速の整備に高額専用工具と研修が必要、③低収益で若手整備士が定着しない。マサルの店への含意は逆張りで明確。閉店店舗の客は今、整備難民・パーツ難民になっている。受け皿として整備・カスタム・パーツ持ち込み対応を前面に出せば、新車を売らずとも工賃収益で既存客を取り込める。新車の利幅で勝負する時代は終わりつつあり、収益の軸を整備・サブスク点検・中古買取仲介へ寄せる店ほど生き残る、という方向性は強い確度。シュッピンが赤字転落で撤退した事実は、買取・EC偏重モデルですら国内ロード市場では持たないことを示す。",
+        "sources": [
+          {
+            "t": "しょぼ輪（業界清算の記録・一次まとめ）",
+            "u": "https://kyomu-cycle.hatenablog.com/entry/2026/01/25/133239",
+            "d": "2026-01-25"
+          },
+          {
+            "t": "シュッピン公式 CROWN GEARS閉店のお知らせ",
+            "u": "https://www.syuppin.co.jp/news/20251101",
+            "d": "2025-11-01"
+          },
+          {
+            "t": "cyclowired クラウンギアーズ閉店発表",
+            "u": "https://www.cyclowired.jp/news/node/390670",
+            "d": "2025-10-31"
+          }
+        ],
+        "status": "確定＝タキザワ・クラウンギアーズの事業終了、シュッピン自転車事業の赤字転落と撤退。曖昧＝撤退店の客がどれだけ近隣店に流れるかは未確認。※鮮度注記：一次まとめは1月、撤退完了は3月末で進行中の構造変化"
+      },
+      {
+        "id": "20260627-multibrand-pricecut",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?w=1200",
+        "headline": "【経営メモ】完成車の横並び値下げが常態化、トレック・ピナレロ・メリダ・ウィリエールが軒並み下げ",
+        "layer1": "在庫がさばけない反動で大手の値下げが連鎖。トレック10〜14%、ピナレロ約20%、メリダ5〜13%、ウィリエール約20%の改定が報じられ、ハイ／ミドルの定価が下方修正されている。",
+        "layer2": "これは単発セールではなく定価そのものの引き下げで、確度が高い構造変化。経営含意は二つ。①新車は値引き原資が薄く、メーカー改定後の定価がそのまま天井になりやすい。在庫を抱える完成車は仕入れ時の旧定価で評価せず、改定後価格で減損的に見て早期にさばくべき。②ピナレロF9が128.4万→109.2万のように高額帯ほど下げ幅が大きく、100万円超ハイエンドの相場が崩れている。マサルの店では高額完成車の長期在庫が最大のリスク。発注は売れ筋ミドルに絞り、ハイエンドは受注・取り寄せ中心に切り替えるのが守りの定石。値下げの背景にコロナ特需の反動と100万円超の参入障壁があるという見立ては曖昧だが、需要の頭打ち自体は各社改定が裏付ける。",
+        "sources": [
+          {
+            "t": "鯖棒亭日乗（各社値下げ率の整理）",
+            "u": "https://sababou.hatenablog.com/entry/2026/02/06/154946",
+            "d": "2026-02-06"
+          },
+          {
+            "t": "cyclesports.jp ピナレロF/Xシリーズ価格改定",
+            "u": "https://www.cyclesports.jp/news/new-product/156626/",
+            "d": "2026-03-19"
+          },
+          {
+            "t": "Bike Plus トレック Madone/Domane値下げ",
+            "u": "https://bike-plus.com/blogs/news/madone-domane-price-down",
+            "d": "2025-07-04"
+          }
+        ],
+        "status": "確定＝トレック・ピナレロの定価値下げ（一次裏取り済）。曖昧＝メリダ5〜13%・ウィリエール20%はブログ集計が出典で正規代理店発表まで未確認。画像は日本語ECがホットリンク403のため海外ロード写真に差し替え"
+      },
+      {
+        "id": "20260627-pirelli-cinturato-gravel",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://images.unsplash.com/photo-1559348349-86f1f65817fe?w=1200",
+        "headline": "ピレリ CINTURATO GRAVEL が全面刷新、グラベルタイヤ新ラインが国内展開へ",
+        "layer1": "ピレリがグラベル用『CINTURATO GRAVEL』シリーズをフルモデルチェンジ。コンパウンド・ケーシング・サイズ展開を一新し、6月23〜24日に国内メディアで一斉に新製品情報が出た。",
+        "layer2": "新体系はハイパフォーマンスのHP-Line（GRAVEL H／M）とパフォーマンスのP-Line（GRAVEL RH／RM）に整理され、継続のSも残る。記事化の切り口は明快で、完成車が売れにくい今、利幅と回転の良いタイヤ・チューブレス関連の新製品は店頭の数少ない攻め筋。グラベルは新車不振のロード市場で数少ない伸びジャンルという見立て（曖昧だが各社が新作を継続投入する事実が裏付け）で、試乗・装着提案と相性が良い。確定情報はシリーズ刷新とラインナップ構成まで。国内の発売日・税込価格・重量は今回の一次情報では未確定で、正規卸（カワシマ）と各代理店の発表待ち。仕入れ判断は価格確定後が安全。",
+        "sources": [
+          {
+            "t": "cyclowired ピレリ Cinturato Gravel RH/RM 新製品情報",
+            "u": "https://www.cyclowired.jp/news/term/86",
+            "d": "2026-06-24"
+          },
+          {
+            "t": "Yahoo!ニュース（FUNQ/Bicycle Club）CINTURATO GRAVEL新シリーズ",
+            "u": "https://news.yahoo.co.jp/articles/6299b532510c1c5630a3ec9ef02ad5b285c48d2b",
+            "d": "2026-06-23"
+          }
+        ],
+        "status": "確定＝シリーズ全面刷新とHP/P-Lineの構成（一次裏取り済、6/23-24）。曖昧＝国内発売日・税込価格・重量は未発表。画像は日本語メディアがホットリンク403のため海外グラベル写真に差し替え（200検証済）"
+      },
+      {
+        "id": "20260627-tdf-cafe-tour-shogun",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://image.news.livedoor.com/newsimage/stf/c/5/c58ad_1863_e286c44c_e5bcd96f.jpg",
+        "headline": "ツール開幕（7/4）前に公認カフェ始動、東京・大阪・尾道で観戦商戦が立ち上がる",
+        "layer1": "J SPORTSが第113回ツール・ド・フランスの放送に合わせ公認カフェ『Tour de France CAFÉ』を東京・大阪・尾道の3都市で期間限定オープン。6/17に告知、店舗は6月下旬〜7月下旬で公式グッズと限定メニューを販売。",
+        "layer2": "ツール開幕前のこの2週間が国内ローディーの最盛り上がり期で、観戦・物販需要が確定的に立ち上がる局面。大阪店がグランフロントのSHIMANO SQUARE内という点は象徴的で、業界が観戦体験を入口に客を呼ぶ構図。マサルの店への含意は、車体が売れない時期でも観戦シーズンは消耗品・アパレル・小物が動かしやすいということ。店頭でツール連動の特集棚（チームレプリカ系ウェア、補給食、サングラス、配信視聴のすすめ）を組めば、来店動機と客単価を作れる。グッズ単価はランチョンマット880円・グラス990円と低めで、ハードルの低い関連販売が観戦熱に乗る。確定＝カフェ開催と日程。曖昧＝ショップ売上への波及度は店舗依存で数値化不可。",
+        "sources": [
+          {
+            "t": "ライブドアニュース（PR TIMES配信）Tour de France CAFÉ 2026",
+            "u": "https://news.livedoor.com/pr_topics/detail/31574790/",
+            "d": "2026-06-17"
+          },
+          {
+            "t": "cyclowired 公認カフェ3都市オープン",
+            "u": "https://www.cyclowired.jp/news/node/388046",
+            "d": "2026-06-17"
+          }
+        ],
+        "status": "確定＝公認カフェの3都市開催・日程・グッズ販売（一次PR裏取り済、6/17）。曖昧＝個店売上への波及度。画像はlivedoor配信の検証済og:image直リンク（200）を使用"
+      }
+    ]
+  },
+  {
     "date": "2026-06-26",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、20本。ツール開幕まで9日、欠場と復活の人間ドラマが交錯しています。ユーロバイク2026は『値ごろ化』と素材戦争、国内はコスパ勢の価格破壊と超高級化が同時進行。今日のPICKは、敗血症一歩手前から走り出したファンアールトです。",
     "cards": [
