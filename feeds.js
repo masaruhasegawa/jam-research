@@ -1,5 +1,446 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-06-29",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、20本。各国選手権の日曜、ログリッチがポガチャルを下してスロベニア王者に——ツール開幕（7/4）まであと5日、王者たちが続々と国旗を背負いました。",
+    "cards": [
+      {
+        "id": "20260629-roglic-slovenia",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/ZAcryNNY9LD974regGeb8g-1199-80.jpg",
+        "headline": "ログリッチ、親友ポガチャルを最後の登りで振り切りスロベニア王者——6年ぶりの母国タイトル",
+        "layer1": "スロベニア・ロード選手権で、プリモシュ・ログリッチが終盤の登りで盟友タデイ・ポガチャルを引き離し、10秒差で独走優勝。6年ぶりに母国王者の座に返り咲きました。",
+        "layer2": "最後の登りでログリッチが先攻、いったんポガチャルが追いつくも、残り1kmで放った2度目のアタックに反応できず。ツール本命のポガチャルが開幕5日前に同胞のベテランに屈した格好で、金曜のTTでも王者になったログリッチは母国でTT・ロードの二冠。仲の良い二人の力関係が垣間見える、ツール直前の象徴的な一戦です。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/news/roglic-gets-the-better-of-pogacar-to-claim-slovenian-national-championship/",
+            "d": "2026-06-28"
+          },
+          {
+            "t": "Team Visma | Lease a Bike",
+            "u": "https://www.teamvismaleaseabike.com/article/news/roglic-takes-slovenian-national-title/",
+            "d": "2026-06-28"
+          }
+        ],
+        "status": "確定＝ログリッチ優勝・ポガチャル2位（一次ソース複数で一致）。"
+      },
+      {
+        "id": "20260629-cort-denmark",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/XtoNZnzcDtM5d9yoG3VfCT-1024-80.jpg",
+        "headline": "コート、引退表明の翌日に悲願のデンマーク王者——最後のツールへ国旗を背負って",
+        "layer1": "マグナス・コートが自身初のデンマーク・ロード王者に。縮小した集団のスプリントを制し、長年届かなかった国内タイトルをついに掴みました。",
+        "layer2": "前日（6/27）に今季限りでの引退を表明したばかりの33歳。「いずれ辞める準備ができてくる」と語った直後の母国での戴冠で、おそらく最後となるナショナルズを最高の形で締めくくりました。全3グランツールでステージ勝利を持つ名スプリンターが、国王者ジャージで最後のツール・ド・フランスへ。有終のドラマです。",
+        "sources": [
+          {
+            "t": "Cyclingnews（引退表明）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/eventually-you-start-becoming-ready-to-stop-magnus-cort-announces-retirement-at-end-of-season-following-one-last-tour-de-france/",
+            "d": "2026-06-27"
+          },
+          {
+            "t": "CyclingUpToDate（ロード優勝）",
+            "u": "https://cyclinguptodate.com/cycling/wilco-kelderman-wins-dutch-title-for-the-first-time-at-35-zoe-backstedt-wins-womens-british-national-championships",
+            "d": "2026-06-28"
+          }
+        ],
+        "status": "確定＝引退表明6/27・ロード優勝6/28。"
+      },
+      {
+        "id": "20260629-kelderman-netherlands",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://d1lk6qpkbduawh.cloudfront.net/_1701x927_crop_center-center_85_none/CORVOS_00039114-216.jpg",
+        "headline": "ケルデルマン35歳、十数年ぶりの勝利でオランダ王者——残り25kmから独走",
+        "layer1": "ヴィルコ・ケルデルマンがオランダ・ロード王者に。残り25kmから抜け出し、2位モレマに1分以上の大差をつけて独走で逃げ切りました。",
+        "layer2": "TTやステージレース総合は勝ってきたものの、両手を上げて喜ぶ「ロードレース勝利」はU23時代以来。本人も「フィニッシュで両手を上げるあの感覚はとても久しぶり」と語りました。長く献身的なドメスティークを務めてきた35歳が、キャリアの空白を母国タイトルで埋めた一勝です。",
+        "sources": [
+          {
+            "t": "Team Visma | Lease a Bike",
+            "u": "https://www.teamvismaleaseabike.com/race-report/news/wilco-kelderman-crowned-dutch-national-champion-after-stunning-solo-victory/",
+            "d": "2026-06-28"
+          },
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/wilco-kelderman-wins-dutch-title-for-the-first-time-at-35-zoe-backstedt-wins-womens-british-national-championships",
+            "d": "2026-06-28"
+          }
+        ],
+        "status": "確定。画像はHTTP200・image/jpeg確認済み。"
+      },
+      {
+        "id": "20260629-gregoire-france",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/cxFEzzogzry3pg7soKo8gM-1024-80.jpg",
+        "headline": "「この勝利を夢見ていた」グレゴワール、悲願の仏王者——前年2位の雪辱",
+        "layer1": "ロマン・グレゴワール（Groupama-FDJ）がキャリア初のフランス・ロード王者に。残り3kmの登り頂上付近から独走で抜け出しました。",
+        "layer2": "前年の同選手権で2位に泣いた23歳が、1年越しの雪辱を果たしました。「この勝利を夢見ていた」と語り、ラペイラ、デルボーヴら強敵を退けての戴冠。ツール開幕直前、トリコロール・ジャージを纏ってフランスの大舞台に立つ若手エースの晴れ舞台です。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/french-national-championships-romain-gregoire-delivers-emphatic-victory-in-elite-mens-road-race/",
+            "d": "2026-06-28"
+          },
+          {
+            "t": "Total-Velo",
+            "u": "https://www.total-velo.com/romain-gregoire-prend-le-titre-en-solitaire-sur-les-championnats-de-france-2026/",
+            "d": "2026-06-28"
+          }
+        ],
+        "status": "確定。"
+      },
+      {
+        "id": "20260629-engelhardt-germany",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/dx6rHPdBcPfxmhxMJBmDS4-2000-80.jpg",
+        "headline": "エンゲルハルト、最終局面で逃げに復帰し独初制覇——新世代がマイヨを掴む",
+        "layer1": "フェリックス・エンゲルハルト（Jayco-AlUla）が残り3km以内で先頭の逃げに追いつき、5人のスプリントを制してドイツ初王者に輝きました。",
+        "layer2": "前年2位からの一つ上のステップ。登坂区間の猛攻で一度は遅れたものの冷静に復帰し、ヤッシュやデンツを退けてマイヨを掴みました。ポリットがTT王者となった独勢で、ロードは25歳の新世代が制した格好。ツール直前のドイツに新王者が誕生しました。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/german-national-championships-felix-engelhardt-chases-back-onto-break-in-final-kilometres-to-win-first-elite-mens-road-title/",
+            "d": "2026-06-28"
+          },
+          {
+            "t": "cyclingmagazine.de",
+            "u": "https://www.cyclingmagazine.de/2026/06/28/rad-dm-2026-felix-engelhardt-holt-gold-im-strassenrennen/",
+            "d": "2026-06-28"
+          }
+        ],
+        "status": "確定。"
+      },
+      {
+        "id": "20260629-wright-britain",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/sSAMyFmQ42gFLt5PeEVx2M-2400-80.jpg",
+        "headline": "フレッド・ライト、3年ぶりの勝利で英王者奪還——「ストライプは脱いだ瞬間に恋しくなる」",
+        "layer1": "フレッド・ライト（Pinarello Q36.5）がアベリストウィスの過酷なレースを3人のスプリントで制し、2度目の英ロード王者に。",
+        "layer2": "2023年の初制覇が事実上キャリア唯一の勝利だった選手が、3年ぶりの白星を国内選手権で掴みました。「ストライプ（王者ジャージ）を着た一年は本当に特別で、脱いだ瞬間に恋しくなる。この勝利をツールへ持っていきたい」と、勝ち星に恵まれなかった日々を経た感慨を語っています。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/racing/british-racing/fred-wright-sprints-to-second-elite-mens-road-race-victory-at-british-national-championships",
+            "d": "2026-06-28"
+          },
+          {
+            "t": "idlprocycling",
+            "u": "https://www.idlprocycling.com/cycling/national-championships-results-sundays-road-race-results-are-coming-in",
+            "d": "2026-06-28"
+          }
+        ],
+        "status": "確定。"
+      },
+      {
+        "id": "20260629-herregodts-belgium",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://todaycycling.com/wp-content/uploads/2026/06/championnat-belgique-2026-rune-herregodts-cree-la-surprise-et-succede-a-tim-wellens.jpg",
+        "headline": "番狂わせのベルギー王者——ヘレホッツが大逃げを生かし、メルリエ・フィリプセンを置き去りに",
+        "layer1": "ルネ・ヘレホッツ（UAE Team Emirates XRG）がベルギー・ロード王者に。60人規模の大逃げから絞り込まれた集団のスプリントを制し、リッカールトらを破る「サプライズ」を演じました。",
+        "layer2": "本命だったメルリエ、フィリプセンら大物スプリンターはメイン集団に取り残され、逃げを捕まえられないまま終了。エヴェネプール、ファンアールト、前王者ウェレンスらが欠場した隙を突いた格好です。「自分がベルギー王者になれる唯一のチャンスだった」と本人。レース展開を読み切った勝利で、トリコロールはツールへ向かう伏兵の手に渡りました。",
+        "sources": [
+          {
+            "t": "Cyclingnews（2026 Road National Champions index）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/2026-road-national-champions-index/",
+            "d": "2026-06-28"
+          },
+          {
+            "t": "Today Cycling",
+            "u": "https://todaycycling.com/championnat-belgique-2026-rune-herregodts-cree-la-surprise-et-succede-a-tim-wellens/",
+            "d": "2026-06-28"
+          }
+        ],
+        "status": "確定＝ヘレホッツ優勝（複数ソース一致）。"
+      },
+      {
+        "id": "20260629-zennihon-women",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "",
+        "headline": "全日本ロード女子、小林あか里が亡き父に捧ぐ涙の連覇——U23は田中麗奈",
+        "layer1": "新潟・南魚沼で開かれた全日本選手権ロードレース2026。女子エリートはディフェンディング王者の小林あか里が終盤に抜け出し、2連覇を達成しました。",
+        "layer2": "今年5月に膵臓がんで父を亡くした小林にとって、特別な意味を持つ勝利。レース後は涙のコメントを残しました。女子U23は田中麗奈が制覇。欧州で培ったスピードとパワーが、日本のアップダウンの多いコースで活きた一戦でした（詳細はcyclowired速報に基づく）。",
+        "sources": [
+          {
+            "t": "cyclowired（速報）",
+            "u": "https://www.cyclowired.jp/news/node/392771",
+            "d": "2026-06-28"
+          },
+          {
+            "t": "LAP CLIP（リザルト）",
+            "u": "https://matrix-sports.jp/lap/result.php?evt=250622_jprr",
+            "d": "2026-06-28"
+          }
+        ],
+        "status": "確定＝小林あか里 連覇・U23 田中麗奈（cyclowired速報）。画像はソースがCloudflare保護のため取得できず空。"
+      },
+      {
+        "id": "20260629-forza-sikonros",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/UTeZtJbsZQWRHW3jeBTuTk-2560-80.jpg",
+        "headline": "ユーロバイク2026：Forza、深リム＋カーボンスポークの新ホイール「Sikonros」",
+        "layer1": "ユーロバイク2026でForzaが公開した新ホイール「Sikonros」。深めのリムに内幅27mmのワイドリムベッド、CeramicSpeed採用ハブ、カーボンスポークを組み合わせる構成です。",
+        "layer2": "内幅27mmは近年のワイドリム潮流に沿い、太めのタイヤ前提の設計。会場展示の段階で、重量・価格・発売時期はまだ非公表です。CeramicSpeedハブやカーボンスポークが謳い文句どおりの低抵抗・軽量かは実測待ち。Forzaのグラベル試作Skiron RSとは別系統のロード／オールロード寄りモデルという位置づけです。",
+        "sources": [
+          {
+            "t": "Cyclingnews（Eurobike 2026: Five new bikes）",
+            "u": "https://www.cyclingnews.com/bikes/eurobike-2026-five-new-bikes-that-caught-my-eye/",
+            "d": "2026-06-26"
+          }
+        ],
+        "status": "曖昧＝展示段階。スペック未公表（※実測・価格は要裏取り）。"
+      },
+      {
+        "id": "20260629-ridley-skiron-rs",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://www.bikeradar.com/resources/content/32337f2f-7841-4ef6-a233-d1f001580530/6843d0a7-8f96-4e17-b411-adc2071656af/d79371cb-7db1-485e-a5ad-9ebda285ca8e/IMG_9881-Large.jpeg?preview=false&platform=WEB&deviceId=6c1b8002-e7ba-4380-bb83-5e55df9fdc4a&w=1200",
+        "headline": "ユーロバイク2026：Ridleyのグラベル試作機が履く未発表ホイール「Forza Skiron RS」",
+        "layer1": "ユーロバイク2026でRidleyが見せたアグレッシブなグラベル試作車に、未発表のForza Skiron RSホイールが装着。独自と見られるハブ、カーボンスポーク、新設計のワイドエアロカーボンリムを備え、最大58mmタイヤクリアランスのフレームと組みます。",
+        "layer2": "ホイールはあくまで試作車の構成要素として登場した段階で、Skiron RS単体のスペック（重量・内外幅・価格）はまだ明らかにされていません。エアロ・ワイドリム・フレーム内収納といった現行グラベルレースの要件を一通り満たす意欲作ですが、市販化の可否・時期は未確定です。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/ridley-prototype-gravel-racer",
+            "d": "2026-06-25"
+          }
+        ],
+        "status": "曖昧＝プロトタイプ／展示（※市販化・スペックは要裏取り）。"
+      },
+      {
+        "id": "20260629-supernova-superdropper",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://www.bikeradar.com/resources/content/32337f2f-7841-4ef6-a233-d1f001580530/1f65b51f-de1e-4fa0-8f52-f264045f15c2/d212ac50-30d5-4fb2-85fa-25b968f37c9c/IMG_9745-Large.jpeg?preview=false&platform=WEB&deviceId=aee07e81-761f-4c9f-94ef-f23623706414&w=1200",
+        "headline": "ユーロバイク2026：Supernova「Superdropper」、世界初のテールライト内蔵ドロッパーポスト",
+        "layer1": "ユーロバイク2026でSupernovaが発表。ドロッパーマスト上部にリアライト（TL3 MINI）を組み込んだ、同社いわく世界初のテールライト一体型ドロッパーポストで、ユーロバイクアワードを受賞しました。",
+        "layer2": "最大の難所はドロッパーのダンパーカートリッジ内に配線を通すこと。自動車部品サプライヤーのGabrielと協業して解決したとのこと。ポスト長は125〜200mmと幅広いものの、給電がeバイクの12Vバッテリー前提のため、非電動車での汎用性は現状限定的です。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/supernova-superdropper-rear-light-integrated-dropper-post",
+            "d": "2026-06-24"
+          }
+        ],
+        "status": "確定＝発表・アワード受賞。給電仕様の汎用性は要確認。"
+      },
+      {
+        "id": "20260629-hope-evo-v6ti",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://www.bikeradar.com/resources/content/32337f2f-7841-4ef6-a233-d1f001580530/e1348f8c-b0ad-4939-a486-55352b9a2f68/af5c62a0-bec1-4c8f-a067-527950afb3a6/IMG_9518-Large.jpeg?preview=false&platform=WEB&deviceId=290a513b-b17b-4517-b2b1-7983c8248b0d&w=1200",
+        "headline": "ユーロバイク2026：Hope、自社最強を謳う6ピストン「EVO V6Ti」ブレーキ",
+        "layer1": "ユーロバイク2026でHopeが公開した、同社史上最もパワフルとする6ピストン油圧ディスクブレーキ。チタンを用いた「EVO V6Ti」で、制動力と熱管理の向上を狙います。",
+        "layer2": "「最強」はあくまで自社比の主張で、第三者による制動力・耐フェード比較は別途必要です。チタン採用部位による軽量化と価格のトレードオフ、対応ローター径やパッドの供給性も実使用での確認ポイント。発売時期・価格の詳細は会場発表の段階です。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/hope-evo-v6ti-6-piston-brakes",
+            "d": "2026-06-26"
+          }
+        ],
+        "status": "曖昧＝発表段階。性能比較・価格は要裏取り。"
+      },
+      {
+        "id": "20260629-stablead-3dprint",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://www.bikeradar.com/resources/content/32337f2f-7841-4ef6-a233-d1f001580530/b12cf553-e054-40a5-bc20-e0cb31bab7be/0fcce609-dea2-4c1e-9359-06aa567aa75d/IMG_9618-Large.jpeg?preview=false&platform=WEB&deviceId=88c9c14d-63cc-47f3-8c40-63998bee54bf&w=1200",
+        "headline": "ユーロバイク2026：Stablead、3Dプリントブレーキ＋カーボン倒立フォークの近未来コンセプト",
+        "layer1": "ユーロバイク2026でStableadが、3Dプリント製ブレーキとカーボンのアップサイドダウン（倒立）フォークという先進コンセプトを公開。積層造形と複合材を組み合わせ、軽量化と設計自由度を狙う実験的な提案です。",
+        "layer2": "あくまでティーザー／コンセプト段階で、量産可否・重量・剛性・価格・市販時期はいずれも未確定。3Dプリントブレーキや倒立カーボンフォークは耐久性と安全認証が最大の関門で、実走データの公開が今後の焦点になります。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/stablead-futuristic-3d-printed-brakes-and-suspension",
+            "d": "2026-06-25"
+          }
+        ],
+        "status": "曖昧＝コンセプト／展示（※量産・実走性能は要裏取り）。"
+      },
+      {
+        "id": "20260629-tarmac-sl9",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.sanity.io/images/iocd9e4k/production/b0b0a5fbef923eedcacf61e5c903f58bfbf5ff85-1600x1066.jpg",
+        "headline": "スペシャライズドが沈黙のまま新ターマックSL9を6/30公開へ——リークが指す答えは「革命ではなくSL8.5」",
+        "layer1": "2〜6月にかけてキャンプやドフィネ、ツール・ド・スイスでプロトタイプ目撃が相次ぎ、公式無言のまま6月30日（ツール開幕直前）の発表が濃厚に。象徴のノーズコーン型ヘッドチューブは継承しつつ、フォークとリア三角を刷新するとみられます。",
+        "layer2": "見どころは「振り子」の象徴である点。近年の全部入りエアロ偏重から、軽量オールラウンダーへ業界の重心が戻りつつあり、関係者が「SL8.5」と表現する今作はその到達点になりそうです。リーク先行→開幕前公開という手法も含め、いまや新型は『隠す』より『焦らして語らせる』マーケティング設計。複数チームの実戦投入が初週の見どころです（※最終スペックは発表待ち）。",
+        "sources": [
+          {
+            "t": "Velora Cycling",
+            "u": "https://veloracycling.com/tech/specialized-tarmac-sl9-leak-tour-suisse",
+            "d": "2026-06-21"
+          },
+          {
+            "t": "Cyclonline",
+            "u": "https://www.cyclonline.com/specialized-bicycles-news-review-test/specialized-tarmac-sl9-2026-the-latest-update,-everything-we-know",
+            "d": "2026-06-24"
+          }
+        ],
+        "status": "曖昧＝公式未発表のリーク。6/30公開が有力（※確定情報は発表待ち）。"
+      },
+      {
+        "id": "20260629-tour-heat-risk",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-06%2Ftadej-pogacar-6a36870b5bd75.jpg",
+        "headline": "開幕前から40℃超——2026ツールは「近年で最も危険な大会」になりかねないと専門家が警告",
+        "layer1": "開幕（7/4・バルセロナ）を前に欧州は記録的熱波。フランス・スペインで40℃超と高温警報が続き、ルートが東・南スペインに偏っていることが新たな懸念に。UCIは湿球黒球温度（WBGT）を用いる高温プロトコルで、追加給水・スタート時刻変更・コース短縮・中止まで判断できます。",
+        "layer2": "本当のリスクは「1日の灼熱」ではなく「3週間の蓄積ダメージ」。移動・睡眠・補水の不完全さが日々重なることが効いてきます。アイスベスト等の現場ハックは対症療法に過ぎず、気候研究者からは『午前開催に』『大会日程を動かせ』という構造的な再設計論まで噴出。機材より先に、レースの形そのものが問われ始めています。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/extreme-heat-fears-hit-tour-de-france-why-the-2026-edition-could-become-the-most-dangerous-in-recent-memory",
+            "d": "2026-06-24"
+          },
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/features/opinion/2026-tour-de-france-tech-predictions",
+            "d": "2026-06-26"
+          }
+        ],
+        "status": "確定＝熱波・高温プロトコルの存在。具体的な運用判断は当日次第。"
+      },
+      {
+        "id": "20260629-pearl-cooling",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://ysroad.co.jp/kyoto/wp-content/uploads/2026/06/__2.jpg",
+        "headline": "猛暑ライドに「ガチ冷え」——パールイズミの強冷感アイテムが登場、初中級の夏対策に",
+        "layer1": "酷暑シーズン本番を前に、パールイズミの新素材「アイスポーラー」アイテムが店頭で注目。接触冷感・冷感プリント・走行風による気化熱冷却を組み合わせ、汗と反応して吸熱する仕組みです。",
+        "layer2": "ラインナップはノースリーブアンダー（¥7,700）、ロングスリーブ（¥9,900）、ネックカバー（¥3,850）など。ただし汗冷えに弱い体質の人には不向きという声も。初中級者にはアームカバーや冷却タオル、保冷ボトル、早朝・ナイトライドなど、無理なく夏を乗り切る複数の選択肢を組み合わせるのが現実的です。",
+        "sources": [
+          {
+            "t": "Y's Road 京都店",
+            "u": "https://ysroad.co.jp/kyoto/2026/06/25/159343",
+            "d": "2026-06-25"
+          }
+        ],
+        "status": "確定＝製品・価格はショップ告知に基づく。"
+      },
+      {
+        "id": "20260629-pirelli-tubeless-beginner",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/06/CINTURATO-GRAVEL-M-H-6.jpg",
+        "headline": "ピレリのグラベルタイヤ刷新をきっかけに——初中級者が押さえる「耐パンク」と「チューブレスレディ」",
+        "layer1": "ピレリがグラベルタイヤ「チントゥラート グラベル」を全面刷新（6/23）。新ケーシングで転がり抵抗・グリップ・耐パンク性を高め、チューブレスレディに対応。これを入口に、初めてのタイヤ選びの基本を整理します。",
+        "layer2": "「チューブレスレディ」はシーラントを入れて運用する前提のタイヤで、小さな穴は自動でふさがる一方、ビード上げなど扱いには慣れが要ります。初中級者はまず耐パンク性能とタイヤ幅（太め＝安定・乗り心地）を基準に選び、出先のパンクに備えて携帯ポンプや修理プラグも一緒に用意しておくと安心です。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ（cyclesports.jp）",
+            "u": "https://www.cyclesports.jp/news/new-product/163697/",
+            "d": "2026-06-23"
+          }
+        ],
+        "status": "確定＝製品刷新は一次発表に基づく。選び方は一般論。"
+      },
+      {
+        "id": "20260629-cooling-stock-memo",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/06/dmc_3.jpg",
+        "headline": "【経営メモ】猛暑前の「冷却・夏アイテム」入荷が相次ぐ——客単価を支える提案の好機",
+        "layer1": "6月下旬、夏向けアイテムの新製品発表が集中。深部体温をリアルタイム計測するセンサー「CORE2」の日本限定30個クリアカラー（¥59,400・6/26）、ナリフリの通気・速乾・UVカット「デイリーメッシュコレクション」（6/24）など、暑さ対策を軸にした商品が続々と登場しています。",
+        "layer2": "完成車が動きにくい今、客単価を支えるのは夏のウェア・冷却小物・補給系といった季節・消耗アイテム。猛暑が本格化する7月を前に、暑熱順化や水分・電解質補給とセットで提案すれば、買い替え需要だけでなく既存客の追加購入を引き出せます。限定品は来店動機そのものにもなります。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ（ナリフリ）",
+            "u": "https://www.cyclesports.jp/news/new-product/163854/",
+            "d": "2026-06-24"
+          },
+          {
+            "t": "サイクルスポーツ（CORE2 限定カラー）",
+            "u": "https://www.cyclesports.jp/news/new-product/164067/",
+            "d": "2026-06-26"
+          }
+        ],
+        "status": "確定＝各製品の発表に基づく。経営示唆は提案。"
+      },
+      {
+        "id": "20260629-stingr-hud-debate",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/06/682526-VHR_S01_Hero_test_1-085ecc-original-1781715195-1.jpg",
+        "headline": "視界に情報を映すスマートヘルメット「Stingr」、Xで「安全か、気が散るか」賛否",
+        "layer1": "キャニオンが収納式バイザーにHUD（ヘッドアップディスプレイ）を内蔵した試作スマートヘルメット「Stingr」を公開。ナビや安全情報を視界に表示し、音声操作やハプティック通知にも対応します。これを巡り、日本のローディーの間でも「便利」「視線が散って危険では」と賛否が割れています。",
+        "layer2": "ウェアラブルの安全デバイスは、サイコンやスマートグラスから一歩進み、ヘルメット一体型へ向かいつつあります。価格・法規制・視界への影響など実用面の議論はこれからですが、こうした新カテゴリーは「賛否が分かれる＝人が語りたくなる」テーマで、来店時の会話のきっかけになりやすい。市場としては安全テックへの関心の高まりを示す動きです。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ（cyclesports.jp）",
+            "u": "https://www.cyclesports.jp/news/new-product/164117/",
+            "d": "2026-06-27"
+          }
+        ],
+        "status": "曖昧＝製品は試作。賛否はXほかでの反応（※具体的な投稿の出所は要裏取り）。"
+      },
+      {
+        "id": "20260629-canyon-aeroad-198w",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/06/ARO-CFR-LTD.png",
+        "headline": "キャニオン新型エアロード、「新コクピットで198W」——空力をワットで示す比較が国内でも話題",
+        "layer1": "キャニオンがフラッグシップのエアロロード「エアロード」を刷新。新設計の一体型コクピットを採用し、空力性能の指標として「198W」という数値を打ち出しました。日本のメディア・ブログでも注目度が高まっています。",
+        "layer2": "エアロロードの競争軸は「フレーム単体」から「コクピット・ハンドル周りの一体化」へ移りつつあります。完成車価格は上昇傾向ですが、空力をワット数で明示するメーカーが増え、ユーザーが性能を数値で比較しやすくなったのが今シーズンの特徴。直販大手の打ち出し方は国内の価格・性能の基準づくりに直結するため、試乗会・入荷情報を追うと来店動機の喚起につながります。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ（cyclesports.jp）",
+            "u": "https://www.cyclesports.jp/news/new-product/164068/",
+            "d": "2026-06-26"
+          }
+        ],
+        "status": "確定＝発表に基づく。198Wは公称（測定条件は要確認）。"
+      }
+    ]
+  },
+  {
     "date": "2026-06-28",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、20本。ツール開幕（7/4）まであと6日、各国選手権ウィークで王者が続々——欧州は40℃超の熱波で『安全』が主役に。ユーロバイク2026の新機材、9Veloの1kg切り中華ホイール、国内はジャイアントとキャニオンの値付けまで底から拾いました。今日のPICKは、ついに1kgを切った中華カーボンスポークホイール『9Velo Extreme C52』です。",
     "cards": [
