@@ -1,266 +1,257 @@
 {
-  "date": "2026-07-01",
-  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、20本。ツール7/4バルセロナ開幕まであと3日、各チームの最終8人が出そろい、復活と離脱の人間ドラマが続々です。ユーロバイク明けの新製品と国内市場の今もまとめてお届けします。",
+  "date": "2026-07-02",
+  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、20本。ツール・ド・フランス2026、いよいよ7/4バルセロナ開幕まであと2日――ポガチャル5勝目に挑む『史上最強の布陣』、開幕チームTTの新ルール、そしてユーロバイク明けの新機材と国内市場の動きまで、まとめてお届けします。",
   "cards": [
     {
-      "id": "20260701-onley-out",
-      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/06/GettyImages-2279675475.jpg",
-      "headline": "オンリー、ツール直前で無念の離脱――崖転落を木が救った代償は肩の負傷",
-      "layer1": "イネオスのオスカー・オンリー（23、英）が、7/4開幕のツール・ド・フランス2026を欠場。ツール・オーヴェルニュ・ローヌアルプの下りで防護柵を越えて転倒し、肩を負傷した。",
-      "layer2": "オンリーは高速の下りでガードレールを越えて谷へ転落しかけ、木の枝に引っかかって九死に一生を得た。それでも第6ステージは完走したが勝者から約30分遅れ。その後の精密検査で肩の損傷の深刻さが判明し欠場が決まった。ピクニックからイネオスが大型移籍で獲得したばかりの新鋭GC候補だっただけに、チームには痛恨の喪失となった。",
+      "id": "20260702-gc-showdown",
+      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": true,
+      "image": "https://domestique-cycling.b-cdn.net/production/2025/Tour-de-France/CORVOS_00038200-246.jpg?width=832&height=468&format=jpg&crop=2000%2C1125%2C0%2C104",
+      "headline": "開幕2日前――『史上最強の布陣』でもポガチャル5勝目が断然本命、ジロ完全制覇のヴィンゲゴーが唯一の対抗",
+      "layer1": "7/4バルセロナ開幕まであと2日。総合はタデイ・ポガチャル（UAE）が、記録に並ぶ5勝目へ断然の本命。近年まれに見る強力な出場メンバーが揃ってなお、彼を止めるのは容易ではないと各メディアが口を揃える。",
+      "layer2": "ポガチャルは2026年もミラノ〜サンレモ、フランドル、リエージュを制し、ツール・ド・スイスでは初日に『69kmの独走』でGCを事実上決めた怪物ぶり。唯一の対抗はジロで5区間勝利＋総合優勝を果たし全グランツール制覇を達成したヴィンゲゴー（ヴィスマ）で、ティーニュ合宿の仕上がりは近年最良との情報。ただし2026年に唯一ポガチャルを破った男（パリ〜ルーベ）ウァウト・ファンアールトが肘の負傷で不在＝ヴィスマの援護に痛手。エヴェネプール（レッドブル）は自己最高3位の壁を破れるかが焦点で、登坂力にやや課題。伏兵はデル・トロ、19歳セイシャス、リポヴィッツら。※各選手の最終状態・当日の天候次第で展開は変わりうる。",
       "sources": [
-        { "t": "Velo (Outside)", "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/oscar-onley-out-tour-de-france-2026/", "d": "2026-06-25" },
-        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/racing/netcompany-ineos-announce-that-oscar-onley-will-miss-the-tour-de-france/", "d": "2026-06-25" }
+        { "t": "Domestique Cycling", "u": "https://www.domestiquecycling.com/en/news/analysing-the-2026-tour-de-france-favourites/", "d": "2026-07-01" },
+        { "t": "Cyclingnews（favourites preview）", "u": "https://www.cyclingnews.com/races/tour-de-france-2026/preview/", "d": "2026-06-30" }
       ],
-      "status": "確定＝チーム発表・複数ソースで裏取り済み"
+      "status": "確定＝GCの序列は複数メディアの一致。ファンアールト欠場も確定。最終状態・天候の影響は展開次第"
     },
     {
-      "id": "20260701-cajarural-return",
+      "id": "20260702-storer-gap",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/Caja-Rural-Seguros-RGA/Caja-Rural.jpg?width=832&height=468&format=jpg&crop=1755%2C987%2C0%2C0",
-      "headline": "カハ・ルラル、約40年ぶりのツール帰還――人気のローズ・ロケッツを退けた異例のワイルドカード",
-      "layer1": "スペインのカハ・ルラル・セグロスRGAが、約40年ぶりにツール・ド・フランスへ復帰。バルセロナ開幕に合わせ、ASOがワイルドカードに選んだ。",
-      "layer2": "同チームのツール出場は1987〜89年以来で、当時の看板はマリノ・レハレタ。今回は80年代後半のジャージを再現したノスタルジックなキットを発表した。ASOはファン人気の高いウニベット・ローズ・ロケッツを差し置いて同チームを選出――スペイン開幕の商業・文化的文脈に沿う判断だ。エース格はかつてマイヨジョーヌも着たコロンビアの快足フェルナンド・ガビリアで、区間勝利を狙う。",
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-07%2Fcollage-michaelstorertadejpogacarjonasvingegaard-6a44e40b45d62.jpg",
+      "headline": "ストーラーが吐露した『才能の中の才能』との埋まらぬ距離",
+      "layer1": "ツール開幕直前の会見で、チューダーのマイケル・ストーラーがポガチャル／ヴィンゲゴーとの実力差を率直に語った。総合は狙わず区間勝利に照準を定める。",
+      "layer2": "ストーラー曰く『彼らはみな才能あるアスリート、その中でもさらに才能に恵まれた存在』。さらに『差はかなり大きく、縮まる気配がない。自分が一歩前進すると、彼らも一歩前進しているように見える』と。トップに手が届かないクライマーの本音で、狙いは山岳・丘陵区間での逃げ。総合は明確に回避すると語っている（確定）。",
       "sources": [
-        { "t": "Domestique Cycling", "u": "https://www.domestiquecycling.com/en/features/caja-rural-seguros-rga-2026-tour-de-france-team-guide-back-on-the-biggest-stage-after-40-year-absence/", "d": "2026-06-29" },
-        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/tour-de-france-2026-teams-and-wildcards-unveiled-with-spanish-team-picked-for-debut-over-popular-unibet-rose-rockets/", "d": "2026-06-29" }
+        { "t": "Cycling Up To Date", "u": "https://cyclinguptodate.com/cycling/press-conference-theyre-all-gifted-athletes-michael-storer-on-pogacar-and-vingegaard-winning-ambitions-on-tour-de-france-return", "d": "2026-07-01" }
+      ],
+      "status": "確定＝ストーラーの発言・区間狙いの方針（会見は2026-07-01付）"
+    },
+    {
+      "id": "20260702-mvdp-lovehate",
+      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
+      "image": "https://cdn.mos.cms.futurecdn.net/BbiX2eXD8WsmSJdGXAbGx9-1024-80.jpg",
+      "headline": "ファンデルポール『ツールとは愛憎の関係』肩の力を抜いて臨む黄色",
+      "layer1": "マチュー・ファンデルポールが、もう一度マイヨジョーヌを狙う気持ちを認めつつ『今起きることはすべてボーナス』と語り、重圧のない心境でツールに臨む。",
+      "layer2": "『私のキャリアはすでに十分すぎるほど成功している。もう何も起こらなくていい』と発言。第2ステージ（タラゴナ〜バルセロナ）のモンジュイックの登り＝1.6km・平均9.3%が彼向きとされ、そこで黄色を狙う青写真。ただし『ポガチャル、ヴィンゲゴー、エヴェネプールが本気で狙えば非常に難しい』と現実も認める。区間の数値は※要裏取り。",
+      "sources": [
+        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/racing/i-have-a-love-hate-relationship-with-the-tour-mathieu-van-der-poel-prepares-for-possible-final-shot-at-success-in-france/", "d": "2026-07-01" },
+        { "t": "Domestique Cycling", "u": "https://www.domestiquecycling.com/en/news/van-der-poel-wants-tour-de-france-yellow-again-but-feels-no-pressure-everything-is-a-bonus/", "d": "2026-06-29" }
+      ],
+      "status": "確定＝ファンデルポールの発言・黄色への意欲。※第2ステージの登り数値は要裏取り"
+    },
+    {
+      "id": "20260702-seixas-1937",
+      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-06%2Fpaul-seixas-6a26b0272e07f.jpg",
+      "headline": "19歳セイシャス、89年ぶりの最年少ツール出走者としてフランスの希望を背負う",
+      "layer1": "デカトロンCMA CGMがポール・セイシャス（19）をエースの一角に据え、彼はスタートで1937年以来ツール最年少出走者となる。母国フランスの期待を一身に背負う。",
+      "layer2": "第1ステージ（7/4・バルセロナ）出走時点で19歳9か月10日となり、89年ぶりの最年少記録。フランス人のツール総合勝利は1985年イノー以来、表彰台も2017年以降なし。セイシャス自身は『できる限り良い総合順位を目指す。これほど長く過酷なレースは初めてで、未知の世界に飛び込む』と慎重に語り、具体的な目標設定は避けている（確定）。",
+      "sources": [
+        { "t": "Cycling Up To Date", "u": "https://cyclinguptodate.com/cycling/youngest-since-1937-paul-seixas-leads-decathlon-cma-cgm-teams-tour-de-france-squad-with-olav-kooij-included-for-sprint-ambitions", "d": "2026-06-29" }
+      ],
+      "status": "確定＝最年少記録（1937年以来）・チーム内の立場・本人コメント"
+    },
+    {
+      "id": "20260702-deltoro-outsider",
+      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
+      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-03/tadej-pogacar-and-isaac-del-toro-69ac5a27b5fb8.jpg",
+      "headline": "デル・トロ、UAE内『危険な二枚看板』――ポガチャルに次ぐGC伏兵に",
+      "layer1": "ツール2026デビューのイサク・デル・トロ（UAE）が、単なるアシストではなく独立したGC脅威と評価。ポガチャルと組む『危険なデュオ』として、ライバルに早めの戦力投入を強いる存在とされる。",
+      "layer2": "デンマークのアナリスト、クリスチャン・モベルグが『ポガチャルとヴィンゲゴーに最も近いライダーは恐らくデル・トロ』と発言（確定＝発言として報じられている）。22歳は2025年ジロ総合2位、直近ではツール・オーヴェルニュ・ローヌ・アルプ総合優勝と実績を積む。ただしチーム方針上どこまで自身のGCを狙えるかは※要裏取り。",
+      "sources": [
+        { "t": "CyclingUpToDate", "u": "https://cyclinguptodate.com/cycling/a-dangerous-duo-isaac-del-toro-tipped-as-closest-rider-to-pogacar-and-vingegaard-in-resounding-uae-tour-de-france-verdict", "d": "2026-06-29" }
+      ],
+      "status": "確定（GC自走の度合いは※要裏取り）"
+    },
+    {
+      "id": "20260702-fretin-sprint",
+      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
+      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/www.indeleiderstrui.nl/images/2026-06/milan-fretin-6a3bc8f4ad82b.jpg",
+      "headline": "スプリント伏兵ミラン・フレタン、初ツールでフィリプセン＆メルリールに挑む",
+      "layer1": "コフィディスの新星ミラン・フレタン（ベルギー）が、フィリプセンやメルリールら大物に割って入る第3のスプリンター候補として注目。チームは専用リードアウト列車を編成し、約6回のスプリント機会を見込む。",
+      "layer2": "GMラファエル・ジューヌは『今季フレタンはミランやフィリプセンら相手にも互角に渡り合った』とコメント（確定＝発言）。リードアウトにビエルマンス、アレガールト、ページ、キルシュを配置。ツール初出場のため序盤から無理せず慣らす方針で、勝利数などの具体的数字は※要裏取り。",
+      "sources": [
+        { "t": "IDL ProCycling", "u": "https://www.idlprocycling.com/cycling/among-the-big-tour-de-france-sprint-names-of-philipsen-and-merlier-keep-an-eye-on-cofidis-milan-fretin", "d": "2026-07-01" }
+      ],
+      "status": "確定（勝利数など数字は※要裏取り）"
+    },
+    {
+      "id": "20260702-stage1-ttt",
+      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
+      "image": "https://domestique-cycling.b-cdn.net/production/2025/CORVOS_00037704-059.jpg?width=832&height=468&format=jpg&crop=2000%2C1125%2C0%2C103",
+      "headline": "開幕バルセロナのチームTT、7年ぶり復活に『個人計時』の新ルール",
+      "layer1": "7/4開幕の第1ステージは約19.6kmのバルセロナ市街地チームタイムトライアル。2019年以来のTTT復活で、タイム計測の方式が刷新される。",
+      "layer2": "従来の『4人目（または5人目）通過時のタイムをチーム全員に付与』ではなく、各選手が自分のフィニッシュラインでの個人タイムを刻む方式（パリ〜ニースが2023年から採用）。終盤のモンジュイックの登りとオリンピックスタジアムの登り以降はチームメイトが揃って走る義務がなく、強い選手が単独で仕掛けられる。ASOは『トラックのチームスプリントに近い、リーダーを送り出す最適な戦略を各チームに迫る』と説明。コース距離と登りの勾配数値は※要裏取り。",
+      "sources": [
+        { "t": "Domestique Cycling", "u": "https://www.domestiquecycling.com/en/news/2026-tour-de-france-team-time-trial-explained-stage-1-format-and-rules/", "d": "2026-06-27" }
+      ],
+      "status": "確定＝個人計時方式・TTT復活・ASOの説明。※コース距離と登りの勾配数値は要裏取り"
+    },
+    {
+      "id": "20260702-blackinc-hyper62",
+      "genre": "wheel", "genreLabel": "WHEEL", "genreJa": "ホイール", "hot": false,
+      "image": "https://bikerumor.com/wp-content/uploads/2026/06/Black-Inc-HYPER-62-header--scaled.jpg",
+      "headline": "Black Inc『HYPER 62』発表――モールドカーボンスポークで1298g、しかし約60万円の超高級ディープ",
+      "layer1": "Factor傘下Black Incが新型62mmディープエアロホイール『HYPER 62』を発表（6/24）。専用のモールド一体カーボンスポークとボンデッドハブフランジ、リム内に隠したスポークニップルを採用。",
+      "layer2": "公称重量1298g（SRAM XDR、公差±5%）、スポーク数はフロント16／リア20と超本数少。リム内幅23mm・外幅28.7mm（フック部）、ミニフック＆チューブレス対応で推奨タイヤ28／30c、最大空気圧72psi（TL）。価格は米国3,899ドル、欧州4,599ユーロ（VAT込）と超高額。カーボンスポーク×ディープが完成域に入る一方、この価格帯はまさに中華カーボン（FARSPORTS／8LIEN等）の1000〜2000ドル級カーボンスポーク機との価格差が際立つ。",
+      "sources": [
+        { "t": "Bikerumor", "u": "https://bikerumor.com/black-inc-hyper-62-wheels-bring-carbon-spokes-hidden-hardware-1298g-deep-wheel-speed/", "d": "2026-06-24" }
       ],
       "status": "確定"
     },
     {
-      "id": "20260701-uijtdebroeks-debut",
-      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039034-135.jpg?width=832&height=468&format=jpg&crop=2000%2C1125%2C0%2C104",
-      "headline": "アウトデブルーク、苦難を超えて初ツールへ――ムービスターが23歳に総合の全権",
-      "layer1": "ムービスターが6/30、ツールの8人を発表し、キアン・アウトデブルーク（23、ベルギー）を単独の総合（GC）エースに指名。自身初のツールに臨む。",
-      "layer2": "2023年ブエルタ総合8位の逸材だが、ボーラ時代に『いじめ（パワハラ）』を訴え契約紛争で合意解除、さらに2025年夏には自動車にはねられる事故にも見舞われた。それでも2026年は復調し、ツール・オーヴェルニュ・ローヌアルプ上位など好調で初ツールへ。ムービスターは次世代の中核を並べ、2019年キンタナ以来の区間勝利を狙う。移籍の経緯は本人が『ヴィスマの哲学は万人に合わない――グランツール出場を保証できなかった』と語っている（背景はRouleur 2025年12月の記事を補足に使用）。",
-      "sources": [
-        { "t": "Domestique Cycling（Movistar team guide）", "u": "https://www.domestiquecycling.com/en/features/movistar-2026-tour-de-france-team-guide/", "d": "2026-06-30" },
-        { "t": "Cycling Weekly（start list）", "u": "https://www.cyclingweekly.com/racing/tour-de-france/tour-de-france-2026-start-list", "d": "2026-06-24" },
-        { "t": "Rouleur（背景・補足）", "u": "https://www.rouleur.cc/blogs/the-rouleur-journal/vismas-philosophy-doesnt-work-for-everyone-why-cian-uijtdebroeks-broke-his-contract-again-to-join-movistar", "d": "2025-12" }
-      ],
-      "status": "確定＝メンバー発表（6/30）。契約経緯の背景は2025年12月の記事を補足に使用"
-    },
-    {
-      "id": "20260701-delie-comeback",
-      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": true,
-      "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/Lotto-Intermarche/CORVOS_00038814-254.jpg?width=832&height=468&format=jpg&crop=4237%2C2384%2C0%2C220",
-      "headline": "『精神的に壊れていた』――デ・リー、心身のどん底からツール初出場へ",
-      "layer1": "呼吸器系ウイルスと、それに伴う精神的不調に苦しんだロット・インターマルシェのアルノー・デ・リー（23）が復調し、ツール・ド・フランス初出場のエースに指名された。",
-      "layer2": "デ・リーはエトワール・ド・ベセージュ勝利で好スタートを切ったが、春のクラシック期に呼吸器ウイルスに襲われ主要目標を逃した。身体の不調は精神面にも波及し、DSニコラス・マースは『彼はパフォーマンスを発揮できる精神状態になかった』と振り返る。今季はベルギー国内で2勝を挙げて手応えを取り戻し、ツール・ド・スイスを最終調整に初のツールへ。ロットはアルツ、スロック、クラプスらデビュー組の若い布陣で、デ・リーの快速とファン・エートフェルト／ツィンマーマンの逃げ・登坂で複数のステージに勝機を作る。",
-      "sources": [
-        { "t": "Domestique Cycling（Lotto-Intermarché team guide）", "u": "https://www.domestiquecycling.com/en/features/lotto-intermarche-2026-tour-de-france-team-guide/", "d": "2026-06-29" },
-        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/news/i-was-mentally-broken-arnaud-de-lie-completes-emotional-comeback-ahead-of-tour-de-france-debut/", "d": "2026-06-28" }
-      ],
-      "status": "確定＝Domestique（6/29）。本人コメントはCyclingnews（6/28）の見出し・抜粋で裏取り"
-    },
-    {
-      "id": "20260701-matthews-comeback",
-      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-06/michael-matthews-6a328cf1257bf.jpg",
-      "headline": "『3か月前なら信じなかった』――両手首骨折のマシューズ、ツール復帰へ",
-      "layer1": "3月のトレーニング中の落車で両手首を骨折したジェイコ・アルウラのマイケル・マシューズ（35）が、驚異的な回復でツール2026のメンバー入りした。",
-      "layer2": "マシューズは2025年に肺塞栓症でツールを欠場、さらに2026年3月の落車で両手首を骨折しシーズン前半を棒に振った。6月初旬のツール・オーヴェルニュ・ローヌアルプで実戦復帰し本番に間に合わせた。『3か月前に出場すると言われても信じなかった』と本人。通算4度の区間勝者で元ポイント賞王者。ジェイコは総合を追わずステージ・ハント型で、オコーナー、プラップ、アッカーマンらを擁する。ダーブリッジは12回目で最後のツールとなる。",
-      "sources": [
-        { "t": "Bike World News", "u": "https://www.bikeworldnews.com/2026/06/28/2026-tour-de-france-oconnor-matthews-and-plapp-to-lead-team-jayco-alula/", "d": "2026-06-28" },
-        { "t": "CyclingUpToDate", "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-matthews-oconnor-and-plapp-lead-the-way-for-a-stage-hunting-jayco", "d": "2026-06-26" },
-        { "t": "Cycling Weekly", "u": "https://www.cyclingweekly.com/racing/tour-de-france/riders-capable-of-competing-on-every-stage-jayco-alula-line-up-with-stage-hunters-at-tour-de-france-in-special-maap-kit", "d": "2026-06-26" }
-      ],
-      "status": "確定＝チーム発表・複数ソースで裏取り済み"
-    },
-    {
-      "id": "20260701-ciccone-skip",
-      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-05/giulio-ciccone-6a05e162a6594.jpg",
-      "headline": "ジロで復活のチッコーネ、ツールには出ず――狙うはサンセバスティアンと世界選手権",
-      "layer1": "リドル・トレックのジュリオ・チッコーネが、ツール2026のメンバーから外れた。5月のジロで山岳賞とマリア・ローザを獲得した直後の決断だ。",
-      "layer2": "チッコーネは2大グランツールを連戦せず、シーズン後半をワンデーに賭ける道を選んだ。最大目標は連覇のかかるクラシカ・サン・セバスティアン（昨年独走優勝）とモントリオール世界選手権。ブエルタには出ず、ケベック・モントリオールのカナダ両戦を調整に充てる。彼が抜けたことでリドル・トレックはアユソとペデルセンに的を絞れる。なおロレンツォ・フォルトゥナート（XDSアスタナ）も体調不良で欠場が決まっている。",
-      "sources": [
-        { "t": "CyclingUpToDate", "u": "https://cyclinguptodate.com/cycling/san-sebastian-over-the-tour-de-france-giulio-ciccone-skips-cyclings-biggest-race-to-chase-one-day-glory", "d": "2026-06-27" },
-        { "t": "IDL Pro Cycling", "u": "https://www.idlprocycling.com/cycling/giulio-ciccone-lidl-trek-and-fortunato-astana-also-out-of-the-2026-tour-de-france", "d": "2026-06-27" }
-      ],
-      "status": "確定＝出場回避はチーム発表・複数ソースで裏取り済み"
-    },
-    {
-      "id": "20260701-green-jersey-rules",
-      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://domestique-cycling.b-cdn.net/production/2025/Historial-images/CORVOS_00036884-132.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C141",
-      "headline": "緑のジャージが新ルールで様変わり――純粋スプリンター優遇でフィリプセン本命",
-      "layer1": "ASOがツール2026のポイント賞ルールを大幅変更。平坦ステージの価値が上がり、純粋スプリンターがさらに有利になった。",
-      "layer2": "平坦ステージ勝利が従来の50点から70点に増え、各平坦ステージに中間スプリントが2回設定される。本命は2023年覇者ジャスパー・フィリプセン（アルペシン）で、最強の発射台MvdPを擁し着実に稼ぐ。対抗はトップスピード随一のメルリール（スーダル）だが、中間スプリントを捨てがちな戦法は新制度で不利。ベルギー・ツールでフィリプセンらを破った新鋭オラフ・コーイ（デカトロン）も台頭。ジロを走ったミランは不在で、ペデルセンは起伏ゴールで別路線を狙う。",
-      "sources": [
-        { "t": "Domestique Cycling", "u": "https://www.domestiquecycling.com/en/news/5-favourites-for-the-2026-tour-de-france-green-jersey/", "d": "2026-06-29" }
-      ],
-      "status": "確定＝ルール変更はASO発表ベース"
-    },
-    {
-      "id": "20260701-zipp-404s",
+      "id": "20260702-9velo-extreme-c52",
       "genre": "wheel", "genreLabel": "WHEEL", "genreJa": "ホイール", "hot": false,
-      "image": "https://bikerumor.com/wp-content/uploads/2026/06/Zipp-404-S-lead.jpeg",
-      "headline": "ジップ『404 S』登場――1,000ポンド以下で50mmフックレス・カーボンエアロの新基準",
-      "layer1": "ジップが新型『404 S』を6/30発表。50mmディープのフックレスカーボンを€1,100／$1,300（1,000ポンド以下）で投入し、定番303 Sの上位として高性能エアロを大衆化する。",
-      "layer2": "リム深50mm、内幅23mmのフックレス、重量はリムテープ・バルブ込みで実測1,585g。スポークはSapim CX-Sprintで前20H／後24H、ハブは実績ある76/176（係合36ポイント・10°）。フリーボディはSRAM XDRまたはロード対応。推奨タイヤ幅28〜39mm、最大5.0bar、最大システム重量115kg。価格はフロント$630／リア$670／セット$1,300。うちが扱う中華カーボンの価格競争力を測る好材料でもある。",
+      "image": "https://ueeshop.ly200-cdn.com/u_file/UPAW/UPAW609/2510/30/products/1.jpg",
+      "headline": "中華9Velo『EXTREME C52』予約開始――カーボンスポークで999g・約27万円というディープの下克上",
+      "layer1": "中国新興9Veloが2026年ウルトラライトディープ『EXTREME C52』を予約販売開始。52mmディープながらカーボンスポーク採用でロードディスク機として超軽量を狙う。",
+      "layer2": "公称重量999g（±30g、テープ別）、リム深52mm・内幅23.6mm、20H／20HでT字インターフェースのブレード状カーボンスポーク採用。価格1,899ドル（約27万円）。Black Inc HYPER 62（1298g・約60万円）と同じ『ディープ×カーボンスポーク』路線を半額以下・約300g軽量で提示しており、まさに中華カーボン（8LIEN／CRW／GOOSYNN／NEPEST／FARSPORTS／PARTICLE）が展開する価格・軽量競争の最前線。※実測重量・剛性は要裏取り。",
       "sources": [
-        { "t": "Bikerumor", "u": "https://bikerumor.com/zipps-new-404-s-are-mid-depth-hookless-carbon-road-wheels-with-an-attractive-price-tag/", "d": "2026-06-30" },
-        { "t": "road.cc", "u": "https://road.cc/tech-news/zipp-launches-new-404-s-carbon-road-wheels-promising-industry-leading-aero-performance-for-under-1000", "d": "2026-06-30" },
-        { "t": "BikeRadar", "u": "https://www.bikeradar.com/news/zipp-404-s", "d": "2026-06-30" }
+        { "t": "9Velo（公式製品ページ）", "u": "https://www.9velo.com/products/9velo-2026-ultralight-road-disc-carbon-spoke-extreme-c52-road-wheels-20h-20h-236-mm-inner-wide,-sub1000-grams", "d": "2026-06-28" }
       ],
-      "status": "確定＝6/30発表・発売中"
+      "status": "曖昧＝公式製品ページ発。実測重量・剛性は要裏取り"
     },
     {
-      "id": "20260701-cadex-max-gxr",
-      "genre": "wheel", "genreLabel": "WHEEL", "genreJa": "ホイール", "hot": false,
-      "image": "https://bikebiz.com/wp-content/uploads/Premium-Performance-1-1280x640.jpg",
-      "headline": "CADEX『Max GXR』――カーボンスポーク50mmでグラベルレースを再定義、1,320gの新システム",
-      "layer1": "CADEXが6/30、グラベルレース専用『Max GXR ホイールシステム』と専用GXRタイヤを発表。50mmディープ×25mmフックレス内幅で、テープ・バルブ込み1,320gの軽さと高剛性を両立する。",
-      "layer2": "独自Super Aeroカーボンスポークを一体成型、ハブはR3-C60（60Tラチェット）。サイドウォールは5mm厚の『Wide Guard』でパンク耐性を強化。性能はAR 35比でエアロ4.61W向上、後輪駆動剛性24.8%増を主張。価格は$4,000／€3,799。新GXRタイヤは170TPI、Race Shield+で$85。ハイエンド・グラベルの最前線として、価格と性能の上限を知る材料になる。",
-      "sources": [
-        { "t": "BikeBiz", "u": "https://bikebiz.com/new-cadex-max-gxr-wheelsystem-and-gxr-tyre-bring-high-speed-gravel-efficiency-and-control/", "d": "2026-06-30" },
-        { "t": "Cycling Weekly", "u": "https://www.cyclingweekly.com/products/as-cadex-launches-its-new-aero-wheelsystem-does-this-mean-team-jayco-alula-might-be-about-to-get-a-new-aero-bike", "d": "2026-06-30" }
-      ],
-      "status": "確定＝6/30発表・スペック公開済み"
-    },
-    {
-      "id": "20260701-ergon-tf2",
+      "id": "20260702-pirelli-pzero-race-2027",
       "genre": "parts", "genreLabel": "PARTS", "genreJa": "パーツ", "hot": false,
-      "image": "https://bikerumor.com/wp-content/uploads/2026/06/Ergon-Eurobike-new.jpeg",
-      "headline": "エルゴン、$49.95のバイクフィット計測ツールTF1＋TF2を投入――プロ級のポジション出しを身近に",
-      "layer1": "エルゴンがEurobike 2026で、サドル位置やステム長を正確に測れる新フィッティングツール『TF2』を発表。先行のTF1と合わせ$49.95で、自宅でのポジション再現を可能にする。",
-      "layer2": "TF2はクランク側で使い、サドル高・セットバック・サドル〜ハンドル距離・ステム長を計測。V字ノッチでペダル軸・BB・ハンドルにセンタリングする構造。価格はTF1＋TF2キットが$49.95、TF2単体$24.95、発売は2026年9月。初中級者が自分のポジションを数値で残せる安価な道具として実用的だ。",
+      "image": "https://www.ciclonline.com/images/stories/fbici20262/eurobike-2026-foto-1.jpg",
+      "headline": "Pirelli、ユーロバイク2026で『P Zero Race 2027』を披露――新ケーシング『SmartEVO+』でコーナー変形を抑制",
+      "layer1": "Pirelliがユーロバイク2026（6/24〜27）で次世代レースタイヤ『P Zero Race』2027年版を公開。新ケーシング技術『SmartEVO+』を核に、コーナリング時のサイドウォールの寄生的変形を低減する。",
+      "layer2": "新型は超高圧フックレスリム規格に最適化され、ウェット路面のグリップ管理を新たなベンチマークに据える設計。既存レンジでは最速・最エアロを謳う『P Zero Race TLR SL-R』（28mmで公称275g）や、ストレート気味のサイドウォールでリム端の乱流を抑えるエアロ機構『PAAS』も展開中。2027年版の正式重量・価格・転がり値は現時点で未公表※要裏取り。",
       "sources": [
-        { "t": "Bikerumor", "u": "https://bikerumor.com/ergon-at-eurobike-new-handlebar-tapes-mtb-grips-and-another-bike-fit-tool/", "d": "2026-06-26" }
+        { "t": "Cyclonline", "u": "https://www.cyclonline.com/125-eurobike-2026-frankfurt-news/4402-eurobike-2026-the-2027-innovations-from-campagnolo,-pirelli,-look,-enve,-and-wahoo", "d": "2026-07-01" }
       ],
-      "status": "確定＝6/26発表・発売は2026年9月"
+      "status": "曖昧＝ユーロバイク展示。正式スペック未公表※要裏取り"
     },
     {
-      "id": "20260701-onebyesu-munch-vds",
+      "id": "20260702-campagnolo-srw-2027",
       "genre": "parts", "genreLabel": "PARTS", "genreJa": "パーツ", "hot": false,
-      "image": "https://onebyesu.tokyo-san-esu.com/category/seatposts/image/munch_vds.webp",
-      "headline": "ワンバイエス『カーボン ムンク VDS シートポスト』発表――制振材を埋め込んだ国産カーボンポスト",
-      "layer1": "国内ブランド・ワンバイエス（東京サンエス）が、カーボン層間に制振材を挟むVDS（Vibration Damper System）を備えたカーボンシートポスト『ムンク VDS』を発表した。",
-      "layer2": "φ27.2mm・長さ330mm・オフセット25mm、UDマット仕上げのモノコック。クランプは30mm／43mmの2種を別売（各4,180円）。重量は30mmクランプ使用時で212g前後（構成で約230gとする販売店表記も）。ボディ単体25,520円（税込）。リムでもディスクでも後付けしやすい『国産・現実的価格の快適化パーツ』として、Eurobike明けの新製品ラッシュの中で日本のロード乗りに刺さりやすい一本だ。",
+      "image": "https://www.ciclonline.com/images/stories/fbici20262/eurobike-2026-foto-1.jpg",
+      "headline": "カンパ『スーパーレコード・ワイヤレス』2027版がユーロバイク2026に――カギは新スプロケット処理の『静音変速』",
+      "layer1": "Campagnoloがユーロバイク2026で次世代『Super Record Wireless』（2027年版）を提示。レバーのエルゴノミクスを刷新し、新しいスプロケット表面処理により最大負荷下でも『これまでにない変速の静粛性』を狙う。",
+      "layer2": "電動最上位群として、シマノの13速化リーク（E-Tubeアプリに13枚目の痕跡）やSRAMの動きに対抗する2027年へのアップデート。SNSで話題の『静音・変速フィール』強化が主眼で、段数拡張（13速化）や価格・重量など具体スペックは会場時点で未確定※要裏取り。ハイエンド電動の進化と、中華カーボンホイール×既存電動群を組む低価格レースビルドの二極化が一段と鮮明。",
       "sources": [
-        { "t": "cyclowired", "u": "https://www.cyclowired.jp/news/node/392699", "d": "2026-06-29" },
-        { "t": "OnebyESU 公式", "u": "https://onebyesu.tokyo-san-esu.com/category/seatposts/munch_vds.html", "d": "2026-06-29" }
+        { "t": "Cyclonline", "u": "https://www.cyclonline.com/125-eurobike-2026-frankfurt-news/4402-eurobike-2026-the-2027-innovations-from-campagnolo,-pirelli,-look,-enve,-and-wahoo", "d": "2026-07-01" }
       ],
-      "status": "確定＝cyclowired 6/29報道。重量はクランプ構成で表記差あり（212〜230g）※一部要裏取り"
+      "status": "曖昧＝ユーロバイク展示。具体スペック未確定※要裏取り"
     },
     {
-      "id": "20260701-giro-empire-slx2",
-      "genre": "parts", "genreLabel": "PARTS", "genreJa": "パーツ", "hot": false,
-      "image": "https://image.cog.inc/giro/cms/wp-content/uploads/2025/12/IMG_0886.jpg",
-      "headline": "ジロ、フラッグシップ『EMPIRE SLX II／IMPERIAL II』を日本投入――鍛造UDカーボンソールで全面刷新",
-      "layer1": "ジロが象徴的トップモデル2足を刷新し国内発表。シューレース式『EMPIRE SLX II』とBOA Li2式『IMPERIAL II』、いずれも帝人共同開発のニットSynchwireアッパーと一体鍛造UDカーボンソールを採用する。",
-      "layer2": "EMPIRE SLX IIは実測221g（サイズ43）、IMPERIAL IIはアルミ製BOA Li2デュアルダイヤルを備える。新型鍛造ソールで剛性を約20Nm向上、交換式アーチサポート（S/M/L）やTPUトゥ・ヒールも共通装備。国内価格はEMPIRE SLX IIが59,400円、IMPERIAL IIが64,900円（税込）、サイズ39〜45。夏のロングライド／ヒルクライム期の『買い替え本命』として店頭提案しやすい。",
-      "sources": [
-        { "t": "cyclowired", "u": "https://www.cyclowired.jp/news/node/392707", "d": "2026-06-28" },
-        { "t": "GIRO 日本公式（補足）", "u": "https://www.cog.inc/giro/archives/13850", "d": "2025-12-26" }
-      ],
-      "status": "確定＝cyclowired 6/28の国内報道。グローバル発表は2025年だが日本投入はこの時期"
-    },
-    {
-      "id": "20260701-uci-tt-25m",
+      "id": "20260702-shimano13s",
       "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://domestique-cycling.b-cdn.net/production/2025/Tour-de-France/CORVOS_00036900-251.jpg?width=2400&height=1260&quality=75&crop=2993%2C1572%2C0%2C211",
-      "headline": "TT後続車は『25m後ろ』へ――ツール2026で発効するUCI新ルールが空力ドーピングに線引き",
-      "layer1": "ツール2026で注目のルール変更の一つが、個人TT中の後続車の最低車間を従来10mから25mへ拡大する新規定。スリップストリーム由来の不公平を排除する狙いだ。",
-      "layer2": "アイントホーフェン工科大の研究で、車間10mの後続車が46.8km/h走行のライダーに1kmあたり0.05秒の優位を与えると示されたのが根拠。コミセールや撮影バイク等は役割上の接近を許容されるが、ライダー真後ろを避けて側方に位置するのが条件。2026年は機材規定の能動的取り締まりもツールで本格化し、違反にはタイム加算や失格も。リム高65mm上限などと合わせ、UCIが『速さの源泉』を制度面から再設計する年だ。",
+      "image": "https://cyclingarchives.com/wp-content/uploads/2026/05/shimano-13-speed-2026-dura-ace-r9300-wireless-reshape-worldtour-1.jpg",
+      "headline": "シマノ新型デュラエース『R9300』は完全ワイヤレス2×13速か――ツール開幕でお披露目の噂",
+      "layer1": "E-Tube Projectアプリのコードに『13速目』のギア表示が見つかり、SPD-SLペダルの品番に『R9300』『R8200』の記載も確認されたとの報。パテント図は前後ディレイラーが各自バッテリーを内蔵する『完全ワイヤレス2×13速』を示唆する。",
+      "layer2": "【曖昧】発表時期はツール・ド・フランス開幕（グランデパール）前後との予想が有力だが、いずれも噂・リーク段階（※要裏取り）。カセットは11-32／11-34、非互換の新Hyperglide+チェーンと新フリーボディが必要とされる。価格は完組ディスクで約4,899ドル／4,999ユーロ（現行比＋5%）との予測も。ただしシマノ広報は『13速製品はラインナップに含まれない』と公式には否定しており、量産・一般販売は早くても2026年秋以降、供給次第で2027年ずれ込みの可能性も。現時点ではすべて予測段階で確定情報ではない（※要裏取り）。マサルが好む機材リークの筆頭ネタ。",
       "sources": [
-        { "t": "Domestique Cycling", "u": "https://www.domestiquecycling.com/en/news/three-rule-changes-to-watch-at-the-2026-tour-de-france/", "d": "2026-06-25" },
-        { "t": "UCI", "u": "https://www.uci.org/pressrelease/uci-regulations-for-road-cycling-changes-for-time-trials/1QmN4gRxrsgeQtgahAAfXr", "d": "2026-06-25" }
+        { "t": "Cycling Archives", "u": "https://cyclingarchives.com/shimano-13-speed-2026-dura-ace-r9300-wireless-reshape-worldtour/", "d": "2026-05-04" },
+        { "t": "BikeRadar（E-Tubeリークの続報）", "u": "https://www.bikeradar.com/news/shimano-13-speed-e-tube-leak", "d": "2026-03-10" }
       ],
-      "status": "確定＝2026シーズン発効。取り締まり強化はツールで本格化見込み"
+      "status": "曖昧＝リーク・噂段階。公式は否定※要裏取り（マサルの好むリークネタとして提示）"
     },
     {
-      "id": "20260701-canyon-predict-deepdive",
+      "id": "20260702-tdf26tech",
       "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://d21buns5ku92am.cloudfront.net/69671/images/682508-2026_EVT_PREDICT_Concept-bike_-_-_Eurobike-beauty-full_-_16x9_-_ALL-7560ad-large-1781711395.jpg",
-      "headline": "AI・レーダー・カメラを積む『予知するロードバイク』――キャニオンPredict、技術深掘りが続報で話題",
-      "layer1": "Eurobike 2026で公開されたキャニオンのAI搭載コンセプト『Predict』について、エンジニア取材による技術深掘りが続報として注目を集めている。360度センサーで危険を先読みする仕組みの中身が明らかになった。",
-      "layer2": "Predictは前3＋後1の計4カメラ、前3＋後1の計4レーダー、タイヤ内圧センサー、DT Swissハブ内蔵センサーを統合。車載エッジAIが全データをローカル処理し、通信に依存しない（プライバシーと応答速度のため）。表示はハンドル内蔵ディスプレイやARバイザー付きヘルメット『Stingr Smart』。クルマのADAS（先進運転支援）が自転車に降りてきた格好で、実用化は2〜3年後の見込み。実走での信頼性が普及の鍵になる。",
+      "image": "https://www.bikeradar.com/resources/content/32337f2f-7841-4ef6-a233-d1f001580530/6b9bc524-dce1-4670-b93d-853d24a7bd69/51caa3ed-9fea-4737-8574-c496159e8eae/2026-Tour-de-France_Tech-Predictions-scaled.jpg?preview=false&platform=WEB&deviceId=f5e235ce-a753-42d7-bcfe-a3960fa9ebbc&w=1200",
+      "headline": "2026ツール機材トレンド――タイヤ幅拡大は『一巡』、極狭バーは規制で終焉、猛暑対策が主戦場に",
+      "layer1": "BikeRadarの2026ツール機材予想（6/26）によると、(1)タイヤは28〜30mm中心で幅拡大競争は頭打ち、(2)ハンドルは大多数がドロップ外-外400mm（フード幅換算380mm）のUCI新規制準拠へ、(3)GC勢は専用軽量バイクでなく『軽量化したエアロバイク』を選好という潮流。",
+      "layer2": "【確定】ワイド化の実態――チームがほぼ全面採用する幅広リムでは、表記28mmでも実測で『31〜32mm前後』に膨らむため、軽い細めタイヤを選ぶ動きが定着。ポガチャルはENVE SES系＋Conti GP5000 TT TR、ヴィンゲゴーはVismaのワイドReserveリムに合わせVittoria Corsa Pro系の29〜30mmが有力視。【曖昧】猛暑対策は新トレンド化――冷却ヘルメット、保冷ボトル、アイスベスト、CORE体温センサーを使う暑熱順化が拡大の見込み（各社の冷却性能値は※要裏取り）。",
       "sources": [
-        { "t": "DC Rainmaker", "u": "https://www.dcrainmaker.com/2026/06/canyon-predict-concept-smart-bike-safety-engineer.html", "d": "2026-06-25" },
-        { "t": "Velo (Outside)", "u": "https://velo.outsideonline.com/road/road-gear/eurobike-2026-canyon-predict-v2x/", "d": "2026-06-26" }
+        { "t": "BikeRadar", "u": "https://www.bikeradar.com/features/opinion/2026-tour-de-france-tech-predictions", "d": "2026-06-26" },
+        { "t": "BikeRadar（ツール・オーヴェルニュの機材傾向）", "u": "https://www.bikeradar.com/features/tech/5-tech-trends-from-the-2026-tour-auvergne-rhone-alpes", "d": "2026-06-09" }
       ],
-      "status": "曖昧＝Eurobike展示のコンセプト機（6/24デビューの続報・技術深掘り）。市販は2〜3年先の見込み"
+      "status": "確定（猛暑対策の性能値など一部は※要裏取り）"
     },
     {
-      "id": "20260701-hydration-amount",
+      "id": "20260702-ucigearloss",
+      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
+      "image": "https://domestique-cycling.b-cdn.net/production/2026/CORVOS_00037813-049.jpg?width=2400&height=1260&quality=75&crop=6000%2C3150%2C0%2C425",
+      "headline": "UCIのギア比制限（54×11）はSRAMに敗訴で頓挫、係争は最高裁へ――矛先は今度『サイコン画面サイズ』に",
+      "layer1": "UCIが安全対策として提案していた最大ギア比制限（54×11＝クランク1回転あたり約10.46m）が、SRAMの法廷闘争で停止。ブリュッセル控訴審（2025年10月）はUCIの手続きが『透明性・客観性・比例性・非差別性』を欠くと判断し、UCIの上訴を退けた。UCIはベルギー破毀院（最高裁）へ争いを持ち込む方針。",
+      "layer2": "【確定】この基準は10T小ギアを使うSRAM AXS陣営を実質狙い撃ちする形で、適合には小径チェーンリング強制を意味したため『イノベーション阻害』とSRAMが反発。テストプロトコルは停止中で、2026年ツールでの導入は無い。【確定】UCIの規制の矛先は他へ――サイコン画面は最大126mm×71mmに制限（2028年1月1日施行）。さらにジャージ前ポケット禁止（無線機を除く）が2026年7月1日から発効。安全規制の潮流が『機材の速度抑制』から『装備・情報の標準化』へ移りつつある。",
+      "sources": [
+        { "t": "Domestique Cycling", "u": "https://www.domestiquecycling.com/en/news/uci-targets-bike-computer-size-as-sram-gear-ratio-dispute-moves-to-highest-court/", "d": "2026-06-06" },
+        { "t": "BikeRadar（SRAM勝訴の続報）", "u": "https://www.bikeradar.com/news/uci-loses-appeal-sram-gearing-restriction", "d": "2025-10-10" }
+      ],
+      "status": "確定"
+    },
+    {
+      "id": "20260702-heat-corecooling",
       "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "https://www.bikeradar.com/resources/content/32337f2f-7841-4ef6-a233-d1f001580530/ebfed4a9-7279-4e7d-bf7e-a92d8778bbf5/4e64dab9-2f2e-4042-92fd-2576ae9c8179/GettyImages-1529743151.jpg?preview=false&platform=WEB&deviceId=0d43850a-d6fa-450d-a612-82f51129585e&w=1200",
-      "headline": "猛暑ライドの正解は『1時間にどれだけ飲むか』――熱波で初心者が守る水分・塩分の量",
-      "layer1": "ツール開幕の真夏、まず押さえたいのは飲む量の基準。25℃超の暑い日は1時間あたり700〜900ml、15分ごとに約125mlを目安にこまめに補給する。",
-      "layer2": "発汗量は個人差が大きい。校正は簡単で、給水なしの1時間ライド前後で体重を量り、減った1kg＝失った汗約1Lと換算する。走り出して最初の15分から『のどが渇く前』に飲むのがコツ。60分超や暑熱下では電解質が必須で、ナトリウムは汗1Lあたり500〜1500mg失われるため1時間500〜700mgを目標に。塩分は水分吸収を助け、つり予防にも効く。ただし真水の飲み過ぎは血中ナトリウムが下がり危険なので、量と塩分のバランスが肝心だ。",
+      "image": "https://img.my-best.com/product_images/ccf06905aea779a54b70199670aea514.jpg",
+      "headline": "ツール開幕の猛暑週間、初心者はまず『暑熱順化』と『深部体温を下げる』2手で",
+      "layer1": "真夏の走り出しで初心者がつまずくのは水の量より『体が暑さに慣れていない』こと。ツール・ド・フランス開幕（7/4）に触発されて走り出す人が増える今、いきなり炎天下ロングは危険。『暑熱順化』と、走行中に上がりすぎる『深部体温』を積極的に下げる発想が入口になる。",
+      "layer2": "暑熱順化は本番の1〜2週間前から。昼休みなどに『ややきつい』と感じる速度で20〜30分以上、汗ばむ運動を週数回続けると体が暑さに強くなる。ライド当日は、渇きを感じる前に30分〜1時間おきと時間を決めて電解質入りドリンクを補給（渇いた時点で既に脱水が始まっている）。深部体温を下げるには、氷粒入りの『アイススラリー』を出発前や休憩で飲む、走行中はボトルの水を頭や身体にかける、休憩で『首・脇の下・鼠蹊部』など太い血管を氷や水で冷やす。コーヒーや緑茶はカフェインの利尿作用で逆効果になりうる点にも注意。",
       "sources": [
-        { "t": "BikeRadar", "u": "https://www.bikeradar.com/advice/nutrition/how-to-stay-hydrated-on-your-bike", "d": "2026-06-24" }
+        { "t": "マイベスト（熱中症対策ドリンク）", "u": "https://my-best.com/18202", "d": "2026-06-30" },
+        { "t": "ファンライド（熱中症対策・補足）", "u": "https://funride.jp/serialization/dr_riechi_karada_clinic_sp/", "d": "2018-08-04" }
       ],
-      "status": "確定＝最新の猛暑ライド向けガイドに基づく一般的指針"
+      "status": "確定＝主役は6/30更新。冷却手法は一般的な熱中症対策に基づく（補足は2018年記事）"
     },
     {
-      "id": "20260701-china-carbon-wheels",
+      "id": "20260702-tubeless-roadside",
       "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "https://img.my-best.com/contents/a5deedfdf9b9f9b8ff2d2c0f5d420ae9.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop",
-      "headline": "『大手の半額で同等性能』は本当か――2026年版・中華カーボンホイールで後悔しない買い方",
-      "layer1": "品質が急伸した中華カーボンホイール。2026年は大手の1/3〜1/2の価格で重量・剛性・空力が肉薄するとされ、初心者の最初のアップグレード候補に。だが選び方を誤ると後悔する。",
-      "layer2": "近年は大手中国ブランドがUCI認証やオートクレーブ成形・X線検査を導入し信頼性が向上した。要点は三つ。(1)リムハイト＝35mm前後は軽く登坂向き、50mm超は平坦巡航向き、迷えば35〜45mm。最新タイヤを活かすなら内幅21mm以上。(2)総コスト＝本体が安く見えても送料・関税・消費税・保証時の返送費で差は縮む。(3)安全＝カーボンリムは長い下りの連続ブレーキで熱変形の恐れ、雨天は制動力が落ちる。フレームと同じメーカー製ならマッチングの安心感が高い。",
+      "image": "https://img.my-best.com/product_images/bf8b5143d95aeeb3d9919e2e3cff1c7c.jpg?ixlib=rails-4.3.1&q=45&lossless=0&w=160&h=160&fit=clip&s=f35576052367c8fa11f36920ec84add0",
+      "headline": "夏ロングの途中でチューブレスがジワッと空気漏れ、出先の落ち着いた対処4段階",
+      "layer1": "チューブレスレディは普段パンクに強い一方、初心者が焦るのが『走行中にジワジワ抜けるスローパンク』。導入や耐パンク選びの話ではなく、走り出したあと出先で漏れたときの実際の対処が入口。まず慌てないのがコツ。",
+      "layer2": "手順は4段階。（1）小さな穴なら止めずに回し続け、シーラントが穴を塞ぐのを待つ（一定の回転が塞ぐのを助ける）。（2）塞がったら『携帯ポンプ』や『CO2ボンベ』で規定内まで空気を戻す。CO2は挿して数秒で充填できるが本数が限られるので使いどころに注意。（3）シーラントで塞がらない大きめの穴は『プラグ（差し込み式）補修キット』で外から埋める。（4）それでもダメなら予備チューブを入れて帰る。前提として日頃のシーラントは約3か月〜半年で乾くため定期補充が必要で、乾いていると出先で塞がらない。高圧すぎるとシーラントが噴き出して塞がりにくいという報告もある。※プラグ本数・空気圧の戻し目安は使用タイヤ幅で変わるため要裏取り。",
       "sources": [
-        { "t": "マイベスト", "u": "https://my-best.com/21017", "d": "2026-07-01" },
-        { "t": "ICANホイールジャパン", "u": "https://icanjp.com/blogs/news/chinese-carbon-wheels", "d": "2026-06-30" }
+        { "t": "マイベスト（チューブレスタイヤ）", "u": "https://my-best.com/16956", "d": "2026-07-02" },
+        { "t": "マイベスト（携帯ポンプ）", "u": "https://my-best.com/7638", "d": "2026-07-02" },
+        { "t": "ヨロズバ（チューブレス初パンクの対処・補足）", "u": "https://yorozuba.com/tubelessready-firstpuncture", "d": "2024-08-14" }
       ],
-      "status": "確定＝ランキングは7/1更新の最新版。選び方は一般的な購入ガイドに基づく"
+      "status": "曖昧（※プラグ本数・空気圧の戻し目安は要裏取り）"
     },
     {
-      "id": "20260701-climb-gearratio",
+      "id": "20260702-first100km-fuel",
       "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "https://images.cyclehack.jp/wp-content/uploads/2021/07/pixta_54857769_M.jpg",
-      "headline": "ヒルクライム入門のギア比の選び方――夏の山岳＆ツールのアルプ・デュエズに学ぶ『軽いギア』のすすめ",
-      "layer1": "夏は峠デビューの季節。ツール選手も急勾配では極端に軽いギアを回す。初心者がまず失敗しないのは『コンパクトクランク（50-34T）×ワイドスプロケ（11-32〜34T）』でギア比1.0前後を確保することだ。",
-      "layer2": "ギア比＝フロント歯数÷リア歯数。小さいほど軽くクルクル回せ、登坂で脚と心肺を守れる。34T×34T＝ギア比1.0は10%級でも足つき回避の助けに。ノーマルクランク＋11-28Tは脚力前提で、初心者だと『足が回らず立ち往生』しがち。ケイデンスを70〜90rpmに保つ意識で疲労が大きく変わる。シマノ系は105／GRX世代で11-34T〜対応が広がり、後からスプロケ＆ディレイラー交換で『乙女ギア』化も可能。ツール第19・20ステージのアルプ・デュエズ（平均8%前後）で、プロですら小さいギアを多用する点に注目すると腑に落ちる。",
+      "image": "https://img.my-best.com/product_images/90101ea2702f4292ffe87e793d54f633.jpg?ixlib=rails-4.3.1&q=45&lossless=0&w=160&h=160&fit=clip&s=4e448646eeb02a47e423eb7044f862e3",
+      "headline": "初めての100km、成否は脚より『補給計画』――糖質は1時間60gを先回りで",
+      "layer1": "ツールを見て『自分も100km走ってみたい』と思う人向けの入口。初ロングの成否は脚力や機材以上に、自分をどう管理するかの『マネジメント』で決まる。中でも補給計画は、走る前に9割が決まる。",
+      "layer2": "糖質は目安『1時間に60g』（体重60kgならおにぎり約1.5個分／時間相当）を、空腹やバテを感じる前に少量ずつ先回りで摂る。固形は前半、吸収の速い『行動食・ジェル』は後半に効く。ペースは休憩込み平均で時速15〜18km（走行時速20〜23km）、休憩は1回10分ほど。ルートは距離だけでなく獲得標高（初級は500m以下が目安）と『補給地点・撤退路』まで先に地図に落とす。痛み対策として30分ごとに姿勢をリセットし、手・お尻・足の3点で荷重を分散。夏場は前記の熱中症対策とセットで、電解質ドリンクの補給も忘れずに。",
       "sources": [
-        { "t": "CYCLE HACK", "u": "https://cyclehack.jp/467", "d": "2025-04-15" },
-        { "t": "105ヒルクライム.com", "u": "https://105hillclimb.com/post-945", "d": "2024-06-20" }
+        { "t": "マイベスト（行動食）", "u": "https://my-best.com/974", "d": "2026-07-02" },
+        { "t": "バイクプラス（ロングライドのコツと心得・補足）", "u": "https://bike-plus.com/blogs/blog/tips-for-long-ride", "d": "2026-01-10" }
       ],
-      "status": "曖昧＝普遍テーマ（ツールのアルプ・デュエズを入口に）。出典の公開日は推定を含む※要裏取り（内容は一般的で確実）"
+      "status": "確定＝主役は7/2更新。数値目安は一般的なロングライド指針に基づく"
     },
     {
-      "id": "20260701-eurobike-b2b",
+      "id": "20260702-canyon-aeroad-2027",
       "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://cdn.funq.jp/contents/uploads/2026/06/24115521/G78A7264.jpg",
-      "headline": "【経営メモ】ユーロバイク2026が示す業界の次の一手――ソフトウェア化・女性市場・B2B再編",
-      "layer1": "欧州最大の見本市ユーロバイク2026（独フランクフルト、6/24〜27）が、供給過多後の業界の主戦場として『女性ライダー開拓』『ソフトウェア／AI』『B2B再定義』を据えた。",
-      "layer2": "Bicycle Club（funq）報道によると44カ国・約800社が出展。注目は(1)女性ユーザー開拓で最大9.5億ユーロの成長機会の試算が提示された点、(2)キャニオンのAI安全システムやDJI傘下Avinoxの電動ユニットなど電動化・ソフト化の前進、(3)B2B商流の再定義。国内ショップ目線では、客層が初心者・女性・通勤勢へシフトする流れと、完成車だけでなくアプリ／安全機能／Eバイクで差別化する潮流を、仕入れ・店頭訴求にどう取り込むかが論点。成長機会の金額は出展側の試算で、国内市場への直接適用は※要裏取り。",
+      "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/06/ARO-CFR-LTD.png",
+      "headline": "【経営メモ】新型エアロード、日本価格『据え置き』に賛否――円安下の値付けにローディー注目",
+      "layer1": "キャニオンが第4世代『エアロード』（CFR／CF SLX）2027モデルを6/25〜26に発表。新RACEコクピット採用で風洞198Wを謳い、Xでもキャニオンジャパン公式投稿を起点に話題化。日本国内は2027モデルを2026モデルから価格据え置きとし、7月中旬発売予定。",
+      "layer2": "確定：エアロードCFR AXSが134万9000円、CF SLX 8 Di2が79万9000円、CF SLX 7 Di2が59万9000円、CP053コクピット単体12万9000円（いずれも税込）。2026年5月にはエアロードCF SLXが平均約21%、CFRが平均約4.8%値下げされた経緯があり、直販D2Cゆえ為替反映が早い点が国内プロショップの価格競争を圧迫。曖昧：今回の据え置きに円安／ユーロ高への直接言及はプレスリリースになく※要裏取り。示唆＝直販の実質値下げ攻勢が続く局面で、店頭は納車サポート・フィッティング・整備の付加価値で差別化する必要。",
       "sources": [
-        { "t": "Bicycle Club（funq）", "u": "https://www.funq.jp/bicycle-club/article/1073684/", "d": "2026-06-24" }
+        { "t": "サイクルスポーツ", "u": "https://www.cyclesports.jp/news/new-product/164068/", "d": "2026-06-26" },
+        { "t": "アットプレス（キャニオン公式リリース）", "u": "https://www.atpress.ne.jp/news/9093806", "d": "2026-06-25" },
+        { "t": "キャニオンジャパン（X／旧Twitter）", "u": "https://x.com/Canyon_Japan/status/2070406820770791493", "d": "2026-06-26" }
       ],
-      "status": "確定＝公開日6/24・本文確認済み。成長機会9.5億ユーロは出展側試算※要裏取り"
+      "status": "確定（価格据え置きの為替理由のみ※要裏取り。Xで話題）"
     },
     {
-      "id": "20260701-buy-timing",
+      "id": "20260702-asahi-q1-memo",
       "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://pricey-prod-owned-media.s3.ap-northeast-1.amazonaws.com/hub-page-main-visual-images/article_3501.webp",
-      "headline": "『2026年夏、ロードバイクは買い時か』論争再燃――在庫潤沢・型落ち2〜3割引で初心者は今が狙い目?",
-      "layer1": "コロナ高騰の反動で在庫がだぶつき値下がり基調。『今買うべきか、秋まで待つか』で日本のローディーのブログ・Xが二分する、PVの伸びる定番ネタだ。",
-      "layer2": "価格.comのロードバイク人気ランキングは6/29更新で需要の温度感が見える。価格メディアは『在庫潤沢で値下がり継続、型落ち20〜30%引きが一般的』とし、最安はモデル入替の10〜11月と年末年始（20〜40%OFF、半額例も）と整理する。一方で『まだ待て』派と『在庫限定品は即買い・初心者には過去最良の参入期』派が対立。マサル目線では、型落ち処分の値引き原資をどこまで切るか、秋の本格セールまでの在庫回転をどう設計するかの判断材料。値引き率・在庫感は時期と店舗で差が大きく、断定は※要裏取り。",
+      "image": "https://prcdn.freetls.fastly.net/release_image/15371/383/15371-383-f88bb810c08402a8472a6b72b6cc05b7-2000x1000.jpg",
+      "headline": "【経営メモ】あさひ3〜5月、税引き利益8%減――人件費増と買い控えで大手も減益",
+      "layer1": "サイクルベースあさひの2026年3〜5月期（27年2月期第1四半期）単独決算は税引き利益が前年同期比8%減。日経が6/22報道。売上は微増だが人件費・新店減価償却が利益を圧迫し、業界最大手も減益基調。",
+      "layer2": "確定：税引き利益21億円（前年比8%減）、営業利益30億円（同5%減）、売上高277億円（同3%増）。人件費が8%増（賃上げ＋採用拡大）、下田良行社長は『おおむね計画通り』とコメント。前年同期（25年3〜5月）は税引き利益23億円で6%減だったため、減益幅がやや拡大。示唆＝全国550店超のスケール企業でも賃上げ・出店コストで利幅が削られる局面。個人店マサルは、価格勝負ではなく人時生産性（1人あたり整備台数・単価）と電動アシスト／中古買取など粗利率の高い領域へ資源集中が現実解。あさひが電アシと中古販売強化に動いている点は需要シフトのシグナル。",
       "sources": [
-        { "t": "価格.com ロードバイク人気売れ筋ランキング", "u": "https://kakaku.com/bicycle/road-bicycle/ranking_6420/", "d": "2026-06-29" },
-        { "t": "プライシー（補足）", "u": "https://www.pricey.jp/web/articles/3501", "d": "2026-06-03" }
+        { "t": "日本経済新聞", "u": "https://www.nikkei.com/article/DGXZQOUF19A610Z10C26A6000000/", "d": "2026-06-22" }
       ],
-      "status": "確定＝価格.comランキングは6/29更新（窓内）。pricey記事は6/3更新で補強。値引き率は時期・店舗差あり※要裏取り"
+      "status": "確定"
     },
     {
-      "id": "20260701-giant-liv-campaign",
+      "id": "20260702-ysroad-summerfair",
       "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://bikeueki.com/wp-content/uploads/2026/06/GIANT_2026_Summer_Campaign_top.jpg",
-      "headline": "【経営メモ】ジャイアント＆Liv『カーボンバイク Summer Campaign』――対象車購入で最大5.5万円分ギア進呈（8/31まで）",
-      "layer1": "国内最大手ジャイアントとLivが夏の販促を実施中。対象カーボン車／フレーム購入でライダーギアを進呈し、夏商戦の集客を狙う。競合店の値付けにも波及する。",
-      "layer2": "期間は6/16〜8/31。進呈上限はAdvanced SL／Proグレードで税込5.5万円分、Advancedグレードで税込3.3万円分のジャイアント／Livギア。対象はTCR・Defy・Propel・TCX Advanced Proなど。実質値引きではなく『付帯価値で買わせる』設計で、最大手がこの規模を仕掛けると周辺ショップは同等の付帯サービスかセールで対抗を迫られる。マサル目線では、夏のカーボン需要が大手キャンペーンに吸われる前提で、自店の強み（フィッティング／アフター／即納在庫）を前面に出す施策が要る。",
+      "image": "https://ysroad.co.jp/kyoto/wp-content/uploads/2026/06/sf00.jpg",
+      "headline": "【経営メモ】ワイズロード『SUMMER FAIR 2026』7/4開幕――完成車約1000台と無金利ローンで夏商戦本格化",
+      "layer1": "スポーツ自転車専門大手ワイズロードが6/30にSUMMER FAIR 2026を告知。店舗は7月4日（土）〜8月16日（日）、オンラインは7月3日19時〜8月17日10時。約1000台のスポーツバイクを値引き対象に、夏の買い替え・入門需要を狙う。",
+      "layer2": "確定：最大12回まで無金利ローン（3／6／10／12回）、総額1万円以上購入で抽選50名に1万ポイント還元。示唆＝在庫調整と供給過多が続く中、大手専門店が7月頭から長期セール＋金利ゼロで需要を前倒し確保する構図。個人店マサルには、同時期に完成車価格で真っ向勝負は不利。無金利ローンは分割手数料をショップが負担するため薄利化しやすく、対抗するなら『納車後1年整備込み』『フィッティング無料』等の非価格便益や、量販が扱わないニッチ在庫・カスタム対応で差別化するのが定石。セール開始日（7/3〜4）を意識した来店誘導・見積り準備が有効。",
       "sources": [
-        { "t": "cyclowired", "u": "https://www.cyclowired.jp/news/node/392679", "d": "2026-06-30" },
-        { "t": "スポーツサイクル ウエキ（補足）", "u": "https://bikeueki.com/bike/model/road_bike/", "d": "2026-06-16" },
-        { "t": "PRESSPORTS（補足）", "u": "https://pressports.com/2026/06/16/giant-liv-gear", "d": "2026-06-16" }
+        { "t": "Y's Road 京都店", "u": "https://ysroad.co.jp/kyoto/2026/06/30/159646", "d": "2026-06-30" }
       ],
-      "status": "確定＝期間6/16〜8/31・特典上限を確認。cyclowired掲載日6/30は※要裏取り"
+      "status": "確定"
     }
   ]
 }
