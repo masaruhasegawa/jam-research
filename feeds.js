@@ -1,5 +1,486 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-07-03",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、20本。ツール・ド・フランス2026、いよいよ明日7/4バルセロナ開幕――68日ノーレースで臨むレムコの『賭け』、ログリッチ不在のレッドブル、女子ツール展望に決戦の峠まで。開幕直前ラッシュのオルベア／ルック／ピナレロ新機材、プライムデー商戦、中華ウィンスペース論争もまとめてお届けします。",
+    "cards": [
+      {
+        "id": "20260703-race-remco-referendum",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00038811-281.jpg?width=832&height=468&format=jpg&crop=2000%2C1125%2C0%2C104",
+        "headline": "レムコ、68日間ノーレースでツール強行――未来を占う『賭け』",
+        "layer1": "レッドブル移籍後のエヴェネプールが、4月以来一度もレースを走らずにツールへ。復帰初戦がいきなり明日のバルセロナ開幕計時という異例の調整。",
+        "layer2": "潜って分かったのは、これが調整の失敗ではなく本人と陣営の意図的な戦略だという点。グランツールでのムラを消すための『トレーニング一本化』で、近代ツールの総合候補としては最大級のレース間隔。確定＝出場と無レース調整。曖昧＝勝負体重に間に合うかは未知数で、専門メディアは今回を彼のキャリアの是非を問う『審判』と位置づける。",
+        "sources": [
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/remco-evenepoels-tour-de-france-is-a-referendum-on-his-future/",
+            "d": "2026-06-30"
+          }
+        ],
+        "status": "確定＝出場・4月以降ノーレースでの調整方針／曖昧＝コンディションの仕上がり度合いは要裏取り"
+      },
+      {
+        "id": "20260703-race-redbull-roglic-out",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2025/Men/Red-Bull-BORA-hansgrohe/CORVOS_00038504-094.jpg?width=832&height=468&format=jpg&crop=2000%2C1125%2C0%2C104",
+        "headline": "レッドブル、ログリッチをツール外し――リポヴィッツとレムコの二枚看板",
+        "layer1": "レッドブル・ボーラはツール布陣をエヴェネプールとリポヴィッツ中心に構成。4度のグランツール覇者ログリッチはツールを外れ、ブエルタ専念へ回った。",
+        "layer2": "潜ると、リーダーを早々に一本化せず『調子と展開で決める』流動的方針だと判明。確定＝ログリッチ不在と、昨年総合3位リポヴィッツの共同エース起用。曖昧＝レムコとリポヴィッツのどちらが最終エースかは未定で、内部の主導権争いという火種が残る。",
+        "sources": [
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/red-bull-name-evenepoel-and-lipowitzs-supporting-cast-for-tour-de-france/",
+            "d": "2026-06-26"
+          }
+        ],
+        "status": "確定＝ログリッチのツール不参加とレムコ／リポヴィッツ体制／曖昧＝最終的なエース序列は未確定"
+      },
+      {
+        "id": "20260703-race-green-merlier-philipsen",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn-jupiter.metropolis.co.uk/wp-content/uploads/sites/9/2026/07/sprinters-form-guide-thumbnail-26-970x647.webp",
+        "headline": "緑争い、メルリールとフィリプセンの元僚友対決",
+        "layer1": "集団スプリント最速はメルリール、緑ジャージ本命はフィリプセンと評価が割れ、ペデルセンやジルマイも絡む混戦のポイント争い。",
+        "layer2": "深掘りすると、平坦のトップスピードではメルリール優位だが、丘や中間スプリントでのポイント収集力ではアルペシンの隊列を持つフィリプセンが上で、緑の総合力は現状フィリプセンに分がある。確定＝主要スプリンターの出場。曖昧＝起伏でペデルセンが純スプリンターを出し抜けるかは展開次第。",
+        "sources": [
+          {
+            "t": "Cyclist",
+            "u": "https://www.cyclist.co.uk/in-depth/tour-de-france-2026-sprinters-form-guide",
+            "d": "2026-07-01"
+          }
+        ],
+        "status": "確定＝緑候補の顔ぶれと評価軸／曖昧＝最終順位はステージ構成と落車次第"
+      },
+      {
+        "id": "20260703-race-femmes-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://procyclinguk.com/wp-content/uploads/2025/08/20250803TDFFAZ2095-scaled.avif",
+        "headline": "女子ツール、フォレリングとロイセルが黄色に照準",
+        "layer1": "8月1日にスイスで開幕する女子ツール（全9ステージ）へ、フォレリング、ニーヴィアドマ、ロイセルらが総合の有力候補として名乗り。",
+        "layer2": "潜って見えたのは、21kmの個人TTと、ニース前の明確な山頂決戦が1つだけという構成で、TTに強いロイセルが総合でも侮れない点。確定＝コースと主要候補。曖昧＝FDJ移籍後のフォレリングの登坂調子と、ヴァントゥーでの決着度合いは当日次第。",
+        "sources": [
+          {
+            "t": "ProCyclingUK",
+            "u": "https://procyclinguk.com/beginners-guide-to-tour-de-france-femmes-2026/",
+            "d": "2026-06-27"
+          }
+        ],
+        "status": "確定＝日程・コース・主要候補／曖昧＝各候補の直前フォームは要裏取り"
+      },
+      {
+        "id": "20260703-race-decisive-climbs",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn-jupiter.metropolis.co.uk/wp-content/uploads/sites/9/2026/06/Col-du-Tourmalet-970x647.webp",
+        "headline": "2026年ツールを決める『11の峠』",
+        "layer1": "専門誌がトゥールマレー、ガリビエ、アルプ・デュエズなど総合を左右する主要クライムを選定。最初の勝負どころは第6ステージのピレネー。",
+        "layer2": "深掘りすると、最難関は第20ステージ（ブール・ドワザン発アルプ・デュエズ、獲得標高約5,600m、クロワ・ド・フェール＋テレグラフ＋ガリビエ＋サレンヌ＋アルプ）で、ここが事実上の女王ステージ。確定＝コースと峠の配置。曖昧＝第6のトゥールマレーで早くも大差がつくか、終盤まで温存かは各陣営の駆け引き次第。",
+        "sources": [
+          {
+            "t": "Cyclist",
+            "u": "https://www.cyclist.co.uk/in-depth/11-climbs-that-will-decide-the-tour-de-france-2026",
+            "d": "2026-06-26"
+          }
+        ],
+        "status": "確定＝コース詳細と主要峠／曖昧＝どの峠で総合が動くかはレース展開次第"
+      },
+      {
+        "id": "20260703-race-polkadot-hunters",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2025/Tour-de-France/CORVOS_00036921-258.jpg?width=832&height=468&format=jpg&crop=2000%2C1125%2C0%2C104",
+        "headline": "山岳賞争い、カラパスとマルティネスが逃げで挑む",
+        "layer1": "水玉ジャージの本命は総合勢だが、カラパス、レニー・マルティネス、パレ・パントル、オコーナーら逃げ屋が山岳ポイントを狙う構図。",
+        "layer2": "潜ると、水玉は最終盤の山頂で総合エースが独占しがちだが、序盤の中級山岳ステージの逃げからポイントを稼ぐ専門ハンターに勝機がある。確定＝主要候補の顔ぶれ。曖昧＝総合争いが激しいと水玉は総合勢に流れやすく、逃げ屋が取り切れるかは不透明。",
+        "sources": [
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/5-favourites-for-the-2026-tour-de-france-polka-dot-jersey/",
+            "d": "2026-06-29"
+          }
+        ],
+        "status": "確定＝水玉候補の顔ぶれ／曖昧＝総合勢が独占するか逃げ屋が奪うかは展開次第"
+      },
+      {
+        "id": "20260703-wheel-campagnolo-zonda",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://bikebiz.com/wp-content/uploads/circular_Campagnolo_Zonda_Media_03-1280x640.jpg",
+        "headline": "カンパニョーロ、最も手頃なカーボン『ゾンダ』新登場――1,420ユーロでカーボン入門",
+        "layer1": "カンパニョーロが新型『Zonda』カーボンホイールを7月1日に発表。50mmハイト、フック付き25mm内幅で、同社カーボン最安の1,420ユーロ（英1,299ポンド）。",
+        "layer2": "上位『Bora』より870ユーロ安く、29〜40mmタイヤ対応の万能オールロード志向。ユニディレクショナル・カーボンリムにG3組み、カップ＆コーンベアリング、欧州製造を維持。値下げ路線でブランド再構築を進める一手で、TdF直前の投入。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/2026-campagnolo-zonda-wheelset",
+            "d": "2026-07-01"
+          },
+          {
+            "t": "BikeBiz",
+            "u": "https://bikebiz.com/campagnolos-new-zonda-h50-wheels-are-the-most-versatile-the-brand-has-created/",
+            "d": "2026-07-01"
+          },
+          {
+            "t": "Brujula Bike",
+            "u": "https://en.brujulabike.com/campagnolo-launches-its-most-affordable-and-interesting-carbon-wheels-in-years/",
+            "d": "2026-07-01"
+          }
+        ],
+        "status": "確定＝BikeRadar・BikeBiz・Brujula Bikeが揃って2026-07-01付で新製品発表を報道"
+      },
+      {
+        "id": "20260703-wheel-ffwd-raw",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://bikerumor.com/wp-content/uploads/2026/06/2026-FFWD-Raw-Control-36mm-or-Raw-Pace-48mm-aero-carbon-spoke-gravel-race-wheels.jpg",
+        "headline": "FFWD、グラベルレース用カーボンスポーク『RAW Pace／Control』を6月30日発表",
+        "layer1": "オランダFFWDがグラベル特化の新シリーズ『RAW』を6月30日に公開。48mmの『Pace』と36mmの『Control』の2種で、7月発売予定。",
+        "layer2": "28mmフックレス・チューブレスリムにカーボンスポークを組み合わせ、実測はPace 1,380g／Control 1,295g、セット2,700ユーロ。既存グラベルリムを再設計し、軽量エアロ化が進むグラベルレース市場へカーボンスポークで本格参戦する。",
+        "sources": [
+          {
+            "t": "Bikerumor",
+            "u": "https://bikerumor.com/ffwd-raw-pace-control-relace-gravel-rims-into-ultralight-carbon-spoke-race-wheels/",
+            "d": "2026-06-30"
+          }
+        ],
+        "status": "確定＝Bikerumorが2026-06-30付で発表を報道"
+      },
+      {
+        "id": "20260703-wheel-parcours-strade-gt",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.sanity.io/images/iocd9e4k/production/007c8ad1275dbfbd08ea9a81c3ff43fe902a293f-1920x1280.jpg?w=1920&auto=format&q=80&fit=max",
+        "headline": "パルクール『Strade GT』実測レビュー――再生カーボンで路面振動を最大23%低減",
+        "layer1": "英パルクールの新フラッグシップ『Strade GT』をサイクリング・ウィークリーが6月17日にレビュー。リムに再生カーボン『VibraCORE』を用い、ロードノイズを最大23%カット。",
+        "layer2": "1,130gの軽さながら『クラス最高のライド質感』と高評価。カーボンスポーク採用、セラミックベアリング選択可で2,499ポンド〜。空力・軽さ一辺倒だったハイエンド競争に、快適性と再生素材という新機軸を持ち込むオールロード用ホイール。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/products/parcours-strade-gt-wheelset-review-a-lightweight-wheelset-with-the-smoothest-ride-quality-around",
+            "d": "2026-06-17"
+          },
+          {
+            "t": "Velora Cycling",
+            "u": "https://veloracycling.com/tech/reviews/parcours-strade-gt-vibracore-wheel-review",
+            "d": "2026-04-09"
+          }
+        ],
+        "status": "曖昧＝主役はサイクリング・ウィークリーの2026-06-17付レビュー（14日枠を1日超過）。製品自体の発売は2026-04月"
+      },
+      {
+        "id": "20260703-parts-continental-aero111-tdf",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://bikerumor.com/wp-content/uploads/2026/06/Continental-Limited-Edition-Tour-de-France-Tires-.jpg",
+        "headline": "コンチネンタル、ツール限定『Aero 111』――初の透明サイドウォール採用",
+        "layer1": "前29mm『Aero 111』＋後30mm『GP5000 S TR』のセット。両輪とも透明（タン）サイドとツール専用ブランディング。",
+        "layer2": "価格£199.99／$257.95／€216.95。Aero 111が透明カラーで登場するのは初で、UAEやGroupama-FDJ等が本番投入。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/continental-2026-tour-de-france-tyres",
+            "d": "2026-06-23"
+          },
+          {
+            "t": "Bikerumor",
+            "u": "https://bikerumor.com/continental-limited-edition-tour-de-france-tires/",
+            "d": "2026-06-25"
+          },
+          {
+            "t": "Bike World News",
+            "u": "https://www.bikeworldnews.com/2026/06/29/continental-unveils-2026-tour-de-france-limited-edition-tires/",
+            "d": "2026-06-29"
+          }
+        ],
+        "status": "確定＝複数ソースで発表確認（透明サイドは初）"
+      },
+      {
+        "id": "20260703-parts-prologo-predator02",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://bikerumor.com/wp-content/uploads/2026/07/Prologo-Predator-02-aero-TT-tri-saddle-gets-normal-oval-carbon-rails_up-close.jpg",
+        "headline": "Prologoが新サドル群を発表 空力『Predator//02』と3Dプリント『Dimension R2 3D』",
+        "layer1": "TTサドル『Predator//02』は7×9mm標準オーバル・カーボンレール化で汎用シートポストに対応。1,200ユーロ超→570ユーロへ半減（TT159g／Tri169g）。",
+        "layer2": "可変密度3Dプリントの『Dimension R2 3D』（290／390ユーロ）と女性向け『Nago Eva』（129／229ユーロ）も同時投入。専用レール縛りを解いた点が普及の鍵。",
+        "sources": [
+          {
+            "t": "Bikerumor",
+            "u": "https://bikerumor.com/prologo-predator-tt-saddle-goes-mainstream-new-dimension-3d-nago-eva-cpc-tape-more/",
+            "d": "2026-07-01"
+          },
+          {
+            "t": "Brujula Bike",
+            "u": "https://en.brujulabike.com/prologo-updates-its-most-radical-saddle-the-predator02-comes-with-greater-compatibility/",
+            "d": "2026-07-01"
+          }
+        ],
+        "status": "確定＝複数ソースで新サドル発表を確認"
+      },
+      {
+        "id": "20260703-parts-hydrapak-fuelkit",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://bikerumor.com/wp-content/uploads/2026/06/HydraPak-Fuel-Kit-title.jpg",
+        "headline": "HydraPakが補給食オーガナイザー『Fuel Kit』を発表 パウダー計量から携行まで一括",
+        "layer1": "ジッパーケースに折りたたみファンネル・スクープ・キャッチトレイと、パウダー／チュー／グミを詰められる再利用ロールトップ『FuelPack』2個を収納する単体アクセサリ。",
+        "layer2": "別売で150／250mlの『Fuel Flask』（粘度別の交換キャップ対応）も用意。2026年7月発売で価格は続報。夏ロングの補給を整理する小物として、猛暑期の携行食管理に効く。",
+        "sources": [
+          {
+            "t": "Bikerumor",
+            "u": "https://bikerumor.com/hydrapaks-new-fuel-kit-organizes-your-ride-nutrition/",
+            "d": "2026-06-29"
+          }
+        ],
+        "status": "曖昧＝現状Bikerumor単独ソース（メーカー発表待ち・価格未公表）"
+      },
+      {
+        "id": "20260703-trend-look-795-bladers3",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn-jupiter.metropolis.co.uk/wp-content/uploads/sites/9/2026/06/Photos_Sierra_Nevada_Cofidis%40RisingStory-17-scaled.jpg",
+        "headline": "ルック、ツール開幕直前に新型エアロ『795ブレードRS3』を発表 15Wの高速化と『350通り』のフィット",
+        "layer1": "先代比で50km/h時に空力15W改善、フレームは160g軽量化。適応身長155〜200cmで、ステム長・バー幅・フォークオフセットの組み合わせにより『350通り』のポジション設定を可能にした点が最大の売り。",
+        "layer2": "チーム・コフィディスと共同開発し、今春のバスク一周ではアランブルがステージ勝利。Mサイズのフレーム890g・完成車6.9kgで、シマノUltegra Di2仕様は7,990ポンドから。",
+        "sources": [
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/tech-news/new-look-795-bladers-3-350-fit-options-15-watts-real-world-aero-savings",
+            "d": "2026-06-30"
+          },
+          {
+            "t": "Cyclist",
+            "u": "https://www.cyclist.co.uk/news/new-look-795-blade-rs-2026",
+            "d": "2026-06-30"
+          },
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/2026-look-795-blade-rs",
+            "d": "2026-06-30"
+          }
+        ],
+        "status": "確定＝複数ソースで発表・発売を確認"
+      },
+      {
+        "id": "20260703-trend-orbea-orca-aero",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/gyRPiy9NcJGJAUxzdyB45o-1920-80.png",
+        "headline": "オルベア、ツール前夜に新型『オルカ エアロ』発表 2022年比21W高速化とプロ最広37mmタイヤ対応",
+        "layer1": "車体と乗員を一体で設計する『トータル・システム・アプローチ』を採用。78mmという低いBBドロップで低く安定した姿勢をつくり、細身のシートチューブと薄いシートステーで剛性を保ちつつ軽量化した。フレーム重量は900g。",
+        "layer2": "21Wの内訳は風洞での空力改善5.1W、安定性向上14W、最大37mmの太タイヤ対応で6〜7W。ロット・インテルマルシェがツール本番から実戦投入し、価格は4,999〜9,999ポンド。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/bikes/road/embargo-2nd-july-3pm-bst-subbed-new-orbea-orca-aero-launches-on-the-eve-of-tour-de-france-with-the-lowest-bottom-bracket-on-the-market-and-huge-tyre-capacity/",
+            "d": "2026-07-02"
+          },
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/2026-orbea-orca-aero",
+            "d": "2026-07-02"
+          },
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/products/orbea-orca-aero-gets-a-major-overhaul-to-make-it-faster-and-more-competitive-in-the-mountains-just-in-time-for-the-tour-de-france",
+            "d": "2026-07-02"
+          }
+        ],
+        "status": "確定＝複数ソースで発表・ツール投入を確認"
+      },
+      {
+        "id": "20260703-trend-pinarello-q365-dogma-f",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/t3egnEncW4vZV3Fj82UjZb-2048-80.jpg",
+        "headline": "ピナレロQ36.5、悲願の初ツールへ専用カラーの『ドグマF』を投入 ピドコック復帰が目玉",
+        "layer1": "チーム史上初のツール・ド・フランス出場に合わせ、マット仕上げのTitanとLuxter Veniceを独自の『Cut』塗装で組み合わせた専用ドグマFを用意。金のピナレロ／DOGMA Fデカールを配し、TTを除く全ステージで使用する。",
+        "layer2": "エースはツールに復帰するトム・ピドコック。車体はチームキットと配色を統一し、限定台数のみ市販予定。バイクメーカーによる専用フレーム／限定塗装での差別化が加速する潮流を象徴する一台。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/cycling-kit-accessories/pinarello-q36-5-launch-limited-edition-kit-for-tour-de-france-as-team-leader-tom-pidcock-returns-to-race/",
+            "d": "2026-06-30"
+          },
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/q365-pinarello-dogma-f-2026-tour-de-france",
+            "d": "2026-06-30"
+          },
+          {
+            "t": "endurance.biz",
+            "u": "https://endurance.biz/2026/industry-news/pinarello-q36-5-team-unveils-custom-bike-and-kit-for-tour-de-france/",
+            "d": "2026-06-30"
+          }
+        ],
+        "status": "確定＝複数ソースで発表・限定販売を確認"
+      },
+      {
+        "id": "20260703-beginner-cadence-tdf",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/06/0629J-SPORTS_4.jpg",
+        "headline": "ツール・ド・フランス開幕、プロの脚を見て学ぶ初中級の『ケイデンス』再入門",
+        "layer1": "7月4日バルセロナ開幕のツール・ド・フランス2026。トップ選手の滑らかな脚の回転は、初中級者がまず盗みたい『ペダリング』の教科書。テレビ観戦の夏こそ、自分の回し方を見直す好機。",
+        "layer2": "目標ケイデンスはまず80rpm、慣れたら90rpm。推進力が出るのは時計の『12時から3時』で、3時以降に強く踏むのはパワーロスの元。上死点の引っかかりは平地の片足ペダリングで解消できる。サイコンにケイデンス表示を1つ足すだけで、疲れにくさとスムーズさが変わる。",
+        "sources": [
+          {
+            "t": "第1・第2ステージ無料！ツール・ド・フランス2026全21ステージをJ SPORTSがLIVE放送・配信（cyclesports.jp）",
+            "u": "https://www.cyclesports.jp/news/race/164188/",
+            "d": "2026-06-29"
+          },
+          {
+            "t": "ロードバイクの良いペダリングとその獲得方法〜基礎知識編（cyclesports.jp）",
+            "u": "https://www.cyclesports.jp/topics/9079/",
+            "d": "2019-10-31"
+          }
+        ],
+        "status": "きっかけ2026-06-29のTdF2026開幕告知に紐付け（技法は普遍ネタ）"
+      },
+      {
+        "id": "20260703-beginner-rinko-summer",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://images.cyclehack.jp/wp-content/uploads/2019/09/main2-1.jpg",
+        "headline": "猛暑は電車で標高を稼ぐ、初中級者の『輪行』再入門",
+        "layer1": "平地の熱地獄を避け、涼しい高原や海辺へ列車で一気にワープ。夏こそ輪行の出番で、2026年最新ランキングの袋選びと駅マナーをこの機会に再確認したい。",
+        "layer2": "縦型はコンパクト収納、横型はリアエンド保護がラクで初心者向き。持ち込みは3辺合計『250cm以内』が規定。ターミナル駅の改札脇での分解は『マナー違反』、人の動線を外し袋を広げてその上で作業する。輪行袋は消耗品、汚れたら洗うか交換を。",
+        "sources": [
+          {
+            "t": "2026年最新 輪行袋のおすすめ人気ランキング25選（CYCLE HACK）",
+            "u": "https://cyclehack.jp/86",
+            "d": "2026-06-05"
+          },
+          {
+            "t": "ロードバイク用輪行袋のおすすめ人気ランキング 2026年6月（マイベスト）",
+            "u": "https://my-best.com/1436",
+            "d": "2026-07-02"
+          },
+          {
+            "t": "電車で輪行する際のルールとマナー（bike-plus）",
+            "u": "https://bike-plus.com/blogs/blog/rinko-train-manners-expert-guide",
+            "d": "2025-12-23"
+          }
+        ],
+        "status": "きっかけ2026-07-02更新の輪行袋ランキング・猛暑期需要に紐付け（技法は普遍ネタ）"
+      },
+      {
+        "id": "20260703-market-primeday-cycle",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://media.wired.jp/photos/6693bd567080af67492d2a5e/master/w_2560%2Cc_limit/GettyImages-1442486410.jpg",
+        "headline": "【経営メモ】プライムデー2026、7/7先行→7/10-13本番。サイクル小物は『EC最安』商戦に突入",
+        "layer1": "Amazonプライムデー2026は先行セールが7月7日0時〜9日、本セールが7月10日〜13日の日程で確定。ライト・空気入れ・ヘルメット・チューブといった消耗品やアクセサリーが大幅値引きの対象で、スポーツ・アウトドア用品は1万円以上の購入でポイント還元が4%上乗せ。対象は300万点超。",
+        "layer2": "小物・消耗品はもはや価格でECに勝てない局面。セール期は目玉在庫での価格勝負ではなく、フィッティング・組付け・即日メンテという『店でしか買えない価値』で客単価を守るのが現実的。プライムデー直後はネット購入品の持ち込み取付・調整需要が読めるので、工賃メニューの告知を先に打つのが有効。",
+        "sources": [
+          {
+            "t": "先行セールは7月7日から！Amazonプライムデー2026の攻略法とおすすめ商品（WIRED.jp）",
+            "u": "https://wired.jp/article/amazon-prime-day-best-deal-how-to-3/",
+            "d": "2026-07-02"
+          },
+          {
+            "t": "Amazonプライムデー開幕！2026年7月の厳選おすすめ商品15選（flick!/funq.jp）",
+            "u": "https://www.funq.jp/flick/article/1074568/",
+            "d": "2026-07-01"
+          }
+        ],
+        "status": "確定＝日程・還元条件は一次情報（WIRED/funq 7月公開）で確認済み／曖昧＝サイクル用品の個別値引き率は開催後に要チェック"
+      },
+      {
+        "id": "20260703-market-winspace-china",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://winspace.jp/cdn/shop/articles/Summer_SALE.png",
+        "headline": "中華直販『ウィンスペース』がSNSで台頭、電動105カーボンで税込50万円切り",
+        "layer1": "中国発の直販カーボンブランド、ウィンスペースがSNS・YouTubeで『価格破壊』と話題。新型エアロ『M6』は電動105＋カーボンホイール一体型ハンドルで税込50万円を切る水準に到達し、6月6日〜7月5日のサマーセールで対象品をさらに値下げ。ワイズロード等の量販店も取扱いを開始した。",
+        "layer2": "王道ブランドのミドル帯が50〜70万円まで高騰したことへの不満と対比され、ローディーの間で『もう国内正規品にこだわる理由は？』という論争に発展。一方で保証・アフター・実車確認のしづらさを不安視する声も根強く、価格差をどう説明するかが実店舗の腕の見せ所になっている。",
+        "sources": [
+          {
+            "t": "WINSPACEサマーセール開催（WINSPACE JAPAN 公式ニュース）",
+            "u": "https://winspace.jp/blogs/news",
+            "d": "2026-06-05"
+          },
+          {
+            "t": "【WINSPACE】新型＆レギュラー共に価格破壊してきたロードバイク（Y's Road 名古屋本館）",
+            "u": "https://ysroad.co.jp/nagoya/2026/03/01/186966",
+            "d": "2026-03-01"
+          },
+          {
+            "t": "2026年ロードバイク値下げ！大手価格改定と高コスパ新興メーカー（bike-memo）",
+            "u": "https://bike-memo.com/cycle_260204_roadbike/",
+            "d": "2026-02-04"
+          }
+        ],
+        "status": "※SNS/Xで『価格破壊』として話題・要裏取り。品質と保証の評価は分かれ、直販か正規代理店経由かでアフター条件が異なる点に注意"
+      },
+      {
+        "id": "20260703-market-favero-tradein",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://nichinao.jp/wp/wp-content/uploads/2021/02/favero_assioma.jpg",
+        "headline": "【経営メモ】日直商会がアシオマ買い替え8%オフ、7月『実店舗取り寄せ限定』で送客狙う",
+        "layer1": "代理店の日直商会が、ペダル型パワーメーター Favero ASSIOMA の『DUO』『UNO』ユーザー向けに、新型『PRO RL-2』を8%オフ（通常13万6,400円→12万5,488円）で提供する買い替えキャンペーンを開催。期間は7月1日〜7月28日で、店頭での旧製品提示が条件。しかも『実店舗での取り寄せ購入のみ対象』と明記した。",
+        "layer2": "EC全盛の中で代理店が実店舗経由を割引条件に据える＝リアル店舗への送客施策で、正規店にとっては追い風。既存アシオマ客の買い替え需要を店頭で掘り起こす好機で、取り寄せ導線と旧モデルの活用相談をセットで案内すれば、再来店と客単価につながる。パワーメーター需要の底堅さも読み取れる。",
+        "sources": [
+          {
+            "t": "Favero ASSIOMA 買い替えキャンペーン（日直商会 公式ニュース）",
+            "u": "https://nichinao.jp/archives/category/news/23149",
+            "d": "2026-06-25"
+          },
+          {
+            "t": "日直商会がファベロ ASSIOMA買い替えキャンペーンを開催 7月1日〜7月28日まで（cyclowired）",
+            "u": "https://www.cyclowired.jp/news/node/392752",
+            "d": "2026-07-01"
+          }
+        ],
+        "status": "確定＝内容・価格・条件は日直商会公式(6/25公開)で確認済み／曖昧＝cyclowiredの公開日は開始日に合わせた推定を含む"
+      }
+    ]
+  },
+  {
     "date": "2026-07-02",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、20本。ツール・ド・フランス2026、いよいよ7/4バルセロナ開幕まであと2日――ポガチャル5勝目に挑む『史上最強の布陣』、開幕チームTTの新ルール、そしてユーロバイク明けの新機材と国内市場の動きまで、まとめてお届けします。",
     "cards": [
