@@ -477,6 +477,429 @@ window.LISA_FEEDS = [
           }
         ],
         "status": "確定＝内容・価格・条件は日直商会公式(6/25公開)で確認済み／曖昧＝cyclowiredの公開日は開始日に合わせた推定を含む"
+      },
+      {
+        "id": "20260703-tdf26-stage1-ttt",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/B3jSJZ9hH8SKgVMX5ZorvU-2500-80.png",
+        "headline": "TdF2026開幕前夜、バルセロナのチームTTで初日から総合争い勃発",
+        "layer1": "7月4日、ツール・ド・フランス2026はバルセロナのチームタイムトライアルで開幕。フォルム公園を出発しモンジュイックへ向かう約19.6kmで、最初のマイヨジョーヌが決まる。",
+        "layer2": "公称距離は媒体により19.56〜19.6kmと揺れ（本カードは19.6kmを採用、19.7km表記も一部にあり※要裏取り）。最大の焦点は今回の特殊ルール。8人が同時にスタートランプを下りる通常のTTT形式ながら、フィニッシュタイムは各選手個々のゴール時刻で計時される点。獲得標高約200mの大半が終盤4kmの2つの急坂に集中し、リーダーは前半16kmの緩斜面でチームに守られ、最後はモンジュイックを個人の力で登り切る展開が読める。UAEが総合力で本命、ヴィスマもTT部隊の厚みで初日イエローを狙うとされる。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-2026-stage-1-preview/",
+            "d": "2026-07-02"
+          },
+          {
+            "t": "CyclingStage",
+            "u": "https://www.cyclingstage.com/tour-de-france-2026-route/stage-1-tdf-2026/",
+            "d": "2026-07-01"
+          }
+        ],
+        "status": "確定＝7月4日バルセロナのチームTT開幕・終盤モンジュイック上りで決着。曖昧＝正確な距離表記（19.56/19.6/19.7km）と個別計時ルールの細部は※要裏取り"
+      },
+      {
+        "id": "20260703-aokippu-jittai",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://jafmate.jp/car/__icsFiles/afieldfile/2026/05/18/aokippu_01_kv_1.jpg",
+        "headline": "自転車「青切符」施行1か月で2147件、最多は一時不停止40％——ロード乗りが真っ先に刺さる違反",
+        "layer1": "2026年4月1日、16歳以上の自転車に交通反則通告制度（青切符）が導入。警察庁公表で施行1か月の告知は2147件、内訳は指定場所一時不停止846件（40％）、ながらスマホ713件（33％）、信号無視298件（14％）。",
+        "layer2": "最多の一時不停止はロード乗りが「足を着かず流す」まさにその行為で、反則金5000円。ながらスマホは1万2000円、信号無視6000円（点滅5000円）と高め。件数が前年赤切符期の月平均より減ったのは警察が当面「警告優先」の運用とみられるが、恒常的な取り締まり水準はまだ読めない※要裏取り。ヘルメット未着用は青切符の対象外で、あくまで努力義務のまま。",
+        "sources": [
+          {
+            "t": "JAF Mate Online",
+            "u": "https://jafmate.jp/car/traffic_topics_20260520_1199203.html",
+            "d": "2026-05-20"
+          },
+          {
+            "t": "政府広報オンライン",
+            "u": "https://www.gov-online.go.jp/article/202410/entry-6604.html",
+            "d": "2024-10-01"
+          },
+          {
+            "t": "警視庁 交通反則通告制度の導入",
+            "u": "https://www.keishicho.metro.tokyo.lg.jp/kotsu/jikoboshi/bicycle/cycle_kaisei.html",
+            "d": "2026-04-01"
+          }
+        ],
+        "status": "確定＝2026年4月1日施行・16歳以上対象・施行1か月2147件と違反内訳・主な反則金額／曖昧＝今後の取り締まり強度と減少幅の解釈は※要裏取り"
+      },
+      {
+        "id": "20260703-farsports-evo-s",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://bicycles4ever.com/en/wp-content/uploads/sites/3/2025/11/FARSPORTS-Did-it-AGAIN-2026-EVO-S-Series-RAISES-the-1024x576.jpg",
+        "headline": "中華カーボンの雄Farsportsが2026新型『EVO S』カーボンスポークを直販投入",
+        "layer1": "Farsportsが2026年モデル『EVO S』を発表。新形状の3.8mmブレード型カーボンスポークと新設計ハブを採用し、直販価格は約1559〜1779ドル。深さは45mm(S4)・50mm(S5)・58.5mm(S6)の3本立て。",
+        "layer2": "確定はカーボンスポーク新形状・新ハブ採用と直販価格帯。ハブはMY2025比で剛性10%増・重量5%減とメーカー公称。ペア重量は出所で差があり、公式系で50mmクラス約1180g、レビュー実測系で約1246gと幅があるため要裏取り。カーボンスポークは旧世代比で高速域最大3W改善とメーカー主張だが第三者検証は未確認。CeramicSpeedベアリング仕様やチューブレス対応あり。日本の買い手には直販コスパが刺さる一方、保証・サポート面は個別確認が要る。※要裏取り",
+        "sources": [
+          {
+            "t": "bicycles4ever",
+            "u": "https://bicycles4ever.com/en/farsports-did-it-again-2026-evo-s-series-raises-the-industry-standard-for-wheels/",
+            "d": "2025-11-21"
+          },
+          {
+            "t": "FARSPORTS 公式",
+            "u": "https://www.farsports.com/products/farsports-2026-new-s-series",
+            "d": "2025-11-21"
+          }
+        ],
+        "status": "確定＝新型カーボンスポーク採用・3本の深さ・直販価格帯／曖昧＝実測ペア重量と3W空力効果は出所差・未検証"
+      },
+      {
+        "id": "20260703-cyclowatt-cleat",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/03/2026-CycloWatt-detail.jpeg",
+        "headline": "クリートに載せる新方式パワーメーター「CycloWatt」、Kickstarter目標を早々に突破",
+        "layer1": "ETH発のスイス企業CycloWattが、シューズのクリート内部に荷重センサーを仕込むパワーメーターを発表。SPD-SLとLook Keoに対応し、ペダルもクランクも替えずにバイク間や実走／ローラーを跨いで持ち運べるのが最大の売り。クラウドファンディングは開始直後に目標を大きく超過した。",
+        "layer2": "公称は精度±3%、1回の充電で約48時間（road.cc）だが、別媒体は約24時間と記載しており電池持ちの数字はブレている※要裏取り。単側計測で、スタックハイトは約5mm増、公称価格はCHF179、摩耗時はクリートのみCHF15で交換可という設計。ただし2016年にクリート式のBrim Brothersが商品化に挫折した前例があり、耐久性と実走精度は市販版が出るまで確定とは言えない。",
+        "sources": [
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/tech-news/cleat-based-cyclowatt-power-meter-promises-easy-swaps-and-low-cost-kickstarter",
+            "d": "2026-03-02"
+          },
+          {
+            "t": "New Atlas",
+            "u": "https://newatlas.com/bicycles/cyclowatt-cleat-power-meter/",
+            "d": "2026-03-03"
+          }
+        ],
+        "status": "確定＝Kickstarter始動と目標超過、方式・公称スペックの公開/曖昧＝電池持ち（48h対24h）と実走での精度・耐久は未検証"
+      },
+      {
+        "id": "20260703-discbrake-care",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/roadcc/how-bleed-shimano-hydraulic-disc-brakes-14-bleed-tubing-attached-bleed-nipple-syringe-mineral-oil.jpg",
+        "headline": "ディスクブレーキ「握りがスカスカ」問題、初中級者が自分でできるメンテはどこまでか",
+        "layer1": "油圧ディスクが主流化し、初中級者の不安トップが「ブリーディング（エア抜き）」。レバーが柔らかい・効きが弱いはエア混入か油劣化のサインで、年1回の油交換が目安とされる。",
+        "layer2": "先回りすると要点は3つ。第一にオイル種別を絶対に間違えないこと（シマノは鉱物油ミネラルオイル、SRAMはDOT5.1で、混用はシールを痛め最悪ブレーキ不良）。第二にパッド交換は残り約1mmが交換ライン、素手で摩擦面に触れると皮脂で汚染し効きが落ちるため必ず背面プレートを持つ。第三にブリーディングは1キャリパー慣れれば25〜45分程度で自分でも可能だが、ピストン戻しは上位モデルのセラミックピストンが割れやすく注意。ここは※要裏取り（車体・年式で手順とトルクが違う）。プロ整備士は「まずパッドとローターの汚れ・片効きを疑え、いきなりブリーディングするな」とも指摘。",
+        "sources": [
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/content/feature/how-bleed-shimano-hydraulic-disc-brakes-312597",
+            "d": "2025-02-20"
+          },
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/advice/workshop/dont-bleed-your-brakes-before-reading-this",
+            "d": "2025-06-12"
+          }
+        ],
+        "status": "確定＝シマノは鉱物油・SRAMはDOT5.1、パッド残1mm目安、摩擦面素手厳禁/曖昧＝各自の車体で手順とトルク値が異なるため作業前に取説確認が必要"
+      },
+      {
+        "id": "20260703-uci-2026-rules",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2025/03/GettyImages-2200579403-scaled.jpg?w=1200",
+        "headline": "UCI機材規則2026が発効、リム65mm・ハンドル最小400mmで機材の潮目が変わる",
+        "layer1": "2026年1月1日から安全部門SafeR発のUCI新規則が発効。マスドロードで、ホイールのリム高は最大65mm、ハンドル全幅は最小400mmなどが正式適用された。",
+        "layer2": "確定している主な数値は、リム高上限65mm、ハンドル全幅（外〜外）最小400mm・最大フレア65mm・ブラケット内側間280mm、レバー内側からバー外縁まで最大50mm、フォーク内幅は前115mm/後（シートステー）145mmの上限。これらはエアロ偏重と極端な内向きセッティングの安全性懸念への対応。一方で注目のギア比制限（最大54×11＝クランク1回転10.46m相当）は、SRAMがベルギー競争当局に申立てを行ったため保留中で発効していない。市販車への影響は間接的だが、深リム流行やワイド化トレンドと逆行する上限設定として初中級の機材選びの空気も変える。ギア比制限の最終決着時期は※要裏取り。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/the-uci-rule-changes-for-2026-you-need-to-know-about",
+            "d": "2026-01-01"
+          },
+          {
+            "t": "Velo (Outside)",
+            "u": "https://velo.outsideonline.com/road/road-gear/new-uci-gear-rules-incoming-rim-height-limits-wider-bars-crackdown-tech-fraud/",
+            "d": "2025-06-12"
+          }
+        ],
+        "status": "確定＝2026-01-01発効でリム上限65mm・ハンドル最小400mm・フォーク内幅前115/後145mm/曖昧＝ギア比制限（54×11）はSRAM申立てで保留、決着時期未定"
+      },
+      {
+        "id": "20260703-helmet-doryoku-giron",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://prcdn.freetls.fastly.net/release_image/46797/39/46797-39-6ad142566c58049e577456f81242ee13-3750x2500.jpg",
+        "headline": "青切符が始まってもヘルメットは「努力義務」のまま——義務化を巡りローディーが割れる",
+        "layer1": "2026年4月の青切符導入後もヘルメット未着用は反則対象に入らず、2023年4月からの「努力義務」が続く。メーカーや警察は自発着用を呼びかけるが、着用率は全国で2割前後にとどまるとされる※要裏取り。",
+        "layer2": "「罰則がない＝かぶらなくていい」派と「頭部致死率が跳ね上がる以上かぶるべき」派でXの温度差が大きい論点。事故死者の約53％が頭部損傷、未着用は致死率が着用比で約1.5倍以上とされる（OGK KABUTO資料）。市場面では2023年の努力義務化時に大人用ヘルメットの売上が前年同月比で約10倍に急増し、価格帯も3000〜5000円台が主流化。青切符・道交法厳格化を受けた「第二波」需要が起きるかがEC各社の注目点。",
+        "sources": [
+          {
+            "t": "OGK KABUTO プレスリリース（PR TIMES）",
+            "u": "https://prtimes.jp/main/html/rd/p/000000039.000046797.html",
+            "d": "2026-03-26"
+          },
+          {
+            "t": "Nint ECデータラボ",
+            "u": "https://www.nint.jp/blog/icycle-helmet-demand-2026-law-revision/",
+            "d": "2026-03-10"
+          }
+        ],
+        "status": "確定＝ヘルメットは青切符対象外で努力義務継続・2023年の売上約10倍と価格帯シフト・頭部損傷53％／曖昧＝全国着用率の最新数値と『第二波』需要の規模は※要裏取り"
+      },
+      {
+        "id": "20260703-bontrager-aeolus-carbon",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/07/Tour-de-France-tech-debuts-July-2026-1024x683.jpg",
+        "headline": "Bontrager初のカーボンスポーク版『Aeolus』がツール・ド・フランス2026で実戦デビュー",
+        "layer1": "TrekのBontragerが、ブランド初となるカーボンスポーク採用の新型Aeolusを2026年ツールでLidl-Trek勢に供給。正式発表前のプロトン先行投入で、プロ機材のカーボンスポーク主流化を象徴する動き。",
+        "layer2": "確定はカーボンスポーク採用がBontragerとして初である点と、ツールでの実戦使用。深さは既存の37/51/62/75mmに加えProバリアント3種が確認済み。ただし正式な重量・価格・空力データ・発売時期はいずれも未公表で要裏取り。リム内幅やフック有無など細部も現時点で非公開。※要裏取り",
+        "sources": [
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/feature/a-wave-of-new-bikes-wheels-and-kit-making-tour-de-france-debuts-in-2026",
+            "d": "2026-07-02"
+          },
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/features/pro-bike/tour-de-france-bikes",
+            "d": "2026-07-01"
+          }
+        ],
+        "status": "確定＝ブランド初のカーボンスポーク採用・ツール実戦投入・深さ4種＋Pro3種／曖昧＝重量・価格・空力値・発売時期は未公表"
+      },
+      {
+        "id": "20260703-campy-sr13-grandtour",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://www.bike-mag.com/wp-content/uploads/2026/02/@LAzou-DeniaJerseyO1-103-2-1024x683.jpg",
+        "headline": "世界初の2×13速カンパ『Super Record 13』、ツール2026でグランツール実戦デビュー",
+        "layer1": "Campagnoloの世界初2×13速『Super Record 13』が、2026年ツールでCofidisに投入され、13速ドライブトレインとして初のグランツール実戦を迎えた。全出場23チーム中カンパはCofidis1チームのみ。",
+        "layer2": "確定は2×13速でグランツールを走る初事例である点と、CofidisがBora Ultra WTO(45/60mm、G3組み)と組み合わせて使う構成。グループ自体は2025年発表で、今回は量産機材のレース検証フェーズ。メーカーは近接ギア比による滑らかな変速を主張するが、3週間の耐久・信頼性やシマノ/SRAM比の実戦優位は本大会が試金石で、定量的な検証データは未確定。※要裏取り",
+        "sources": [
+          {
+            "t": "BIKE Magazine",
+            "u": "https://www.bike-mag.com/campagnolo-doubles-down-with-team-cofidis-for-2026",
+            "d": "2026-02-06"
+          },
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/feature/a-wave-of-new-bikes-wheels-and-kit-making-tour-de-france-debuts-in-2026",
+            "d": "2026-07-02"
+          }
+        ],
+        "status": "確定＝世界初2×13・初のグランツール実戦・Cofidis単独採用・Bora Ultra WTO併用／曖昧＝耐久信頼性と他社比の実戦優位は検証中"
+      },
+      {
+        "id": "20260703-hookless-72psi",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2025/08/Are-hookless-rims-safe-scaled.jpg?w=1200",
+        "headline": "フックレスは「72.5psi上限」が絶対、初中級が知るべき2026年の空気圧安全",
+        "layer1": "ワイドタイヤ＋チューブレスが標準化した2026年、フックレスリムには空気圧の絶対上限72.5psi（5bar）があり、超えるとタイヤがリムから外れる危険がある。",
+        "layer2": "ETRTO／ISO規格で25〜29mm相当のフックレスは72.5psi／5barが上限、30〜34mmは約65psi／4.5barとさらに低い。Silcaのポルトナー氏は『一部の組み合わせで78〜80psiでビードが外れた』と指摘し、安全マージンは最悪7.6%程度。ポンプゲージ自体が±3〜6%ずれること、気温10度上昇で約2.5psi上がることも重なるため、初中級はまず上限より1割低めから始めるのが安全。28〜30cなら概ね49〜60psiが実用域。※数値はBikeRadar／各社ガイドの2025〜2026年値で、体重・リム内寸・実測タイヤ幅で最適値は変わる点は要裏取り。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/features/tech/are-hookless-rims-safe-for-road-cycling",
+            "d": "2025-09-02"
+          },
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/advice/workshop/road-bike-tyre-pressure",
+            "d": "2025-11-04"
+          }
+        ],
+        "status": "確定＝フックレス上限72.5psiは規格で確定／曖昧＝最適空気圧は体重・タイヤ実測幅・路面で変動、フック付きリムは上限が異なる"
+      },
+      {
+        "id": "20260703-tounan-butsuri-gps",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bike-plus.com/cdn/shop/files/1440x810-how-to-lock-bicycle-1.webp?v=1728640388",
+        "headline": "「鍵だけ」の時代は終わり——2026年の盗難対策は地球ロック×GPSのハイブリッドが定石に",
+        "layer1": "高額ロードの盗難対策として、破壊に時間を稼ぐ「地球ロック」と、盗難後に追跡する「GPS／振動アラーム」を併用するハイブリッド運用が2026年の主流論として語られている。",
+        "layer2": "国産のAlterLockはボトルケージ穴に共締めできGPS・Wi‑Fi測位と95dBアラームを搭載、Apple『探す』対応のKnog Scoutと並ぶ二大選択肢。SNSでは追跡で発見に至った事例が共有される一方、追跡はできても回収・立件は警察対応次第で保証されない点が論争になりやすい。GPS事例記事は逮捕例を挙げるがクルマ・バイク中心で、自転車での確実な回収を示すものではない※要裏取り。",
+        "sources": [
+          {
+            "t": "バイクプラス（bike-plus）",
+            "u": "https://bike-plus.com/blogs/blog/how-to-lock-bicycle",
+            "d": "2026-01-04"
+          },
+          {
+            "t": "AlterLock",
+            "u": "https://alterlock.net/ja/gps-tracking-stolen-vehicle-arrest",
+            "d": "2025-12-22"
+          }
+        ],
+        "status": "確定＝地球ロック×GPSの併用が2026年の推奨策・AlterLock／Knog Scoutの仕様／曖昧＝GPSでの回収・立件確率と自転車での実効性は※要裏取り"
+      },
+      {
+        "id": "20260703-cadex-max50-hookless",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/02/SLorencePhoto_Cadex_ET_01-1024x683.jpg",
+        "headline": "Cadex『Max 50』一体成型ホイール、ツールで走らせフックレス継続を明言",
+        "layer1": "GiantのCadexが、ハブ・スポーク・リムを一体接着した『Max 50 WheelSystem』を2026年ツールでJayco AlUla等に供給。安全性論争が続くフックレスをあえて継続採用した。",
+        "layer2": "確定は公称ペア1290g、リム深50mm、内幅22.4mm、48T噛み合い、隠しチタンニップルとR3 C-48ハブの一体構造。Cadexは『正しい空気圧と対応タイヤなら安全』と明言しフックレス継続。価格は英国で前後計約3500ポンドと高額。実測重量やエアロ優位性は第三者検証待ちで、フックレスの安全余裕は使用タイヤ・空気圧管理に依存するため要裏取り。※要裏取り",
+        "sources": [
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/tech-news/we-believe-our-combination-is-safe-cadex-sticks-with-hookless-new-max-50",
+            "d": "2026-02-26"
+          },
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/feature/a-wave-of-new-bikes-wheels-and-kit-making-tour-de-france-debuts-in-2026",
+            "d": "2026-07-02"
+          }
+        ],
+        "status": "確定＝公称1290g・内幅22.4mm・一体接着構造・フックレス継続・価格／曖昧＝実測重量とエアロ効果は未検証、安全余裕は運用依存"
+      },
+      {
+        "id": "20260703-edge850-roam3",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2026/04/FotoJet-1.jpg?w=1200",
+        "headline": "Garmin Edge 850 対 Wahoo Roam 3、2026年ミドルGPSサイコン頂上対決",
+        "layer1": "2026年前半に出そろったミドルクラスGPSサイコンの二強、Garmin Edge 850とWahoo Elemnt Roam 3の長期テスト比較が各誌で公開された。",
+        "layer2": "価格はEdge 850がUS599.99ドル／469.99ポンド／549.99ユーロ、Roam 3がUS464.99ドル／399.99ポンド／449.99ユーロでWahooが安い。BikeRadar実測ではバッテリー持続がEdge 850で約11時間、Roam 3で約18時間とWahooが長い。一方Edge 850は解像度420×600でRoam 3の320×480より精細、UIとエコシステムの完成度でGarminがわずかに総合勝ちとの評価。ナビ追従は両者ほぼ互角。※価格・実測時間はBikeRadar／Cyclingnewsの2026年テスト値で、測定条件・地域・為替で変動する点は要裏取り。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/features/tech/versus/wahoo-elemnt-roam-3-vs-garmin-edge-850",
+            "d": "2026-05-08"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/garmin-edge-850-versus-wahoo-roam-3/",
+            "d": "2026-04-22"
+          }
+        ],
+        "status": "確定＝両機とも2026年に市場投入・価格判明／曖昧＝バッテリー実測は測定条件で差、日本正規価格は未確定"
+      },
+      {
+        "id": "20260703-longride-fuel",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://roadmancycling.com/blog/carbohydrate-per-hour-cyclists/opengraph-image-o9jqmt?4e1bc863f1ed0c9a",
+        "headline": "初めてのロングライドでハンガーノックしない補給、初心者の上限は「1時間70g」",
+        "layer1": "2026年更新の補給ガイドが相次ぎ、初中級者が「何をどれだけ食べるか」の数字が具体化。ポイントは走行時間と強度に応じて糖質量を変えることで、単一の正解量はないと明記される。",
+        "layer2": "目安を整理すると、3時間未満なら1時間30〜60g、90分超なら60〜90g、3時間超で90〜120gまで引き上げる。ただし初心者の腸の糖吸収上限は約70g/hとされ、いきなりプロ級の120gを狙うと消化不良を起こす。カギは『グルコース対フルクトース2対1』の配合で吸収経路を二重化すること、走り出し20分以内に食べ始めること、1時間あたり水分500〜750mlと長時間はナトリウム補給。高い数値は事前の『腸トレーニング（ガットトレ）』が前提で、まず低めから15〜20分ごとの小分け摂取が実践的。数字の根拠は複数媒体が一致するが、個人差が大きい点は※要裏取り。",
+        "sources": [
+          {
+            "t": "Roadman Cycling",
+            "u": "https://roadmancycling.com/blog/cycling-carbs-per-hour-fuel-like-a-pro",
+            "d": "2026-04-30"
+          },
+          {
+            "t": "ROUVY",
+            "u": "https://rouvy.com/blog/carbs-per-hour-cycling",
+            "d": "2026-05-06"
+          }
+        ],
+        "status": "確定＝3時間未満30〜60g/h・90分超60〜90g/h・初心者上限約70g/h・20分以内に補給開始/曖昧＝120g/hはガットトレ前提かつ吸収量の個人差大"
+      },
+      {
+        "id": "20260703-3dprint-saddle",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/oVFUY8d6KFwkzcLVVKa9nH-2560-80.jpg",
+        "headline": "3Dプリントサドルが2026年に「普及価格」へ、各社ラティス構造で本格量産",
+        "layer1": "2026年、TrekやPrologo、Specialized、Fizikが相次いで3Dプリント（ラティス格子）サドルを拡充し、これまで高級品だったカテゴリが中価格帯まで降りてきた。",
+        "layer2": "各社ともDLS（デジタルライトシンセシス、光と酸素で樹脂を硬化させる方式）で格子状パッドを一体成形し、圧力分散と通気を狙う。Specializedは3DパッドのPower Expert Mirrorを約210ドルまで下げ、PrologoはNago R4 3DMSSで155g前後（同社は3Dプリントサドル最軽量と主張）、TrekはAeolusの3Dモデルを刷新。従来のフォーム＋革より高価だが、選択肢と価格レンジが一気に広がった。※各重量・価格はメーカー公称や各誌レビューの2025〜2026年値で、実測差やロット差は要裏取り。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/reviews/saddles-seat-posts/trek-launches-new-pro-tested-3d-printed-aeolus-saddle-updates",
+            "d": "2025-09-11"
+          },
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/products/prologo-launches-a-3d-printed-version-of-its-worldtour-approved-scratch-m5-pas-saddle",
+            "d": "2025-04-23"
+          }
+        ],
+        "status": "確定＝主要各社が3Dプリントサドルを2026年ラインに拡充・価格帯拡大／曖昧＝最軽量主張や快適性は条件依存、価格は市場・為替で変動"
+      },
+      {
+        "id": "20260703-nats2026-milan-roglic",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-06%2Fphoto-collage-6a3cf62459dba.png",
+        "headline": "ツール直前の各国選手権、ミラン・ロリッチ・ケルデルマンが自国王者に",
+        "layer1": "6月末の各国ロード選手権で新チャンピオンが続々誕生。イタリアはミラン、オランダはケルデルマン、英国はフレッド・ライトが制し、ロリッチはスロベニアTTを勝った。",
+        "layer2": "ケルデルマンは6月28日、残り25kmからの独走で約11年ぶりの勝利をオランダ選手権で飾り、価値ある一勝に。ミランはイタリア・ロードで、ダティ、ロメーレを従えて優勝。英国はライトがアスキー、スウィフトを抑えて戴冠。ロリッチはスロベニアの個人TTを制し復調をアピール。これら新ナショナルジャージ組の一部はそのままツール2026のスタートラインに並ぶ見込みだが、各選手の最終エントリー可否は※要裏取り。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/dutch-national-championships-wilco-kelderman-ends-eleven-year-victory-drought-with-solo-road-race-triumph/",
+            "d": "2026-06-28"
+          },
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/2026-national-championships-index-the-top-28-countries-and-their-respective-winners",
+            "d": "2026-06-29"
+          },
+          {
+            "t": "Team Visma Lease a Bike",
+            "u": "https://www.teamvismaleaseabike.com/article/news/roglic-takes-slovenian-national-title/",
+            "d": "2026-06-28"
+          }
+        ],
+        "status": "確定＝6月末選手権でミラン（伊ロード）・ケルデルマン（蘭ロード）・ライト（英ロード）・ロリッチ（スロベニアTT）が優勝。曖昧＝新王者のツール2026最終エントリー可否は※要裏取り"
+      },
+      {
+        "id": "20260703-chinacarbon-after-giron",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://roadbikeworldhub.com/wp-content/uploads/2025/09/SLC5ultra.jpg",
+        "headline": "中華カーボン「品質は上がった」でも割れる論争——分かれ目は個人輸入か日本代理店か",
+        "layer1": "2025〜2026年で中華カーボンの評価は大きく底上げされたが、リム割れ・ハブ破損やニップル強度不足などの故障報告は今も残り、「安さ」より「壊れた時に誰が直すか」が日本での最大の争点になっている。",
+        "layer2": "個人輸入の激安ノーブランドは保証があっても『相手は海外・返送送料は自己負担・日本語対応が薄い・交換に時間』で泣きやすく、ガタが取れず結局国内ブランドへ買い替えた実例も。一方WinspaceやElitewheels等は日本代理店（例：WINSPACE JAPAN）やクラッシュリプレースメントで住み分けが進む。『中華＝地雷』の一括りは古く、争点は今やブランドではなく購入ルートとアフター体制※要裏取り。個別の故障率を示す公的データはない。",
+        "sources": [
+          {
+            "t": "bike-memo 中華カーボン格付け2026",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-01-18"
+          },
+          {
+            "t": "roadbikeworldhub Winspace評価",
+            "u": "https://roadbikeworldhub.com/rb0004/",
+            "d": "2025-09-23"
+          },
+          {
+            "t": "ロードバイクが欲しい！初心者向けナビ",
+            "u": "https://roadbike-navi.xyz/archives/16429",
+            "d": "2020-07-24"
+          }
+        ],
+        "status": "確定＝個人輸入時の保証・返送・日本語対応の弱点、Winspace等の日本代理店・クラッシュリプレース制度、故障報告の存在／曖昧＝ブランド別の故障率や中華全体の耐久性比較は公的データ無し※要裏取り"
       }
     ]
   },
