@@ -1,5 +1,279 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-07-04",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、鮮度で取り直して12本。ツール開幕当日（7/4）、主役ソースは7/1〜7/4発を軸に、古ネタは主役から外してびしっと集めました。聞いてください！",
+    "cards": [
+      {
+        "id": "20260704-ttt-newformat",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://domestique-cycling.b-cdn.net/production/2025/CORVOS_00037704-059.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C141",
+        "headline": "きょう開幕ツール、第1ステージは「1971年以来のチームTT」だが中身が別物――個人計時＋モンジュイックの二段坂",
+        "layer1": "TdF2026は7/4バルセロナ発、第1ステージ19kmのチームタイムトライアル（TTT）で総合争いがいきなり動く。TTTでの開幕は1971年以来55年ぶり。ただしフィニッシュタイムは『チームの◯番目の選手』ではなく、全員が個人で計時される新形式。",
+        "layer2": "先回りで潜ると、従来TTTは4〜5番目の選手のタイムをチーム全員に与えたが、今年は各自の個人タイムがそのまま総合成績になる。コースは前半15kmが平坦〜緩斜面、終盤にコート・ド・モンジュイック（1.1km・平均5.1%）、続けてオリンピックスタジアムへの登り（1.1km・平均5.1%）が待つ。つまりチームは『平坦でエースを高速で運び、登りで各自が独立して差をつくる』計算になる。ポガチャル（UAE）が最終発走、ヴィンゲゴー・レムコもここで初日から秒を削り合う。※結果は日本時間の深夜〜早朝に出る（欧州17時台スタート）ため本カードは開幕直前情報。速報は明日追う。",
+        "sources": [
+          {
+            "t": "domestique cycling（第1ステージ形式解説）",
+            "u": "https://www.domestiquecycling.com/en/news/2026-tour-de-france-team-time-trial-explained-stage-1-format-and-rules/",
+            "d": "2026-07-02"
+          },
+          {
+            "t": "domestique cycling（第1ステージ プレビュー）",
+            "u": "https://www.domestiquecycling.com/en/features/tour-de-france-stage-1-preview-maillot-jaune-up-for-grabs-in-opening-team-time-trial/",
+            "d": "2026-07-03"
+          }
+        ],
+        "status": "確定＝TTT開幕は1971年以来／個人計時の新形式／モンジュイック二段坂の勾配。曖昧＝第1ステージ結果はまだ（開幕当日の速報待ち）。"
+      },
+      {
+        "id": "20260704-pogacar-bikeweight",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://www.bikeradar.com/resources/content/32337f2f-7841-4ef6-a233-d1f001580530/61df4633-fd5b-432c-b1ab-591dc2219d18/ce9ed0f5-5699-438a-a70c-96c39bb91c04/Tadej-Pogacar_Colnago-Y1Rs_20260702_SvB_A6300__BR_9537-scaled.jpg?preview=false&platform=WEB&deviceId=847ec521-93b7-49bc-9463-48769ed70515&w=1200",
+        "headline": "王者ポガチャルのツール機材、実測7.25kg――『軽さの鬼』が意外に重い理由",
+        "layer1": "BikeRadarがポガチャルの2026ツール用コルナゴ Y1Rs（エアロバイク）を計測すると7.25kgあった。ライバル、ヴィンゲゴーのサーヴェロ S5より約450g重い。『最強クライマーの機材が最軽量ではない』のが話題に。",
+        "layer2": "先回りすると、これは失敗ではなく設計思想の違い。Y1Rsはエアロ最優先の一体コックピット・ベイオネットフォークで、UCI下限6.8kgを割ってまで軽くするより空力を取る。ホイールはENVE SES 4.5 Pro、タイヤは28mm Continental GP5000 TT。なお計測機体は『#2』ステッカー付きの予備車だった可能性があり、本番機はやや軽い見込み。ヴィンゲゴーが軽いのはフレームサイズが小さいことも一因。つまり『重い＝遅い』ではなく、平坦・下り・空力で取り返す2026年の主流思想そのもの。うちの深リム（8LIEN AETHER・FARSPORTS）を『登りでも空力で速い』文脈で語れる好ネタ。",
+        "sources": [
+          {
+            "t": "BikeRadar（ポガチャル Y1Rs 実測）",
+            "u": "https://www.bikeradar.com/features/pro-bike/tadej-pogacar-2026-tour-de-france-colnago-y1rs",
+            "d": "2026-07-02"
+          }
+        ],
+        "status": "確定＝実測7.25kg・S5比+450g・ENVE 4.5 Pro・28mm GP5000TT。曖昧＝本番機の正確な重量（予備車計測のため）。"
+      },
+      {
+        "id": "20260704-winspace-hyperlight",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "http://www.winspace.cc/cdn/shop/files/IMG_0784-_-2-600x400_1.jpg?v=1743663017",
+        "headline": "中華ウィンスペースの登坂用カーボンスポーク『Lún HYPER LIGHT』が1250g――ディープ全盛のなか『軽さで刺す』一枚",
+        "layer1": "エアロ深リム競争が続くなか、2026年の中華カーボン総覧（velofanatics・7月更新）でもウィンスペースの登坂・軽量カーボンスポーク版『Lún HYPER LIGHT』が軽量枠の筆頭に挙がる。ペア1250g（UDマット）でHYPERレンジ最軽量。",
+        "layer2": "先回りで公式スペックを確認すると、内幅23.4mm／外幅31mmのワイドリムで太タイヤの安定を確保しつつ、スチール＋セラミック混成ベアリング＋チタンラチェットで軽量化。カーボンスポーク特有の『バネ感（springiness）』を売りにしている。ただし2026の正確な発売日・国内価格の明記は見つからず＝そこは※要裏取り。うちのラインでいえば軽量寄りのGOOSYNN Ti-Fi PRO／NEPEST NOVAと同じ『ディープ＝重いは過去』の物語に乗せられる。中華カーボンが『安いから軽い』でなく『設計で軽い』段階に来ている証拠。",
+        "sources": [
+          {
+            "t": "velofanatics（2026 中華カーボン総覧・7月更新）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026-07"
+          },
+          {
+            "t": "Winspace 公式（Lún HYPER LIGHT スペック）",
+            "u": "https://www.winspace.cc/products/lun-hyper-light",
+            "d": "2026-06"
+          }
+        ],
+        "status": "確定＝ペア1250g・内幅23.4/外幅31mm・カーボンスポーク・チタンラチェット。曖昧＝2026の正確な発売日と国内価格（※要裏取り）。"
+      },
+      {
+        "id": "20260704-bianchi-tdf113",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://www.bikeradar.com/resources/content/32337f2f-7841-4ef6-a233-d1f001580530/9b283206-0792-4789-8a4f-e66fae77cb31/bed4998f-5cbb-4594-af13-6d2d95939e51/Matej-Mohoric_Bianchi-Specialissima-RC_20260701_SvB_A6300__BR_9110-scaled.jpg?preview=false&platform=WEB&deviceId=037dd369-0c0d-41f0-8084-6db7b36aed42&w=1200",
+        "headline": "ビアンキが『ツール公式バイク』に――第113回を記念した限定113台 SPECIALISSIMA RC（€12,900）",
+        "layer1": "ビアンキが2026ツールのオフィシャル・バイクとなり、記念に SPECIALISSIMA RC の限定113台エディションを発表。第113回大会にちなみ1台ずつ番号入り。定価12,900ユーロ。",
+        "layer2": "先回りで実車を潜ると、限定版はマイヨジョーヌなど4つのリーダージャージをハンドペイントで表現し、レパルト・コルセ製カーボンホイール＋プロロゴ特注サドルを装備。一方、実際にモホリッチが第1ステージで乗る実戦仕様は、新型 SPECIALISSIMA RC（フレーム750g・前作比25%空力向上・50km/hで16W節約）で、計測重量6.92kg＝UCI下限6.8kgを『わずかに超えた』重さ。デュラエースDi2・54/40・11-34t、Vision Metron 45 RS、GP5000 TT（実測33.65mm幅）。『番号入り113台』は物語性が強く、うちの限定・少量在庫の見せ方の参考にもなる。",
+        "sources": [
+          {
+            "t": "brujulabike（ビアンキ ツール公式・限定113台）",
+            "u": "https://en.brujulabike.com/bianchi-becomes-the-official-bicycle-of-the-tour-and-celebrates-it-with-a-limited-edition-of-the-specialissima-rc/",
+            "d": "2026-07-01"
+          },
+          {
+            "t": "BikeRadar（モホリッチ実戦車 6.92kg）",
+            "u": "https://www.bikeradar.com/features/pro-bike/matej-mohoric-bianchi-specialissima-2026-tour-de-france",
+            "d": "2026-07-02"
+          }
+        ],
+        "status": "確定＝限定113台・€12,900・番号入り／実戦車6.92kg・フレーム750g・16W節約。曖昧＝日本での限定版取扱・価格。"
+      },
+      {
+        "id": "20260704-tdf-debut-wave",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/07/Tour-de-France-tech-debuts-July-2026.jpg",
+        "headline": "開幕直前に『新機材の波』――ツール2026でデビューするバイク・ホイール・小物が一気に表へ",
+        "layer1": "road.ccが開幕直前（7/2）に、2026ツールでデビューする新機材をまとめた。ルック 795 Blade RS 3（カンパ13速搭載）、刷新オルベア オルカ エアロ、トタルエネジのキューブ Litening Aero、ENVEの空力追加ホイール（SES 100 PRO／SES PRO Disc）など、未発表・新型が例年以上に集中。",
+        "layer2": "先回りでこの波の意味を潜ると、これは単なる新製品ラッシュではなく『メーカーが最大の宣伝舞台＝ツール開幕に新型を合わせてきた』こと。つまり秋以降に国内へ降りてくる次シーズンの型がここで見えている＝仕入れ・トレンド予測の起点になる。共通する方向は(1)エアロと軽量の両立(2)カーボンスポークの一般化(3)一体コックピット。うちにとっては、この最前線が半年〜1年後に『中華カーボンでも同じ技術が手頃に』降りてくる導線。マサルが今のうちに『次に来る形』を掴んでおける枠。個別の細かい製品は7/3のカードで既に出したものもあるので、ここは『波として俯瞰する』1本。",
+        "sources": [
+          {
+            "t": "road.cc（ツール2026 デビュー機材の波）",
+            "u": "https://road.cc/feature/a-wave-of-new-bikes-wheels-and-kit-making-tour-de-france-debuts-in-2026",
+            "d": "2026-07-02"
+          }
+        ],
+        "status": "確定＝7/2まとめ・Look795 Blade RS3/オルカ エアロ/キューブ Litening/ENVE新ホイール等が開幕デビュー。曖昧＝各製品の国内価格・入荷は未定（欧米発表ベース）。"
+      },
+      {
+        "id": "20260704-tdf-heat-cooling",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://escapecollective.com/content/images/size/w1200/wordpress/2024/07/ice-gels.jpg",
+        "headline": "40℃超のツールで選手が使う『冷却テック』の実態――アイスベスト・アイスソックス・スラッシー、そして冷却バイク増車",
+        "layer1": "南欧の熱波でツール2026は『近年最も危険』と警告されるなか、選手はアイスベスト・冷却タオル・氷入りソックスをウォームアップで使い、レース前後にスラッシー（半解凍ドリンク）で深部体温を1〜2℃下げる運用が定着。主催者は冷却バイクを増車し氷を追加配備。",
+        "layer2": "先回りで仕組みを潜ると、冷却ベストは主要動脈にディープフリーズの保冷剤を当てて深部体温を下げる狙い。スラッシーは冷却＋電解質補給の一石二鳥で、レース直前に飲む。ヘルメット各社は空力を保ったまま通気口を増やし、暑さでの発熱を逃がす方向。要は『速さ＝空力』一辺倒だった機材選定に『冷却』という新軸が入った。これは初中級の夏ライドにも直結する（プロがやる＝氷・スラッシー・通気）。うちの夏コンテンツ（公開日記の実走テスト）に『プロの冷却をアマがどこまで真似できるか』で1本立つ。",
+        "sources": [
+          {
+            "t": "Escape Collective（アイスジェルで冷やす）",
+            "u": "https://escapecollective.com/tour-de-france-riders-are-keeping-cool-with-ice-gels/",
+            "d": "2026-07-02"
+          },
+          {
+            "t": "Northeastern（猛暑での冷却手法）",
+            "u": "https://news.northeastern.edu/2026/07/02/cycling-in-extreme-heat-tour-de-france/",
+            "d": "2026-07-02"
+          }
+        ],
+        "status": "確定＝アイスベスト・スラッシー・冷却バイク増車・深部体温1〜2℃低下の運用。曖昧＝各手法の効果量の定量比較（研究で幅あり）。"
+      },
+      {
+        "id": "20260704-summer-tirepressure",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://bike-news.jp/wp-content/uploads/2023/07/20230703_air_01-1000x667.jpg?v=1688350874",
+        "headline": "夏は空気圧『少なめ』が正解？――『10%低め』の通説を初中級向けにほどく",
+        "layer1": "猛暑シーズン、日本語メディアで『夏はタイヤ空気圧を10%ほど低めに』という話が再び読まれている。理由は炎天下の路面・タイヤで内圧が上がりやすく、上限まで入れると乗り心地が硬く・破裂リスクも上がるから、というもの。",
+        "layer2": "先回りで裏を取ると、方向性は妥当だが『10%』は絶対値ではなく目安。実際の適正は体重×タイヤ幅×リム内幅×チューブレスかで決まり、2026年の主流見解はむしろ『入れすぎが一番遅くて疲れる』（28〜30Cのチューブレスなら4bar台が新常識）。夏はそこからさらに気持ち下げる、が実務。注意点は、フックレスリムは上限（多くが72.5psi≒5.0bar）が絶対で、低めにするのは安全側だが上げすぎは厳禁。うちのチューブレス×フックの説明（扱う全ブランドはフックあり＝上限に神経質になりすぎなくていい安心材料）と自然につながる。初カーボンの人がいちばん不安な『何barが正解？』に答える定番ネタ。",
+        "sources": [
+          {
+            "t": "バイクのニュース（夏の空気圧）",
+            "u": "https://bike-news.jp/post/317097",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝夏は内圧上昇で少なめが安全側／入れすぎが遅い・疲れるは2026主流／フックレス上限は絶対。曖昧＝『10%』は目安で万人一律の数値ではない。"
+      },
+      {
+        "id": "20260704-tdf-tech-trends",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://www.bikeradar.com/resources/content/32337f2f-7841-4ef6-a233-d1f001580530/6b9bc524-dce1-4670-b93d-853d24a7bd69/51caa3ed-9fea-4737-8574-c496159e8eae/2026-Tour-de-France_Tech-Predictions-scaled.jpg?preview=false&platform=WEB&deviceId=9616bc80-6e8f-4b6e-ba89-99370363c848&w=1200",
+        "headline": "2026ツールの機材トレンドは『軽量エアロ回帰』と『猛暑ハック』の二本柱",
+        "layer1": "各メディアが開幕直前に整理した2026ツールの機材トレンドは、(1)エアロを保ったまま軽さを削る『ウェイトウィニー・エアロ』への回帰、(2)氷・冷却ウェア・通気ヘルメットなどの『猛暑ハック』が主戦場、という二本柱。ステム下スペーサーや3Dプリント部品も継続テーマ。",
+        "layer2": "先回りで一段深掘りすると、『太タイヤ拡大』はほぼ一巡し、極狭ハンドルはUCI規制（外-外400mm下限）で終息、というのが2026の共通認識。つまり数年続いた『とにかく太く・狭く』の流れが規制と実測で一区切りし、次の伸びしろは空力×軽量の両立と、暑さ対策という運用面に移った。うちの読者（初中級）にとっては『もう極端な機材競争を追わなくていい』という安心のメッセージにできる。深リムは空力、軽量リムは登坂、と用途で選ぶ『個性で選ぶ』話（ホイールに上下はない）にきれいに着地する。",
+        "sources": [
+          {
+            "t": "BikeRadar（2026ツール機材予測）",
+            "u": "https://www.bikeradar.com/features/opinion/2026-tour-de-france-tech-predictions",
+            "d": "2026-07"
+          },
+          {
+            "t": "Cycling Weekly（6つの機材トレンド）",
+            "u": "https://www.cyclingweekly.com/racing/tour-de-france/six-tech-trends-we-expect-to-see-at-the-2026-tour-de-france",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝軽量エアロ回帰・猛暑ハックが主戦場・タイヤ幅は一巡・極狭バーは規制で終息。曖昧＝各トレンドの普及速度（予測要素あり）。"
+      },
+      {
+        "id": "20260704-ysroad-summersale",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.funq.jp/contents/uploads/2026/02/06124336/img_press_kessan26.jpg",
+        "headline": "【経営メモ】ワイズロードが6/30夜『サマーセール』開幕――7月中〜下旬は『ハイパーサマーセール』でウェア最大80%OFFの波",
+        "layer1": "ワイズロードが5/26からの応援キャンペーンに続き、6/30 20時よりサマーセールを開始。7月中旬〜下旬には『ハイパーサマーセール』でサイクルウェアが30〜40%、一部80%OFFまで下がる。大手の夏の値引き商戦が本格化。",
+        "layer2": "先回りで市場の温度を潜ると、これは単発セールでなく『在庫潤沢・型落ち2〜3割引が常態』という2026年の構造の一部。トレックは一部主力の日本定価を10〜14%引き下げる異例対応もあった＝値下がり相場が続く。ここが経営に効くのは、完成車・ウェアで価格勝負しても大手の投げ売りに勝てない局面だという再確認。うちの武器は価格でなく、遠方客への一次情報・目利き・アフター（Checked&Tuned／全国発送／保証）。夏の値引き期は『安さ』でなく『不安を解く情報』で差す時期、と割り切れる。※各セールの正確な期間・値引き率は店舗告知ベースで変動＝購入検討時は要確認。",
+        "sources": [
+          {
+            "t": "ワイズロード サマーセール告知（6/30始動）",
+            "u": "https://online.ysroad.co.jp/shop/pages/summersale.aspx",
+            "d": "2026-06-30"
+          },
+          {
+            "t": "Bicycle Club/funq（値下がり相場の背景）",
+            "u": "https://www.funq.jp/bicycle-club/article/1049331/",
+            "d": "2026-02"
+          }
+        ],
+        "status": "確定＝6/30夜サマーセール開始・7月中下旬ハイパーサマーセール・ウェア大幅値引き・値下がり相場の継続。曖昧＝具体的な値引き率と対象は告知で変動（※要確認）。"
+      },
+      {
+        "id": "20260704-chinacarbon-import-vs-dealer",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png?media=1716897874",
+        "headline": "【経営メモ】中華カーボンの分かれ目は『個人輸入か、国内代理店か』――日本のブログ・SNSで語られ続ける論点",
+        "layer1": "日本語のブログ・note・SNSで、中華カーボンホイールの語り口が『品質は上がった（大手の1/3〜1/2で同等性能）』へ移り、実購入レビューが急増して情報の透明性が上がった。同時に、買い方は『AliExpress等の個人輸入』と『サポート付き国内代理店』の二択で意見が割れ続けている。",
+        "layer2": "先回りで論点を整理すると、個人輸入は最安だが輸入消費税・関税・送料を足すと差が縮み、初期不良・保証・交換で言語と時間のコストがかかる。国内代理店（ICAN JAPAN等）はやや高いが、初期不良対応・保証・組付け相談が付く。ブログの多くの結論も『初カーボンは価格差より安心を買え』に寄る。ここが経営に効くのは、うちのポジションがまさにこの『代理店＋一次情報＋アフター』側だという確認。つまり中華カーボンの不安（個人輸入の怖さ）を解く発信そのものが、うちの存在理由の説明になる。※『品質が上がった』は多数のレビューの体感ベースで、破断など安全は個体・使用条件次第＝断定しない。",
+        "sources": [
+          {
+            "t": "velofanatics（2026 中華カーボン総覧）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026-07"
+          },
+          {
+            "t": "ICAN JAPAN（中華カーボン購入ガイド）",
+            "u": "https://icanjp.com/blogs/news/chinese-carbon-wheels",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝実購入レビュー増で透明性向上／個人輸入は諸費用で差縮小・保証と初期不良にコスト／代理店は安心を付加。曖昧＝『品質が上がった』は体感ベース、安全は個体差（断定しない）。"
+      },
+      {
+        "id": "20260704-pidcock-tdf-debut",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/fy5GQvvEoTovKqsMLscC9L-1024-80.jpg",
+        "headline": "五輪王者ピドコック、初挑戦のチームで『総合』に本気――ステージ狙いから一段のぼる物語",
+        "layer1": "MTB・シクロクロスの五輪王者トム・ピドコックが、ピナレロ Q36.5 を率いてチーム初のツールへ。しかも狙いは区間勝利ではなく『総合（GC）』。2025年ブエルタ総合3位で『グランツールでどこまで登れるか』の見方が変わったのが背景。",
+        "layer2": "先回りで人間ドラマを潜ると、Q36.5はプロチーム（2部相当）で、UAEやヴィスマのような山岳アシスト網は持たない。それでもチームは『高い山で爪痕を残す』と全振り宣言。ピドコックは直前のアンドラのレース（Andorra MoraBanc Classica）でカルロス・ヴェローナやセップ・クスを破り、登坂脚が仕上がっているサイン。かつてアルプ・デュエズで区間勝利した男が、今年はアルプ・デュエズ2回登坂の総合コースで『GC挑戦者』として戻る――器用貧乏と言われた才能が一点に賭ける物語。Riders記事の核になる。",
+        "sources": [
+          {
+            "t": "cyclinguptodate（ピドコック GC全振り）",
+            "u": "https://cyclinguptodate.com/cycling/were-going-to-make-our-mark-in-the-high-mountains-tom-pidcock-and-q365-go-all-in-on-gc-dream-at-2026-tour-de-france",
+            "d": "2026-07-03"
+          },
+          {
+            "t": "Cyclingnews（ピドコック 復帰と目標）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/the-first-goal-is-to-enjoy-the-tour-de-france-chasing-gc-not-the-only-ambition-for-tom-pidcock-on-return-to-cyclings-biggest-race/",
+            "d": "2026-07-03"
+          }
+        ],
+        "status": "確定＝Q36.5初ツール・ピドコックGC狙い宣言・ブエルタ2025総合3位・直前レースでクスらを撃破。曖昧＝実際の総合順位（レースはこれから）。"
+      },
+      {
+        "id": "20260704-first-carbon-wheel-choice",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png?media=1716897874",
+        "headline": "初めてのカーボンホイール、2026年は『リム高』で性格が決まる――深いほど速い、は半分だけ本当",
+        "layer1": "初カーボンで最初に迷うのが『何mm深のリムを選ぶか』。2026年の中華カーボン総覧やブログでも、リム高＝そのホイールの性格を決める最重要ポイントとして語られている。深い（50mm超）＝平坦・巡航が速い、浅い（35〜45mm）＝登り・横風で扱いやすい、が基本。",
+        "layer2": "先回りで初中級の実務に落とすと、選ぶ順番は(1)自分の走り（平坦巡航か・山か・風の強い土地か）(2)リム内幅とタイヤ幅の相性（2026は内幅21〜25mm＋28〜32Cが標準）(3)フックかフックレスか（扱う中華ブランドはほぼフックあり＝空気圧に神経質になりすぎなくていい）。カーボンスポーク版は軽く反応が良い一方で価格が上がる。『深い＝速い』は平坦での話で、登りや強風では45mm前後の方が結局速く・楽なことも多い。ここでうちのレンジ（8LIEN AETHERの深リム、GOOSYNN/NEPESTの軽量寄り）を『上下でなく個性で選ぶ』に着地させられる。初カーボンの背中を押す定番how-to。",
+        "sources": [
+          {
+            "t": "velofanatics（2026 中華カーボン総覧）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝リム高で性格が決まる・深いは平坦向き浅いは登坂/横風向き・2026は内幅21〜25+28〜32C標準・扱う中華はフックあり。曖昧＝個人の最適解は走り方次第（一律の正解はない）。"
+      }
+    ]
+  },
+  {
     "date": "2026-07-03",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、20本。ツール・ド・フランス2026、いよいよ明日7/4バルセロナ開幕――68日ノーレースで臨むレムコの『賭け』、ログリッチ不在のレッドブル、女子ツール展望に決戦の峠まで。開幕直前ラッシュのオルベア／ルック／ピナレロ新機材、プライムデー商戦、中華ウィンスペース論争もまとめてお届けします。",
     "cards": [
