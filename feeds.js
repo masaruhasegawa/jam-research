@@ -1,5 +1,246 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-07-05",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ツールはバルセロナで開幕、ヴィンゲゴーが『黄色』。きょう第2ステージはモンジュイックの激坂で早くも総合が動きます。ユーロバイク発の新機材と、国内は夏商戦の『粗利の守り方』まで潜りました。",
+    "cards": [
+      {
+        "id": "20260705-tdf-s1-ttt",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-07/jonas-vingegaard-6a46d0c25b12a.jpg",
+        "headline": "ツール開幕TTを制したのはヴィスマ、ヴィンゲゴーが『黄色』――ポガチャルは12秒差に踏みとどまり、レムコは早くも19秒遅れ",
+        "layer1": "7/4バルセロナの19.6kmチームTT（個人タイムがそのままGCに乗る『パリ〜ニース方式』）で、チーム・ヴィスマ・リースアバイクが勝利。ヨナス・ヴィンゲゴーが今大会最初のマイヨジョーヌを着た。",
+        "layer2": "個人GC上位は①ヴィンゲゴー②ガンナ+0:08③ポガチャル+0:12④アユソ+0:16⑤レムコ+0:19。チーム着差ではネットカンパニー・イネオス+0:39、UAE+1:08。開幕からポガチャルは失点をわずか12秒に抑え、モンジュイックの登坂区間で被害を最小化した形。3週間の入口とはいえ、レムコが初日で19秒失ったのは重い。数字はcyclinguptodateとidlprocyclingで一致を確認。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（GC速報）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-classifications-update-stage-1-jonas-vingegaard-takes-yellow-as-tadej-pogacar-and-remco-evenepoel-immediately-on-back-foot",
+            "d": "2026-07-04"
+          },
+          {
+            "t": "IDL Pro Cycling（順位変動）",
+            "u": "https://www.idlprocycling.com/cycling/2026-tour-de-france-standings-immediate-changes-in-the-general-classification-after-the-team-time-trial",
+            "d": "2026-07-04"
+          }
+        ],
+        "status": "確定＝勝者ヴィスマ・ヴィンゲゴー黄色。タイム差は個人GCベース（チーム着差とは別数値）。"
+      },
+      {
+        "id": "20260705-tdf-s2-montjuic",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2025-06/tadejpogacar-jonasvingegaard-684d9177822c5.jpg",
+        "headline": "きょう第2ステージはタラゴナ→バルセロナ168.5km、モンジュイックの激坂を3回――マイヨジョーヌが早くも動く『パンチャー決戦』",
+        "layer1": "7/5の第2ステージは前半85kmの平坦のあと内陸へ。カテゴリー2のベゲス峠（6.1km・6.5%）を越え、終盤はモンジュイック城の激坂（1.6km・平均9.3%・最大13%）を3回まわる。フィニッシュはオリンピックスタジアム脇の登り。",
+        "layer2": "予想筆頭はポガチャル――最後のモンジュイックでアタックし『黄色』奪取を狙う一方、ヴィンゲゴーは番手で防御に回る見立て。ダークホースはトム・ピドコックで、昨年よく似た激坂フィニッシュでヴィンゲゴーを千切った実績があり、この勾配なら上位を突ける。19歳セイシャスの爆発力も要警戒。ボーナス数秒の奪い合いで『初日から総合が動く』可能性が高い。",
+        "sources": [
+          {
+            "t": "CyclingStage（第2ステージ）",
+            "u": "https://www.cyclingstage.com/tour-de-france-2026-route/stage-2-tdf-2026/",
+            "d": "2026-07-05"
+          },
+          {
+            "t": "CyclingUpToDate（S2展望）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-stage-2-preview-profiles-favourites-and-predictions-will-pogacar-take-vingegaards-yellow-jersey-on-the-montjuic",
+            "d": "2026-07-04"
+          }
+        ],
+        "status": "確定＝コース・日程・勾配。予想＝優勝候補（曖昧、結果はこれから）。"
+      },
+      {
+        "id": "20260705-ayuso-podium",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-06/juan-ayuso-6a2ab7e2b5da9.jpg",
+        "headline": "アユソ、リドル・トレックで『パリの表彰台』を公言――“目立たない立ち位置”を武器に、23歳が第3の男を狙う",
+        "layer1": "スペインの23歳フアン・アユソが、新チームのリドル・トレックのエースとして本国開催のツールに出走。「チームも自分もパリの表彰台を夢見ている」と目標を明言した。",
+        "layer2": "ポガチャル＆ヴィンゲゴーが上位2枠を占める前提で、アユソはセイシャス・レムコと『3番目』を争う構図。「彼らの方が注目もプレッシャーも大きい。だから自分は少し自分のことに集中できる」と、あえて“影”に回る戦略を語る。開幕TTでは16秒遅れの4番手と好位置につけ、援軍はクイン・シモンズやスケルモーセら厚い布陣。※GCは初週を落車・病気なく乗り切れるかが前提。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（表彰台宣言）",
+            "u": "https://cyclinguptodate.com/cycling/the-goal-is-obviously-to-be-on-the-podium-in-paris-juan-ayuso-sends-warning-as-lidl-trek-back-tour-de-france-podium-bid",
+            "d": "2026-06-29"
+          },
+          {
+            "t": "FloBikes（アユソ談）",
+            "u": "https://www.flobikes.com/articles/16049897-juan-ayuso-says-hes-happy-to-fly-under-the-radar-at-tour-de-france-2026",
+            "d": "2026-07-03"
+          }
+        ],
+        "status": "確定＝アユソの発言・所属・GC順位。"
+      },
+      {
+        "id": "20260705-enve-ses-2027",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://enve.com/cdn/shop/files/ENVE-Tadej-Tour-SES-ProZ8A_7012-6.jpg",
+        "headline": "ENVE、ユーロバイクで『SES 2027』――リムの厚みを荷重に応じ部位ごと可変、横風40km/h超でも安定の非対称Vプロファイル",
+        "layer1": "6/24〜27のユーロバイク2026でENVEが次世代SES（2027）を公開。新ラミネート技術で『リムの厚みを部位ごと・動的荷重に応じて可変』し、横風40km/h超でも安定するという非対称の『V』断面を採用した。",
+        "layer2": "ENVEのSES思想は元々『前後で空力の役割が違う』＝前浅・後深の非対称ペア。今回は素材の積層まで最適化し、軽さと横風安定を両立するという主張だ。ただし数値は現時点で公称ベースで、第三者の実測検証はこれから。同じユーロバイクではピレリのP Zero Race 2027、カンパの静音変速SRワイヤレス、ルックの可変剛性クランクも出そろい、2027年機材の輪郭が見えてきた。",
+        "sources": [
+          {
+            "t": "Ciclonline（ユーロバイク2027新製品）",
+            "u": "https://www.cyclonline.com/125-eurobike-2026-frankfurt-news/4402-eurobike-2026-the-2027-innovations-from-campagnolo,-pirelli,-look,-enve,-and-wahoo",
+            "d": "2026-07-04"
+          },
+          {
+            "t": "Ciclonline（技術レポート）",
+            "u": "https://www.cyclonline.com/125-eurobike-2026-frankfurt-news/4407-eurobike-2026-technical-report,-trends,-and-the-future-of-the-cycling-industry",
+            "d": "2026-07-04"
+          }
+        ],
+        "status": "曖昧＝公称値中心。実測レビュー・国内価格は未確定。"
+      },
+      {
+        "id": "20260705-carbon-spokes",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2025/07/20250702_003_Ashley-Quinlan-scaled.jpg?webp=1&w=1200",
+        "headline": "『カーボンスポークって実際どうなの？』――軽さで主流化、それでも鋼を置き換えない理由を初中級にほどく",
+        "layer1": "プロトンでカーボンスポークが定番化（ヴァンアールトもツールで使用）。一方bikeradarは『主流化したが、鋼を完全には置き換えない』と結論づけている。今週のENVE SES 2027や中華直販の超軽量勢で改めて話題だ。",
+        "layer2": "長所＝スポーク1本で鋼の約半分（2.5g対4.75g）、24本組で100g超の軽量化と高剛性。短所＝側面衝撃に弱く（ペダルやディレイラーの接触で折れやすい）、修正・入手が難しく、路面の当たりも硬め。ボンド式は割れると全損リスク、アンボンド式は1本ずつ交換できる。中華直販でも9Velo『EXTREME C52』やOverfast（37mmで約968g、UCIの40Jを超える100J衝撃試験を公表）がsub-1000gで参入。初中級の目安は“レース・軽さ重視かつ舗装中心なら買い”、“通勤・悪路・長く雑に使うなら鋼が無難”。",
+        "sources": [
+          {
+            "t": "BikeRadar（カーボンスポーク解説）",
+            "u": "https://www.bikeradar.com/features/tech/carbon-spokes-explained",
+            "d": "2025-11-25"
+          },
+          {
+            "t": "Ciclonline（ENVE SES 2027の背景）",
+            "u": "https://www.cyclonline.com/125-eurobike-2026-frankfurt-news/4402-eurobike-2026-the-2027-innovations-from-campagnolo,-pirelli,-look,-enve,-and-wahoo",
+            "d": "2026-07-04"
+          }
+        ],
+        "status": "確定＝長短の技術的整理。曖昧＝中華直販勢の実測耐久は今後の検証待ち。"
+      },
+      {
+        "id": "20260705-eurobike-tyre-tech",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://bikerumor.com/wp-content/uploads/2026/07/2026-Eurobike-Rumors-hall-hunting-secret-gems.jpg",
+        "headline": "ユーロバイク発、タイヤ最前線――WTBが『空力グラベルタイヤ』、シュワルベはラジアル・チューブ、ハントは市販最ワイド級リム",
+        "layer1": "7/1のバイクルーマー現地取材。WTBがStromm協業で『本格的に空力最適化した初の大容量グラベルタイヤ』Course 52を披露。V字のサイドノブとリッジで、幅広タイヤとリムの段差に生じる乱流を整えるという。",
+        "layer2": "ハントはLimitless系の進化版で前後非対称・内幅30mm級までワイド化し、フックレスビードは前約10mm/後約6mmで『市販最ワイド級』。シュワルベはラジアル構造をチューブタイプの通勤eバイクへ拡張（接地面30%増・シーラント不要）。グラベル／通勤寄りの話だが、“広く・低圧・空力”という潮流はロードのタイヤ選びにも確実に波及していく。※いずれも発表・プロト段階。",
+        "sources": [
+          {
+            "t": "Bikerumor（ユーロバイク噂・現地）",
+            "u": "https://bikerumor.com/wtb-aero-tire-hunt-gravel-race-wheels-tubes-in-schwalbe-radials-eurobike-rumors/",
+            "d": "2026-07-01"
+          }
+        ],
+        "status": "曖昧＝プロト／噂段階（現地取材ベース）。市販仕様・価格は未確定。"
+      },
+      {
+        "id": "20260705-canyon-v2x",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/07/2026-July-4-Tech-of-the-Week-1024x708.jpg",
+        "headline": "『しゃべる自転車』は交通安全の未来か――キャニオンのV2X e-bike、ハンドルの“振動”で衝突リスクを知らせる",
+        "layer1": "road.cc（7/4）によると、キャニオンがMurata・nfiniity・Vectorと組み、車やインフラと安全情報をやり取りするV2X（Vehicle-to-Everything）搭載e-bike『Roadlite-On』を開発した。",
+        "layer2": "両グリップ同時振動＝衝突全般の警告、片側振動＝危険の方向、と“ハンドルの触覚”で伝える。自車の位置を常時ブロードキャスト（CAM）し、DSRCとC-V2X／5Gの両対応でミリ秒級に通信、『角の向こうが見える』。ユーロバイクではキャニオンのPredict（レーダー＋カメラ＋モーションの360°センサー＋オンデバイスAI）も披露され、自転車が“機材”から“つながるデバイス”へ動く象徴になっている。※市販時期・価格は未定。",
+        "sources": [
+          {
+            "t": "road.cc（Tech of the Week）",
+            "u": "https://road.cc/tech-news/bikes-that-talk-roads-that-listen-is-this-wireless-communication-the-future-of-cycle-safety-plus-more-tech-news-from-specialized-canyon-bianchi-campagnolo-prologo-maap",
+            "d": "2026-07-04"
+          },
+          {
+            "t": "Ciclonline（Predict/デジタル統合）",
+            "u": "https://www.cyclonline.com/125-eurobike-2026-frankfurt-news/4407-eurobike-2026-technical-report,-trends,-and-the-future-of-the-cycling-industry",
+            "d": "2026-07-04"
+          }
+        ],
+        "status": "曖昧＝コンセプト／開発段階。量産・国内投入は未定。"
+      },
+      {
+        "id": "20260705-punchy-climb",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://journal.buychari.com/wp-content/uploads/2024/08/DSC_5741.jpg",
+        "headline": "きょうのツールは『激坂フィニッシュ』――モンジュイックの9.3%を、初中級はどう上る？",
+        "layer1": "第2ステージのモンジュイック（1.6km・平均9.3%・最大13%）は短くて急な“パンチャー向き”。似た質の坂は日本にも多く、初中級が最も脚を売りやすい場面だ。",
+        "layer2": "定石は『短い激坂はダンシングでサッと抜ける』。ケイデンスは70rpm前後を保てるギアを選び、重すぎは厳禁。姿勢はサドルの前寄りに座って前輪に荷重をつくり、腕でしがみつかず上体を倒して体幹で支える。前乗りしすぎると後輪がスリップするので、そこは瞬発を避け低負荷・高ケイデンスでじわっと踏む。プロが激坂を3回まわる“省エネの掛け方”を今日の中継で見ると学びになる。",
+        "sources": [
+          {
+            "t": "CyclingStage（第2ステージ・勾配）",
+            "u": "https://www.cyclingstage.com/tour-de-france-2026-route/stage-2-tdf-2026/",
+            "d": "2026-07-05"
+          },
+          {
+            "t": "buychari JOURNAL（ヒルクライムのコツ）",
+            "u": "https://journal.buychari.com/hill-climb-hang/",
+            "d": "2024-08-10"
+          }
+        ],
+        "status": "確定＝技術の定石。※解説の主典拠は普遍ネタ（2024年）、“なぜ今か”はきょうの第2ステージの激坂フィニッシュ。"
+      },
+      {
+        "id": "20260705-market-discount",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/c/cyclekaigyou/20260125/20260125133221.png",
+        "headline": "【経営メモ】在庫過多で『値引き常態化』――7月ボーナス商戦は薄利の消耗戦、粗利は整備・フィッティングで守る局面",
+        "layer1": "コロナ特需の反動で在庫は潤沢、型落ちは20〜40%引きが当たり前に。7月はボーナス＋Amazonプライムデー（7/7先行→7/10-13本番）で値引き競争が一段と激化する。XやブログでもロードバイクのバブルVS清算という論争が定期的に再燃している。",
+        "layer2": "プライムデーでも完成車“本体”は5〜15%引き止まりで、旨みは小物・消耗品。大幅値引きの本番はモデル入替の10〜11月。値下げ体力ではEC大手に勝てないので、小規模店は接客・フィッティング・整備という付加価値で粗利を守るのが生存線になる。背景の『バブル清算』論ではメーカーの日本撤退・大手減益・直営店の閉店も指摘されるが、個別の撤退／閉店は要個別裏取り。",
+        "sources": [
+          {
+            "t": "しょぼ輪（バブル崩壊・清算論）",
+            "u": "https://kyomu-cycle.hatenablog.com/entry/2026/01/25/133239",
+            "d": "2026-01-25"
+          },
+          {
+            "t": "サトユキブログ（2026値下がり検証）",
+            "u": "https://satoyukiblog.com/2026/03/09/2026-road-bike-prices-are-they-actually-dropping/",
+            "d": "2026-03-09"
+          }
+        ],
+        "status": "曖昧＝相場・構造論（継続議論）。数値は各社セール告知・ブログ集計ベース、※撤退／閉店の個別事例は要裏取り。"
+      },
+      {
+        "id": "20260705-market-tdf-demand",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/06/0629J-SPORTS_4.jpg",
+        "headline": "【経営メモ】ツール開幕は国内ロード需要の“年一の起爆剤”――J SPORTSが第1・2ステージ無料配信、初心者の入口が広がる",
+        "layer1": "7/4開幕のツール・ド・フランス2026。J SPORTSが全21ステージをLIVE放送・配信し、第1・第2ステージは“無料”開放している。",
+        "layer2": "毎年ツール期は、普段乗らない層まで『ロードに乗ってみたい』が動く年一の需要期。無料配信で入口が広がる今、店頭は“観てから来る”客の接客・試乗・入門車提案の商機だ。バルセロナ開幕やモンジュイックの映える画は初心者の心をつかみやすい。夏商戦の値引き合戦のなかでも、『安さ』より『はじめ方』を語れる店が選ばれる。※視聴の実数は非公表で、需要効果は定性的な見立て。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ（J SPORTS配信・無料枠）",
+            "u": "https://www.cyclesports.jp/news/race/164188/",
+            "d": "2026-06-27"
+          },
+          {
+            "t": "J SPORTS（7月の見どころ）",
+            "u": "https://www.jsports.co.jp/cycle/preview/July2026/",
+            "d": "2026-07-01"
+          }
+        ],
+        "status": "確定＝J SPORTS配信・第1/2ステージ無料。需要効果は定性的（※実数非公表）。"
+      }
+    ]
+  },
+  {
     "date": "2026-07-04",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、鮮度で取り直して12本。ツール開幕当日（7/4）、主役ソースは7/1〜7/4発を軸に、古ネタは主役から外してびしっと集めました。聞いてください！",
     "cards": [
