@@ -1,0 +1,58 @@
+name: Deploy research desk to Pages
+
+# リサーチデスク（GitHub Pages）を自前ワークフローで配信する。
+# ねらい：
+#  - 配信の一過性失敗（"Deployment failed, try again later."）を自動リトライで拾い直す
+#  - .nojekyll で静的サイトをそのまま配信（Jekyll処理を無効化）
+#  - 直近のデプロイを最後まで走らせ、途中キャンセルによる取りこぼしを防ぐ
+#
+# ※有効化には一度だけ Settings → Pages → Build and deployment → Source を
+#   「GitHub Actions」に切り替える必要があります（現在は「Deploy from a branch」）。
+#   切り替え前はこのワークフローのデプロイ手順は失敗し、従来のブランチ配信が動き続けます。
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 本番デプロイは1つずつ。走行中のデプロイは止めない（取りこぼし防止）。
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy1.outputs.page_url || steps.deploy2.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Assemble site (配信するファイルだけを集める)
+        run: |
+          mkdir -p _site
+          cp index.html feeds.js manifest.webmanifest _site/
+          cp *.png _site/ 2>/dev/null || true
+          touch _site/.nojekyll
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages (1回目)
+        id: deploy1
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: Deploy to GitHub Pages (リトライ)
+        id: deploy2
+        if: steps.deploy1.outcome == 'failure'
+        uses: actions/deploy-pages@v4

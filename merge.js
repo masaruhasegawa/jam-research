@@ -40,6 +40,25 @@ if (!today || !today.date || !Array.isArray(today.cards) || !today.cards.length)
   process.exit(1);
 }
 
+// --- JSTの「今日」を自前で算出し、today.date と一致するか検査（UTCずれ事故の根絶）---
+// クラウドは 19:30UTC(=翌04:30JST) に起動する。UTCの日付をそのまま使うと「今日」が
+// 前日になり、merge が前日ブロックに誤って合体してしまう（実際に起きた事故）。
+// ここで JST を強制し、ズレていれば feeds.js を一切触らず安全に中断する。
+// 意図した過去日への追記（手動キャッチアップ等）は ALLOW_DATE_MISMATCH=1 で明示的に許可。
+const jstToday = new Date(Date.now() + 9 * 60 * 60 * 1000).toISOString().slice(0, 10);
+if (today.date !== jstToday) {
+  if (process.env.ALLOW_DATE_MISMATCH === "1") {
+    console.warn("⚠ today.date(" + today.date + ") が JST今日(" + jstToday + ") と不一致だが、ALLOW_DATE_MISMATCH=1 のため続行。");
+  } else {
+    console.error("✗ today.date(" + today.date + ") が JSTの今日(" + jstToday + ") と一致しません。");
+    console.error("  → UTCの日付で書くと前日ブロックに合体する事故になります。");
+    console.error("  → today.json の date を " + jstToday + " に直して再実行してください。");
+    console.error("     （意図した過去日への追記なら: ALLOW_DATE_MISMATCH=1 node merge.js）");
+    console.error("  feeds.js は触っていない（サイトは無傷）。");
+    process.exit(1);
+  }
+}
+
 const feeds = loadFeeds();
 const before = feeds.map(d => d.date);
 const key = c => (c.id || "") + "|" + (c.headline || "");
