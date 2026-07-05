@@ -1,135 +1,275 @@
 {
-  "date": "2026-07-05",
-  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ツールはバルセロナで開幕、ヴィンゲゴーが『黄色』。きょう第2ステージはモンジュイックの激坂で早くも総合が動きます。ユーロバイク発の新機材と、国内は夏商戦の『粗利の守り方』まで潜りました。",
+  "date": "2026-07-06",
+  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。ツールは母国スペインで22歳デルトロが涙の初勝利――ポガチャルが最後の登りで『勝ちを譲り』ました。きょう第3ステージは初の本格山岳ですが、山火事と44℃で史上初の中止リスク。機材はTTTの巨大チェーンリングとカーボンスポーク標準化、国内は夏商戦の粗利防衛まで潜りました。",
   "cards": [
     {
-      "id": "20260705-tdf-s1-ttt",
-      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": true,
-      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-07/jonas-vingegaard-6a46d0c25b12a.jpg",
-      "headline": "ツール開幕TTを制したのはヴィスマ、ヴィンゲゴーが『黄色』――ポガチャルは12秒差に踏みとどまり、レムコは早くも19秒遅れ",
-      "layer1": "7/4バルセロナの19.6kmチームTT（個人タイムがそのままGCに乗る『パリ〜ニース方式』）で、チーム・ヴィスマ・リースアバイクが勝利。ヨナス・ヴィンゲゴーが今大会最初のマイヨジョーヌを着た。",
-      "layer2": "個人GC上位は①ヴィンゲゴー②ガンナ+0:08③ポガチャル+0:12④アユソ+0:16⑤レムコ+0:19。チーム着差ではネットカンパニー・イネオス+0:39、UAE+1:08。開幕からポガチャルは失点をわずか12秒に抑え、モンジュイックの登坂区間で被害を最小化した形。3週間の入口とはいえ、レムコが初日で19秒失ったのは重い。数字はcyclinguptodateとidlprocyclingで一致を確認。",
+      "id": "20260706-tdf-s2-deltoro",
+      "genre": "race",
+      "genreLabel": "RACE",
+      "genreJa": "レース",
+      "hot": true,
+      "image": "https://cdn.mos.cms.futurecdn.net/Ubp6aDKJ9JnjNs8sCtynLK-2400-80.jpg",
+      "headline": "ツール第2ステージ、22歳デルトロが母国スペインで初勝利――ポガチャルが最後の登りで『勝ちを譲る』、ヴィンゲゴーは黄色死守も差は6秒に",
+      "layer1": "7/5タラゴナ→バルセロナ168.5km。モンジュイックの激坂3回でUAEが主導権を握り、最後の700m、ポガチャルがアタックした先で同僚イサク・デルトロ（22・メキシコ）を先着させた。ポガチャルは並びかけて手を添え、勝ちを譲った形。デルトロのツール初勝利で、この『譲る』場面がXや国内タイムラインでも一気に拡散した。",
+      "layer2": "デルトロは涙で「この意味は言葉にできない。タデイが勝たせてくれた」。ポガチャルは会見で、ヴィンゲゴーを問われると「僅差に迫れるのは彼だけじゃない、隣にいるこの男（デルトロ）もだ」とUAEの“二枚看板”を示唆した。GCはヴィンゲゴー首位維持だが、ボーナス秒でポガチャルとの差は12→6秒に縮小、レムコ3位＋15秒、デルトロ4位＋16秒。UAEはチーム総合も5位→首位へ躍り出た。デルトロはジロで台頭しメルクス比較まで浴びる新星で、重圧を問われても「よく眠れている」と意に介さない。",
       "sources": [
-        { "t": "CyclingUpToDate（GC速報）", "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-classifications-update-stage-1-jonas-vingegaard-takes-yellow-as-tadej-pogacar-and-remco-evenepoel-immediately-on-back-foot", "d": "2026-07-04" },
-        { "t": "IDL Pro Cycling（順位変動）", "u": "https://www.idlprocycling.com/cycling/2026-tour-de-france-standings-immediate-changes-in-the-general-classification-after-the-team-time-trial", "d": "2026-07-04" }
+        {
+          "t": "CyclingUpToDate（デルトロ談話）",
+          "u": "https://cyclinguptodate.com/cycling/you-dont-know-what-this-means-to-me-isaac-del-toro-emotionally-thanks-tadej-pogacar-after-as-uae-leader-gifts-teammate-first-tour-de-france-stage-win",
+          "d": "2026-07-05"
+        },
+        {
+          "t": "Cyclingnews（UAEワンツー・GC）",
+          "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-isaac-del-toro-tadej-pogacar-power-to-uae-team-emirates-1-2-on-stage-2/",
+          "d": "2026-07-05"
+        },
+        {
+          "t": "CyclingUpToDate（会見・隣の男）",
+          "u": "https://cyclinguptodate.com/cycling/press-conference-hes-not-the-only-one-that-can-come-close-the-guy-next-to-me-tadej-pogacar-turns-vingegaard-question-into-del-toro-tour-de-france-warning",
+          "d": "2026-07-05"
+        }
       ],
-      "status": "確定＝勝者ヴィスマ・ヴィンゲゴー黄色。タイム差は個人GCベース（チーム着差とは別数値）。"
+      "status": "確定＝勝者デルトロ・ポガチャルが譲勝・GC差（首位ヴィンゲゴー、ポガチャル＋6秒）。X起点＝『譲る』場面が拡散、一次はレース映像・複数媒体で裏取り済。"
     },
     {
-      "id": "20260705-tdf-s2-montjuic",
-      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2025-06/tadejpogacar-jonasvingegaard-684d9177822c5.jpg",
-      "headline": "きょう第2ステージはタラゴナ→バルセロナ168.5km、モンジュイックの激坂を3回――マイヨジョーヌが早くも動く『パンチャー決戦』",
-      "layer1": "7/5の第2ステージは前半85kmの平坦のあと内陸へ。カテゴリー2のベゲス峠（6.1km・6.5%）を越え、終盤はモンジュイック城の激坂（1.6km・平均9.3%・最大13%）を3回まわる。フィニッシュはオリンピックスタジアム脇の登り。",
-      "layer2": "予想筆頭はポガチャル――最後のモンジュイックでアタックし『黄色』奪取を狙う一方、ヴィンゲゴーは番手で防御に回る見立て。ダークホースはトム・ピドコックで、昨年よく似た激坂フィニッシュでヴィンゲゴーを千切った実績があり、この勾配なら上位を突ける。19歳セイシャスの爆発力も要警戒。ボーナス数秒の奪い合いで『初日から総合が動く』可能性が高い。",
+      "id": "20260706-tdf-s3-heat-fire",
+      "genre": "race",
+      "genreLabel": "RACE",
+      "genreJa": "レース",
+      "hot": false,
+      "image": "https://cdn.mos.cms.futurecdn.net/dsZGdndajojLeSzFnUMC9E-2400-80.jpg",
+      "headline": "きょう第3ステージはツール初の本格山岳、だが『山火事と44℃』で史上初のステージ中止リスク",
+      "layer1": "7/6の第3ステージはグラノリェス→レ・ザングル195.9km、スペインからフランスへ入る本大会初の山岳日。カテゴリー1のコル・ド・トゼ（9.3km・6.5%）を含む4峠、獲得標高約4,000m。だが南仏の山火事とピレネー・オリアンタル/オクシタニーの『コードレッド（赤）』猛暑警報で、第3・第4ステージが中止になる可能性が指摘されている。",
+      "layer2": "予想気温は41〜44℃で、屋外スポーツ開催の安全上限（仏内務省基準）に迫る。猛暑・山火事によるステージ中止はツール史上前例がない。運営は「柔軟に対応する」とし、中立バイクの増車・補給や冷却の解禁前倒しなど緩和策を準備している。開催される場合、コル・ド・トゼ型の『長くダラダラ続く登り』は瞬発より持久勝負で、逃げ切りとGCボーナス争いの二正面。優勝候補筆頭はやはりポガチャル、ファンデルプールは急勾配区間で苦戦の見立て。※中止の可否・結果は当日の状況次第。",
       "sources": [
-        { "t": "CyclingStage（第2ステージ）", "u": "https://www.cyclingstage.com/tour-de-france-2026-route/stage-2-tdf-2026/", "d": "2026-07-05" },
-        { "t": "CyclingUpToDate（S2展望）", "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-stage-2-preview-profiles-favourites-and-predictions-will-pogacar-take-vingegaards-yellow-jersey-on-the-montjuic", "d": "2026-07-04" }
+        {
+          "t": "Cyclingnews（第3・4ステージ中止リスク）",
+          "u": "https://www.cyclingnews.com/pro-cycling/safety/tour-de-france-stages-3-and-4-at-risk-of-cancellation-due-to-wildfires-heat/",
+          "d": "2026-07-05"
+        },
+        {
+          "t": "CyclingUpToDate（第3ステージ展望）",
+          "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-stage-3-preview-profiles-favourites-and-predictions-pogacar-and-del-toro-to-push-vingegaard-again-can-van-der-poel-survive-pyrenean-day",
+          "d": "2026-07-05"
+        },
+        {
+          "t": "Olympics.com（第3ステージ・コース）",
+          "u": "https://www.olympics.com/en/news/tour-de-france-2026-stage-3-preview-monday-6-july-route-profile-schedule-climbs-watch",
+          "d": "2026-07-05"
+        }
       ],
-      "status": "確定＝コース・日程・勾配。予想＝優勝候補（曖昧、結果はこれから）。"
+      "status": "確定＝コース・猛暑警報・中止リスクの指摘。曖昧＝実際の中止可否・レース結果は当日次第。"
     },
     {
-      "id": "20260705-ayuso-podium",
-      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-06/juan-ayuso-6a2ab7e2b5da9.jpg",
-      "headline": "アユソ、リドル・トレックで『パリの表彰台』を公言――“目立たない立ち位置”を武器に、23歳が第3の男を狙う",
-      "layer1": "スペインの23歳フアン・アユソが、新チームのリドル・トレックのエースとして本国開催のツールに出走。「チームも自分もパリの表彰台を夢見ている」と目標を明言した。",
-      "layer2": "ポガチャル＆ヴィンゲゴーが上位2枠を占める前提で、アユソはセイシャス・レムコと『3番目』を争う構図。「彼らの方が注目もプレッシャーも大きい。だから自分は少し自分のことに集中できる」と、あえて“影”に回る戦略を語る。開幕TTでは16秒遅れの4番手と好位置につけ、援軍はクイン・シモンズやスケルモーセら厚い布陣。※GCは初週を落車・病気なく乗り切れるかが前提。",
+      "id": "20260706-tdf-crashes-abandon",
+      "genre": "race",
+      "genreLabel": "RACE",
+      "genreJa": "レース",
+      "hot": false,
+      "image": "https://cdn.mos.cms.futurecdn.net/ytJuZ7YoSaY5pe2999xkuV-2000-80.jpg",
+      "headline": "開幕TTTから落車続出――第1リタイアはグルパマのベルテ、原因は『蛍光塗装のマンホール』か",
+      "layer1": "開幕のチームTT（7/4）で複数チームが落車。グルパマ・FDJユナイテッドのクレモン・ベルテが転倒し、ギヨーム・マルタンを巻き込む場面も。ベルテは脳震盪プロトコルを通過できず、今大会最初のリタイアとなった。XDSアスタナも4人が落車した。",
+      "layer2": "落車は高速の左コーナー手前、蛍光塗料でマークされたマンホールの蓋付近で相次いだ。時速60km近い進入では回避の余地がほとんどなく、路面の“小さな段差”が大集団を巻き込む典型例だ。XDSアスタナのベラスコ・ヴィノクロフ・テハダは第2ステージには出走した。開幕前にはデゲンコルプもスタート前に落車と、猛暑と緊張のなか序盤から荒れている。※各選手のその後の容態は個別に変動、要続報。",
       "sources": [
-        { "t": "CyclingUpToDate（表彰台宣言）", "u": "https://cyclinguptodate.com/cycling/the-goal-is-obviously-to-be-on-the-podium-in-paris-juan-ayuso-sends-warning-as-lidl-trek-back-tour-de-france-podium-bid", "d": "2026-06-29" },
-        { "t": "FloBikes（アユソ談）", "u": "https://www.flobikes.com/articles/16049897-juan-ayuso-says-hes-happy-to-fly-under-the-radar-at-tour-de-france-2026", "d": "2026-07-03" }
+        {
+          "t": "Cyclingnews（2026リタイア一覧）",
+          "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-abandons-2026/",
+          "d": "2026-07-05"
+        },
+        {
+          "t": "CyclingUpToDate（ベルテ・初リタイア）",
+          "u": "https://cyclinguptodate.com/cycling/a-huge-disappointment-first-rider-to-abandon-2026-tour-de-france-confirmed-as-groupama-fdj-united-lose-climber-after-crash",
+          "d": "2026-07-04"
+        }
       ],
-      "status": "確定＝アユソの発言・所属・GC順位。"
+      "status": "確定＝ベルテの初リタイア（脳震盪プロトコル）・複数チームの落車・マンホール付近の状況。※各選手の容態は要続報。"
     },
     {
-      "id": "20260705-enve-ses-2027",
-      "genre": "wheel", "genreLabel": "WHEEL", "genreJa": "ホイール", "hot": false,
-      "image": "https://enve.com/cdn/shop/files/ENVE-Tadej-Tour-SES-ProZ8A_7012-6.jpg",
-      "headline": "ENVE、ユーロバイクで『SES 2027』――リムの厚みを荷重に応じ部位ごと可変、横風40km/h超でも安定の非対称Vプロファイル",
-      "layer1": "6/24〜27のユーロバイク2026でENVEが次世代SES（2027）を公開。新ラミネート技術で『リムの厚みを部位ごと・動的荷重に応じて可変』し、横風40km/h超でも安定するという非対称の『V』断面を採用した。",
-      "layer2": "ENVEのSES思想は元々『前後で空力の役割が違う』＝前浅・後深の非対称ペア。今回は素材の積層まで最適化し、軽さと横風安定を両立するという主張だ。ただし数値は現時点で公称ベースで、第三者の実測検証はこれから。同じユーロバイクではピレリのP Zero Race 2027、カンパの静音変速SRワイヤレス、ルックの可変剛性クランクも出そろい、2027年機材の輪郭が見えてきた。",
+      "id": "20260706-tdf-pro-wheels",
+      "genre": "wheel",
+      "genreLabel": "WHEEL",
+      "genreJa": "ホイール",
+      "hot": false,
+      "image": "https://cdn.road.cc/wp-content/uploads/2026/07/Tour-de-France-tech-debuts-July-2026.jpg",
+      "headline": "ツール2026、プロは何を履くか――カーボンスポークが“標準装備”化、コフィディスはカンパ13速で唯一の実戦投入",
+      "layer1": "開幕を機に各社の新機材が一斉に表へ。コンポはシマノ・デュラエース13チーム／SRAM RED AXS 9チーム／カンパ・スーパーレコード13が1チーム（コフィディス）という布陣。ホイールはボントレガーが初のカーボンスポーク版RSLをリドル・トレックで実戦投入し、カーボンスポーク採用が“例外”から“標準”へ動いた。",
+      "layer2": "ルックの新型795ブレードRS3はカンパ13速＋ボーラ・ウルトラWTOで、3社13速時代の実戦データがいよいよ集まる。ホイールはCADEXのMax 50（フックレス一体成型・公称1,290g）などディープでも軽量化が進む。マサルの扱う中華勢（8LIEN/CRW/FARSPORTS等）も“カーボンスポーク×軽量ディープ”で同じ土俵に乗ってきており、プロ機材の潮流＝『軽く・一体で・空力』は国内の完成車提案にもそのまま効く。※公称値中心、市販仕様・国内価格は個別に要確認。",
       "sources": [
-        { "t": "Ciclonline（ユーロバイク2027新製品）", "u": "https://www.cyclonline.com/125-eurobike-2026-frankfurt-news/4402-eurobike-2026-the-2027-innovations-from-campagnolo,-pirelli,-look,-enve,-and-wahoo", "d": "2026-07-04" },
-        { "t": "Ciclonline（技術レポート）", "u": "https://www.cyclonline.com/125-eurobike-2026-frankfurt-news/4407-eurobike-2026-technical-report,-trends,-and-the-future-of-the-cycling-industry", "d": "2026-07-04" }
+        {
+          "t": "road.cc（ツール新機材デビュー総覧）",
+          "u": "https://road.cc/feature/a-wave-of-new-bikes-wheels-and-kit-making-tour-de-france-debuts-in-2026",
+          "d": "2026-07-04"
+        },
+        {
+          "t": "BikeRadar（ツール機材・チーム別）",
+          "u": "https://www.bikeradar.com/features/pro-bike/tour-de-france-bikes",
+          "d": "2026-07-04"
+        }
       ],
-      "status": "曖昧＝公称値中心。実測レビュー・国内価格は未確定。"
+      "status": "確定＝コンポのチーム別勢力図・カーボンスポークの標準化傾向。曖昧＝各機材の公称値・市販/国内価格は要個別確認。"
     },
     {
-      "id": "20260705-carbon-spokes",
-      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "https://c02.purpledshub.com/uploads/sites/39/2025/07/20250702_003_Ashley-Quinlan-scaled.jpg?webp=1&w=1200",
-      "headline": "『カーボンスポークって実際どうなの？』――軽さで主流化、それでも鋼を置き換えない理由を初中級にほどく",
-      "layer1": "プロトンでカーボンスポークが定番化（ヴァンアールトもツールで使用）。一方bikeradarは『主流化したが、鋼を完全には置き換えない』と結論づけている。今週のENVE SES 2027や中華直販の超軽量勢で改めて話題だ。",
-      "layer2": "長所＝スポーク1本で鋼の約半分（2.5g対4.75g）、24本組で100g超の軽量化と高剛性。短所＝側面衝撃に弱く（ペダルやディレイラーの接触で折れやすい）、修正・入手が難しく、路面の当たりも硬め。ボンド式は割れると全損リスク、アンボンド式は1本ずつ交換できる。中華直販でも9Velo『EXTREME C52』やOverfast（37mmで約968g、UCIの40Jを超える100J衝撃試験を公表）がsub-1000gで参入。初中級の目安は“レース・軽さ重視かつ舗装中心なら買い”、“通勤・悪路・長く雑に使うなら鋼が無難”。",
+      "id": "20260706-ttt-big-chainrings",
+      "genre": "parts",
+      "genreLabel": "PARTS",
+      "genreJa": "パーツ",
+      "hot": false,
+      "image": "https://cdn.mos.cms.futurecdn.net/G6zKNzHrkrtuTRCpkixn8T-1920-80.png",
+      "headline": "開幕TTTは『チェーンリング巨大化』の見本市――ポガチャルは64Tを投入、高速巡航が生む新常識",
+      "layer1": "開幕チームTTでは各チームが極端に大きなチェーンリングを装着。複数媒体によればポガチャルは64Tを使用した。平坦の超高速巡航では、大きなリング＋大きなコグの組み合わせが駆動効率で有利になるという“大型化”トレンドがはっきり表れた。",
+      "layer2": "巨大リングが効くのは主にTTや高速集団走行の話で、山岳や一般ライドにそのまま当てはまるわけではない（勾配では軽いギアが要る）。ただ『チェーンラインを寝かせず、フリクションを抑える』狙いは、ワックスチェーンやセラミックプーリーと同じ“抵抗を削る”思想の延長線上にある。なお同じTTTの現場では、冷却ハックや未発表のTTコンポ部品も目撃されており、シマノ13速デュラエースの正式お披露目観測とあわせ、ツール週の“機材リーク祭り”が続く。※64Tの数値は現地取材ベース、各選手の最終セッティングは可変。",
       "sources": [
-        { "t": "BikeRadar（カーボンスポーク解説）", "u": "https://www.bikeradar.com/features/tech/carbon-spokes-explained", "d": "2025-11-25" },
-        { "t": "Ciclonline（ENVE SES 2027の背景）", "u": "https://www.cyclonline.com/125-eurobike-2026-frankfurt-news/4402-eurobike-2026-the-2027-innovations-from-campagnolo,-pirelli,-look,-enve,-and-wahoo", "d": "2026-07-04" }
+        {
+          "t": "Cyclingnews（TTT機材ギャラリー）",
+          "u": "https://www.cyclingnews.com/cycling-tech-components/cooling-hacks-prototype-bikes-and-new-tt-groupset-parts-tour-de-france-ttt-tech-gallery/",
+          "d": "2026-07-04"
+        },
+        {
+          "t": "Velo（TTT機材レポート）",
+          "u": "https://velo.outsideonline.com/road/road-gear/tour-de-france-2026-team-time-trial-tech-gallery/",
+          "d": "2026-07-04"
+        }
       ],
-      "status": "確定＝長短の技術的整理。曖昧＝中華直販勢の実測耐久は今後の検証待ち。"
+      "status": "確定＝TTTでのチェーンリング大型化トレンド。曖昧＝ポガチャル64Tは現地取材ベース（選手ごとの最終値は可変）。"
     },
     {
-      "id": "20260705-eurobike-tyre-tech",
-      "genre": "parts", "genreLabel": "PARTS", "genreJa": "パーツ", "hot": false,
-      "image": "https://bikerumor.com/wp-content/uploads/2026/07/2026-Eurobike-Rumors-hall-hunting-secret-gems.jpg",
-      "headline": "ユーロバイク発、タイヤ最前線――WTBが『空力グラベルタイヤ』、シュワルベはラジアル・チューブ、ハントは市販最ワイド級リム",
-      "layer1": "7/1のバイクルーマー現地取材。WTBがStromm協業で『本格的に空力最適化した初の大容量グラベルタイヤ』Course 52を披露。V字のサイドノブとリッジで、幅広タイヤとリムの段差に生じる乱流を整えるという。",
-      "layer2": "ハントはLimitless系の進化版で前後非対称・内幅30mm級までワイド化し、フックレスビードは前約10mm/後約6mmで『市販最ワイド級』。シュワルベはラジアル構造をチューブタイプの通勤eバイクへ拡張（接地面30%増・シーラント不要）。グラベル／通勤寄りの話だが、“広く・低圧・空力”という潮流はロードのタイヤ選びにも確実に波及していく。※いずれも発表・プロト段階。",
+      "id": "20260706-cooling-ice-socks",
+      "genre": "trend",
+      "genreLabel": "TREND",
+      "genreJa": "トレンド",
+      "hot": false,
+      "image": "https://cdn.mos.cms.futurecdn.net/DJkM3Jn2Sim4NPmgrqwq7Y.jpg",
+      "headline": "猛暑ツールで『冷却ギア軍拡』――だがUCIがアイスソックスに線引き、冷やし方にも規則の壁",
+      "layer1": "44℃予想の今大会、選手はアイスベスト・冷却タオル・背中に入れる『アイスソックス』、前腕を氷水の箱に浸すなど、あらゆる手で深部体温を下げにかかっている。一方でUCIはそのアイスソックスの使い方に制限をかけ始めた。",
+      "layer2": "冷却はいまや機材競争の様相で、氷や保冷材の量・タイミングで差がつく。UCIの規制は安全確保と“やり過ぎ”防止の両面だが、線引きの具体は流動的だ。初中級への含意は明確で、プロの冷却テクは真似られる部分（事前の予冷・こまめな水分）と、真似ると危ない部分（水の飲み過ぎは低ナトリウム血症のリスク）がある。猛暑が“機材と規則”を同時に変えつつあるのが2026年夏の姿だ。※規制の詳細運用は今後変動の可能性。",
       "sources": [
-        { "t": "Bikerumor（ユーロバイク噂・現地）", "u": "https://bikerumor.com/wtb-aero-tire-hunt-gravel-race-wheels-tubes-in-schwalbe-radials-eurobike-rumors/", "d": "2026-07-01" }
+        {
+          "t": "Cycling Weekly（猛暑とアイスソックス規制）",
+          "u": "https://www.cyclingweekly.com/racing/tour-de-france/temperatures-set-to-soar-at-the-tour-de-france-as-uci-clamps-down-on-ice-socks",
+          "d": "2026-07-05"
+        },
+        {
+          "t": "Cyclingnews（第3・4ステージと猛暑対応）",
+          "u": "https://www.cyclingnews.com/pro-cycling/safety/tour-de-france-stages-3-and-4-at-risk-of-cancellation-due-to-wildfires-heat/",
+          "d": "2026-07-05"
+        }
       ],
-      "status": "曖昧＝プロト／噂段階（現地取材ベース）。市販仕様・価格は未確定。"
+      "status": "確定＝冷却手段の多様化・UCIのアイスソックス制限の動き。曖昧＝規制の詳細運用は流動的。"
     },
     {
-      "id": "20260705-canyon-v2x",
-      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://cdn.road.cc/wp-content/uploads/2026/07/2026-July-4-Tech-of-the-Week-1024x708.jpg",
-      "headline": "『しゃべる自転車』は交通安全の未来か――キャニオンのV2X e-bike、ハンドルの“振動”で衝突リスクを知らせる",
-      "layer1": "road.cc（7/4）によると、キャニオンがMurata・nfiniity・Vectorと組み、車やインフラと安全情報をやり取りするV2X（Vehicle-to-Everything）搭載e-bike『Roadlite-On』を開発した。",
-      "layer2": "両グリップ同時振動＝衝突全般の警告、片側振動＝危険の方向、と“ハンドルの触覚”で伝える。自車の位置を常時ブロードキャスト（CAM）し、DSRCとC-V2X／5Gの両対応でミリ秒級に通信、『角の向こうが見える』。ユーロバイクではキャニオンのPredict（レーダー＋カメラ＋モーションの360°センサー＋オンデバイスAI）も披露され、自転車が“機材”から“つながるデバイス”へ動く象徴になっている。※市販時期・価格は未定。",
+      "id": "20260706-miche-deva-carbon-spoke",
+      "genre": "parts",
+      "genreLabel": "PARTS",
+      "genreJa": "パーツ",
+      "hot": false,
+      "image": "https://cdn.road.cc/wp-content/uploads/2026/06/Eurobike-2026-roundup.jpg",
+      "headline": "老舗ミケも『初カーボンスポーク』へ――ユーロバイクの新Deva Rd、公称1,305g・52mmで“標準化の波”に合流",
+      "layer1": "6月末のユーロバイク2026で、イタリアの老舗ミケが自社初のカーボンスポーク採用ホイール『Deva Rd』を公開。ペア公称1,305g・リム52mmで、「自社史上もっとも空力的かつ軽量」を謳う。",
+      "layer2": "ボントレガーやミケのような老舗までカーボンスポークに舵を切ったことは、この技術が“ハイエンドの飛び道具”から“標準構成”へ移った証だ。カーボンスポークは1本で鋼の約半分の重量・高剛性が長所だが、側面衝撃に弱く修正が難しいのは変わらない（＝初中級には舗装・レース向き）。中華直販の9Velo/Overfast勢がsub-1000gで先行するなか、老舗の参入は“価格と信頼”の選択肢を広げる。※Deva Rdは発表段階、実測・国内価格は未確定。",
       "sources": [
-        { "t": "road.cc（Tech of the Week）", "u": "https://road.cc/tech-news/bikes-that-talk-roads-that-listen-is-this-wireless-communication-the-future-of-cycle-safety-plus-more-tech-news-from-specialized-canyon-bianchi-campagnolo-prologo-maap", "d": "2026-07-04" },
-        { "t": "Ciclonline（Predict/デジタル統合）", "u": "https://www.cyclonline.com/125-eurobike-2026-frankfurt-news/4407-eurobike-2026-technical-report,-trends,-and-the-future-of-the-cycling-industry", "d": "2026-07-04" }
+        {
+          "t": "road.cc（ユーロバイク新技術・カーボンホイール）",
+          "u": "https://road.cc/tech-news/unreleased-aero-gravel-concept-bikes-for-safer-road-cycling-and-carbon-wheel-innovation-new-tech-from-europes-biggest-bike-show",
+          "d": "2026-07-01"
+        }
       ],
-      "status": "曖昧＝コンセプト／開発段階。量産・国内投入は未定。"
+      "status": "曖昧＝発表・公称段階。実測重量・市販仕様・国内価格は未確定。"
     },
     {
-      "id": "20260705-punchy-climb",
-      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
+      "id": "20260706-beginner-long-climb",
+      "genre": "beginner",
+      "genreLabel": "BEGINNER",
+      "genreJa": "初中級",
+      "hot": false,
       "image": "https://journal.buychari.com/wp-content/uploads/2024/08/DSC_5741.jpg",
-      "headline": "きょうのツールは『激坂フィニッシュ』――モンジュイックの9.3%を、初中級はどう上る？",
-      "layer1": "第2ステージのモンジュイック（1.6km・平均9.3%・最大13%）は短くて急な“パンチャー向き”。似た質の坂は日本にも多く、初中級が最も脚を売りやすい場面だ。",
-      "layer2": "定石は『短い激坂はダンシングでサッと抜ける』。ケイデンスは70rpm前後を保てるギアを選び、重すぎは厳禁。姿勢はサドルの前寄りに座って前輪に荷重をつくり、腕でしがみつかず上体を倒して体幹で支える。前乗りしすぎると後輪がスリップするので、そこは瞬発を避け低負荷・高ケイデンスでじわっと踏む。プロが激坂を3回まわる“省エネの掛け方”を今日の中継で見ると学びになる。",
+      "headline": "きょうは『長い登り』の日――コル・ド・トゼ型のダラダラ坂を、初中級はどう上る？",
+      "layer1": "第3ステージのコル・ド・トゼ（9.3km・平均6.5%）は、昨日のモンジュイック（短い激坂）と対照的な“長くて緩めの登り”。日本の峠にも多いこの型は、瞬発力より『一定ペースの持久』が問われる。",
+      "layer2": "定石は激坂の逆で、シッティング主体・ケイデンス80〜90rpmを保てる軽めのギアで“淡々と”。心拍を上げ切らず、しゃべれるくらいの強度（会話ペース）を9kmキープする感覚が近い。前半で飛ばすと後半に脚が終わるので、勾配が緩むところで“休む”より一定出力を意識する。補給は登り始める前に済ませ、猛暑なら5〜10分ごとに一口ずつ。プロが44℃の長い峠で見せる“省エネの淡々走り”は、今日の中継の絶好の教材だ。",
       "sources": [
-        { "t": "CyclingStage（第2ステージ・勾配）", "u": "https://www.cyclingstage.com/tour-de-france-2026-route/stage-2-tdf-2026/", "d": "2026-07-05" },
-        { "t": "buychari JOURNAL（ヒルクライムのコツ）", "u": "https://journal.buychari.com/hill-climb-hang/", "d": "2024-08-10" }
+        {
+          "t": "CyclingUpToDate（第3ステージ・勾配）",
+          "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-stage-3-preview-profiles-favourites-and-predictions-pogacar-and-del-toro-to-push-vingegaard-again-can-van-der-poel-survive-pyrenean-day",
+          "d": "2026-07-05"
+        },
+        {
+          "t": "buychari JOURNAL（ヒルクライムのコツ）",
+          "u": "https://journal.buychari.com/hill-climb-hang/",
+          "d": "2024-08-10"
+        }
       ],
-      "status": "確定＝技術の定石。※解説の主典拠は普遍ネタ（2024年）、“なぜ今か”はきょうの第2ステージの激坂フィニッシュ。"
+      "status": "確定＝コース勾配・技術の定石。※解説の主典拠は普遍ネタ（2024年）、“なぜ今か”はきょうの初の本格山岳ステージ。"
     },
     {
-      "id": "20260705-market-discount",
-      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
+      "id": "20260706-beginner-avoid-crash",
+      "genre": "beginner",
+      "genreLabel": "BEGINNER",
+      "genreJa": "初中級",
+      "hot": false,
+      "image": "https://cdn.mos.cms.futurecdn.net/DKtoWEDEicVwgsng9ANB5n-2560-80.jpg",
+      "headline": "プロでも“もらい落車”――開幕の集団落車を教材に、初中級が転ばない『位置取りと視線』",
+      "layer1": "ツール開幕はマンホールの段差で高速落車が続発した。落車の多くは自分のミスより“もらい事故”で、これは市民ライドやイベントでもまったく同じ。減らす鍵は上級テクより『どこを走り、どこを見るか』だ。",
+      "layer2": "実戦的な3点。①集団では最後尾や“ふくらむ外側”ではなく、前寄り・イン寄りの安定した位置を確保する（後ろほど加減速の“ムチ”が強く危ない）。②視線は前輪の直前ではなく5〜10m先へ置き、マンホール・グレーチング・砂・白線（濡れると滑る）を早めに拾う。③ブレーキは“コーナー手前で終える”のが原則で、寝かせた最中の急制動が最も転ぶ。今日のような下りが絡む山岳日は路面温度でタイヤのグリップも変わるので、無理な追走より“車間と余白”を優先するのが結局いちばん安全で速い。",
+      "sources": [
+        {
+          "t": "Cyclingnews（2026リタイア・落車状況）",
+          "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-abandons-2026/",
+          "d": "2026-07-05"
+        },
+        {
+          "t": "Velo（開幕TTTの落車地点）",
+          "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/two-teams-crash-same-spot-tour-de-france-ttt/",
+          "d": "2026-07-04"
+        }
+      ],
+      "status": "確定＝落車が“もらい事故”中心という一般則・技術の定石。“なぜ今か”は開幕の集団落車。"
+    },
+    {
+      "id": "20260706-market-primeday-ec",
+      "genre": "market",
+      "genreLabel": "MARKET",
+      "genreJa": "国内市場",
+      "hot": false,
       "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/c/cyclekaigyou/20260125/20260125133221.png",
-      "headline": "【経営メモ】在庫過多で『値引き常態化』――7月ボーナス商戦は薄利の消耗戦、粗利は整備・フィッティングで守る局面",
-      "layer1": "コロナ特需の反動で在庫は潤沢、型落ちは20〜40%引きが当たり前に。7月はボーナス＋Amazonプライムデー（7/7先行→7/10-13本番）で値引き競争が一段と激化する。XやブログでもロードバイクのバブルVS清算という論争が定期的に再燃している。",
-      "layer2": "プライムデーでも完成車“本体”は5〜15%引き止まりで、旨みは小物・消耗品。大幅値引きの本番はモデル入替の10〜11月。値下げ体力ではEC大手に勝てないので、小規模店は接客・フィッティング・整備という付加価値で粗利を守るのが生存線になる。背景の『バブル清算』論ではメーカーの日本撤退・大手減益・直営店の閉店も指摘されるが、個別の撤退／閉店は要個別裏取り。",
+      "headline": "【経営メモ】明後日7/7からプライムデー先行――夏の『EC最安』商戦、粗利は消耗品でなく整備・フィッティングで",
+      "layer1": "Amazonプライムデー2026は7/7（火）0時〜9（木）の先行セール、7/10（金）〜13（月）が本番。最大18%還元のポイントアップも重なり、サイクル小物・消耗品は“EC最安”の波に入る。各社サマーセール（ワイズロードは7/4〜8/16で完成車約1,000台＋無金利ローン）とも重なり、値引き競争は一段と激化する。",
+      "layer2": "プライムデーでも完成車“本体”は5〜15%引き止まりで、旨みはタイヤ・チューブ・チェーン・補給食などの消耗品。ここは価格でEC大手に勝てない領域なので、小規模店は『本体＋工賃＋フィッティング＋アフター』のセットで粗利を守るのが定石だ。ツール観戦で来店が増える時期でもあり、“観てから来る”客には安さより『はじめ方・続け方』を語れる店が選ばれる。大幅値引きの本丸はモデル入替の10〜11月で、そこまでは回転より粗利防衛の局面。※各セールの具体割引率は告知ベース、要個別確認。",
       "sources": [
-        { "t": "しょぼ輪（バブル崩壊・清算論）", "u": "https://kyomu-cycle.hatenablog.com/entry/2026/01/25/133239", "d": "2026-01-25" },
-        { "t": "サトユキブログ（2026値下がり検証）", "u": "https://satoyukiblog.com/2026/03/09/2026-road-bike-prices-are-they-actually-dropping/", "d": "2026-03-09" }
+        {
+          "t": "Goal（プライムデー2026日程・先行）",
+          "u": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/pick-up-presale-amazon-prime-day-2026/blt14c3d68b4288c4c5",
+          "d": "2026-07-01"
+        },
+        {
+          "t": "PressWalker（ワイズロード サマーセール拡充）",
+          "u": "https://presswalker.jp/press/18071",
+          "d": "2026-07-03"
+        }
       ],
-      "status": "曖昧＝相場・構造論（継続議論）。数値は各社セール告知・ブログ集計ベース、※撤退／閉店の個別事例は要裏取り。"
+      "status": "確定＝プライムデー日程・ワイズのセール概要。曖昧＝需要効果・具体割引率は定性/告知ベース、要個別確認。"
     },
     {
-      "id": "20260705-market-tdf-demand",
-      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/06/0629J-SPORTS_4.jpg",
-      "headline": "【経営メモ】ツール開幕は国内ロード需要の“年一の起爆剤”――J SPORTSが第1・2ステージ無料配信、初心者の入口が広がる",
-      "layer1": "7/4開幕のツール・ド・フランス2026。J SPORTSが全21ステージをLIVE放送・配信し、第1・第2ステージは“無料”開放している。",
-      "layer2": "毎年ツール期は、普段乗らない層まで『ロードに乗ってみたい』が動く年一の需要期。無料配信で入口が広がる今、店頭は“観てから来る”客の接客・試乗・入門車提案の商機だ。バルセロナ開幕やモンジュイックの映える画は初心者の心をつかみやすい。夏商戦の値引き合戦のなかでも、『安さ』より『はじめ方』を語れる店が選ばれる。※視聴の実数は非公表で、需要効果は定性的な見立て。",
+      "id": "20260706-market-china-buyer",
+      "genre": "market",
+      "genreLabel": "MARKET",
+      "genreJa": "国内市場",
+      "hot": false,
+      "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C163.jpg",
+      "headline": "【経営メモ】中華カーボンの『買い手市場』が実測で裏付け――夏セール期こそ“安さ”でなく『目利き＋アフター』を売る",
+      "layer1": "円安で舶来ハイエンドが上がり続ける一方、WINSPACE/ELVES等の中華勢は“中華カーボン2.0”として品質評価が定着。海外メディアの実走テストでも、格安・カーボンスポークのYOELEO CS60（約£1,650）がプレミアム機とほぼ同等の速さを示すなど、『速さは値段で買えない』が数字で裏づけられつつある。",
+      "layer2": "road.ccの比較では、約4.7kmの周回でホイール間の差はおよそ7秒＝実走ノイズの範囲で、価格差は“速さ”より“操作フィール・仕上げ・保証”に出るという結論。つまり店の勝負どころは『価格』から『どれを・誰に・どう組むか』の提案へ移る。夏セールで序列上位の中華がさらに射程に入る今、マサルの店の武器は目利き（当たり外れの見極め）とアフター（フックレス空気圧・振れ取り・スポーク供給）。“安さ”の土俵はECに譲り、“買った後の安心”で差をつけるのが現実解だ。※実測は海外テスト（4月）ベースの構造論、個別ブランドの耐久は要個別検証。",
       "sources": [
-        { "t": "サイクルスポーツ（J SPORTS配信・無料枠）", "u": "https://www.cyclesports.jp/news/race/164188/", "d": "2026-06-27" },
-        { "t": "J SPORTS（7月の見どころ）", "u": "https://www.jsports.co.jp/cycle/preview/July2026/", "d": "2026-07-01" }
+        {
+          "t": "road.cc（格安vsプレミアム実走テスト）",
+          "u": "https://road.cc/feature/can-budget-race-wheels-compete-premium-real-world-speed-test",
+          "d": "2026-04-23"
+        },
+        {
+          "t": "bike-memo（2026中華カーボン序列）",
+          "u": "https://bike-memo.com/cycle_260202_carbon-wheels/",
+          "d": "2026-02-04"
+        }
       ],
-      "status": "確定＝J SPORTS配信・第1/2ステージ無料。需要効果は定性的（※実数非公表）。"
+      "status": "曖昧＝市場構造の継続論。実測は海外テスト（4月）ベース、“なぜ今か”は夏セール本格化＋ツール需要期。個別ブランドの耐久は要検証。"
     }
   ]
 }
