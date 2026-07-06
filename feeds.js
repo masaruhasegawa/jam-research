@@ -1,5 +1,246 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-07-07",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ツールはピレネー本番、猛暑と山火事の『戦場』を抜けてポガチャルが黄色を奪取――機材と国内市場の夏商戦もまとめて。",
+    "cards": [
+      {
+        "id": "20260707-tdf-st3-pogacar-yellow",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://escapecollective.com/content/images/size/w1200/2026/07/pogwinstdf3.jpeg",
+        "headline": "ツール第3ステージ、ポガチャルがレ・ザングルの登りでヴィンゲゴーを突き放し初勝利＆黄色奪取――だが総合はまさかの『同タイム』",
+        "layer1": "7/6の第3ステージ（ピレネー初日）でポガチャルが最後の登りで加速、ヴィンゲゴーに2秒差をつけて勝利し、開幕から着ていたヴィンゲゴーからマイヨジョーヌを奪った。",
+        "layer2": "だが総合順位はここが妙味。フィニッシュのボーナス（1位10秒・2位6秒）を差し引くと、ポガチャルとヴィンゲゴーは総合8時間46分55秒で『完全に同タイム』。ステージ勝ちを持つポガチャルがカウントバック（着順のタイブレーク）で黄色を得た――つまり実力差はまだ紙一重で、勝負はこれから。3番手カラパスも僅差で続き、レムコ・セイシャスに差をつけた。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ステージ3詳報）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-stage-3-tadej-pogacar-blasts-away-from-jonas-vingegaard-on-final-section-of-les-angles-ascent-for-victory-and-bonus-seconds/",
+            "d": "2026-07-06"
+          },
+          {
+            "t": "Cyclingnews（総合順位）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-gc-standings-2026/",
+            "d": "2026-07-06"
+          },
+          {
+            "t": "Escape Collective",
+            "u": "https://escapecollective.com/tour-stage-3-pogacar-outkicks-vingegaard-and-rides-into-yellow/",
+            "d": "2026-07-06"
+          }
+        ],
+        "status": "確定＝ポガチャル勝利・黄色奪取／総合はポガとヴィンゲゴーが同タイム、カウントバックでポガ首位。"
+      },
+      {
+        "id": "20260707-tdf-st4-foix",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/jMBccPUGKbjDQip3n3AN8Z-2560-80.jpg",
+        "headline": "きょう第4ステージはカルカソンヌ→フォワ181.9km――『頂上ゴールなし・でも獲得2700m』のピレネー、逃げが決まりやすい落とし穴の一日",
+        "layer1": "本日7/7の第4ステージは山頂ゴールこそ無いが、獲得標高2,700mの起伏が続くピレネーの中日。序盤にコル・ド・ベドス（4級）とコル・デュ・パラディ（3級）、終盤に2級のコル・ド・クードン（10.7km/5.5%）とコル・ド・モンセギュール（6.9km/6.6%）が待つ。",
+        "layer2": "総合勢が同タイムで睨み合う今、山頂ゴールが無い日は『大集団が逃げを泳がせる』展開になりやすい＝ステージ狙いのアタッカーに大チャンス。逆にGC勢が動けば最後の2級で再び火花が散る。マサル的注目は、猛暑続きで各チームの『脚の残量』が読みにくいこと――昨日消耗した選手が今日ふるいにかけられる。",
+        "sources": [
+          {
+            "t": "Olympics.com（第4ステージ・プレビュー）",
+            "u": "https://www.olympics.com/en/news/tour-de-france-2026-stage-4-preview-tuesday-7-july-route-profile-schedule-climbs-watch",
+            "d": "2026-07-06"
+          },
+          {
+            "t": "cyclingstage.com（第4ステージ）",
+            "u": "https://www.cyclingstage.com/tour-de-france-2026-route/stage-4-tdf-2026/",
+            "d": "2026-07-06"
+          }
+        ],
+        "status": "確定＝コース・距離・4つの山。曖昧＝展開予想（逃げ切りかGC動くかは当日次第）。"
+      },
+      {
+        "id": "20260707-tdf-delie-abandon",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/KGiWbszYQGtZSeTspr5jgg-2100-80.jpg",
+        "headline": "スプリンター、デ・リエが第3ステージ途中でツール離脱――『脚が残っていなかった』、今季2度目のグランツール病気リタイア",
+        "layer1": "ロット・アンテルマルシェのアルノー・デ・リエ（ベルギー）が第3ステージの残り10km手前で降車、ツールを去った。バルセロナ入り時から胃腸の感染症を抱え、チーム紹介にも出られていなかった。",
+        "layer2": "本人は「今日は単純に脚が残っていなかった、この酷暑では特に」と吐露。ベルテ（グルパマ）に続く大会2人目のリタイアで、彼にとっては今季ジロ（ウイルスで離脱）に続く2度目のグランツール病気リタイアという痛恨。若き逸材の『体調に泣かされる年』が続く――速さより先に、まず健康にたどり着けるか、という人間ドラマ。猛暑がリタイアを後押しした点も今大会の象徴。",
+        "sources": [
+          {
+            "t": "Cyclingnews（リタイア一覧）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-abandons-2026/",
+            "d": "2026-07-06"
+          },
+          {
+            "t": "Cyclingnews（デ・リエ詳報）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/arnaud-de-lie-out-of-tour-de-france-after-brutal-day-of-suffering/",
+            "d": "2026-07-06"
+          }
+        ],
+        "status": "確定＝デ・リエ第3ステージでリタイア・胃腸感染症・大会2人目。"
+      },
+      {
+        "id": "20260707-tdf-heat-warzone",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/riefcZiFuveV6UYGRZ5nPA-2000-80.jpg",
+        "headline": "『まるで戦場』――山火事で観客ゼロ、44℃級の猛暑で第3ステージは異例開催、ピドコックが『ボトル1万本』とこぼす",
+        "layer1": "第3ステージは東ピレネーの山火事緊急事態で中止も検討されたが、『フィニッシュ地点に観客を入れない』異例の形で強行。ネットでも『戦場のようだ』の声が拡散した。",
+        "layer2": "裏取りすると、火元の噂ではなく主催の公式判断で観客制限がかかったのが実態。16位のピドコックは「ばかげている、まるで戦場、今日チーム全体でボトルを1万本は消費したはず」と証言（媒体が引用）。冷却と補給が『勝敗以前の生存条件』になった一日で、UCIの冷却ギア規制や増車したボトル補給が現実の効果を問われた。※SNS発の『戦場』表現は選手コメントと媒体報道で裏取り済み。",
+        "sources": [
+          {
+            "t": "Cyclingnews（観客制限の公式判断）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-stage-3-to-go-ahead-but-spectators-not-to-attend-finish-due-to-forest-fires/",
+            "d": "2026-07-06"
+          },
+          {
+            "t": "idlprocycling（ピドコック発言）",
+            "u": "https://www.idlprocycling.com/cycling/tom-pidcock-after-stage-3-of-the-tour-de-france-it-was-ridiculous-it-looked-like-a-war-zone",
+            "d": "2026-07-06"
+          }
+        ],
+        "status": "確定＝観客制限・強行開催・ピドコック発言。曖昧＝正確な最高気温（44℃級との報道、地点差あり）。"
+      },
+      {
+        "id": "20260707-zipp-404s",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/06/2026-Zipp-404-S-action-two-riders-1024x683.jpeg",
+        "headline": "Zippが『10万円台』のエアロホイール404 Sを投入――50mm・1,585g・フックレス、高級ブランドが価格帯を一段下げてきた",
+        "layer1": "Zippが新型404 Sを発表（6/30）。前後50mmハイト・公称1,585g・内幅23mmのフックレスで、Zipp史上『最も手が届く価格』の本格エアロを謳う。英国価格は前後で約985ポンド（前475＋後510）。",
+        "layer2": "スペックを潜ると、28mmタイヤに最適化しつつ最大39mmまで対応、Sapim CX-Sprintスポークに実績ある76/176ハブ、ライフタイム保証つき。マサル目線での本質は『西側の看板ブランドが、これまで中華直販カーボンが得意としてきた10万円台前半の土俵に降りてきた』こと。8LIEN/FARSPORTS勢の武器だった“価格”に真正面から被せてきた形で、国内でも今後の値付け競争に効いてくる一枚。※フックレスゆえ空気圧上限（一般に72.5psi前後）とタイヤ適合は要確認。",
+        "sources": [
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/tech-news/zipp-launches-new-404-s-carbon-road-wheels-promising-industry-leading-aero-performance-for-under-1000",
+            "d": "2026-06-30"
+          },
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/zipp-404-s",
+            "d": "2026-06-30"
+          }
+        ],
+        "status": "確定＝スペック・価格（英ポンド）・発表日。曖昧＝国内税込価格は未確定。"
+      },
+      {
+        "id": "20260707-tdf-tech-gallery",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/hD9k4JzNbMdhoiL2ovtfx4-1920-80.png",
+        "headline": "ツール開幕の機材ギャラリー――KASK・POCの新ヘルメット、『エアロテープ』ハック、そして2台の“プロトタイプ”バイクが出現",
+        "layer1": "グラン・デパールでCyclingnewsが撮り集めた機材群（7/4公開）。KASKとPOCの新型ヘルメット、フレームやボトルに貼る空力『エアロテープ』の小技、そして正体不明の試作バイク2台が確認された。",
+        "layer2": "深掘りポイントは2つ。①プロトタイプ2台＝正式発表前の新型が実戦でこっそり回されており、秋の新モデル前倒しの兆候。②エアロテープ＝フレームやケーブル周りの段差を埋めて微小な乱流を減らす貼り物で、規則の隙間を突く“数ワット狩り”が主戦場化。ホビーでも真似できるが効果は微々たるもので、まずはポジションとタイヤが先。マサル的には『次世代フレームのリーク観測所』として毎ステージのピット写真が有効。",
+        "sources": [
+          {
+            "t": "Cyclingnews（Grand Départ メガ機材ギャラリー）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/new-helmets-from-kask-and-poc-loads-of-aero-tape-hacks-and-two-new-prototype-bikes-its-time-for-the-2026-tour-de-france-grand-depart-mega-tech-gallery/",
+            "d": "2026-07-04"
+          }
+        ],
+        "status": "確定＝新ヘルメット・エアロテープ・試作2台の存在。曖昧＝試作バイクのメーカー/型番（未発表）。"
+      },
+      {
+        "id": "20260707-primeday-start",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://jitensha.net/wp-content/uploads/2025/07/amazon_primeday_2025.png",
+        "headline": "【経営メモ】本日7/7からAmazonプライムデー先行スタート――7日間の長丁場・最大18%還元、夏の『EC最安』圧力がピーク",
+        "layer1": "2026年のプライムデーは本日7/7 0時から先行セール（〜7/9）、7/10〜7/13が本セール。合計7日間の連続商戦で、先行から最大18%のポイントアップが走る。サイクル小物・消耗品・アクセが値引きの主役。",
+        "layer2": "経営目線での要点は『長期化と実店舗の対抗』。①7日間に伸びたことで“待てば安い”心理が定着し、単品値引き競争では実店舗は勝てない。②だから対抗策は同じ土俵（値引き）でなく、プライムデーで安く買った消耗品（チェーン・タイヤ・バーテープ等）の『持ち込み取付・調整』とフィッティングで粗利を取る動線設計。③今年はZippのような西側ブランドの実売下げ（前掲）も重なり、価格の“底”がさらに下がる年。EC最安を敵視せず、『買うのはEC・組むのはうち』へ客を流す仕掛けが効く。",
+        "sources": [
+          {
+            "t": "uzurea.net（プライムデー2026日程解説）",
+            "u": "https://uzurea.net/amazon-primeday-2026/",
+            "d": "2026-07"
+          },
+          {
+            "t": "週末サイクリング部（先行セール速報）",
+            "u": "https://jitensha.net/amazon-prime-day/",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝先行7/7開始・本セール7/10-13・最大18%還元。※目玉商品の個別値引き率は開始後に変動。"
+      },
+      {
+        "id": "20260707-asahi-summer-price-war",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://www.cb-asahi.co.jp/assets/img/ogimage.jpg",
+        "headline": "【経営メモ】あさひも夏は『協賛セール＆リニューアル攻勢』――6/26〜7/26に多店舗で値引き、大手の消耗戦に個人店はどう立つか",
+        "layer1": "サイクルベースあさひが6/26〜7/26にかけ、小倉湯川・戸畑・永犬丸・苅田・徳力・八幡東など多店舗でリニューアル/協賛セールを展開。アプリDLで電動アシスト最大1万円引き等の集客策を重ねる。",
+        "layer2": "背景を潜ると、あさひは直近決算で人件費増と買い控えにより減益基調（既報）。それでも夏は台数を取りに『値引き＋アプリ会員化』で来店を作りにいく。個人店が同じ値引きで張り合うのは自滅なので、①電動・完成車は大手に任せ、②うちはスポーツ車の“見立て・組み・アフター”という手数のかかる領域に集中、が現実解。プライムデーと合わせ、夏は『大手＝台数、個人店＝技術と関係』の役割分担がいっそう鮮明になる局面。",
+        "sources": [
+          {
+            "t": "サイクルベースあさひ（キャンペーン一覧）",
+            "u": "https://www.cb-asahi.co.jp/contents/category/campaign/",
+            "d": "2026-06"
+          },
+          {
+            "t": "サイクルベースあさひ IR（決算お知らせ）",
+            "u": "https://www.cb-asahi.co.jp/news/detail/2283/",
+            "d": "2026-04"
+          }
+        ],
+        "status": "確定＝あさひの夏セール/リニューアル展開。曖昧＝各店の具体値引き率は店舗により差。"
+      },
+      {
+        "id": "20260707-beginner-heat-salt",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/n2Kr2RcBxgoeQQaPuTEmFd-1024-80.jpg",
+        "headline": "プロが『ボトル1万本』の猛暑ツール――初中級はまず『水と塩を同時に・こまめに』、真水だけ大量は逆に危険",
+        "layer1": "44℃級のツールでプロですら大量給水に追われる今、初中級が夏のロングで倒れないための基本は『水だけでなく塩分（電解質）を同時に、少量ずつ頻回に』。真水だけをがぶ飲みすると血中塩分が薄まり、かえって熱中症・低ナトリウム血症のリスクが上がる。",
+        "layer2": "実践に落とすと――目安は1時間あたり500〜1,000ml、ただし一気飲みでなく10〜15分おきに一口ずつ。ボトルの片方はスポーツドリンクか塩タブ併用で電解質を確保する。加えて『暑熱順化（1〜2週間かけて暑さに体を慣らす）』が効き、いきなりの猛暑ロングは避ける。プロの冷却ベストまでは要らないが、ネッククーラーや冷感インナーで深部体温の上昇を抑えるのは初中級でも即効。まず“喉が渇く前に飲む”を体に入れる。",
+        "sources": [
+          {
+            "t": "Cycling Weekly（第3ステージ猛暑の実況）",
+            "u": "https://www.cyclingweekly.com/racing/tour-de-france/tour-de-france-stage-3-could-be-cancelled-due-to-wildfires",
+            "d": "2026-07-06"
+          },
+          {
+            "t": "ファンライド（サイクリストの熱中症対策）",
+            "u": "https://funride.jp/serialization/dr_riechi_karada_clinic_sp/",
+            "d": "2026-06"
+          }
+        ],
+        "status": "確定＝水分に塩分併用・こまめ補給・暑熱順化の一般則。数値（500-1000ml/h等）は媒体・体格で幅あり、目安。"
+      },
+      {
+        "id": "20260707-beginner-cat2-climb",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/jMBccPUGKbjDQip3n3AN8Z-2560-80.jpg",
+        "headline": "きょうのツールは『2級の登り2連発』――初中級が10km級のダラ坂を垂れずに上る、ペース配分の3原則",
+        "layer1": "第4ステージ終盤のコル・ド・クードン（10.7km/5.5%）やモンセギュール（6.9km/6.6%）のような『長め・中勾配』の坂は、じつは初中級がいちばん失速しやすいタイプ。頂上ゴールでなくても、入口の飛ばしすぎで後半が地獄になる。",
+        "layer2": "先回りの答えは3つ。①最初の1〜2kmは『物足りない』くらいで抑える＝心拍が上がりきる前に本勾配へ。②ケイデンスは無理に高くせず、垂れない範囲で一定に（ギアは早めに軽く、脚を売り切らない）。③勾配変化で立ち漕ぎと座りを使い分け、きつい区間だけ短くダンシングして筋を休める。距離が長いほど『均す』のが正解で、前半の貯金より後半の失速回避が効く。今日のプロの登り方（淡々と踏むGC勢 vs 一発のアタッカー）を見比べると教材になる。",
+        "sources": [
+          {
+            "t": "Olympics.com（第4ステージ・コース詳細）",
+            "u": "https://www.olympics.com/en/news/tour-de-france-2026-stage-4-preview-tuesday-7-july-route-profile-schedule-climbs-watch",
+            "d": "2026-07-06"
+          }
+        ],
+        "status": "確定＝コースの勾配・距離。ペース配分は一般的なコーチング原則（個人差あり）。"
+      }
+    ]
+  },
+  {
     "date": "2026-07-06",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。ツールは母国スペインで22歳デルトロが涙の初勝利――ポガチャルが最後の登りで『勝ちを譲り』ました。きょう第3ステージは初の本格山岳ですが、山火事と44℃で史上初の中止リスク。機材はTTTの巨大チェーンリングとカーボンスポーク標準化、国内は夏商戦の粗利防衛まで潜りました。",
     "cards": [
