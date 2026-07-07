@@ -1,5 +1,266 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-07-08",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ツールは第4ステージで『北欧の日』――ペデルセンが逃げを制し、無名のトレーエンが歴史的マイヨジョーヌ、ポガチャルは猛暑で黄色を手放しました。きょうは今大会初の本格スプリント戦です。",
+    "cards": [
+      {
+        "id": "20260708-tdf-st4-traeen",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/4U9dX9qF4XoGxgb2eky87h-2000-80.jpg",
+        "headline": "ツール第4ステージは『北欧の日』――ペデルセンが逃げを制しリドル・トレック1-2、無名トレーエンが歴史的マイヨジョーヌ",
+        "layer1": "カルカソンヌ→フォワ181.9km。34人の大逃げから世界王者マッズ・ペデルセン（リドル・トレック）が独走勝利、僚友クイン・シモンズが2着でチームワンツー。逃げに乗ったノルウェーのトルシュタイン・トレーエン（ウノエックス）が総合トップに立ち、初のマイヨジョーヌを着た。",
+        "layer2": "トレーエンは30歳、これがノルウェー人3人目のマイヨジョーヌ――しかも先輩の一人トール・フシュフォトは、いまや彼の所属ウノエックスのチームマネージャー。「まだ信じられない」と本人。総合2位は逃げ仲間の米国人ショーン・クイン（EF）で差はわずか28秒、ポガチャルはこの日13分遅れて総合4位・7分53秒差まで後退した。ステージ内容は『逃げ切り』で確定、総合の主導権は依然UAE有利だが、当面は北欧の物語が続く。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ステージ結果）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-mads-pedersen-scorches-stage-4-sprint-with-quinn-simmons-closing-for-lidl-trek-one-two-as-yellow-jersey-changes-hands/",
+            "d": "2026-07-07"
+          },
+          {
+            "t": "CyclingUpToDate（総合更新）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-classifications-update-stage-4-torstein-traeen-takes-historic-yellow-jersey-for-uno-x-as-pogacar-drops-down-pedersen-jumps-into-green-jersey",
+            "d": "2026-07-07"
+          },
+          {
+            "t": "France24",
+            "u": "https://www.france24.com/en/sport/20260707-mads-pedersen-wins-fourth-stage-of-tour-de-france-as-torstein-traeen-takes-yellow-jersey",
+            "d": "2026-07-07"
+          }
+        ],
+        "status": "確定＝ペデルセン優勝・シモンズ2着・トレーエン総合首位（28秒差でクイン2位）。ポガチャル総合4位7分53秒差。"
+      },
+      {
+        "id": "20260708-tdf-st5-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-07%2Fjasper-philipsen-6a4d1833423ba.jpg",
+        "headline": "きょう第5ステージはラヌメザン→ポー158.3km――今大会『初の本命スプリント戦』、メルリエとフィリプセンが激突",
+        "layer1": "ピレネーを離れ、獲得標高1,600mの平坦基調。カテゴリー超えの登りは3級コート・ド・バレ（1.2km・平均8.8%）1つだけで、残り約20kmは下り基調からポーの直線ゴールへ。純粋スプリンターに初めて訪れる大チャンスの一日。",
+        "layer2": "本命はポー勝利経験のあるフィリプセン（アルペシン）、ファンデルポールら鉄壁の発射台つき。ただ最高速ならメルリエ（スーダル）が上との評価で、今季すでに6勝と好調。バレの登りで振るい落としが起きれば話が変わるが、基本はボーナス秒とステージ、そして緑ジャージ争いが動く日。逃げ切りは決まりにくい配置。",
+        "sources": [
+          {
+            "t": "Olympics.com（第5ステージPV）",
+            "u": "https://www.olympics.com/en/news/tour-de-france-2026-stage-5-preview-wednesday-8-july-route-profile-schedule-climbs-how-to-watch-live",
+            "d": "2026-07-07"
+          },
+          {
+            "t": "IDLProCycling（PV）",
+            "u": "https://www.idlprocycling.com/cycling/2026-tour-de-france-stage-5-preview-just-a-sprint-but-didnt-we-think-the-same-thing-in-pau-in-2024",
+            "d": "2026-07-07"
+          }
+        ],
+        "status": "確定＝コース158.3km・登りは3級バレ1つ・ポー平坦フィニッシュ。favoritesは予想。"
+      },
+      {
+        "id": "20260708-pogacar-cede-yellow",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/RX5JFThbpnDMm4BSa75iUT-2500-80.png",
+        "headline": "『スタート時から頭痛だった』――ポガチャル、40℃級の猛暑でマイヨジョーヌをあえて逃げに譲る",
+        "layer1": "第4ステージ、UAEは前日の激しい牽制から一転、危険人物のいない34人の逃げを容認。ポガチャル自身も『スタート時から強い頭痛で、長い一日になると思った』と吐露し、僚友が氷と水を運び続けるなか集団で無理をせず、黄色を手放した（総合4位・7分53秒差）。",
+        "layer2": "SNSと仏TV討論では『前日は逃げを潰したのに今日は容認――一貫性を問うべき』とUAEの采配に賛否が噴出。ただ戦略的には理にかなう：山岳決戦はこれから、猛暑で無駄脚を使わず、黄色の守備義務（牽引）を他チームに押しつける狙い。総合の実力差は健在で、ポガチャルは山で黄色を取り返せる位置にいる、というのが専門筋の一致した見立て。数分差は『貸し』であって『負け』ではない。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ポガチャル談話）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/when-we-started-i-had-a-full-headache-tadej-pogacar-lets-tour-de-france-yellow-jersey-go-to-the-breakaway-after-uncomfortably-hot-stage-4/",
+            "d": "2026-07-07"
+          },
+          {
+            "t": "Cyclingnews（UAE采配への批判）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/we-have-to-question-the-common-sense-of-that-tadej-pogacar-and-uaes-breakaway-killing-tactics-criticised-in-french-tv-debate/",
+            "d": "2026-07-07"
+          }
+        ],
+        "status": "確定＝ポガチャルが黄色を逃げに譲り総合4位7分53秒差、本人が頭痛と証言。采配の是非はSNS・仏TVで賛否（＝話題の入口、裏取り済み）。"
+      },
+      {
+        "id": "20260708-carbon-spoke-vs-zipp202",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2026/04/zipp-202nsw-1.jpeg?w=1200",
+        "headline": "ツール前半戦、勝ちホイールは『カーボンスポーク』一色――そんな潮流に逆張りするジップの1,064g",
+        "layer1": "第4ステージを制したリドル・トレックのボントレガーをはじめ、序盤の主要チームはカーボンスポークのディープを常用。『カーボンスポーク＝プロの標準装備』化が今大会でいよいよ鮮明になった。",
+        "layer2": "そんな中でジップは復活させた最軽量『202 NSW』（リム高35mm・実測1,064g）で、あえて鋼スポーク（アルピナ製）を選択。DTスイスやロヴァールが超軽量カーボンスポーク（Vonoa製）へ動くのと逆の判断だ。理由は明快――クライミング特化の35mm浅リムでは、しなりと軽さと補修性で枯れた細径スチールが依然合理的、というジップの主張。価格は約63万円（£3,395）と超高級で、標準化＝正義ではないことを示す一枚。マサルの店の中華カーボンスポーク勢（FARSPORTS等）は、この『標準化の波』の実売側の主役になり得る。",
+        "sources": [
+          {
+            "t": "BikeRadar（Zipp 202 NSW）",
+            "u": "https://www.bikeradar.com/news/zipp-202-nsw-wheelset-2026",
+            "d": "2026-04-23"
+          },
+          {
+            "t": "road.cc（Zipp 202 NSW＝補足）",
+            "u": "https://road.cc/tech-news/zipp-unveils-its-lightest-wheelset-ever-202-nsw-returns",
+            "d": "2026-04-23"
+          },
+          {
+            "t": "Cyclingnews（第4ステージ・勝ち機材）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-mads-pedersen-scorches-stage-4-sprint-with-quinn-simmons-closing-for-lidl-trek-one-two-as-yellow-jersey-changes-hands/",
+            "d": "2026-07-07"
+          }
+        ],
+        "status": "確定＝ツール序盤はカーボンスポーク主流（7/7時点）。Zipp 202 NSWは実測1,064g・鋼スポーク・約63万円（発表は4月＝逆張り事例の補足）。"
+      },
+      {
+        "id": "20260708-tdf-groupset-map",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/07/All-the-TDF-Bikes-Cover.jpg",
+        "headline": "ツール2026のコンポ勢力図――SRAM移籍ラッシュ、カンパ13速は『コフィディス唯一』、そしてシマノ新デュラエースは“不在”",
+        "layer1": "今大会、EFがキャノンデール＋SRAM、デカトロンもシマノ→SRAMへスイッチするなどSRAM陣営が拡大。一方カンパ最新13速（スーパーレコード）を実戦投入するのはコフィディス唯一。噂されたシマノ新型デュラエースR9300は、開幕を過ぎても正式発表がない。",
+        "layer2": "R9300は『ダフィネ最終日〜ツール第1ステージ』での解禁が有力視されていたが、7/7時点で沈黙――E-Tubeアプリの13速コードやSPD-SL型番リークは出ているものの、実物のプロ投入は確認されていない。現実的な市販は9〜10月以降、供給次第で2027年ずれ込みの声も。つまり今大会の完全ワイヤレス2×13は当面カンパの独壇場で、シマノユーザーは“待ちの夏”。マサルの店で『いま新DAを待つべきか』と聞かれたら、少なくとも夏の即納は期待薄と伝えられる。",
+        "sources": [
+          {
+            "t": "Velo（ツール全チーム機材）",
+            "u": "https://velo.outsideonline.com/road/road-gear/all-bikes-2026-tour-de-france/",
+            "d": "2026-07"
+          },
+          {
+            "t": "BikeRadar（ツール機材）",
+            "u": "https://www.bikeradar.com/features/pro-bike/tour-de-france-bikes",
+            "d": "2026-07"
+          },
+          {
+            "t": "biketips（R9300リーク＝補足）",
+            "u": "https://biketips.com/shimano-13-speed-dura-ace-r9300-e-tube-leak-2026/",
+            "d": "2026-04-04"
+          }
+        ],
+        "status": "確定＝SRAM移籍拡大・カンパ13速はコフィディスのみ・7/7時点で新DA未発表。市販時期は予測（9〜10月説）。"
+      },
+      {
+        "id": "20260708-green-jersey-rules",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/Vz9tMWqHKfifd3exxFBXM5-1024-80.jpg",
+        "headline": "緑ジャージ、新配点で『スプリンター復権』――“ポガチャル対策”の点数改定、第4ステージでペデルセンが緑を確保",
+        "layer1": "ASOは2026年、平坦ステージ勝利の得点を50→70点に引き上げ、2位50・3位40と厚くした。中間スプリントも増点。第4ステージを制したペデルセンが緑ジャージに袖を通した。",
+        "layer2": "背景は2025年、ポガチャルが緑のミランに78点差まで迫ったこと。『総合系オールラウンダーに緑を奪われない』よう、平坦（第5・7・8・11・12・17・21）を純スプリンターへ露骨に寄せた設計だ。効果は諸刃――逃げ屋やパンチャーには不利になり、フィリプセン／メルリエら“速い男たち”の直接対決が緑の本筋に戻る。日本のファンには『なぜ今年は緑がスプリンター有利なのか』を一言で説明できる好材料。",
+        "sources": [
+          {
+            "t": "Cyclingnews（配点改定）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/an-attempt-to-stop-tadej-pogacar-tour-de-france-further-adjusts-green-jersey-points-system-to-keep-it-sprinter-friendly/",
+            "d": "2026-06-20"
+          },
+          {
+            "t": "CyclingUpToDate（第4ステージで緑＝ペデルセン）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-classifications-update-stage-4-torstein-traeen-takes-historic-yellow-jersey-for-uno-x-as-pogacar-drops-down-pedersen-jumps-into-green-jersey",
+            "d": "2026-07-07"
+          }
+        ],
+        "status": "確定＝平坦勝利70点・2位50・3位40へ増点、ペデルセンが第4ステージ後に緑（7/7）。"
+      },
+      {
+        "id": "20260708-primeday-honban",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://sarapie.com/wp-content/uploads/2022/08/hp001.jpg",
+        "headline": "【経営メモ】プライムデー本番が目前（7/10〜13想定）――『EC最安』の消耗品・小物商戦、粗利は整備とフィッティングで守る",
+        "layer1": "7/7から先行が始まったAmazonプライムデーは、いよいよ本番の数日間へ。タイヤ・チューブ・チェーン・ライト・サングラス・ボトル等、ローディーが“ついで買い”する消耗品と小物が最安圏に沈む一週間。",
+        "layer2": "個人店が真正面から価格で殴り合うのは消耗戦。ここは『EC最安で拾えるモノ』（規格品の消耗品）と『店でしか買えない体験』（フィッティング・持ち込み整備・トラブル即対応・相性診断）を分けて考える局面。プライムデー期は“物販の粗利”を諦める代わりに、①整備・工賃メニューの前面化、②セールで買った新品の『取付・調整』受け皿づくり、③高PVな『買い時』検索層を来店動線に乗せる、の3手で夏の売上を作る。数字（正確な開催日・還元率）は当日Amazon公式で要確認。",
+        "sources": [
+          {
+            "t": "サラピエの自転車さんぽ（プライムデー×自転車）",
+            "u": "https://sarapie.com/amazon-primeday-cycle/",
+            "d": "2026-07"
+          }
+        ],
+        "status": "曖昧＝本番の正確な開催日・還元率は公式で要確認（※本文は昨年比の想定日程）。方針＝物販は捨て場を作り、整備・体験で粗利を守る。"
+      },
+      {
+        "id": "20260708-buyers-market",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://satoyukiblog.com/wp-content/uploads/2026/03/MY26ContendSL1_ColorB-e1772984451661.jpg",
+        "headline": "【経営メモ】ワイズロードのサマーフェアが追加値引きで過熱、大手は『在庫潤沢×買い手市場』の夏へ――個人店の立ち位置",
+        "layer1": "ワイズロードは7/3開幕のSUMMER FAIRに完成車同時購入割引・無金利ローン・タイムセール・ウェアセールを次々追加。あさひも6/26〜7/26でリニューアル値引き攻勢。円安は続くが、実売は在庫潤沢で下落方向という“買い手市場”が鮮明。",
+        "layer2": "定価は原材料・物流・円安で高止まりする一方、実売はセールと型落ち2〜3割引で下がる『二極化』が続く。大手は資本力で無金利・下取り・ポイントを積む消耗戦に持ち込める――個人店が同じ土俵で殴り合うのは不利。効くのは『買い時ですよ』の一言で背中を押す接客と、大手が薄い“買った後”（フィッティング・持込整備・中華カーボンの目利き相談・アフター）を売ること。値引き競争ではなく『誰から買うか』を作る夏。",
+        "sources": [
+          {
+            "t": "PressWalker（ワイズロード サマーフェア追加）",
+            "u": "https://presswalker.jp/press/18071",
+            "d": "2026-07"
+          },
+          {
+            "t": "サイクルベースあさひ（キャンペーン）",
+            "u": "https://www.cb-asahi.co.jp/contents/category/campaign/",
+            "d": "2026-07"
+          },
+          {
+            "t": "サトユキブログ（2026は値下がりか）",
+            "u": "https://satoyukiblog.com/2026/03/09/2026-road-bike-prices-are-they-actually-dropping/",
+            "d": "2026-03"
+          }
+        ],
+        "status": "確定＝ワイズロード/あさひが夏の値引き攻勢中。方針＝価格でなく『誰から買うか（アフター・目利き）』で勝つ。"
+      },
+      {
+        "id": "20260708-beginner-sprint-position",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn-jupiter.metropolis.co.uk/wp-content/uploads/sites/9/2026/07/sprinters-form-guide-thumbnail-26-scaled.webp",
+        "headline": "きょうは今大会初の集団スプリント――なぜプロは70km/h超で刺せるのか、初中級が『近づかない』位置取りの基本",
+        "layer1": "第5ステージのポー・フィニッシュは大集団のもみ合いから最高速60〜70km/hの決着になりやすい。プロの発射台（リードアウト）が最後尾を高速で引き上げ、エースは風下に隠れて最後の200mだけ全開にする。",
+        "layer2": "初中級がまず学ぶべきは『速さ』でなく『居場所』。①最後の3〜5kmは前・でも先頭は引かない（風下の3〜8番手が省エネで最も安全）、②肘を張り、前輪を他人の後輪に重ねない（ハーフホイール禁止）、③スプリント本番の“壁”には近づかず、垂れてくる選手の外を回る。市民レースやグループライドでの落車の大半は最後の直線で起きる――『勝ちにいかない勇気』が完走と安全を両立させる。プロの動きは“やってはいけない密度”の教材として見ると学びが多い。",
+        "sources": [
+          {
+            "t": "Cyclist（スプリンター フォームガイド）",
+            "u": "https://www.cyclist.co.uk/in-depth/tour-de-france-2026-sprinters-form-guide",
+            "d": "2026-07"
+          },
+          {
+            "t": "Olympics.com（第5ステージPV＝ポー平坦）",
+            "u": "https://www.olympics.com/en/news/tour-de-france-2026-stage-5-preview-wednesday-8-july-route-profile-schedule-climbs-how-to-watch-live",
+            "d": "2026-07-07"
+          }
+        ],
+        "status": "確定＝第5ステージは集団スプリント想定。位置取りの原則は一般的セオリー（普遍ネタ／ツールを入口に）。"
+      },
+      {
+        "id": "20260708-beginner-heat-headache",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://s.france24.com/media/display/1f3522b4-7a1c-11f1-af81-005056a97e36/w:1280/p:16x9/000-B9J9476.jpg",
+        "headline": "王者ですら『頭痛』でダウン寸前、時間切れ失格者も――猛暑で“垂れない”ために初中級が守る補給とペースの順序",
+        "layer1": "第4ステージは40℃級。ポガチャルが『スタート時から頭痛』と語り、遅れた集団ではケランド・オブライエンがタイムアウト（勝者から約46分遅れ）で今大会初の足切り失格に。暑さは実力を無効化する。",
+        "layer2": "『頭痛・吐き気・だるさ』は熱中症の初期サイン＝限界の少し手前。初中級が守る順序は、①出る前から水と塩を入れておく（暑熱順化と前倒し補給）、②走行中は真水だけの大量飲みを避け、水＋電解質を“こまめに少量”（低ナトリウム血症の予防）、③深部体温を下げる（首・脇・鼠径を冷やす、日陰で止まる、頭から水をかける）、④無理にペースを守らず“垂れる前に緩める”。プロが氷と水を運び合い、王者すら黄色を捨てて省エネに徹したのが今日の答え――『我慢』でなく『管理』が夏を完走させる。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ポガチャル頭痛）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/when-we-started-i-had-a-full-headache-tadej-pogacar-lets-tour-de-france-yellow-jersey-go-to-the-breakaway-after-uncomfortably-hot-stage-4/",
+            "d": "2026-07-07"
+          },
+          {
+            "t": "CyclingUpToDate（タイムアウト失格）",
+            "u": "https://cyclinguptodate.com/cycling/medical-reports-withdrawals-tour-de-france-2026-stage-4-tour-finds-its-first-rider-out-of-the-time-limit",
+            "d": "2026-07-07"
+          }
+        ],
+        "status": "確定＝ポガチャル頭痛・オブライエンがタイムアウト失格（7/7）。補給/冷却の手順は一般的な熱中症対策のセオリー。"
+      }
+    ]
+  },
+  {
     "date": "2026-07-07",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ツールはピレネー本番、猛暑と山火事の『戦場』を抜けてポガチャルが黄色を奪取――機材と国内市場の夏商戦もまとめて。",
     "cards": [
