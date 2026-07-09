@@ -1,5 +1,301 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-07-10",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。昨日の第6ステージ、ポガチャルがトゥールマレーで43km独走――ヴィンゲゴーに2分38秒差をつけ黄色を奪回、総合は早くも『2分42秒』のリードです。『もうツールは終わったのか？』論争まで再燃。今日は平坦スプリントの第7ステージ（横風注意）、カンパの最安カーボン『ゾンダ・カーボン』国内投入、そして本日開幕のプライムデーを押さえます。",
+    "cards": [
+      {
+        "id": "20260710-tdf-st6-pogacar-tourmalet",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/smBbJoNnDUzKdjh4tU7TyQ-2000-80.jpg",
+        "headline": "ポガチャル、トゥールマレーで『43km独走』――ヴィンゲゴーを2分38秒ちぎって黄色奪回、総合リード早くも2分42秒で『もう終わった？』の声",
+        "layer1": "第6ステージ（ポー→ガヴァルニ・ジェドル186.2km）は今大会初の本格山岳。チームメイトのデル・トロがトゥールマレー頂上5km手前で強烈にペースを上げ、ついてこられたのはポガチャル（UAE）だけ。そこから約43kmを独走し、通算23勝目とマイヨジョーヌ奪回。ヴィンゲゴー（ヴィスマ）は2分38秒差の2着、デル・トロが2分57秒差3着でUAEが1・3位を独占した。",
+        "layer2": "前日まで総合4位・トップから7分53秒差だったポガチャルが、この一撃で総合首位に立ち、2位ヴィンゲゴーに『2分42秒』、3位デル・トロに3分27秒のリード。19歳ポール・セイシャス（デカスロン）が5着に食い込んだのも収穫。専門メディアは『まだピレネー1日目なのに、勝負はもう決したのか？』と早くも問いかける。デル・トロは発射台の役目を終えて失速したが、UAEの層の厚さを見せつけた形。総合首位トレーエンはこの日下りで落車し黄色を失った（別カード）。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ポガチャル、トゥールマレーで独走勝利＆黄色奪回）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-tadej-pogacar-asserts-dominance-with-long-range-attack-on-col-du-tourmalet-for-stage-6-victory-and-retakes-yellow-jersey/",
+            "d": "2026-07-09"
+          },
+          {
+            "t": "CyclingUpToDate（Race over already? 詳報・タイム差）",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-de-france-2026-stage-6-race-over-already-tadej-pogacar-destroys-jonas-vingegaard-on-first-high-mountain-day-as-tourmalet-gives-uae-leader-a-23rd-tour-win",
+            "d": "2026-07-09"
+          },
+          {
+            "t": "Cycling Weekly（『失うものはない』ポガチャル圧勝）",
+            "u": "https://www.cyclingweekly.com/racing/tour-de-france/tadej-pogacar-destroys-field-in-pyrenees-on-stage-6-of-tour-de-france-to-take-win-and-yellow",
+            "d": "2026-07-09"
+          }
+        ],
+        "status": "確定＝ポガチャル優勝・43km独走・ヴィンゲゴー+2:38・デル・トロ3着+2:57。総合＝ポガチャル首位、V+2:42/デル・トロ+3:27。"
+      },
+      {
+        "id": "20260710-tdf-st7-bordeaux-sprint",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-07%2Folav-kooij-6a4fbc5651360.jpg",
+        "headline": "きょう第7ステージはアジェットモー→ボルドー175.1km――『ほぼ確実なスプリント』、だが横風とピレネー疲労が伏兵",
+        "layer1": "獲得標高わずか850m、カテゴリー山は残り約38kmのコート・ド・ベゲー（約1.2km・平均4.4%）だけの平坦路。ボルドーは過去133回もステージゴールを迎えたスプリントの聖地で、今日も集団スプリントが濃厚。第5ステージを制したコーイ、メルリエ、フィリプセンら快速勢の再戦。",
+        "layer2": "『ほぼ確実』に唯一の狂騒要素が横風。ルートは西ヨーロッパ最大の人工林ランド地方の森を北上し、平坦ゆえ横風でエシュロン（集団分断）が起きれば総合勢も巻き込まれかねない。加えて前日トゥールマレーの激闘で脚は重く、金曜のボルドーは約35℃・軽い西風の予報。『何も起きなければ純粋なスプリント、何か起きれば総合が動く』一日。中立スタートは13:15（現地）。",
+        "sources": [
+          {
+            "t": "Olympics.com（第7ステージPV・コース・視聴）",
+            "u": "https://www.olympics.com/en/news/tour-de-france-2026-stage-7-preview-friday-10-july-route-schedule-watch-live",
+            "d": "2026-07-10"
+          },
+          {
+            "t": "CyclingUpToDate（第7ステージPV・展望・猛暑）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-stage-7-preview-profiles-favourites-and-predictions-sprinters-go-head-to-head-again-in-the-blazing-heat",
+            "d": "2026-07-09"
+          },
+          {
+            "t": "Velo/Outside（横風がスプリンターを翻弄しうる）",
+            "u": "https://velo.outsideonline.com/tour-de-france/tour-de-france-2026-stage-previews/stage-7/",
+            "d": "2026-07-09"
+          }
+        ],
+        "status": "確定＝175.1km・平坦850m・唯一の山コート・ド・ベゲー・ボルドーゴール。スプリント濃厚だが横風は変数（予想）。"
+      },
+      {
+        "id": "20260710-tdf-traeen-seixas",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/LV8yoQL55NezfFoqBbxrUX-2560-80.jpg",
+        "headline": "トレーエンの『童話』は下りの落車で幕――一方、19歳セイシャスがトゥールマレーで5位、次代のフランスが芽吹く",
+        "layer1": "無名から3日間マイヨジョーヌを守ったトルシュタイン・トレーエン（ウノエックス）は、トゥールマレーの下りでチームメイトの後輪に接触して落車。総合8分遅れの状況で黄色を明け渡し、童話は終わった。医療スタッフの確認後、自走で再スタートした。",
+        "layer2": "対照的に光ったのが19歳のポール・セイシャス（デカスロンCMA CGM）。デル・トロの発射でいったん離されながら、デル・トロやリポヴィッツと共に頂上前に集団へ復帰し、最終的に区間5位でフィニッシュ。総合エースを担う10代がツールの最高峰で名だたる強豪に食らいついた事実は、フランスの次世代到来を告げる。トレーエンの3日間とセイシャスの5位――勝負の非情さと希望が同じ山で交錯した。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ライブ詳報・トレーエン落車で黄色移動）",
+            "u": "https://www.cyclingnews.com/pro-cycling/live/tour-de-france-stage-6-live-tourmalet-on-the-menu-on-early-visit-to-the-pyrenees/",
+            "d": "2026-07-09"
+          },
+          {
+            "t": "Cycling Weekly（セイシャスら区間上位・トレーエン落車）",
+            "u": "https://www.cyclingweekly.com/racing/tour-de-france/tadej-pogacar-destroys-field-in-pyrenees-on-stage-6-of-tour-de-france-to-take-win-and-yellow",
+            "d": "2026-07-09"
+          },
+          {
+            "t": "Olympics.com（トゥールマレー詳報）",
+            "u": "https://www.olympics.com/en/news/tour-de-france-2026-tadej-pogacar-claims-col-du-tourmalet-climb-hunt-fifth-yellow-jersey",
+            "d": "2026-07-09"
+          }
+        ],
+        "status": "確定＝トレーエン下りで落車・黄色喪失／セイシャス（19歳）区間5位。"
+      },
+      {
+        "id": "20260710-pogacar-proof-debate",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-07%2Ftadej-pogacar-celebrates-winning-stage-3-6a4cadcb63b63.jpg",
+        "headline": "『ポガチャルは退屈か？』論争が再燃――強すぎる王者を、ツールは“無力化”できるのか（Xでも賛否）",
+        "layer1": "トゥールマレーの一撃で総合が事実上決したことを受け、海外メディアとSNSで『圧倒的な強さは見ていて退屈か、それとも偉業か』の議論が再燃。国内のローディーの間でもXで『これはもう競争じゃない』『いや歴史の目撃だ』と賛否が割れている（＝話題として観測、論の中身は下記の一次記事で裏取り）。",
+        "layer2": "BikeRadarは『ツールをポガチャル・プルーフ（彼が勝てないコース）にできるか』を検証し、結論は悲観的。彼は山・平坦・TT・逃げのどれもこなす万能型で、しかもチームも最強。ディレクターのプリュドムは今年『山頂ゴール5回・終盤3日連続の山頂』でクレッシェンド型の緊張を作ったが、『あらゆる地形で無双する以上、コース設計は“必然”を先延ばしにするだけかもしれない』と。CyclingUpToDateは『不確実性がないと退屈と感じる人の権利も、偉業に感動する人の見方も、どちらも正しい――戦争にする必要はない』と両論を整理。マサルの発信では『退屈論』に乗るより、“なぜ人間離れしているのか（機材・トレーニング・チーム）”に潜ると刺さりやすい。",
+        "sources": [
+          {
+            "t": "BikeRadar（ツールを“ポガチャル・プルーフ”にできるか）",
+            "u": "https://www.bikeradar.com/features/opinion/can-the-tour-de-france-ever-be-pogacar-proof",
+            "d": "2026-07-03"
+          },
+          {
+            "t": "CyclingUpToDate（ポガチャルは退屈か・両論整理）",
+            "u": "https://cyclinguptodate.com/cycling/opinion-is-tadej-pogacar-boring-greatness-and-excitement-dont-always-go-hand-in-hand",
+            "d": "2026-07-09"
+          }
+        ],
+        "status": "確定＝一次メディアの論考2本。Xの賛否は『話題として観測』（個別投稿は要裏取り）。"
+      },
+      {
+        "id": "20260710-campa-zonda-carbon",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/07/circular_Campagnolo_Zonda_Media_02_color_2.jpg",
+        "headline": "定番『ゾンダ』がカーボン化して国内投入――カンパ最安のカーボン、¥297,000のオールロード（納期7月上旬）",
+        "layer1": "カンパニョーロの超定番アルミホイール『ゾンダ』が、初めてカーボン化した『ゾンダ・カーボン（オールロード）』として登場。リムハイト50mm・内幅25mm（フックド）で、29〜40mm超のチューブレスに対応。国内定価は税込¥297,000、納期は2026年7月上旬。Y’sロードなど大手が7/1に『最速展示』を始めた。",
+        "layer2": "位置づけは『カンパのカーボンへの“最も安い入口”』。欧州価格は€1,420で、上位のBora Xグラベル比で約€870安い。重量は公称約1,550g、G3スポーク、ベアリングは伝統のスチール製カップ＆コーン、フリーはN3W/HG11/XDRに対応――“軽さ番長”ではなく『ロードもグラベルも1本で』の実用オールロード狙い。50mmハイトで巡航は稼ぎつつ、内幅25mmで太めタイヤの安定を取りにきた設計。舶来ブランドがこの価格帯（＝中華カーボンや国内ミドルと重なる帯）に降りてきた意味は大きい（経営視点は別カード）。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ（ゾンダ・カーボン オールロード発表）",
+            "u": "https://www.cyclesports.jp/news/new-product/164483/",
+            "d": "2026-07-01"
+          },
+          {
+            "t": "cyclowired（新製品情報2026・ゾンダがカーボン化）",
+            "u": "https://www.cyclowired.jp/news/node/392789",
+            "d": "2026-07-01"
+          },
+          {
+            "t": "BikeRadar（カンパ最安カーボン・€1,420）",
+            "u": "https://www.bikeradar.com/news/2026-campagnolo-zonda-wheelset",
+            "d": "2026-07-01"
+          },
+          {
+            "t": "Y’sロード（7/1店頭展示・¥297,000）",
+            "u": "https://ysroad.co.jp/osaka/2026/07/01/260657",
+            "d": "2026-07-01"
+          }
+        ],
+        "status": "確定＝ゾンダ・カーボン国内¥297,000・50mm/内25mm・納期7月上旬・欧州€1,420。重量約1,550gは公称。"
+      },
+      {
+        "id": "20260710-primeday-day1-memo",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://blog.cbnanashi.net/wp-content/uploads/2026/07/t-4.jpg",
+        "headline": "【経営メモ】本日7/10、プライムデー本番開幕（〜13日）――先行3日を経て『EC最安』圧力が最大化、300万点超が特価",
+        "layer1": "Amazonプライムデー2026は本日7/10（金）0時から7/13（月）23:59までの4日間。先行セール（7/7〜9）を挟んで本番に突入し、対象は前年超えの300万点以上。サイコン（iGPSPORT等）・スマートトレーナー・消耗品・ウェアなどロード関連も広く値下がりする。",
+        "layer2": "個人店に効くのはここから。消耗品・小物は『EC最安』に真っ向勝負しても粗利が溶けるだけ。本番4日間は“ネットで底値を見た客”が来店する前提で、①整備・フィッティング・アフターの工賃で粗利を作る、②その場で完結する即納・相談・保証を売る、が守りの筋。逆にプライムデーで買えない領域――ホイールの適合相談、チューブレスの実装、フレーム選び――に会話を寄せると来店動機になる。今日の『ゾンダ・カーボン国内投入』のような“店で触って選ぶ高額パーツ”は、EC最安戦の外側にある数少ない攻めどころ。",
+        "sources": [
+          {
+            "t": "電撃ホビーウェブ（7/10〜13開催・先行7/7〜・300万点超）",
+            "u": "https://hobby.dengeki.com/news/3052234/",
+            "d": "2026-07-07"
+          },
+          {
+            "t": "CBN Blog（プライムデーの自転車用品ピックアップ）",
+            "u": "https://blog.cbnanashi.net/2026/07/27615",
+            "d": "2026-07-08"
+          },
+          {
+            "t": "アマゾンジャパン プレスリリース（開催概要）",
+            "u": "https://prtimes.jp/main/html/rd/p/000002145.000004612.html",
+            "d": "2026-07-07"
+          }
+        ],
+        "status": "確定＝本番7/10〜13・先行7/7〜9・300万点超。還元率/個別値引きは商品により変動。"
+      },
+      {
+        "id": "20260710-carbon-price-pressure-memo",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png?media=1716897874",
+        "headline": "【経営メモ】カーボンホイールの“価格の底”が下がり続ける――カンパ¥297,000×プライムデーEC×中華の三方向で、値ごろ帯が過密に",
+        "layer1": "本日重なった2つの出来事――『ゾンダ・カーボンが¥297,000でカンパの最安カーボンとして国内投入』と『プライムデー本番のEC最安圧力』――は、いずれもカーボンホイールの“買い手市場化”を一段進める。加えて中華勢（Winspace Hyper、Elitewheels、Farsports 2026 S等）が大手の1/3〜1/2の価格で性能を詰めてきており、値ごろ帯（15〜30万円）はブランドが最も密集する激戦区になった。",
+        "layer2": "ショップ経営としての読み：値ごろ帯が過密＝『価格だけ』では舶来にも中華にも勝てない。勝ち筋は(1)適合と用途の“目利き”（内幅・タイヤ幅・フックド/フックレス・重量と剛性の噛み合わせを客の乗り方に翻訳する）、(2)チューブレス実装や振れ取り・保証といったアフター、(3)『実測で語る』信頼。中華カーボンは2025→2026で品質が明確に上がり、重量・剛性・空力で大手に遜色ない水準との評価が定着――だからこそ“安いから”ではなく“合っているから”を売る店が残る。うちの取り扱い（8LIEN/CRW/GOOSYNN/NEPEST/FARSPORTS/PARTICLE）は、この『目利き＋アフター』の物語に自然に乗せられる。",
+        "sources": [
+          {
+            "t": "BikeRadar（カンパ最安カーボン=価格の下限を更新）",
+            "u": "https://www.bikeradar.com/news/2026-campagnolo-zonda-wheelset",
+            "d": "2026-07-01"
+          },
+          {
+            "t": "VeloFanatics（2026 中華カーボン評価・値ごろで大手に肉薄）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026-06"
+          },
+          {
+            "t": "電撃ホビーウェブ（プライムデー本番=EC最安圧力）",
+            "u": "https://hobby.dengeki.com/news/3052234/",
+            "d": "2026-07-07"
+          }
+        ],
+        "status": "確定＝ゾンダ国内¥297,000・プライムデー本番・中華の値ごろ肉薄。経営示唆は分析（=見解）。"
+      },
+      {
+        "id": "20260710-vanrysel-decathlon-sram",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://www.rennrad-news.de/news/wp-content/uploads/2026/07/12.jpg",
+        "headline": "勝っているデカスロンの機材――ヴァンリールRCR一族＋『SRAM移籍』、ツールでセイシャス用の新型エアロ試作も出現",
+        "layer1": "第5ステージ優勝（コーイ）に第6ステージ区間5位（セイシャス）と好調のデカスロンCMA CGMは、2026年から自社ブランド『ヴァンリール』のRCR（オールラウンド）／RCR-F（エアロ）／RCR-X（TT）を、コンポはSRAMワイヤレスに切り替えて走っている。さらにツール会場では、19歳セイシャス向けとみられる“未発表のエアロ試作車”が目撃された。",
+        "layer2": "着目点は2つ。①『SRAM移籍』：昨季までと構成を変え、ワイヤレスの反応性・信頼性をワールドツールで実証しにきた（今年のツールはSRAM勢の存在感が増している流れと一致）。②『ヴァンリール＝ディスカウンター発ブランドがトップで勝つ』意味：ディカスロンの自社設計が、Swiss Sideとの空力協業でエアロRCR-Fを鍛え、いまや区間勝利と総合エースを支える。“安い＝安かろう”の逆を地で行くブランドで、うちの客が『中華・自社ブランドでも一流と戦える』と腑に落ちる好例。試作車は正式発表前ゆえ細部は未確定。",
+        "sources": [
+          {
+            "t": "Rennrad-News（セイシャス用ヴァンリール新型エアロ試作を目撃）",
+            "u": "https://www.rennrad-news.de/news/van-rysel-prototyp-paul-seixas-decathlon-cma-cgm/",
+            "d": "2026-07"
+          },
+          {
+            "t": "Van Rysel（デカスロンCMA CGM 2026機材・RCR一族＋SRAM）",
+            "u": "https://www.vanrysel.com/de-DE/c/lp/decathlon-cma-cgm-2026",
+            "d": "2026-07"
+          },
+          {
+            "t": "Velo/Outside（ツール2026の新車まとめ）",
+            "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/tour-de-france-2026-new-bikes/",
+            "d": "2026-07-08"
+          }
+        ],
+        "status": "確定＝デカスロンはヴァンリールRCR一族＋SRAM。セイシャス用試作エアロは目撃段階（正式発表前=要続報）。"
+      },
+      {
+        "id": "20260710-beginner-crosswind-echelon",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2019/07/22210223/119624_00.jpeg",
+        "headline": "きょうのボルドーで警戒される『横風＝エシュロン』とは――初中級が公道でやってはいけない位置取り",
+        "layer1": "第7ステージの唯一の変数は横風。横から風を受けると、選手は前走者の“真後ろ”ではなく“風下側の斜め後ろ”に隠れようとし、集団が斜めの階段状＝エシュロンになる。これに乗り切れないと後方でちぎれ、総合勢でも時間を失う。プロが平坦で殺し合う理由がここにある。",
+        "layer2": "初中級への落とし込み：①原理は『風下側にずれて風よけを作る』。向かい風寄りなら真後ろ、真横〜斜め後ろから吹くなら“風が来る側と反対”に半車身ずらすと格段に楽になる。②ただしエシュロンは道幅を使い切って横に広がる走り方で、公道では絶対NG（対向・後続を巻き込む）。仲間内の練習でも交通のある道ではやらない。③強風のソロなら、深いリムほど横風でハンドルを取られる。今日のような日は『無理に高速巡航しない・車間を詰めすぎない・下ハンで重心を下げる』が安全の基本。プロの技術は“憧れ”として見つつ、公道では真似しないのが正解。",
+        "sources": [
+          {
+            "t": "cyclowired（横風でエシュロン発生・集団が分断）",
+            "u": "https://www.cyclowired.jp/media/340937",
+            "d": "2026-07"
+          },
+          {
+            "t": "サイクルスポーツ（集団走行の基本とルール）",
+            "u": "https://www.cyclesports.jp/topics/3919/",
+            "d": "2026-07"
+          },
+          {
+            "t": "サイクルビギナー辞典（エシュロンの定義）",
+            "u": "https://www.attic-bike.com/dictionary/page-309/",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝エシュロンの原理・公道でのNG。今日のレース文脈に紐づけた解説。"
+      },
+      {
+        "id": "20260710-beginner-recovery-backtoback",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "http://bike-plus.com/cdn/shop/articles/recovery-nutrition-weekend-ride-00_20abd13d-2c2f-47e3-a96f-974689887fba.webp?v=1774166800",
+        "headline": "プロは今日も“昨日の激闘の翌日”を走る――初中級が連日ライドで『翌日に疲れを残さない』回復の順序",
+        "layer1": "選手はトゥールマレーの死闘の翌日にまた175kmを走る。連戦で効いてくるのが回復の巧拙。初中級のロングや連日ライドでも同じで、『走った後の30分・その日の食事・睡眠』の3点をおさえるだけで翌日の脚が別物になる。",
+        "layer2": "順序で覚える：①ゴール後30分の“黄金時間”に糖質＋たんぱく質をセットで（筋グリコーゲンの再合成が最も速い時間帯）。②失った水分だけでなく電解質（塩分）も補う――夏は特に。③就寝1〜3時間後に成長ホルモンが出るので、寝る前にアミノ酸系を入れて睡眠時間を確保。④翌日がつらければ“回復走”＝軽いギアで短時間クルクル回すと血流が上がり乳酸・老廃物が抜けやすい。逆にやりがちなNGは『補給を軽視して真水だけ大量』『帰宅後すぐ動かず座りっぱなし』。マサル向けの一言：連日イベントやブルベ前の“食べ方・寝方”は、機材より結果に効く地味な差。",
+        "sources": [
+          {
+            "t": "バイクプラス（翌日に疲れを残さない補給戦略）",
+            "u": "https://bike-plus.com/blogs/blog/recovery-nutrition-weekend-ride",
+            "d": "2026-07"
+          },
+          {
+            "t": "Red Bull（ライド後の正しいリカバリー）",
+            "u": "https://www.redbull.com/jp-ja/recovering-after-bike-ride-tips-tricks",
+            "d": "2026-07"
+          },
+          {
+            "t": "魚肉ペプチドLab（疲労回復術・ゴールデンタイム）",
+            "u": "https://www.kamaboko.com/sakanano/column/athlete/post21872.html",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝補給の黄金時間・電解質・睡眠・回復走の基本。今日のレース連戦に紐づけた実用解説。"
+      }
+    ]
+  },
+  {
     "date": "2026-07-09",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。きょう第6ステージは今大会初のトゥールマレー＆ガヴァルニ初登場の頂上ゴール――『総合の最初の審判』です。昨日はデビュー戦のコーイが混沌のスプリントを制し、トレーエンが黄色を守りました。今日はホイール最前線（スコープの新3本スポーク）と、峠を教材にした初中級2本、市場はプライムデー本番前夜を押さえます。",
     "cards": [
