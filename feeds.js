@@ -1,5 +1,299 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-07-11",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ツールはスプリント週の折り返し――メルリエが『全出場で勝利』を継続、総合はポガチャル2分42秒リードでアルプへ持ち越し。機材は“公式ビアンキ”と青天井の高級化、足元では中華カーボンが1.2kg切り。今日も『今』を底まで潜りました。",
+    "cards": [
+      {
+        "id": "20260711-tdf-st7-merlier",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/Z3zk7AtCBz6Rwo36qhAYeS.jpg",
+        "headline": "メルリエが混沌のボルドー・スプリントを制す――ソウダル、ツール初白星、『3度の出場で全て勝利』の完璧記録",
+        "layer1": "ツール第7ステージ（アジェットモー→ボルドー175km）は集団スプリント。ティム・メルリエ（ソウダル・クイックステップ）が残り600mで一度は詰まりながら差し込み、ヴェレンショルド、ジルマイを抑えて優勝。総合はポガチャルが黄色を維持した。",
+        "layer2": "メルリエはこれで「出場3回すべてでステージ勝利」の完璧記録。フィリプセンとガビリアが先に仕掛けたが後方から集団に飲まれ、メルリエは向かい風を利してスタイヴェンの牽引から最速の一撃。本人は『ツールでまた勝てて誇らしい』。レムコ移籍後の新体制ソウダルにとって待望の今大会初勝利で、チーム通算56勝目。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-tim-merlier-banishes-bunch-in-bordeaux-for-stage-7-sprint-victory/",
+            "d": "2026-07-10"
+          },
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/racing/tour-de-france/tim-merlier-takes-sprinters-stage-into-bordeaux-after-unstoppable-sprint",
+            "d": "2026-07-10"
+          },
+          {
+            "t": "Soudal Quick-Step",
+            "u": "https://soudal-quickstepteam.com/en/news/tim-merlier-reigns-supreme-in-bordeaux",
+            "d": "2026-07-10"
+          }
+        ],
+        "status": "確定＝メルリエ優勝・ポガチャル黄色維持・全出場勝利（複数一次系メディア一致）"
+      },
+      {
+        "id": "20260711-tdf-st8-bergerac",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.cyclingstage.com/images/tour-de-france/2026/stage-8-profile-100.jpg",
+        "headline": "きょう第8ステージはペリグー→ベルジュラック180.4km――『ほぼ確実な集団スプリント』、だが残り2kmの直角2連続が罠",
+        "layer1": "ドルドーニュ県内をほぼ平坦で結ぶスプリンター日。分類上の登りは軽微で、まず集団スプリント濃厚。だが最後の2kmに鋭い右コーナーが2つあり、リードアウトの精度とタイミングが問われる。",
+        "layer2": "前日敗れたフィリプセン、コーイ、ペデルセンらに即リベンジの舞台。ただ直角コーナー連続は位置取りを狂わせやすく、『まっすぐ長い発射台』を作れるソウダル（メルリエ）とアルペシン（フィリプセン）が一歩有利。過去ベルジュラック決着は2017年キッテルまで遡る珍しいゴール。",
+        "sources": [
+          {
+            "t": "cyclingstage（公式ルート）",
+            "u": "https://www.cyclingstage.com/tour-de-france-2026-route/stage-8-tdf-2026/",
+            "d": "2026-07-11"
+          },
+          {
+            "t": "CyclingUpToDate（プレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-stage-8-preview-profiles-favourites-and-predictions-after-kooij-and-merlier-can-philipsen-win-a-tour-sprint",
+            "d": "2026-07-10"
+          }
+        ],
+        "status": "確定＝コース/距離（公式ルート）、予想＝スプリント濃厚（技術的フィナーレ）"
+      },
+      {
+        "id": "20260711-tdf-gc-carapaz-pedersen",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-07/tadej-pogacar-in-yellow-6a4cb66b73677.jpg",
+        "headline": "総合はポガチャル『2分42秒』リードで折り返し週へ――カラパスは“あえて24位”に沈み、ステージ狩りへ全権",
+        "layer1": "第7終了時、総合はポガチャル首位、2位ヴィンゲゴー＋2:42、3位デル・トロ＋3:27。ポイント賞はペデルセンが204点で独走（2位ジルマイ145点）。",
+        "layer2": "注目はEFのカラパス。約3分を意図的に失って16位→24位へ落ち、逃げに乗る自由（＝ステージ・山岳賞狙い）を確保する“戦略的後退”。総合の決着は第3週のアルプ・デュエズ2連続山頂（第19・20＝7/24-25）まで持ち越しで、平坦続きの今は嵐の前の静けさだ。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（分類更新）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-classifications-update-stage-7-richard-carapaz-gives-up-gc-fight-whilst-pedersen-reinforces-green-jersey",
+            "d": "2026-07-10"
+          },
+          {
+            "t": "Cyclingnews（GC標準）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-gc-standings-2026/",
+            "d": "2026-07-10"
+          }
+        ],
+        "status": "確定＝GC/ポイント数値（分類更新記事）、カラパスの意図はチーム発言ベース"
+      },
+      {
+        "id": "20260711-tdf-sprinters-subplot",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/qEZWTjykHLMAPBfGicedSZ-1024-80.jpg",
+        "headline": "メルリエに続くのは誰か――フィリプセン今大会“未勝利”、ガビリアは柵際で不発、ジルマイは2度目の表彰台",
+        "layer1": "第7のスプリントはメルリエが制し、フィリプセンは早駆けから飲まれ、ガビリアはバリアに詰められて不発。ジルマイは3位で今大会2度目の表彰台。緑ジャージはペデルセンが盤石だ。",
+        "layer2": "平坦の第8で最速スプリンターたちが再戦する。フィリプセン（アルペシン）はここまで白星なしで焦りが募り、コーイ（デカスロン）は第5で勝って勢いに乗る。ソウダルはペデルセンに緑を集中させ、ミランとの二枚看板は今年ペデルセン優先という選択――勝てるのに“譲る”難しさが見どころ。",
+        "sources": [
+          {
+            "t": "Cyclingnews（第7ライブ）",
+            "u": "https://www.cyclingnews.com/pro-cycling/live/tour-de-france-stage-7-live-a-chance-for-the-sprinters-as-the-race-heads-to-bordeaux/",
+            "d": "2026-07-10"
+          },
+          {
+            "t": "CyclingUpToDate（第7結果）",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-de-france-2026-stage-7-tim-merlier-wins-bunch-sprint-to-bordeaux-as-quick-step-open-tour-tally",
+            "d": "2026-07-10"
+          }
+        ],
+        "status": "確定＝順位・不発の状況（レース速報）"
+      },
+      {
+        "id": "20260711-bianchi-specialissima-rc-tdf",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://bikerumor.com/wp-content/uploads/2026/07/All-new-Bianchi-Specialissima-RC-is-the-Official-Bike-of-the-Tour-de-France.jpg",
+        "headline": "ビアンキが『ツール公式バイク』に就任――新スペシャリッシマRCの113台限定、4賞カラー×フレーム750g、€12,900",
+        "layer1": "ビアンキがASO（主催）と複数年契約でツール・ド・フランス公式バイクに就任。記念の限定スペシャリッシマRCは第113回にちなみ113台のみ、黄・緑・水玉・白の4賞ジャージ配色を1台に融合した。",
+        "layer2": "フレーム約720〜750g（Mサイズ）、前世代比で50km/h時に最大16W改善、専用RC一体ハンドルは25%エアロ向上、Countervail制振を継続。デュラエースDi2完成車で€12,900（約230万円）、1/12スケール手作り模型付き。数値はビアンキ公称で、独立系の実測レビューは今後。以前ユーロバイクで発表された“オールラウンダー化”したRCの、公式版が今回のニュース。",
+        "sources": [
+          {
+            "t": "Bikerumor",
+            "u": "https://bikerumor.com/all-new-bianchi-specialissima-rc-is-the-official-bike-of-the-tour-de-france-in-ltd-livery/",
+            "d": "2026-07-07"
+          },
+          {
+            "t": "Bianchi（公式）",
+            "u": "https://www.bianchi.com/en/specialissima-tour-de-france/",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝限定台数/価格/公式契約、公称＝重量・空力（メーカー値）"
+      },
+      {
+        "id": "20260711-tdf-route-alpe-dhuez",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.cyclingstage.com/images/tour-de-france/2026/route-100.jpg?01",
+        "headline": "なぜ今“スプリント続き”なのか――2026ツールは山岳を最終週に凝縮、決着はアルプ・デュエズ2連発（7/24-25）",
+        "layer1": "第7・第8と平坦スプリントが続くのは、今年のコース設計が大きな山岳を最終週へ寄せているため。総合の本当の審判はアルプ・デュエズへの連続山頂ゴール（第19・20）で下る見込みだ。",
+        "layer2": "全21ステージのうち平坦/スプリントは第2・5・7・8・11・12・17・21、山岳は第3・6・14・15・18・19・20、個人TTは第16。獲得標高は総計54,450m・全長3,321km。ポガチャルの＋2:42はまだ“動く”リードで、ヴィスマは第2週後半〜アルプでの逆転に賭ける構図。マサルのショート向けには『山はまだ来ていない』の一言が効く。",
+        "sources": [
+          {
+            "t": "cyclingstage（2026ルート）",
+            "u": "https://www.cyclingstage.com/tour-de-france-2026-route/",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝コース構成（公式ルート）"
+      },
+      {
+        "id": "20260711-prologo-predator-02",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/07/2026-July-4-Tech-of-the-Week-1024x708.jpg",
+        "headline": "プロロゴが新サドル『Predator//02』――ロングファイバー・カーボンベース＋Nackレール、159g・£490",
+        "layer1": "プロロゴがフラッグシップのPredatorを刷新した「Predator//02」を発表。射出成形のロングファイバー・カーボンベースに丸断面のNackレール、鼻先50mm/60mmの2サイズ展開。",
+        "layer2": "『ベースとレールを従来より容易に分離・交換できる』モジュラー設計を継続。軽量版で159g、£490（約9万円）。ツール開幕に合わせた高級サドル更新の一波で、ビアンキ公式限定車にもプロロゴ特注サドルが採用されるなど、サドル×プロチームの結び付きが強まっている。座面の“可換式”は長く使う人には効く。",
+        "sources": [
+          {
+            "t": "road.cc（Tech of the Week）",
+            "u": "https://road.cc/tech-news/bikes-that-talk-roads-that-listen-is-this-wireless-communication-the-future-of-cycle-safety-plus-more-tech-news-from-specialized-canyon-bianchi-campagnolo-prologo-maap",
+            "d": "2026-07-04"
+          }
+        ],
+        "status": "確定＝仕様/価格（メーカー発表）"
+      },
+      {
+        "id": "20260711-china-carbon-spoke-value",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png?media=1716897874",
+        "headline": "中華カーボンスポークが『1.2kg切り×$1,359』へ――夏の“買い時”に値ごろ帯がまた一段下がる",
+        "layer1": "FARSPORTSの2026 S Seriesが、S4＝1,190g／S5＝1,220g／S6＝1,320gで$1,359〜。T字断面3.8mmカーボンスポーク＋2:1組み・UCI認証と、大手の1/2〜1/3の価格で軽量エアロを実現している。",
+        "layer2": "9Veloの1kg切りに続き、FARSPORTS・Elitewheels・Winspace・Light Bicycle勢が“カーボンスポークの民主化”を加速中。初カーボンで外したくなければ、ハブはDTスイス系かセラミックを選ぶと耐久の当たり外れが減る、が要点。うち（8LIEN／CRW／GOOSYNN／NEPEST／FARSPORTS／PARTICLE）でも同帯の目利き＋アフターが差別化の軸になる。夏セール＋プライムデーで“今が買い時”の空気が後押し。",
+        "sources": [
+          {
+            "t": "Velofanatics（2026中華ホイール）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026"
+          },
+          {
+            "t": "FARSPORTS（S Series）",
+            "u": "https://www.farsports.com/products/farsports-2026-new-s-series",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝各社スペック/価格、傾向＝“値ごろ化”は2026も継続（発売時期は各社2026モデル）"
+      },
+      {
+        "id": "20260711-primeday-day2-memo",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://blog.cbnanashi.net/wp-content/uploads/2026/07/t-4.jpg",
+        "headline": "【経営メモ】プライムデー2日目（〜7/13）――実売はここが底値、電動ポンプ¥14,129・後方レーダー¥10,105・タイヤ2本¥4,394",
+        "layer1": "7/10開幕のAmazonプライムデーはきょうがDay2。自転車まわりの実売最安が具体化：CYCPLUS電動ポンプ¥14,129、COOSPO後方レーダー¥10,105、パナレーサー クローザープラス700×25C 2本組¥4,394、iGPSPORT BiNavi Air¥26,730など。",
+        "layer2": "消耗品・小物は『EC最安』で価格がガラス張りになる帯。ここで粗利を削り合うより、整備・フィッティング・チューブレス施工など“工賃と信頼”で客単価を守るのが定石。レーダーやサイコンは店頭で取り付け・使い方までセットにすると、価格比較の土俵から外せる。",
+        "sources": [
+          {
+            "t": "CBN Blog",
+            "u": "https://blog.cbnanashi.net/2026/07/27615",
+            "d": "2026-07-08"
+          },
+          {
+            "t": "FUNQ/Yahoo!ニュース",
+            "u": "https://news.yahoo.co.jp/articles/92ef655266800aa415212cc5bdb611c7fa0b78a7",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝価格（掲載時点）、開催7/10-13"
+      },
+      {
+        "id": "20260711-jp-summer-discount-war",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://ysroad.co.jp/nagoya/wp-content/uploads/2026/07/740x300-1.png",
+        "headline": "【経営メモ】大手の夏セールが同時多発――ワイズSUMMER FAIR（7/4〜8/16）＋あさひ夏セール＋プライムデーの“三重圧”",
+        "layer1": "ワイズロードがSUMMER FAIR 2026（7/4〜8/16、対象スポーツ車・ウェア特価＋無金利ローン＋点検無料）、あさひも夏セール（〜7/26）を展開。そこへプライムデーが重なり、7月は“値引きの同時多発”状態に入った。",
+        "layer2": "在庫潤沢・型落ち2〜3割引の買い手市場が一段深化。個人店が横並び値下げの消耗戦に付き合うと体力を削るだけになる。勝ち筋は『目利き（用途に合った1台を絞る）＋アフター（フィッティング・保証・整備）』と、大手が扱いにくいニッチ（中華カーボンの導入支援・組み替え）に寄せること。",
+        "sources": [
+          {
+            "t": "Y's Road 名古屋（Summer Fair）",
+            "u": "https://ysroad.co.jp/nagoya/2026/07/03/193796",
+            "d": "2026-07-03"
+          },
+          {
+            "t": "サイクルベースあさひ",
+            "u": "https://ec.cb-asahi.co.jp/category/cat2/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%83%90%E3%82%A4%E3%82%AF/%E3%83%AD%E3%83%BC%E3%83%89%E3%83%90%E3%82%A4%E3%82%AF",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝各セール日程（各社告知）"
+      },
+      {
+        "id": "20260711-premium-vs-price-x",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/06/Roadcc-SPECIALIZED-SL9-2-1024x576.png",
+        "headline": "ハイエンドが青天井――ビアンキ€12,900・新ターマックSL9 £11,999、Xでは『誰が買うの』『高すぎ』の声（値上げ論争が再燃）",
+        "layer1": "ツールに合わせた新車が軒並み超高額。ビアンキ限定€12,900、S-Works ターマックSL9は£11,999（約240万円）。Xでは『もはや趣味の域を超える』『高すぎて離れる』という価格論が再燃している。",
+        "layer2": "一方で同じ市場の逆側では、型落ち2〜3割引・中華カーボン$1,359が“史上最安級の買い時”を作っている。つまり二極化――最上位は青天井、実用〜中級はかつてなく安い。初中級には『新車最上位を追わず、型落ち＋良ホイールで賢く組む』提案が刺さる。※Xの“離れ”の規模感は体感ベースで、定量データは要裏取り。",
+        "sources": [
+          {
+            "t": "BikeRadar（SL9）",
+            "u": "https://www.bikeradar.com/news/specialized-tarmac-sl9-2026",
+            "d": "2026-06-30"
+          },
+          {
+            "t": "Bikerumor（ビアンキ）",
+            "u": "https://bikerumor.com/all-new-bianchi-specialissima-rc-is-the-official-bike-of-the-tour-de-france-in-ltd-livery/",
+            "d": "2026-07-07"
+          },
+          {
+            "t": "roadbike-navi（値上げ論）",
+            "u": "https://roadbike-navi.xyz/archives/28332",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝価格（公式）、※Xの声・“離れ”の規模は要裏取り"
+      },
+      {
+        "id": "20260711-beginner-cornering-sprint",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://more-fast.com/wp/wp-content/uploads/2019/11/BAA30970-53F1-4639-AA05-AA888080A9DF.jpeg",
+        "headline": "きょうのベルジュラックは『残り2kmに直角2連続』――初中級が高速コーナーで落車しない4つの基本",
+        "layer1": "平坦スプリントでも勝負を分けるのはコーナー。プロでもガビリアが柵際に詰められて不発になったように、曲がりの精度が結果と安全を大きく左右する。",
+        "layer2": "初中級の要点は4つ。①コーナー手前で“まっすぐなうちに”減速を終える（傾けてからのブレーキはグリップを失い落車の元）②目線は出口へ（肩・腰が自然に向く）③外足荷重（内ペダルを上げ外足を6時に下ろし体重を乗せる）④集団では前走者の後輪をなぞりラインを外さない。速く曲がるより『安全に曲がって立ち上がりで踏む』が結局速い。",
+        "sources": [
+          {
+            "t": "cyclingstage（第8のテクニカル決着）",
+            "u": "https://www.cyclingstage.com/tour-de-france-2026-route/stage-8-tdf-2026/",
+            "d": "2026-07-11"
+          },
+          {
+            "t": "more-fast（コーナリング技術）",
+            "u": "https://more-fast.com/training/road-race/road-cornering-technic/",
+            "d": "2019-11"
+          }
+        ],
+        "status": "確定＝コーナリング基本（技術記事）、news peg＝第8のテクニカル・フィナーレ"
+      }
+    ]
+  },
+  {
     "date": "2026-07-10",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。昨日の第6ステージ、ポガチャルがトゥールマレーで43km独走――ヴィンゲゴーに2分38秒差をつけ黄色を奪回、総合は早くも『2分42秒』のリードです。『もうツールは終わったのか？』論争まで再燃。今日は平坦スプリントの第7ステージ（横風注意）、カンパの最安カーボン『ゾンダ・カーボン』国内投入、そして本日開幕のプライムデーを押さえます。",
     "cards": [
