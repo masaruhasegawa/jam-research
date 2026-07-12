@@ -1,5 +1,276 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-07-13",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ツールはきょう第1休息日――ファンデルポールの『逃げ切り』とピドコックの“下り根性”、そしてあすは革命記念日の女王山岳です。",
+    "cards": [
+      {
+        "id": "20260713-tdf-st9-mvdp",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/JWedU37ZmMkXried3ohCnE.jpg",
+        "headline": "ファンデルポールが猛暑短縮の第9ステージを『逃げ切り』――ラスト1kmを牽きっぱなしで振り切りツール通算3勝目、集団は20秒後方",
+        "layer1": "37℃・レッドアラートで185.5→155.5kmに短縮された山がちの第9ステージ（マルモール→ユセル）。モン・ベスーで逃げ集団を破壊したファンデルポールが、追い上げる集団を約20秒抑えて優勝。2位ヨハンネセン、3位ピドコック。",
+        "layer2": "彼は残り25kmで先頭を4人に絞る動きを自ら作り、最後は逃げを生かすため終盤1kmをほぼ独りで牽引。『本当に苦しかった。一日中向かい風で、逃げには最悪の道。集団のプレッシャーも強かった』。同僚フィリプセンが2度のスプリントで5位止まりの中でのエースの意地＝アルペシン内の“主役交代”を印象づけた一勝。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/racing/mathieu-van-der-poel-wins-chaotic-shortened-tour-de-france-stage-in-the-massif-centrale-as-the-breakaway-survives",
+            "d": "2026-07-12"
+          },
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-de-france-2026-stage-9-mathieu-van-der-poel-shows-philipsen-how-its-done-and-powers-to-breakaway-win-ahead-of-johannessen-and-pidcock",
+            "d": "2026-07-12"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-massive-turn-of-power-nets-mathieu-van-der-poel-stage-9-breakaway-victory-just-ahead-of-bunch-sprint/",
+            "d": "2026-07-12"
+          }
+        ],
+        "status": "確定＝ファンデルポール優勝・2位ヨハンネセン・3位ピドコック・短縮距離（公式／複数媒体一致）"
+      },
+      {
+        "id": "20260713-tdf-rest1-gc-st10",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.cyclingstage.com/images/tour-de-france/2026/stage-10-profile-100.jpg",
+        "headline": "きょう7/13は第1休息日（カンタル）――総合はポガチャル『+2:42』、あす革命記念日の第10ステージは獲得3,900mの“女王山岳”",
+        "layer1": "前半9日間を終え、総合はポガチャルが2位ヴィンゲゴーに2分42秒、3位デルトロ+3:27、4位エヴェネプール+3:30。あす7/14（革命記念日）はオーリヤック→ル・リオラン166.6km・獲得3,900m、ピュイ・マリーなど本格山岳が続く。",
+        "layer2": "ル・リオランの最後40kmは2024年と同一コース＝あの日はヴィンゲゴーがポガチャルを写真判定で下している。ヴィスマにとって『ポガチャルを倒せた記憶』の残る道で、山岳ブロックの初戦を迎える。休息日もプロは完全休養せず軽く回す（脚を固めないため）。ここから第2週の総合決戦が本格化。",
+        "sources": [
+          {
+            "t": "Cyclingnews TDF2026",
+            "u": "https://www.cyclingnews.com/races/tour-de-france-2026/",
+            "d": "2026-07-12"
+          },
+          {
+            "t": "CyclingStage 第10コース",
+            "u": "https://www.cyclingstage.com/tour-de-france-2026-route/stage-10-tdf-2026/",
+            "d": "2026-07"
+          },
+          {
+            "t": "Le Tour 日程",
+            "u": "https://franceletour.com/tour-de-france-2026-schedule/",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝総合上位差・第10コース・休息日7/13（公式／複数媒体）"
+      },
+      {
+        "id": "20260713-tdf-st9-pidcock-unox",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://media.delius-klasing.de/dpr_auto,fl_progressive,f_jpg,c_fill,g_face:center,h_675,w_1200/q_auto:eco/tour/gettyimages-2285184403_40096254e8fc05d995c2b1e8e716e1a4",
+        "headline": "ピドコック、下りでリアメカ故障→『蹴って直して』3位死守――ヨハンネセンはまた2位、あと一歩が続くウノエックス",
+        "layer1": "第9ステージ、ピドコックは最終盤モン・ベスーの下りでリアディレイラーが不調に。数回蹴り込んで復帰し、先頭4人に戻って3位でフィニッシュ。2位はスク・オ・メイ手前から仕掛けたヨハンネセン。",
+        "layer2": "ヨハンネセンはこれで今大会“惜しい上位”が続く（ウノエックスはトレーエンのマイヨジョーヌ童話に続く『あと一歩』の連続）。ピドコックの下り復帰は、山岳で機材トラブルを気合いで走り切るプロの生々しさ＝視聴者の心が動く人間ドラマ。※メカ故障の詳細原因は未公表。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-de-france-2026-stage-9-mathieu-van-der-poel-shows-philipsen-how-its-done-and-powers-to-breakaway-win-ahead-of-johannessen-and-pidcock",
+            "d": "2026-07-12"
+          },
+          {
+            "t": "TOUR Magazin",
+            "u": "https://www.tour-magazin.de/en/professional-cycling/tour-de-france/2026-tour-de-france-stage-9-van-der-poel-wins-a-nail-biting-finish-on-a-shortened-stage/",
+            "d": "2026-07-12"
+          },
+          {
+            "t": "Escape Collective",
+            "u": "https://escapecollective.com/tour-stage-9-van-der-poel-hunts-down-victory-from-the-breakaway/",
+            "d": "2026-07-12"
+          }
+        ],
+        "status": "確定＝順位・ピドコックの下りメカ復帰（複数媒体）／原因の詳細は※要続報"
+      },
+      {
+        "id": "20260713-tdf-green-pedersen",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.cyclingstage.com/images/riders/mads-pedersen-tdf-green-2026.jpg",
+        "headline": "ペデルセンが緑を『+45点』に拡大、ジルマイ2位・メルリエ3位――フィリプセンは191点、今大会まだ未勝利",
+        "layer1": "第9ステージ終了時のポイント賞：ペデルセン268点、ジルマイ223、メルリエ213、フィリプセン191。ペデルセンは中間スプリント等で40点を積み、対ジルマイのリードを45点に広げた。",
+        "layer2": "新配点（スプリンター寄りに改定＝“ポガチャル対策”）が効き、逃げも中間も自在なペデルセンが独走態勢。10勝スプリンターのフィリプセンは5位×2で得点はあるが勝ち星ゼロ＝緑は『勝てなくても点を稼ぐ』型に傾いている。",
+        "sources": [
+          {
+            "t": "CyclingStage ポイント賞",
+            "u": "https://www.cyclingstage.com/tour-de-france-2026-points-classification/stage-9-green-jersey-tdf-2026/",
+            "d": "2026-07-12"
+          },
+          {
+            "t": "ProCyclingUK",
+            "u": "https://procyclinguk.com/gc-and-jerseys-after-tour-de-france-2026-stage-8-pogacar-steady-merlier-drags-green-jersey-fight-closer/",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝ポイント数（cyclingstage集計・第9終了時）"
+      },
+      {
+        "id": "20260713-trend-heat-shorten-morning",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/PFS7LrxdBovbS4tAfg6gGR-1362-80.png",
+        "headline": "猛暑で第9ステージ『30km短縮』が現実に――“いっそ午前開催に”論が再燃、休息日は選手に恵みの一日",
+        "layer1": "レッドアラート・37℃前後の暑熱で第9ステージは185.5→155.5kmに短縮。今大会は暑熱プロトコル（WBGT基準）が繰り返し発動し、コース短縮が“異例”から“想定内”へ変わりつつある。",
+        "layer2": "背景に、バルセロナの研究チームがツール50年分を分析し『午後開催は危険水域、現行の暑熱対策は限界に近い』と警告（Scientific Reports）。将来の“午前スタート”案も議論に上がる。きょうの第1休息日は、垂れかけた選手たちに回復の猶予を与える貴重な一日。※午前開催はあくまで議論段階で確定策ではない。",
+        "sources": [
+          {
+            "t": "Cyclingnews 第9プレビュー",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-2026-stage-9-preview/",
+            "d": "2026-07-12"
+          },
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/racing/mathieu-van-der-poel-wins-chaotic-shortened-tour-de-france-stage-in-the-massif-centrale-as-the-breakaway-survives",
+            "d": "2026-07-12"
+          },
+          {
+            "t": "ロードバイクはやめられない（研究紹介）",
+            "u": "https://chan-bike.com/future-tours-de-france-will-be-held-in-the-morning",
+            "d": "2026-02"
+          }
+        ],
+        "status": "確定＝短縮距離・暑熱条件（公式／媒体）／午前開催は“議論段階”＝※確定策ではない"
+      },
+      {
+        "id": "20260713-market-primeday-lastday",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://media.wired.jp/photos/6693bd567080af67492d2a5e/master/w_2560%2Cc_limit/GettyImages-1442486410.jpg",
+        "headline": "【経営メモ】Amazonプライムデー、本日7/13が最終日23:59まで――『ECの底値』はここで一区切り、あすから反動",
+        "layer1": "7/10〜13の本セールが今夜終了。ロード用の消耗品・小物（電動ポンプ・後方レーダー・タイヤ・ライト等）は今週が“年内でも屈指の実売安”。買い逃しの客にはこの数時間が最後のタイミング。",
+        "layer2": "経営目線では、セール明けはEC需要が一時的に反動減→実店舗の来店も鈍る週になりやすい。粗利をセール品で削らず、整備・フィッティング・アフターで確保する設計を。客には『大物（完成車・ホイール）は焦って“セール価格”に飛びつくより、状態と適合を見て』と伝える方が、結局リピートに効く。",
+        "sources": [
+          {
+            "t": "WIRED.jp プライムデー攻略",
+            "u": "https://wired.jp/article/amazon-prime-day-best-deal-how-to-3/",
+            "d": "2026-07-10"
+          },
+          {
+            "t": "flick! Amazonセール2026",
+            "u": "https://www.funq.jp/?p=1067272",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝会期7/10〜13・23:59終了（複数媒体）／個別価格は在庫で変動"
+      },
+      {
+        "id": "20260713-market-obon-service",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/06/ultimatebike08_2.jpg",
+        "headline": "【経営メモ】プライムデー明けは“お盆ロングライド商戦”へ――値引き競争から降りて『点検・整備・熱中症対策品』で稼ぐ",
+        "layer1": "今夜でプライムデーが終わり、EC値引きの波は一段落。次に来るのはお盆の連休＝ロングライド・遠征需要。ここは“安売り”より“準備”にお金が動く局面に変わる。",
+        "layer2": "具体策は3つ：①長距離前点検（ブレーキ・チューブレスのシーラント補充・チェーン）を前面に②猛暑対策の実売（ボトル増設・保冷・電解質）③中華・並行完成車ユーザーの“かかりつけ”囲い込み。大手の夏セール（ワイズSUMMER FAIR〜8/16、あさひ）が価格で来る中、個人店は『炎天下でも安全に長く走らせる整備力』で差別化＝値引きで削れない粗利をここで取り戻す。",
+        "sources": [
+          {
+            "t": "WIRED.jp プライムデー攻略",
+            "u": "https://wired.jp/article/amazon-prime-day-best-deal-how-to-3/",
+            "d": "2026-07-10"
+          },
+          {
+            "t": "サイクルスポーツ",
+            "u": "https://www.cyclesports.jp/news/others/162639/",
+            "d": "2026-06"
+          }
+        ],
+        "status": "確定＝プライムデー会期・大手夏セール期間／お盆のロングライド需要は毎年の傾向（一般論）"
+      },
+      {
+        "id": "20260713-beginner-first-carbon-wheel-sale",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C163.jpg",
+        "headline": "この夏セールで『初カーボンホイール』を買うべき？――中華 vs 国内大手、初中級が後悔しない見極め3点",
+        "layer1": "プライムデーや夏セールでホイールも値下げ。初めてのカーボンホイールを狙う初中級には好機だが、『安さ』だけで選ぶと後悔しがち。見るべきポイントを整理する。",
+        "layer2": "①リム内幅と対応タイヤ幅：今は25〜30c前提の“ワイド”が主流。フックレスなら指定空気圧を厳守（超えると外れる恐れ）②ハブとスポーク：カーボンスポークは軽いが、まずは信頼できるハブ＝振れ取り・玉当たり調整ができる個体を③保証とアフター：中華直販は安いが、振れ・スポーク折れ時に“診てくれる店”があるか。結論＝初本は『深すぎない35〜45mm・チューブレス対応・国内で面倒を見られる個体』が無難。中華でも代理店・実店舗サポートがあれば十分“あり”。",
+        "sources": [
+          {
+            "t": "bike-memo 中華カーボンホイール",
+            "u": "https://bike-memo.com/cycle_260202_carbon-wheels/",
+            "d": "2026-02"
+          },
+          {
+            "t": "Cycling Weekly Best wheels 2026",
+            "u": "https://www.cyclingweekly.com/news/product-news/best-road-bike-wheels-231704",
+            "d": "2026-06"
+          }
+        ],
+        "status": "確定＝選び方の一般原則／個別ブランドの優劣は用途で変わる＝断定しない"
+      },
+      {
+        "id": "20260713-xbuzz-pogacar-descent",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/07/sprintcyclingagency_9194843_1_2000px.jpg",
+        "headline": "【Xで話題】ポガチャル『下りで化物』論が再燃――日本のローディーが爆速ダウンヒルに熱狂、第9では下りが明暗を分ける",
+        "layer1": "第6ステージでポガチャルがトゥールマレーから43km独走→総合首位奪還。日本のX／リアルタイム検索では『化物』『異次元』と“下りの速さ”が話題に。第9ステージでは逆に、ピドコックが下りのメカ故障を“蹴って”しのぐ場面もあり、山岳での下り技術が注目を集めている。",
+        "layer2": "裏取り：43km独走・2分38秒差は公式記録（確定）。一方“下り107km/h超”などの具体速度はSNS発の数値で、公式計測ではない＝※要裏取り。確かなのは、ポガチャルの下りが総合を作った事実と、この山塊では『登りだけでなく下りの技術』が明暗を分けていること。",
+        "sources": [
+          {
+            "t": "cyclowired 第6ステージ",
+            "u": "https://www.cyclowired.jp/news/node/392870",
+            "d": "2026-07-09"
+          },
+          {
+            "t": "Bicycle Club",
+            "u": "https://www.funq.jp/bicycle-club/article/1076900/",
+            "d": "2026-07-10"
+          },
+          {
+            "t": "Yahoo!リアルタイム検索 まとめ",
+            "u": "https://search.yahoo.co.jp/realtime/search/matome/103e04b0e47b49d4be4300cffff5c19e-1783608600",
+            "d": "2026-07-09"
+          }
+        ],
+        "status": "曖昧＝“107km/h”はX発・未確認（※要裏取り）／独走43km・2:38差は確定"
+      },
+      {
+        "id": "20260713-parts-orbea-orca-aero",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/ZkrrLmvYYvebuQCnzh4oim-1624-80.jpg",
+        "headline": "新オルベア・オルカエアロがツール投入――『21W速く・37mmまで太タイヤOK』、エアロ車が山も攻める時代",
+        "layer1": "オルベアがオルカエアロを刷新し、ロット・インテルマルシェがツールで実戦投入。旧型比21W高速化、フレーム約250g減、そしてプロトンで最も広い37mmのタイヤクリアランスを実現した。",
+        "layer2": "狙いは『エアロ車で山岳も戦える』1台化。BB下がりを78mmに深めて低く安定させ、太タイヤ容認で悪路・快適性も確保。高級機は7.0kg級（Dura-Ace）〜6.9kg（SRAM Red）、価格は£5,000〜10,000。エアロと軽量の“二刀流”が新スタンダードへ向かう流れ＝うちのカーボンでも『太タイヤ×エアロ』を意識した提案が効いてくる。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/products/orbea-orca-aero-gets-a-major-overhaul-to-make-it-faster-and-more-competitive-in-the-mountains-just-in-time-for-the-tour-de-france",
+            "d": "2026-07-02"
+          },
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/2026-orbea-orca-aero",
+            "d": "2026-07-02"
+          }
+        ],
+        "status": "確定＝スペック・21W・37mmクリアランス（公称／媒体）／実測レビューは今後"
+      }
+    ]
+  },
+  {
     "date": "2026-07-12",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ツールはついに猛暑で第9ステージを30km短縮――40℃レッドアラートの逃げ屋日曜です。フィリプセンの『異変』とレッドブルの亀裂、国内はプライムデー最終盤まで。",
     "cards": [
