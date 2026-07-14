@@ -1,5 +1,255 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-07-15",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。ツールは第2週へ――ポガチャルの独走で総合は『+3分36秒』、でも本当の見どころは2位争いに移りました。きょうは平坦スプリントの一日、店頭はお盆に向けて仕込みどころです。",
+    "cards": [
+      {
+        "id": "20260715-tdf-st10-pogacar",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/LG6KEcmdvEyCusy9BrkMKB-2100-80.jpg",
+        "headline": "革命記念日もポガチャル――マシフ・サントラルで独走、ツール通算24勝目で総合リード『+3分36秒』に拡大",
+        "layer1": "第10ステージ（オーリヤック→ル・リオラン166.6km・獲得3,900m）は、7つの山を越えた終盤にポガチャルがコル・デュ・ペルテュスでアタック。単独で逃げ切り、7月14日に今大会3勝目・ツール通算24勝目を挙げた。",
+        "layer2": "2位はエヴェネプール『32秒差』、3位に19歳セイシャス。ヴィンゲゴーはこの日さらに約44秒を失い、総合リードは前日の+2:42から『+3分36秒』へ。勝負の行方は事実上ほぼ決した空気だが、王者本人も『レースはまだ終わっていない』と気を緩めない。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ステージレポート）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-tadej-pogacar-shreds-challengers-with-solo-climbing-charge-on-stage-10-and-adds-more-time-to-his-advantage-with-victory/",
+            "d": "2026-07-14"
+          },
+          {
+            "t": "Cyclingnews（総合順位）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-gc-standings-2026/",
+            "d": "2026-07-14"
+          }
+        ],
+        "status": "確定＝勝者ポガチャル・GCリード+3:36。数値は主要メディア一致。"
+      },
+      {
+        "id": "20260715-tdf-st11-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/06/stage-11.jpg?width=1200",
+        "headline": "きょう第11ステージはヴィシー→ヌヴェール161.3km――山を生き延びたスプリンターの『純粋な平坦決戦』",
+        "layer1": "7月15日の第11ステージは、ほぼフラットな161.3km。4級の小さな登り2つだけで、逃げは決まりにくく、過去3度のヌヴェール決着はすべて集団スプリント。順当なら今大会4度目の集団ゴールになる。",
+        "layer2": "本命はメルリエ（ボルドー＆ベルジュラックを連勝）、対抗にポー勝者コーイ、堅実なジルマイ。10勝スプリンターのフィリプセンは今大会まだ未勝利で、最終キロの隊列が課題。ペデルセンは第10の中間スプリントでも25点を加点し、緑ジャージのリードを厚くしている。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（第11ステージ・プレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-stage-11-preview-profiles-favourites-and-predictions-the-sprinters-return-to-the-spotlight-in-central-france",
+            "d": "2026-07-14"
+          },
+          {
+            "t": "Velo（ステージ11プレビュー）",
+            "u": "https://velo.outsideonline.com/tour-de-france/tour-de-france-2026-stage-previews/stage-11",
+            "d": "2026-07-14"
+          }
+        ],
+        "status": "確定＝コース・本命。結果は本日夕方に判明。"
+      },
+      {
+        "id": "20260715-tdf-pidcock-crash",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/ZoLW7qSgCBQNPWGqwciqUN-2560-80.jpg",
+        "headline": "『白い路面』で滑った――ピドコックとハーパーがピュイ・マリーの下りで落車、ヨルゲンソンも巻き込まれた危険な一日",
+        "layer1": "第10ステージ終盤、パ・ド・ペロルからの下りでピドコック（Q36.5）が路面に散布された白い塗料／チョーク状の粉に乗って横滑りし、駐車中の車の脇に転倒。チームメイトのハーパー、ヴィスマのヨルゲンソンも同じ区間で落車した。",
+        "layer2": "ピドコックは数秒で復帰しほぼ無傷、『そろそろ運が味方してくれてもいい』とコメント。ハーパーは重い転倒ながら83位で完走し、3人とも今回はリタイアせず。原因とされる路面の白い塗装／粉は乾いていても滑る――速度の乗る下りコーナーの伏兵として、今後も議論を呼びそう。",
+        "sources": [
+          {
+            "t": "Cyclingnews（落車詳報）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/tom-pidcock-and-matteo-jorgenson-crash-on-tour-de-france-descent/",
+            "d": "2026-07-14"
+          },
+          {
+            "t": "Cycling Weekly（ピドコックの談話）",
+            "u": "https://www.cyclingweekly.com/racing/tour-de-france/some-luck-should-be-on-my-side-tom-pidcock-unscathed-after-tour-de-france-stage-10-crash",
+            "d": "2026-07-14"
+          }
+        ],
+        "status": "確定＝落車・無傷・リタイアなし。路面原因は『白い塗装／粉』とされるが断定は保留。"
+      },
+      {
+        "id": "20260715-tdf-second-place-battle",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/tfbYcwjhTC83Nw6gzntYoZ-2560-80.jpg",
+        "headline": "【Xでも『もう終戦』の声】でも本当の見どころは2位争い――ヴィスマは『勝ちに来ている』と徹底抗戦を宣言",
+        "layer1": "ポガチャルの独走で『総合はもう決まり』というムードがSNSでも広がる。だが総合2〜4位は僅差で、若きデル・トロが第10で失速して3位から7位に転落・ヤングライダー賞も明け渡すなど、表彰台争いはむしろ過熱している。",
+        "layer2": "裏取り：総合3位エヴェネプールはヴィンゲゴー（2位）のわずか30秒差、4位アユソは+4:22。首位から大きく離れても、ヴィスマは『我々は勝ちに来ている、最後まで戦う』と明言し、山岳が集中する最終週での逆襲を諦めていない。X発の『終戦論』は入口として拾いつつ、勝負の実像は“2位以下の肉弾戦”にある。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（総合順位アップデート）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-classifications-update-stage-10-pogacar-extends-race-lead-vingegaard-loses-time-to-evenepoel-del-toro-cracks",
+            "d": "2026-07-14"
+          },
+          {
+            "t": "Cycling Weekly（ヴィスマの決意）",
+            "u": "https://www.cyclingweekly.com/racing/tour-de-france/we-are-here-to-win-jonas-vingegaard-and-visma-lease-a-bike-vow-to-fight-on-despite-losing-more-time-to-tadej-pogacar-at-tour-de-france",
+            "d": "2026-07-14"
+          }
+        ],
+        "status": "確定＝2〜4位の僅差・デル・トロ失速。『Xで話題』は入口、順位差は主要メディアで裏取り済み。"
+      },
+      {
+        "id": "20260715-tour-aero-70w",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://media.delius-klasing.de/dpr_auto,fl_progressive,f_jpg,c_fill,g_face:center,h_675,w_1200/q_auto:eco/tour/gettyimages-2284751753_4306f31f1fc2492059a64d7056cf9966",
+        "headline": "『45km/hで昔より70W少ない』――独TOURのテック検証が示す、山岳日でも効くエアロ進化",
+        "layer1": "独TOUR誌の第10ステージ・テックブリーフィングが、現代のレースバイク＋選手を風洞計測。『45km/hで走るのに、かつてより70W少ない出力で足りる』とし、空力の進歩を数値化した。",
+        "layer2": "獲得3,900mの山岳日ですら空力が効くのがポイント。実際トゥールマレーではヴィンゲゴーが“登りより下り”で時間を失った＝高速域=空力が明暗を分けた。『山だからエアロは要らない』はもう過去で、太タイヤ・整流ポジション・エアロフレームの合わせ技が、登坂日でもタイム差を生む。",
+        "sources": [
+          {
+            "t": "TOUR Magazin（Tech Briefing St.10）",
+            "u": "https://www.tour-magazin.de/en/professional-cycling/latest-news/45-km-h-using-70-watts-less-than-before-tour-tech-briefing-stage-10-of-the-2026-tour-de-france/",
+            "d": "2026-07-14"
+          }
+        ],
+        "status": "確定＝70Wは風洞ベースの試算値（実走の絶対値ではなく比較指標）。"
+      },
+      {
+        "id": "20260715-cervelo-soloist",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://bikebiz.com/wp-content/uploads/R0011979-1024x683.jpg",
+        "headline": "サーヴェロが新型『ソロイスト』を発表――軽量化＋エアロ改善、最上位モデルはUCI下限ぴったり6.85kg",
+        "layer1": "サーヴェロが7月13日、オールラウンド『ソロイスト』をフルモデルチェンジ。旧型より軽く・より空力的とし、全完成車にカーボンホイール／パワーメーター／一体コックピットを標準装備。最上位ソロイストRed AXSは実測6.85kgでUCIの重量下限に到達。",
+        "layer2": "『軽さ』と『エアロ』を1台に両立させる潮流の最新形。ハイエンドは“最軽量×最速”を同時に追う一方、価格はさらに上へ向かう。マサル的な着地：完成車で6.85kg・整った空力を舶来新型で買うと総額は跳ね上がる――同じ軽さ・剛性を狙うなら、中華カーボンフレーム＋自社ホイールで“数字は近く・価格は数分の一”という提案が刺さる余地は大きい。",
+        "sources": [
+          {
+            "t": "BikeBiz（ソロイスト発表）",
+            "u": "https://bikebiz.com/cervelo-launches-new-soloist-road-bike-with-lighter-frame-aero-gains-and-race-ready-builds/",
+            "d": "2026-07-13"
+          }
+        ],
+        "status": "確定＝発表日・6.85kg・標準装備。価格帯の詳細は要確認。"
+      },
+      {
+        "id": "20260715-market-obon",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://blog.cbnanashi.net/wp-content/uploads/2026/07/t-6.jpg",
+        "headline": "【経営メモ】プライムデー明けの『反動減の谷』を抜けたら、次はお盆ロングライド商戦――勝ち筋は値引きでなく点検・熱中症品",
+        "layer1": "7月13日で終わったプライムデーの底値は一巡し、ECは一時的な反動減の局面。国内ブログでは終了後も『買い忘れ・型落ち特価』のまとめ記事がPVを集め、消耗品の需要そのものは途切れていない。",
+        "layer2": "先回り：ここから8月中旬のお盆にかけては“乗る人が増える”連休需要。値引き競争から降り、①出発前の点検整備（タイヤ・ブレーキ・チェーン）②熱中症対策品（ボトル・保冷・経口補水・アイス系ギア）で粗利を作る局面。EC最安と真正面で戦わず、『すぐ乗り出せる状態にする』サービスで来店動機を握る。",
+        "sources": [
+          {
+            "t": "CBN Blog（プライムデー終盤の買い得まとめ）",
+            "u": "https://blog.cbnanashi.net/2026/07/27653",
+            "d": "2026-07-12"
+          }
+        ],
+        "status": "確定＝プライムデー7/13終了。お盆商戦は例年の連休需要に基づく先回り。"
+      },
+      {
+        "id": "20260715-market-highend-rush",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://www.bikeradar.com/resources/content/32337f2f-7841-4ef6-a233-d1f001580530/f8b9d18d-2fc5-479b-8533-aa65a388e4b8/e8b143c0-3395-4ea1-991b-00d92e560608/Bianchi-Specialissima-2026-3-scaled.jpg?preview=false&platform=WEB&deviceId=af8185b9-12c3-4c59-97e5-0df537bf2e56&w=1200",
+        "headline": "【経営メモ・市場情報】ツール期の舶来ハイエンド新型ラッシュ×円安＝『定価は上へ』――個人店の武器は目利き＋アフター",
+        "layer1": "ツールに合わせ舶来ハイエンドの新型が連発（サーヴェロ新ソロイストは7/13発表・6.85kg、ビアンキは“史上最軽量”の新スペシャリッシマ）。話題性は高いが、円安下では舶来完成車の定価はさらに上へ振れる。",
+        "layer2": "経営に効く読み：新型は“憧れの旗艦”として集客に使いつつ、実売は『同等の軽さ・剛性を中華カーボン＋自社ホイールで数分の一』という現実解に落とすのが勝ち筋。舶来の値上げ局面ほど、店の価値は“どれを選ぶべきか”の目利きと、組み・フィッティング・アフターに宿る。数字（軽さ・実測）で語れる店が選ばれる。",
+        "sources": [
+          {
+            "t": "BikeBiz（サーヴェロ新ソロイスト）",
+            "u": "https://bikebiz.com/cervelo-launches-new-soloist-road-bike-with-lighter-frame-aero-gains-and-race-ready-builds/",
+            "d": "2026-07-13"
+          },
+          {
+            "t": "BikeRadar（ビアンキ新スペシャリッシマ）",
+            "u": "https://www.bikeradar.com/news/2026-bianchi-specialissima",
+            "d": "2026-06-16"
+          }
+        ],
+        "status": "確定＝新型発表と重量。円安・値上げ傾向は継続的な市場観察に基づく。"
+      },
+      {
+        "id": "20260715-beginner-heat-supply",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://journal.buychari.com/wp-content/uploads/2025/07/%E9%85%B7%E6%9A%91%E3%80%81%E6%B0%B4%E3%81%AF%E4%BD%95%E6%9C%AC%E5%BF%85%E8%A6%81%E3%81%AA%E3%81%AE%EF%BC%9F-3.png",
+        "headline": "プロが40℃で戦う夏、初中級はまず『水と塩を同時に・20分おき』――お盆ロングライド前に固めたい補給の順序",
+        "layer1": "ツールの選手が猛暑でボトルを大量消費するのと同じで、この夏の日本のロングライドも“補給の設計”が最優先。基本は『20分おきに少量ずつ』、汗が多い日はスポーツドリンク／経口補水で塩分も一緒に摂る。",
+        "layer2": "先回り：真水だけを一気飲みするのは逆に危険（低ナトリウム血症のリスク）。ボトル2本のうち1本は電解質入りにし、早朝・夕方の涼しい時間帯を選ぶ、日陰ルートを組む、異変を感じたら止まる勇気を持つ――この順で守れば“垂れない・倒れない”。お盆で乗る距離が延びる前に、補給リズムを体に入れておきたい。",
+        "sources": [
+          {
+            "t": "BUYCHARI Journal（酷暑ライドの暑さ対策）",
+            "u": "https://journal.buychari.com/extreme-heat-cycling-tips/",
+            "d": "2026-07"
+          },
+          {
+            "t": "まもるくん（ロードで熱中症を防ぐ）",
+            "u": "https://www.mamoru-k.com/contents/work-heat-stroke-roadbike",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝補給の基本。数値目安は一般的ガイドラインに基づく。"
+      },
+      {
+        "id": "20260715-beginner-slippery-paint",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/ZoLW7qSgCBQNPWGqwciqUN-2560-80.jpg",
+        "headline": "プロでも滑った『白線・塗装・散布された粉』――乾いていても滑る路面を、初中級が下りで避ける4つの基本",
+        "layer1": "第10ステージでピドコックらが滑った原因は、路面の白い塗装／粉。雨だけでなく、横断歩道・矢印・センターラインなどのペイントや砂・粉は、乾いていてもタイヤのグリップを一気に奪う。",
+        "layer2": "先回り：①下りコーナーは“白いもの・光る舗装”の上でブレーキ／倒し込みをしない（手前で減速を終える）②コーナー出口を見て早めに視線を送る③マンホール・白線・落ち葉はまたがず、直立に近い姿勢で通過④太めのチューブレスを適正空気圧で使い接地を稼ぐ。プロが転ぶ路面は、公道の私たちにこそ牙をむく。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ピドコック落車＝白い路面）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/tom-pidcock-and-matteo-jorgenson-crash-on-tour-de-france-descent/",
+            "d": "2026-07-14"
+          }
+        ],
+        "status": "確定＝落車事例。回避の要点は一般的なコーナリング安全に基づく。"
+      },
+      {
+        "id": "20260715-beginner-china-carbon-pick",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C163.jpg",
+        "headline": "『価格の底』が続く夏こそ、初めての中華カーボンホイールの選び方3点――安さの奥にある“設計と検品”を見る",
+        "layer1": "中華カーボンは大手の1/3〜1/2の価格帯まで下がり、重量・剛性・空力も実用十分の水準に到達。夏のセール期は“買い時”に見えるが、初中級が飛びつく前に確認したい基本がある。",
+        "layer2": "先回り・見極め3点：①用途に合うリム高（登り主体なら35〜45mm、平地・巡航なら50mm前後）②フックレス対応タイヤと適正空気圧（“120psiは死んだ”＝太幅・低圧が現代標準）③保証・国内サポート・実測値の開示があるか。海外通販は輸入消費税・通関費も加算される点に注意。安さの裏で“誰が設計し・どう検品したか”が分かるブランド（うちの8LIEN／CRW／FARSPORTS等の実測開示）を選べば、初めての一本で失敗しにくい。",
+        "sources": [
+          {
+            "t": "bike-memo（2026中華カーボンおすすめ）",
+            "u": "https://bike-memo.com/cycle_260202_carbon-wheels/",
+            "d": "2026-02"
+          },
+          {
+            "t": "ICAN Japan（中華カーボン購入ガイド）",
+            "u": "https://icanjp.com/blogs/news/chinese-carbon-wheels",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝選び方の基本。普遍テーマだが、夏の“価格の底”を機に再整理。"
+      }
+    ]
+  },
+  {
     "date": "2026-07-14",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。きょう7/14は革命記念日――女王山岳ル・リオランで『2024年再戦』（ヴィンゲゴー対ポガチャル）、フランス29人の意地、そして「13速時代」の足音まで。",
     "cards": [

@@ -1,154 +1,145 @@
 {
-  "date": "2026-07-14",
-  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。きょう7/14は革命記念日――女王山岳ル・リオランで『2024年再戦』（ヴィンゲゴー対ポガチャル）、フランス29人の意地、そして「13速時代」の足音まで。",
+  "date": "2026-07-15",
+  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。ツールは第2週へ――ポガチャルの独走で総合は『+3分36秒』、でも本当の見どころは2位争いに移りました。きょうは平坦スプリントの一日、店頭はお盆に向けて仕込みどころです。",
   "cards": [
     {
-      "id": "20260714-tdf-st10-bastille",
+      "id": "20260715-tdf-st10-pogacar",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": true,
-      "image": "https://biketips.com/wp-content/uploads/2026/07/tour-de-france-2026-stage-10-le-lioran-bastille-day.jpg",
-      "headline": "きょう7/14は革命記念日の第10ステージ――オーリヤック→ル・リオラン166.6km・カテゴリ山7つ×獲得約3,900m、勝負どころは『残り14.5km』のコル・デュ・ペルテュス",
-      "layer1": "第1休息日明け、Bastille Dayに山岳が戻る。マシフ・サントラルを166.6km・獲得約3,900m、カテゴリ山7つ。頂上ゴールではないが、最後の難所コル・デュ・ペルテュス（4.4km・平均8.5%）の頂が残り14.5kmに置かれ、『仕掛けどころ』が明確な一日。",
-      "layer2": "深掘り＝コースは『逃げが決まりやすい起伏』と『GCが動きうる終盤』の二層構造。中盤のピュイ・マリー（パ・ド・ペロル、7.8km・6%）で隊列が絞られ、1975年以来復活のコル・ド・グリフール（不規則な勾配）がリズムを壊す。ペルテュス→フォン・ド・セールと続く終盤は『逃げを潰しにGCが出る』には理想的。ポガチャル陣営が容認するか、ヴィスマが仕掛けるかで様相が一変。※ステージ結果が出るのは日本時間の今夜。",
+      "image": "https://cdn.mos.cms.futurecdn.net/LG6KEcmdvEyCusy9BrkMKB-2100-80.jpg",
+      "headline": "革命記念日もポガチャル――マシフ・サントラルで独走、ツール通算24勝目で総合リード『+3分36秒』に拡大",
+      "layer1": "第10ステージ（オーリヤック→ル・リオラン166.6km・獲得3,900m）は、7つの山を越えた終盤にポガチャルがコル・デュ・ペルテュスでアタック。単独で逃げ切り、7月14日に今大会3勝目・ツール通算24勝目を挙げた。",
+      "layer2": "2位はエヴェネプール『32秒差』、3位に19歳セイシャス。ヴィンゲゴーはこの日さらに約44秒を失い、総合リードは前日の+2:42から『+3分36秒』へ。勝負の行方は事実上ほぼ決した空気だが、王者本人も『レースはまだ終わっていない』と気を緩めない。",
       "sources": [
-        { "t": "biketips 第10プレビュー", "u": "https://biketips.com/tour-de-france-2026-stage-10-le-lioran-preview/", "d": "2026-07-13" },
-        { "t": "franceletour Stage10", "u": "https://franceletour.com/tour-de-france-2026-stage-10/", "d": "2026-07" },
-        { "t": "CyclingStage 第10コース", "u": "https://www.cyclingstage.com/tour-de-france-2026-route/stage-10-tdf-2026/", "d": "2026-07" }
+        { "t": "Cyclingnews（ステージレポート）", "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-tadej-pogacar-shreds-challengers-with-solo-climbing-charge-on-stage-10-and-adds-more-time-to-his-advantage-with-victory/", "d": "2026-07-14" },
+        { "t": "Cyclingnews（総合順位）", "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-gc-standings-2026/", "d": "2026-07-14" }
       ],
-      "status": "確定＝距離166.6km・獲得約3,900m・ペルテュス4.4km/8.5%・残り14.5km（複数媒体）／結果は本日夜＝未確定"
+      "status": "確定＝勝者ポガチャル・GCリード+3:36。数値は主要メディア一致。"
     },
     {
-      "id": "20260714-tdf-bastille-french-drama",
+      "id": "20260715-tdf-st11-preview",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/07/watermarks-logo-AFP__20260712__B9YL7H7__v1__MidRes__CyclingTdf2026Stage9.jpg@webp",
-      "headline": "フランス29人が狙う『7月14日の英雄』――現役で最後にこの日勝ったのはバルギル（2017）、モンクティエは『勝った日付だけは暗記している』",
-      "layer1": "出走を続けるフランス勢29人にとって、Bastille Dayのステージ勝利は『一夜で伝説』になる特別な一日。現役でこの日に勝った経験があるのはワレン・バルギル（2017年）ただ一人。逃げ向きのきょうは、フランス勢が朝から先頭を争う。",
-      "layer2": "深掘り＝なぜ特別か。2005年のBastille Day勝者ダヴィド・モンクティエは『普段は自分の勝った日付など覚えていないのに、あの一勝だけは暗記している』。バルギルも『国の祝日。フランス人にとって特別で、他の日とは違う』。この「感情の濃さ」が、勝ち目の薄い選手まで序盤の逃げに全力を注がせる＝視聴者の心が動く人間ドラマの源泉。",
+      "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/06/stage-11.jpg?width=1200",
+      "headline": "きょう第11ステージはヴィシー→ヌヴェール161.3km――山を生き延びたスプリンターの『純粋な平坦決戦』",
+      "layer1": "7月15日の第11ステージは、ほぼフラットな161.3km。4級の小さな登り2つだけで、逃げは決まりにくく、過去3度のヌヴェール決着はすべて集団スプリント。順当なら今大会4度目の集団ゴールになる。",
+      "layer2": "本命はメルリエ（ボルドー＆ベルジュラックを連勝）、対抗にポー勝者コーイ、堅実なジルマイ。10勝スプリンターのフィリプセンは今大会まだ未勝利で、最終キロの隊列が課題。ペデルセンは第10の中間スプリントでも25点を加点し、緑ジャージのリードを厚くしている。",
       "sources": [
-        { "t": "The Local France", "u": "https://www.thelocal.fr/20260713/french-frenzy-expected-on-bastille-day-tour-de-france-stage", "d": "2026-07-13" },
-        { "t": "franceletour Stage10", "u": "https://franceletour.com/tour-de-france-2026-stage-10/", "d": "2026-07" }
+        { "t": "CyclingUpToDate（第11ステージ・プレビュー）", "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-stage-11-preview-profiles-favourites-and-predictions-the-sprinters-return-to-the-spotlight-in-central-france", "d": "2026-07-14" },
+        { "t": "Velo（ステージ11プレビュー）", "u": "https://velo.outsideonline.com/tour-de-france/tour-de-france-2026-stage-previews/stage-11", "d": "2026-07-14" }
       ],
-      "status": "確定＝フランス勢29人・バルギル2017が現役唯一のBastille勝者・モンクティエ2005の証言（The Local）"
+      "status": "確定＝コース・本命。結果は本日夕方に判明。"
     },
     {
-      "id": "20260714-tdf-vingegaard-lelioran",
+      "id": "20260715-tdf-pidcock-crash",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/JQQJAizYSEtJN542d3R4sA-2100-80.jpg",
-      "headline": "ヴィンゲゴー、山岳賞ジャージで臨む『ル・リオランの再戦』――2024年はここで写真判定でポガチャルを下した、GC決着は最終週のアルプ・デュエズ2連登",
-      "layer1": "総合はポガチャルがヴィンゲゴーに2分42秒、デルトロが3位。だが今日のル・リオランは、2024年にヴィンゲゴーがポガチャルのソロ攻撃を追い詰め、写真判定で競り勝った『因縁の地』。マイヨジョーヌ争いの2番手が、山岳賞（水玉）ジャージを着てここに戻ってきた。",
-      "layer2": "深掘り＝ヴィスマの狙いは『今日一気に』ではない。今大会の総獲得は54,450m、うち第19・20ステージだけで約9,000m（第20単独で5,450m）、終盤にアルプ・デュエズ2連登（7/24-25）が控える。関係者は『差がつくのは最終盤の山』と明言＝今日は削るより『脚を見せて心理戦を作る』日。2:42は『一日で失った差は一日で取り戻せる差』でもある。",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZoLW7qSgCBQNPWGqwciqUN-2560-80.jpg",
+      "headline": "『白い路面』で滑った――ピドコックとハーパーがピュイ・マリーの下りで落車、ヨルゲンソンも巻き込まれた危険な一日",
+      "layer1": "第10ステージ終盤、パ・ド・ペロルからの下りでピドコック（Q36.5）が路面に散布された白い塗料／チョーク状の粉に乗って横滑りし、駐車中の車の脇に転倒。チームメイトのハーパー、ヴィスマのヨルゲンソンも同じ区間で落車した。",
+      "layer2": "ピドコックは数秒で復帰しほぼ無傷、『そろそろ運が味方してくれてもいい』とコメント。ハーパーは重い転倒ながら83位で完走し、3人とも今回はリタイアせず。原因とされる路面の白い塗装／粉は乾いていても滑る――速度の乗る下りコーナーの伏兵として、今後も議論を呼びそう。",
       "sources": [
-        { "t": "Cyclingnews（ヴィスマ分析）", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/he-lost-it-on-one-day-he-can-turn-it-around-on-one-day-what-now-for-jonas-vingegaard-and-visma-after-ending-tour-de-france-first-week-with-2-42-deficit-to-pogacar/", "d": "2026-07-13" },
-        { "t": "ProCyclingUK 第10プレビュー", "u": "https://procyclinguk.com/tour-de-france-2026-stage-10-preview-le-lioran-brings-the-race-back-to-the-mountains-after-the-rest-day/", "d": "2026-07" },
-        { "t": "CyclingUpToDate 順位", "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-classifications-update-stage-9-mads-pedersen-extends-green-jersey-lead-as-tadej-pogacar-remains-untouched-in-yellow", "d": "2026-07-12" }
+        { "t": "Cyclingnews（落車詳報）", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/tom-pidcock-and-matteo-jorgenson-crash-on-tour-de-france-descent/", "d": "2026-07-14" },
+        { "t": "Cycling Weekly（ピドコックの談話）", "u": "https://www.cyclingweekly.com/racing/tour-de-france/some-luck-should-be-on-my-side-tom-pidcock-unscathed-after-tour-de-france-stage-10-crash", "d": "2026-07-14" }
       ],
-      "status": "確定＝GC差2:42・総獲得54,450m・第19/20の獲得・アルプ2連登（複数媒体）／ヴィンゲゴーの水玉は媒体キャプション基準"
+      "status": "確定＝落車・無傷・リタイアなし。路面原因は『白い塗装／粉』とされるが断定は保留。"
     },
     {
-      "id": "20260714-market-primeday-after",
-      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/06/ultimatebike08_2.jpg",
-      "headline": "【経営メモ】プライムデー閉幕――今週はEC『反動減』の谷、個人店は「来店動機」を整備とお盆準備で作る",
-      "layer1": "7/10〜13のプライムデーが昨夜終了。消耗品・小物のEC実売が底を打ち、今週はネット需要が一時的に反動減。値引きの波が引いたぶん、実店舗も「何となくの来店」が鈍りやすい局面に入る。",
-      "layer2": "深掘り＝谷の週こそ設計が効く。①セールで買い逃した客に『大物（完成車・ホイール）は状態と適合を見てから』と声かけ→試乗・フィッティング予約に転換②お盆ロングライド前の点検（ブレーキ・チェーン・チューブレスのシーラント補充）を前面に③猛暑対策品（保冷ボトル・電解質・アイス系）で客単価を作る。粗利をセール価格で削らず、『炎天下でも安全に長く走らせる整備力』で来店理由を用意する。大手夏セール（ワイズ〜8/16、あさひ）が価格で来る中の差別化点はここ。",
+      "id": "20260715-tdf-second-place-battle",
+      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
+      "image": "https://cdn.mos.cms.futurecdn.net/tfbYcwjhTC83Nw6gzntYoZ-2560-80.jpg",
+      "headline": "【Xでも『もう終戦』の声】でも本当の見どころは2位争い――ヴィスマは『勝ちに来ている』と徹底抗戦を宣言",
+      "layer1": "ポガチャルの独走で『総合はもう決まり』というムードがSNSでも広がる。だが総合2〜4位は僅差で、若きデル・トロが第10で失速して3位から7位に転落・ヤングライダー賞も明け渡すなど、表彰台争いはむしろ過熱している。",
+      "layer2": "裏取り：総合3位エヴェネプールはヴィンゲゴー（2位）のわずか30秒差、4位アユソは+4:22。首位から大きく離れても、ヴィスマは『我々は勝ちに来ている、最後まで戦う』と明言し、山岳が集中する最終週での逆襲を諦めていない。X発の『終戦論』は入口として拾いつつ、勝負の実像は“2位以下の肉弾戦”にある。",
       "sources": [
-        { "t": "WIRED.jp プライムデー攻略", "u": "https://wired.jp/article/amazon-prime-day-best-deal-how-to-3/", "d": "2026-07-10" },
-        { "t": "サイクルスポーツ", "u": "https://www.cyclesports.jp/news/others/162639/", "d": "2026-06" },
-        { "t": "ワイズロード ONLINE（夏キャンペーン）", "u": "https://online.ysroad.co.jp/shop/default.aspx", "d": "2026-07" }
+        { "t": "CyclingUpToDate（総合順位アップデート）", "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-classifications-update-stage-10-pogacar-extends-race-lead-vingegaard-loses-time-to-evenepoel-del-toro-cracks", "d": "2026-07-14" },
+        { "t": "Cycling Weekly（ヴィスマの決意）", "u": "https://www.cyclingweekly.com/racing/tour-de-france/we-are-here-to-win-jonas-vingegaard-and-visma-lease-a-bike-vow-to-fight-on-despite-losing-more-time-to-tadej-pogacar-at-tour-de-france", "d": "2026-07-14" }
       ],
-      "status": "確定＝プライムデー会期7/10〜13・大手夏セール期間／反動減とお盆需要は毎年の傾向＝分析"
+      "status": "確定＝2〜4位の僅差・デル・トロ失速。『Xで話題』は入口、順位差は主要メディアで裏取り済み。"
     },
     {
-      "id": "20260714-market-chinese-carbon-pressure",
-      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2026/06/Winspace-t1600-ultra-and-gravel-G5-at-eurobike-1200x800.png",
-      "headline": "【経営メモ・市場情報】中華カーボンの「実力更新」が買い手市場を加速――WinspaceはZipp級の約1/3、Elitewheelsは1,290g・剛性+8.6%、価格の重力が変わる",
-      "layer1": "2026年の中華ホイールは「安かろう」を脱し、グランツール実走や独立テストでも好評価。Winspace Lún HyperはZipp比おおむね1/3の価格、ElitewheelsのDrive SL 48D CSは1ペア1,290g・横剛性+8.6%を公称。EurobikeではWinspace T1600 Ultraやグラベル、Elitewheelsの4.9kgスーパーバイクまで登場した。",
-      "layer2": "深掘り＝経営目線の意味は『値ごろ帯の底がまた下がった』こと。大手の定価は高止まり（初心者向け完成車が30〜40万円台の新常識）、実売は中華・EC・在庫処分の三方向で下落＝典型的な買い手市場。個人店の勝ち筋は「安売り競争」ではなく、①適合とタイヤ選び（フックレスの空気圧上限）②振れ取り・スポーク折れ時に『診てくれる店』という中華ユーザーのかかりつけ機能。うちのカーボン（8LIEN/CRW/GOOSYNN/NEPEST/FARSPORTS/PARTICLE）も、この『価格×アフター』の土俵で提案すると刺さる。",
-      "sources": [
-        { "t": "velofanatics（Winspace/Eurobike）", "u": "https://www.velofanatics.com/winspace-t1600-ultra-g5-gravelbike/", "d": "2026-06-27" },
-        { "t": "Elitewheels（共同通信PRワイヤー）", "u": "https://kyodonewsprwire.jp/release/202605098778", "d": "2026-05-09" },
-        { "t": "bike-memo 中華ホイール", "u": "https://bike-memo.com/cycle_260202_carbon-wheels/", "d": "2026-02" }
-      ],
-      "status": "確定＝各社の公称スペック・Eurobike出展（媒体/PR）／実測レビューは今後・価格は在庫で変動"
-    },
-    {
-      "id": "20260714-wheel-tdf-chinese-designdna",
-      "genre": "wheel", "genreLabel": "WHEEL", "genreJa": "ホイール", "hot": false,
-      "image": "https://cdn.road.cc/wp-content/uploads/2026/07/Tour-de-France-tech-debuts-July-2026.jpg",
-      "headline": "ツールのデビュー機材が映す潮流――「中華が広めた設計思想」（カーボンスポーク＋波型リム）がプロトン標準へ",
-      "layer1": "開幕2週目、TdFで新型ホイールが続々実戦投入。ボントレガーは『初のカーボンスポーク』をリドル・トレックに、カデックスMax 50は50mm・フックレス・1,290g、ENVEはTT用SES 100 PROを投入。かつて中華ブランドが先行した『カーボンスポーク』『波型（非対称）リム』が、いまや大手の当たり前になりつつある。",
-      "layer2": "深掘り＝これは『中華の設計思想が主流化した』とも読める。カーボンスポークは軽量・空力・横剛性で利があり、Elitewheelsやプチュアル（Pertual ACME）等が早くから量産。大手が追随した今、価格差は残り性能差は縮む＝ユーザーには『中華でも思想は同じ』が可視化された局面。注意点は普遍＝フックレスは指定空気圧を厳守（上限超で外れる恐れ）、そして『診てくれる店』の有無。うちの取り扱いカーボンもこの土俵で語れる。",
-      "sources": [
-        { "t": "road.cc（TdFデビュー機材）", "u": "https://road.cc/feature/a-wave-of-new-bikes-wheels-and-kit-making-tour-de-france-debuts-in-2026", "d": "2026-07-02" },
-        { "t": "BikeRadar（TdF機材トレンド）", "u": "https://www.bikeradar.com/features/tech/tour-de-france-2026-grand-depart-tech-trends", "d": "2026-07-07" }
-      ],
-      "status": "確定＝TdFのホイール投入・各社スペック（road.cc/BikeRadar）／『中華が先行』は設計潮流の解釈"
-    },
-    {
-      "id": "20260714-parts-no-fastest-tyre",
+      "id": "20260715-tour-aero-70w",
       "genre": "parts", "genreLabel": "PARTS", "genreJa": "パーツ", "hot": false,
-      "image": "https://www.bikeradar.com/resources/content/32337f2f-7841-4ef6-a233-d1f001580530/92322bd2-2ad8-4dba-9942-e835dcbfb14b/6a6aa84e-ef15-416c-8dc7-75c73dbe4e46/Tour-de-France-2026_Grand-Depart-Tech-Trends-scaled.jpg?preview=false&platform=WEB&w=1200",
-      "headline": "TdF2026の結論は『最速のタイヤ幅は無い』――路面と選手で28〜32mmを使い分け、「太い＝速い」の単純化が終わる",
-      "layer1": "BikeRadarがTdF2026の機材トレンドを分析し、注目は『最速のタイヤ幅は存在しない』という現場の結論。チームは同じ日でも選手・路面・気温でタイヤ幅を変え、28〜32mm前後を使い分けている。数年前の『30mmが標準』から、さらに一段「最適化」へ進んだ。",
-      "layer2": "深掘り＝なぜ一律にできないか。転がり抵抗は太いほど有利な場面が多い一方、空力・重量・クリアランス・路面の粗さ・空気圧で最適点がズレる。荒れた山岳日は太めで快適性と接地を稼ぎ、平坦高速日はやや細めで空力を取る、という判断が現実的。初中級への含意はシンプル＝『指定リム内幅に合う範囲で、走る路面に寄せて0.5〜1気圧単位で詰める』のが「自分の最速」への近道。盛られた『太い＝正義』を鵜呑みにしない。",
+      "image": "https://media.delius-klasing.de/dpr_auto,fl_progressive,f_jpg,c_fill,g_face:center,h_675,w_1200/q_auto:eco/tour/gettyimages-2284751753_4306f31f1fc2492059a64d7056cf9966",
+      "headline": "『45km/hで昔より70W少ない』――独TOURのテック検証が示す、山岳日でも効くエアロ進化",
+      "layer1": "独TOUR誌の第10ステージ・テックブリーフィングが、現代のレースバイク＋選手を風洞計測。『45km/hで走るのに、かつてより70W少ない出力で足りる』とし、空力の進歩を数値化した。",
+      "layer2": "獲得3,900mの山岳日ですら空力が効くのがポイント。実際トゥールマレーではヴィンゲゴーが“登りより下り”で時間を失った＝高速域=空力が明暗を分けた。『山だからエアロは要らない』はもう過去で、太タイヤ・整流ポジション・エアロフレームの合わせ技が、登坂日でもタイム差を生む。",
       "sources": [
-        { "t": "BikeRadar（TdF機材トレンド）", "u": "https://www.bikeradar.com/features/tech/tour-de-france-2026-grand-depart-tech-trends", "d": "2026-07-07" }
+        { "t": "TOUR Magazin（Tech Briefing St.10）", "u": "https://www.tour-magazin.de/en/professional-cycling/latest-news/45-km-h-using-70-watts-less-than-before-tour-tech-briefing-stage-10-of-the-2026-tour-de-france/", "d": "2026-07-14" }
       ],
-      "status": "確定＝TdFのタイヤ幅使い分け・『最速幅は無い』（BikeRadar分析）／最適値は個体・路面で変動"
+      "status": "確定＝70Wは風洞ベースの試算値（実走の絶対値ではなく比較指標）。"
     },
     {
-      "id": "20260714-parts-13speed-era",
-      "genre": "parts", "genreLabel": "PARTS", "genreJa": "パーツ", "hot": false,
-      "image": "https://c02.purpledshub.com/uploads/sites/39/2026/03/Shimano-13-speed-leak.jpg?w=1200",
-      "headline": "「13速時代」がツールで可視化――カンパ13速はもうプロトンで実走、シマノは沈黙もE-Tubeアプリに『13枚目』の痕跡",
-      "layer1": "マサル注目のシマノ13速リーク。設定アプリE-Tube Projectのギア使用率表示に『13枚目』のコグが現れ、次期デュラエース（噂のR9300）が12速の壁を破る示唆と受け取られた。シマノは『13速のラインナップは無い』と火消しするが、カンパは既にスーパーレコード13速をツールで実走、SRAMも13速1x（XPLR）を持つ。",
-      "layer2": "深掘り＝『今なぜ』か。13枚目は、ワイドレシオ（1x化・グラベル寄り）と細かいクロスレシオの両立という現代の要求への解。ただしシマノのアプリ痕跡は2026年3月＝リーク段階で、公式発表ではない。パテント図は2x13・完全ワイヤレス（前後で非互換の独立バッテリー）を示すが、市場投入は2026後半〜2027という見立てが大勢＝R9300の型番・時期は※要続報。確かなのは『13速がもうトップレースを走っている』事実と、シマノが追う番になっていること。",
-      "sources": [
-        { "t": "BikeRadar（TdF機材トレンド）", "u": "https://www.bikeradar.com/features/tech/tour-de-france-2026-grand-depart-tech-trends", "d": "2026-07-07" },
-        { "t": "BikeRadar（シマノ13速リーク）", "u": "https://www.bikeradar.com/news/shimano-13-speed-e-tube-leak", "d": "2026-03-10" },
-        { "t": "velofanatics（Look/カンパ13速）", "u": "https://www.velofanatics.com/winspace-t1600-ultra-g5-gravelbike/", "d": "2026-06-27" }
-      ],
-      "status": "曖昧＝シマノ13速は『リーク＋公式否定』（※要続報・R9300/時期は未確定）／カンパ13速の実走は確定"
-    },
-    {
-      "id": "20260714-trend-heat-gear",
+      "id": "20260715-cervelo-soloist",
       "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/PFS7LrxdBovbS4tAfg6gGR-1362-80.png",
-      "headline": "猛暑は「機材」でも戦う時代――アイスベスト・冷却装備・大容量ボトル、TdF2026で「暑熱ギア」が運用の一部に",
-      "layer1": "レッドアラート37〜40℃で第9ステージが30km短縮された今大会、プロは補給と並んで『冷やす装備』を標準運用。スタート前後のアイスベスト、氷を使うクーリング、大容量・保冷ボトル、機材側の放熱まで、暑さ対策がパフォーマンスの一部になっている。",
-      "layer2": "深掘り＝これは店頭に直結する。猛暑が『異例』から『常態』に変わり、暑熱対策品は一過性でなく毎夏の実需へ。経営目線では①保冷ボトル・ネッククーラー・電解質を夏の定番棚に②『真水を大量』より『水＋塩を同時に、こまめに』の啓発でロングライド客の信頼を得る③熱でのタレ・脱水は落車や判断ミスに直結＝安全商材として提案できる。プロの機材トレンドは、そのまま初中級の『夏を無事に走り切る』実務に落ちる。",
+      "image": "https://bikebiz.com/wp-content/uploads/R0011979-1024x683.jpg",
+      "headline": "サーヴェロが新型『ソロイスト』を発表――軽量化＋エアロ改善、最上位モデルはUCI下限ぴったり6.85kg",
+      "layer1": "サーヴェロが7月13日、オールラウンド『ソロイスト』をフルモデルチェンジ。旧型より軽く・より空力的とし、全完成車にカーボンホイール／パワーメーター／一体コックピットを標準装備。最上位ソロイストRed AXSは実測6.85kgでUCIの重量下限に到達。",
+      "layer2": "『軽さ』と『エアロ』を1台に両立させる潮流の最新形。ハイエンドは“最軽量×最速”を同時に追う一方、価格はさらに上へ向かう。マサル的な着地：完成車で6.85kg・整った空力を舶来新型で買うと総額は跳ね上がる――同じ軽さ・剛性を狙うなら、中華カーボンフレーム＋自社ホイールで“数字は近く・価格は数分の一”という提案が刺さる余地は大きい。",
       "sources": [
-        { "t": "BikeRadar（TdF機材トレンド）", "u": "https://www.bikeradar.com/features/tech/tour-de-france-2026-grand-depart-tech-trends", "d": "2026-07-07" },
-        { "t": "Cyclingnews（第9短縮）", "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-2026-stage-9-preview/", "d": "2026-07-12" }
+        { "t": "BikeBiz（ソロイスト発表）", "u": "https://bikebiz.com/cervelo-launches-new-soloist-road-bike-with-lighter-frame-aero-gains-and-race-ready-builds/", "d": "2026-07-13" }
       ],
-      "status": "確定＝暑熱条件・機材トレンドの潮流（BikeRadar/媒体）／個別製品の効果は用途で差＝断定しない"
+      "status": "確定＝発表日・6.85kg・標準装備。価格帯の詳細は要確認。"
     },
     {
-      "id": "20260714-beginner-blueticket-summer",
-      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "https://www.roadbike-expert.com/wp-content/uploads/2026/06/aozappu_ogp.png",
-      "headline": "青切符、施行後『初の夏本番』――ロングライドで足をすくわれない、ロードで実際に切られうる違反はここ【Xでも議論継続】",
-      "layer1": "2026年4月施行の自転車『青切符』（交通反則通告制度）。16歳以上・約113の違反に3,000〜12,000円。基本は指導警告で悪質のみ取締りだが、施行後はじめての夏＝ロングライド最盛期を迎え、Xでも『どこまでがアウト？』の議論が続いている。",
-      "layer2": "深掘り＝ロードで現実にリスクが高いのは、ながらスマホ（¥12,000）、信号無視（¥6,000）、夜間無灯火・二人乗り（¥3,000）、そして一時停止無視・並走。ローディー特有の盲点は、早朝や薄暮の無灯火、集団での並走、イヤホン。前科はつかない制度だが、反則金＋事故時の不利は実害。実務の型は3つ＝①ライトは常時（昼も）②一時停止は足つき徹底③集団は縦一列。店的には『安全＝サービス』で、ライト・ベル・反射材が夏の実需にもなる。",
+      "id": "20260715-market-obon",
+      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
+      "image": "https://blog.cbnanashi.net/wp-content/uploads/2026/07/t-6.jpg",
+      "headline": "【経営メモ】プライムデー明けの『反動減の谷』を抜けたら、次はお盆ロングライド商戦――勝ち筋は値引きでなく点検・熱中症品",
+      "layer1": "7月13日で終わったプライムデーの底値は一巡し、ECは一時的な反動減の局面。国内ブログでは終了後も『買い忘れ・型落ち特価』のまとめ記事がPVを集め、消耗品の需要そのものは途切れていない。",
+      "layer2": "先回り：ここから8月中旬のお盆にかけては“乗る人が増える”連休需要。値引き競争から降り、①出発前の点検整備（タイヤ・ブレーキ・チェーン）②熱中症対策品（ボトル・保冷・経口補水・アイス系ギア）で粗利を作る局面。EC最安と真正面で戦わず、『すぐ乗り出せる状態にする』サービスで来店動機を握る。",
       "sources": [
-        { "t": "政府広報オンライン（青切符）", "u": "https://www.gov-online.go.jp/article/202410/entry-6604.html", "d": "2024-10" },
-        { "t": "警視庁 青切符導入", "u": "https://www.keishicho.metro.tokyo.lg.jp/kotsu/jikoboshi/bicycle/cycle_kaisei.html", "d": "2026" },
-        { "t": "CYCLING ROAD 青切符ガイド", "u": "https://www.roadbike-expert.com/bicycle-blue-ticket-2026-guide/", "d": "2026-06" }
+        { "t": "CBN Blog（プライムデー終盤の買い得まとめ）", "u": "https://blog.cbnanashi.net/2026/07/27653", "d": "2026-07-12" }
       ],
-      "status": "確定＝施行日2026/4/1・対象16歳以上・反則金額（政府広報/警察）／取締り運用は『指導警告が基本』"
+      "status": "確定＝プライムデー7/13終了。お盆商戦は例年の連休需要に基づく先回り。"
     },
     {
-      "id": "20260714-beginner-breakaway-basics",
-      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "https://biketips.com/wp-content/uploads/2026/07/tour-de-france-2026-stage-10-le-lioran-bastille-day.jpg",
-      "headline": "きょうの第10ステージは『逃げ屋の日』――初中級が学ぶ、グループライドで「逃げる／耐える」の基本",
-      "layer1": "ル・リオランは逃げが決まりやすいレイアウト。プロが序盤から全力で逃げを争う一日は、初中級のグループライドにもそのまま教材になる。『前に出る勇気』と『無駄脚を使わない賢さ』の両方が要る。",
-      "layer2": "深掘り＝実務の型。【逃げる側】①仕掛けは風下から一気に、中途半端に顔を出さない②ローテはスムーズに、千切れそうなら無理に牽かず正直に告げる③補給は『効く前』に先んじて。【耐える／集団側】①前3〜5番手をキープ（後方は蛇腹で消耗が倍）②登りは自分のケイデンスを守り、下り・平坦で追いつく③手信号と声で落車を防ぐ。プロの『逃げ』は博打ではなく計算＝初中級も『いつ脚を使うか』の設計で走りが変わる。公道では並走・信号無視をしない（青切符も念頭に）。",
+      "id": "20260715-market-highend-rush",
+      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
+      "image": "https://www.bikeradar.com/resources/content/32337f2f-7841-4ef6-a233-d1f001580530/f8b9d18d-2fc5-479b-8533-aa65a388e4b8/e8b143c0-3395-4ea1-991b-00d92e560608/Bianchi-Specialissima-2026-3-scaled.jpg?preview=false&platform=WEB&deviceId=af8185b9-12c3-4c59-97e5-0df537bf2e56&w=1200",
+      "headline": "【経営メモ・市場情報】ツール期の舶来ハイエンド新型ラッシュ×円安＝『定価は上へ』――個人店の武器は目利き＋アフター",
+      "layer1": "ツールに合わせ舶来ハイエンドの新型が連発（サーヴェロ新ソロイストは7/13発表・6.85kg、ビアンキは“史上最軽量”の新スペシャリッシマ）。話題性は高いが、円安下では舶来完成車の定価はさらに上へ振れる。",
+      "layer2": "経営に効く読み：新型は“憧れの旗艦”として集客に使いつつ、実売は『同等の軽さ・剛性を中華カーボン＋自社ホイールで数分の一』という現実解に落とすのが勝ち筋。舶来の値上げ局面ほど、店の価値は“どれを選ぶべきか”の目利きと、組み・フィッティング・アフターに宿る。数字（軽さ・実測）で語れる店が選ばれる。",
       "sources": [
-        { "t": "biketips 第10プレビュー", "u": "https://biketips.com/tour-de-france-2026-stage-10-le-lioran-preview/", "d": "2026-07-13" },
-        { "t": "ProCyclingUK 第10プレビュー", "u": "https://procyclinguk.com/tour-de-france-2026-stage-10-preview-le-lioran-brings-the-race-back-to-the-mountains-after-the-rest-day/", "d": "2026-07" }
+        { "t": "BikeBiz（サーヴェロ新ソロイスト）", "u": "https://bikebiz.com/cervelo-launches-new-soloist-road-bike-with-lighter-frame-aero-gains-and-race-ready-builds/", "d": "2026-07-13" },
+        { "t": "BikeRadar（ビアンキ新スペシャリッシマ）", "u": "https://www.bikeradar.com/news/2026-bianchi-specialissima", "d": "2026-06-16" }
       ],
-      "status": "確定＝第10が逃げ向きレイアウト（媒体）／集団走の技術は一般原則"
+      "status": "確定＝新型発表と重量。円安・値上げ傾向は継続的な市場観察に基づく。"
+    },
+    {
+      "id": "20260715-beginner-heat-supply",
+      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
+      "image": "https://journal.buychari.com/wp-content/uploads/2025/07/%E9%85%B7%E6%9A%91%E3%80%81%E6%B0%B4%E3%81%AF%E4%BD%95%E6%9C%AC%E5%BF%85%E8%A6%81%E3%81%AA%E3%81%AE%EF%BC%9F-3.png",
+      "headline": "プロが40℃で戦う夏、初中級はまず『水と塩を同時に・20分おき』――お盆ロングライド前に固めたい補給の順序",
+      "layer1": "ツールの選手が猛暑でボトルを大量消費するのと同じで、この夏の日本のロングライドも“補給の設計”が最優先。基本は『20分おきに少量ずつ』、汗が多い日はスポーツドリンク／経口補水で塩分も一緒に摂る。",
+      "layer2": "先回り：真水だけを一気飲みするのは逆に危険（低ナトリウム血症のリスク）。ボトル2本のうち1本は電解質入りにし、早朝・夕方の涼しい時間帯を選ぶ、日陰ルートを組む、異変を感じたら止まる勇気を持つ――この順で守れば“垂れない・倒れない”。お盆で乗る距離が延びる前に、補給リズムを体に入れておきたい。",
+      "sources": [
+        { "t": "BUYCHARI Journal（酷暑ライドの暑さ対策）", "u": "https://journal.buychari.com/extreme-heat-cycling-tips/", "d": "2026-07" },
+        { "t": "まもるくん（ロードで熱中症を防ぐ）", "u": "https://www.mamoru-k.com/contents/work-heat-stroke-roadbike", "d": "2026-07" }
+      ],
+      "status": "確定＝補給の基本。数値目安は一般的ガイドラインに基づく。"
+    },
+    {
+      "id": "20260715-beginner-slippery-paint",
+      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
+      "image": "https://cdn.mos.cms.futurecdn.net/ZoLW7qSgCBQNPWGqwciqUN-2560-80.jpg",
+      "headline": "プロでも滑った『白線・塗装・散布された粉』――乾いていても滑る路面を、初中級が下りで避ける4つの基本",
+      "layer1": "第10ステージでピドコックらが滑った原因は、路面の白い塗装／粉。雨だけでなく、横断歩道・矢印・センターラインなどのペイントや砂・粉は、乾いていてもタイヤのグリップを一気に奪う。",
+      "layer2": "先回り：①下りコーナーは“白いもの・光る舗装”の上でブレーキ／倒し込みをしない（手前で減速を終える）②コーナー出口を見て早めに視線を送る③マンホール・白線・落ち葉はまたがず、直立に近い姿勢で通過④太めのチューブレスを適正空気圧で使い接地を稼ぐ。プロが転ぶ路面は、公道の私たちにこそ牙をむく。",
+      "sources": [
+        { "t": "Cyclingnews（ピドコック落車＝白い路面）", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/tom-pidcock-and-matteo-jorgenson-crash-on-tour-de-france-descent/", "d": "2026-07-14" }
+      ],
+      "status": "確定＝落車事例。回避の要点は一般的なコーナリング安全に基づく。"
+    },
+    {
+      "id": "20260715-beginner-china-carbon-pick",
+      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
+      "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C163.jpg",
+      "headline": "『価格の底』が続く夏こそ、初めての中華カーボンホイールの選び方3点――安さの奥にある“設計と検品”を見る",
+      "layer1": "中華カーボンは大手の1/3〜1/2の価格帯まで下がり、重量・剛性・空力も実用十分の水準に到達。夏のセール期は“買い時”に見えるが、初中級が飛びつく前に確認したい基本がある。",
+      "layer2": "先回り・見極め3点：①用途に合うリム高（登り主体なら35〜45mm、平地・巡航なら50mm前後）②フックレス対応タイヤと適正空気圧（“120psiは死んだ”＝太幅・低圧が現代標準）③保証・国内サポート・実測値の開示があるか。海外通販は輸入消費税・通関費も加算される点に注意。安さの裏で“誰が設計し・どう検品したか”が分かるブランド（うちの8LIEN／CRW／FARSPORTS等の実測開示）を選べば、初めての一本で失敗しにくい。",
+      "sources": [
+        { "t": "bike-memo（2026中華カーボンおすすめ）", "u": "https://bike-memo.com/cycle_260202_carbon-wheels/", "d": "2026-02" },
+        { "t": "ICAN Japan（中華カーボン購入ガイド）", "u": "https://icanjp.com/blogs/news/chinese-carbon-wheels", "d": "2026" }
+      ],
+      "status": "確定＝選び方の基本。普遍テーマだが、夏の“価格の底”を機に再整理。"
     }
   ]
 }
