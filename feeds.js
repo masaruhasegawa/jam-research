@@ -1,5 +1,255 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-07-16",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。ツールは『史上最速ステージ』でウノエックスが悲願の初勝利、機材は『軽さ神話』の実測が出そろいました。今日の第12ステージは、純スプリンター最後のご褒美です。",
+    "cards": [
+      {
+        "id": "20260716-waerenskjold-win",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-07/captura-de-ecra-2026-07-15-161958-6a57a52ab1541.png",
+        "headline": "最後尾から一転、ヴェレンショルが『史上最速ステージ』を制す――ウノエックス悲願のツール初勝利、平均50.9km/h",
+        "layer1": "第11ステージ（ヴィシー→ヌヴェール161.3km）を、前日ル・リオランで最後尾フィニッシュだったソレン・ヴェレンショル（ウノエックス）が制した。ノルウェーのプロチーム、ウノエックスにとって悲願の『ツール区間初勝利』。",
+        "layer2": "早駆けしたセース・ボルの背後に飛び乗り、その流れを利用して一気に差し切る老獪なスプリント。コーイ、フィリプセンを抑えた。平均50.9km/hは1999年チポリーニ（50.3km/h）を『27年ぶり』に更新したツール史上最速ステージ。『最後尾→区間優勝』をわずか24時間で成し遂げた、劇的な一日だった。",
+        "sources": [
+          {
+            "t": "Cycling Uptodate",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-de-france-2026-stage-11-history-made-soren-waerenskjold-goes-from-last-to-first-in-fastest-tour-stage-ever",
+            "d": "2026-07-15"
+          },
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/todays-tour-de-france-stage-11-was-the-fastest-in-the-race-s-history",
+            "d": "2026-07-15"
+          }
+        ],
+        "status": "確定＝区間優勝・平均速度・記録更新は複数媒体が一致。"
+      },
+      {
+        "id": "20260716-green-jersey-pedersen",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-07/mads-pedersen-on-stage-10-of-the-2026-tour-de-france-6a577731ac26a.jpg",
+        "headline": "マイヨヴェールに『黒星』――ペデルセン、集団後方で『洗濯機』に飲まれ11位、ジルマイに詰められリードは45点に",
+        "layer1": "ポイント賞リーダーのマッズ・ペデルセンが第11ステージのスプリントで11位に沈み、「馬鹿みたいに後方、洗濯機に揉まれた」と吐露。6位のジルマイ（26点）に対し16点しか取れず、リードは『54→45点』に縮小した。",
+        "layer2": "平地の純スプリントは今日の第12ステージでほぼ打ち止め。現在ペデルセン317点、ジルマイ272点、フィリプセン255点。最終週は山岳の中間スプリントが焦点になり、逃げにも乗れるペデルセン有利は動きにくいが、今日ジルマイが勝てば一気に緊迫する。フィリプセンが今大会まだ未勝利なのも波乱要素だ。",
+        "sources": [
+          {
+            "t": "Cycling Uptodate",
+            "u": "https://cyclinguptodate.com/cycling/i-ended-up-ridiculously-far-back-stuck-in-the-washing-machine-mads-pedersens-sprint-frustrations-boil-over-as-tour-de-france-green-jersey-lead-is-cut",
+            "d": "2026-07-15"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/with-one-sprint-stage-remaining-the-tour-de-france-green-points-jersey-is-mads-pedersens-to-lose-analysis/",
+            "d": "2026-07-15"
+          }
+        ],
+        "status": "確定＝順位・点差。"
+      },
+      {
+        "id": "20260716-stage12-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/07/sprintcyclingagency_9194304_1_2000px.jpg",
+        "headline": "今日の第12ステージは『純スプリンター最後のご褒美』――ヌヴェール・マニクール→シャロン＝シュル＝ソーヌ179.1km、罠は残り20kmの丘",
+        "layer1": "本日7/16の第12ステージは179.1kmのほぼ平坦路。フィニッシュ約20km手前のコート・ド・モンタニー＝レ＝ビュクシ（短い上り）が唯一の波乱要素で、基本は『集団スプリント濃厚』。",
+        "layer2": "平坦スプリントは今大会残りわずか。未勝利のフィリプセン、緑を追うジルマイ、勢いのヴェレンショルが激突する。逃げ切りを狙うなら、この丘でスプリンターチームの脚をどれだけ削れるかが鍵。以降は山岳が最終週（アルプ・デュエズ2連発・7/24-25）に集中し、スプリンターの出番は激減する。",
+        "sources": [
+          {
+            "t": "cyclingstage",
+            "u": "https://www.cyclingstage.com/tour-de-france-2026-route/",
+            "d": "2026-07-16"
+          },
+          {
+            "t": "Cyclingnews（ステージ）",
+            "u": "https://www.cyclingnews.com/races/tour-de-france-2026/stages/",
+            "d": "2026-07-16"
+          }
+        ],
+        "status": "確定＝コース・距離。曖昧＝展開予想。"
+      },
+      {
+        "id": "20260716-gc-seixas",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-07/tadej-pogacar-on-stage-8-of-the-2026-tour-de-france-6a527c349dad5.jpg",
+        "headline": "総合はポガチャル『+3分36秒』で微動だにせず――5位に19歳セイシャス、仏次世代が『表彰台圏』に居座る",
+        "layer1": "スプリントステージで総合は不動。ポガチャル首位、2位ヴィンゲゴー+3:36、3位エヴェネプール+4:06、4位アユソ+4:22、そして5位に『19歳ポール・セイシャス』（デカスロン）+4:35。",
+        "layer2": "セイシャスは第9ステージで6位に入り、休息日を挟んでなお総合5位を維持（続報）。フランスが渇望する次世代GCライダーが、初出場のツールでトップ5に食い込む異例の展開だ。勝負どころは最終週アルプ・デュエズ2連登で、ポガチャル包囲網を敷けるかはヴィスマの徹底抗戦次第。若手の“伸びしろ”が最終週にどう出るかも見どころ。",
+        "sources": [
+          {
+            "t": "Cycling Uptodate（総合）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-classifications-update-stage-10-pogacar-extends-race-lead-vingegaard-loses-time-to-evenepoel-del-toro-cracks",
+            "d": "2026-07-15"
+          }
+        ],
+        "status": "確定＝順位・タイム差。"
+      },
+      {
+        "id": "20260716-fastest-stage-record",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/cda9d631-6c04-443c-8ad6-403a0ab6ec6c/thumbnails/87bfa91f-b591-4f6c-bafe-87670f0139a6.jpg?w=1200",
+        "headline": "【Xでも『速すぎ』】プロトンが平均50.9km/h――27年ぶりのツール最速更新は『新常態』、なぜここまで速いのか",
+        "layer1": "「平地とはいえ平均50km/h超え!?」と、史上最速ステージにローディーがXで騒然。裏を取ると公式記録で50.9km/h、1999年チポリーニ（50.3km/h）を『27年ぶり』に更新した確定記録だ。",
+        "layer2": "速さの正体は複合的。①わずかな追い風と『涼しい雨』の好条件、②逃げが序盤から確定しハイペース化、③そして機材と“燃料”。独TOURによれば同じ45km/hを昔より約70W少なく出せる（エアロ進化）、さらにプロは糖質120g/時を流し込みハイパワーを維持する。関係者いわく「これが新常態」。速さは根性でなく、空力＋補給＋条件の合わせ技で作られている。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/todays-tour-de-france-stage-11-was-the-fastest-in-the-race-s-history",
+            "d": "2026-07-15"
+          },
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/racing/tour-de-france/this-is-the-new-normal-how-the-tour-de-france-shattered-its-fastest-speed-record-on-stage-11",
+            "d": "2026-07-15"
+          }
+        ],
+        "status": "確定＝平均速度・記録更新。曖昧＝寄与度の内訳（各媒体の推定）。※X反応は入口、記録は裏取り済み。"
+      },
+      {
+        "id": "20260716-tdf-real-weights",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/9e25a77a-8f35-4d29-8267-ad69e6f15230/thumbnails/ab13057a-936c-4495-9493-57f7ec4dd25c.jpg?w=1200",
+        "headline": "『軽い軽い』の実態――ツール実バイクを計ると平均7.06kg、UCI下限6.8kgちょうどはヴィンゲゴーのS5だけ",
+        "layer1": "独メディアがツールの実バイク7台を計測。公称フレーム6.5kg級でも、実測は平均7.06kg＝UCI下限6.8kgより約200g重い。『下限ちょうど』はヴィンゲゴーのサーヴェロS5のみだった。",
+        "layer2": "差の正体は「カタログに載らない重さ」――塗装（それだけで約+200g）、ペダル、ボトルケージ、サイコンマウント。モホリッチのスペシャリッシマ6.97kg、ポガチャルのコルナゴY1Rs 7.2kg、エヴェネプールのターマックSL9 7.0kg。『公称最軽量』を鵜呑みにせず“実装重量”で見るのがプロの現場だ。ジロ女子でヴィーベスが20g下回りで失格した例もあり、下限ぴったりはリスクにもなる。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/features/tech/how-much-does-a-tour-de-france-bike-weigh-in-2026",
+            "d": "2026-07-15"
+          }
+        ],
+        "status": "確定＝実測値（計測記事）。"
+      },
+      {
+        "id": "20260716-beginner-fueling",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/NDu8hG7eDXhgwAua775Twc.jpg",
+        "headline": "プロは50.9km/hで走りながら『糖質120g/時』――初中級は『1時間60g』から、夏ロングを“垂れずに”走る補給の量",
+        "layer1": "史上最速ステージの裏には、プロの『補給革命』がある。今のトッププロは1時間あたり炭水化物を最大120g摂りながら高強度を維持する。初中級がそのまま真似る必要はないが、「量」を意識するだけで走りは変わる。",
+        "layer2": "一般ライダーの目安は1時間あたり糖質『60g』（ジェル約2本）から。腸が慣れるほど90g前後まで上げられる。ポイントは①走り出しから早めに、②水と一緒に（濃すぎると吸収が落ちる）、③固形→ジェル→ドリンクを使い分け。猛暑のお盆ロングは、これに塩分（電解質）を重ねると脚攣り・失速を防げる。前日の“順序”（水と塩を同時に）と、今日の“量”はセットで効く。",
+        "sources": [
+          {
+            "t": "BikeRadar（補給トレンド）",
+            "u": "https://www.bikeradar.com/news/todays-tour-de-france-stage-11-was-the-fastest-in-the-race-s-history",
+            "d": "2026-07-15"
+          },
+          {
+            "t": "Red Bull（暑熱・補給）",
+            "u": "https://www.redbull.com/jp-ja/hot-weather-cycling-tips",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝プロの補給トレンド。目安値は一般的ガイドライン。"
+      },
+      {
+        "id": "20260716-beginner-positioning",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-07/mads-pedersen-on-stage-10-of-the-2026-tour-de-france-6a577731ac26a.jpg",
+        "headline": "集団スプリントで『洗濯機』に飲まれない――ペデルセンでも沈む位置取り、初中級のグループライド4原則",
+        "layer1": "緑ジャージのペデルセンですら「後方の洗濯機に揉まれた」と嘆いた第11ステージ。速い集団では“どこにいるか”が結果を分ける。今日もスプリント日で、位置取りは初中級のグループライドにも直結する。",
+        "layer2": "基本は4つ。①ラスト3kmは前から15番手以内をキープ（後方は減速・落車・向かい風の三重苦）、②車輪の重なりを恐れず前走者の腰に隠れて風を切らない、③コーナーは進入前に位置を上げ立ち上がりで踏む、④無理に隙間へ突っ込まない（プロでも接触落車する）。合言葉は『早めに前へ、最後は動かない』。",
+        "sources": [
+          {
+            "t": "Cycling Uptodate（ペデルセン）",
+            "u": "https://cyclinguptodate.com/cycling/i-ended-up-ridiculously-far-back-stuck-in-the-washing-machine-mads-pedersens-sprint-frustrations-boil-over-as-tour-de-france-green-jersey-lead-is-cut",
+            "d": "2026-07-15"
+          }
+        ],
+        "status": "確定＝一次の状況（選手コメント）。技術は一般原則。"
+      },
+      {
+        "id": "20260716-weather-swing",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-07/tadej-pogacar-on-stage-8-of-the-2026-tour-de-france-6a527c349dad5.jpg",
+        "headline": "猛暑から一転、『涼しい雨』のスプリント――夏のツールは“暑さ”だけでなく“天気の振れ幅”との戦いに",
+        "layer1": "40℃超でステージ短縮まで起きた今大会だが、第11ステージは『涼しい雨』。スプリンターは「むしろ歓迎」と語り、この好条件が史上最速ペースを後押しした。",
+        "layer2": "猛暑対策（プレクーリング・アイスベスト・大容量ボトル）は今や常識化した一方、数日で雨・気温急降下も起きる。濡れた路面は白線・塗装・マンホールで滑り、下りとコーナーの落車リスクが跳ね上がる。夏ライドは『暑さ装備』と『雨・寒暖差装備（薄手ウインドシェル・滑りにくいタイヤ選択）』の両にらみが、今の現実的な備え方だ。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/sprinters-welcome-rain-and-cooler-weather-as-tour-de-france-green-jersey-erupts-again-on-stage-11-in-nevers/",
+            "d": "2026-07-15"
+          }
+        ],
+        "status": "確定＝天候・選手コメント。"
+      },
+      {
+        "id": "20260716-market-tour-tokuju",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/01/zakki_C110.jpg",
+        "headline": "【経営メモ】ツール特需を店頭に――夏セール終盤（あさひ〜7/26）と“実測バズ”を、値引きでなく『語れる接客』へ",
+        "layer1": "ツール放送中は問い合わせ・来店が増える“特需”期。折しもあさひスポーツ夏セールは7/26まで、ワイズも値下げ対象を展開中。プライムデー明けの「谷」を、この特需とお盆準備で埋めにいく週だ。",
+        "layer2": "勝ち筋は値引き合戦から降りること。今週は『ツールのあのバイクは実測7kg』『軽さより剛性と実装重量』など“語れる接客”が来店動機になる。①ツール話題でSNS発信→来店誘導、②お盆ロングに向けた点検・熱中症品（アイススラリー材料・大容量ボトル・電解質）の提案、③セール終盤の型落ち完成車は『＋アフター保証』で回す。個人店の武器は価格でなく目利きとアフターだ。",
+        "sources": [
+          {
+            "t": "BikeRadar（実測が拡散）",
+            "u": "https://www.bikeradar.com/features/tech/how-much-does-a-tour-de-france-bike-weigh-in-2026",
+            "d": "2026-07-15"
+          },
+          {
+            "t": "サイクルベースあさひ（夏セール〜7/26）",
+            "u": "https://ec.cb-asahi.co.jp/category/cat2/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%83%90%E3%82%A4%E3%82%AF/%E3%83%AD%E3%83%BC%E3%83%89%E3%83%90%E3%82%A4%E3%82%AF/SALE",
+            "d": "2026-07"
+          }
+        ],
+        "status": "経営メモ（記事化不要）。セール期日は各社告知に準拠。"
+      },
+      {
+        "id": "20260716-market-china-priceup",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2026/06/Winspace-t1600-ultra-and-gravel-G5-at-eurobike-1200x800.png?media=1716897874",
+        "headline": "【経営メモ・市場】“価格の底”が動く――中華ハイエンドも値上げ局面、ワインスペースが7/1に約5%改定",
+        "layer1": "「中華＝どんどん安くなる」局面に転機。ワインスペースは新型エアロ『T1600 Ultra』（フレーム約1,090g・完成車$5,999〜）を投入しつつ、2026年7月1日付で『約5%の価格改定』を実施した。円安・原材料高で“底値”は一方通行ではなくなってきた。",
+        "layer2": "意味するのは仕入れ・売価の見直しサイン。①中華勢も為替とコストで上げに転じ得る＝『今の卸値が続く前提』で在庫を持ちすぎない、②一方で大手はDTC値下げ（キャニオンはエアロードを最大約21%減）もあり、価格は“上げる組と下げる組”の二極化、③店の武器は「同じ価格帯で何を選ぶか」の目利き。8LIEN・CRW・GOOSYNN等の仕入れ計画も、改定の前後を睨んだ前倒し判断が要る局面だ。",
+        "sources": [
+          {
+            "t": "Velofanatics（Winspace 7/1 +5%）",
+            "u": "https://www.velofanatics.com/winspace-t1600-ultra-g5-gravelbike/",
+            "d": "2026-06-27"
+          },
+          {
+            "t": "サイクルスポーツ（キャニオン値下げ・補足）",
+            "u": "https://www.cyclesports.jp/news/others/160276/",
+            "d": "2026-05"
+          }
+        ],
+        "status": "確定＝ワインスペース7/1改定・完成車価格。※中華全体の値上げ“局面”は個社事例からの推定で、断定しない。"
+      }
+    ]
+  },
+  {
     "date": "2026-07-15",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。ツールは第2週へ――ポガチャルの独走で総合は『+3分36秒』、でも本当の見どころは2位争いに移りました。きょうは平坦スプリントの一日、店頭はお盆に向けて仕込みどころです。",
     "cards": [
