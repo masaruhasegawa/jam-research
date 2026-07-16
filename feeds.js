@@ -1,5 +1,188 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-07-17",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、8本。ツールはメルリエが混沌のスプリントを制して『今大会3勝目』、今日の第13ステージは大会最長205.8kmで、舞台はツール史上『最初の山』バロンダルザス――そのふもとは、あのティボー・ピノの故郷です。国内は、キャノンデールの体験型試乗会とあさひの『中古4倍』計画を経営メモに。",
+    "cards": [
+      {
+        "id": "20260717-merlier-stage12",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-07%2Fcaptura-de-ecra-2026-07-16-162714-6a58f86daed3e.png",
+        "headline": "メルリエが『自壊させられたスプリント』を深い位置から差し切る――今大会3勝目、リドル・トレックの猛攻もかわす",
+        "layer1": "第12ステージ（ヌヴェール・マニクール→シャロン＝シュル＝ソーヌ179.1km）を、ティム・メルリエ（スーダル・クイックステップ）が制した。今大会『3勝目』。2位コーイ、3位フィリプセン。ポガチャルはマイヨジョーヌを堅持。",
+        "layer2": "この日はリドル・トレックがシモンズ・ヴァチェク・スケルモース・ペデルセンで残り40kmから執拗にアタックを繰り返し、集団スプリントそのものを『壊し』にかかった。それでもメルリエは後方から一気に差し切る勝負強さ。純スプリンターにとって『ほぼ最後の平坦決戦』で、10勝級スプリンターのフィリプセンは今大会まだ未勝利のまま。ペデルセンは緑（ポイント賞）を堅持している。",
+        "sources": [
+          {
+            "t": "Cycling Uptodate",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-de-france-2026-stage-12-tim-merlier-wins-chaotic-chalon-sur-saone-sprint-after-lidl-trek-tears-race-apart",
+            "d": "2026-07-16"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/live/tour-de-france-2026-stage-12-live/",
+            "d": "2026-07-16"
+          }
+        ],
+        "status": "確定＝区間優勝・順位・リドルトレックの分断策は複数媒体が一致。緑ジャージ堅持は前ステージからの継続。"
+      },
+      {
+        "id": "20260717-stage13-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://franceletour.com/wp-content/uploads/2026/07/tdf-2026-stage-13-dole-to-belfort.jpg",
+        "headline": "きょう第13ステージは『大会最長205.8km』のドール→ベルフォール――前半は平坦、勝負は残り75kmのバロンダルザス、しかも『雨』",
+        "layer1": "第13ステージは3週間で唯一の200km超え・大会最長の205.8km。前半3分の2はカテゴリ山なしの平坦で、逃げが決まりにくい。難所は終盤に凝縮――コル・デ・クロワ（5.1km/4.8%・残り48km）と、決定的なバロンダルザス（8.9km/6.9%・頂上は残り約30km）。",
+        "layer2": "予報は『土砂降り』。濡れたバロンダルザスの下り＋起伏の残り30kmは、逃げ切り狙いにも危険な一日になる。総合はポガチャルが+3分36秒でコントロール下にあり、GCは静かに推移する見込み。カラパスら『ステージ狩り』勢とヴァチェク、ボードワンあたりが逃げの主役候補。",
+        "sources": [
+          {
+            "t": "Cycling Uptodate",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-stage-13-preview-profiles-favourites-and-predictions-final-breakaway-stage-of-the-week-to-provide-fireworks",
+            "d": "2026-07-16"
+          },
+          {
+            "t": "IDL Procycling",
+            "u": "https://www.idlprocycling.com/cycling/2026-tour-de-france-stage-13-preview-breakaway-must-be-careful-in-soaking-wet-conditions",
+            "d": "2026-07-16"
+          }
+        ],
+        "status": "確定＝距離・登坂スペック・雨予報は複数プレビューが一致。逃げの主役は予想。"
+      },
+      {
+        "id": "20260717-ballon-alsace-pinot",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://mlermmvk3oie.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://hetiskoers.nl/wp-content/uploads/20250717TDF2067-scaled.jpg",
+        "headline": "舞台はツール『最初の山』バロンダルザス――121年前に山岳の歴史が始まった坂、そのふもとはピノの故郷メリゼ",
+        "layer1": "きょう越えるバロンダルザスは、ツール・ド・フランスが初めて『本物の山』を登った坂。1905年7月11日、ルネ・ポティエが先頭で頂上を越え、ここから“人と山の闘い”が始まった。コースは121年後の今日、標高137.8km地点で村メリゼ――ティボー・ピノの故郷を通る。",
+        "layer2": "ピノは2023年に引退した『近年で最も愛されたフランスのクライマー』（ツール区間3勝・2014年総合3位）。今回、大会スポンサーのAirbnbと組み、メリゼの自身の農場に泊まれる企画をこのステージに合わせて用意した。フランスのファンの間では“ピノの日”として盛り上がっており、Xでも話題（※Xの盛り上がり自体は入口・ファーム企画と歴史は一次確認済み）。",
+        "sources": [
+          {
+            "t": "Velo (Outside)",
+            "u": "https://velo.outsideonline.com/tour-de-france/tour-de-france-2026-stage-previews/stage-13",
+            "d": "2026-07-16"
+          },
+          {
+            "t": "Het is Koers!",
+            "u": "https://hetiskoers.nl/tour-de-france-2026-etappe-13-ballon-alsace/",
+            "d": "2026-07-16"
+          },
+          {
+            "t": "Wikipedia（Col du Ballon d'Alsace）",
+            "u": "https://en.wikipedia.org/wiki/Col_du_Ballon_d'Alsace",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝1905年『最初の山』・ポティエ先頭通過・メリゼがピノ故郷・Airbnb企画。X上の熱狂は入口として扱い、事実は一次で裏取り済み。"
+      },
+      {
+        "id": "20260717-canyon-v2x-safety",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/07/2026-July-4-Tech-of-the-Week-scaled.jpg",
+        "headline": "『喋る自転車、聴く道路』――キャノンがV2X搭載コンセプト『Predict』を公開、AI＋レーダー＋カメラで危険を先読み",
+        "layer1": "キャノン（Canyon）がユーロバイクで、V2X（車と“何とでも”通信する技術）を積んだコンセプトバイク『Predict』を披露した。AI・レーダー・カメラ・ハンドルバー内蔵ディスプレイを組み合わせ、『喋る自転車、聴く道路』という安全思想を掲げる。",
+        "layer2": "Predictは潜在的な危険の検知、他の交通参加者の監視、グループライドの挙動把握、さらに『コーナーの推奨速度』の提示までを想定。まだ市販前のコンセプトだが、青切符時代に入り“安全装備”への関心が高まる日本にも、いずれ効いてくる潮流。空論ではなく、レーダー（後方検知）はすでに実売品が普及済みという地続きの話。",
+        "sources": [
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/tech-news/bikes-that-talk-roads-that-listen-is-this-wireless-communication-the-future-of-cycle-safety-plus-more-tech-news-from-specialized-canyon-bianchi-campagnolo-prologo-maap",
+            "d": "2026-07-04"
+          }
+        ],
+        "status": "確定＝Predictの機能・V2Xの狙いはroad.ccが報道。市販時期・価格は未定（コンセプト）。"
+      },
+      {
+        "id": "20260717-cannondale-lab-experience",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260710-01076851-eipub-000-1-view.jpg?exp=10800",
+        "headline": "【経営メモ】キャノンデール『The LAB Experience』7/25横浜――“試乗”でなく“体験”、最上位LAB71を語ってから乗せる集客モデル",
+        "layer1": "キャノンデールが7月25日（土）、横浜ベイサイドで体験型イベント『The LAB Experience』を開催。最上位ライン『LAB71』仕様のスーパーシックスEVO（第5世代）とアルミ最高峰CAAD14を、みなとみらいで20〜30km試乗できる。参加無料・定員12名・Peatix先着。",
+        "layer2": "肝は“いきなり試乗”ではなく、スタッフによる開発思想のトークセッション→それから試乗、の順番。『物語を入れてから乗せる』ことで体験の解像度を上げる設計だ。個人店への含意：メーカー主導の“体験型”が集客の主戦場になりつつある。うちも中華カーボン（8LIEN／CRW等）で“語ってから乗せる”接客に置き換えられる型。",
+        "sources": [
+          {
+            "t": "Cannondale（FUNQ）/ Yahoo!ニュース",
+            "u": "https://news.yahoo.co.jp/articles/e030e54dc2be43041982263e543c7ed261c5cdda",
+            "d": "2026-07-10"
+          }
+        ],
+        "status": "確定＝開催日・会場・試乗車・参加条件は告知記事に明記。"
+      },
+      {
+        "id": "20260717-asahi-used-bikes",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3222973025062026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.8&fp-y=0.16&h=630&w=1200&s=385f06f5b5199271a39b650be728b952",
+        "headline": "【経営メモ・市場】あさひが中古自転車販売を『3年で4倍』へ――2028年度に年8万台、国内保有6000万台に照準",
+        "layer1": "あさひが、中古自転車の買取・整備・再販売を強化し、販売台数を2028年度に2025年度比『4倍』の年8万台へ引き上げる計画（日経・7/14）。全国558店舗の大半で買取に対応し、国内に眠る約6000万台の保有ストックを狙う。",
+        "layer2": "スポーツ車の“二次流通（中古）市場”の膨張は、個人店に二面ある。①脅威＝買い替え需要の受け皿を大手チェーンが押さえに来る。②商機＝目利き・整備・アフターで『中古カーボンを安心して売る／面倒を見る』のは、むしろ個人店の得意分野。新車の値引き競争から降り、“中古＋整備”の粗利を取りに行く選択肢が現実味を帯びる。",
+        "sources": [
+          {
+            "t": "日本経済新聞",
+            "u": "https://www.nikkei.com/article/DGXZQOUF282U90Y6A420C2000000/",
+            "d": "2026-07-14"
+          }
+        ],
+        "status": "確定＝4倍・8万台・6000万台・558店舗は日経報道。個人店への含意は分析。"
+      },
+      {
+        "id": "20260717-longride-pacing",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://bike-plus.com/cdn/shop/articles/1440-810-longride-roadbike-custom_7daae67b-3f27-4046-9ef0-e4cfadea6467.jpg?v=1774158503",
+        "headline": "プロが今日『205km』を走る夏、初中級のお盆ロングは“根性”でなく“配分”――垂れないための順序",
+        "layer1": "きょうのツールは大会最長205.8km。お盆ロングを控える初中級にとって、100km超を『頑張るもの』にしない鍵は、根性ではなく順序＝前半は抑えめ・補給は先手・登りは一定パワー。",
+        "layer2": "プロは糖質120g/時で走るが（7/16既出）、初中級はまず60g/時を20分おきに、水分は喉が渇く前に。前半で心拍を上げすぎると後半に必ず“垂れる”。205kmは一発の根性でなく、最初の1時間の抑制で決まる。カスタムより先に、この“配分”が効く。",
+        "sources": [
+          {
+            "t": "Cycling Uptodate（第13ステージ・最長205.8kmの根拠）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-stage-13-preview-profiles-favourites-and-predictions-final-breakaway-stage-of-the-week-to-provide-fireworks",
+            "d": "2026-07-16"
+          },
+          {
+            "t": "Bike Plus（ロングライドの優先順位）",
+            "u": "https://bike-plus.com/blogs/blog/long-ride-custom-priority",
+            "d": "2026-03"
+          }
+        ],
+        "status": "確定＝今日が大会最長という“きっかけ”は一次確認。補給量は目安（体格・強度で調整、※厳密値は要個別調整）。"
+      },
+      {
+        "id": "20260717-wet-descending",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-07%2Frichard-carapaz-6a5279ed251b5-6a58fb35401d9.jpg",
+        "headline": "プロも警戒する『土砂降りの下り』――初中級が雨のダウンヒルで転ばない4つの基本",
+        "layer1": "きょうの第13ステージは『土砂降り』予報で、バロンダルザスの下りは濡れる。プロでも神経を使う雨の下りは、初中級ほど基本の徹底で差が出る＝①ブレーキは早め・弱めから ②車体を寝かせすぎない ③白線・マンホール・塗装を踏まない ④車間を広く。",
+        "layer2": "濡れると制動距離が伸びる。特にリムブレーキのカーボンホイールは『効き始めが遅れる』ので、ディスクより一段早い操作が要る（ディスクでも過信は禁物）。そして光る路面――白線・横断標示・散布された粉は、乾いていても滑る（7/14の“白い路面”の延長）。雨は『急がない』が最大の安全策。",
+        "sources": [
+          {
+            "t": "IDL Procycling（第13ステージ・雨予報）",
+            "u": "https://www.idlprocycling.com/cycling/2026-tour-de-france-stage-13-preview-breakaway-must-be-careful-in-soaking-wet-conditions",
+            "d": "2026-07-16"
+          }
+        ],
+        "status": "確定＝雨予報は複数プレビューが一致。制動の一般原則は既知の安全知識。"
+      }
+    ]
+  },
+  {
     "date": "2026-07-16",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。ツールは『史上最速ステージ』でウノエックスが悲願の初勝利、機材は『軽さ神話』の実測が出そろいました。今日の第12ステージは、純スプリンター最後のご褒美です。",
     "cards": [
