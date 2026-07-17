@@ -1,5 +1,222 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-07-18",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。ツールは大逃げのシュミットが『初のツール勝利』、ピドコックは総合4位へ急浮上。きょうは獲得3,800mのヴォージュ週末が開幕です。国内は大手2027の『据え置き』ラッシュと、ウィンスペースの新旗艦上陸を拾いました。",
+    "cards": [
+      {
+        "id": "20260718-tdf-st13-schmid",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-07/captura-de-ecra-2026-07-17-163348-6a5a4b6e6817a.png",
+        "headline": "無名スイス、シュミットがベルフォールで『初のツール区間勝利』――40人超の大逃げをジェイコが４枚で操り、テハダを競り落とす",
+        "layer1": "大会最長205.8kmの第13ステージ（ドール→ベルフォール）は大逃げが決着。ジェイコ・アルウラのマウロ・シュミットが最後の登り〜スプリントでハロルド・テハダを抑えて優勝、3位にトム・ピドコック。総合はポガチャルが集団でゴールし黄色を維持した。",
+        "layer2": "先回りで『なぜこの逃げが残ったか』を潜ると、序盤1時間で40人超の巨大逃げが形成され、ジェイコは4枚を送り込んで数の優位を確保。勝負どころのバロン・ダルザス（8.9km・平均6.9%）でも決定的には割れず、下って平坦〜スプリントに持ち込める展開になった。シュミットは元ジロ区間勝者だが『ツールの区間勝利は初』で、スイス人の値千金の1勝。GC勢が動かない“逃げ容認デー”の裏返しでもある。",
+        "sources": [
+          {
+            "t": "Cycling Uptodate（結果）",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-de-france-2026-stage-13-mauro-schmid-wins-breakaway-bonanza-in-belfort-whilst-tom-pidcock-enters-podium-fight",
+            "d": "2026-07-17"
+          },
+          {
+            "t": "VAVEL",
+            "u": "https://www.vavel.com/en-us/more-sports/2026/07/17/1265963-stage-13-tour-de-france-live-result-between-dole-and-belfort-2026.html",
+            "d": "2026-07-17"
+          },
+          {
+            "t": "ProCyclingStats（第13ステージ）",
+            "u": "https://www.procyclingstats.com/race/tour-de-france/2026/stage-13/result/result",
+            "d": "2026-07-17"
+          }
+        ],
+        "status": "確定＝優勝シュミット・2位テハダ・3位ピドコック・ポガチャル黄色維持（複数媒体一致）。"
+      },
+      {
+        "id": "20260718-tdf-st14-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/www.indeleiderstrui.nl/images/2026-07/pogacar-le-markstein.jpg",
+        "headline": "きょう第14ステージは『ヴォージュの女王週末』開幕――ミュルーズ→ル・マルクスタン155.3km・獲得3,800m、初登場コル・デュ・ハーグが伏兵",
+        "layer1": "土曜の第14ステージは山岳7つ・獲得3,800m。序盤にヴォージュ最高峰グラン・バロン（21.5km・平均4.8%）、終盤にバロン・ダルザスとツール初登場のコル・デュ・ハーグ（11.2km・平均7.3%・瞬間15%）を越えてル・マルクスタンにゴール。午後は山岳で雷雨予報だ。",
+        "layer2": "先回りすると、コル・デュ・ハーグは遊歩道を舗装した“未知の激坂”で全チームが実戦データを持たない＝GCが動く余地がある。総合はポガチャル首位、+3:36ヴィンゲゴー、+4:06レムコ、+4:15ピドコック。逃げには獲得3,800m級の山岳ポイントという動機があり、ポガチャルが黄色を『封印』しにくるか、逃げに委ねるかが焦点。発走は13:10CEST。",
+        "sources": [
+          {
+            "t": "Olympics.com（第14プレビュー）",
+            "u": "https://www.olympics.com/en/news/tour-de-france-stage-14-route-profile-schedule-how-to-watch",
+            "d": "2026-07-18"
+          },
+          {
+            "t": "Cyclingstage（第14コース）",
+            "u": "https://www.cyclingstage.com/tour-de-france-2026-route/stage-14-tdf-2026/",
+            "d": "2026-07-17"
+          },
+          {
+            "t": "IDL ProCycling（第14プレビュー）",
+            "u": "https://www.idlprocycling.com/cycling/2026-tour-de-france-stage-14-preview-the-breakaway-riders-have-3800-reasons-but-does-tadej-pogacar-have-one-too",
+            "d": "2026-07-17"
+          }
+        ],
+        "status": "確定＝距離155.3km・獲得3,800m・主要山岳・GC上位（複数媒体）。天候は予報。"
+      },
+      {
+        "id": "20260718-tdf-pidcock-podium",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-07/tom-pidcock-on-stage-9-of-the-2026-tour-de-france-6a54d51e0fe09.jpg",
+        "headline": "ピドコックが大逃げで一気に総合4位へ――表彰台まで『わずか9秒』、下り職人のGC挑戦が現実味",
+        "layer1": "第13ステージでピドコック（ピナレロQ36.5）は逃げに乗って区間3位。路上で約7分半＋ボーナスを稼ぎ、総合10位→4位に急浮上した。3位レムコ（+4:06）との差はわずか9秒に迫る。",
+        "layer2": "開幕前は『区間狙いから総合へ一段のぼる物語』だった男が、実際に表彰台圏へ。ただしピナレロQ36.5は2部相当で山岳アシストが薄く、単独で守り切れるかは未知数。週末のヴォージュ〜最終週のアルプ・デュエズ2連発で、UAE／ヴィスマの組織力に個の脚でどこまで抗えるか。日本のファンも『下りの化物が総合争い』と沸いている。",
+        "sources": [
+          {
+            "t": "Cycling Uptodate（総合更新）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-classifications-update-stage-13-tom-pidcock-enters-the-fight-for-podium-after-magical-breakaway",
+            "d": "2026-07-17"
+          },
+          {
+            "t": "TNT Sports（第13ライブ）",
+            "u": "https://www.tntsports.co.uk/cycling/tour-de-france/2026/live-road-race-men-stage-13-dole-belfort_mtc1648951/live-commentary.shtml",
+            "d": "2026-07-17"
+          }
+        ],
+        "status": "確定＝総合4位・+4:15・表彰台まで9秒（複数媒体）。"
+      },
+      {
+        "id": "20260718-aero-long-climb",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://media.delius-klasing.de/images/dpr_auto,fl_progressive,f_auto,c_fill,g_auto:subject:thirds_0,h_600,w_1068/q_auto:eco/tour/gettyimages-2286224473_a96c582566e652d22e301f0498357c36/tour-de-france-2026-why-aero-bikes-make-all-the-difference-on-the-ballon-d-alsace",
+        "headline": "『長くて緩い峠』はエアロ機材で決まる――独TOURの試算、最速と最遅のバイクで“約6km分・8分26秒”の差",
+        "layer1": "独TOUR誌が第13ステージ（長い平坦＋緩めの登り）をモデル化し、最速バイク（ヴァンリールRCR-Fプロ）と最遅（サーヴェロR5）を比較。全行程で『8分26秒＝約6km』の差と試算した。長い接近区間では“軽さ”より“エアロによる省エネ”が支配的、という結論だ。",
+        "layer2": "先回りで実態を見ると、これはあくまでシミュレーション（実際の逃げのタイム差ではない）。ただ勝ったシュミットのジェイコはエアロ寄りの機材で、緩斜面主体のコースにハマった。勾配が緩いほどエアロが効き、激坂でだけ軽量が勝る――という『使い分け』が数字で裏づけられてきた。うちの深リム・エアロ寄りホイールを勧める根拠に使える文脈だ。",
+        "sources": [
+          {
+            "t": "TOUR Magazin（英語版）",
+            "u": "https://www.tour-magazin.de/en/professional-cycling/latest-news/tour-de-france-2026-why-aero-bikes-make-all-the-difference-on-the-ballon-d-alsace/",
+            "d": "2026-07-17"
+          }
+        ],
+        "status": "確定＝TOUR誌の試算値（同誌）。※実レースの着差とは別のシミュレーション。"
+      },
+      {
+        "id": "20260718-2027-price-hold",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bikeueki.com/wp-content/uploads/2026/07/TREK_MadoneSL_2027_New_Color_top.jpg",
+        "headline": "【経営メモ】円安でも大手2027は『据え置き』ラッシュ――トレック・マドンSL 2027（7/11発表）、キャニオン・エアロード2027は今週日本発売",
+        "layer1": "トレックがマドンSL 2027（第8世代・IsoFlow・新色）を7/11に発表、価格は2026から据え置き（SL5＝105機械式〜SL7＝アルテグラDi2）。キャニオンも新エアロード2027を7月中旬に日本発売、風洞198Wの新コクピットを採用しつつ価格を据え置く。",
+        "layer2": "先回りすると、円安局面での『据え置き』は各社の消耗戦のサイン＝実質値下げに近い。個人店への含意は二つ。①フラッグシップでも定価が動かない＝値引き原資が細る、②“価格”で戦えないぶん、試乗・フィッティング・アフターの体験価値で差を作る局面。2027ラッシュは旧2026在庫の処分圧を同時に連れてくる点も要注意。※キャニオンの発表は6月下旬、日本発売が7月中旬。",
+        "sources": [
+          {
+            "t": "SPORT CYCLE UEKI（マドンSL 2027）",
+            "u": "https://bikeueki.com/bike/model/road_bike/",
+            "d": "2026-07-11"
+          },
+          {
+            "t": "Bicycle Club／funq（エアロード2027）",
+            "u": "https://www.funq.jp/bicycle-club/article/1074149/",
+            "d": "2026-06-27"
+          }
+        ],
+        "status": "確定＝トレック据え置き・キャニオン198W／据え置き・7月中旬発売（各媒体）。"
+      },
+      {
+        "id": "20260718-winspace-t1600-ultra",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://www.winspace.cc/cdn/shop/files/T1600_UItra_Frame_Pearl_White_dd6a2278-ee38-490a-bad1-d89a95084a45.webp?v=1783069578",
+        "headline": "【市場】ウィンスペースが日本で『T1600 ULTRA』発売（7/10）――UCI非準拠の“純ピュアスピード”、中華トップが『格安』でなく『最速旗艦』で攻める",
+        "layer1": "ウィンスペース・ジャパンが7/10、フラッグシップ・エアロロード『T1600 ULTRA』を発売（¥468,000、初回デリバリー秋頃）。UCI規定にとらわれずに設計したD型エアロシステムとワイドスタンス・エアロフォークが売り。同日に一体型ハンドル『HYPER 2』も受注を開始した。",
+        "layer2": "先回りすると、これは中華トップ勢の“転換”を示す。これまでの武器は『大手の1/3〜1/2の価格』だったが、いまや『最速の旗艦を自前で作る』段階へ。海外価格は2,550ドル〜。うち（8LIEN／CRW／GOOSYNN等）には二面あり、①中華＝安物という認識がさらに崩れて追い風、②“最速フラッグシップ”帯の競争が激化＝品揃えと提案力が問われる。国内代理店流通で保証・サポートが付くのも上陸の肝だ。",
+        "sources": [
+          {
+            "t": "WINSPACE JAPAN（ニュース）",
+            "u": "https://winspace.jp/blogs/news",
+            "d": "2026-07-10"
+          },
+          {
+            "t": "Winspace（T1600 Ultra 製品ページ）",
+            "u": "https://www.winspace.cc/products/t1600-uitra",
+            "d": "2026-07-10"
+          }
+        ],
+        "status": "確定＝発売日7/10・国内価格¥468,000・仕様（公式）。海外価格は公式ストア表記。"
+      },
+      {
+        "id": "20260718-beginner-long-climb",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://biketips.com/wp-content/uploads/2026/07/tour-de-france-2026-stage-10-le-lioran-bastille-day.jpg",
+        "headline": "プロが21.5kmの『グラン・バロン』を登る日――初中級が“長い登り”で垂れない3つの順序と、濡れた下りの守り",
+        "layer1": "きょうのヴォージュは21.5km級の長い登りと、雷雨予報の下りが待つ。初中級がこの型で失敗する原因は、序盤の踏みすぎと、下りの油断のふたつに集約される。",
+        "layer2": "先回りの答え。①最初の3分の1は『会話できる強度』に抑える（“鼻呼吸が保てるか”が目安）、②ケイデンスは70〜85を切らさず、ギアを常に1枚軽く残す、③補給は登り始めから入れる（垂れてからでは遅い）。濡れた下りは a）ブレーキを早めに軽く断続、b）白線・マンホール・落ち葉を避けてライン取り、c）体を冷やさないよう薄手のウインドブレーカーを1枚。お盆の峠越えにそのまま効く手順だ。",
+        "sources": [
+          {
+            "t": "Olympics.com（第14ステージ諸元）",
+            "u": "https://www.olympics.com/en/news/tour-de-france-stage-14-route-profile-schedule-how-to-watch",
+            "d": "2026-07-18"
+          }
+        ],
+        "status": "確定＝コース諸元（媒体）。走法は一般則（体調優先）。"
+      },
+      {
+        "id": "20260718-x-pogacar-breakaway",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://bikenewsmag.com/wp-content/uploads/2026/07/2026tour-de-france-stage13-course-profile.jpg",
+        "headline": "【Xでも話題】日本のクラスタは『どうせポガチャルが仕掛ける』と身構えた――が、逃げが残ってシュミット勝利という“静かなGCデー”",
+        "layer1": "第13ステージ前、日本の自転車クラスタやまとめでは『逃げ用ステージでも、例のポガチャルがどうせ登りで仕掛けて美味しいところを持っていくのでは』という“身構え”が話題になっていた。だが実際は大逃げが8分超のリードを守り、GC勢は動かずシュミットが勝った。",
+        "layer2": "裏取りすると、このバズの入口にあるのは“強すぎる王者への疲れ”という感情。今回は逃げ容認で決着し、『たまにはこういう日もいい』という反応も出た。ポガチャルは総合+3:36で盤石ゆえ、無理に区間を獲りにいく動機が薄れているのも一因だ。関心は週末のヴォージュ（未知のコル・デュ・ハーグ）で“また封殺”か“逃げの祭り”かに移っている。※Xの空気は日本語メディア・まとめ経由で確認、断定はしない。",
+        "sources": [
+          {
+            "t": "Bike News Mag（第13プレビュー・日本語）",
+            "u": "https://bikenewsmag.com/2026/07/17/2026-tour-de-france-stage-13-preview/",
+            "d": "2026-07-17"
+          },
+          {
+            "t": "Cycling Uptodate（結果で裏取り）",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-de-france-2026-stage-13-mauro-schmid-wins-breakaway-bonanza-in-belfort-whilst-tom-pidcock-enters-podium-fight",
+            "d": "2026-07-17"
+          }
+        ],
+        "status": "確定＝逃げ切り決着。曖昧＝Xの“空気”はまとめ・媒体経由（※要裏取り扱い）。"
+      },
+      {
+        "id": "20260718-beginner-elevation-load",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://escapecollective.com/content/images/size/w1200/2026/07/pogwinstdf3.jpeg",
+        "headline": "プロが週末に3,800m登る夏――初中級が『獲得標高』と上手に付き合う、1回と月間の目安",
+        "layer1": "ヴォージュ週末はステージ単発で獲得3,800m。憧れて“いきなり大量獲得”を狙うと、初中級はケガやオーバートレーニングになりやすい。数字に飲まれないコツを先回りでまとめた。",
+        "layer2": "答えは三つ。①1回のロングは“前回の最長・最大獲得”から＋10%程度までに留める（急に倍にしない）、②月間の登坂量は週ごとに漸増させ、4週目は減らす（回復週を必ず置く）、③『獲得標高』そのものより“登りの合計時間×強度”で疲労を見る。真夏は同じ標高でも暑さで負荷が上がるので、涼しい早朝に獲得を稼ぐのが安全だ。お盆に一気に距離と登りを伸ばしたい人ほど、この“＋10%と回復週”を守ると垂れずに伸びる。",
+        "sources": [
+          {
+            "t": "IDL ProCycling（第14＝獲得3,800mの週末）",
+            "u": "https://www.idlprocycling.com/cycling/2026-tour-de-france-stage-14-preview-the-breakaway-riders-have-3800-reasons-but-does-tadej-pogacar-have-one-too",
+            "d": "2026-07-17"
+          }
+        ],
+        "status": "一般則（数字は目安、体調と睡眠を最優先）。"
+      }
+    ]
+  },
+  {
     "date": "2026-07-17",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、8本。ツールはメルリエが混沌のスプリントを制して『今大会3勝目』、今日の第13ステージは大会最長205.8kmで、舞台はツール史上『最初の山』バロンダルザス――そのふもとは、あのティボー・ピノの故郷です。国内は、キャノンデールの体験型試乗会とあさひの『中古4倍』計画を経営メモに。",
     "cards": [
