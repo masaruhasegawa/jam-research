@@ -1,5 +1,251 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-07-19",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。きょう第15ステージは『ツール史上初』プラトー・ド・ソレゾンの激坂頂上ゴール、明日は第2休息日です。ポガチャル4勝＆総合4分半リードで、主戦場は早くも『2位争い』へ。",
+    "cards": [
+      {
+        "id": "20260719-tdf-st14",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/zUqSFBBy9NentUNMfpx4fh-2000-80.jpg",
+        "headline": "ポガチャルがヴォージュで独走、今大会『4勝目』――コル・デュ・ハーグ残り7.2kmで逃げを飲み込み、総合リードは『4分30秒』に",
+        "layer1": "第14ステージ(ミュルーズ→ル・マルクスタン155.3km・獲得3,800m)は、最終盤コル・デュ・ハーグの残り7.2kmでポガチャルが猛攻。逃げを吸収して独走で4勝目。2位はチームメイトのデルトーロ(＋38秒)、3位に19歳セイシャス。",
+        "layer2": "これで総合は2位ヴィンゲゴー『＋4:30』、3位エヴェネプール＋5:04、4位セイシャス＋5:19、5位アユソ＋5:22。ヴィンゲゴーは最終登坂で44秒遅れに“抑えた”が差はむしろ拡大。残すアルプス2連戦(第19–20ステージ)で3分半超を覆す現実味は薄く、レースの主戦場は早くも『2位以下の表彰台争い』へ移った。",
+        "sources": [
+          {
+            "t": "Cyclingnews（第14ステージ速報）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-tadej-pogacars-late-attack-on-col-du-haag-nabs-solo-stage-14-win-as-isaac-del-toro-outsprints-paul-seixas-and-jonas-vingegaard-to-take-second/",
+            "d": "2026-07-18"
+          },
+          {
+            "t": "CyclingUpToDate（GC更新）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-classifications-update-stage-14-pogacar-now-has-over-4-minutes-over-vingegaard-evenepoel-defends-podium-from-seixas",
+            "d": "2026-07-18"
+          }
+        ],
+        "status": "確定＝ステージ結果・GCタイム差（Cyclingnews／CyclingUpToDate）。"
+      },
+      {
+        "id": "20260719-tdf-st15-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.cyclingstage.com/images/tour-de-france/2026/stage-15-profile-100.jpg",
+        "headline": "きょう第15ステージは『ツール史上初』プラトー・ド・ソレゾン頂上ゴール――184km・獲得4,700m、最後は11.3km平均9%の壁",
+        "layer1": "シャンパニョール→プラトー・ド・ソレゾン184km。ジュラを越えアルプへ、締めはツール初登場のHC(超級)。11.3km平均9.1%、しかも『最初の4kmが11%』という激坂で登坂力勝負。",
+        "layer2": "この山頂は2022年クリテリウム・ドゥ・ドフィネ最終日でヴィンゲゴーが登った坂で、先月のツール・オーヴェルニュ＝ローヌ・アルプではデルトーロが残り9kmから独走して総合を決めた“デルトーロの庭”。翌7/20が第2休息日＝出し切れる日で、逃げ・2位争い・デルトーロのステージ狩りが焦点。GC自体は動きにくい。",
+        "sources": [
+          {
+            "t": "Cyclingstage（第15ステージ）",
+            "u": "https://www.cyclingstage.com/tour-de-france-2026-route/stage-15-tdf-2026/",
+            "d": "2026-07-19"
+          },
+          {
+            "t": "Olympics.com（Stage 15 preview）",
+            "u": "https://www.olympics.com/en/news/tour-de-france-2026-stage-15-preview-sunday-19-july-route-profile-schedule-climbs-how-to-watch-live",
+            "d": "2026-07-19"
+          }
+        ],
+        "status": "確定＝コース・距離・勾配（Cyclingstage／Olympics）。展開は予想。"
+      },
+      {
+        "id": "20260719-seixas",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://d2779tscntxxsw.cloudfront.net/69ec93cc73bc9.png",
+        "headline": "『42年ぶりの仏マイヨブラン』へ王手――19歳セイシャス、初出場ツールで第14ステージ3位＆白ジャージ、総合4位に浮上",
+        "layer1": "第14ステージで3位に入った19歳ポール・セイシャス(デカスロン)が、最優秀ヤングライダーの白ジャージを奪取。総合も4位(＋5:19)に上げ、初グランツールで『日を追うごとに強く』なっている。",
+        "layer2": "何者か――19歳283日で今大会最年少、ツール最年少は1937年以来。今季すでにストラーデ・ビアンケ2位、フレーシュ・ワロンヌ史上最年少優勝、バスク一周を3ステージ＋総合(仏勢のWorldTourステージレース制覇は2007年以来)。リエージュではラ・ルドゥートでポガチャルに食らいついた逸材。仏はマイヨジョーヌが1985年イノー以来遠いだけに、白ジャージは現実的な希望。ライバルはデルトーロ、アユソ。",
+        "sources": [
+          {
+            "t": "FloBikes（Seixas特集）",
+            "u": "https://www.flobikes.com/articles/16050056-paul-seixas-just-a-teenager-trying-to-end-nations-tour-de-france-drought",
+            "d": "2026-07"
+          },
+          {
+            "t": "CyclingUpToDate（GC更新）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-classifications-update-stage-14-pogacar-now-has-over-4-minutes-over-vingegaard-evenepoel-defends-podium-from-seixas",
+            "d": "2026-07-18"
+          }
+        ],
+        "status": "確定＝3位・白ジャージ・戦績（FloBikes／CyclingUpToDate）。"
+      },
+      {
+        "id": "20260719-deltoro-heir",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/bXSDPnw6gVtg5BEAzPMwaa-2100-80.jpg",
+        "headline": "UAEの“二枚看板”が現実味――22歳デルトーロが第14ステージ2位、ポガチャルは前夜『イサクは100%ではなかった』と余裕",
+        "layer1": "ポガチャルのチームメイト、イサク・デルトーロ(22・メキシコ)が第14ステージ2位(＋38秒)。白ジャージ争いでもセイシャスと接戦。第15を前にポガチャルは『イサクはまだ100%じゃなかった』とライバルに“希望”をちらつかせた。",
+        "layer2": "深掘り――デルトーロは今年ジロ2位の実力者で、アナリストは『ステージ勝利数はポガチャルを上回るかも』とまで評する。ポガチャル自身も7/2会見で彼を『ツールに勝てる選手』と名指し済み。UAEは王者＋次世代エースで『勝ってもチーム内、逃がしても身内』という盤石さ――皮肉にもこれが“レースが退屈”論の一因になっている。",
+        "sources": [
+          {
+            "t": "IDL ProCycling（第15前日コメント）",
+            "u": "https://www.idlprocycling.com/cycling/pogacar-gives-podium-contenders-a-little-hope-isaac-didnt-feel-100-himself",
+            "d": "2026-07-18"
+          },
+          {
+            "t": "Cyclingnews（ポガチャルがデルトーロを“勝者候補”に）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/i-think-were-ready-tadej-pogacar-names-teammate-isaac-del-toro-as-a-possible-tour-de-france-winner/",
+            "d": "2026-07-02"
+          }
+        ],
+        "status": "確定＝2位・ポガチャル発言（IDL／Cyclingnews）。“勝者候補”名指しは7/2＝補足。"
+      },
+      {
+        "id": "20260719-pogacar-dominance",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://escapecollective.com/content/images/size/w1200/2026/07/corvos-tdf-2026-stage-14-pogacar.jpg",
+        "headline": "【Xでも『2位争いしか見どころがない』】ポガチャル支配に賛否――モビスターは『ロードの不文律を守れ』と苦言",
+        "layer1": "4勝＋総合4分半リードの圧倒に、SNSや評論で『強すぎて退屈』『レースが2位争い化』の声。モビスターのスポーツディレクターは『勝利が全てでも、ロードには守るべき不文律がある』と、逃げや小チームへの配慮を求めて苦言を呈した。",
+        "layer2": "裏側――ASOは今年、平坦ステージの配点を上げる“アンチ・ポガチャル”的なポイント改定で3賞独占を防ごうとした。だがGCには無力。一方で退屈論は毎年恒例で視聴数は落ちていないとの反論もあり、実態は『争点が2位以下の物語に移った』こと。煽りに乗らず、そこの人間ドラマを追うのが今大会の正しい楽しみ方。",
+        "sources": [
+          {
+            "t": "Bike News Mag（モビスター苦言）",
+            "u": "https://bikenewsmag.com/2026/07/14/movistar-director-warns-pogacars-dominance-is-hurting-the-tour-de-france-and-its-unwritten-rules/",
+            "d": "2026-07-14"
+          },
+          {
+            "t": "Escape Collective（race for second）",
+            "u": "https://escapecollective.com/pogacar-takes-fourth-win-of-2026-tour-on-stage-14-as-rivals-turn-to-race-for-second/",
+            "d": "2026-07-18"
+          }
+        ],
+        "status": "曖昧＝“退屈論”はSNS・評論の主観。確定＝モビスター発言・配点改定（Bike News Mag／Escape Collective）。Xは入口、裏はメディア発言で取得。"
+      },
+      {
+        "id": "20260719-beginner-climb",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://image.climbfinder.com/col-de-solaison-thuet.png",
+        "headline": "プロが今日『11km平均9%』の壁を登る日――初中級が“最初がキツい登り”で垂れない3つの順序",
+        "layer1": "ソレゾンのように『序盤が一番キツい(最初4kmで11%)』坂は、入りを間違えると中腹で脚が終わる。初中級が長い激坂で止まらない鍵は、パワーでなく『順序』にある。",
+        "layer2": "潜って得た答え――①入り2〜3分は“物足りない”強度に意図して抑える(登り始めの心拍オーバーシュートが後半の失速を作る)。②ギアは早め軽めで『ケイデンス70前後・座って回す』を基本に、10%超の一撃だけ立つ。③補給は登り“前”に済ませる(勾配がキツいと飲み食いできない)。この順で、同じ脚力でもタイムと余力が変わる。プロがソレゾンで見せる淡々としたペースが、そのまま初中級の教科書。",
+        "sources": [
+          {
+            "t": "Cyclingstage（第15ステージ・勾配）",
+            "u": "https://www.cyclingstage.com/tour-de-france-2026-route/stage-15-tdf-2026/",
+            "d": "2026-07-19"
+          },
+          {
+            "t": "Olympics.com（Stage 15 preview）",
+            "u": "https://www.olympics.com/en/news/tour-de-france-2026-stage-15-preview-sunday-19-july-route-profile-schedule-climbs-how-to-watch-live",
+            "d": "2026-07-19"
+          }
+        ],
+        "status": "確定＝勾配データ（Cyclingstage／Olympics）。走り方は一般的コーチング知見。"
+      },
+      {
+        "id": "20260719-market-asahi",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://diamond-rm.net/wp-content/uploads/2020/07/87c705298f2c31ecb6c3474f0792c335.jpg",
+        "headline": "【経営メモ】あさひ夏セールは『〜7/26』、楽天は7/18〜20クーポン――大手の値引き山を、個人店は“ツール特需の接客”でかわす",
+        "layer1": "サイクルベースあさひのスポーツ夏セールは7/26まで、複数店でリニューアル開店キャンペーン(6/26〜7/26)も併走。楽天店では7/18〜20に最大1,200円OFFクーポンと、EC側の値引き圧が今週ピーク。",
+        "layer2": "個人店の勝ち筋――ここで値引き競争に乗ると粗利が溶ける。狙いは『ツールで気持ちが動いている今の客』を来店に変えること。ソレゾンの激坂やポガチャル4勝を“語れる接客”の入口にし、点検・熱中症対策品・お盆ロング準備で稼ぐ。値札でなく体験と目利きで差を作る局面。",
+        "sources": [
+          {
+            "t": "サイクルベースあさひ（キャンペーン）",
+            "u": "https://www.cb-asahi.co.jp/contents/category/campaign/",
+            "d": "2026-07"
+          },
+          {
+            "t": "プライシー（あさひ7月クーポン）",
+            "u": "https://www.pricey.jp/web/articles/3862",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝セール期間・クーポン（あさひ／プライシー）。接客戦略は提案。"
+      },
+      {
+        "id": "20260719-market-yen",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/03/2603under30-sum-2.jpg",
+        "headline": "【経営メモ・市場】円安で『定価は上・実売は下』の二極化がさらに進行――ブリヂストンは5/1改定、痛むのは“ミドルレンジ空洞化”",
+        "layer1": "ブリヂストンサイクルは為替・原材料高で5/1に価格改定を実施。カタログ定価は上昇基調の一方、大手の値引き・型落ち処分で実売は下落という“二極化”が2026年も継続している。",
+        "layer2": "見落としやすい構造――特に落ち込みが深いのが『10〜20万円のミドルレンジ』。この帯はクロスバイク(5〜10万)と電動アシスト(25〜45万)にシェアを吸われ、“中途半端”として空洞化している。裏を返せば、個人店が中華ハイエンドホイールでミドル完成車を『上に化けさせる』提案(例：8LIEN/CRWで剛性・エアロを底上げ)は、この空洞にちょうど刺さる余地。",
+        "sources": [
+          {
+            "t": "ブリヂストンサイクル（価格改定告知）",
+            "u": "https://www.bscycle.co.jp/info/2026/12211",
+            "d": "2026-05"
+          },
+          {
+            "t": "サイクルスポーツ（30万円以下2026）",
+            "u": "https://www.cyclesports.jp/topics/155380/",
+            "d": "2026-03"
+          }
+        ],
+        "status": "曖昧＝市場の“現状”分析(継続トレンド)。確定＝ブリヂストン5/1改定(公式告知)。※ミドル空洞化は複数媒体の観測。"
+      },
+      {
+        "id": "20260719-wheel-chinacarbon",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://www.elite-wheels.com/wp-content/uploads/2025/03/Drive-II-2025.webp",
+        "headline": "中華カーボンの“現在地”――エリートDRIVE IIは1322g・カーボンスポーク・前作比約5W速い、『初カーボン』の基準が上がった",
+        "layer1": "中華ハイエンドの実力更新が止まらない。エリートホイールDRIVE II(50mm・ディスク)は1322g、カーボンスポーク＋新Kineticハブ(50T)、フックド／フックレス折衷リムで、風洞では前作比で約5Wの改善。",
+        "layer2": "先回り――『安いから性能は妥協』はもう古い。カーボンスポーク標準化・ワイドリム化はプロトンの潮流とほぼ同じで、DRIVE IIはその廉価版。初カーボンを選ぶ客に伝えるべきは“数字”だけでなく『検品と設計の裏取り』――同じ1300g級でもハブの掛かり・リム内幅・実測重量で乗り味は割れる。うちの8LIEN/CRW/GOOSYNNも、この“設計を語れる”土俵で勝負できる帯。",
+        "sources": [
+          {
+            "t": "Elitewheels（DRIVE II製品）",
+            "u": "https://www.elite-wheels.com/drive-ii-carbon-spokes-road-wheelset/",
+            "d": "2026"
+          },
+          {
+            "t": "Cyclists Hub（DRIVE IIレビュー）",
+            "u": "https://www.cyclistshub.com/elitewheels-drive-2-review/",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝スペック(公式)・レビュー(Cyclists Hub)。約5Wは公称・風洞値。乗り味は個体・条件で変動。"
+      },
+      {
+        "id": "20260719-giant-revolt-wro",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/TD94UiCrvRxJgYvRmTsPUB-1866-80.jpg",
+        "headline": "グラベルの“完全レース化”とサプライ影――ジャイアント新レヴォルトAdvanced SL(フレーム839g)、だが米WROで対米輸入が停止中",
+        "layer1": "ジャイアントがグラベルを全面刷新(6/30発表)。新レヴォルトAdvanced SLはフレーム839g・フォーク385g、統合ハンドル＋Cadex新ホイール／タイヤで“史上最軽量・最速のレースグラベル”を標榜。オールラウンドだったグラベルが完全にレース仕様へ。",
+        "layer2": "経営視点の裏――このAdvanced SLはGTM工場製で、現在の米WRO(輸入差止命令)により対米輸入がブロックされている。トレンド(グラベルのレース化)と同時に、『どの工場・どの国の規制で在庫が動くか』という供給網リスクが完成車の入手性を左右する時代。中華カーボンの安定調達が相対的に武器になる文脈でもある。",
+        "sources": [
+          {
+            "t": "Cyclingnews（Giant新グラベル）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/giant-overhauls-gravel-range-with-two-new-bikes-and-a-suite-of-gravel-components/",
+            "d": "2026-06-30"
+          },
+          {
+            "t": "Escape Collective（Revolt/Devote）",
+            "u": "https://escapecollective.com/giant-and-liv-launch-revolt-and-devote-gravel-race-bikes/",
+            "d": "2026-06-30"
+          }
+        ],
+        "status": "確定＝スペック・WRO(Cyclingnews／Escape Collective)。発表は6/30＝潮流＋供給の補足として掲載。"
+      }
+    ]
+  },
+  {
     "date": "2026-07-18",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。ツールは大逃げのシュミットが『初のツール勝利』、ピドコックは総合4位へ急浮上。きょうは獲得3,800mのヴォージュ週末が開幕です。国内は大手2027の『据え置き』ラッシュと、ウィンスペースの新旗艦上陸を拾いました。",
     "cards": [
