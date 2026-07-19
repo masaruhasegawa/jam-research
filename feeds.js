@@ -1,5 +1,232 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-07-20",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。ツールは第2週の最終日に『事件』が起きました――ヴィンゲゴー落車リタイア、勝ったのはエヴェネプール。きょうは第2休息日、明日はレマン湖の26kmITT。鮮度優先で、余計な古ネタは足していません。",
+    "cards": [
+      {
+        "id": "20260720-st15-evenepoel-vingegaard",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/JwN5RDmMyzTHQpxvayT399-2000-80.jpg",
+        "headline": "エヴェネプールが第15ステージ頂上ゴールでポガチャルを『出し抜いて』勝利――だが一日の主役は、残り21kmで落車リタイアした『ヴィンゲゴー』だった",
+        "layer1": "アルプス初の山頂ゴール、プラトー・ド・ソレゾン。レムコ・エヴェネプールが最後の詰めでポガチャルとデルトーロをかわし勝利。しかしその裏で、総合2位ヨナス・ヴィンゲゴーがロータリー出口で落車、右鎖骨を骨折して『棄権』した。",
+        "layer2": "ヴィンゲゴーはヴィスマの牽引で逃げを追う最中に、緩い右コーナーの出口で単独スライド。右肩を強打し立てず、救急車へ。鎖骨骨折で『手術』が必要と発表された。過去2度の総合覇者で、ポガチャルを5年間唯一本気で追い詰めてきた男の離脱――大会の“もう一つの主役”が消えた瞬間。エヴェネプールの勝ち方も見事だった（山頂で総合勢を出し抜くのはクライマー相手には難しい芸当）が、ニュースの重心は完全に落車へ移った。",
+        "sources": [
+          {
+            "t": "Cyclingnews（stage15 result）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-remco-evenepoel-outwits-tadej-pogacar-to-win-stage-15-as-jonas-vingegaard-crashes-out/",
+            "d": "2026-07-19"
+          },
+          {
+            "t": "Cycling Weekly（Vingegaard crash）",
+            "u": "https://www.cyclingweekly.com/racing/jonas-vingegaard-crashes-out-of-the-tour-de-france",
+            "d": "2026-07-19"
+          },
+          {
+            "t": "cyclowired（日本語・棄権）",
+            "u": "https://www.cyclowired.jp/news/node/392936",
+            "d": "2026-07-19"
+          }
+        ],
+        "status": "確定＝エヴェネプール勝利／ヴィンゲゴー落車・鎖骨骨折・棄権・要手術（複数一次報道で一致）。"
+      },
+      {
+        "id": "20260720-gc-reshuffle-restday",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-07%2Ftadej-pogacar-on-stage-11-of-the-2026-tour-de-france-6a57bfaf4848d.jpg",
+        "headline": "ヴィンゲゴー離脱で表彰台が一変――ポガチャル『+5:00』の2位にエヴェネプール、3位に22歳デルトーロ、4位に『19歳セイシャス』。きょうは第2休息日",
+        "layer1": "総合はポガチャルが盤石。2位エヴェネプール+5:00、3位イサク・デルトーロ+5:58、4位ポール・セイシャス+6:23、5位リポヴィッツ+6:48。2位〜10位の差が『4分弱→14分』へと一気に広がった。",
+        "layer2": "見どころは“ポガチャルの後ろ”に移った。UAEはポガチャル＋デルトーロの『二枚看板』で表彰台の2枠を狙える位置。そして19歳のセイシャス（デカスロン）が4位に浮上、42年ぶりの仏マイヨブラン＆総合表彰台がいよいよ現実味を帯びる。きょう7/20は第2休息日、明日の第16ステージ（26kmITT）から最終週アルプスへ。ライバル不在でポガチャルの『5勝目』はほぼ確実視だが、レースの物語は“若手の突き上げ”に切り替わった。",
+        "sources": [
+          {
+            "t": "Cyclinguptodate（GC after st15）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-classifications-update-stage-15-vingegaard-out-evenepoel-and-del-toro-take-over-podium-alongside-pogacar",
+            "d": "2026-07-19"
+          },
+          {
+            "t": "2026 Tour de France（Wikipedia・随時更新）",
+            "u": "https://en.wikipedia.org/wiki/2026_Tour_de_France",
+            "d": "2026-07-19"
+          }
+        ],
+        "status": "確定＝GCトップ10と各差（一次集計）。きょうが第2休息日、明日ITT。"
+      },
+      {
+        "id": "20260720-stage16-itt-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://media.delius-klasing.de/dpr_auto,fl_progressive,f_jpg,c_fill,g_face:center,h_675,w_1200/q_auto:eco/tour/gettyimages-2273014476_a9deec69856d89d5c976d809b0bf708d",
+        "headline": "明日の第16ステージは『大会唯一の個人TT』――レマン湖畔エヴィアン→トノン26km、いきなり9.6km登って下って平坦、狙いは総合の“30〜40秒差”",
+        "layer1": "エヴィアン＝レ＝バン→トノン＝レ＝バンの26km個人TT。スタート直後に平均4.2%・9.6kmの登り、7km地点で湖畔へ下り、残り9kmは平坦――『登り3分の1・下り3分の1・平坦3分の1』の複合コース。",
+        "layer2": "プリュドムが『爆発的なカクテル』と呼ぶ通り、純クライマーでも純TTスペシャリストでもない“オールラウンダー”が有利。TT巧者ではガンナ、ターリング、そしてエヴェネプールが本命。第3週の疲れた脚に、この起伏TTは総合勢間で『30〜40秒』の差を生むと予想され、機材（ディスク・TTポジション・チェーンリング選択）と、時間で向きが変わるレマン湖の横風の読みが勝負を分ける。ライバル消滅後もポガチャルは“取りにくる”はず。",
+        "sources": [
+          {
+            "t": "TOUR Magazin（ITT factor）",
+            "u": "https://www.tour-magazin.de/en/professional-cycling/tour-de-france/key-stages-of-the-2026-tour-de-france-the-individual-time-trial-on-lake-geneva/",
+            "d": "2026-07"
+          },
+          {
+            "t": "Cyclingstage（stage16）",
+            "u": "https://www.cyclingstage.com/cycling/tour-de-france-2026-stage-16/",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝距離26km・コース概要・本命（プレビュー各誌一致）。時間差『30〜40秒』は予想値。"
+      },
+      {
+        "id": "20260720-vingegaard-aftermath-x",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://assets.goal.com/images/v3/getty-2284877872/crop/MM5DKMBQGQ5DEOBRGU5G433XMU5DAORSGYYQ====/GettyImages-2284877872.jpg",
+        "headline": "【Xでも『残念』の声が渦】ヴィンゲゴー落車の余波――ヴィスマは『モーターバイクがパニックを起こした、奇妙な状況だった』とコース運用に疑問",
+        "layer1": "落車直後からX（旧Twitter）で映像が拡散、日本のローディーも『残念』『またか』と落胆の反応。Yahoo!リアルタイム検索でも“衝撃の声”がまとめられ、海外ファンも『#TDF2026 なんてこった』と同情の投稿を連ねた。",
+        "layer2": "裏取り＝ヴィスマの一次コメント。SDは『2人を逃げに送り集団を支配、ヨナスは絶好調で今日は勝ちにいくつもりだった。自転車は時に残酷だ』とし、さらに落車したコーナーについて『モーターバイクがパニックを起こした、奇妙な状況だった』と運用に疑問を呈した。ポガチャルの黄色ジャージ集団は一報で一度ペースを緩め、棄権が確実と分かってから再加速。“ポガチャルvsヴィンゲゴー”という5年間ツールを規定してきた構図が、こうして中断した。Xの噂ではなく、チーム公式・複数報道で裏を取ったうえで。",
+        "sources": [
+          {
+            "t": "goal.com（日本語・最大のライバル離脱）",
+            "u": "https://www.goal.com/jp/%E3%83%AA%E3%82%B9%E3%83%88/blt30cb49dee6df327c",
+            "d": "2026-07-20"
+          },
+          {
+            "t": "Cyclingnews（Vingegaard out・Visma反応）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/jonas-vingegaard-crashes-out-of-tour-de-france/",
+            "d": "2026-07-19"
+          },
+          {
+            "t": "Yahoo!リアルタイム検索（SNSまとめ）",
+            "u": "https://search.yahoo.co.jp/realtime/search/matome/4898076a5e7343dbb08d402f4e6454fa-1784473500",
+            "d": "2026-07-20"
+          }
+        ],
+        "status": "確定＝ヴィスマ公式コメント（モト運用への疑問含む）。Xの反応は“入口”、内容はチーム発表で裏取り済み。"
+      },
+      {
+        "id": "20260720-winspace-kronos-tt",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://www.winspace.cc/cdn/shop/files/Lun_Kronos_Disc_Wheel_1.jpg?v=1780540855",
+        "headline": "明日のITTに合わせるように――ウィンスペースが『Lún クロノス』TTディスク＆トライスポークを投入、中華トップが“最速旗艦”でTT機材まで攻める",
+        "layer1": "ウィンスペースがクロノス・ファミリーにTT／トライアスロン専用の『ディスク（リア）＋トライスポーク（フロント）』を追加。風洞とCFDで詰めた、TTとトライアスロン向けの空力特化ホイール。",
+        "layer2": "うちの取り扱い筋（中華カーボン）の潮流そのもの。ウィンスペースは今月、TTバイク『TT5』（7/3）、エアロロード『T1600 ULTRA』（7/10）に続き、TTホイールまで矢継ぎ早に出してきた＝『格安の中華』ではなく『最速の旗艦』という立ち位置へ振り切っている。ただし7/1から全ライン約5%値上げ済みなので、日本の買い手には“安い理由で選ぶ”から“速いから選ぶ”への転換点。マサル的には、明日プロがレマン湖で使うTT機材と同じ設計思想が、街の8LIEN/CRW世代にも降りてきている――という語り口がショート向き。",
+        "sources": [
+          {
+            "t": "Winspace（Lún Kronos Disc）",
+            "u": "https://www.winspace.cc/products/lun-kronos-disc-tri-spoke-wheel",
+            "d": "2026-07-14"
+          },
+          {
+            "t": "Winspace（KRONO full-disc blog）",
+            "u": "https://www.winspace.cc/blogs/news/winspace-korno-full-disc-aero-speed-for-triathlon-domination",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝製品ラインナップ・用途（公式）。値上げ約5%は7/1改定（既報）。"
+      },
+      {
+        "id": "20260720-cornering-safety",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2023/12/2312_cornering-1.jpg",
+        "headline": "『あのヴィンゲゴーでもロータリーで滑った』――初中級がコーナー・下りで転ばない3原則：進入前に減速／傾けたら握らない／目線は“先の先”",
+        "layer1": "プロでも、緩い右コーナーの出口で単独スライドして鎖骨骨折――というのが昨日の現実。落車の多くは『コーナーの途中でブレーキを握る』『目線が近い』ことで起きる。今日は誰でも今すぐ直せる基本を。",
+        "layer2": "①減速はコーナー『手前』で、車体がまっすぐ立っている状態で終わらせる。傾けている最中は“できるだけ握らない・絶対に強く握らない”（傾いた状態での急制動が最も滑る）。②目線は常に『進みたい方向＝先の先』。近くを見るほどラインが乱れる。③下りは重心を落とし、ハンドルを“切る”のではなく、体の中心から車体を路面に傾けて曲げる。濡れた路面・白線・塗装・散布された粉は乾いていても滑る、と心得る。ヴィンゲゴーの一件は“機材でも脚でもなく状況”で起きた＝誰にでも起こりうる、という戒めとして使える。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ（コーナリングの基本）",
+            "u": "https://www.cyclesports.jp/topics/106895/",
+            "d": "2023-12"
+          },
+          {
+            "t": "サイクルスポーツ（下りの基本テクニック）",
+            "u": "https://www.cyclesports.jp/topics/20379/",
+            "d": "2023"
+          }
+        ],
+        "status": "確定＝コーナリング/下りの基本（技術解説）。昨日のヴィンゲゴー落車を“きっかけ”に、普遍の初中級ネタとして。"
+      },
+      {
+        "id": "20260720-asahi-genri-market",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://gurafu.net/wp-content/uploads/2017/10/%E3%81%82%E3%81%95%E3%81%B22026.001.jpeg",
+        "headline": "【経営メモ・市場】あさひが『一転して減益』――物価高で自転車の買い替え需要が低迷、通期利益は前期比26%減の26億円へ下方修正",
+        "layer1": "業界最大手あさひが、26年2月期の税引き利益を従来『3%増・36億円』から一転『26%減・26億円』へ下方修正。25年9月以降、節約志向で自転車の買い替えが冷え込んでいる。売上高も48億円下方修正の810億円。",
+        "layer2": "痛んでいるのは、地方で深刻な一般車・子供車（当初計画比▲10%前後）。一方で電動アシストと子供車は3〜5月期には堅調な面もあり、需要は“二極化”している。大手が値引きで需要を掘り起こそうとするフェーズ＝個人店が同じ土俵（価格）で戦うと消耗する局面。マサルの店の勝ち筋は、大手が薄い『目利き＋アフター＋語れる接客』と、大手が扱わない中華カーボンの提案。夏セール（あさひ〜7/26）とツール特需が重なる今週は、値引きでなく“来店動機”で拾いたい。",
+        "sources": [
+          {
+            "t": "日本経済新聞（あさひ一転減益）",
+            "u": "https://www.nikkei.com/article/DGXZQOUF223300S5A221C2000000/",
+            "d": "2026-06"
+          },
+          {
+            "t": "日本経済新聞（3〜5月期 利益8%減）",
+            "u": "https://www.nikkei.com/article/DGXZQOUF19A610Z10C26A6000000/",
+            "d": "2026-06"
+          }
+        ],
+        "status": "確定＝通期下方修正の数値（決算開示）。“二極化・接客で戦う”は経営メモ（マサル向け分析）。"
+      },
+      {
+        "id": "20260720-price-polarization-market",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://satoyukiblog.com/wp-content/uploads/2026/03/MY26ContendSL1_ColorB-e1772984451661.jpg",
+        "headline": "【経営メモ・市場】いまの日本市場は『上は高騰・下は買い時』の二極化――ハイエンドは円安で100万円超へ、型落ちは20〜30%引きで“史上最も始めやすい年”",
+        "layer1": "円安・原材料・物流高でフラッグシップは完成車100万円超（一部200万超）が当たり前に。一方、コロナ特需の反動で在庫が余り、型落ち・アウトレットは20〜30%引き。エントリー層にとって2026年は“最も始めやすい年”とも言われる。",
+        "layer2": "この二極化は、個人店の在庫戦略に直結する。①エントリー〜ミドルは『買い時』を求める初心者が多い＝型落ち・中華カーボンで“最初の1台/最初のカーボンホイール”を丁寧に橋渡しすると刺さる。②一方でミドルレンジ（旧30万円台→今50〜70万円）は価格が空洞化し、客が“下（型落ち・中華）”か“上（憧れの旗艦）”へ二分。マサルの店は、その空洞を『中華ハイエンド（8LIEN/CRW/GOOSYNN等）＝旗艦の走りを現実的な価格で』という一手で埋められる。ここが今のいちばんの商機。",
+        "sources": [
+          {
+            "t": "サトユキブログ（2026・価格は本当に下がっているか）",
+            "u": "https://satoyukiblog.com/2026/03/09/2026-road-bike-prices-are-they-actually-dropping/",
+            "d": "2026-03"
+          },
+          {
+            "t": "IT技術者ロードバイク（価格と買い時）",
+            "u": "https://rbs.ta36.com/?p=56285",
+            "d": "2026"
+          }
+        ],
+        "status": "曖昧＝二極化は市場観測（一次統計ではなく複数論評の総合）。ハイエンド価格帯・値引き幅は既報レンジ。"
+      },
+      {
+        "id": "20260720-tubeless-merit-demerit",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://assets.st-note.com/production/uploads/images/275894073/rectangle_large_type_2_7f9f8c2982be30fc4ec8bb78e3238d80.png?fit=bounds&quality=85&width=1280",
+        "headline": "『チューブレスは万能』への揺り戻し――功と罪を冷静に：施工が難しい・シーラント管理が要る・重くなりうる、それでも選ぶ理由はどこか",
+        "layer1": "中華ディープリム＋チューブレスが当たり前になった今、逆に『チューブレスレディはメリットばかり強調されすぎでは？』という論が中級層で再燃。低圧の乗り味・耐パンク性は本物だが、デメリットも直視しようという流れ。",
+        "layer2": "デメリットの実態＝①ビード上げ・初期施工の難しさ（コンプレッサーや相性で泣く）、②シーラントは数ヶ月で乾く＝定期補充・清掃が要る“維持コスト”、③チューブ＋αでむしろ重くなる組み合わせもある。だから初中級への現実解は『走行距離・パンク頻度・自分でメンテできるか』で選ぶこと。ロングや荒れ路面が多く、手を動かすのが苦でないならチューブレス。街乗り中心で手間を避けたいならクリンチャー＋良質チューブでも十分速い。うちで中華ホイールを勧めるときも“チューブレス前提で放置”はトラブルの元、と一言添えるのが誠実。",
+        "sources": [
+          {
+            "t": "note／アルノ（チューブレスがもたらす功と罪）",
+            "u": "https://note.com/arno_0109/n/nb5e16c597cc3",
+            "d": "2026-05-14"
+          }
+        ],
+        "status": "曖昧＝一個人の論考が起点（“功と罪”の論点整理として有用）。数値の断定はせず、選び方の軸として提示。"
+      }
+    ]
+  },
+  {
     "date": "2026-07-19",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。きょう第15ステージは『ツール史上初』プラトー・ド・ソレゾンの激坂頂上ゴール、明日は第2休息日です。ポガチャル4勝＆総合4分半リードで、主戦場は早くも『2位争い』へ。",
     "cards": [
