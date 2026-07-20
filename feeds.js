@@ -1,5 +1,231 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-07-21",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。今夜20時ごろ、大会唯一の個人TT（第16ステージ）が動きます。ヴィンゲゴー離脱で総合が再編されたなか、TT世界王者エヴェネプールが本命。機材・市場も“今日のTT”に絡めて底まで潜りました。",
+    "cards": [
+      {
+        "id": "20260721-itt-stage16",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-07%2Fevenepoel-tour-de-francia-1278275282.jpg",
+        "headline": "今夜、大会『唯一の個人TT』——ヴィンゲゴー不在で表彰台が再編されたなか、本命はTT世界王者エヴェネプール、ポガチャルは『17:15発』",
+        "layer1": "第16ステージはエヴィアン→トノンの個人TT『26.1km』。ヴィンゲゴー離脱で総合はポガチャルを追う2位にエヴェネプール（+5:00）、3位デルトーロ（+5:58）、4位セイシャス（+6:23）。TT世界王者エヴェネプールが区間勝利と『2位固め』の本命。日本時間20時ごろスタートで、この記事時点で結果は未確定です。",
+        "layer2": "コースは前半コート・ド・ラランジュ『9.6km・平均4.2%』を登り、下ってから平坦フィニッシュ。登坂はあるが勾配が緩く、多くの選手は車体交換せず『TT車のまま』でギア・ホイール・空気圧を合わせる見込み。出走は上位が16:57（ジェガ）以降、エヴェネプール17:13→ポガチャル17:15。ガンナ、ターリング、アレンスマンも上位候補で、数分単位で若手（リポヴィッツ+6:48ら）の順位が入れ替わりうる一日です。",
+        "sources": [
+          {
+            "t": "Cycling Uptodate（第16TTプレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-stage-16-preview-profiles-favourites-and-predictions-will-remco-evenepoel-beat-tadej-pogacar-on-the-races-time-trial",
+            "d": "2026-07-20"
+          },
+          {
+            "t": "Cyclingnews（TT出走時刻）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-2026-stage-16-tt-start-times/",
+            "d": "2026-07-20"
+          }
+        ],
+        "status": "確定＝TT26.1km・出走時刻・現時点のGC差／未確定＝結果（日本時間の今夜）"
+      },
+      {
+        "id": "20260721-vinge-collarbone",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/vQJEWk9qrgBVz3XxVDQgDM-2500-80.jpg",
+        "headline": "ヴィンゲゴーは『鎖骨骨折で手術へ』——Vismaは「プランBは無かった」、次に走る姿はモントリオール世界選か、あるいは2027年か",
+        "layer1": "第15ステージ残り約20kmの下りコーナーで落車したヴィンゲゴーは『鎖骨骨折』が判明し、近く手術。ヴィスマは「最終登坂でポガチャルを倒す作戦が完璧に進んでいた矢先だった」と落胆を隠さない。",
+        "layer2": "ヨルゲンソン「僕らはプランBを持たず、全員がヨナスに全ツッパしていた。今日は本当に調子が良かった。自転車レースは時に最悪だ」。復帰先はブエルタの可能性が低い（ジロ制覇＋ツール2週で消耗）とされ、モントリオール世界選（ロード）が有力視される一方、最悪『2027年まで走らない』可能性も報じられる。※負傷程度・復帰時期はチーム発表と報道ベース。",
+        "sources": [
+          {
+            "t": "Cyclingnews（No Plan B）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/we-had-no-plan-b-with-jonas-vingegaard-out-of-the-tour-de-france-how-do-shell-shocked-visma-lease-a-bike-move-on-without-their-leader/",
+            "d": "2026-07-20"
+          },
+          {
+            "t": "cyclowired（第15ステージ・鎖骨骨折）",
+            "u": "https://www.cyclowired.jp/news/node/392939",
+            "d": "2026-07-20"
+          }
+        ],
+        "status": "確定＝鎖骨骨折・手術方針・リタイア／曖昧＝復帰時期（未定）"
+      },
+      {
+        "id": "20260721-vinge-doping-buzz",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://news.jsports.co.jp/image/gw?id=86320&is_c=1",
+        "headline": "【Xで話題】ヴィンゲゴー落車の余波、日本でも拡散——会見でポガチャル・レムコが『深夜2時のドーピング検査』という現行手法に問題提起",
+        "layer1": "ヴィンゲゴー落車リタイアは日本のSNSでも「驚き」「残念」と広く拡散。加えて、ポガチャルとエヴェネプールがレース後会見で、選手が深夜（証言では午前2時）にアンチドーピング検査で起こされる現行運用に疑問を呈し、これも話題になっている。",
+        "layer2": "落車と検査の因果は誰も断定していない——選手が挙げたのは「睡眠を削る検査運用が安全・コンディションに影響しうる」という一般論。落車自体は下りの右コーナーでの単独スリップで、前日に取り沙汰された『モーターバイクのパニック』疑義とは別件。ここは“Xで話題”を入口に、裏取りできた会見報道を主役に置いています。※検査時刻と疲労への影響は選手・関係者の証言ベースで、要裏取り。",
+        "sources": [
+          {
+            "t": "J SPORTS（深夜のドーピング検査の問題提起）",
+            "u": "https://news.jsports.co.jp/cycle/article/20190310239471/",
+            "d": "2026-07-20"
+          },
+          {
+            "t": "cyclowired（ヴィンゲゴー落車リタイア）",
+            "u": "https://www.cyclowired.jp/news/node/392936",
+            "d": "2026-07-20"
+          }
+        ],
+        "status": "確定＝落車リタイア・会見での問題提起／※Xで話題・要裏取り＝検査時刻と疲労への影響"
+      },
+      {
+        "id": "20260721-seixas-white",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-06%2Fpaul-seixas-6a26b0272e07f.jpg",
+        "headline": "19歳セイシャス、白ジャージ『史上最年少』——ポガチャルの記録すら更新、今夜のTTが“42年ぶりの仏表彰台”を左右する",
+        "layer1": "セイシャス（19歳9か月、デカスロン）は第14ステージで総合を上げて白（新人賞）ジャージを獲得。『ツール史上最年少』の着用で、ポガチャルの初着用（21歳）記録すら更新した。アユソ（リドル・トレック）は『3秒差』で追う。",
+        "layer2": "総合はヴィンゲゴー離脱後もセイシャスが表彰台圏の4位。ただし今夜のTTは平坦寄りで、TTスペシャリスト（エヴェネプール・ガンナら）が得意な地形。純climberの若手勢は“時間を失う側”になりやすく、白＆表彰台争いが大きく動く。仏勢はここで『42年ぶりの総合表彰台』へ王手をかけられるかが焦点。※GC差はステージごとに変動。",
+        "sources": [
+          {
+            "t": "Cycling Uptodate（セイシャス白ジャージ）",
+            "u": "https://cyclinguptodate.com/cycling/its-very-tough-and-thats-exactly-what-i-like-about-it-paul-seixas-seizes-the-white-jersey-and-eyes-the-tour-de-france-podium",
+            "d": "2026-07-18"
+          },
+          {
+            "t": "Cyclingflash（最年少の白ジャージ）",
+            "u": "https://cyclingflash.com/news/tour-2026-paul-seixas-is-the-youngest-white-jersey-holder",
+            "d": "2026-07-18"
+          }
+        ],
+        "status": "確定＝白ジャージ最年少記録・アユソ3秒差／曖昧＝TT後の順位"
+      },
+      {
+        "id": "20260721-colnago-tt2",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/3ndLDPHRkbMTkNnpt4Hqa6-2560-80.jpg",
+        "headline": "今夜のTT機材、ポガチャルは新型『Colnago TT2』——フレーム『550g減』で6.8kg到達可、64Tチェーンリング、狙いは“軽さと操縦性”",
+        "layer1": "唯一の個人TTで各選手はTT専用車を投入。ポガチャルの新Colnago TT2は旧TT1比でフレームキット『約550g減』（Sサイズ2,785→2,240g）、ディスクリア込みでUCI下限『6.8kg』に到達可能。空力はTT1比で約2W改善にとどめつつ、軽量化と操縦性・横風安定を優先した。",
+        "layer2": "設計思想が示すのは「登坂・テクニカル・横風が増えた現代TTでは、風洞で僅かに速いより“軽く曲がれる”方が総合的に速い」という割り切り。今日のコースは前半に10km近い登りを含むため、まさにこの思想が試される舞台。ポガチャルは『64Tチェーンリング・160mmクランク・新ENVEホイール』も併用。市販はフレームキット£6,499で9月下旬予定。",
+        "sources": [
+          {
+            "t": "Cyclingnews（Colnago TT2 プロバイク）",
+            "u": "https://www.cyclingnews.com/bikes/pro-bikes/tadej-pogacars-new-time-trial-bike-is-officially-here-all-the-details-on-the-half-kilo-lighter-colnago-tt2/",
+            "d": "2026-07-04"
+          },
+          {
+            "t": "BikeRadar（TT2は550g軽量化）",
+            "u": "https://www.bikeradar.com/news/2026-colnago-tt2",
+            "d": "2026-06-19"
+          }
+        ],
+        "status": "確定＝550g減・6.8kg可・価格／補足＝発表は7/4・9月市販（今日のTTが“なぜ今”の入口）"
+      },
+      {
+        "id": "20260721-china-carbon-now",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C163.jpg",
+        "headline": "『初カーボンの基準』が上がった夏——中華ホイールは大手の1/3価格で重量・剛性・空力が肩を並べ、選び方は“安さ”から『設計と検品』へ",
+        "layer1": "2025→26年で中華カーボンホイールの品質向上が顕著。大手の『1/3〜1/2』の価格帯で、重量・剛性・空力が遜色ないレベルに達し、「安物買いの銭失い」という旧来の像は過去のものになりつつある。",
+        "layer2": "初カーボンで後悔しない見極めは3点：①設計（リム内幅と、フックド／フックレスに対するタイヤ適合・推奨空気圧）②検品体制（振れ・重量公差・保証の明文化）③国内サポート（納期・アフター・スポーク供給）。うちの取り扱い（8LIEN／CRW／GOOSYNN等）も“最速旗艦”と“堅実な実用機”で幅が広がっており、価格の底が続く今は初カーボンの好機。※実測値はモデル・ロットで差が出るため、購入前の個体公差確認が肝心。",
+        "sources": [
+          {
+            "t": "bike-memo（2026中華カーボンホイール比較）",
+            "u": "https://bike-memo.com/cycle_260202_carbon-wheels/",
+            "d": "2026-02"
+          },
+          {
+            "t": "Velo Fanatics（Best Chinese Carbon Wheels 2026）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝価格帯と品質向上の潮流（市場テーマ）／曖昧＝個体差（実測はモデル/ロットで変動）"
+      },
+      {
+        "id": "20260721-asahi-q1-maintenance",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3195148019062026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=2f12ecc6bc51e56e4e4c32fdeca5137e",
+        "headline": "【経営メモ・市場】あさひ3〜5月期は『増収減益』——売上+3%でも税引き利益は8%減。だが青切符でパーツ・整備が伸び、“モノ売りより整備・リユース”へ",
+        "layer1": "あさひの3〜5月期単独決算は売上高277億円（+3%）に対し、税引き利益は21億円（前年同期比8%減）。賃上げによる人件費増と新店運営費が利益を圧迫した。一方、4月開始の自転車の交通反則切符（青切符）制度が、パーツ販売と修理・メンテ需要の追い風になっている。",
+        "layer2": "含意は明確——完成車の“買い替え需要”は物価高で鈍い一方、『整備・パーツ・リユース』は伸びる構造。あさひは中古買取・再整備・再販を第二の柱に据え、2028年度に販売台数を4倍へという計画。個人店のマサルさんにとっても、値引き合戦から降りて『点検・整備・アフター・工賃』で稼ぐ形が、この夏〜お盆商戦の現実解であることを、大手の数字が裏づけています。",
+        "sources": [
+          {
+            "t": "日本経済新聞（あさひ3〜5月 税引き利益8%減）",
+            "u": "https://www.nikkei.com/article/DGXZQOUF19A610Z10C26A6000000/",
+            "d": "2026-06-22"
+          }
+        ],
+        "status": "確定＝増収減益・青切符で整備/パーツ需要増（経営メモ②・市場情報として補足）"
+      },
+      {
+        "id": "20260721-buyers-market-shop",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://satoyukiblog.com/wp-content/uploads/2026/03/MY26ContendSL1_ColorB-e1772984451661.jpg",
+        "headline": "【経営メモ・市場】国内は『定価は上・実売は下』の買い手市場が継続——型落ち20〜30%引きが常態、個人店の武器は“目利き＋アフター＋工賃”",
+        "layer1": "国内市場は「定価は高止まり、実売は下落」の二極化が続く。円安・原材料高で定価は下がらない一方、在庫は潤沢でセールが増え、型落ちは20〜30%引きが珍しくない“買い手市場”。初中級には史上まれに見る始めやすさになっている。",
+        "layer2": "ショップ視点では、価格の底で完成車の粗利は薄い——ゆえに勝ち筋は『どのモデル/ホイールを、誰に、なぜ』を語れる目利きと、購入後のフィッティング・整備・保証というアフター、そして工賃。安いのは前提として、“買った後の安心”を売る店に人が集まる。今夜のTTのような機材トークは、来店動機づくりの絶好の切り口になります。",
+        "sources": [
+          {
+            "t": "サトユキブログ（2026ロードバイク価格は下がっているか）",
+            "u": "https://satoyukiblog.com/2026/03/09/2026-road-bike-prices-are-they-actually-dropping/",
+            "d": "2026-03"
+          }
+        ],
+        "status": "確定＝二極化・買い手市場の潮流（経営メモ・市場テーマ）／曖昧＝値引き幅は店舗/在庫で変動"
+      },
+      {
+        "id": "20260721-solo-tt-pacing",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/07/GettyImages-2238563274.jpg",
+        "headline": "プロが今夜『26kmを全開』で走る日——初中級が“ソロTT／タイム計測”で「垂れずに速くなる」ペース配分3原則",
+        "layer1": "個人TTはドラフティング無しの“自分との勝負”。プロは平均出力を一本の線のように保って走る。初中級も、定番コースの『ソロTT（タイム計測）』にこれを取り込むと、ロング全体の巡航が一段強くなる。",
+        "layer2": "3原則：①入りを抑える（最初の1〜2kmは“物足りない”強度に。心拍が上がりきる前に突っ込まない）②登りで上げすぎない（勾配で自然に上がる分＋αまで。下り・平坦で回復と再加速）③目線と姿勢（先の先を見て一定ケイデンス。エアロ姿勢は無理に固めて呼吸を止めない）。今日のコースと同じ“登って下って平坦”は、登りで使い切ると平坦で失速する典型。まずは月1回、同一区間のTTで『数値の再現性』を作るのが上達の近道です。",
+        "sources": [
+          {
+            "t": "Cycling Uptodate（第16TTプレビュー・コース）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-stage-16-preview-profiles-favourites-and-predictions-will-remco-evenepoel-beat-tadej-pogacar-on-the-races-time-trial",
+            "d": "2026-07-20"
+          }
+        ],
+        "status": "普遍テーマ（今日の個人TTを起点）。数値は個人差、まずは主観強度で"
+      },
+      {
+        "id": "20260721-pogacar-legacy",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/5wDPHRbVsahtYH5RtA5dJ7-1024-80.jpg",
+        "headline": "ヴィンゲゴー離脱で『5勝目の意味』が変わる——「強すぎて退屈」か「歴史的偉業」か、支配の“評価”を巡る論争",
+        "layer1": "ヴィンゲゴー離脱で、ポガチャルの通算5勝目（歴代最多タイの“5勝クラブ”入り）が一段と濃厚に。「強すぎてつまらない」の声が沸く一方、最大の対抗馬が消えたことは“勝ち方の評価”そのものを変える、との分析も出ている。",
+        "layer2": "論点は「不在のなかの勝利を、歴史がどう記すか」。ポガチャルは第11ステージでフルームの“マイヨジョーヌ通算60日”を更新、沿道の口笛には「Haters gonna hate」。ただ、レースを面白くしているのは強さの是非より“誰が2番目に強いか”——エヴェネプール／デルトーロ／セイシャスの表彰台争いが、今夜のTTで大きく動く。支配の物語と、その裏の椅子取りゲーム、両方を見るのが今大会の醍醐味です。",
+        "sources": [
+          {
+            "t": "Cyclingnews（分析：ヴィンゲゴー離脱が“評価”を変える）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/jonas-vingegaards-abandon-of-the-tour-de-france-doesnt-just-lengthen-the-already-heavy-odds-of-a-fifth-tadej-pogacar-victory-it-radically-alters-how-well-perceive-it-analysis/",
+            "d": "2026-07-19"
+          }
+        ],
+        "status": "確定＝5勝クラブ王手・記録更新／論評＝“退屈か歴史か”は見方次第"
+      }
+    ]
+  },
+  {
     "date": "2026-07-20",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。ツールは第2週の最終日に『事件』が起きました――ヴィンゲゴー落車リタイア、勝ったのはエヴェネプール。きょうは第2休息日、明日はレマン湖の26kmITT。鮮度優先で、余計な古ネタは足していません。",
     "cards": [
