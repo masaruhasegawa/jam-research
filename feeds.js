@@ -1,5 +1,289 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-07-22",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。昨夜の個人TTは世界王者レムコが完勝、ポガチャルとの差は『4:32』に。ただ同じ日に総合5位リポヴィッツが“白い塗装”で落車リタイアし、レッドブルは歓喜と悲劇が同居しました。今日は第17ステージ。機材・市場も“今”に絡めて底まで潜っています。",
+    "cards": [
+      {
+        "id": "20260722-itt-evenepoel-win",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/GmHTvE7gch4DgU9zJvCwgG-2000-80.jpg",
+        "headline": "世界王者エヴェネプールが個人TTで『完勝・2連勝』——ポガチャルへの差を『5:00→4:32』に縮めた、だが総合首位は微動なし",
+        "layer1": "昨夜（日本時間）の第16ステージ個人TT『26.1km』は、TT世界王者エヴェネプールが『32分19秒』で制し、第15ステージに続く2連勝。ポガチャルは『28秒差』の区間2位で、総合リードは『4:32』に。ヴィンゲゴー不在のまま、首位は揺るがない。",
+        "layer2": "コースは前半コート・ド・ラランジュ『9.6km・4.2%』を登り、下って湖畔の平坦約9kmを全開する二面性。エヴェネプールは休息日の下見でTTバイクのStrava KOMを複数更新するほど仕上げていた。ポガチャルは黄ジャージのまま守勢に回り、区間2位で損失を最小化。区間3位はスケルモーセ。※タイム・GC差は主要メディアの確定値。",
+        "sources": [
+          {
+            "t": "Cyclingnews（レムコTT完勝・2連勝）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-time-trial-world-champion-remco-evenepoel-destroys-race-against-the-clock-and-takes-back-to-back-wins-on-stage-16/",
+            "d": "2026-07-21"
+          },
+          {
+            "t": "Cycling Uptodate（第16ステージ後の総合）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-classifications-update-stage-16-remco-evenepoel-cuts-gap-to-tadej-pogacar-at-the-top-as-florian-lipowitz-crashes-out-of-gc-fight",
+            "d": "2026-07-21"
+          }
+        ],
+        "status": "確定＝区間結果（32:19）・GC差4:32・2連勝"
+      },
+      {
+        "id": "20260722-lipowitz-crash-out",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://escapecollective.com/content/images/size/w1200/2026/07/corvos-tdf-2026-stage-16-itt-lipowitz.jpg",
+        "headline": "【表彰台が再編】総合5位リポヴィッツがTTの“白ペイント”で落車リタイア——レムコ勝利と『同じ日』に、レッドブルは歓喜と悲劇",
+        "layer1": "総合5位（+6:48）のリポヴィッツが、ゴール残り約7kmの右コーナーで横断歩道の白い塗装に乗ってリアを失い、バリアへ激突。肩を押さえて再起できず、そのままツールを去った。皮肉にも同僚エヴェネプールが区間優勝した直後だった。",
+        "layer2": "これで最後の表彰台圏はさらに絞られ、3位デルトーロ『+6:51』、4位セイシャス『+7:11』に。リポヴィッツはブエルタ2位・今大会の伸びで“未来の総合候補”と目されていただけに痛手。しかも滑ったのは乾いた路面の“塗装”で、第10のピドコック、第15のヴィンゲゴーに続く『白い路面での落車』が今大会続いている。※負傷程度は仕草からの推定、チーム続報待ち。",
+        "sources": [
+          {
+            "t": "Escape Collective（TTで落車・リタイア）",
+            "u": "https://escapecollective.com/lipowitz-crashes-out-of-the-tour-during-stage-16-time-trial/",
+            "d": "2026-07-21"
+          },
+          {
+            "t": "Cyclingnews（リポヴィッツ棄権）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/florian-lipowitz-abandons-the-tour-de-france-after-a-heavy-crash-during-the-stage-16-time-trial/",
+            "d": "2026-07-21"
+          }
+        ],
+        "status": "確定＝落車リタイア・原因（路面塗装）／曖昧＝負傷程度（肩を押さえる仕草からの推定）"
+      },
+      {
+        "id": "20260722-seixas-deltoro-20sec",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/CQ87qLejkDAPscuNuD2SN6-1024-80.jpg",
+        "headline": "19歳セイシャス、TTの“危険な下り”を凌いで表彰台圏を死守——白ジャージのデルトーロとの差は『わずか20秒』",
+        "layer1": "白ジャージ争いの主役、22歳デルトーロと19歳セイシャスがTTでも接近戦。セイシャスはテクニカルな下りを無難にまとめ、アユソらから時間を奪ってデルトーロへ『5秒』詰め、総合4位『+7:11』。3位デルトーロとの差は『20秒』に。",
+        "layer2": "リポヴィッツ離脱で“最後の表彰台1枠”はこの2人の一騎打ちに。デルトーロはポガチャルと同じUAEで、タイムボーナスやアシストの支援を受けやすい立場。対するセイシャスはフランス期待の新星で、『42年ぶりの仏マイヨブラン＋表彰台』がかかる。残る高山（アルプ・デュエズ2連登）で数十秒が動く。※順位・差は確定、今後は流動的。",
+        "sources": [
+          {
+            "t": "Cyclingnews（セイシャスTTの下りを凌ぐ）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/paul-seixas-survives-the-dangers-of-time-trial-descent-to-stay-in-fight-for-tour-de-france-podium/",
+            "d": "2026-07-21"
+          },
+          {
+            "t": "Cycling Uptodate（白ジャージ争いの構図）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-classifications-update-stage-16-remco-evenepoel-cuts-gap-to-tadej-pogacar-at-the-top-as-florian-lipowitz-crashes-out-of-gc-fight",
+            "d": "2026-07-21"
+          }
+        ],
+        "status": "確定＝TT結果・GC差20秒／曖昧＝最終表彰台（未定）"
+      },
+      {
+        "id": "20260722-stage17-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-07%2Fquinn-simmons-on-stage-8-of-the-2026-tour-de-france-6a527c3562a00.jpg",
+        "headline": "きょう第17ステージはシャンベリー→ヴォワロン『174.7km』——“平坦”の看板に反して獲得2,200m、逃げ屋とスプリンターの綱引き",
+        "layer1": "本日（日本時間の夕方〜）の第17ステージは、序盤約50kmで3つのカテゴリ山を含み『900m超』を登る荒れた前半。後半35kmは平坦化し、集団が逃げを詰め戻せるかが焦点。純スプリンターに残された数少ない機会でもある。",
+        "layer2": "逃げが決まりやすい起伏の前半で強力なエスケープが形成されれば、逃げ切りも十分。集団ゴールならフィリプセン、コーイ、そして第3週の消耗に強いペデルセンが本命。ただしヴォワロン手前の登り、2週間超の疲労、リードアウト列車の弱体化で“確実な集団スプリント”とは言い切れない一日です。",
+        "sources": [
+          {
+            "t": "Cycling Uptodate（第17プレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-stage-17-preview-profiles-favourites-and-predictions-breakaway-bingo-or-the-final-sprint-opportunity",
+            "d": "2026-07-21"
+          },
+          {
+            "t": "Olympics.com（第17コース・距離）",
+            "u": "https://www.olympics.com/en/news/tour-de-france-2026-stage-17-wednesday-july-22-detailed-route-map-profile-schedule-elevation-gain-how-to-watch-live",
+            "d": "2026-07-21"
+          }
+        ],
+        "status": "確定＝コース・距離・獲得標高／未確定＝結果（本日）"
+      },
+      {
+        "id": "20260722-xbuzz-redbull-joy-tears",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-07%2Fremco-evenepoel-6a5f948e670b9-6a5f955ce4fe2.jpg",
+        "headline": "【Xで話題】“レッドブルの明暗”が同じ日に——レムコ完勝の歓喜と、リポヴィッツ落車の悲劇。日本のローディーも反応",
+        "layer1": "エヴェネプールのTT2連勝と、同僚リポヴィッツの落車リタイアが“同じ日・同じチーム”で起きたことが、X（旧Twitter）でも「レッドブル、喜びと涙」と話題に。日本のクラスタでも驚きと同情の声が広がった。",
+        "layer2": "バズの元は確かな事実——エヴェネプールはゴール後に初めてリポヴィッツ離脱を知り、喜びが半減したと報じられる。海外メディアも『Red Bull laughs, Red Bull cries』と見出しを打った。ここは“Xで話題”を入口に、裏取りできた海外報道を主役に置いています。※日本のX上の反応の広がりは観測ベースで要裏取り、勝利・落車の事実関係は確定。",
+        "sources": [
+          {
+            "t": "IDL Pro Cycling（Red Bull laughs, Red Bull cries）",
+            "u": "https://www.idlprocycling.com/cycling/red-bull-laughs-red-bull-cries-evenepoel-storms-to-back-to-back-tour-de-france-victories-but-lipowitz-crashes-out",
+            "d": "2026-07-21"
+          },
+          {
+            "t": "Cyclingnews（リポヴィッツ棄権の詳報）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/florian-lipowitz-abandons-the-tour-de-france-after-a-heavy-crash-during-the-stage-16-time-trial/",
+            "d": "2026-07-21"
+          }
+        ],
+        "status": "確定＝勝利・落車の事実／※Xで話題・要裏取り＝日本のSNS上の反応の広がり"
+      },
+      {
+        "id": "20260722-tt-position-aero",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://media.delius-klasing.de/dpr_auto,fl_progressive,f_jpg,c_fill,g_face:center,h_675,w_1200/q_auto:eco/tour/gettyimages-2284084460_2043a3a0f01ddffe2c112fd763de95d4",
+        "headline": "TTを分けたのは“ワット”より『ポジション』——独TOUR実測、しかも「黄ジャージの着用」が空力ペナルティになりうる",
+        "layer1": "第16TTの独TOUR技術分析は、勝敗の最大要因を“エアロ（前面投影面積）”と結論づけた。ハンドル・腕・頭・胴が一体化するエヴェネプールの姿勢は、同じ出力でも空気抵抗が明確に小さい。加えて、はためく黄ジャージが空力上わずかに不利という指摘も出ている。",
+        "layer2": "エヴェネプールは世界王者のレインボー・スキンスーツ＋試作スペシャライズドShiv TTで走行。機材（バイク・ホイール）差もあるが、TTでまず効くのは“買わずにタダで速くなる”ポジションと服装。趣味のTT・ソロ計測でも、まずはヘルメット・ぴったりウェア・上体の低さから詰めるのが費用対効果が高い。※空力の定量差は独TOUR試算ベース。",
+        "sources": [
+          {
+            "t": "TOUR Magazin（黄ジャージが空力の足かせに）",
+            "u": "https://www.tour-magazin.de/en/professional-cycling/latest-news/2026-tour-de-france-why-the-yellow-jersey-becomes-a-handicap-in-the-time-trial/",
+            "d": "2026-07-21"
+          },
+          {
+            "t": "Cyclingnews（TdF2026 機材ガイド）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-bikes-2026/",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝分析の結論（空力優位）／曖昧＝黄ジャージのペナルティ量（定性）"
+      },
+      {
+        "id": "20260722-china-aero-wheel-value",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/6w54kEWJdQscGfiY3JVTWZ-2560-80.jpg",
+        "headline": "TTで“空力ホイールが数十秒を生む”時代——中華カーボンの空力完組が『大手の約1/3価格』で同じ土俵に",
+        "layer1": "第16TTは、前ディスク＋トライスポークなどの空力ホイールが勝敗に直結した。プロが数十万円で得るその空力を、いまや中華トップ（ウィンスペース、エリートホイール等）が同じリム構造・カーボンスポークで、大手の『約1/3価格』に落とし込んでいる。",
+        "layer2": "「安いから中華」ではなく「同じ空力設計が安い」時代。8LIEN・CRW・GOOSYNNなどは“深リム×ワイド×カーボンスポーク”というプロトン標準の設計を押さえており、初カーボンでも空力の恩恵を受けやすい。選ぶ軸は“価格”から『設計（リム内外幅・重量）と検品』へ。※価格倍率は市場実勢の概算。",
+        "sources": [
+          {
+            "t": "Cyclingnews（TdF2026 機材ガイド・TTホイール）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-bikes-2026/",
+            "d": "2026-07"
+          },
+          {
+            "t": "TOUR Magazin（TTは空力優位が決定的）",
+            "u": "https://www.tour-magazin.de/en/professional-cycling/latest-news/2026-tour-de-france-why-the-yellow-jersey-becomes-a-handicap-in-the-time-trial/",
+            "d": "2026-07-21"
+          }
+        ],
+        "status": "確定＝TTで空力が決定的／概算＝中華空力完組の価格倍率（約1/3）"
+      },
+      {
+        "id": "20260722-beginner-white-paint",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://bike-news.jp/wp-content/uploads/2022/06/20220615_wh_005-1000x667.jpg?v=1655278409",
+        "headline": "“あのリポヴィッツでも白線で滑った”——横断歩道・白線・路面標示は乾いていても滑る、初中級の3つの守り",
+        "layer1": "プロが時速50km超で滑って落車した『白い塗装』は、趣味のライドでも最も足をすくわれやすい。横断歩道・停止線・矢印などのペイントはタイヤが食わず、濡れていれば一段と危険になる。",
+        "layer2": "守りは3つ——①ペイントの上ではブレーキ・バンク・加速の“急”を作らない（直立・等速で通過）②雨天や、マンホール・白線が連続する交差点は速度を落として直線的に③コーナーは進入前に減速を済ませ、傾けている最中はペイントを避けてライン取り。プロでも避けきれない以上、“踏まない・寝かせない・急がない”が唯一の対策です。",
+        "sources": [
+          {
+            "t": "バイクのニュース（白線はなぜ滑る）",
+            "u": "https://bike-news.jp/post/260861",
+            "d": "2023-01"
+          },
+          {
+            "t": "Escape Collective（リポヴィッツが塗装で落車）",
+            "u": "https://escapecollective.com/lipowitz-crashes-out-of-the-tour-during-stage-16-time-trial/",
+            "d": "2026-07-21"
+          }
+        ],
+        "status": "確定＝路面ペイントは低グリップ／実例＝リポヴィッツ落車（2026-07-21）"
+      },
+      {
+        "id": "20260722-market-summer-fair-map",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://ysroad.co.jp/wp-content/uploads/2026/06/sf00.jpg",
+        "headline": "【経営メモ・市場】夏商戦の地図——ワイズロードは『7/4〜8/16』フェア、あさひ夏セールは『〜7/26』、個人店は“ツール特需の接客”で差別化",
+        "layer1": "大手の夏商戦が出そろった。ワイズロードは「SUMMER FAIR 2026」を『7/4〜8/16』（オンラインは8/17まで）で開催し、割引＋最大12回無金利＋無料点検。あさひはスポーツ夏セールを『〜7/26』、楽天店では毎月1日の限定クーポンも配布中。",
+        "layer2": "値引き幅で大手に正面から張るのは不利。個人店の武器は“いま盛り上がるツール”を接客の入口にすること——機材の実重量・空力といった実測バズや選手ドラマを語れる接客、お盆ロングライド前の点検・熱中症対策品の提案で、値引きでなく『体験と信頼』で客単価を作る。※フェア日程は各社告知ベース、内容は変更あり。",
+        "sources": [
+          {
+            "t": "ワイズロード（SUMMER FAIR 2026 告知）",
+            "u": "https://ysroad.co.jp/news/260704_summer_fair_2026/",
+            "d": "2026-06-30"
+          }
+        ],
+        "status": "確定＝各社フェア日程／経営メモ＝差別化は値引きでなく接客"
+      },
+      {
+        "id": "20260722-market-asahi-eassist-used",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3195148019062026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=2f12ecc6bc51e56e4e4c32fdeca5137e",
+        "headline": "【経営メモ・市場】“買い控え”下の勝ち筋——あさひは減益でも『電動アシスト＋5.6%・中古3年で4倍』、モノ売りから“整備・リユース・電アシ”へ",
+        "layer1": "物価高で自転車の買い替えは低調（あさひは通期利益を一転『26%減』へ下方修正）。それでも電動アシストは売上比『28.5%・前年比+5.6%』と堅調で、自社「エナシス」が好調。中古販売は『3年で4倍』を掲げ、国内保有6000万台に照準を定めている。",
+        "layer2": "示唆は明確——完成車の“モノ売り”だけでは伸びない局面で、稼ぎ頭は電アシ・整備・中古（リユース）へ移っている。個人店も、既存客の整備・買い替え提案・中古下取りといった“回転”の設計が効く。スポーツ車では、円安で高騰する新車の代わりに『型落ち＋良い工賃』を武器にできる。※決算値はあさひ開示・報道ベース。",
+        "sources": [
+          {
+            "t": "日本経済新聞（あさひ3〜5月期・電アシ堅調）",
+            "u": "https://www.nikkei.com/article/DGXZQOUF19A610Z10C26A6000000/",
+            "d": "2026-06-19"
+          },
+          {
+            "t": "日本経済新聞（中古を3年で4倍へ）",
+            "u": "https://www.nikkei.com/article/DGXZQOUF282U90Y6A420C2000000/",
+            "d": "2026-04"
+          }
+        ],
+        "status": "確定＝決算・電アシ比率28.5%／経営メモ＝整備・中古・電アシへの構造転換"
+      },
+      {
+        "id": "20260722-beginner-week3-fatigue",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-07%2Ftadej-pogacar-on-stage-11-of-the-2026-tour-de-france-6a57bfaf4848d.jpg",
+        "headline": "プロも第3週は“垂れる”——2週間超の疲労で誰もが千切れる時期、初中級がお盆ロング後半で脚を残す順序",
+        "layer1": "ツールは今日から最終週。スプリンターのリードアウト列車も弱り、“確実な集団ゴール”が崩れやすいのは、2週間超の蓄積疲労で全員が消耗しているから。プロでも第3週は別物で、これは趣味のロングライドの“後半の垂れ”と同じ構造です。",
+        "layer2": "お盆ロングで垂れない順序は——①前半は“物足りない”強度で我慢（心拍・体感で管理、序盤の踏みすぎが後半を殺す）②補給は垂れる前に先回り（1時間あたり糖質60g＋水分・塩分を20分おき）③後半のための“脚の温存”を計画に組む（登りは自分のペース、集団では位置を守って風を避ける）。根性でなく配分。",
+        "sources": [
+          {
+            "t": "Cycling Uptodate（第3週の消耗・第17プレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-stage-17-preview-profiles-favourites-and-predictions-breakaway-bingo-or-the-final-sprint-opportunity",
+            "d": "2026-07-21"
+          }
+        ],
+        "status": "確定＝最終週の消耗は普遍的／コーチング＝配分の3原則"
+      },
+      {
+        "id": "20260722-race-road-ahead-alpe",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/07/sprintcyclingagency_9198679_1_2000px.jpg",
+        "headline": "総合は“ほぼ決着”でも見どころは山に残る——最終盤にアルプ・デュエズ『2連登』、表彰台と各賞はここで動く",
+        "layer1": "ポガチャル首位・エヴェネプール2位はTTを経てほぼ盤石。だが本当の勝負は終盤の高山、とりわけアルプ・デュエズ『2連登』に残る。デルトーロvsセイシャスの表彰台争い、山岳賞、若手の序列がここで動く。",
+        "layer2": "アルプ・デュエズへのアプローチはステージごとに異なり、各チームの攻め方が割れる見込み。ヴィンゲゴー不在で“ポガチャルの独壇場”という声もあるなか、『20秒差』の表彰台争いや逃げ屋のステージ強奪が、残りを“退屈”にさせない要素になる。日本の放送も終盤の山岳に注目です。",
+        "sources": [
+          {
+            "t": "J SPORTS（2026年7月みどころ・アルプ2連登）",
+            "u": "https://www.jsports.co.jp/cycle/preview/July2026/",
+            "d": "2026-07"
+          },
+          {
+            "t": "Cycling Uptodate（第16ステージ後の総合）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-classifications-update-stage-16-remco-evenepoel-cuts-gap-to-tadej-pogacar-at-the-top-as-florian-lipowitz-crashes-out-of-gc-fight",
+            "d": "2026-07-21"
+          }
+        ],
+        "status": "確定＝終盤の山岳配置／見通し＝表彰台・各賞の争点"
+      }
+    ]
+  },
+  {
     "date": "2026-07-21",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。今夜20時ごろ、大会唯一の個人TT（第16ステージ）が動きます。ヴィンゲゴー離脱で総合が再編されたなか、TT世界王者エヴェネプールが本命。機材・市場も“今日のTT”に絡めて底まで潜りました。",
     "cards": [
