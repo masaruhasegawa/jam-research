@@ -1,166 +1,163 @@
 {
-  "date": "2026-07-24",
-  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ツールはいよいよ『史上初アルプ・デュエズ2連登』——初日のきょうは伝説の21ヘアピンです。昨夜は初日から狙い続けたカラパスがついに独走勝利。山岳賞は『1点・7点』の綱渡り、機材はシマノ13速の“沈黙”が話題です。",
+  "date": "2026-07-25",
+  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ツールは最終アルプス——ポガチャルが『アルプ・デュエズの記録』をパンターニから29年ぶりに奪い、今日はさらに獲得5,600mの女王ステージ。市場は『上は新型で高く・下は中華で崩れる』二極化が今週も進んでいます。",
   "cards": [
     {
-      "id": "20260724-carapaz-st18",
+      "id": "20260725-pogacar-alpe-record",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": true,
-      "image": "https://pezcyclingnews.com/wp-content/uploads/2026/07/tdf26st18-carapaz-attack-1200.jpg",
-      "headline": "カラパスが『初日から狙い続けた一撃』でアルプス初日を独走——残り3kmで飛び出しツール2勝目、EFに今大会初勝利",
-      "layer1": "第18ステージ（ヴォワロン→オルシエール・メルレット185.2km）は、逃げに乗ったリチャル・カラパス（EFエデュケーション）が残り約3kmで抜け出し独走勝利。五輪王者の通算2度目のツール区間勝利で、EFにとって今大会“初勝利”をもたらした。",
-      "layer2": "カラパスは第1ステージからアタックと逃げを繰り返し、そのたびに吸収され続けてきた——今大会で「勝てない病」を一番長く患っていたのは彼だった。ゴール後は『とても特別な瞬間。すべてを注ぎ込む価値がある。家族に捧げたい』と涙。総合を守るだけのUAEが逃げを泳がせる週で、実力ある古豪に“店じまい前の椅子”が回ってきた形。Xでも「ようやく」と感動の声。※2位以下の秒差は速報値。",
+      "image": "https://media.delius-klasing.de/images/dpr_auto,fl_progressive,f_auto,c_fill,g_auto:subject:thirds_0,h_600,w_1068/q_auto:eco/tour/pogi-vs-pantani_39dc49e726ec2ce36afbd34f94bcf9aa/poga-ar-versus-pantani-will-the-alpe-d-huez-record-be-broken-",
+      "headline": "ポガチャルが黄色のまま『アルプ・デュエズの神話』を書き換えた——3分の差を消して独走、パンターニの29年記録を『35分27秒』で粉砕",
+      "layer1": "第19ステージ（7/24）、アルプ・デュエズ頂上ゴール。ポガチャルは先行する逃げに3分以上あった差を21のヘアピンで飲み込み、最後はマルティネスとカラパスも突き放して独走勝利。今大会『5勝目』で、総合リードはエヴェネプールに『7分11秒』へ。",
+      "layer2": "白眉は登坂タイム『35分27秒』。1997年にパンターニが刻んだ約36分50秒を『1分23秒』更新し、アルプ・デュエズ史上最速に。推定は約440W・毎時1,882m(VAM)・6.9〜7.0W/kg、平均23.2km/h（※W/kgは体重63kg前提の推定）。2位マルティネス+6秒、3位カラパス+9秒、4位クスも+1分14秒で、この4人が『アルプ史上最速の4タイム』。ポガチャル自身は「パンターニのタイムは知らなかったが、破ったと聞いた。うれしいよ」と淡々。",
       "sources": [
-        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-richard-carapaz-flies-solo-across-the-final-kilometres-to-land-stunning-mountaintop-victory-on-stage-18/", "d": "2026-07-23" },
-        { "t": "EF Pro Cycling", "u": "https://www.efprocycling.com/racing/richard-carapaz-wins-stage-18-of-the-tour-de-france/", "d": "2026-07-23" },
-        { "t": "Cycling Uptodate", "u": "https://cyclinguptodate.com/cycling/results-tour-de-france-2026-stage-18-richard-carapaz-wins-in-orcieres-merlette-as-breakaway-take-glory-in-the-alps", "d": "2026-07-23" }
+        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/tadej-pogacar-beats-nearly-30-year-old-alpe-dhuez-climbing-record-set-by-marco-pantani/", "d": "2026-07-24" },
+        { "t": "Cyclinguptodate", "u": "https://cyclinguptodate.com/cycling/results-tour-de-france-2026-stage-19-tadej-pogacar-completes-extraordinary-alpe-dhuez-chase-to-win-in-yellow", "d": "2026-07-24" },
+        { "t": "TOUR Magazin", "u": "https://www.tour-magazin.de/en/professional-cycling/latest-news/pogacar-versus-pantani-will-the-alpe-d-huez-record-be-broken/", "d": "2026-07-24" }
       ],
-      "status": "確定＝カラパス優勝・EF今大会初勝利・残り3kmアタック。曖昧＝2位以下の秒差は速報値。"
+      "status": "確定＝勝者・35分27秒・記録更新・GC差7分11秒。曖昧＝出力/VAM/W-kgは各社の推定値（体重前提により幅あり）。"
     },
     {
-      "id": "20260724-st19-alpe1",
+      "id": "20260725-stage20-queen",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://cdn.cyclingstage.com/images/tour-de-france/2026/stage-19-profile-100.jpg",
-      "headline": "きょう第19ステージは『史上初アルプ2連登』の初日——ギャップ→ラルプ127.9km、短いが締めは名物21ヘアピン13.8km平均8.1%",
-      "layer1": "本日7/24の第19ステージはギャップ→アルプ・デュエズ127.9km・獲得約3,500m。今大会“最短のロードステージ”だが、コル・バイヤール（4.7km7.2%）→コル・デュ・ノワイエ（7.2km8.5%）→コル・ドルノンを経て、最後は名物21ヘアピン（13.8km平均8.1%）で山頂ゴール。",
-      "layer2": "総合はポガチャル（マイヨジョーヌ）がエヴェネプールに『+4:32』のまま——大枠は動きにくく、本命は4勝目のポガチャル。ただしアルプは“序盤2km”と“10〜11番ヘアピン”が最も急で、逃げが決まりやすいレイアウト。カラパス／パレ＝ペントルら山岳賞ハンターが再び先手を打つ余地がある。放送はJ SPORTS。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Col_du_Galibier_depuis_la_route_c%C3%B4t%C3%A9_Hautes-Alpes_%28septembre_2024%29.JPG/1280px-Col_du_Galibier_depuis_la_route_c%C3%B4t%C3%A9_Hautes-Alpes_%28septembre_2024%29.JPG",
+      "headline": "きょう第20ステージは『本物の女王ステージ』——アルプ2連登の締め、獲得5,600m・今大会最高地点ガリビエ2,642m、そして『午後は雨』",
+      "layer1": "ル・ブール・ドワザン→アルプ・デュエズ約171km・獲得約5,600m。クロワ・ド・フェール(24km/5.2%)→テレグラフ〜ガリビエ(今大会最高2,642m)→HC級コル・ド・サレンヌ→締めが再びアルプ・デュエズ。総合はほぼ決したが、表彰台・白・山岳はここで動く。",
+      "layer2": "鍵は『天気』。午後はアルプス一帯に雨予報で、ガリビエとサレンヌの長い下りが濡れる。標高の頂は約18℃、風は小さいが、路面が滑れば実力より“度胸と機材”がタイム差を生む。前日に3分差を消したポガチャルが連日独走を狙うのか、UAEが手綱を緩めて逃げに花を持たせるのか——2連登の初日は逃げ切りが出やすい構図だった。",
       "sources": [
-        { "t": "Cycling Uptodate（st19プレビュー）", "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-stage-19-preview-profiles-favourites-and-predictions-will-tadej-pogacar-add-the-alpe-dhuez-to-his-palmares", "d": "2026-07-23" },
-        { "t": "cyclingstage（st19コース）", "u": "https://www.cyclingstage.com/tour-de-france-2026-route/stage-19-tdf-2026/", "d": "2026-07" },
-        { "t": "J SPORTS（第19ステージ）", "u": "https://www.jsports.co.jp/cycle/tour_2026/stage/stage19/", "d": "2026-07" }
+        { "t": "Cyclinguptodate（S20プレビュー）", "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-stage-20-preview-profiles-favourites-and-predictions-will-tadej-pogacar-win-the-queen-stage-of-the-tour", "d": "2026-07-24" },
+        { "t": "olympics.com", "u": "https://www.olympics.com/en/news/tour-de-france-2026-stage-20-route-profile-schedule-climbs-watch", "d": "2026-07-24" },
+        { "t": "idlprocycling（雨予報）", "u": "https://www.idlprocycling.com/cycling/2026-tour-de-france-stage-20-preview-rain-could-very-well-turn-the-tour-de-france-upside-down", "d": "2026-07-24" }
       ],
-      "status": "確定＝コース・距離・勾配・総合差+4:32。曖昧＝勝者予想。"
+      "status": "確定＝ルート・獲得・最高地点・雨予報。曖昧＝距離は媒体差あり（約110〜171kmの表記混在、山岳構成は一致）。"
     },
     {
-      "id": "20260724-jerseys-kom-green",
+      "id": "20260725-podium-white-seixas",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/ZW8B6uNdRjSdyUpS2SGcj4-2001-80.jpg",
-      "headline": "山岳賞は『1点・7点』の三つ巴——ポガチャル70点、パレ＝ペントル69点、カラパス63点。緑はペデルセンが『+32点』で射程を広げる",
-      "layer1": "第18ステージ後、水玉（山岳賞）はポガチャル70点を、パレ＝ペントルが『1点差』の69点、カラパスが『7点差』の63点で追う超接戦。カラパスは区間勝利後「今度は水玉を狙う」と明言。緑（ポイント賞）はペデルセン477点がフィリプセン445点に『+32点』とリードを広げた。",
-      "layer2": "アルプ2連登はカテゴリー超級＝山岳ポイントが最大配点。ポガチャルは総合を締めつつ山岳賞も獲りにいくか、逃げに“くれてやる”かの選択を迫られる。緑は残る純スプリント機会がほぼ1回のみで、ペデルセンの32点差は『ほぼ当確』ライン。※点差は媒体集計値。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/View_of_Alpe_d%27Huez_from_Pic_Blanc%2C_Oz%2C_2026.jpg/1280px-View_of_Alpe_d%27Huez_from_Pic_Blanc%2C_Oz%2C_2026.jpg",
+      "headline": "『表彰台まで24秒』——19歳セイシャス、最後のアルプで“42年ぶり仏表彰台”に王手、白ジャージはデルトーロが死守",
+      "layer1": "総合3位はデルトーロ(+9分42秒)で白ジャージも保持。4位セイシャスはその『24秒差』まで肉薄。1937年以来“最年少出場”の19歳が、今日の女王ステージで表彰台と白を同時に狙う直接対決に。",
+      "layer2": "TT区間ではデルトーロが20秒差で白を守り切り、ここまで“メンタルの勝負”の様相。若手争いは3位にマルティネス(+3分18秒)が浮上——アルプの逃げで得たタイム。仏勢の表彰台は42年遠ざかっており、セイシャスがそれを塗り替えるかは今日の登りで決まる。数字は接戦ゆえ、区間中の中間タイムで刻々と入れ替わる可能性が高い。",
       "sources": [
-        { "t": "Cycling Uptodate（分類更新）", "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-classifications-update-stage-18-carapaz-jumps-into-top10-pedersen-reinforces-green-jersey-and-pogacar-risks-losing-kom", "d": "2026-07-23" },
-        { "t": "Yahoo Sports（Carapaz eyes polka）", "u": "https://uk.sports.yahoo.com/news/carapaz-eyes-polkadot-mountains-jersey-170840510.html", "d": "2026-07-23" }
+        { "t": "Cyclinguptodate（白/セイシャス）", "u": "https://cyclinguptodate.com/cycling/its-very-tough-and-thats-exactly-what-i-like-about-it-paul-seixas-seizes-the-white-jersey-and-eyes-the-tour-de-france-podium", "d": "2026-07-18" },
+        { "t": "Cyclinguptodate（第19S各賞更新）", "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-classifications-update-stage-18-carapaz-jumps-into-top10-pedersen-reinforces-green-jersey-and-pogacar-risks-losing-kom", "d": "2026-07-24" }
       ],
-      "status": "確定＝ペデルセン緑リード拡大・山岳賞は1〜7点差。曖昧＝山岳賞は残り3日で流動的。"
+      "status": "確定＝GC3位デルトーロ+9:42・4位セイシャス（表彰台まで24秒）・白はデルトーロ。曖昧＝“42年ぶり”は仏表彰台の年数表現、要文脈。"
     },
     {
-      "id": "20260724-alpe-double-history",
+      "id": "20260725-green-kom-battle",
+      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Mads_Pedersen.jpg",
+      "headline": "緑はペデルセンが『+57点』でほぼ手中、水玉は“闘将”カラパスが『1点差』でもぎ取った——18勝→アルプ3位→山岳ジャージ",
+      "layer1": "ポイント賞はペデルセン502点、フィリプセン445点で『57点』差。山岳ではカラパスが91点でポガチャル90点を『わずか1点』かわして水玉に立った。",
+      "layer2": "ペデルセンは第19ステージ、2つの峠(バヤール/ノワイエ)を越えた先の中間スプリントを先頭通過して25点を上乗せ——スプリンターが高山で稼ぐ執念。カラパスは前日に第18ステージを勝ち、翌日は記録更新のポガチャルに次ぐ3位、さらに逃げで山岳ポイントを荒稼ぎして水玉へ。ただし今日はポガチャル(90点)が頂上を獲れば逆転もある“1点差”の綱渡りで、緑もパリまでは油断できない。",
+      "sources": [
+        { "t": "Cyclinguptodate（第19S各賞更新）", "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-classifications-update-stage-18-carapaz-jumps-into-top10-pedersen-reinforces-green-jersey-and-pogacar-risks-losing-kom", "d": "2026-07-24" },
+        { "t": "cyclingstage（ポイント賞）", "u": "https://www.cyclingstage.com/tour-de-france-2026-points-classification/stage-19-green-jersey-tdf-2026/", "d": "2026-07-24" }
+      ],
+      "status": "確定＝緑502対445（+57）・山岳カラパス91/ポガチャル90（1点差）。曖昧＝今日の頂上ポイントで山岳は再逆転あり。"
+    },
+    {
+      "id": "20260725-domination-debate",
       "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://worldinsport.com/wp-content/uploads/2026/07/tour-de-france-2026-alpe-dhuez-double-header-preview.png",
-      "headline": "【Xでも「狂気」と話題】アルプ・デュエズ『1979年以来の2連登』——明日の第20ステージは獲得5,600m・ガリビエ越えの“女王ステージ”",
-      "layer1": "同じ峠に2日連続で山頂ゴールするのは1979年以来。日本のローディーの間でも「狂気の2連登」と話題に。初日（本日）は表側の21ヘアピン、明日の第20ステージ（170.9km）はクロワ・ド・フェール／テレグラフ／ガリビエ（2,631m＝今大会最高地点）を越えて“裏から”登り直す獲得約5,600mの女王ステージ。",
-      "layer2": "「狂気」バズの裏取り＝コースは公式・各メディアで確定済み。関係者いわく『第20ステージ山頂でマイヨジョーヌを着ている者が実質総合優勝者』。2日でおよそ1万m近く登るため、勝敗を分けるのは登坂力だけでなく“連日の回復力”とチーム力。ポガチャルの+4:32が崩れるとすれば、この連戦の2日目しかない。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Tadej_Pogacar_and_his_team_in_front_of_the_peloton_during_Simacourbe_climb_of_Tour_de_France_2024_stage_13.jpg/1280px-Tadej_Pogacar_and_his_team_in_front_of_the_peloton_during_Simacourbe_climb_of_Tour_de_France_2024_stage_13.jpg",
+      "headline": "【Xでも『人間か？』と騒然】記録更新で再燃する“支配”論争——「退屈」か「史上最強の証明」か、5度目の総合優勝も目前",
+      "layer1": "アルプでの記録更新＆今大会5勝目を受け、SNSや海外メディアで『強すぎて退屈』論と『歴史的偉業』論が再燃。総合は7分超のリードで、5度目のツール総合優勝がほぼ確実に。",
+      "layer2": "先回りして“裏”を見ると、議論の芯は『速さの正体』。専門家はアルプの35分27秒を近年でも屈指の登坂と評価する一方、機材(6.8kg下限・エアロ化)、集団の高速化、栄養(糖質摂取の増大)といった“環境要因”も年々パフォーマンスを底上げしている、という冷静な指摘も並ぶ。断定の材料は無く、少なくとも数値上は「一人だけ別次元」なのは事実——だからこそ賛否が割れる。Xの声は入口で、主役は記録と一次データ。",
       "sources": [
-        { "t": "World in Sport（2連登プレビュー）", "u": "https://worldinsport.com/tour-de-france-2026-alpe-dhuez-double-header-preview/", "d": "2026-07-22" },
-        { "t": "cyclowired（第3週プレビュー）", "u": "https://www.cyclowired.jp/news/node/392947", "d": "2026-07" },
-        { "t": "Granfondo Guide", "u": "https://www.granfondoguide.com/Contents/IndexFull/8766/2026-tour-de-france-features-punishing-back-to-back-alpe-dhuez-stages", "d": "2026-07" }
+        { "t": "Cycling Weekly", "u": "https://www.cyclingweekly.com/racing/tadej-pogacar-takes-fifth-stage-win-of-2026-tour-de-france-with-alpe-dhuez-record", "d": "2026-07-24" },
+        { "t": "Cyclingnews（記録）", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/tadej-pogacar-beats-nearly-30-year-old-alpe-dhuez-climbing-record-set-by-marco-pantani/", "d": "2026-07-24" }
       ],
-      "status": "確定＝1979年以来の2連登・st20コース。曖昧＝「狂気」はXの反応（コース事実は裏取り済み）。"
+      "status": "確定＝5勝目・記録更新・総合リード。曖昧＝“速さの要因”は諸説（機材/高速化/栄養）で断定不可。X反応は入口として提示。"
     },
     {
-      "id": "20260724-breakaway-week3",
+      "id": "20260725-montmartre-finale",
       "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/CuKJmYDPeDDwEXX2sqxg3C-2000-80.jpg",
-      "headline": "第3週は『逃げ屋の時間』——UAEが手綱を緩め、実力者の逃げが連日“店じまい前の勝利”をさらう構図",
-      "layer1": "総合がほぼ確定した第3週、UAEはマイヨジョーヌの防衛だけに徹し、逃げを泳がせている。その結果、第18ステージのカラパスをはじめ、古豪・実力者の逃げが山頂ゴールで報われる展開が続く。",
-      "layer2": "「なぜ今さら逃げが決まるのか」＝ポガチャルの+4:32は総合を争う必要がないほど大きく、UAEは無駄足を踏まない。逆に山岳賞ポイントが逃げ経由で動くため、水玉争い（ポガチャル／パレ＝ペントル／カラパス）は逃げの中で決まる。アルプ2連登も“逃げ切りか、GC組の一騎打ちか”の二択が最大の見どころ。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Basilique_du_Sacr%C3%A9-C%C5%93ur_de_Montmartre_-_Paris_-_GT-01_-_2024.jpg/1280px-Basilique_du_Sacr%C3%A9-C%C5%93ur_de_Montmartre_-_Paris_-_GT-01_-_2024.jpg",
+      "headline": "明日の最終日は『モンマルトルの丘』2年目——賛否の石畳を3回、でも今年は“ひとひねり”でスプリンターに望み",
+      "layer1": "第21ステージ（7/26）はトワリー→パリ133km。名物シャンゼリゼの前に『ビュット・モンマルトル』(石畳1.1km/平均5.9%)を3回登る、昨年復活の“物議コース”が今年も。",
+      "layer2": "今年の“ひとひねり”は、最後のモンマルトル頂上からゴールまでを昨年より約4.2km延ばし『約15km』確保したこと。攻撃で千切れても集団に戻る時間が生まれ、純スプリンターにもゴール勝負の目が残る設計だ。とはいえ丘を通るたびに速度が上がり集団は縦伸び——総合勢が仕掛ければ最終日から波乱もあり得る。パリの一本を“消化試合”にしない、というASOの意思表示。",
       "sources": [
-        { "t": "Cyclingnews（st18レポート）", "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-richard-carapaz-flies-solo-across-the-final-kilometres-to-land-stunning-mountaintop-victory-on-stage-18/", "d": "2026-07-23" },
-        { "t": "Cyclingnews（GC standings）", "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-gc-standings-2026/", "d": "2026-07-23" }
+        { "t": "cyclingstage（S21ルート）", "u": "https://www.cyclingstage.com/tour-de-france-2026-route/stage-21-tdf-2026/", "d": "2026-07-23" },
+        { "t": "cyclingstage（S21favourites）", "u": "https://www.cyclingstage.com/tour-de-france-2026-favourites/stage-21-contenders-tdf-2026/", "d": "2026-07-23" }
       ],
-      "status": "確定＝第18は逃げ切り・UAEは総合防衛のみ。曖昧＝今後の逃げ切り可否は日ごとに変動。"
+      "status": "確定＝距離133km・モンマルトル1.1km/5.9%×3・最終登坂は残10.3km・昨年比+4.2km。曖昧＝勝ち方（スプリントか総合アタックか）は当日次第。"
     },
     {
-      "id": "20260724-shimano-13s-noshow",
+      "id": "20260725-beginner-own-alpe",
+      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
+      "image": "http://cdn.cyclingstage.com/images/tour-de-france/2026/stage-20-profile-100.jpg",
+      "headline": "プロが『毎時1,880m』で登った日——初中級の“自分のアルプ・デュエズ”は、根性でなく『VAM×ギア比×一定ペース』で速くなる",
+      "layer1": "ポガチャルの記録35分27秒は毎時1,882m(VAM)という異次元。だが指標は同じで、初中級も『VAM(1時間あたりの登坂標高)』を測れば、根性論なしに登坂の伸びを可視化できる。",
+      "layer2": "先回りの実務3点。①目標の目安＝ホビーで毎時700〜1,000mも出れば十分速い部類（プロは1,600〜1,900m）。同じ峠でVAMが上がっていれば確実に成長している。②ギア比＝“垂れない”鍵はケイデンス維持。フロント34T×リア30〜34Tの「回して登る」域を用意し、失速→高トルクの悪循環を断つ。③ペース＝登り始めの興奮で突っ込まない。最初の1/3を“会話できる強度”に抑え、残りで削るのが最短。数値管理は高価な機材不要——サイコンのVAM表示か、標高差÷時間で自分で出せる。",
+      "sources": [
+        { "t": "velo（記録分析／VAM）", "u": "https://velo.outsideonline.com/road/road-racing/tour-de-france/pogacar-alpe-dhuez-best-performance-history/", "d": "2026-07-24" },
+        { "t": "Cyclingnews（記録）", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/tadej-pogacar-beats-nearly-30-year-old-alpe-dhuez-climbing-record-set-by-marco-pantani/", "d": "2026-07-24" }
+      ],
+      "status": "確定＝プロVAM約1,882m・指標の考え方。曖昧＝ホビーの目安値は個人差大（体重/勾配/コンディション依存の一般論）。"
+    },
+    {
+      "id": "20260725-parts-weight-vs-aero",
       "genre": "parts", "genreLabel": "PARTS", "genreJa": "パーツ", "hot": false,
-      "image": "https://www.ciclonline.com/images/stories/ft211/shimano-duraace-2022.jpg",
-      "headline": "『デュラエース13速（R9300）』はツールでも出なかった——E-Tubeに“13枚目”の痕跡、だがシマノは「現行に13速はない」と沈黙",
-      "layer1": "例年ツールで新型デュラエースを披露してきたシマノだが、2026年大会が最終盤に入っても『R9300』の発表はなし。E-Tube Projectアプリのギア表示が「13段」に増えていた痕跡や特許（2×13・フルワイヤレス）は出ているが、シマノは公式に「現行ラインナップに13速はない」と静観している。",
-      "layer2": "「じゃあ、いつ？」＝業界の見立ては“発表は2026年後半〜2027年、本格量産は2027シーズン”。13速化はスプロケ間隔が狭まるため『新フリーボディ・新チェーン・新チェーンリング』が必須で、現行R9200ホイールは非互換になる可能性が高い。カンパは既に13速をプロトンで実走させており、シマノの“沈黙”がむしろ話題に。※発売時期は未確定（要続報）。",
+      "image": "https://media.delius-klasing.de/images/dpr_auto,fl_progressive,f_auto,c_fill,g_auto:subject:thirds_0,h_600,w_1068/q_auto:eco/tour/gettyimages-2283887621_cf110687f0a070dcf422c0bc1a7f979c/tech-briefing-for-alpe-d-huez-400-grams-cost-pogacar-9-seconds",
+      "headline": "『400g＝9秒』——独TOURの実測が示す、アルプ級の登りでも“軽さ”より『エアロ』が効く逆説",
+      "layer1": "独TOUR誌の試算：ポガチャルのコルナゴY1RSがUCI下限6.8kgでなく7.2kgだったら、アルプ・デュエズで『9秒』失っていた。だが同じ下限重量なら“旧型の軽量バイクV5RS”のほうが2秒速い、という結果に。",
+      "layer2": "つまり13.8kmの長い登りでも、平均23km/h超の“速い登坂”ではエアロ抵抗が効き、エアロバイクを下限まで軽量化するのが最適解になる。「登り＝とにかく軽量」という直感は、現代の速度域では必ずしも正解でない。初中級への含意もはっきり——数万円で数百グラム削るより、ポジション・服装・ボトル位置など“空気の当たり方”を整えるほうが、同じ予算でも効く場面が多い。軽量至上主義から『重量×空力の合わせ技』へ、が今の潮流。",
       "sources": [
-        { "t": "Ciclonline（13速E-Tubeリーク）", "u": "https://www.cyclonline.com/51-shimano-news-review-test/4124-shimano-13-speed-2026-e-tube-app-leak-and-future-road-gravel-groupsets", "d": "2026-07-23" },
-        { "t": "BikeTips（R9300 E-Tubeリーク）", "u": "https://biketips.com/shimano-13-speed-dura-ace-r9300-e-tube-leak-2026/", "d": "2026-04" }
+        { "t": "TOUR Magazin（技術ブリーフィング）", "u": "https://www.tour-magazin.de/en/professional-cycling/latest-news/tech-briefing-for-alpe-d-huez-400-grams-cost-pogacar-9-seconds/", "d": "2026-07-24" }
       ],
-      "status": "曖昧＝R9300は未発表・時期未定（※要続報）。確定＝E-Tubeの13段表示・特許は既出、公称は「現行に13速なし」。"
+      "status": "確定＝TOUR誌の試算値（400g=9秒／同重量でV5RSが2秒速い）。曖昧＝あくまでシミュレーションで、風・体重・空気密度で変動。"
     },
     {
-      "id": "20260724-beginner-climb-pacing",
-      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "https://shop.rxl.jp/cdn/shop/articles/AdobeStock_440507030.jpg?v=1776400933",
-      "headline": "プロが今日『13.8km平均8.1%』を登る日——初中級がラルプ級の長い登りで“垂れない”ペース配分3原則",
-      "layer1": "アルプ・デュエズは全長13.8km・平均8.1%だが、キツいのは“序盤2km”と中盤の“10〜11番ヘアピン”。長い登りは「最初に飛ばして後半で死ぬ」のが最大の失敗パターン。",
-      "layer2": "初中級の3原則＝①入口で心拍を上げ切らない（会話できる強度＝閾値の8割で入る）／②急勾配区間だけギアを1〜2枚落として“ケイデンスを守る”（踏まずに回す）／③後半に少しだけ上げる「ネガティブスプリット」を意識。ラルプを写真撮影しながら約1時間半で登った市民の実例もあり、目標は“速さ”より「同じ強度を最後まで保つ」こと。武器はコンパクトクランク＋ワイドカセット。",
-      "sources": [
-        { "t": "cyclingstage（st19勾配プロフィール）", "u": "https://www.cyclingstage.com/tour-de-france-2026-route/stage-19-tdf-2026/", "d": "2026-07" },
-        { "t": "RXL（ヒルクライム練習コラム）", "u": "https://shop.rxl.jp/blogs/column/hillclimb-practice-bike", "d": "2026-07" }
-      ],
-      "status": "確定＝ラルプの勾配プロフィール（序盤2km・10〜11番が急）。原則は一般的なヒルクライム・コーチング。"
-    },
-    {
-      "id": "20260724-china-climbing-wheel",
-      "genre": "wheel", "genreLabel": "WHEEL", "genreJa": "ホイール", "hot": false,
-      "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/05/Lun-Hyper-Light-Carbon-Wheels.jpeg?media=1716897874",
-      "headline": "プロが“軽さ”で登る週、中華の超軽量登坂完組は『1,250g・カーボンスポーク』まで来た——ラルプ級で問われる本当の指標",
-      "layer1": "山岳週はホイールの「軽さ」が効く。中華ハイエンド（ウィンスペースのLún Hyper Light系）は前後1,250g級・T700カーボン＋カーボンスポークに到達し、内幅23.4mmで30〜32mmタイヤ最適化と、登坂完組の要件を満たしてきた。",
-      "layer2": "ただし「軽ければ速い」ではない——ラルプのような長い登りで効くのは“重量×剛性×転がり”の総合。軽量偏重で剛性が足りないと踏んだ力が逃げる。うちの中華カーボン（8LIEN・CRW等）を選ぶ初中級には、公称重量だけでなく『リム剛性・スポーク本数・検品体制』を見るよう案内したい。価格は大手の軽量完組の半額圏。※Lún系の重量はメーカー公称値（実測は要確認）。",
-      "sources": [
-        { "t": "Velo Fanatics（Lún Hyper Lightレビュー）", "u": "https://www.velofanatics.com/lun-hyper-light-wheels-winspace/", "d": "2025-05" },
-        { "t": "Cyclists Hub（Lún Hyper Light）", "u": "https://www.cyclistshub.com/lun-hyper-light-wheels/", "d": "2025-01" }
-      ],
-      "status": "曖昧＝重量は公称値（※実測は要確認）。確定＝カーボンスポーク採用・価格が大手軽量完組の半額圏。"
-    },
-    {
-      "id": "20260724-market-china-bike-price",
+      "id": "20260725-market-highend-inflation",
       "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/02/m6_244e.jpg",
-      "headline": "【経営メモ・市場】中華“完成車”の価格破壊が進行——ウィンスペースM6が『ホイールまでカーボン＋電動105』で税込50万円切り",
-      "layer1": "中華ハイエンドは完成車でも攻めてきた。ウィンスペースM6は、カーボンホイール＋電動105（Di2）を積んで税込50万円を切る構成が登場。大手の同等構成が70〜90万円台であることを思えば、二極化の“下側”を新興が急速に埋めている。",
-      "layer2": "経営視点＝この価格帯は個人店の主戦場（税込30万〜50万）と真正面でぶつかる。対抗軸は「値段」でなく『目利き＋アフター＋工賃＋即納の在庫』。中華完成車を買った客の“持ち込み整備・パーツ交換”を取りにいくのも一手。うちの取扱（8LIEN・CRW等の完組）を「大手完成車より軽く・安く組める」提案に繋げたい。※大手比較は概算。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Racing_bicycles-2009_Tour_de_France.jpg/1280px-Racing_bicycles-2009_Tour_de_France.jpg",
+      "headline": "【経営メモ・市場】“二極化の上”がさらに上へ——新型2027ハイエンド一斉デビュー＋シマノ13速で、電動完成車は『100万円超が新常態』へ",
+      "layer1": "今大会で新型旗艦が続々実戦投入：スペシャライズドTarmac SL9(フレーム687g・完成車6.5kg〜)、キャニオンAeroad CFR(TOUR実測198Wで“最速”)、コルナゴY1RS。加えてシマノの13速デュラエースR9300が想定€4,999前後でリーク——現行比約5%高。",
+      "layer2": "先回りの経営視点：円安下でこれらが国内定価に乗れば、ハイエンド電動完成車は『100万円超』が当たり前になる。しかもシマノのワールドツアー採用は10/18チームと“25年で最低”水準まで落ち、上位帯はSRAMと二分。個人店の含意は二つ——①在庫を抱える怖さが増すので“受注・取り寄せ＋試乗体験”へ。②値札で戦えない以上、武器は『目利き＋アフター＋工賃』。ツールで話題の一台を“語れる”ことが、そのまま客単価になる。（※R9300は未発表・価格はリーク段階、日本価格は未定＝要裏取り）",
       "sources": [
-        { "t": "cyclesports（ウィンスペースM6実走）", "u": "https://www.cyclesports.jp/news/new-product/155003/", "d": "2026-02" },
-        { "t": "bike-memo（2026中華格付け）", "u": "https://bike-memo.com/cycle_260118_carbon-wheels/", "d": "2026-01" }
+        { "t": "BikeRadar（Canyon Aeroad CFR）", "u": "https://www.bikeradar.com/news/2026-new-canyon-aeroad-cfr-ltd", "d": "2026-06-25" },
+        { "t": "Cyclingarchives（R9300リーク/価格・採用数）", "u": "https://cyclingarchives.com/shimano-13-speed-2026-dura-ace-r9300-wireless-reshape-worldtour/", "d": "2026-05-04" }
       ],
-      "status": "確定＝M6の構成・価格帯。曖昧＝大手完成車との価格比較は概算。"
+      "status": "曖昧＝R9300は未発表・€4,999は想定価格・国内価格未定（※要裏取り）。確定＝新型旗艦のツール投入・シマノ採用10/18の事実。"
     },
     {
-      "id": "20260724-market-summer-close",
+      "id": "20260725-market-china-completebike",
       "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://pricey-prod-owned-media.s3.ap-northeast-1.amazonaws.com/hub-page-main-visual-images/article_3501.webp",
-      "headline": "【経営メモ・市場】夏商戦は『締め』へ——あさひ夏セールは〜7/26で今週末終了、ツール最終盤の“語れる接客”で客単価を残す",
-      "layer1": "夏の値引き商戦は終盤。あさひ夏セールは〜7/26で今週末に終了し、EC各社のセールも一巡した。ここからお盆前の需要は「値引き」より“点検・熱中症対策・お盆ロング準備”に軸が移る局面。",
-      "layer2": "個人店の勝ち筋＝大手の値引き山を追わず、ツール最終盤（アルプ2連登）の“語れる接客”で来店動機を作る。「プロが今日登るラルプの機材・タイヤ幅・ギア比」を店頭トークにして、整備・ボトル／補給・ライト／反射材（青切符対策）の安全提案で客単価を上げる。モノ売りより“体験と安心”を売る締めに。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rennrad_Racing_Bicycle_noBG.jpg/1280px-Rennrad_Racing_Bicycle_noBG.jpg",
+      "headline": "【経営メモ・市場】“二極化の下”は中華の『完成車攻勢』——ウィンスペースがカーボンホイール＋電動105で50万円切り、廉価LEGiTは30万円台〜",
+      "layer1": "上が高騰する裏で、入門〜ミドルは中華の完成車が主戦場に。ウィンスペースはM6を『カーボンホイール＋電動105』で税込50万円切り、セカンドラインLEGiT(L1〜L3)は105機械式＋Lún完組で『30〜40万円台』、さらにエアログラベルG3完成車も投入。",
+      "layer2": "先回りの経営視点：中華はもう“フレーム売り”から『完成車』へ移行し、日本の実売レンジを内側から崩している。同スペックの舶来完成車と比べ十数万円安い水準で、初カーボン層の“最初の1台”を奪いに来ている構図だ。個人店の勝ち筋は真っ向値引きでなく、①中華完成車の“検品・組み直し・保証代行”を有償メニュー化、②「安物買い」を避けたい層に設計と検品の見方を教える接客、③タイヤ・チューブレス・フィッティングなど“買った後”で長く付き合う。安さの土俵から降り、安心と技術で差を作る。",
       "sources": [
-        { "t": "プライシー（2026ロードバイクのセール時期）", "u": "https://www.pricey.jp/web/articles/3501", "d": "2026-07" },
-        { "t": "bike-memo（2026値下げ・高コスパ）", "u": "https://bike-memo.com/cycle_260204_roadbike/", "d": "2026-02" }
+        { "t": "cyclesports.jp（ウィンスペースM6完成車）", "u": "https://www.cyclesports.jp/news/new-product/155003/", "d": "2026-05" },
+        { "t": "cyclesports.jp（LEGiT完成車）", "u": "https://www.cyclesports.jp/news/new-product/130843/", "d": "2025-06" },
+        { "t": "cyclowired（ウィンスペースG3完成車）", "u": "https://www.cyclowired.jp/news/node/392609", "d": "2026" }
       ],
-      "status": "確定＝あさひ夏セール〜7/26・夏の値引き商戦は終盤。原則は接客・客単価の提案。"
+      "status": "確定＝ウィンスペース/LEGiTの完成車展開と価格帯（各社記事）。曖昧＝“十数万円安”は同等舶来との一般的比較の目安。"
     },
     {
-      "id": "20260724-gc-podium-stakes",
-      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-07%2Ftourdefrance2026-tadejpogacar-6a610061468d1.jpg",
-      "headline": "マイヨジョーヌはほぼ当確、それでも見どころは『表彰台と白』——19歳セイシャスが“42年ぶり仏表彰台”へ王手",
-      "layer1": "総合はポガチャル『+4:32』でほぼ確定。だがアルプ2連登で本当に動くのは2位以下——エヴェネプール2位、22歳デルトーロ、そして19歳セイシャスが表彰台圏でしのぎを削る。仏勢の表彰台は“42年ぶり”がかかる。",
-      "layer2": "セイシャスは白（ヤングライダー賞）でもデルトーロと接戦。連日の超級で数十秒が入れ替わるため、表彰台と白の行方は最終盤まで確定しない。RESEARCH的“人間ドラマ”＝初出場ツールの19歳が、母国の42年ぶり表彰台を賭けて2日連続でラルプを登る——結果より「なぜ心が動くか」の一週間。※順位・秒差は速報値で日々変動。",
+      "id": "20260725-market-summer-sale-close",
+      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Peloton_of_Tour_de_France_2023_in_Tourmalet.jpg/1280px-Peloton_of_Tour_de_France_2023_in_Tourmalet.jpg",
+      "headline": "【経営メモ・市場】夏商戦の“締め”は今週末——あさひ夏セールは〜7/26、ツール最終盤の『語れる接客』で客単価を残す",
+      "layer1": "大手の夏セールはヤマ場を越え、あさひは最大50%オフの夏セールが『〜7/26』で今週末終了。アプリ限定で対象スポーツ車購入時に5,000円相当パーツ付与のクーポンも継続。",
+      "layer2": "先回りの経営視点：値引き合戦が終わる週末こそ、個人店は“話題”で勝負できる。今日の女王ステージ＆アルプの記録更新、パリのモンマルトルは全部『店頭の会話ネタ』——「あの35分27秒はエアロと栄養も効いている」と一言添えるだけで、単なるモノ売りが“提案”に変わる。背景に、あさひの26年2月期は税引き利益が前期比26%減の26億円と“買い控え”が続く逆風。だからこそ値札でなく、点検・チューブレス・熱中症対策・お盆ロング準備といった『買った後の価値』を束ねて客単価を作るのが、この夏の勝ち筋。",
       "sources": [
-        { "t": "Cycling Uptodate（st19プレビュー）", "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-stage-19-preview-profiles-favourites-and-predictions-will-tadej-pogacar-add-the-alpe-dhuez-to-his-palmares", "d": "2026-07-23" },
-        { "t": "Racing Post（st19 予想・Seixas）", "u": "https://www.racingpost.com/sport/cycling-tips/tour-de-france/tour-de-france-2026-stage-19-predictions-tips-and-odds-aPqFb7t88x1F/", "d": "2026-07-23" },
-        { "t": "Cyclingnews（GC standings）", "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-gc-standings-2026/", "d": "2026-07-23" }
+        { "t": "ACRIUS（あさひクーポン/セール2026年7月）", "u": "https://acrius.co.jp/asahi/", "d": "2026-07" },
+        { "t": "日本経済新聞（あさひ減益）", "u": "https://www.nikkei.com/article/DGXZQOUF223300S5A221C2000000/", "d": "2026-04" }
       ],
-      "status": "確定＝ポガチャル総合ほぼ当確。曖昧＝表彰台・白は流動的（※秒差は速報値）。"
+      "status": "確定＝あさひ夏セール〜7/26・最大50%off・26年2月期税引益-26%＝26億円。曖昧＝クーポン内容は時期で変動（要現物確認）。"
     },
     {
-      "id": "20260724-beginner-first-carbon-value",
+      "id": "20260725-beginner-wet-descent",
       "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C164.jpg",
-      "headline": "“入門カーボンの狙い目”が動いた夏——大手は型落ち値下げ、新興は高コスパ。初めての1台を『安物買い』にしない見方",
-      "layer1": "2026年の日本市場は、大手の型落ち値下げと新興ブランドの高コスパが同時進行。入門ロードは実売15万円台から選べる一方、ハイエンドは円安で100万円超が常態化し“二極化”がさらに進んでいる。",
-      "layer2": "初中級が失敗しないコツ＝①「型落ちの上位モデル」は同価格の新型下位より装備が良いことが多い（狙い目）／②新興・中華は“公称値”でなく試乗・レビュー・保証と検品体制で選ぶ／③完成車は「あとで替える前提のパーツ（ホイール・タイヤ）」に予算を残す。安さの奥にある“設計と検品”を見るのは、ホイールでも完成車でも同じ。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Col_du_Galibier_et_massif_du_Galibier.JPG/1280px-Col_du_Galibier_et_massif_du_Galibier.JPG",
+      "headline": "プロが今日『濡れた2,642m』を下る日——初中級の“雨の高山ダウンヒル”は、ブレーキより『目線と減速の順番』で守る",
+      "layer1": "第20ステージは午後に雨予報で、ガリビエとサレンヌの長い下りが濡れる。標高が高いほど気温も低く指がかじかむ——プロでも神経を使う“濡れた下り”は、初中級が最も落ちやすい場面でもある。",
+      "layer2": "先回りの実務4点。①減速は“直線で・早めに”＝コーナー進入前に済ませ、寝かせてからは握らない（濡れた路面はグリップの余白が小さい）。②目線は『先の先』へ——路面の白線・マンホール・落ち葉は乾いていても滑る前提で外して通る。③体は冷える＝ウィンドブレーカーとフルフィンガーで“かじかみ”を防ぐと操作が安定。④タイヤは空気圧を少し落とすと接地が増え、濡れでも安心感が出る（チューブレスなら特に）。プロの機材と度胸に憧れる日ほど、初中級は“守りの基本”を1つずつ。",
       "sources": [
-        { "t": "bike-memo（2026値下げ・高コスパ）", "u": "https://bike-memo.com/cycle_260204_roadbike/", "d": "2026-02" },
-        { "t": "buychari journal（2026買いなロードバイク）", "u": "https://journal.buychari.com/2026-latest-road-bikes/", "d": "2026-01" }
+        { "t": "idlprocycling（S20雨予報）", "u": "https://www.idlprocycling.com/cycling/2026-tour-de-france-stage-20-preview-rain-could-very-well-turn-the-tour-de-france-upside-down", "d": "2026-07-24" }
       ],
-      "status": "確定＝二極化の実勢（入門15万円台〜／ハイエンド100万円超）。原則は一般的な選び方。"
+      "status": "確定＝今日のS20は雨予報でガリビエ/サレンヌの下りが濡れる。安全指針は一般的ベストプラクティス（個人差・状況差あり）。"
     }
   ]
 }
