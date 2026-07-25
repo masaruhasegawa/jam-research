@@ -1,5 +1,339 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-07-26",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ついにツール最終日——夜はパリ『モンマルトル3周』の決戦、そしてポガチャル『5勝目』の戴冠が待っています。山火事で最終ステージが44kmも削られた緊急事態も添えて。",
+    "cards": [
+      {
+        "id": "20260726-carapaz-alpe-kuss",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-07/tourdefrance2026-richardcarapaz-2-6a64ef140bcda.jpg",
+        "headline": "カラパスが『2日連続アルプ・デュエズ』を独走して山岳賞を確定——だが真の主役は、残り約6kmで“谷側フェンスに救われた”クスの二度の落車だった",
+        "layer1": "ツール第20ステージ（7/25・獲得5,450m）、単独先頭で夢を見ていたクスが残り約7km以内で二度落車。二度目は路肩のネットに引っかかって谷への転落を免れた——その隙にカラパスが抜き去り、2日連続のステージ勝利と山岳賞（水玉・156点）を確定させた。",
+        "layer2": "クスは腕と脚の切り傷程度で済み大事には至らず。だが「アルプで勝てたはずの一日」を2日続けて失った悲劇に。ステージ2位はエヴェネプールが残り50mでクスを差し、クスは3位。総合はポガチャルが黄色を死守、デルトーロが白を守った。38歳ベテランが逃げを完璧に読み切った執念と、若きクスの不運が同居した山岳最終日。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（結果）",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-de-france-2026-stage-20-richard-carapaz-wins-on-alpe-dhuez-as-sepp-kuss-suffers-late-crash-pogacar-defends-yellow-jersey",
+            "d": "2026-07-25"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-richard-carapaz-dominates-alpe-dhuez-with-second-win-in-as-many-days-after-late-disaster-by-sepp-kuss/",
+            "d": "2026-07-25"
+          },
+          {
+            "t": "ProCyclingUK（クス）",
+            "u": "https://procyclinguk.com/sepp-kuss-suffers-remarkable-save-after-second-crash-costs-him-tour-de-france-2026-stage-20-chance/",
+            "d": "2026-07-25"
+          }
+        ],
+        "status": "確定＝カラパス優勝・山岳賞確定、クス二度落車でネットに救われた（複数メディア一致）。"
+      },
+      {
+        "id": "20260726-gc-final-seixas",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-07/isaac-del-toro-and-tadej-pogacar-on-stage-10-of-the-2026-tour-de-france-6a577598b6e33.jpg",
+        "headline": "総合はポガチャルが『5勝目』へ王手、19歳セイシャスは“42年ぶり仏表彰台”に届かず4位——「地獄だった、過酷だった」とアルプで力尽く",
+        "layer1": "第20ステージ終了時の総合は、首位ポガチャル、2位エヴェネプール（+6:26）、3位デルトーロ（+9:42・白ジャージ）、4位セイシャス、5位L・マルティネス。今日の最終日で総合は事実上確定し、ポガチャルはメルクスら『5勝クラブ』に並ぶ。",
+        "layer2": "19歳セイシャスはアルプ・デュエズで垂れ「terrible, éprouvant（地獄、過酷）」と吐露。デルトーロとの白＆表彰台争いに敗れ4位で終えたが、初グランツールで総合4位は“例外的”な快挙だ。緑はペデルセンが『+72点』でフィリプセンを圧倒して確定、チーム総合はリドル・トレックが逃げ戦術でUAEに『+36:57』の大差。ポガチャル一強の陰で、各賞と次世代の物語が動いた3週間。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（各賞）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-classifications-update-stage-20-pogacar-pedersen-carapaz-and-del-toro-virtually-confirm-their-win",
+            "d": "2026-07-25"
+          },
+          {
+            "t": "Eurosport FR（セイシャス）",
+            "u": "https://www.eurosport.fr/cyclisme/tour-de-france/2026/tour-de-france-2026-paul-seixas-a-decouvert-lenfer-de-lalpe-dhuez-cetait-terrible-eprouvant_sto23322475/story.shtml",
+            "d": "2026-07-25"
+          },
+          {
+            "t": "Yahoo Sports",
+            "u": "https://sports.yahoo.com/articles/leading-tour-france-2026-stage-181738286.html",
+            "d": "2026-07-25"
+          }
+        ],
+        "status": "確定＝GC上位・各賞（第20終了時）。最終日で総合確定見込み。"
+      },
+      {
+        "id": "20260726-stage21-montmartre",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/www.indeleiderstrui.nl/images/2026-07/mathieu-van-der-poel-6a64caf007716.jpg",
+        "headline": "今夜の最終日は『モンマルトルの丘3周』——本命はファンデルプール、ポガチャルは“失うものがない黄色”で仕掛けるか",
+        "layer1": "第21ステージは山火事で133km→89kmに短縮、シャンゼリゼ発。締めはモンマルトル（ルピック通り・約1km／平均6.5％・最大9％）を3周し、頂上はゴール10km手前。純スプリンターより石畳の激坂を踏めるクラシック巧者向きのコース。",
+        "layer2": "本命はモンマルトルに“完璧に合う”ファンデルプール、対抗にペデルセン、そして総合を決めたポガチャル。専門家予想は「モンマルトルでの単独アタックでファンデルプール勝利」。ただしポガチャルは黄色でのパリ制覇という大きな動機ゆえ、濡れた路面でもリスクを取る可能性がある。発走17時50分頃（現地）。",
+        "sources": [
+          {
+            "t": "IDL ProCycling（プレビュー）",
+            "u": "https://www.idlprocycling.com/cycling/2026-tour-de-france-stage-21-preview-could-pogacar-or-evenepoel-ruin-van-der-poels-dream-stage",
+            "d": "2026-07-25"
+          },
+          {
+            "t": "CyclingUpToDate（プレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-stage-21-preview-profiles-favourites-and-predictions-pogacar-van-der-poel-and-evenepoel-meet-again-now-on-cobbled-paris-circuit",
+            "d": "2026-07-25"
+          },
+          {
+            "t": "Racing Post（予想）",
+            "u": "https://www.racingpost.com/sport/cycling-tips/tour-de-france/tour-de-france-2026-stage-21-predictions-tips-and-odds-adtOr2V1v98i/",
+            "d": "2026-07-25"
+          }
+        ],
+        "status": "確定＝短縮89km・モンマルトル3周／曖昧＝勝者は当日次第（※予想）。"
+      },
+      {
+        "id": "20260726-wildfires-final-stage",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://procyclinguk.com/wp-content/uploads/2026/07/France-wildfires-scaled.avif",
+        "headline": "【Xでも波紋】仏の山火事が“ツール最終日”を44km削った——警官がジロンドの消火に回り、133→89kmへ緊急短縮",
+        "layer1": "主催ASOが最終ステージを133km→89kmに短縮。ジロンドを中心とする大規模山火事に治安部隊が動員され、レース警備の人員が不足したため。チーム紹介はトワリで行い、選手はバスでパリへ移動、競技はシャンゼリゼから始まる。",
+        "layer2": "今大会は山火事に翻弄され続けた——第3ステージも観客なしの“適応開催”になっていた。名物モンマルトル周回は維持されたが、スポーツより国家的緊急事態が優先された異例の判断だ。日本のローディーの間でも「安全最優先は当然、でも決戦が薄まるのは残念」と賛否が交錯している。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/racing/tour-de-france/final-stage-of-2026-tour-de-france-shortened-due-to-french-wildfires-montmartre-circuit-still-included",
+            "d": "2026-07-25"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/final-stage-of-2026-tour-de-france-shortened-due-to-exceptional-circumstances-caused-by-wildfires/",
+            "d": "2026-07-25"
+          },
+          {
+            "t": "ProCyclingUK",
+            "u": "https://procyclinguk.com/france-wildfires-how-they-changed-the-tour-de-france-2026-final-stage/",
+            "d": "2026-07-25"
+          }
+        ],
+        "status": "確定＝89kmへ短縮・理由は山火事での警官動員（複数メディア一致）。"
+      },
+      {
+        "id": "20260726-pogacar-domination",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-07/pogacar-tour-francia-1279608726.jpg",
+        "headline": "【Xで再燃『退屈か、歴史か』】ポガチャル“5勝目”目前——「見せ場が消える」批判に、エヴェネプールは『我々は歴史を目撃している』",
+        "layer1": "27歳ポガチャルの圧倒的支配に、最終日を前に「ツールが退屈になった」論争が再燃。40km単独逃げが“日常”になり、セイシャスやリポヴィッツら才能が脇役に追いやられる——という声だ。",
+        "layer2": "だがインデュライン（91〜95年5連覇）もフロームも、同じ批判を浴びた歴史がある。ライバルのエヴェネプール本人は「間近で見るのはむしろ刺激的。忘れてはいけない、我々は歴史を目撃しているんだ」と反論。ポガチャルは本来これから全盛期に入る年齢で、さらに複数回の総合Vも視野に入る。“強すぎる主役”は競技の宿命か、それとも魅力か。",
+        "sources": [
+          {
+            "t": "BikeRadar（論考）",
+            "u": "https://www.bikeradar.com/features/opinion/tadej-pogacar-dominance-2026-tour-de-france",
+            "d": "2026-07-20"
+          },
+          {
+            "t": "Newswav / AFP",
+            "u": "https://newswav.com/article/pogacar-s-dominance-sparks-boredom-debate-but-rivals-say-cycling-is-witness-A2607_4QlYCB",
+            "d": "2026-07-25"
+          },
+          {
+            "t": "SCMP",
+            "u": "https://www.scmp.com/sport/other-sport/article/3361715/generational-talent-tadej-pogacars-domination-making-tour-de-france-boring",
+            "d": "2026-07-24"
+          }
+        ],
+        "status": "確定＝5勝目に王手・エヴェネプール発言／曖昧＝『退屈か否か』は評価論争（※主観）。"
+      },
+      {
+        "id": "20260726-farsports-evos-climbing",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://www.pandapodium.cc/wp-content/uploads/2025/10/evos5%E7%99%BD%E5%BA%95%E5%80%92%E5%BD%B1.png",
+        "headline": "山岳決戦が終わって効く『軽量×カーボンスポーク』——ファースポーツ2026 EVO Sが“1,150g”、横風で最大3W削る新スポーク",
+        "layer1": "ファースポーツの現行2026 EVO Sシリーズは、リムハイト45／50／58.5mmで、45mmのS4は1,150g。刷新したブレード状カーボンスポークが従来の平板型より横風の抗力を減らし、高速域で最大3W有利だという（メーカー公称）。",
+        "layer2": "ハブは10%高剛性・5%軽量化、CシリーズとSシリーズでエンドキャップ等を共通化。価格は約$1,559〜1,779（セラミックベアリング別）。ツールがこの3週間“軽い登坂完組”の価値を見せつけたいま、中華トップは大手の約1/3価格で1,150g級・カーボンスポークまで到達——「初カーボンの基準」がまた一段上がった。数字は公称なので、実測重量は入手時に各自で確認を。",
+        "sources": [
+          {
+            "t": "Panda Podium（EVO S）",
+            "u": "https://www.pandapodium.cc/product/farsports-2026-evo-s-series-carbon-spokes-wheelset/",
+            "d": "2025-11"
+          },
+          {
+            "t": "FARSPORTS 公式",
+            "u": "https://www.farsports.com/products/pre-order-farsports-2026-new-evo-s-series",
+            "d": "2026-01"
+          },
+          {
+            "t": "Underdogs Cycling",
+            "u": "https://underdogscycling.cc/product/farsports-s-series-carbon-wheelset/",
+            "d": "2026-01"
+          }
+        ],
+        "status": "確定＝仕様・価格はメーカー公称／※現行2026モデル（新型ニュースでなく製品情報）・実測は要確認。"
+      },
+      {
+        "id": "20260726-first-carbon-choice",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png?media=1716897874",
+        "headline": "ツールが証明した“軽さ”を1/3価格で——『初めての中華カーボン』は「安さ」でなく『設計と検品』で選ぶ",
+        "layer1": "山岳3週間が示したのは、登りでは結局“軽い完組”が効くという事実。いまや中華カーボンは大手の1/3〜1/2価格で重量・剛性・空力が肩を並べ、2026年の“格付け”記事も「怪しい選択→賢い選択」へと評価を書き換えている。",
+        "layer2": "初カーボンで失敗しない軸は3つ。①公称重量より『実測・保証・アフター』を見る、②フックレスなら対応タイヤと空気圧上限を必ず確認、③ハブ／スポーク（カーボンスポークは軽いが交換性に注意）と振れ取りできる店の有無。“安物買い”を避けるコツは、ブランドの検品体制と国内サポートの厚みを、値札より先に確かめること。",
+        "sources": [
+          {
+            "t": "VeloFanatics（2026格付け）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2025-12"
+          },
+          {
+            "t": "bike-memo（格付け2026）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-01"
+          },
+          {
+            "t": "ロードバイクはやめられない",
+            "u": "https://chan-bike.com/should-you-buy-your-wheels-direct-from-china",
+            "d": "2026-01"
+          }
+        ],
+        "status": "確定＝選び方の一般原則／※価格・格付けは各記事の見解、最終ラインは実店舗での確認。"
+      },
+      {
+        "id": "20260726-asahi-summer-final",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://www.jsports.co.jp/img/ogp-image.png",
+        "headline": "【経営メモ・市場】ツール閉幕＝夏商戦の“締め”は今日——あさひ夏セールも本日7/26で終了、最終日の『語れる接客』で客単価を残す",
+        "layer1": "国内の夏商戦は今週末が山場。大手のあさひ夏セールは『〜7/26』で今日が最終日、ツール最終ステージという“語れる話題”がちょうど重なる。値引きの残り火を、単なるモノ売りでなく体験と提案に変える最後のチャンス。",
+        "layer2": "個人店の勝ち筋は、値札で大手と殴り合わないこと。今日なら「モンマルトルの石畳」「ポガチャル5勝目」「山火事で短縮された最終日」を入口に、来店客へ“今夜どこを観ると面白いか”を語れる。そこからタイヤ・チューブレス・ホイールの相談へ自然につなげ、セール終了後の秋商戦（試乗会・整備・買い替え相談）の予約まで取りにいく設計が効く。",
+        "sources": [
+          {
+            "t": "J SPORTS（7月みどころ）",
+            "u": "https://www.jsports.co.jp/cycle/preview/July2026/",
+            "d": "2026-07"
+          },
+          {
+            "t": "プライシー（セール時期）",
+            "u": "https://www.pricey.jp/web/articles/3501",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝あさひ夏セールは〜7/26／※接客の具体策はリサの提案。"
+      },
+      {
+        "id": "20260726-price-polarization",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C164.jpg",
+        "headline": "【経営メモ・市場】“上は高騰・下は激戦”が続く——新型2027ハイエンドは新色で定価維持（トレック¥399k〜980k）、下は中華完成車と型落ちが主戦場",
+        "layer1": "国内は『定価は上・実売は下』の二極化が継続。トレックは7/10に2027年モデルを投入し、マドンSLは¥399,000（SL5）〜¥850,000（SL7・アルテグラDi2）、上位SLRは¥980,000と、円安下でも“新色で定価維持”の構え。一方で入門〜ミドルは型落ち値引きと中華完成車が食い合う。",
+        "layer2": "ショップ視点の含意は明快だ。ハイエンドは「値引き」でなく「新色・体験・フィッティング」で売る商品になり、値札交渉に付き合うほど利益が薄る。逆に下の帯は、大手の型落ち20〜30％引きと中華の“完成車攻勢”が主戦場——ここは在庫勝負でなく、目利き＋アフター＋工賃で差をつける領域。中間価格帯の空洞化は今年も進む見込みで、品揃えの“上下振り分け”がカギ。",
+        "sources": [
+          {
+            "t": "一条サイクル（トレック2027）",
+            "u": "https://www.1jyo.com/news/?p=104588",
+            "d": "2026-07-10"
+          },
+          {
+            "t": "bike-memo（値下げと新興）",
+            "u": "https://bike-memo.com/cycle_260204_roadbike/",
+            "d": "2026-02"
+          },
+          {
+            "t": "サトユキブログ（価格下落）",
+            "u": "https://satoyukiblog.com/2026/03/09/2026-road-bike-prices-are-they-actually-dropping/",
+            "d": "2026-03"
+          }
+        ],
+        "status": "確定＝トレック2027価格（7/10発表）／※二極化の解釈はリサの整理。"
+      },
+      {
+        "id": "20260726-punchy-climb-beginner",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-04/mathieu-van-der-poel-tadej-pogacar-and-remco-evenepoel-on-the-podium-of-the-2026-tour-of-flanders-69d3a4cb24866.JPG",
+        "headline": "プロが今夜『石畳の激坂』を3回踏む日——初中級の“短いパンチ坂”は、根性でなく『入りを抑えて後半上げる』で速くなる",
+        "layer1": "モンマルトルは約1km・平均6.5％・最大9％の石畳。1kmに満たない“パンチ坂”は、実は初中級が街中でいちばん出会う登り方でもある。プロが今夜ここで勝負を決めるように、短い坂こそ入り方で結果が変わる。",
+        "layer2": "コツは3つ。①坂の入口で全開にしない——最初の30秒を『少し余す』と、頂上手前で垂れずに踏み増せる。②立ち漕ぎは“最後の一伸び”に温存し、基本は座って一定トルク。③石畳・濡れ路面では体重を後ろ気味にしてリアの空転を防ぐ。心拍は入口で上げすぎず、頂上『10m手前』から上げる——これがモンマルトルでプロがやることの縮小版だ。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（S21勾配）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-2026-stage-21-preview-profiles-favourites-and-predictions-pogacar-van-der-poel-and-evenepoel-meet-again-now-on-cobbled-paris-circuit",
+            "d": "2026-07-25"
+          },
+          {
+            "t": "IDL ProCycling（S21勾配）",
+            "u": "https://www.idlprocycling.com/cycling/2026-tour-de-france-stage-21-preview-could-pogacar-or-evenepoel-ruin-van-der-poels-dream-stage",
+            "d": "2026-07-25"
+          }
+        ],
+        "status": "確定＝モンマルトルの勾配データ／技術面はリサの一般ガイド。"
+      },
+      {
+        "id": "20260726-wet-descent-beginner",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/eTQjkLjPCqgWCDiJaAdE4R-2000-80.jpg",
+        "headline": "『あのクスでも山の下りで二度落ちた』——初中級が濡れた下りで転ばない3原則：減速は“傾ける前”／握らず点で当てる／目線は先の先",
+        "layer1": "アルプ・デュエズの下りで単独先頭のクスが二度落車し、勝利を失った。プロでも下りは水物。今夜のモンマルトルも“雨の可能性”が語られており、下りの守りは初中級ほど効く。",
+        "layer2": "3原則はこう。①ブレーキは『コーナーに傾ける前』の直線で終わらせる——寝かせてから握ると前輪が逃げる。②握りっぱなしにせず、必要なだけ“点”で当てて熱と制動を分散。③目線はガードレールでなく“出口のさらに先”へ。濡れた白線・マンホール・落ち葉は乾いていても滑る前提で、そこだけは寝かさず通過する。クスの二度目はネットに救われたが、初中級に安全ネットは無い——だから予防が全て。",
+        "sources": [
+          {
+            "t": "Cyclingnews（クス落車）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/sepp-kuss-misses-out-on-stage-victory-after-crashing-twice-on-descent-while-leading-into-stage-20-finale-at-tour-de-france/",
+            "d": "2026-07-25"
+          },
+          {
+            "t": "ProCyclingUK（クス）",
+            "u": "https://procyclinguk.com/sepp-kuss-suffers-remarkable-save-after-second-crash-costs-him-tour-de-france-2026-stage-20-chance/",
+            "d": "2026-07-25"
+          }
+        ],
+        "status": "確定＝クスの二度落車（事実）／下り技術はリサの一般ガイド。"
+      },
+      {
+        "id": "20260726-paris-finale-evolution",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://media.racingpost.gcpp.io/prod/images/gm_preview/aefd1ade418e-gettyimages-2208822761.jpg",
+        "headline": "パリの最終日が『スプリント』から“パンチャーの決戦”へ——モンマルトル2年目、しかも頂上はゴール10km手前と“4km遠く”に",
+        "layer1": "長らく“スプリンターのお祭り”だったシャンゼリゼ最終日が、2年連続でモンマルトルの丘を組み込み、決着の質を変えつつある。今年は頂上からゴールまでが昨年より4km長く、単独逃げ切りが決まりやすい設計になった。",
+        "layer2": "この変化は“見せ場を最後まで残す”というレースデザインの意思表示だ。純スプリンターの見せ場は減るが、ファンデルプールやペデルセンのようなクラシック巧者、あるいは総合勢が最後まで動ける。ツール総合が早々に決まりがちな近年、主催が“最終日にもう一つの物語”を仕込む流れは、今後の他大会のゴール設計にも波及しそう。パリ＝ゴールの意味が、静かに書き換わっている。",
+        "sources": [
+          {
+            "t": "Racing Post（予想・背景）",
+            "u": "https://www.racingpost.com/sport/cycling-tips/tour-de-france/tour-de-france-2026-stage-21-predictions-tips-and-odds-adtOr2V1v98i/",
+            "d": "2026-07-25"
+          },
+          {
+            "t": "Cycling Weekly（短縮とサーキット）",
+            "u": "https://www.cyclingweekly.com/racing/tour-de-france/final-stage-of-2026-tour-de-france-shortened-due-to-french-wildfires-montmartre-circuit-still-included",
+            "d": "2026-07-25"
+          }
+        ],
+        "status": "確定＝モンマルトル2年目・頂上はゴール10km手前で昨年より4km遠い／背景解釈はリサの整理。"
+      }
+    ]
+  },
+  {
     "date": "2026-07-25",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ツールは最終アルプス——ポガチャルが『アルプ・デュエズの記録』をパンターニから29年ぶりに奪い、今日はさらに獲得5,600mの女王ステージ。市場は『上は新型で高く・下は中華で崩れる』二極化が今週も進んでいます。",
     "cards": [
