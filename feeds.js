@@ -1,5 +1,309 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-07-28",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ツール閉幕から一夜明け、視線はもう『8月1日』へ——クラシカ・サンセバスティアン（レムコが史上初の4勝目挑戦）と、ローザンヌ開幕・史上初ヴァントゥー越えの女子ツールが同日スタート。ヴィンゲゴーは鎖骨手術を終え『世界選が現実的な復帰目標』、ポガチャルは「ブエルタは2週間後に決める」と含み。移籍市場（ログリッチ退団・セイシャス争奪）、掲示板が唸る“2020と2026のポガチャル”、シマノ13速の“ツール未発表”、猛暑41.1℃、ポガチャル商戦の店頭、そして市場二極化まで。今日も鮮度優先でお届けします。",
+    "cards": [
+      {
+        "id": "20260728-sansebastian",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://procyclinguk.com/wp-content/uploads/2025/08/Clasica-San-Sebastian-Attack-on-final-climb-nets-Giulio-Ciccone-solo-victory.avif",
+        "headline": "ツール明け最初の大一番は『8月1日』クラシカ・サンセバスティアン——レムコが“史上初の4勝目”を狙う、迎え撃つは昨年王者チッコーネ",
+        "layer1": "第45回クラシカ・サンセバスティアンが8/1（土）に開催。ツールを総合2位＋2勝で終えたレムコ・エヴェネプールが本命で、すでに3勝しているこの一戦で『史上初の4勝目』に挑む。昨年はチッコーネが最終盤ムルギル峠のアタックから独走で優勝しており、王者として立ちはだかる。",
+        "layer2": "今年のコースは全長221.1kmに“分類上りが7つ・獲得4,150m超”とここ数年で最も重い設計。締めのムルギル→アニェタで削り合い、下って市街地スプリントかソロ勝ちかが分かれる。レムコは「ツール後も飢えている」と公言し、ガル／アルメイダ／C.ロドリゲス／ランダら登れる実力者が続く。ツールの熱が冷めないうちにワンデーの人間ドラマが動く一日。",
+        "sources": [
+          {
+            "t": "ProCyclingUK（ルートガイド）",
+            "u": "https://procyclinguk.com/donostia-san-sebastian-klasikoa-2026-route-guide/",
+            "d": "2026-07-19"
+          },
+          {
+            "t": "CyclingFlash（レムコ記録挑戦）",
+            "u": "https://cyclingflash.com/news/remco-evenepoel-faces-a-new-goal-this-weekend",
+            "d": "2026-07"
+          },
+          {
+            "t": "Cyclingnews（レース情報）",
+            "u": "https://www.cyclingnews.com/pro-cycling/races/donostia-san-sebastian-klasikoa-2026/",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝8/1開催・221.1km・レムコ本命／チッコーネ昨年王者。曖昧＝優勝候補と展開は当日次第。"
+      },
+      {
+        "id": "20260728-femmes",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://procyclinguk.com/wp-content/uploads/2026/05/divPersonally-Im-also-here-to-make-progress-as-a-stage-racer-–-Pauline-Ferrand-Prevot-and-Visma-Lease-a-Bike-focussed-on-stage-wins-at-La-Vuelta-Femeninadiv-1.avif",
+        "headline": "女子ツールも『8月1日』開幕——史上初スイス・グランデパール、そして“レースが初めて登るヴァントゥー”がすべてを決める",
+        "layer1": "ツール・ド・フランス・ファム2026が8/1〜9の9日間で開催。史上初のスイス開幕（ローザンヌ）で幕を開け、全1,175km・獲得約19,000m。最大の山場は第7ステージ、女子ツール史上『初のモンヴァントゥー山頂ゴール』（8/7・金）。",
+        "layer2": "本命は“三大ツール制覇”を果たしたばかりのデミ・フォレリング（今季ジロ・ドンネ優勝、過去2年は総合2位）。対するは連覇を狙う地元の英雄フェランプレヴォ（2025年に仏勢初優勝）。第4ステージの21km個人TTでロイセルらTTスペシャリストが時間を稼ぎ、最後はヴァントゥーで決着——という筋書き。ちなみにポガチャルは「パートナーのジガートを応援に女子ツールの現地へ行く」とコメントしており、男女ツールが地続きなのも今年らしい。",
+        "sources": [
+          {
+            "t": "Olympics.com（プレビュー）",
+            "u": "https://www.olympics.com/en/news/cycling-tour-de-france-femmes-2026-riders-route-schedule-and-how-to-watch-live",
+            "d": "2026-07-27"
+          },
+          {
+            "t": "Canadian Cycling Magazine",
+            "u": "https://cyclingmagazine.ca/sections/feature/tour-de-france-femmes-2026-preview/",
+            "d": "2026-07-27"
+          },
+          {
+            "t": "Cyclingnews（ルート）",
+            "u": "https://www.cyclingnews.com/races/tour-de-france-femmes-2026/map/",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝8/1ローザンヌ開幕・第7ステージ史上初ヴァントゥー山頂・フォレリング／フェランプレヴォが主役。"
+      },
+      {
+        "id": "20260728-vingegaard-surgery",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://procyclinguk.com/wp-content/uploads/2026/07/divIts-no-use-hanging-your-head-–-Jonas-Vingegaard-gives-his-first-reaction-since-exiting-the-Tour-de-Francediv-scaled.avif",
+        "headline": "ヴィンゲゴー、鎖骨手術は『成功』——だが復帰は白紙、「今季はもう走らないかもしれない」の声も",
+        "layer1": "ツール第15ステージ（残り約20km）の落車で右鎖骨を骨折しリタイアしたヴィンゲゴーが、手術を無事終えた。SDのマルク・リーフは「うまくいった、やるべきことはやった」とコメント。ただし復帰時期は未定で、チームは「回復を急がせない」姿勢。",
+        "layer2": "現実的な復帰目標として挙がるのが9/20〜27の世界選（モントリオール）。約2か月あり間に合う可能性はあるが、ヴィンゲゴーはステージレース型でワンデーは畑違い、無理には出さないという見方。8/22開幕のブエルタは回復期間が足りず絶望的で、「シーズンそのものが終わる」可能性も残る。ジロを勝った“当たり年”が、最後のツールの一瞬の落車で暗転した——今季ラストの走りが見られるかは、骨の付き方次第。",
+        "sources": [
+          {
+            "t": "ProCyclingUK（手術成功・復帰）",
+            "u": "https://procyclinguk.com/jonas-vingegaard-post-tour-de-france-crash-surgery-successful-when-will-he-race-again/",
+            "d": "2026-07-24"
+          },
+          {
+            "t": "CyclingUpToDate（今季絶望論）",
+            "u": "https://cyclinguptodate.com/cycling/its-been-a-difficult-season-marc-reef-admits-jonas-vingegaard-may-not-race-again-this-season",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝手術成功・復帰時期未定。曖昧＝世界選復帰は可能性どまり、今季不出場もあり得る。"
+      },
+      {
+        "id": "20260728-pogacar-vuelta",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039200-557.jpg",
+        "headline": "5勝目のポガチャル、次戦に含み——「ブエルタが明日始まるなら“ノー”、でも2週間後に決める」",
+        "layer1": "ツール5勝目（歴代最多に並ぶ）を挙げたポガチャルは、8/22開幕のブエルタ参戦を問われ「今すぐ明日始まるなら、たぶんノーと言う。でも2週間あれば、まだ決められる」と含みを持たせた。まずは今週金曜、地元コメンダのクリテリウムと日曜の“Pogi Challenge”に出るという。",
+        "layer2": "ブエルタを勝てば“三大ツール完全制覇”＝史上9人目の到達で、その後はカナダの世界選へ直行という青写真もある。前回ブエルタは2019年、ネオプロで総合3位＋3勝——あれから7年、格が違う立場での帰還になる。本人は「燃え尽きは押しすぎたときに起きる」と慎重で、決断はツールの疲労の抜け方次第。“5勝クラブから抜け出したい”という冗談交じりの発言も、まだまだ上を見ている証。",
+        "sources": [
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/pogacar-leaves-door-open-to-vuelta-return-after-fifth-tour-victory/",
+            "d": "2026-07-27"
+          },
+          {
+            "t": "CyclingUpToDate（ブエルタ機運）",
+            "u": "https://cyclinguptodate.com/cycling/the-2026-vuelta-a-espana-dreams-of-pogacar-his-presence-gains-momentum-at-the-tour-de-france",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝金曜コメンダのクリテ出走・ブエルタは保留。曖昧＝ブエルタ／世界選は最終未定。"
+      },
+      {
+        "id": "20260728-transfer-roglic-seixas",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/a84w6UvVdB2uv4guW6QSrD-1024-80.jpg",
+        "headline": "ツールが終われば“市場”が動く——ログリッチがレッドブル退団、19歳セイシャスに『年13〜20億円』級のオファー合戦",
+        "layer1": "ツール閉幕で2026/27の移籍市場が本格化。36歳ログリッチは3年契約満了でレッドブル・ボーラを離れることが（大会序盤に）確定、行き先はバーレーンが取り沙汰される。そして総合4位で名を上げた19歳セイシャスには複数チームが殺到——ピナレロQ36.5が“史上最高額級”の年€13〜20M（約22〜35億円）を提示との報も。",
+        "layer2": "ただしセイシャス本人はデカトロンと2027年まで契約が残り、移籍報道を「事実ではない」と一蹴。ヴィスマは1年前から水面下で口説いているという。ほかにガルがリドル・トレックへ、ハインドリーはレッドブル残留。“ポスト・ポガチャル”を巡る椅子取りが、機材やチーム勢力図まで動かしていく。日本のローディーが最も熱く見守るのはやはりセイシャスの去就。",
+        "sources": [
+          {
+            "t": "Cyclingnews（移籍まとめ）",
+            "u": "https://www.cyclingnews.com/features/cycling-transfers-all-the-latest-news-and-announcements-for-the-2026-season/",
+            "d": "2026-07-15"
+          },
+          {
+            "t": "Cyclist（移籍うわさ）",
+            "u": "https://www.cyclist.co.uk/news/cycling-transfer-rumours",
+            "d": "2026-07-15"
+          }
+        ],
+        "status": "確定＝ログリッチ退団・ガル移籍・ハインドリー残留。曖昧＝セイシャスは本人否定、金額報道は※要裏取り。"
+      },
+      {
+        "id": "20260728-pogacar-2020vs2026",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://blog.cbnanashi.net/wp-content/uploads/2026/07/tp-1.jpg",
+        "headline": "【掲示板が唸る】“2020年と2026年のポガチャル、何が変わったのか”——答えは「才能」でなく『最適化』だった",
+        "layer1": "海外フォーラムの考察が日本のローディー界隈でも回覧中。テーマは『デビュー当時（2020）と今（2026）で、ポガチャルはどう変わったのか』。まとめると「昔から異次元だったが、今は科学的に磨き上げられた」という見立て。",
+        "layer2": "刺さった3点：①2020年当時はマウンテンデュー・ビール・チョコに夜更かしという“奔放さ”でも勝っていた→今は高地合宿と厳格な栄養で『素の才能を最適化』しただけ、という指摘（＝不正ではなく積み上げ）。②ヴィンゲゴーより約7kg重いのに登れて、全種目で勝つ——その出力の源が科学的に“説明できない”という謎。③この3年、明確な“不調日”がひとつもない安定性。数字を煽るより、この「なぜ強いのかを言語化しきれない」感覚こそ、いま人が語りたくなる核。ショート化しやすいテーマ。",
+        "sources": [
+          {
+            "t": "CBN Blog（海外掲示板考察）",
+            "u": "https://blog.cbnanashi.net/2026/07/27665",
+            "d": "2026-07-19"
+          }
+        ],
+        "status": "確定＝海外掲示板発の考察を紹介。曖昧＝出力の“謎”は個人の感想ベース、生理学的断定はしない（※要裏取り扱い）。"
+      },
+      {
+        "id": "20260728-shimano13",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cyclingarchives.com/wp-content/uploads/2026/05/shimano-13-speed-2026-dura-ace-r9300-wireless-reshape-worldtour-1-1024x682.jpg",
+        "headline": "結局“ツールでも出なかった”シマノ13速——恒例の発表舞台が閉幕、デュラエースR9300は『2027年』へずれ込みか",
+        "layer1": "シマノが新型デュラエースをお披露目してきた恒例の舞台＝ツール・ド・フランスが閉幕したが、13速R9300は今年も正式発表されず。7月中旬時点でもアナウンスは無く、市場予測は“2027年の一般販売”へ傾いている。",
+        "layer2": "「開発している痕跡」は依然として濃い——E-Tubeアプリに現れた“13枚目”のコード、R9300系を示す未発売ペダルの型番、そしてアルペシン勢に付く未公開ホイール／ペダルのプロトタイプ。それでもシマノ公式は「現行ラインアップに13速は無い」と沈黙を守る。皮肉なのは、ライバルのカンパは既に13速（スーパーレコード/レコード）を実戦投入済みという点。“待たされる”ぶん、買い替え判断は慎重に（後述の12本目参照）。",
+        "sources": [
+          {
+            "t": "CyclingArchives（7月中旬時点の状況）",
+            "u": "https://cyclingarchives.com/shimano-13-speed-2026-dura-ace-r9300-wireless-reshape-worldtour/",
+            "d": "2026-07-17"
+          },
+          {
+            "t": "BikeTips（E-Tubeリーク解説）",
+            "u": "https://biketips.com/shimano-13-speed-dura-ace-r9300-e-tube-leak-2026/",
+            "d": "2026-05"
+          }
+        ],
+        "status": "確定＝ツールでも未発表・公式は13速を否定。曖昧＝発売時期（2027説）は予測、※要裏取り。"
+      },
+      {
+        "id": "20260728-china-wheel-atari",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "http://icanjp.com/cdn/shop/articles/0c32f3a8855665b55a482c7de9b35e46-486082.jpg?v=1588842617",
+        "headline": "【Xで話題】“中華ホイールは増えたが「当たり」と「地雷」が混在”——初めての1本で地雷を踏まない見分け方",
+        "layer1": "「中華ホイール、正直めちゃくちゃ増えた。でも“当たり”と“地雷”が混在してるのが現実」——こんな投稿がXで拡散し、選び方の議論が再燃中。値段だけで飛びつくと痛い目を見る、という実感の共有。",
+        "layer2": "裏取りして整理すると“地雷回避”の軸はシンプル。①ハブで選ぶ：初めてなら『DT Swiss』か実績あるセラミック系。②ブランドの検品体制：ウィンスペース（カーボンスポークで反応性◎）やヨエル（TUV等の認証）は品質管理が安定、ファースポーツはDT Swissハブのカスタム対応。③買い方：基本は“公式直販が最安・最安心”、ただし表示価格に輸入消費税＋通関手数料が乗る総額で比較。④レビューは“自分と用途が似た人”を基準に読む。要は選ぶ軸は「安さ」から『設計と検品』へ。うち（8LIEN・CRW・GOOSYNN・NEPEST）も“検品と用途提案”で語れば、この不安にそのまま応えられる。",
+        "sources": [
+          {
+            "t": "X（中華ホイール当たり/地雷）",
+            "u": "https://x.com/FJT_TKS/status/2033489501583228959",
+            "d": "2026-07"
+          },
+          {
+            "t": "bike-memo（2026格付け）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-04"
+          },
+          {
+            "t": "ICANジャパン（購入ガイド）",
+            "u": "https://icanjp.com/blogs/news/chinese-carbon-wheels",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝選び方の実務（ハブ・検品・総額・レビューの読み方）。曖昧＝Xの体感は入口、個別ブランド評価は用途依存。"
+      },
+      {
+        "id": "20260728-heat-record",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260722-10473994-bikeno-000-1-view.jpg?exp=10800",
+        "headline": "浜松で『41.1℃』の夏——ツールを見て走りたくなっても、猛暑ライドは“根性”でなく『WBGTと時間帯』で守る",
+        "layer1": "7/23、静岡・浜松で41.1℃を観測し統計史上最高タイ級の記録的猛暑。7〜8月は関東〜沖縄で「厳重警戒」、内陸は「危険」ランクの日も。ツールを見て「自分も走りたい」熱が高まる時期こそ、暑さ対策の基本を。",
+        "layer2": "実務の目安：①『WBGT31以上は中止』が一つの基準（気温だけでなく湿度込みの指標で判断）。②走るなら早朝・夕方の“気温が低い時間帯”一択。③補給は「喉が渇く前に」20分おき少量、汗が多い日は経口補水液やスポドリで塩分も。④首筋・脇の“太い血管”を冷やすと体感が大きく下がる。根性で押すと熱中症は一瞬——“止める勇気”も装備のうち。店頭でも冷却ネックバンドや補給食を「安全提案」として添えると刺さる。",
+        "sources": [
+          {
+            "t": "Yahoo!ニュース／バイクのニュース",
+            "u": "https://news.yahoo.co.jp/articles/8fb990c5c08ca8dd74583fa2d2d17f9979dd841e",
+            "d": "2026-07-22"
+          },
+          {
+            "t": "日本気象協会 tenki.jp（猛暑予報）",
+            "u": "https://tenki.jp/forecaster/domoto_yukiyo/2026/07/04/39594.html",
+            "d": "2026-07-04"
+          }
+        ],
+        "status": "確定＝41.1℃記録・WBGT31中止基準・時間帯と補給。曖昧＝地域差あり、当日の実測で判断。"
+      },
+      {
+        "id": "20260728-market-ysroad-pogacar",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://ysroad.co.jp/osaka/wp-content/uploads/2026/07/img_0260.jpeg",
+        "headline": "【経営メモ・市場】ワイズが早くも“ポガチャル商戦”——閉幕直後に「憧れの機材」を束ねる、値引きでなく『語れる指名買い』",
+        "layer1": "ワイズロード大阪が7/25、ツールを見た客の「ポガチャルみたいに走りたい」を受け止める記事を公開。エリートのチームボトル（¥1,491）から、ポガチャル使用のプロロゴサドル（¥52,001）、UAE仕様セラミックBB（¥47,601）、そして日本20台限定のコルナゴV4-RSレプリカ（¥2,156,000・セール中）まで“憧れ”を束ねて提示。",
+        "layer2": "うち（jam cycle）への示唆：閉幕直後こそ需要のピーク。ここで効くのは“値引き”ではなく『あの選手が使っている＝語れる文脈』での指名買い。ボトルやバーテープ、サドルといった小物は“勝ちマシンの入口”として単価が低くても回転が速く、来店動機になる。中華ハイエンド（うちの強み）も「プロと同格の設計を1/3価格で」という語り口に載せれば、ツール余韻の財布に届く。夏の“熱”が冷めないうちに接客を仕込むのが今週の勝ち筋。",
+        "sources": [
+          {
+            "t": "ワイズロード大阪本館 ブログ",
+            "u": "https://ysroad.co.jp/osaka/2026/07/25/260899",
+            "d": "2026-07-25"
+          }
+        ],
+        "status": "確定＝閉幕直後の“憧れ機材”提案の実例。経営メモ（記事化不要の市場観察）。"
+      },
+      {
+        "id": "20260728-market-nikyoku",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/06/Roadcc-SPECIALIZED-SL9-2-1024x576.png",
+        "headline": "【経営メモ・市場】“上は青天井・下は激戦”が続く——新型は史上最速フレームで13,999ユーロ、片や廉価アエロが1,000ポンド割れ",
+        "layer1": "この夏の機材ニュースは市場の二極化をそのまま映す。上はスペシャの新型ターマックSL9（フレーム687g・完成車€13,999／約240万円、“史上最速”を謳う）。下はジップ404 Sが£985〜、カンパもレコード13で旗艦価格を大きく下げるなど“カーボンの民主化”が進む。国内はコロナ後の供給過多と価格反動で『定価は上・実売は下』の買い手市場が継続。",
+        "layer2": "うちへの示唆：ハイエンドの高騰は“憧れの旗”として集客に効く一方、実際に売れる主戦場は『税込30万円前後〜ミドル』。ここに大手の型落ち値引き（トレックは一部で10〜14%値下げの前例）と、中華・台湾の高コスパが同時に攻めてくる。2027モデルは新色＋一部値上げ（例：ドマーネAL4 ¥219,000→229,000、マドンSLは7/10新色）で“定価上昇”トレンドは不変。うちの立ち位置は「大手の1/3価格で、設計と検品で語れる中華ハイエンド」——二極化の“真ん中の空洞”を、目利きとアフターで埋める。",
+        "sources": [
+          {
+            "t": "価格.com（7月ロードバイク人気）",
+            "u": "https://kakaku.com/bicycle/road-bicycle/ranking_6420/",
+            "d": "2026-07"
+          },
+          {
+            "t": "一乗自転車（トレック2027 価格/新色）",
+            "u": "https://www.1jyo.com/news/?p=104588",
+            "d": "2026-07-10"
+          },
+          {
+            "t": "road.cc（ターマックSL9）",
+            "u": "https://road.cc/tech-news/the-fastest-road-bike-ever-made-specialized-unveils-the-s-works-tarmac-sl9",
+            "d": "2026-06-30"
+          }
+        ],
+        "status": "確定＝二極化の両端の実価格。曖昧＝為替と在庫で実売は変動、※価格は各店で要確認。"
+      },
+      {
+        "id": "20260728-11vs13",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cyclingarchives.com/wp-content/uploads/2026/05/shimano-13-speed-2026-dura-ace-r9300-wireless-reshape-worldtour-1-1024x682.jpg",
+        "headline": "『13速時代』が来る前に——いま11速の完成車を買うのは“損”か？ 初中級のための損しない判断",
+        "layer1": "カンパは既に13速、シマノも13速デュラエースが目前——という空気の中で「今11速を買うと時代遅れ？」という不安が初中級に広がっている。結論から言うと、“乗るための損”はほぼ無い。",
+        "layer2": "整理すると：①13速化がまず来るのは最上位（デュラエース／レッド級）で、多くの人が使う105・アルテグラ帯への波及は数年がかり。②11速→12速で「実走が劇的に速くなった」人はいない＝ギアは1枚増えても脚は増えない。③むしろ13速初期は“専用フリーボディ・チェーン・スプロケ”で互換が切れ、部品が高く入手性も未知数。だから初中級は「今きれいに枯れた11/12速の完成車を買い、消耗品を安定供給で回す」ほうが総額も精神衛生も良い。買い替えは“壊れたら／やりたい遊びが変わったら”で十分。うちで組むなら、そこも正直に伝えるのが信頼になる。",
+        "sources": [
+          {
+            "t": "Cyclingnews（カンパ レコード13）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/campagnolo-record-returns-with-13-speeds-and-a-more-affordable-price-point/",
+            "d": "2026-04"
+          },
+          {
+            "t": "CyclingArchives（シマノ13速の現状）",
+            "u": "https://cyclingarchives.com/shimano-13-speed-2026-dura-ace-r9300-wireless-reshape-worldtour/",
+            "d": "2026-07-17"
+          }
+        ],
+        "status": "確定＝11/12速は今買っても実用上損なし・13速は上位から。曖昧＝波及時期は予測、※要裏取り。"
+      }
+    ]
+  },
+  {
     "date": "2026-07-27",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ツール・ド・フランス2026がパリで閉幕——ファンデルプールが『雨のモンマルトル』を制し、ポガチャルは“史上最年少”で『5勝クラブ』入り。19歳セイシャス総合4位の快挙、各賞確定、次は8/1のサンセバスティアン＆女子ツール。勝ちマシンの機材、中華エアロ完組、猛暑対策、閉幕後の経営メモまでお届けします。",
     "cards": [
