@@ -1,5 +1,266 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-07-30",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ツールが終わって機材と市場が一斉に動き出しました——シマノが『初のカーボンスポーク』新デュラ・ホイールを昨日投入、そして8月1日はサンセバスティアンと女子ツールが同日開幕。今日は“機材の号砲”が主役です。",
+    "cards": [
+      {
+        "id": "20260730-shimano-r9370",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": true,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/07/Shimano-Dura-Ace-WH-R9370-July-2026-1024x683.jpg",
+        "headline": "シマノが『初のカーボンスポーク』新デュラエース・ホイールWH-R9370を昨日投入——C36が1,170g、前後で約43万円、9月発売",
+        "layer1": "7月29日発表。ロード用C36／C50／C60にTT用を加えた全5モデルで、シマノのロードホイールとしては初のカーボンスポーク採用。前作比で最大220g軽量化（C36は1,350g→1,170g）。ツール2026ではファンデルプールのパリ制覇を『先行装着』で支えていた。",
+        "layer2": "掘ると『空力』も更新——30cタイヤ・48km/hで最大2.7W削減。歴史的な弱点だったカップ&コーンは“交換式ベアリングカップ”で終端故障を潰しにきた。そして型番『R9370』は、新型グループセットR9300（13速）接近の強いサイン（R9000→9100→9200→9300の命名則）。中華の完組は同じ50mm・1,300g級を約1/3価格で出しており、店では『価格差の中身（カーボンスポーク・空力・保証）』を語れるかが勝負になる。",
+        "sources": [
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/tech-news/shimano-launches-lighter-more-aero-dura-ace-wheels",
+            "d": "2026-07-29"
+          },
+          {
+            "t": "Bikerumor",
+            "u": "https://bikerumor.com/shimanos-new-dura-ace-wh-r9370-wheels-drop-weight-add-carbon-spokes/",
+            "d": "2026-07-29"
+          },
+          {
+            "t": "サイクルスポーツ",
+            "u": "https://www.cyclesports.jp/news/new-product/165486/",
+            "d": "2026-07-29"
+          }
+        ],
+        "status": "確定＝発表日・全5モデル・初のカーボンスポーク採用・重量・9月発売（公式＋複数媒体7/29）。曖昧＝R9300グループセット本体は未発表で、型番からの推測。"
+      },
+      {
+        "id": "20260730-sansebastian-roglic",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/aKxykyVjiCkJXQ7i9uqeyA-1024-80.jpg",
+        "headline": "『8月1日』サンセバスティアン——レムコが史上単独最多“4勝目”を狙う、その影で36歳ログリッチの“最終章”が始まる",
+        "layer1": "第45回、221.1km・獲得4,300m、勝負どころは終盤のムルギル（2.1km・平均10.1%）。ツール2位のエヴェネプールが4勝目でマリノ・レハレタと並ぶ最多3勝を抜き『単独記録』へ。迎え撃つのは昨年王者チッコーネ、ヒーリー、オンリーら。",
+        "layer2": "同じスタートラインに、レッドブル退団が確定した36歳ログリッチが並ぶ。2027に『もう一度ツール総合』を狙って新チーム（ピナレロ・Q36.5説）を探す身で、この夏の一戦一戦がキャリア終盤の物語そのもの。結果速報より“誰が何を賭けて走るか”で観ると刺さる一日。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（スタートリスト）",
+            "u": "https://cyclinguptodate.com/cycling/startlist-clasica-san-sebastian-2026-with-remco-evenepoel-giulio-ciccone-ben-healy-primoz-roglic-oscar-onley-and-more",
+            "d": "2026-07-28"
+          },
+          {
+            "t": "Infobae（レムコ4勝目）",
+            "u": "https://www.infobae.com/espana/agencias/2026/07/28/remco-evenepoel-buscara-este-sabado-su-cuarta-clasica-san-sebastian/",
+            "d": "2026-07-28"
+          },
+          {
+            "t": "Domestique（ログリッチ2027）",
+            "u": "https://www.domestiquecycling.com/en/news/primoz-roglic-set-for-one-more-tour-de-france-bid-after-red-bull/",
+            "d": "2026-07-06"
+          }
+        ],
+        "status": "確定＝日程・コース・出場・レムコの3勝（公式＋スタートリスト7/28）。曖昧＝ログリッチのピナレロ移籍は噂段階で合意なし。"
+      },
+      {
+        "id": "20260730-femmes-duel",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2025/Tour-de-France-Femmes/CORVOS_00038223-114.jpg?width=832&height=468&format=jpg&crop=2000%2C1125%2C0%2C104",
+        "headline": "女子ツールも『8月1日』開幕——“GT三冠”フォラリング vs 連覇狙うフェランプレヴォ、スイスから9日間",
+        "layer1": "スイス・ローザンヌで史上2度目の国外グランデパール。今季フランドル＆フレーシュ制覇に加え『初のジロ』を勝ち、女性2人目のGT三冠を達成したフォラリングが、2023以来の黄色奪還へ。迎え撃つのは昨年王者フェランプレヴォ。",
+        "layer2": "掘るとこの対決、単純な力比べではない——PFPは大一番でのピーク合わせが巧く昨年それを証明済み。フォラリングは24・25と連続2位で雪辱に飢える。さらに地元スイスでは、脊椎骨折から復帰しツール・ド・スイス女子で優勝したTT女王ロイセルが開幕直後の“初日”に照準を合わせている。",
+        "sources": [
+          {
+            "t": "Domestique（プレビュー）",
+            "u": "https://www.domestiquecycling.com/en/features/2026-tour-de-france-femmes-preview-vollering-ferrand-prevot-and-the-race-for-yellow/",
+            "d": "2026-07-29"
+          },
+          {
+            "t": "Cyclingnews（ロイセル分析）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/why-a-resurgent-marlen-reusser-should-be-a-real-worry-for-demi-vollering-and-pauline-ferrand-prevot-at-the-tour-de-france-femmes-analysis/",
+            "d": "2026-07"
+          },
+          {
+            "t": "Olympics.com",
+            "u": "https://www.olympics.com/en/news/cycling-tour-de-france-femmes-2026-riders-route-schedule-and-how-to-watch-live",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝開幕日・スイス開幕・フォラリングのGT三冠・ロイセルの復帰優勝（複数媒体）。曖昧＝勝敗予想は各媒体の見立て。"
+      },
+      {
+        "id": "20260730-femmes-history",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/6P34ULi5EWxtDQmJBtFpkM-2001-80.jpg",
+        "headline": "今年の女子ツールは“史上最大”——過去最長1,175km、そして『大会史上初のヴァントゥー山頂』が全てを決める",
+        "layer1": "2026年大会は全9ステージ・過去最長1,175km。第7ステージで女子ツール史上初のモン・ヴァントゥー山頂フィニッシュ（15.7km・平均8.8%）を迎え、ディジョンの個人TTと合わせGCを大きく揺らす設計。",
+        "layer2": "先回りすると“なぜ今”——女子ロードは放送・賞金・スポンサーが年々拡大し、大会規模がそれを映している。マサル視点では、この盛り上がりは『女子＝ミドルグレード完成車・軽量ホイールの需要』に直結。憧れの舞台がヴァントゥーなら、“登れる軽量アルミ/中華カーボン”を語る絶好の入口になる。",
+        "sources": [
+          {
+            "t": "Cyclingnews（区間分析）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/delving-beyond-the-mont-ventoux-showstopper-analysing-the-key-stages-of-the-2026-tour-de-france-femmes/",
+            "d": "2026-07"
+          },
+          {
+            "t": "Domestique（プレビュー）",
+            "u": "https://www.domestiquecycling.com/en/features/2026-tour-de-france-femmes-preview-vollering-ferrand-prevot-and-the-race-for-yellow/",
+            "d": "2026-07-29"
+          }
+        ],
+        "status": "確定＝ステージ数・総距離・第7ステージ初ヴァントゥー・ヴァントゥーの数値（複数媒体）。曖昧＝“市場拡大”の因果は解釈。"
+      },
+      {
+        "id": "20260730-shimano-13s-30c",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://bikerumor.com/wp-content/uploads/2026/07/DURA-ACE-R9370-C50-R-ANGLE-10-e1785335647992.jpg",
+        "headline": "“ホイールだけ先出し”が語ること——新デュラは『13速R9300の露払い』かつ『30cタイヤ前提』、太タイヤ時代が確定に",
+        "layer1": "R9370の発表で複数メディアが同じ問いを立てた——「これは新型グループセットが目前という合図か？」。シマノは慣例のツール発表を見送ったが、ホイールを先に出した意味は大きい。加えて新ホイールは内幅23mm・30cタイヤ最適で設計されている。",
+        "layer2": "掘ると初中級にも波及する話——公称値は『48km/hで最大2.7W削減』だが、本命は“太タイヤ標準化”。25c→28/30cで転がり・快適・グリップが上がり、ワイドリムがそれを支える。13速R9300本体は2027シーズン投入が濃厚とされ、いま11速完成車を買うのは“損”ではないが、ホイール/タイヤは先に太幅対応を選んでおくと長く使える。",
+        "sources": [
+          {
+            "t": "Cyclingnews（グループ接近か）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/shimano-launches-brand-new-dura-ace-wheel-range-does-this-mean-a-new-groupset-is-imminent/",
+            "d": "2026-07-29"
+          },
+          {
+            "t": "BikeRadar（30c最適・数値）",
+            "u": "https://www.bikeradar.com/news/shimano-dura-ace-r9370-wheels",
+            "d": "2026-07-29"
+          }
+        ],
+        "status": "確定＝ホイール仕様（内幅23mm・30c最適・2.7W）と“グループ接近か”という各媒体の問い。曖昧＝R9300の発表時期は未確定（2027説が有力）。"
+      },
+      {
+        "id": "20260730-market-r9370-price",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/Pm6DzMEABQ2rYoesxef9y9-1920-80.jpg",
+        "headline": "【経営メモ・市場】新デュラ・ホイールの国内価格は前後で約43万円——“天井”がまた上がった、勝ち筋は値引きでなく『指名買い＋整備』",
+        "layer1": "国内価格が確定——C50でフロント198,847円／リア232,866円（税込・前後で約43万円）、発売は9月17日。C36・C60も含め、完組ホイール単体で“40万円超え”が新たな基準になった。",
+        "layer2": "経営視点で深掘り——上（ハイエンド）は青天井、下（中華完組）は同スペックを約1/3で攻める“二極化”が加速。店としての現実解は、この43万円ホイールを『何が違うか語れる指名買い』の目玉にしつつ、実際に売れる価格帯（中華カーボン＋工賃）で数を取る二段構え。9月発売までの1.5か月は“予約と情報発信”で温める期間。VDPが実戦投入済みという“物語”も接客で効く。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ（国内発表）",
+            "u": "https://www.cyclesports.jp/news/new-product/165486/",
+            "d": "2026-07-29"
+          },
+          {
+            "t": "シクロワイアード（全5モデル）",
+            "u": "https://www.cyclowired.jp/news/node/393008",
+            "d": "2026-07-29"
+          }
+        ],
+        "status": "確定＝国内価格・発売日（国内媒体7/29）。曖昧＝実売の値引き幅は店舗次第。"
+      },
+      {
+        "id": "20260730-market-kaite",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://img.my-best.com/contents/11a1657d2cabf762f0ee33dc04e884b3.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=3b7a4442e3f3f4d225590c7454d5ab59",
+        "headline": "【経営メモ・市場】“買い手市場”は継続——型落ちは20〜40%安、秋のモデルチェンジ前で在庫潤沢、お盆需要は『語れる接客』で取る",
+        "layer1": "国内は在庫潤沢で値下がり傾向が続く。型落ち完成車は新品・保証付きで20〜40%安が実勢で、秋のモデル入れ替え前のいまが“底値圏”。7月・12月のボーナス期に加え、お盆の帰省・連休が短期の需要山になる。",
+        "layer2": "経営視点で深掘り——値引き合戦に乗ると利益が消える。勝ち筋は①型落ちの“正しい買い時”を正直に伝えて信頼を取り、②新デュラのような“語れる新製品”を撒き餌に指名買いへ、③電アシ・整備・リユースで粗利を作る。お盆は「今すぐ乗りたい」層が動くので、即納在庫と当日整備の見せ方が効く。買い控えの根っこは“高い”ではなく“選べない不安”——そこを接客で解く。",
+        "sources": [
+          {
+            "t": "mybest（完成車ランキング）",
+            "u": "https://my-best.com/21173",
+            "d": "2026-07"
+          },
+          {
+            "t": "プライシー（セール時期）",
+            "u": "https://www.pricey.jp/web/articles/3501",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝型落ちの割引実勢・在庫傾向・セール期（各媒体7月）。曖昧＝“底値”判断は相場観で、断定はしない。"
+      },
+      {
+        "id": "20260730-beginner-43man-china",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/01/zakki_C128.jpg",
+        "headline": "【初中級】“デュラのホイールが43万円”は高い？——趣味乗りに効くのは価格でなく用途、中華完組は同クラスを約1/3で",
+        "layer1": "昨日の新デュラ・ホイールの前後約43万円という価格に、SNSでは『さすがに高い』の声。だが初中級が最初に知るべきは“値段の絶対額”ではなく『自分の用途に合うか』。50mm前後の空力完組が効くのは平坦巡航・ロングで、登坂主体なら軽い浅リムが正解。",
+        "layer2": "先回りして本音——中華カーボン完組は、いま同じ50mm・1,300g級を約10万円前後（デュラの約1/3）で出しており、初めての“アップグレード1本”としては現実的。ただし『当たりと地雷』が混在するのも事実。地雷を避ける最低限は、①実測重量と実測リム内幅を公開しているか、②日本語の長期レビュー（数千km）があるか、③ハブ/スポークの補修部品が買えるか。この3点が揃うブランドを選べば、43万円をかけずに“体感が変わる1本”に届く。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ（デュラ価格）",
+            "u": "https://www.cyclesports.jp/news/new-product/165486/",
+            "d": "2026-07-29"
+          },
+          {
+            "t": "bike-memo（中華格付け）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-01"
+          }
+        ],
+        "status": "確定＝デュラ価格（7/29）と中華完組の価格帯（複数媒体）。曖昧＝『高い』の声はSNS観測で、個別投稿は要裏取り。"
+      },
+      {
+        "id": "20260730-china-frontier",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://img.my-best.com/contents/a5deedfdf9b9f9b8ff2d2c0f5d420ae9.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=a2c0a254995862aaee35d6d8903f8904",
+        "headline": "シマノが“カーボンスポーク時代”を宣言——では中華勢はどこを突くか、うちの取り扱い帯の勝ち筋",
+        "layer1": "デュラが初めてカーボンスポークへ舵を切ったことで、『カーボンスポーク＝ハイエンドの新常識』という空気が一気に固まった。中華トップ勢（8LIEN・CRW・GOOSYNN・NEPEST等）はすでにカーボンスポーク採用モデルを持ち、価格はデュラの数分の一。",
+        "layer2": "掘ると差別化の軸が見える——シマノが取れないのは『納期・カスタム・価格』。中華は同じ50mm・1,300g級を約1/3で、しかもリム内幅・カラー・スポーク本数を選べる余地がある。うちの立ち位置は“安いだけ”でなく、『デュラと同じ土俵の技術（カーボンスポーク・ワイドリム・30c対応）を、語れて・整備できて・保証できる形で』届けること。今日の号砲は、中華カーボンの“正当性”をむしろ後押しする追い風。",
+        "sources": [
+          {
+            "t": "Bikerumor（デュラ技術）",
+            "u": "https://bikerumor.com/shimanos-new-dura-ace-wh-r9370-wheels-drop-weight-add-carbon-spokes/",
+            "d": "2026-07-29"
+          },
+          {
+            "t": "mybest（中華カーボン最新）",
+            "u": "https://my-best.com/21017",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝デュラのカーボンスポーク採用（7/29）と中華上位のカーボンスポーク展開（各媒体）。曖昧＝各社の実測性能は個別検証が必要。"
+      },
+      {
+        "id": "20260730-shado-buzz",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://s.tgstc.com/ogp3/4a3b06f01fe9751a07db3e4cc053a85e-1200x630.jpeg",
+        "headline": "【Xで話題】“法改正でロードが車道に増えた”とドライバー炎上——だが揉め事の芯は『幅寄せ』の違法性、守る側の備えは3つ",
+        "layer1": "青切符（4月開始）と車道走行原則の徹底で、歩道を避けたロードバイクが車道に出る場面が増え、Xやまとめ・Togetterでは『邪魔だ』というドライバー側の不満と、幅寄せ・追突をめぐる動画が繰り返し炎上している。",
+        "layer2": "裏を取ると芯はシンプル——『自転車は車道が原則』は法で確定、一方で車の幅寄せ・幅寄せ気味の追い越しは“妨害運転（あおり）”に問われ得る違法行為。つまり“どっちが悪い”の水掛け論ではなく、ルール上は分かれている。守る側（ローディー）の現実的な備えは、①後方も録るドラレコ、②目立つデイライト＋反射材、③自転車保険（個人賠償付き）。マサル的には、この空気は『安全装備・保険』を自然に薦められる接客の入口になる。",
+        "sources": [
+          {
+            "t": "Togetter（街道の衝突・過失論争）",
+            "u": "https://togetter.com/li/2724830",
+            "d": "2026-07"
+          },
+          {
+            "t": "まとめ（法改正でドライバー不満）",
+            "u": "http://onecall2ch.com/archives/11047752.html",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝車道走行原則・青切符4月開始・幅寄せの違法性（法令）。※Xで話題、個別の炎上動画・過失割合は要裏取り（当事者情報が不確か）。"
+      }
+    ]
+  },
+  {
     "date": "2026-07-29",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ツールが終わり、視線は完全に“夏の第2幕”へ——ポガチャルは『三大ツール同年制覇』を巡ってUAEと火曜に会議（メルクスも太鼓判）、8/1はクラシカ・サンセバスティアン（レムコ史上初4勝目挑戦）と女子ツール（フォレリングの“4秒”の雪辱、母国スイスで脊椎骨折から復活のロイセル）が同日開幕。移籍市場も始動（ログリッチ退団・セイシャス『噂の多くは嘘』）、ツールが証明した『軽さより空力』の含意、青切符・最初の夏、お盆商戦とシマノ13速の最新リークまで。鮮度優先で、質を絞ってお届けします。",
     "cards": [
