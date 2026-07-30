@@ -1,5 +1,256 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-07-31",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。明日8月1日は『サンセバスティアン』と『女子ツール』が同日開幕——男女ダブルの号砲前夜です。そしてツール2026は“史上最速”で幕、機材の13速はもうカンパが実戦投入、移籍マネーも一斉に動き出しました。今日は『前夜祭とマネー』が主役です。",
+    "cards": [
+      {
+        "id": "20260731-sansebastian-eve",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-07/tourdefrance2026stage4-remcoevenepoel-6a4d384de830b.jpg",
+        "headline": "いよいよ明日8月1日『クラシカ・サンセバスティアン』——レムコが“史上単独最多4勝目”に王手、締めは残り8kmの激壁『ムルギル10.1%』",
+        "layer1": "第45回、221.1kmに獲得約4,150〜4,300m・7つのカテゴリ山。ツール2位で終えたレムコ（レッドブル）が、マリノ・レハレータと並ぶ3勝から抜け出す『史上単独最多4勝目』を狙う。ログリッチが同僚として脇を固める。",
+        "layer2": "勝負どころは掘るとハッキリする——名物ハイスキベルの後、フィナーレは『ムルギルの壁＝2.1km平均10.1%』がゴールまで残り8kmに刺さる。ここで抜け出せる純クライマー×パンチャーの一撃勝負。迎え撃つのは昨年王者チッコーネ（リドル・トレック）、そしてマルティネス／ヒーリー／オンリー／ガル／アラフィリップら。“ワンデー巧者レムコ”の記録更新か、伏兵の下剋上か——ツール明け最初の大一番。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（スタートリスト）",
+            "u": "https://cyclinguptodate.com/cycling/startlist-clasica-san-sebastian-2026-with-remco-evenepoel-giulio-ciccone-ben-healy-primoz-roglic-oscar-onley-and-more",
+            "d": "2026-07-28"
+          },
+          {
+            "t": "CyclingFlash（プレビュー）",
+            "u": "https://cyclingflash.com/news/preview-clasica-san-sebastian-2026-remco-evenepoel-aims-for-record",
+            "d": "2026-07-29"
+          }
+        ],
+        "status": "確定＝開催8月1日・221.1km・ムルギル2.1km平均10.1%が残り8km／レムコは4勝で単独最多。曖昧＝当日の展開・天候"
+      },
+      {
+        "id": "20260731-tdff-stage1-lausanne",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://procyclinguk.com/wp-content/uploads/2026/07/v4jyfvmjcys-scaled.avif",
+        "headline": "女子ツールも明日開幕——第1ステージは『ローザンヌ一周137km』、最初のマイヨジョーヌは“登れるスプリンター”が奪う",
+        "layer1": "8月1日、スイス・ローザンヌ発着137.4km。大会史上2度目の“外国グランデパール”で、締めは石畳の丘プラス・サン＝フランソワへ最後2.6km平均4.6%の上り。純スプリントにはならない設計。",
+        "layer2": "だから“ただ速いだけ”では勝てない——本命はヴィーベス（登りが緩ければ最強スプリンター）、対抗にフォス、コペツキ、そして総合勢のピーテルセ／フォラリング／ル・クールも初日から前へ。ここで数秒を得れば9日間・全1,175km（史上最長）、そして史上初のヴァントゥー山頂決戦への“貯金”になる。連覇狙うフェランプレヴォ vs リベンジのフォラリングの前哨戦。",
+        "sources": [
+          {
+            "t": "ProCyclingUK（Stage1プレビュー）",
+            "u": "https://procyclinguk.com/tour-de-france-femmes-2026-stage-1-preview-who-takes-the-first-yellow-jersey-in-lausanne/",
+            "d": "2026-07-30"
+          },
+          {
+            "t": "CyclingUpToDate（総合＆Stage1）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-femmes-2026-overall-and-stage-1-preview-profiles-favourites-and-predictions-vollering-ferrand-prevot-blasi-reusser-who-takes-the-yellow-jersey",
+            "d": "2026-07-30"
+          }
+        ],
+        "status": "確定＝開催8月1日・137.4km・最後2.6km平均4.6%上りフィニッシュ／全9ステージ1,175km。曖昧＝初日勝者予想"
+      },
+      {
+        "id": "20260731-fastest-tour-doping",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/watermark:Picture%3A%20IMAGO/width:1920/height:1280/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2025-07/mathieuvanderpoel-tadejpogacar-686ae4bc161de.jpg@webp",
+        "headline": "【Xで“速すぎ”再燃】ツール2026は『史上最速』が確定——平均約43.3km/h、第11ステージは50.91km/hでチポリーニの27年記録を粉砕",
+        "layer1": "総合タイムから算出した大会平均は約43.3km/h（Tissot計時ベースで43.2km/h台）で、昨年の42.7km/hを更新し“史上最速の1大会”に。さらに平坦の第11ステージ（ヴィシー→ヌヴェール）が50.91km/hを記録、1999年チポリーニ以来27年ぶりに『最速ステージ』も塗り替えた（勝者ヴェレンショルド）。",
+        "layer2": "この数字がXで『速すぎ＝黒い時代の再来か』と燃えるのは毎年の風物詩。だが掘ると景色が違う——現代は生体パスポート・居場所申告（Whereabouts）・今大会で物議を呼んだ“深夜検査”まで敷かれ、当時とは監視の密度が別物。ポガチャル本人も記録的高速化を『エアロ機材・栄養（大量の糖質補給）・空力ポジション』で説明、失格者は出ていない。ショート化するなら『疑惑』でなく『なぜ速くなったか＝機材と補給の進化』で語るのが誠実で伸びる。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/the-fastest-tour-in-history-2026-tour-de-france-smashes-speed-record-with-blistering-433-kmh-average",
+            "d": "2026-07-27"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tadej-pogacars-winning-time-sees-2026-tour-de-france-set-new-record-for-fastest-ever-edition/",
+            "d": "2026-07-27"
+          }
+        ],
+        "status": "確定＝史上最速・第11S 50.91km/hでチポリーニ超え（裏取り＝計時データ）。曖昧＝平均値は媒体で43.2〜43.3km/hと微差（算出基準の違い）／“疑惑”は憶測で確証なし"
+      },
+      {
+        "id": "20260731-transfer-money",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn-jupiter.metropolis.co.uk/wp-content/uploads/sites/9/2026/05/SI202507261780_hires_jpeg_24bit_rgb-scaled.webp",
+        "headline": "ツールが終われば“マネー”が動く——ログリッチはバーレーン移籍観測、19歳セイシャスに『史上最高額€13〜20M』、女子は“初の€1M”へ",
+        "layer1": "レッドブルを離れる36歳ログリッチは、スペイン紙マルカが『バーレーン・ヴィクトリアス』行きを観測（GMエルジェンとの縁）。一方、フランスの超新星セイシャス（デカトロン＝2027年まで契約）には、ピナレロ・Q36.5が“プロ史上最高額”とされる€13〜20M級を提示、ヴィスマ・UAEも参戦。",
+        "layer2": "掘ると『金額のインフレ』が主題だと分かる——セイシャスは「噂の多くは嘘」と火消しするが、まだ契約が切れていない選手に史上最高額が飛ぶ異常事態。女子側もポガチャルの代理人アレックス・カレラが、23歳ブラシ（UAEチームADQ）で“女子初の年€1M契約”を狙うと公言。ニエヴィアドマ→リドル・トレック、MTB女王K・コートニー→FDJ など地殻変動も同時進行。市場全体が『上の選手ほど青天井』へ。",
+        "sources": [
+          {
+            "t": "Cyclist.co.uk（移籍噂まとめ）",
+            "u": "https://www.cyclist.co.uk/news/cycling-transfer-rumours",
+            "d": "2026-07-29"
+          },
+          {
+            "t": "CyclingFlash（女子€1M）",
+            "u": "https://cyclingflash.com/news/pogacars-agent-targets-first-million-dollar-contract-in-womens-peloton-she-is-the-star-of-the-future",
+            "d": "2026-07-28"
+          }
+        ],
+        "status": "確定＝ログリッチはレッドブル退団・移籍先未定／セイシャスは複数チーム争奪。曖昧＝バーレーン行き（マルカ観測）・金額€13〜20M（報道値、※要裏取り）・女子€1Mは交渉中"
+      },
+      {
+        "id": "20260731-market-polarization",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/07/Tour-de-France-tech-debuts-July-2026-1024x683.jpg",
+        "headline": "【経営メモ・市場】“二極化”がさらに開く——上は新型ハイエンド一斉（Tarmac SL9は687g「史上最速」）、下は中華完成車が50万円台で殴り込み",
+        "layer1": "ツールでデビューした新型が“上”を押し上げる：スペシャライズドTarmac SL9はフレーム687g・「史上最速」を掲げ（ローンチ特典は7/31まで）、キャニオンAeroad CFRは風洞198Wで“最速”を主張。片や“下”は、ウィンスペースSLC5級の中華完成車が『50万円前後でジャイアント/メリダと張る』。",
+        "layer2": "店の戦い方は“中身の翻訳”——ワイズ名古屋は7/27にビアンキのフルカーボンエアロ『Oltre Race 105』を¥437,800→¥368,500（約16%オフ、40万円切り）で提示。つまり『新品ハイエンドの物語』と『型落ち・中華の実利』が同じ店頭に並ぶ時代。マサルの勝ち筋は値引き競争ではなく、『なぜこの価格差なのか（フレーム設計・空力実測・保証・整備）』を語れる指名買い。うちの中華カーボン帯は、まさにこの“下から上を食う”文脈の主役に置ける。",
+        "sources": [
+          {
+            "t": "road.cc（ツール新型機材まとめ）",
+            "u": "https://road.cc/feature/a-wave-of-new-bikes-wheels-and-kit-making-tour-de-france-debuts-in-2026",
+            "d": "2026-07-02"
+          },
+          {
+            "t": "Y's Road 名古屋（ビアンキ特価）",
+            "u": "https://ysroad.co.jp/nagoya/2026/07/27/194764",
+            "d": "2026-07-27"
+          }
+        ],
+        "status": "確定＝Tarmac SL9=687g「史上最速」訴求／ビアンキOltre Race 105が¥368,500（Y's 7/27）。曖昧＝各社“最速”は自社主張・条件付き"
+      },
+      {
+        "id": "20260731-market-buyers",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/roadcc/screenshot-2025-11-03-111833-1024x760.png",
+        "headline": "【経営メモ・市場】“買い手市場”は継続、次は『お盆商戦』——あさひ夏セールは7/26で終了、勝ち筋は値引きより《整備・リユース・電アシ・語れる接客》",
+        "layer1": "夏商戦の“締め”だったあさひ夏セール（〜7/26）は終了。コロナ特需の在庫が中古に流れ込み、新車は型落ちが20〜40%安で潤沢——買い控えは続くが、逆に『お盆に走りたい人』の指名需要はここから。",
+        "layer2": "モノ売り一本では消耗戦になる。実際、あさひは“モノ”より『電動アシスト＋整備・中古（リユース）』で数字を作る構図に寄せてきた。個人店のマサルが取るべきは、①青切符後の“安全提案”（ライト・整備・保険）で客単価、②お盆ロング前の“点検・タイヤ・チューブレス相談”、③中華完組やパーツの『語れる指名買い』。値札で戦わず“接客の付加価値”で残す——これが二極化下で唯一伸びる帯。",
+        "sources": [
+          {
+            "t": "サイクルベースあさひ（スポーツバイク／夏セール）",
+            "u": "https://ec.cb-asahi.co.jp/category/cat2/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%83%90%E3%82%A4%E3%82%AF/%E3%83%AD%E3%83%BC%E3%83%89%E3%83%90%E3%82%A4%E3%82%AF",
+            "d": "2026-07-26"
+          },
+          {
+            "t": "マイベスト（カーボンホイール2026年7月）",
+            "u": "https://my-best.com/21017",
+            "d": "2026-07-30"
+          }
+        ],
+        "status": "確定＝あさひ夏セール〜7/26で終了・買い手市場継続。曖昧＝お盆需要の規模は地域差（経営メモとしての示唆）"
+      },
+      {
+        "id": "20260731-china-wheel-now",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://assets.st-note.com/production/uploads/images/247033867/rectangle_large_type_2_b560fc4ea904e4343efa7a2a0b111f59.jpeg?width=1280",
+        "headline": "シマノが“カーボンスポーク×43万円”を出した今、中華完組はどこまで来たか——YOELEO『QianKun CS50』は1,185g・カーボンスポークで約24万円",
+        "layer1": "先週シマノが初のカーボンスポーク・デュラ（C50級で前後約43万円）を投入して“天井”を上げた。対する中華トップは、YOELEOの新シリーズQianKun CS50が『実測1,185g（±3%）・50mm・内幅23mm・T1000リム＋カーボンスポーク＋セラミックBB/36Tラチェット』を約¥238,000で提示（クーポンで1割引）。",
+        "layer2": "掘ると“価格差の中身”が見える——シマノは空力更新・カップ&コーン刷新・保証という『安心の束』で43万円。中華は同じ50mm・1,200g級・カーボンスポークを“約半額〜1/2”で出し、レビューでも「過去のYOELEOと別物、これまで使った中で最高」との評。ただし当たり外れは残るため、選び方の芯は『①ディスク前提で熱害を避ける ②45〜50mmで万能 ③DT Swiss/セラミックハブ ④実測重量を確認 ⑤ウィンスペース/YOELEO/ファースポーツなど検品の効くブランド』。“安さ”でなく『設計と検品』で選ぶ帯として、店の説明力がそのまま価値になる。",
+        "sources": [
+          {
+            "t": "note／コンポ・DE・リング（QianKun CS50実測レビュー）",
+            "u": "https://note.com/compo_de_ring/n/na3da1885e4fa",
+            "d": "2026-02-10"
+          },
+          {
+            "t": "road.cc（シマノ新デュラ・ホイール）",
+            "u": "https://road.cc/tech-news/shimano-launches-lighter-more-aero-dura-ace-whee",
+            "d": "2026-07-29"
+          },
+          {
+            "t": "bike-memo（中華カーボンホイール格付け2026）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-04-01"
+          }
+        ],
+        "status": "確定＝QianKun CS50は1,185g・50mm・カーボンスポーク・約24万円（メーカー/レビュー値）／シマノ新デュラは前後約43万円。曖昧＝実測重量・耐久はロット差あり（QianKunスペック源は2月・製品は現行）"
+      },
+      {
+        "id": "20260731-13speed-campagnolo",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/07/Tour-de-France-tech-debuts-July-2026-1024x683.jpg",
+        "headline": "“13速時代”はもう来ている——ただしカンパ。ツールでコフィディス/Look795が『Super Record 13（世界初2×13無線）』を実戦、シマノR9300は未発表のまま",
+        "layer1": "みんなが待つシマノ13速（デュラエースR9300）はツールでも姿を見せず。だが13速自体は既に走っている——コフィディスがLook795 Blade RSに、カンパニョーロの『Super Record 13＝世界初の2×13フル無線（総重量2,445g）』を投入していた。",
+        "layer2": "掘ると“二強の時計”がズレている。カンパは上位Super Record 13に続き、2番手『Record 13』（€2,335〜、2×13で2,783g）まで無線13速を展開済み。対してシマノはE-Tubeアプリに“13枚目”の痕跡・R9300のペダル型番リークはあるが正式発表なし、業界観測は「2027年へずれ込み」も。型番R9370の新ホイールを“先出し”したのは露払いと読める。つまり『いま無線13速に触れたいならカンパ、シマノ待ちなら現行11/12速で不利にはならない』——初中級への回答はここに尽きる。",
+        "sources": [
+          {
+            "t": "Cyclingnews（カンパ2×13をツールで確認）",
+            "u": "https://www.cyclingnews.com/news/campagnolo-super-record-1x13-drivetrain-spotted-at-the-tour-de-france/",
+            "d": "2026-07-20"
+          },
+          {
+            "t": "TOUR Magazin（Campagnolo Record 13）",
+            "u": "https://www.tour-magazin.de/en/complete-groups/components-for-road-allroad-and-gravel-campagnolo-record-13/",
+            "d": "2026-04-29"
+          }
+        ],
+        "status": "確定＝カンパSuper Record 13＝世界初2×13無線・2,445g、コフィディス/Look795で実戦。曖昧＝シマノR9300の投入時期（未発表・2027観測は憶測、※要裏取り）"
+      },
+      {
+        "id": "20260731-helmet-blueticket",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://www.cycle-top.com/dcms_media/image/magazin_helmet_main.webp",
+        "headline": "【初中級】青切符“最初の夏”、ヘルメット着用率は『21.2%』に上昇——それでも8割は無帽、未着用の致死率は約2.3倍",
+        "layer1": "警察庁の令和7年6月調査で、自転車ヘルメットの全国着用率は21.2%（前年17.0%から上昇）。4月に始まった青切符（16歳以上・信号無視やながらスマホに反則金5,000〜12,000円）で安全意識は高まったが、ヘルメット自体は今も“努力義務”で罰則はない。",
+        "layer2": "だが数字は着けるべき理由を語る——自転車事故の死者は約63.5%が頭部に致命傷、未着用の致死率は着用時の約2.3倍。青切符で“ライト・反射材”は義務側から意識が回ったが、命を分けるのは頭部保護。お盆で家族や初心者が走り出す前に、店頭では『反則金対策（灯火）＋致死率2.3倍（ヘルメット）』をセットで提案するのが刺さる。数字は盛らず、“努力義務だが効果は実証済み”と正直に。",
+        "sources": [
+          {
+            "t": "シンク出版（着用の呼びかけ・警察庁調査）",
+            "u": "https://www.think-sp.com/2026/07/01/tw-ride-bicycles-with-helmets/",
+            "d": "2026-07-01"
+          },
+          {
+            "t": "cycle-top（青切符とヘルメットの必要性）",
+            "u": "https://www.cycle-top.com/magazine/top/260317",
+            "d": "2026-03-17"
+          }
+        ],
+        "status": "確定＝着用率21.2%（令和7年6月・前年17.0%）／頭部致命傷63.5%・未着用致死率約2.3倍。曖昧＝ヘルメット未着用への罰則は無し（努力義務のまま）"
+      },
+      {
+        "id": "20260731-first-carbon-wheel",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://assets.st-note.com/production/uploads/images/247033867/rectangle_large_type_2_b560fc4ea904e4343efa7a2a0b111f59.jpeg?width=1280",
+        "headline": "【初中級】“初めての中華カーボン”で地雷を踏まない——選ぶ軸は『安さ』でなく《設計と検品》、5つのチェックで9割は避けられる",
+        "layer1": "中華カーボン完組は『怪しいパーツ→賢い選択』へ格上げされたが、当たり外れは残る。国内でPVが伸びる格付け・選び方記事（マイベストは7/30更新）が示すのは、地雷回避の要点が“価格”ではなく“作りと管理”にあること。",
+        "layer2": "先回りして答えを置くと、初めての1本はこの5点で選ぶ——①ディスクブレーキ用（リム発熱の熱害リスクを回避）②リム高45〜50mm（登り・平地・横風のバランス）③DT Swissハブ or セラミックベアリング（信頼の心臓部）④“公称”でなく実測重量が出ているか⑤ウィンスペース/YOELEO/ファースポーツなど検品と国内情報の多いブランド。逆に『無名・激安・スペック非公開』は避ける。この“5チェック”を店で言語化できれば、中華は『安物買い』でなく『賢い最初の投資』に変わる。",
+        "sources": [
+          {
+            "t": "bike-memo（中華カーボンホイール格付け2026）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-04-01"
+          },
+          {
+            "t": "マイベスト（カーボンホイール2026年7月）",
+            "u": "https://my-best.com/21017",
+            "d": "2026-07-30"
+          }
+        ],
+        "status": "確定＝選び方の軸（ディスク/45-50mm/DT Swiss・セラミック/実測重量/検品ブランド）。曖昧＝“9割回避”は目安（普遍ネタを直近の格付け記事で更新）"
+      }
+    ]
+  },
+  {
     "date": "2026-07-30",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ツールが終わって機材と市場が一斉に動き出しました——シマノが『初のカーボンスポーク』新デュラ・ホイールを昨日投入、そして8月1日はサンセバスティアンと女子ツールが同日開幕。今日は“機材の号砲”が主役です。",
     "cards": [
