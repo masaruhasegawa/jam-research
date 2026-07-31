@@ -1,5 +1,294 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-08-01",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ツールが終わり、今日はサンセバスティアンと女子ツールが同日開幕——レースの熱と『移籍市場』が同時に動く一日です。",
+    "cards": [
+      {
+        "id": "20260801-sansebastian-raceday",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://procyclinguk.com/wp-content/uploads/2025/08/Clasica-San-Sebastian-Attack-on-final-climb-nets-Giulio-Ciccone-solo-victory.avif",
+        "headline": "今日『クラシカ・サンセバスティアン』——ツール2位のレムコが“史上単独最多4勝目”に挑む、締めは残り8kmの壁『ムルギル10.1%』",
+        "layer1": "ツール総合2位のレムコ・エヴェネプールが古巣バスクに帰還、今日8月1日に『史上単独最多4勝目』へ挑む。221.1km・獲得4,300m、締めは残り約8kmのムルギル（2.1km平均10.1%）。",
+        "layer2": "レムコは2019・2022・2023年に優勝し、レジャレタの3勝と並ぶ最多タイ。4勝目なら45回の歴史で単独首位に立つ。ただし今年は超級揃い——昨年王者チッコーネ、ヒーリー、オンリー、ヨルゲンソン、そして『同僚』ログリッチも。ムルギルは区間15%超の激壁で、頂上から3km平地=独走か少人数勝負か。天気は約25℃で小雨程度、日本時間では今夜遅くに決着する。",
+        "sources": [
+          {
+            "t": "IDL Procycling（プレビュー）",
+            "u": "https://www.idlprocycling.com/cycling/clasica-san-sebastian-2026-preview-can-remco-evenepoel-claim-a-record-fourth-victory",
+            "d": "2026-07-31"
+          },
+          {
+            "t": "ProCyclingUK（チーム別ガイド）",
+            "u": "https://procyclinguk.com/donostia-san-sebastian-klasikoa-2026-team-by-team-guide/",
+            "d": "2026-07-29"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-runner-up-remco-evenepoel-back-to-racing-as-clasica-san-sebastian-top-contender/",
+            "d": "2026-07-30"
+          }
+        ],
+        "status": "確定＝開催日・コース・主要出場者。結果は今夜（JST深夜）判明。"
+      },
+      {
+        "id": "20260801-femmes-stage1",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://procyclinguk.com/wp-content/uploads/2026/07/v4jyfvmjcys-scaled.avif",
+        "headline": "女子ツールも今日開幕——第1ステージは『ローザンヌ一周137km』、最初のマイヨジョーヌは“登れるスプリンター”が奪う",
+        "layer1": "ツール・ド・フランス・ファムも今日8月1日開幕、史上初のスイス・グランデパール。第1ステージはローザンヌ発着137km、最後の登りが純スプリントを許さない設計。",
+        "layer2": "締めは2.5km平均4.5%だが、中盤の500mが8%超——ここで純スプリンターがこぼれる。ただし最後600mは1%未満に緩むため『登れるスプリンター』の舞台。本命はロレーナ・ウィーベス、対抗にマリアンヌ・フォス、リエグ、ル・クール、コペツキー、バルサモ。最初の黄色は誰の肩に。",
+        "sources": [
+          {
+            "t": "ProCyclingUK（ステージ1プレビュー）",
+            "u": "https://procyclinguk.com/tour-de-france-femmes-2026-stage-1-preview-who-takes-the-first-yellow-jersey-in-lausanne/",
+            "d": "2026-07-30"
+          },
+          {
+            "t": "TOUR Magazin",
+            "u": "https://www.tour-magazin.de/en/professional-cycling/tour-de-france/stages-and-altitude-profiles/2026-tour-de-france-femmes-preview-of-stage-1-a-kick-off-for-everyone-between-the-lakes/",
+            "d": "2026-07-31"
+          }
+        ],
+        "status": "確定＝開幕日・コース・有力候補。結果は本日判明。"
+      },
+      {
+        "id": "20260801-seixas-transfer",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/watermark:Picture%3A%20Sirotti/width:1920/height:1280/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-07/paul-seixas-6a4a6f57898ad.jpg@webp",
+        "headline": "【Xでも話題】19歳セイシャス争奪戦が『8月1日決着』へ——Pinarello-Q36.5が“史上最高額€13〜20M”を提示との報",
+        "layer1": "初ツールで総合4位に入った19歳ポール・セイシャスの去就が今日8月1日にヤマ場。Pinarello-Q36.5が『€13〜20M＝史上最高額』を提示との観測。",
+        "layer2": "現契約はDecathlon（〜2027年）で、移籍には多額の違約金が要る。それでも各社本気——Vismaは「ヴィンゲゴーの下で育てる」と口説き、UAE・レッドブル・INEOSも接触。仏が40年以上待った本物の総合候補の“値段”が、19歳にして史上最高額に達した。※金額と決着時期は観測、要裏取り。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（Vismaと交渉）",
+            "u": "https://cyclinguptodate.com/cycling/visma-lease-a-bike-in-transfer-talks-with-paul-seixas-vingegaards-team-join-race-for-decathlon-cma-cgm-teenager",
+            "d": "2026-07-07"
+          },
+          {
+            "t": "TOUR Magazin（Seixas争奪）",
+            "u": "https://www.tour-magazin.de/en/professional-cycling/latest-news/team-visma-another-racing-team-joins-the-transfer-poker-for-paul-seixas/",
+            "d": "2026-05-03"
+          }
+        ],
+        "status": "曖昧＝金額・決着時期は観測（※要裏取り）。争奪の事実は複数媒体で一致。"
+      },
+      {
+        "id": "20260801-roglic-pinarello",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/Red-Bull-Bora-hansgrohe/CORVOS_00038767-321.jpg?width=832&height=468&format=jpg&crop=2000%2C1125%2C0%2C104",
+        "headline": "ツール後は“マネー”も動く——36歳ログリッチはレッドブル退団確定、次はPinarello-Q36.5が有力、狙いは『唯一未勝利のツール』",
+        "layer1": "移籍市場のもう一人の主役はプリモシュ・ログリッチ。レッドブル退団が確定し、2027年はトム・ピドコックを擁する野心的スイス勢Pinarello-Q36.5が有力候補と報じられる。",
+        "layer2": "92勝・ブエルタ4勝の36歳は引退せず、まず今夏ブエルタに復帰する。最後に欲しいのは唯一未勝利のツール総合。同じPinarelloがセイシャスも狙っており、“二枚看板”構想も囁かれる。退団は確定、移籍先はまだ観測段階。",
+        "sources": [
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/roglic-emerges-as-rumoured-pinarello-q36-5-target-for-2027/",
+            "d": "2026-07-24"
+          },
+          {
+            "t": "IDL Procycling（Pidcock同僚説）",
+            "u": "https://www.idlprocycling.com/cycling/pidcock-and-roglic-on-the-same-team-for-2027-an-option-according-to-transfer-rumors",
+            "d": "2026-07-24"
+          }
+        ],
+        "status": "確定＝レッドブル退団。曖昧＝移籍先（※要裏取り）。"
+      },
+      {
+        "id": "20260801-vuelta-preview",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cloudpowered.blob.core.windows.net/images/2026-la-vuelta-route.png",
+        "headline": "サンセバスティアンが終われば次はグランツール——ブエルタ2026は『8月22日モナコ開幕』、ポガチャルの“同年ダブル”観測が高まる",
+        "layer1": "ツール明けの一日が過ぎれば、視線はブエルタへ。2026年ブエルタは8月22日にモナコで開幕、9月13日グラナダ着。ポガチャルの『ツール＋ブエルタ同年制覇』観測が強まっている。",
+        "layer2": "ルートは総獲得58,000m超・山頂フィニッシュ7回の“近年屈指の激坂版”。ポガチャルが出れば7月に続く偉業へ（メルクスも「彼なら全部勝てる」と太鼓判）。ログリッチは参戦を確定、昨年王者ヴィンゲゴー（ツール落車）は防衛せず見込み。スタートリストは現在進行形で固まりつつある。",
+        "sources": [
+          {
+            "t": "Granfondo Guide（ルート）",
+            "u": "https://www.granfondoguide.com/Contents/IndexFull/8832/incredibly-brutal-2026-la-vuelta-route-revealed-in-monaco",
+            "d": "2025-12-17"
+          },
+          {
+            "t": "Velo / Outside（スタートリスト観測）",
+            "u": "https://velo.outsideonline.com/road/road-racing/tadej-pogacar-headlines-rumored-vuelta-a-espana-startlist/",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝日程・ルート。曖昧＝ポガチャル参戦は観測（※要裏取り）。"
+      },
+      {
+        "id": "20260801-market-asahi-aobira",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3195148019062026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=2f12ecc6bc51e56e4e4c32fdeca5137e",
+        "headline": "【経営メモ・市場】あさひ3〜5月は税引き利益8%減——だが『青切符』でパーツ・整備が伸び、稼ぎ頭は“モノ売り”から移る",
+        "layer1": "あさひの3〜5月期は税引き利益が前年同期比8%減の21億円。一方、4月に始まった青切符制度でパーツ販売・修理整備の売上が伸び、電動アシスト・子供車も堅調だった。",
+        "layer2": "一般車・子供車は物価高で買い控えが続き、人件費増も利益を圧迫。だが『整備・パーツ・電アシ』が新しい稼ぎ頭に育ちつつある——うちの勝ち筋も同じだ。次のヤマは“お盆商戦”。値引き合戦に乗らず、『青切符時代の安全整備＋語れる指名買い』で客単価を取りにいく。",
+        "sources": [
+          {
+            "t": "日本経済新聞（3〜5月決算）",
+            "u": "https://www.nikkei.com/article/DGXZQOUF19A610Z10C26A6000000/",
+            "d": "2026-06-19"
+          },
+          {
+            "t": "日本経済新聞（26年2月期減益）",
+            "u": "https://www.nikkei.com/article/DGXZQOUF223300S5A221C2000000/",
+            "d": "2025-12-22"
+          }
+        ],
+        "status": "確定＝決算数値（6月発表）。経営示唆は自店向け。"
+      },
+      {
+        "id": "20260801-market-nikyokuka",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/c/cyclekaigyou/20260125/20260125133221.png",
+        "headline": "【経営メモ・市場】“上は値下げ・下は新興”の二極化が深化——大手はロード10〜14%引き、中華新興が本気で殴り込み",
+        "layer1": "国内市場は『上は値下げ・下は新興』の二極化が進む。大手はロードを10〜14%値下げ、型落ちは20〜40%引き。一方で中華新興ブランドが本気で攻め込んできた。",
+        "layer2": "日経も「ブーム去り値下げ、愛好家は新興にも熱視線」と報道。入門完成車は20万円〜が常態化し、都心店の撤退・在庫過多の閉店も。中華はOEM経験を武器にL-Twoo／Wheeltopの無線電動まで安価投入し、老舗は“価格・技術”から『ブランドと物語』で戦う局面へ。うちの立ち位置は目利き＋アフター＋工賃。",
+        "sources": [
+          {
+            "t": "日本経済新聞（ブーム去り値下げ）",
+            "u": "https://www.nikkei.com/article/DGXZQOUB257HL0V21C25A2000000/",
+            "d": "2025-12-25"
+          },
+          {
+            "t": "note・シンマツナガ（中華が本気）",
+            "u": "https://note.com/sin3/n/n8942128ffe4a",
+            "d": "2026-03-15"
+          }
+        ],
+        "status": "曖昧＝構造トレンド（出典は数か月内の分析）。方向性は継続中。"
+      },
+      {
+        "id": "20260801-wheel-china-ranking",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C163.jpg",
+        "headline": "シマノが“カーボンスポーク43万円”を出した今、中華完組はどこまで来たか——2026売れ筋はWinspace・ELITEWHEELS・YOELEOが上位",
+        "layer1": "シマノが『カーボンスポーク×前後43万円』の新デュラを投入した今、中華完組の実力はどこまで来たか。2026年の格付けではWinspace・ELITEWHEELS・YOELEOが売れ筋上位に並ぶ。",
+        "layer2": "Winspace Hyperはカーボンスポークで約1,450g・15〜20万円、ELITEWHEELS Driveは1,300g級を5〜10万円、YOELEOはUCI承認で『ツール・ド・ふくしま2026』を制覇。価格は大手の1/3〜1/2で、選ぶ軸は「安さ」でなく『設計と検品』。うちの取扱帯（8LIEN／CRW／GOOSYNN等）もまさにこの土俵で戦える。",
+        "sources": [
+          {
+            "t": "bike-memo（2026格付け）",
+            "u": "https://bike-memo.com/cycle_260202_carbon-wheels/",
+            "d": "2026-02-02"
+          },
+          {
+            "t": "Elitewheels 公式（Drive）",
+            "u": "https://jp.elite-wheels.com/product/elitewheels-drive-65mm-aerodynamic-ultralight-bike-wheels/",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝各モデルの公称重量・価格。実測は個体差あり要確認。"
+      },
+      {
+        "id": "20260801-femmes-gc-ventoux",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2025-12%2Fpaulineferrandprevot-tourofflanderswomen2025-692ccfd7b60d5.jpg",
+        "headline": "女子ツールの“本当の勝負”は9日間の総合——連覇狙うフェランプレヴォ vs 雪辱のフォレリング、決着は『史上初の女子ヴァントゥー山頂』",
+        "layer1": "開幕スプリントの先にある本命は9日間の総合。連覇を狙うポーリーヌ・フェランプレヴォと、2年連続2位からの雪辱を期すデミ・フォレリングの一騎打ち。決着は史上初の『女子ヴァントゥー山頂』。",
+        "layer2": "第7ステージに約21km平均8%のヴァントゥーが女子ツール史上初登場——ここで総合が確定する設計だ。コースは全面刷新でTTも組み込まれ、登坂とTTの総合力が問われる。母国フランスで連覇か、フォレリングの“3度目の正直”か。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（総合プレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-femmes-2026-overall-and-stage-1-preview-profiles-favourites-and-predictions-vollering-ferrand-prevot-blasi-reusser-who-takes-the-yellow-jersey",
+            "d": "2026-07-31"
+          }
+        ],
+        "status": "確定＝コース・ヴァントゥー山頂。勝敗は展開次第。"
+      },
+      {
+        "id": "20260801-parts-30c-standard",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.shopify.com/s/files/1/0601/2957/5095/files/how-to-choose-roadbike-tire-width-28-32-00.webp?v=1764048343",
+        "headline": "タイヤの“標準”が動いた——プロは『28c』が基準、荒れ路面・ロングは30〜32cへ、新デュラも30c前提",
+        "layer1": "【パーツ】ロードタイヤの標準幅が更新された。プロは28cが基準になり、荒れ路面やロングは30〜32cを積極採用。新デュラのホイールも30c前提の設計だ。",
+        "layer2": "「細い＝速い」は過去の常識。太いタイヤは接地面の変形損失が減り、同一空気圧で転がりが軽く、低圧・高容量で振動も減る。リム内幅21mm以上が主流化し28〜32cが素直に嵌る。23cはほぼ絶滅、25cすら“やや細い”時代へ。初中級はまず28cへ、快適重視なら30〜32cが正解。",
+        "sources": [
+          {
+            "t": "bike-plus（タイヤ幅ガイド）",
+            "u": "https://bike-plus.com/blogs/blog/roadbike-tire-sizing-guide",
+            "d": "2025-12-06"
+          },
+          {
+            "t": "えふえふぶろぐ（25C/28C/30C）",
+            "u": "https://ff-cycle.blog.jp/archives/1085153528.html",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝各社リム内幅・プロ採用傾向。最適値は体格・路面で変わる。"
+      },
+      {
+        "id": "20260801-beginner-heat-wbgt",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://bioracer.jp/wp-content/uploads/2026/07/Fullzip2-photo-1-1-884x589.jpg",
+        "headline": "【Xで話題】猛暑ライドは『根性でなくWBGT』——冷却ウェアで深部体温−0.4℃、前腕冷却はツールでも実戦投入",
+        "layer1": "連日の猛暑で「暑くて走れない」の声がXに溢れる。だが夏の失速は根性でなく“体温の問題”——WBGTと3段の冷却マネジメントで守れる。",
+        "layer2": "bioracerの実測ではCORE深部体温計で、冷却ベースレイヤー着用が同一強度で約0.4℃低い。ツールでもINEOSが前腕・手のひら冷却を実戦投入した。プレクール→走行中（蒸散・氷ポケット・被水）→補給地でリセット、の3段が要。水でなく電解質、そして無理な時間帯は避ける判断も装備のうち。",
+        "sources": [
+          {
+            "t": "BIORACER（夏の体温マネジメント）",
+            "u": "https://bioracer.jp/2026/07/22/summer-heat-management-guide/",
+            "d": "2026-07-22"
+          }
+        ],
+        "status": "確定＝実測データ・プロ採用。X話題は入口として裏取り済み。"
+      },
+      {
+        "id": "20260801-beginner-steep-climb",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://procyclinguk.com/wp-content/uploads/2025/08/Clasica-San-Sebastian-Attack-on-final-climb-nets-Giulio-Ciccone-solo-victory.avif",
+        "headline": "プロが今日『残り8kmの壁10.1%』を登る日——初中級の10%坂は、根性でなく“入りを抑えて後半上げる”で速くなる",
+        "layer1": "【初中級】プロが今日ムルギルの10.1%を登る日。あなたの近所の10%坂も、根性でなく『入りを抑えて後半に上げる』で確実に速くなる。",
+        "layer2": "短い激坂で一番多い失敗は「入りで突っ込んで後半失速」。心拍が先に振り切れると回復せず垂れる。序盤は7〜8割で我慢し、頂上手前で上げるのが最速だ。機材はコンパクト（50-34）＋ワイドカセット（11-34/36）で“回して登る”を確保。ムルギルの15%区間はプロでもインナーローで耐える世界——ギア比は逃げでなく武器と考える。",
+        "sources": [
+          {
+            "t": "IDL Procycling（ムルギル詳細）",
+            "u": "https://www.idlprocycling.com/cycling/clasica-san-sebastian-2026-preview-can-remco-evenepoel-claim-a-record-fourth-victory",
+            "d": "2026-07-31"
+          },
+          {
+            "t": "ProCyclingUK（コース）",
+            "u": "https://procyclinguk.com/donostia-san-sebastian-klasikoa-2026-team-by-team-guide/",
+            "d": "2026-07-29"
+          }
+        ],
+        "status": "確定＝コース勾配。ペース配分は一般的セオリー。"
+      }
+    ]
+  },
+  {
     "date": "2026-07-31",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。明日8月1日は『サンセバスティアン』と『女子ツール』が同日開幕——男女ダブルの号砲前夜です。そしてツール2026は“史上最速”で幕、機材の13速はもうカンパが実戦投入、移籍マネーも一斉に動き出しました。今日は『前夜祭とマネー』が主役です。",
     "cards": [
