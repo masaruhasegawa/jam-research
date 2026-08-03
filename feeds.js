@@ -1,5 +1,227 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-08-04",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。今日は『昨日・今日』発のレースが濃くて、女子ツールで史上最長88kmの独走という“事件”が起きました。新鮮ネタ優先で本数は絞り、市場は経営メモとして深掘りしています。",
+    "cards": [
+      {
+        "id": "20260804-haugset-solo",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/v8DCk6hmAq2rHfVFBrfXCg-2560-80.jpg",
+        "headline": "女子ツール『史上最長88kmの独走』——無名の21歳ハウグセットが黄ジャージを奪い、世界が震えた",
+        "layer1": "第3ステージ（8/3ジュネーブ→ポリニー156.5km）で、Uno-Xのシグリッド・ハウグセットが残り約87kmから単独アタック→そのまま逃げ切り初勝利＆マイヨジョーヌ。Xでも『歴代最高のライドの一つ』と大反響になっている。",
+        "layer2": "これは2022年ヴァンフルーテンの62km独走を上回る、Zwift時代の女子ツール『史上最長』の逃げ切り。ノルウェー勢の同大会初ステージ勝利、かつ同国初のマイヨジョーヌでもある。第1ステージから2連勝級だったヴィーベスは登りで脱落し黄を明け渡した。総合の構図は一気に読めなくなり、8/7の『ヴァントゥー山頂』決戦への前振りとして最高の一日になった。",
+        "sources": [
+          {
+            "t": "Cyclingweekly",
+            "u": "https://www.cyclingweekly.com/racing/sigrid-haugset-takes-an-epic-victory-on-stage-three-of-the-2026-tour-de-france-femmes",
+            "d": "2026-08-03"
+          },
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-de-france-femmes-2026-stage-3-sigrid-haugset-completes-historic-88km-solo-to-take-yellow-in-one-of-greatest-tour-rides-ever",
+            "d": "2026-08-03"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-france-femmes-sigrid-haugset-stuns-field-with-long-range-solo-attack-to-land-signature-stage-3-victory-and-swipe-yellow-jersey/",
+            "d": "2026-08-03"
+          }
+        ],
+        "status": "確定＝勝者・逃げ距離・史上最長の記録は複数メディア一致。Xで話題→一次（レース結果）まで裏取り済み。"
+      },
+      {
+        "id": "20260804-milan-pologne-s1",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/8cZgjmwfhaTVzqDKtVadBZ-2000-80.jpg",
+        "headline": "ツール・ド・ポローニュ開幕、初日は『ミラン』——盟友マニエを競り落とし初のマイヨジョーヌ",
+        "layer1": "8/3の第1ステージ（コシャリンの緩斜面フィニッシュ）で、イタリア王者ジョナタン・ミラン（Lidl-Trek）が集団スプリントを制し大会初勝利＆リーダージャージ。2位マニエ（Soudal QuickStep）、3位ホッブス（EF）。",
+        "layer2": "ミランはツールでポイント賞を争った“最速の一角”。最後の短い上りでマニエの加速を差し切ったのがポイントで、平坦一辺倒でなく登り込みスプリントにも対応できる幅を見せた。総合は山岳日待ちで、スプリンター天国の序盤は『ミラン×マニエ』の連勝争いになりそう。純粋なスプリント力の見本市として、機材（完組・タイヤ幅・ギア比）を語るネタにもしやすい。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-pologne-jonathan-milan-powers-to-victory-in-stage-1-bunch-sprint/",
+            "d": "2026-08-03"
+          },
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-de-pologne-2026-stage-1-jonathan-milan-beats-paul-magnier-in-koszalin-sprint-to-take-first-yellow-jersey",
+            "d": "2026-08-03"
+          }
+        ],
+        "status": "確定＝順位は複数メディア一致。"
+      },
+      {
+        "id": "20260804-pogacar-vuelta-confirm",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/07/Z8C_9143-2.jpg",
+        "headline": "『ポガチャル、ブエルタ出場が“正式決定”』——ツール5勝目から連戦、唯一未勝利のGT三冠へ",
+        "layer1": "UAEが8/3、ポガチャルの8/22ブエルタ（モナコ発）出場を正式発表。これまで『観測』だった同年ダブルが確定に。勝てば全3大グランツール制覇＝史上9人目になる。",
+        "layer2": "相手は4度優勝のログリッチ、そして同僚アルメイダ（同じく出場確定）が最大の壁になりうる。ガル／スケルモス／オイツデブロークスら総合勢も名を連ねる。ヴィンゲゴーは鎖骨骨折で不在濃厚——王座は空位で、『どうポガチャル包囲網を組むか』が焦点になる。ルートは総上昇量が“史上最過酷”級とされる山岳量で、ツール明け連戦の疲労が唯一の弱点。",
+        "sources": [
+          {
+            "t": "Velo (Outside)",
+            "u": "https://velo.outsideonline.com/road/road-racing/pogacar-confirmed-for-2026-vuelta-a-espana/",
+            "d": "2026-08-03"
+          },
+          {
+            "t": "Cyclingweekly",
+            "u": "https://www.cyclingweekly.com/racing/vuelta-a-espana/tadej-pogacar-to-ride-2026-vuelta-a-espana-aiming-to-complete-grand-tour-triple",
+            "d": "2026-08-03"
+          }
+        ],
+        "status": "確定＝チーム公式発表。ヴィンゲゴー不在は※現時点で復帰白紙のため濃厚（正式な欠場発表ではない）。"
+      },
+      {
+        "id": "20260804-pologne-gc-almeida",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/UAE-Team-Emirates-XRG/CORVOS_00039042-053-1.jpg?width=2400&height=1260&quality=75&crop=6000%2C3150%2C0%2C425",
+        "headline": "ポローニュの『総合本命はアルメイダ』——ブエルタ前哨戦、UAEが山岳日に照準",
+        "layer1": "スプリント連戦の裏で、総合はUAEのジョアン・アルメイダが最有力。2021年覇者で今年のコースの山岳区間に合うタイプ。8/22ブエルタへ向けた実戦復帰の場でもある。",
+        "layer2": "ただ本人は6月のツール・オーヴェルニュを病気明けで未完走——調子は未知数。対抗はウラソフ、ナルバエス、ブイトラゴら。ここで“登れる状態”を作れれば、ブエルタでポガチャルの最強アシスト兼保険として不気味な存在になる。総合は大会中盤以降の山頂フィニッシュで動くので、序盤スプリントの裏でGC勢の位置取りを見ておきたい。",
+        "sources": [
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/features/tour-de-pologne-2026-preview/",
+            "d": "2026-08"
+          },
+          {
+            "t": "CyclingFlash",
+            "u": "https://cyclingflash.com/news/preview-tour-of-poland-2026-a-chance-for-joao-almeida-and-a-strong-sprint-field-1",
+            "d": "2026-08"
+          }
+        ],
+        "status": "曖昧＝プレビュー段階の下馬評（総合順位は未確定）。アルメイダの調子は要観察。"
+      },
+      {
+        "id": "20260804-shimano-wh-r9370",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/07/DURA_ACE_WH_R9370_Series_All_Wheels_Horizontal_1920x1080px_A38595.jpg",
+        "headline": "新デュラエース完組『WH-R9370』——シマノ初のカーボンスポーク、9/17発売",
+        "layer1": "シマノが新型デュラエースホイールを発表（7/29報）。ロード向けで初のカーボンスポークを採用し最大220g軽量化。C36／C50／C60＋TT用C99をラインナップし、発売は9/17。",
+        "layer2": "注目はC50が旧C60を上回る空力とされる点——“深さ＝速さ”の常識を素材と設計で更新してきた。一方でグループセット側の13速『R9300』は依然として音沙汰なし（ツールでもポーランドでもプロは未投入）。まず完組を刷新しコンポは後追い、という順番が見えてきた。最上位帯の価格は客単価の“天井”を一段押し上げるので、うちの提案帯（中華完組10万円台）との住み分けを説明する材料になる。",
+        "sources": [
+          {
+            "t": "Cyclesports",
+            "u": "https://www.cyclesports.jp/news/new-product/165486/",
+            "d": "2026-07-29"
+          },
+          {
+            "t": "Bicycle Club (funq)",
+            "u": "https://www.funq.jp/bicycle-club/article/1079789/",
+            "d": "2026-07-28"
+          }
+        ],
+        "status": "確定＝発表内容・発売日・軽量値はメーカー資料ベース。13速コンポは※未発表。"
+      },
+      {
+        "id": "20260804-heat-management",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://bioracer.jp/wp-content/uploads/2026/07/Fullzip2-photo-1-1.jpg",
+        "headline": "【初中級】猛暑は『我慢』でなく『設計』——ライド前・中・後の体温マネジメント",
+        "layer1": "連日の危険な暑さ。BIORACERが7/22公開のガイドで、暑さは根性で耐えるものでなく『事前・走行中・事後』で体温をどう管理するか“設計”する対象だと整理している。",
+        "layer2": "具体策は、スタート前に深部体温を上げすぎない（日陰待機・プレクーリング）、走行中は電解質を含む少量頻回の補給＋前腕/首の冷却、事後はできるだけ早く深部体温を下げる、の3段構え。プロもツールで前腕冷却やアイスベストを実戦投入している。初中級ほど“根性ライド”で熱中症に倒れやすいので、まずは涼しい時間帯とコース選びが最初の一手。数値管理をするならWBGT（暑さ指数）を基準にすると失敗が少ない。",
+        "sources": [
+          {
+            "t": "BIORACER",
+            "u": "https://bioracer.jp/2026/07/22/summer-heat-management-guide/",
+            "d": "2026-07-22"
+          }
+        ],
+        "status": "確定＝一般的な暑熱対策として妥当。個別の最適値は体格・環境依存。"
+      },
+      {
+        "id": "20260804-market-clearance-season",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/06/yamashige_sale26_3.jpg",
+        "headline": "【経営メモ・市場】夏は『型落ち処分』の号砲——決算セールが各地で本格化、在庫潤沢で値引き合戦に注意",
+        "layer1": "各社が夏に新型を発表→2〜3か月後に旧型が『型落ち』として大きく下がる例年サイクルに入った。ショップの決算セール告知（例：夏の決算セール）も相次ぎ、在庫は潤沢で20〜30%引きが珍しくない。",
+        "layer2": "値引きのピークは8〜10月の旧モデル処分期で、今はその前哨戦。だからこそ、うちは『値引き合戦』に乗るより、型落ちを賢く仕入れて『整備＋指名買い』で利益を守る動きが効く。安さで比べられると大手・EC・在庫処分には勝てない——“この店で組んでもらう価値”（フィッティング・整備・中華完組の目利き）を前に出すのが夏の勝ち筋。※ここは記事ネタでなく在庫/価格戦略の参考メモ。",
+        "sources": [
+          {
+            "t": "Cyclesports（決算セール告知）",
+            "u": "https://www.cyclesports.jp/news/shop/163442/",
+            "d": "2026-06-19"
+          },
+          {
+            "t": "Pedalism（安い時期の解説）",
+            "u": "https://pedalism.jp/road-bike-sale-timing-when-cheap/",
+            "d": "2026-05"
+          }
+        ],
+        "status": "曖昧＝相場観として妥当（市場動向メモ）。個別値引き率は店舗・在庫で変動。"
+      },
+      {
+        "id": "20260804-market-china-wheels-standard",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.shopify.com/s/files/1/0464/1098/9718/files/YOELEO.jpg?v=1645595904",
+        "headline": "【経営メモ・市場】中華カーボン完組が『日本の定番』に定着——UCI認証・10万円前後が“最初の一本”の本命",
+        "layer1": "日本語のカーボンホイール人気ランキング（2026年7月更新）でも、SUPERTEAM・ELITEWHEELS・Winspaceといった中華完組が上位に定着。シマノが最上位を押し上げるほど、10万円前後の中華完組が“最初の一本”の本命になっている。",
+        "layer2": "選別の軸は『安さ』でなく、UCI認証・実測重量・保証/代理店の3点。SUPERTEAMのようにUCI公認レースで使える認証済みブランドが増え“地雷を踏む確率”は下がったが、初期振れ（1〜2mm）や海外対応の壁は残る。だからこそ、うちが扱うYOELEO・CRW・8LIEN等を“国内で見て・組んで・保証する”形で出せば、ECの激安と価格ではなく安心で差別化できる。※市場ポジション確認のメモ。",
+        "sources": [
+          {
+            "t": "マイベスト（カーボンホイール 2026年7月）",
+            "u": "https://my-best.com/21017",
+            "d": "2026-07"
+          },
+          {
+            "t": "bike-memo（中華カーボン格付け）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-01"
+          }
+        ],
+        "status": "曖昧＝ランキングは集計元で順位変動あり（市場感メモ）。UCI認証は各社公表ベース。"
+      },
+      {
+        "id": "20260804-merida-reacto-cf3",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://shop.merida.jp/cdn/shop/files/REACTO4000RAINBOW_GUNMETALGREY_SILVER.jpg?v=1755948398",
+        "headline": "完成車の“実戦帯”が動く——メリダ新型REACTO CF3、約42万円で『セカンドグレードの価値』",
+        "layer1": "メディアのインプレで、メリダの新型エアロ『REACTO CF3』が“価値あるセカンドグレード”として評価。完成車で約42万円と、いまの市場では十分に競争力ある価格帯に置いてきた。",
+        "layer2": "ハイエンドが100万円級に伸びる一方で、各社は“第5世代フレームの設計そのままに一段下のグレード/コンポで実戦価格へ落とす”動きを強めている。この『40万円前後のセカンドグレード』こそ、うちの客層（初中級〜ステップアップ）と最もぶつかる帯。だから“完成車の値ごろ感”は常に把握し、フレーム＋中華完組＋整備で組む提案が、同価格の吊るしより速く・軽く仕上がることを数字で示せると強い。数値（約42万円）は※媒体報のため要確認。",
+        "sources": [
+          {
+            "t": "cyclowired（REACTO CF3 インプレ）",
+            "u": "https://www.cyclowired.jp/news/node/392729",
+            "d": "2026-07"
+          },
+          {
+            "t": "MERIDA 公式",
+            "u": "https://shop.merida.jp/products/reacto-4000",
+            "d": "2026-07"
+          }
+        ],
+        "status": "曖昧＝価格・スペックは媒体報ベース（※完成車価格は要確認）。"
+      }
+    ]
+  },
+  {
     "date": "2026-08-03",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ツール明けの静けさを破って『ツール・ド・ポローニュ』が今日開幕、女子ツールはヴィーベスが開幕2連勝——そして3週間後に迫るブエルタの前哨戦です。国内はお盆商戦とグラベルの伸びに注目。",
     "cards": [

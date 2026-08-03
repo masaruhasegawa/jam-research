@@ -1,135 +1,123 @@
 {
-  "date": "2026-08-03",
-  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ツール明けの静けさを破って『ツール・ド・ポローニュ』が今日開幕、女子ツールはヴィーベスが開幕2連勝——そして3週間後に迫るブエルタの前哨戦です。国内はお盆商戦とグラベルの伸びに注目。",
+  "date": "2026-08-04",
+  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。今日は『昨日・今日』発のレースが濃くて、女子ツールで史上最長88kmの独走という“事件”が起きました。新鮮ネタ優先で本数は絞り、市場は経営メモとして深掘りしています。",
   "cards": [
     {
-      "id": "20260803-tdp-open",
+      "id": "20260804-haugset-solo",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": true,
-      "image": "https://procyclinguk.com/wp-content/uploads/2025/08/divThe-team-will-find-another-way-–-Paul-Magnier-shows-Soudal-QuickStep-ready-for-life-after-Remco-Evenepoel-with-breakthrough-win-at-Tour-de-Polognediv-1.jpg",
-      "headline": "ツール明け最初のステージレース『ツール・ド・ポローニュ』が今日開幕——初日234kmは“ミラン vs マニエ”、総合はクリステン／アルメイダらが狙う",
-      "layer1": "8月3日、7日間の第83回ツール・ド・ポローニュが開幕。初日はグディニャ→コシャリンの『234km（今大会最長）』で獲得2,000m超のうねる丘、締めはゴール6km手前の3級ゴーラ・ヘウムスカ。",
-      "layer2": "スプリント本命は『パウル・マニエ vs ジョナサン・ミラン』——ジロで大暴れしたミランに、レムコを失ったスーダルのマニエが挑む構図。総合はコースが短い『12.4kmの個人TT』で締まるため、純粋なTTタイプより“登れる選手”が有利。予想筆頭はヤン・クリステン、そこにアルメイダ（復帰戦・調子は未知数）やブイトラゴが絡む。",
+      "image": "https://cdn.mos.cms.futurecdn.net/v8DCk6hmAq2rHfVFBrfXCg-2560-80.jpg",
+      "headline": "女子ツール『史上最長88kmの独走』——無名の21歳ハウグセットが黄ジャージを奪い、世界が震えた",
+      "layer1": "第3ステージ（8/3ジュネーブ→ポリニー156.5km）で、Uno-Xのシグリッド・ハウグセットが残り約87kmから単独アタック→そのまま逃げ切り初勝利＆マイヨジョーヌ。Xでも『歴代最高のライドの一つ』と大反響になっている。",
+      "layer2": "これは2022年ヴァンフルーテンの62km独走を上回る、Zwift時代の女子ツール『史上最長』の逃げ切り。ノルウェー勢の同大会初ステージ勝利、かつ同国初のマイヨジョーヌでもある。第1ステージから2連勝級だったヴィーベスは登りで脱落し黄を明け渡した。総合の構図は一気に読めなくなり、8/7の『ヴァントゥー山頂』決戦への前振りとして最高の一日になった。",
       "sources": [
-        { "t": "CyclingUpToDate（ステージ1プレビュー）", "u": "https://cyclinguptodate.com/cycling/tour-de-pologne-2026-overall-and-stage-1-preview-how-to-watch-on-tvlive-in-the-usa-and-uk-uae-hunt-gc-win-whilst-milan-and-magnier-battle-for-opening-sprint", "d": "2026-08-02" },
-        { "t": "ProCyclingUK（ルートガイド）", "u": "https://procyclinguk.com/mens-tour-de-pologne-2026-full-route-guide/", "d": "2026-07" }
+        { "t": "Cyclingweekly", "u": "https://www.cyclingweekly.com/racing/sigrid-haugset-takes-an-epic-victory-on-stage-three-of-the-2026-tour-de-france-femmes", "d": "2026-08-03" },
+        { "t": "CyclingUpToDate", "u": "https://cyclinguptodate.com/cycling/results-tour-de-france-femmes-2026-stage-3-sigrid-haugset-completes-historic-88km-solo-to-take-yellow-in-one-of-greatest-tour-rides-ever", "d": "2026-08-03" },
+        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-france-femmes-sigrid-haugset-stuns-field-with-long-range-solo-attack-to-land-signature-stage-3-victory-and-swipe-yellow-jersey/", "d": "2026-08-03" }
       ],
-      "status": "確定＝8/3開幕・初日234km・最終日12.4km個人TT。曖昧＝勝者は未定（レースは本日実施）。"
+      "status": "確定＝勝者・逃げ距離・史上最長の記録は複数メディア一致。Xで話題→一次（レース結果）まで裏取り済み。"
     },
     {
-      "id": "20260803-tdff-wiebes",
+      "id": "20260804-milan-pologne-s1",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/x2erRPrkRHSd8wS8rNtXkN-2500-80.jpg",
-      "headline": "女子ツールはヴィーベスが『開幕2連勝』で黄ジャージ堅持——だが本当の勝負は8/7『史上初の女子ヴァントゥー山頂』、フォレリング vs フェランプレヴォ",
-      "layer1": "第2ステージ（ジュネーブ）はローレナ・ヴィーベスが独走を残り500mで捕まえて連勝、大会通算『7勝目』の最多記録を更新。マイヨジョーヌを守り、総合2位フォレリングに『16秒』のリード。第3ステージ（8/3）はジュネーブ→ポリニー。",
-      "layer2": "スプリンター天下は序盤だけ。総合の天王山は第7ステージ（8/7）、ラ・ヴルト→『モン・ヴァントゥー山頂（15.6km・平均8.8%／標高1,910m）』——女子レース“初”のヴァントゥー山頂決着。主役はデミ・フォレリング（今季フランドル＆フレーシュ制覇、過去3年連続で総合2位以内）と連覇を狙う王者ポーリーヌ・フェランプレヴォ。伏兵にロンゴボルギーニ、TT世界王者ロイサー。",
+      "image": "https://cdn.mos.cms.futurecdn.net/8cZgjmwfhaTVzqDKtVadBZ-2000-80.jpg",
+      "headline": "ツール・ド・ポローニュ開幕、初日は『ミラン』——盟友マニエを競り落とし初のマイヨジョーヌ",
+      "layer1": "8/3の第1ステージ（コシャリンの緩斜面フィニッシュ）で、イタリア王者ジョナタン・ミラン（Lidl-Trek）が集団スプリントを制し大会初勝利＆リーダージャージ。2位マニエ（Soudal QuickStep）、3位ホッブス（EF）。",
+      "layer2": "ミランはツールでポイント賞を争った“最速の一角”。最後の短い上りでマニエの加速を差し切ったのがポイントで、平坦一辺倒でなく登り込みスプリントにも対応できる幅を見せた。総合は山岳日待ちで、スプリンター天国の序盤は『ミラン×マニエ』の連勝争いになりそう。純粋なスプリント力の見本市として、機材（完組・タイヤ幅・ギア比）を語るネタにもしやすい。",
       "sources": [
-        { "t": "CyclingUpToDate（ステージ2結果）", "u": "https://cyclinguptodate.com/cycling/results-tour-de-france-femmes-2026-stage-2-lorena-wiebes-wins-in-yellow-to-make-it-two-from-two-and-claim-record-seventh-stage-victory", "d": "2026-08-02" },
-        { "t": "TOUR Magazin（ルート／ヴァントゥー）", "u": "https://www.tour-magazin.de/en/professional-cycling/latest-news/2026-tour-de-france-femmes-route-and-stages-of-the-women-s-tour-de-france/", "d": "2026-07" }
+        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-pologne-jonathan-milan-powers-to-victory-in-stage-1-bunch-sprint/", "d": "2026-08-03" },
+        { "t": "CyclingUpToDate", "u": "https://cyclinguptodate.com/cycling/results-tour-de-pologne-2026-stage-1-jonathan-milan-beats-paul-magnier-in-koszalin-sprint-to-take-first-yellow-jersey", "d": "2026-08-03" }
       ],
-      "status": "確定＝ヴィーベス2連勝・黄+16秒・第7が史上初の女子ヴァントゥー。曖昧＝総合の行方。"
+      "status": "確定＝順位は複数メディア一致。"
     },
     {
-      "id": "20260803-vuelta-preview",
+      "id": "20260804-pogacar-vuelta-confirm",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://www.oasport.it/wp-content/uploads/2026/07/Tadej-Pogacar-LaPresse-20-e1785095251410.jpg",
-      "headline": "次のグランツール『ブエルタ2026』は8/22モナコ発——“史上最過酷”10山岳・約58,000m上昇、主催はポガチャルを口説き、王座はヴィンゲゴー不在で空位",
-      "layer1": "8月22日〜9月13日、第81回ブエルタ・ア・エスパーニャ。開幕は『モナコの9.6km個人TT』、フィナーレはグラナダ。今年は“最短・最急・最も汗をかく”設計で、10の山岳ステージに約58,000mの上昇を詰め込む。",
-      "layer2": "この“ポガチャル仕様”のコースで主催者ギジェンは彼の参戦を公然と熱望——ただしポガチャル自身は態度を保留（『同年3大ツール制覇』観測はあるが未確定）。確度が高いのはログリッチ（王座奪回狙い）、アルメイダ、クス、ガル、そしてほぼ確定のファンアールト。昨年覇者ヴィンゲゴーは“今季ツールを落車で棄権”しており、連覇には来ない見込み＝『王座は空位』。",
+      "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/07/Z8C_9143-2.jpg",
+      "headline": "『ポガチャル、ブエルタ出場が“正式決定”』——ツール5勝目から連戦、唯一未勝利のGT三冠へ",
+      "layer1": "UAEが8/3、ポガチャルの8/22ブエルタ（モナコ発）出場を正式発表。これまで『観測』だった同年ダブルが確定に。勝てば全3大グランツール制覇＝史上9人目になる。",
+      "layer2": "相手は4度優勝のログリッチ、そして同僚アルメイダ（同じく出場確定）が最大の壁になりうる。ガル／スケルモス／オイツデブロークスら総合勢も名を連ねる。ヴィンゲゴーは鎖骨骨折で不在濃厚——王座は空位で、『どうポガチャル包囲網を組むか』が焦点になる。ルートは総上昇量が“史上最過酷”級とされる山岳量で、ツール明け連戦の疲労が唯一の弱点。",
       "sources": [
-        { "t": "Escape Collective（コース分析）", "u": "https://escapecollective.com/the-vuelta-wants-pogacar-so-bad-that-its-bringing-the-2026-race-to-his-doorstep/", "d": "2026-07" },
-        { "t": "OA Sport（出走見通し）", "u": "https://www.oasport.it/2026/07/vuelta-a-espana-2026-chi-partecipera-incognita-pogacar-sicuri-roglic-e-joao-almeida/", "d": "2026-07" }
+        { "t": "Velo (Outside)", "u": "https://velo.outsideonline.com/road/road-racing/pogacar-confirmed-for-2026-vuelta-a-espana/", "d": "2026-08-03" },
+        { "t": "Cyclingweekly", "u": "https://www.cyclingweekly.com/racing/vuelta-a-espana/tadej-pogacar-to-ride-2026-vuelta-a-espana-aiming-to-complete-grand-tour-triple", "d": "2026-08-03" }
       ],
-      "status": "確定＝8/22モナコ開幕・10山岳・約58,000m。曖昧＝出走リスト未確定、ポガチャル参戦は観測。"
+      "status": "確定＝チーム公式発表。ヴィンゲゴー不在は※現時点で復帰白紙のため濃厚（正式な欠場発表ではない）。"
     },
     {
-      "id": "20260803-obon-market",
-      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://bike-plus.com/cdn/shop/collections/zaikosyobun_sale_2026.jpg?v=1778225478",
-      "headline": "【経営メモ・市場】お盆商戦は『買い手市場』が継続——価格.com 8/2集計は“2万円台〜”が上位、在庫処分は最大40%OFF、勝ち筋は値引きでなく『指名買い＋整備』",
-      "layer1": "価格.comの売れ筋（7/26〜8/1集計・8/2更新）は、21Technology（約2.1万円）を筆頭にメリダ・ミヤタ・バッソ・あさひが並ぶ“実用〜中価格”優勢。大手は在庫処分で『最大40%OFF』を打ち、型落ちは20〜40%引きが珍しくない。",
-      "layer2": "背景はコロナ需要の反動で在庫潤沢＝完成車“単体”では利幅が薄い。お盆は帰省・連休で来店が読める好機だが、価格勝負は消耗戦になりやすい。うちの勝ち筋は『語れる指名買い（用途提案）＋整備・カスタム』で客単価を残すこと——完成車＋ホイールのセット提案や、乗り出し後の“かかりつけ化”が効く。",
+      "id": "20260804-pologne-gc-almeida",
+      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
+      "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/UAE-Team-Emirates-XRG/CORVOS_00039042-053-1.jpg?width=2400&height=1260&quality=75&crop=6000%2C3150%2C0%2C425",
+      "headline": "ポローニュの『総合本命はアルメイダ』——ブエルタ前哨戦、UAEが山岳日に照準",
+      "layer1": "スプリント連戦の裏で、総合はUAEのジョアン・アルメイダが最有力。2021年覇者で今年のコースの山岳区間に合うタイプ。8/22ブエルタへ向けた実戦復帰の場でもある。",
+      "layer2": "ただ本人は6月のツール・オーヴェルニュを病気明けで未完走——調子は未知数。対抗はウラソフ、ナルバエス、ブイトラゴら。ここで“登れる状態”を作れれば、ブエルタでポガチャルの最強アシスト兼保険として不気味な存在になる。総合は大会中盤以降の山頂フィニッシュで動くので、序盤スプリントの裏でGC勢の位置取りを見ておきたい。",
       "sources": [
-        { "t": "価格.com ロードバイク売れ筋ランキング", "u": "https://kakaku.com/bicycle/road-bicycle/ranking_6420/", "d": "2026-08-02" },
-        { "t": "バイクプラス 車体在庫処分セール", "u": "https://bike-plus.com/collections/bike-clearance-sale", "d": "2026-08" }
+        { "t": "Domestique Cycling", "u": "https://www.domestiquecycling.com/en/features/tour-de-pologne-2026-preview/", "d": "2026-08" },
+        { "t": "CyclingFlash", "u": "https://cyclingflash.com/news/preview-tour-of-poland-2026-a-chance-for-joao-almeida-and-a-strong-sprint-field-1", "d": "2026-08" }
       ],
-      "status": "確定＝8/2ランキング・在庫処分セール実施中・型落ち20〜40%引き。曖昧＝各店の実売値。"
+      "status": "曖昧＝プレビュー段階の下馬評（総合順位は未確定）。アルメイダの調子は要観察。"
     },
     {
-      "id": "20260803-gravel-market",
-      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://img.my-best.com/contents/29ad2fa6a90304e8b86e4940c8fc9c62.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=42f37309184f6a8794bb7b494cf736a0",
-      "headline": "【経営メモ・市場】ロードが頭打ちの中『グラベルは伸びる棚』——8/2更新の人気ランキングは63モデル、¥3.4万〜33.5万、KONA/FUJI/JAMISが上位",
-      "layer1": "国内のグラベルロード人気ランキング（8/2更新）は掲載『63モデル』、価格は約3.4万〜33.5万円と裾野が広い。コンポはClaris／Sora／GRXが中心で、KONA・FUJI・JAMISが常連上位。",
-      "layer2": "ロード完成車が値引き合戦で消耗する一方、グラベルは『通勤・キャンプ・未舗装』と用途が広く“新規客の入口”になりやすい成長カテゴリ。太タイヤ（35〜47c）・ディスク・アップライト設計が刺さる層は、ロード上級とは別。うちの棚づくりでも、入門グラベル＋太タイヤ運用や、既存ロード客への“2台目グラベル”提案は取りこぼしを拾える。",
-      "sources": [
-        { "t": "mybest グラベルロード人気ランキング", "u": "https://my-best.com/31094", "d": "2026-08-02" },
-        { "t": "サイクルスポーツ（2026年モデル特集）", "u": "https://www.cyclesports.jp/tags/2026%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/", "d": "2026-06" }
-      ],
-      "status": "確定＝8/2ランキング更新・63モデル掲載・価格帯。曖昧＝販売台数の実数。"
-    },
-    {
-      "id": "20260803-china-wheels-biz",
-      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png",
-      "headline": "【経営メモ・市場】シマノが“カーボンスポーク43万円”で天井を上げた今、中華完組は『10万円台』で普及を押す——うちの取扱帯の勝ち筋",
-      "layer1": "2026の中華カーボン完組は序列が固まりつつある——オールラウンドはWinspace『Lún』とElitewheels『Drive』、超深リムはTukus、軽量はWinspaceの軽量系、価格重視はSuperTeam。YOELEO等は10〜12万円台で“プロ級性能”帯に到達。",
-      "layer2": "シマノ新デュラ・ホイール（前後約43万円）が“天井”を押し上げた分、その約1/3価格の中華完組の割安感が際立つ＝普及の追い風。うちが扱う『8LIEN・CRW・GOOSYNN・NEPEST・FARSPORTS・PARTICLE』の勝ち筋は、価格だけでなく『UCI認証・実測重量・保証と代理店対応』で“地雷でない安心”を売ること。数字物（実測重量・リム内幅）は必ず裏取りして提示する。",
-      "sources": [
-        { "t": "Velofanatics（2026 中華カーボン序列）", "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/", "d": "2026-05" },
-        { "t": "road.cc（新デュラ・ホイールは軽量・エアロ化）", "u": "https://road.cc/tech-news/shimano-launches-lighter-more-aero-dura-ace-wheels", "d": "2026-07" }
-      ],
-      "status": "確定＝新デュラ完組は前後約43万円（既報）。曖昧＝ブランド序列は評価元で変動、価格は為替・時期で動く。"
-    },
-    {
-      "id": "20260803-first-gravel",
-      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "https://images.cyclehack.jp/wp-content/uploads/2023/11/51751537477_896766aab0_k.jpg",
-      "headline": "【初中級】ブームの『初めてのグラベル』、最初の1台にアリ？——見るのは“タイヤ幅・ディスク・GRX”、舗装9割なら35c前後が快適",
-      "layer1": "グラベル人気で「最初の1台をグラベルに」と迷う人が増加。結論、舗装メインでもアリ——太タイヤ（35〜45c）で乗り心地と安心感が段違いで、通勤・未舗装・ロングまで1台で回せる。",
-      "layer2": "選ぶ軸は3つ。①タイヤクリアランス（舗装9割なら35c前後、砂利多めなら40c〜）②油圧ディスク（雨・下り・積載で効く）③駆動系はGRX等のグラベル系だと運用が楽。“スピード最優先”ならロード、“遊びの幅”ならグラベル、が住み分け。最初の1台は、まず「どこを・誰と・どれくらい走るか」を紙に書き出すのが失敗しないコツ。",
-      "sources": [
-        { "t": "CYCLE HACK（グラベル選び方）", "u": "https://cyclehack.jp/755", "d": "2026-07" },
-        { "t": "mybest グラベルロード人気ランキング", "u": "https://my-best.com/31094", "d": "2026-08-02" }
-      ],
-      "status": "普遍テーマ（ブームを起点）。確定＝設計思想・選ぶ軸。曖昧＝個々の適性は用途次第。"
-    },
-    {
-      "id": "20260803-theft-sns",
-      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "https://bike-plus.com/cdn/shop/articles/1440x810-how-to-lock-bicycle-1.webp?v=1774158876",
-      "headline": "【初中級・Xで話題】“高いロードが狙われる”盗難報告がSNSで目立つ——新常識は『物理×デジタル』、地球ロック＋AlterLockの二段構え",
-      "layer1": "X（旧Twitter）で高額ロードの盗難報告が目立ち、対策が話題に。今の定石は“鍵だけ”の時代の終わり＝『物理×デジタル』の併用（※盗難増の体感はSNS由来＝要裏取り、対策手法は各社の実装で確認）。",
-      "layer2": "物理は『地球ロック』——車体（ホイールでなくフレーム）を固定物へ、地面から浮かせて“てこ切断”を防ぎ、種類の違う鍵で二重化。デジタルは国産AlterLock（95dBアラーム＋GPS/Wi-Fi追跡）やKnog Scout（Appleの“探す”連携／85dB）。プロは物理錠を破れる前提だから、“時間を稼ぐ＋追える”の合わせ技が要。無人駐輪は避け、人目のある場所へ。うちの整備客への防犯提案は客単価にもなる。",
-      "sources": [
-        { "t": "バイクプラス 盗難防止の教科書（物理×デジタル）", "u": "https://bike-plus.com/blogs/blog/how-to-lock-bicycle", "d": "2026-01" }
-      ],
-      "status": "※Xで話題（盗難増の体感はSNS由来＝要裏取り）。確定＝対策手法・機器仕様。"
-    },
-    {
-      "id": "20260803-tarmac-sl9",
-      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://bikenewsmag.com/wp-content/uploads/2026/06/Specialized-S-Works-Tarmac-SL9-1.jpg",
-      "headline": "『史上最速』Tarmac SL9、日本は全国試乗ツアー開催中（〜11/8）——完成車6.5kg・フレーム687g、SL8比“80kmで14秒速い”のエアロ全盛",
-      "layer1": "スペシャライズドの新S-Works Tarmac SL9（7/1発表）が日本で全国試乗ツアー中（7/4〜11/8、各店）。“史上最速のロード”を掲げ、フレーム687g・完成車6.5kg（UCI下限6.8kg未満）。",
-      "layer2": "売りは『Time to Finish（ゴールまでの時間）』という実走評価——風洞値だけでなく空気抵抗・重量・転がり・風・疲労まで含めて速さを設計。SL8比で45km/h時+4W、ツール1ステージ終盤80kmで“約14秒速い”試算。“軽さより総合力（エアロ＋軽量の両立）”という2026ハイエンドの潮流を象徴。英国価格は£11,999と“天井”も一段上へ。",
-      "sources": [
-        { "t": "Bike News Mag（SL9発表）", "u": "https://bikenewsmag.com/2026/07/01/specialized-unveils-s-works-tarmac-sl9-claiming-its-fastest-road-bike-ever/", "d": "2026-07-01" },
-        { "t": "サイクルジャパン（SL9デビュー）", "u": "https://cyclejapan.club/specialized-tarmac-sl9-debut-2026july/", "d": "2026-07" }
-      ],
-      "status": "確定＝スペック・日本の試乗ツアー期間。曖昧＝“14秒速い”は自社シミュレーション値。"
-    },
-    {
-      "id": "20260803-shimano-13",
+      "id": "20260804-shimano-wh-r9370",
       "genre": "parts", "genreLabel": "PARTS", "genreJa": "パーツ", "hot": false,
-      "image": "https://cyclingarchives.com/wp-content/uploads/2026/05/shimano-13-speed-2026-dura-ace-r9300-wireless-reshape-worldtour-1-1024x682.jpg",
-      "headline": "シマノ13速『デュラエースR9300』、ツールでもポーランドでも“まだ出ない”——カンパは2×13を持つがWorldTour撤退、SRAMは12速維持",
-      "layer1": "業界最大の関心事R9300（13速デュラエース）は、ツールでも登場せず。プロトタイプ（ホイール／ペダル）の目撃やE-Tubeアプリの“13段目”表示、2024年5月の特許など兆候は揃うが、正式発表はなお先。",
-      "layer2": "“13速時代”自体はもう来ている——ただしカンパニョーロ（2023年に世界初の2×13無線Super Record Wireless）。皮肉にもカンパは2026年に男子WorldTourから姿を消し、実戦の13速はLook×カンパなどごく一部。SRAMはRed AXS第2世代でも“12速＋完全無線”を維持し、速度追求より運用を選んだ。シマノの本命市販は『2027シーズン』観測が優勢。買い替えは“今の11/12速で不足なし”が実務的な結論。",
+      "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/07/DURA_ACE_WH_R9370_Series_All_Wheels_Horizontal_1920x1080px_A38595.jpg",
+      "headline": "新デュラエース完組『WH-R9370』——シマノ初のカーボンスポーク、9/17発売",
+      "layer1": "シマノが新型デュラエースホイールを発表（7/29報）。ロード向けで初のカーボンスポークを採用し最大220g軽量化。C36／C50／C60＋TT用C99をラインナップし、発売は9/17。",
+      "layer2": "注目はC50が旧C60を上回る空力とされる点——“深さ＝速さ”の常識を素材と設計で更新してきた。一方でグループセット側の13速『R9300』は依然として音沙汰なし（ツールでもポーランドでもプロは未投入）。まず完組を刷新しコンポは後追い、という順番が見えてきた。最上位帯の価格は客単価の“天井”を一段押し上げるので、うちの提案帯（中華完組10万円台）との住み分けを説明する材料になる。",
       "sources": [
-        { "t": "Cycling Archives（R9300の現在地）", "u": "https://cyclingarchives.com/shimano-13-speed-2026-dura-ace-r9300-wireless-reshape-worldtour/", "d": "2026-05" },
-        { "t": "road.cc（ツール新型機材の波）", "u": "https://road.cc/feature/a-wave-of-new-bikes-wheels-and-kit-making-tour-de-france-debuts-in-2026", "d": "2026-07" }
+        { "t": "Cyclesports", "u": "https://www.cyclesports.jp/news/new-product/165486/", "d": "2026-07-29" },
+        { "t": "Bicycle Club (funq)", "u": "https://www.funq.jp/bicycle-club/article/1079789/", "d": "2026-07-28" }
       ],
-      "status": "曖昧＝R9300は未発表・時期は観測（2027有力）。確定＝カンパ2×13は既発・男子WorldTour撤退、SRAMは12速維持。"
+      "status": "確定＝発表内容・発売日・軽量値はメーカー資料ベース。13速コンポは※未発表。"
+    },
+    {
+      "id": "20260804-heat-management",
+      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
+      "image": "https://bioracer.jp/wp-content/uploads/2026/07/Fullzip2-photo-1-1.jpg",
+      "headline": "【初中級】猛暑は『我慢』でなく『設計』——ライド前・中・後の体温マネジメント",
+      "layer1": "連日の危険な暑さ。BIORACERが7/22公開のガイドで、暑さは根性で耐えるものでなく『事前・走行中・事後』で体温をどう管理するか“設計”する対象だと整理している。",
+      "layer2": "具体策は、スタート前に深部体温を上げすぎない（日陰待機・プレクーリング）、走行中は電解質を含む少量頻回の補給＋前腕/首の冷却、事後はできるだけ早く深部体温を下げる、の3段構え。プロもツールで前腕冷却やアイスベストを実戦投入している。初中級ほど“根性ライド”で熱中症に倒れやすいので、まずは涼しい時間帯とコース選びが最初の一手。数値管理をするならWBGT（暑さ指数）を基準にすると失敗が少ない。",
+      "sources": [
+        { "t": "BIORACER", "u": "https://bioracer.jp/2026/07/22/summer-heat-management-guide/", "d": "2026-07-22" }
+      ],
+      "status": "確定＝一般的な暑熱対策として妥当。個別の最適値は体格・環境依存。"
+    },
+    {
+      "id": "20260804-market-clearance-season",
+      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
+      "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/06/yamashige_sale26_3.jpg",
+      "headline": "【経営メモ・市場】夏は『型落ち処分』の号砲——決算セールが各地で本格化、在庫潤沢で値引き合戦に注意",
+      "layer1": "各社が夏に新型を発表→2〜3か月後に旧型が『型落ち』として大きく下がる例年サイクルに入った。ショップの決算セール告知（例：夏の決算セール）も相次ぎ、在庫は潤沢で20〜30%引きが珍しくない。",
+      "layer2": "値引きのピークは8〜10月の旧モデル処分期で、今はその前哨戦。だからこそ、うちは『値引き合戦』に乗るより、型落ちを賢く仕入れて『整備＋指名買い』で利益を守る動きが効く。安さで比べられると大手・EC・在庫処分には勝てない——“この店で組んでもらう価値”（フィッティング・整備・中華完組の目利き）を前に出すのが夏の勝ち筋。※ここは記事ネタでなく在庫/価格戦略の参考メモ。",
+      "sources": [
+        { "t": "Cyclesports（決算セール告知）", "u": "https://www.cyclesports.jp/news/shop/163442/", "d": "2026-06-19" },
+        { "t": "Pedalism（安い時期の解説）", "u": "https://pedalism.jp/road-bike-sale-timing-when-cheap/", "d": "2026-05" }
+      ],
+      "status": "曖昧＝相場観として妥当（市場動向メモ）。個別値引き率は店舗・在庫で変動。"
+    },
+    {
+      "id": "20260804-market-china-wheels-standard",
+      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
+      "image": "https://cdn.shopify.com/s/files/1/0464/1098/9718/files/YOELEO.jpg?v=1645595904",
+      "headline": "【経営メモ・市場】中華カーボン完組が『日本の定番』に定着——UCI認証・10万円前後が“最初の一本”の本命",
+      "layer1": "日本語のカーボンホイール人気ランキング（2026年7月更新）でも、SUPERTEAM・ELITEWHEELS・Winspaceといった中華完組が上位に定着。シマノが最上位を押し上げるほど、10万円前後の中華完組が“最初の一本”の本命になっている。",
+      "layer2": "選別の軸は『安さ』でなく、UCI認証・実測重量・保証/代理店の3点。SUPERTEAMのようにUCI公認レースで使える認証済みブランドが増え“地雷を踏む確率”は下がったが、初期振れ（1〜2mm）や海外対応の壁は残る。だからこそ、うちが扱うYOELEO・CRW・8LIEN等を“国内で見て・組んで・保証する”形で出せば、ECの激安と価格ではなく安心で差別化できる。※市場ポジション確認のメモ。",
+      "sources": [
+        { "t": "マイベスト（カーボンホイール 2026年7月）", "u": "https://my-best.com/21017", "d": "2026-07" },
+        { "t": "bike-memo（中華カーボン格付け）", "u": "https://bike-memo.com/cycle_260118_carbon-wheels/", "d": "2026-01" }
+      ],
+      "status": "曖昧＝ランキングは集計元で順位変動あり（市場感メモ）。UCI認証は各社公表ベース。"
+    },
+    {
+      "id": "20260804-merida-reacto-cf3",
+      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
+      "image": "https://shop.merida.jp/cdn/shop/files/REACTO4000RAINBOW_GUNMETALGREY_SILVER.jpg?v=1755948398",
+      "headline": "完成車の“実戦帯”が動く——メリダ新型REACTO CF3、約42万円で『セカンドグレードの価値』",
+      "layer1": "メディアのインプレで、メリダの新型エアロ『REACTO CF3』が“価値あるセカンドグレード”として評価。完成車で約42万円と、いまの市場では十分に競争力ある価格帯に置いてきた。",
+      "layer2": "ハイエンドが100万円級に伸びる一方で、各社は“第5世代フレームの設計そのままに一段下のグレード/コンポで実戦価格へ落とす”動きを強めている。この『40万円前後のセカンドグレード』こそ、うちの客層（初中級〜ステップアップ）と最もぶつかる帯。だから“完成車の値ごろ感”は常に把握し、フレーム＋中華完組＋整備で組む提案が、同価格の吊るしより速く・軽く仕上がることを数字で示せると強い。数値（約42万円）は※媒体報のため要確認。",
+      "sources": [
+        { "t": "cyclowired（REACTO CF3 インプレ）", "u": "https://www.cyclowired.jp/news/node/392729", "d": "2026-07" },
+        { "t": "MERIDA 公式", "u": "https://shop.merida.jp/products/reacto-4000", "d": "2026-07" }
+      ],
+      "status": "曖昧＝価格・スペックは媒体報ベース（※完成車価格は要確認）。"
     }
   ]
 }
