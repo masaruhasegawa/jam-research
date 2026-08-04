@@ -1,5 +1,217 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-08-05",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。女子ツールが第4ステージの個人TTで大逆転——ロイセルが黄ジャージ、王者フェランプレヴォは自滅。国内は8/1にシマノとパナレーサーが同時に動きました。鮮度優先で厳選しています。",
+    "cards": [
+      {
+        "id": "20260805-tdff-reusser-itt",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2025-12/marlenreusser-girodonne2025timetrial-692ccfd7cb3d0.jpg",
+        "headline": "女子ツールが『第4ステージ個人TT』で大逆転——ロイセルが黄ジャージ奪取、王者フェランプレヴォは2分13秒遅れで自滅",
+        "layer1": "8/4ディジョンの21km個人TTでマルレン・ロイセル（モビスター）が優勝し総合首位に浮上。前日までの首位ハウグセットは3分05秒遅れ、連覇を狙うフェランプレヴォは2分13秒を失い総合争いから大きく後退した。",
+        "layer2": "先回りで潜ると——平坦パワー系コースはTTの実力者ロイセルの独壇場で、ヴォラリングもフェランプレヴォに17秒先行して好位置につけた。今日8/5の第5ステージは139.8km・登り8つ・獲得約2,900mの丘陵で、終盤10.5km地点に7.9%の壁——「より爆発力がある」ヴォラリングが仕掛ければ早くも動く。だが本当の決着は8/7・第7ステージ、『女子レース史上初のヴァントゥー山頂（約21km・平均8%）』。TTで開いた差がこの山でひっくり返るかが全て。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（第4ステージ結果）",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-de-france-femmes-2026-stage-4-marlen-reusser-take-over-yellow-jersey-with-key-time-trial-victory-as-ferrand-prevot-loses-minutes",
+            "d": "2026-08-04"
+          },
+          {
+            "t": "CyclingUpToDate（第5ステージ プレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-femmes-2026-stage-5-preview-profiles-favourites-and-predictions-chaos-expected-as-marlen-reusser-forced-to-defend-her-new-yellow-jersey",
+            "d": "2026-08-04"
+          }
+        ],
+        "status": "確定＝第4TT結果・総合順位（複数メディア一致）。曖昧＝第5ステージ／ヴァントゥーの展開は予想。"
+      },
+      {
+        "id": "20260805-pologne-milan-double",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-05/jonathan-milan-6a1c9890765da.jpg",
+        "headline": "ツール・ド・ポローニュ、ミランが『連日スプリント勝利』——マニエを再び完封、スプリント王の独走状態",
+        "layer1": "8/4の第2ステージ（シュチェチン）でヨナタン・ミラン（リドル・トレック）が2日連続の勝利。ゴール前400mのトラム軌道を越える180度コーナーで集団が乱れる中、ガルシア・コルティナの飛び出しに乗って大外から差し切り、ポール・マニエ（スーダル）を再び完封した。",
+        "layer2": "初日コシャリンに続く連勝で、ミランは今季スプリントで『マニエ／マルチェッリを一段上から抑える』形が定着している。危険なフィナーレを承知で最後まで踏み切れる勝負度胸こそ、いまのワールドツール最速スプリンターの証。総合は本格山岳日（8/7以降）まで持ち越しで、アルメイダらGC勢の出番はこれから——スプリンターの祭りが終われば一気に山へ動く。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（第2ステージ結果）",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-de-pologne-2026-stage-2-jonathan-milan-doubles-up-with-sprint-victory-in-szczecin",
+            "d": "2026-08-04"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-pologne-jonathan-milan-wins-fast-and-furious-sprint-on-stage-2/",
+            "d": "2026-08-04"
+          }
+        ],
+        "status": "確定＝勝者・着順・フィナーレ状況（複数メディア一致）。"
+      },
+      {
+        "id": "20260805-vuelta-uae-squad",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-06/tadej-pogacar-6a353346e1dd7.jpg",
+        "headline": "ブエルタ2026、UAEが『ポガチャルの布陣』を発表——アルメイダ／ヴァイン／シヴァコフら山岳精鋭で“GT三冠”へ",
+        "layer1": "UAEチーム・エミレーツXRGが8月頭に最終グランツールの8人を発表。ポガチャルを軸に、ジョアオ・アルメイダ、ジェイ・ヴァイン、パヴェル・シヴァコフ、パブロ・トーレス、ケヴィン・フェルマルケ、ドメン・ノヴァク、イヴォ・オリヴェイラを配した。開幕は8/22、ポガチャルの地元モナコ発。",
+        "layer2": "狙いは明快——ポガチャルが唯一未勝利のブエルタを獲れば『同一年ツール＋ブエルタ』、キャリアでのGT三冠が視野に入る。布陣はアルメイダ（自身もエース級）・ヴァイン・シヴァコフ・新星トーレスと“登れる駒”を厚く積んだ構成で、山頂フィニッシュ連発の超級コースを見据えたもの。前回覇者ヴィンゲゴーが不在の今年、王座は事実上空位——ポガチャル本命は動かない。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/official-tadej-pogacar-will-ride-the-2026-vuelta-a-espana-as-uae-team-emirates-xrg-rider-set-for-return",
+            "d": "2026-08-03"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/tadej-pogacar-confirmed-for-first-return-to-vuelta-a-espana-since-2019-grand-tour-debut/",
+            "d": "2026-08-03"
+          }
+        ],
+        "status": "確定＝出走・布陣。曖昧＝結果は予想。"
+      },
+      {
+        "id": "20260805-vingegaard-denmark",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-07/jonas-vingegaard-in-action-on-stage-6-of-the-2026-tour-de-france-6a4fda14ebe3c.jpg",
+        "headline": "ヴィンゲゴー、母国デンマークに現れ「休養が必要だった」——鎖骨骨折後まだ練習に戻れず、秋はロンバルディア／世界戦へ",
+        "layer1": "ツール第15ステージで総合2位から鎖骨骨折・手術に至ったヴィンゲゴー（ヴィスマ）が、故郷グリングオアでツアー・オブ・デンマークを前に姿を見せ「ツールのあと休養が必要だった。厳しい一年、厳しいレースだった」と語った。取材時点でまだ自転車の練習は再開していない。",
+        "layer2": "現実的な線を潜ると——ブエルタ（8/22開幕）は骨折から5週間しかなく防衛は非現実的。狙いは回復時間を取れる10月の『ロンバルディア』か、モントリオール世界戦（約10週の治癒が必要）に絞られる。今季すでにジロを制している男だけに、無理な秋の突貫より完治優先の判断。ポガチャル一強のブエルタに“空位”が生まれる背景そのもので、王者不在は今年のブエルタの物語を大きく変える。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（分析）",
+            "u": "https://cyclinguptodate.com/cycling/analysis-jonas-vingegaard-faces-major-decision-after-tour-de-france-crash-will-he-race-again-in-2026",
+            "d": "2026-07-31"
+          }
+        ],
+        "status": "確定＝本人コメント・練習未再開。曖昧＝秋の出走先は未確定。"
+      },
+      {
+        "id": "20260805-agxero-duro",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/08/AGXERO-DURO_KV_2.jpg",
+        "headline": "パナレーサーが『AGXERO DURO』を8/1発売——耐貫通+10%・転がり+9%、“タフ速”の新標準",
+        "layer1": "パナレーサーが次世代レーシングタイヤ「AGXERO」に耐久モデル『AGXERO DURO（エージーゼロ デューロ）』を追加し、8/1（土）に全国発売。耐貫通スコアは無印AGXERO比で10%以上向上、転がり性能は前DUROモデル比で9%以上改善したと公称する。",
+        "layer2": "中身を潜ると——AGXEROは4年ぶりフルモデルチェンジの完全新設計で、新コンパウンド「ZSG AGILE-X」＋極細コード「AX-α」を採用。DUROはその“速さ”を保ったまま耐パンクを底上げした位置づけで、通勤・ロングライド・軽グラベルまで一本で任せられる。プロが28→30cへ太くする流れと同じ『太く・強く・それでも速く』が舗装ロードの新常識になりつつあり、毎日乗る実用＋週末ロングといううちの客層にドンピシャの棚。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ（新製品）",
+            "u": "https://www.cyclesports.jp/news/new-product/166374/",
+            "d": "2026-08"
+          },
+          {
+            "t": "Bicycle Club／funq",
+            "u": "https://www.funq.jp/bicycle-club/article/1080690/",
+            "d": "2026-08-01"
+          },
+          {
+            "t": "Y’s Road 川崎（入荷）",
+            "u": "https://ysroad.co.jp/kawasaki/2026/07/31/189797",
+            "d": "2026-07-31"
+          }
+        ],
+        "status": "確定＝発売日・性能値（メーカー公称）。※実測の転がり・耐久は今後の実走で裏取り。"
+      },
+      {
+        "id": "20260805-shimano-price-aug",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "http://shop-jp.shimano.com/cdn/shop/articles/shimano_logo_1200x1200_51a8765f-65ed-4bbc-94e2-7c4b65ac6698.jpg?v=1785122615",
+        "headline": "【経営メモ・Xで駆け込み話題】シマノが8/1に『価格改定』——ペダル（PD系）を中心に値上げ、7/31注文まで旧価格",
+        "layer1": "シマノ公式サイクリングオンラインストアが8/1（土）0:00より一部製品を価格改定。対象はPD-ED500（8,281→8,694円）、PD-EH500（12,960→13,608円）などペダル（PD系）が中心で、7/31 23:59までの注文は旧価格が適用された。",
+        "layer2": "裏を取ると——今回はデュラエース／アルテグラのコンポ本体ではなく“ペダル多数＋一部小物”の数%規模の改定。ただ為替・原材料高を背景にシマノの値上げは近年ほぼ毎年恒例化しており、Xでは「値上げ前に駆け込み」の声が定番化している。経営目線では、小刻みな値上げは“買い時の口実”にもなる——「次はいつ上がるか分からない」は指名買いを後押しする接客トークとして使える。実際、8/1は後述のパナレーサー新作発売とも重なり、8月頭は動きが多い。",
+        "sources": [
+          {
+            "t": "シマノ公式（価格改定のお知らせ）",
+            "u": "https://shop-jp.shimano.com/blogs/news/price_update",
+            "d": "2026-08-01"
+          }
+        ],
+        "status": "確定＝公式の改定内容・日付。Xの反応は入口、価格は公式で裏取り済。"
+      },
+      {
+        "id": "20260805-china-wheels-ranking",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.shopify.com/s/files/1/0464/1098/9718/files/YOELEO.jpg?v=1645595904",
+        "headline": "【経営メモ・市場】中華カーボン完組が国内ランキング上位に定着——マイベスト7月はSUPERTEAMが筆頭、シマノ値上げで価格差はさらに開く",
+        "layer1": "マイベストの2026年7月カーボンホイールランキングや価格.comの通販一覧では、SUPERTEAM・pisipeなど中華勢が上位を占める状態が続く。シマノが8/1にパーツ値上げ、新デュラ完組は前後約43万円という“天井”の一方で、中華完組は10万円前後で存在感を強めている。",
+        "layer2": "経営に効く読みを潜ると——「安いから売れる」ではなく、UCI認証・実測重量開示・保証／代理店が揃ったブランドが“定番棚”に昇格したのが本質。うちが扱う8LIEN／CRW／GOOSYNN／NEPEST／YOELEO／PARTICLEは、まさにこの“認証＋裏取りできる中華”の帯にいる。大手が値上げするほど価格差は開き、「同性能を約1/3で、しかも整備と保証つき」という提案が刺さる。売価だけで戦わず、“語れる指名買い”に持ち込むのが勝ち筋。",
+        "sources": [
+          {
+            "t": "マイベスト（カーボンホイール 7月）",
+            "u": "https://my-best.com/21017",
+            "d": "2026-07"
+          },
+          {
+            "t": "価格.com（ホイール一覧）",
+            "u": "https://kakaku.com/ranking/bicycle/0009_0002/0034/",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝ランキング傾向・価格帯。曖昧＝順位は月次で変動。"
+      },
+      {
+        "id": "20260805-china-wheels-tier",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/01/zakki_C128.jpg",
+        "headline": "【初中級】“増えすぎた中華完組”の序列と選び方——軸は『安さ』でなくUCI認証・実測・保証の3点",
+        "layer1": "中華カーボン完組は今や5ブランド以上がひしめく状態。目安の序列は、上位＝Winspace（カーボンスポークで反応性◎、15〜20万円）、品質リーダー＝YOELEO（UCI／TUV認証）、コスパ王＝ELITEWHEELS（1,300g切りが5〜10万円台）、カスタム＝FARSPORTS、入門＝ICAN、といったところ。",
+        "layer2": "地雷を避ける実務を潜ると——見るのは3点。①『UCI認証（リムの刻印）』でブレーキ・強度の最低ラインを担保、②“公称でなく実測重量”を開示するショップ／ブランドを選ぶ、③国内保証・代理店の有無（割れた時に交換できるか）。この3つが揃えば9割の“地雷”は避けられる。逆に無名・激安・情報ゼロの一本は、浮いた数万円を安全と時間で払うことになる。最初の一本は「認証・実測・保証」で選ぶのが結局いちばん安い。",
+        "sources": [
+          {
+            "t": "BIKE MEMO（中華カーボンホイール格付け）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-04"
+          }
+        ],
+        "status": "曖昧＝序列は一般評価、価格は変動。※ブランド序列は目安として。"
+      },
+      {
+        "id": "20260805-2026-completes",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://giant-store.jp/imabari/files/2025/07/s-T-080-MY26-TCR-Advanced-Pro-FF_Color-D-Neon-Flux.jpg",
+        "headline": "【初中級】2026完成車の新常識——『カーボンホイール＆105 Di2』が標準に、最初の一台の見極め",
+        "layer1": "2026モデルでは、ジャイアントがTCR／Advanced系で初めてカーボンホイール（SLR系）を標準装備し105 Di2を搭載、トレックDomane SLも105 R7170 Di2＋ボントレガー・カーボンを積むなど、“ミドルグレードでカーボン完組＋電動変速”が当たり前になった。",
+        "layer2": "買う側の実利を潜ると——一昔前は「完成車のホイールは真っ先に替える消耗品」だったが、今は純正カーボンでも十分戦える水準。だから最初の一台は“フレーム＋変速”で選び、ホイールは急いで替えなくていい。そのうえで次の一手を考えるなら、純正の中級カーボンから『軽量・エアロの中華カーボン完組』へ、大手の約1/3価格で体感の大きい更新ができる——これが今の“賢い二段構え”。",
+        "sources": [
+          {
+            "t": "ジャイアントストア（2026カーボンロード）",
+            "u": "https://giant-store.jp/imabari/bike/35016/",
+            "d": "2026-07"
+          },
+          {
+            "t": "イチジョウ（トレック2026モデル）",
+            "u": "https://www.1jyo.com/news/?p=99501",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝各モデルの構成。曖昧＝“標準化”は市場傾向としての表現。"
+      }
+    ]
+  },
+  {
     "date": "2026-08-04",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。今日は『昨日・今日』発のレースが濃くて、女子ツールで史上最長88kmの独走という“事件”が起きました。新鮮ネタ優先で本数は絞り、市場は経営メモとして深掘りしています。",
     "cards": [
