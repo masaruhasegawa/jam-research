@@ -1,5 +1,237 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-08-06",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。女子ツールは第5ステージで連覇王者フェランプレヴォが陥落、「私のツールは終わった」——決着は明日8/7『史上初の女子ヴァントゥー』。国内は8/6更新の売れ筋で中華完組が定位置、機材はシマノ13速の新リークが出ました。鮮度優先で厳選しています。",
+    "cards": [
+      {
+        "id": "20260806-tdff-st5-vollering",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-08/captura-de-ecra-2026-08-05-165855-6a735ddbe06ef.png",
+        "headline": "女子ツール『第5ステージ』で連覇王者フェランプレヴォが陥落——「私のツールは終わった」、ヴォラリング勝利もマイヨはロイセルが死守",
+        "layer1": "8/5・第5ステージ（ボージョレの丘陵140km）でデミ・ヴォラリング（FDJ-SUEZ）が終盤アタックから3人スプリントを制して優勝。連覇王者ポーリーヌ・フェランプレヴォは大きく遅れ、総合17位・首位から約5分に転落し「私のツールは終わった」と語った。",
+        "layer2": "潜ると——首位マルレン・ロイセル（モビスター）はマイヨジョーヌを死守したが、ヴォラリングとの差はわずか10秒（ボーナス込み・媒体間で微差）まで縮小。今日の好走でニエヴィアドマが総合3位（+1分17秒）に浮上した。決着は明後日8/7・第7ステージ『女子レース史上初のヴァントゥー山頂（ベドワン側から15.7km・平均8.8%）』——TTと丘で開いた10秒差が、あの『禿げ山』でひっくり返るかが全て。純クライマーのヴォラリングが、TTに強いロイセルを標高で削り切れるか。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（第5ステージ結果）",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-de-france-femmes-2026-stage-5-vollering-wins-chaotic-day-drops-ferrand-prevot-but-sees-reusser-keep-yellow-jersey",
+            "d": "2026-08-05"
+          },
+          {
+            "t": "CyclingUpToDate（総合順位アップデート）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-femmes-2026-classifications-update-stage-5-ferrand-prevot-5-minutes-away-from-reusser-vollering-shortens-gap-as-gc-is-turned-on-its-head",
+            "d": "2026-08-05"
+          },
+          {
+            "t": "ProCyclingUK（第6・第7プレビュー）",
+            "u": "https://procyclinguk.com/tour-de-france-femmes-2026-stage-6-preview-one-final-chance-before-mont-ventoux/",
+            "d": "2026-08-05"
+          }
+        ],
+        "status": "確定＝ステージ結果・総合順位。差の秒数はボーナス込みで媒体間に微差あり。"
+      },
+      {
+        "id": "20260806-tdff-st6-ventoux",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://procyclinguk.com/wp-content/uploads/2026/08/Demi-Vollering-2026-Tour-de-France-Stage-5-Getty.avif",
+        "headline": "今日は逃げ屋の『最後のチャンス』、明日は『初の女子ヴァントゥー』——第6ステージ153kmと運命の第7ステージ",
+        "layer1": "8/6・第6ステージ（モンブリゾン〜トゥルノン＝シュル＝ローヌ、153.4km・獲得約2,500m・6つのカテゴリー山）は逃げ切りが最有力。GC勢が刀を抜くには中途半端な地形で、明日の決戦前の『中継ぎ日』になりやすい。",
+        "layer2": "本番は8/7・第7ステージ（ラ・ヴルト〜ヴァントゥー、146.8km・獲得約3,565m）。締めはベドワン側からの15.7km・平均8.8%——レース史上初の女子ヴァントゥー山頂フィニッシュ。首位ロイセルと2位ヴォラリングの差はわずか10秒、3位ニエヴィアドマも+1分17秒圏内で、『ウニプエルト（1つの巨大峠が全て）』の日。逃げ屋は今日を逃すと勝機がほぼ消えるため、朝から強力な逃げが形成される可能性が高い。",
+        "sources": [
+          {
+            "t": "ProCyclingUK（第6ステージ・ヴァントゥー詳細）",
+            "u": "https://procyclinguk.com/tour-de-france-femmes-2026-stage-6-preview-one-final-chance-before-mont-ventoux/",
+            "d": "2026-08-05"
+          },
+          {
+            "t": "CyclingUpToDate（第6ステージ プレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-femmes-2026-stage-6-preview-profiles-favourites-and-predictions-gc-rumble-on-explosive-day",
+            "d": "2026-08-05"
+          }
+        ],
+        "status": "確定＝コース・距離・勾配。順位差は8/5時点。"
+      },
+      {
+        "id": "20260806-pologne-milan-hattrick",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://racing.trekbikes.com/wp-content/uploads/2026/08/GettyImages-2289193879-scaled-e1785949903157-1600x800-c-center.jpg",
+        "headline": "ミランが『開幕3連勝』でツール・ド・ポローニュを蹂躙——今日は一転、大会唯一の山頂決戦でGCが爆発する",
+        "layer1": "ヨナタン・ミラン（リドル・トレック）が第3ステージ（ゴジュフ〜ジェロナ・グラ、193.5km）も集団スプリントを制し、コシャリン・シュチェチンに続く開幕3連勝＝ハットトリック。リーダージャージも堅持した。「調子は良いと分かっている。このレースへ本気で追い込んできた」と本人。",
+        "layer2": "だが今日8/6・第4ステージ（ジャガン〜カルパチ、175.5km）は大会唯一の山頂フィニッシュ。締めのカルパチ登坂は7km・平均6.2%、山頂は残り4.5km地点、その先の残り1.1km（平均8%・瞬間15%）で『クライマーのスプリント』になりやすい。総合本命はUAEのアルメイダだが、同僚ヤン・クリステン、ブイトラゴ（バーレーン）、フィッシャー＝ブラック（ボーラ）が刺客。スプリンター天国から一転、ここでGCが一気に動く。",
+        "sources": [
+          {
+            "t": "Trek Racing（ミラン3連勝）",
+            "u": "https://racing.trekbikes.com/stories/lidl-trek/three-in-a-row-jonathan-milan-completes-tour-de-pologne-hat-trick",
+            "d": "2026-08-05"
+          },
+          {
+            "t": "CyclingUpToDate（第4ステージ プレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-pologne-2026-stage-4-preview-profiles-favourites-tv-online-and-predictions-gc-to-implode-on-races-sole-mountain-stage",
+            "d": "2026-08-05"
+          }
+        ],
+        "status": "確定＝3連勝・コース。第4ステージGC結果は本日夜（JST）に判明。"
+      },
+      {
+        "id": "20260806-vuelta-pogacar-triple",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cyclingmagazine.ca/wp-content/uploads/2026/08/PogacarVuelta_copy-1-1200x675.jpg",
+        "headline": "ブエルタ2026、ポガチャルの参戦が正式確定——狙うは『同年ダブル史上4人目』、北部を外した異例ルート",
+        "layer1": "UAEチーム・エミレーツXRGが正式にロースターを発表し、ツール5勝目のタデイ・ポガチャルがブエルタ（8/22モナコ発〜9/13グラナダ着、全3,275km）へ参戦。唯一未勝利のグランツールで、三大ツール制覇に王手をかける。ブエルタ出走は2019年（総合3位）以来。",
+        "layer2": "潜ると——ツールとブエルタの『同年ダブル』を達成したのは史上アンクティル／イノー／フルームの3人だけ。今年のルートはスペイン北部の登坂密集区間を外した異例構成で、ポガチャルの居住地モナコ発。ライバルはログリッチ、クス、そして同僚アルメイダら。本来王座を争うはずのヴィンゲゴーはツール第15ステージの鎖骨骨折で今季復帰が白紙——ブエルタ連覇は絶望的で、王座は空位のまま開幕を迎える。",
+        "sources": [
+          {
+            "t": "Canadian Cycling Magazine（ポガチャル参戦確定）",
+            "u": "https://www.cyclingmagazine.ca/sections/news/tadej-pogacar-confirmed-for-2026-vuelta-a-espana/",
+            "d": "2026-08-03"
+          },
+          {
+            "t": "BikeRadar（ルート・日程）",
+            "u": "https://www.bikeradar.com/news/tadej-pogacar-set-to-ride-2026-vuelta-a-espana",
+            "d": "2026-08-03"
+          },
+          {
+            "t": "CyclingUpToDate（ヴィンゲゴー去就分析・補足）",
+            "u": "https://cyclinguptodate.com/cycling/analysis-jonas-vingegaard-faces-major-decision-after-tour-de-france-crash-will-he-race-again-in-2026",
+            "d": "2026-07-31"
+          }
+        ],
+        "status": "確定＝出場・日程・距離。ルート評は媒体解説。"
+      },
+      {
+        "id": "20260806-shimano-13s-freehub-leak",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/08/2026-Shimano-13-opener-1024x683.jpeg",
+        "headline": "【機材リーク】シマノ13速、『新フリーハブ規格』の影——DT Swissの製品ページに『Shimano 13-speed』表記が出現",
+        "layer1": "8/5、独ネット店Bike-DiscountのDT Swiss「G 1800 Spline」グラベルホイールのフリーハブ選択肢に、SRAM XDRや現行マイクロスプライン12速と並んで『Shimano 13-speed』の表記が掲載されているのをRedditユーザーが発見、BikeRadarが報じた。",
+        "layer2": "潜ると——製品コードは「ASL13R」。現行12速マイクロスプラインが「ASL12R」なので、13速は『まったくの新規』でなく既存インターフェースの発展形の可能性が高い（＝手持ちのマイクロスプライン系ホイールが完全に無駄にはならないかも）。ただしロード／グラベルどちら向けか、デュラエースR9300本体の発売時期は不明のまま。カンパ・SRAMは既に13速を持ち、シマノだけが未発表——今年2月にはE-Tubeアプリのギア使用率表示に『13速目』が現れており、リークは着実に積み上がっている。",
+        "sources": [
+          {
+            "t": "road.cc（DT Swiss 13速フリーハブ表記リーク）",
+            "u": "https://road.cc/tech-news/shimano-13-speed-leak-on-retail-website-suggests-a-possible-new-freehub-standard",
+            "d": "2026-08-05"
+          },
+          {
+            "t": "biketips（E-Tubeアプリ 13速目・補足）",
+            "u": "https://biketips.com/shimano-13-speed-dura-ace-r9300-e-tube-leak-2026/",
+            "d": "2026-05-05"
+          }
+        ],
+        "status": "確定＝掲載事実。※製品仕様・発売時期は未確定（要裏取り）。"
+      },
+      {
+        "id": "20260806-china-wheel-ranking",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "http://innertop.com/wp-content/uploads/2018/10/chinesecarbonwheels.png",
+        "headline": "【経営メモ・市場】8/6更新の売れ筋——中華カーボン完組が『定位置』、SUPERTEAM ¥3.9万 vs シマノ完組¥15〜21万の価格差",
+        "layer1": "価格.com・マイベストとも8/6更新のホイール人気ランキングで、SUPERTEAM（45/50/65mm・約¥38,874〜）が最上位、ELITEWHEELS（50mmディスク・¥64,499）も上位に定着。中華カーボン完組が国内の『定番棚』になっている。",
+        "layer2": "潜ると——同じランキング上位に並ぶシマノは、アルテグラWH-R8170-C36が¥148,500、デュラエースWH-R9270-C50が¥209,000。つまり同カテゴリで中華完組はシマノの約1/4〜1/5価格。9月には新デュラ完組（カーボンスポーク）がさらに『天井』を上げる。うちの取扱帯（8LIEN／CRW／YOELEO等）の勝ち筋は値引き競争でなく、この価格差を前提にした『指名買い＋整備・保証』の提案にある。安いから、でなく『うちで買うと安心だから』を作れるか。",
+        "sources": [
+          {
+            "t": "価格.com ホイール人気ランキング（8/6時点）",
+            "u": "https://kakaku.com/ranking/bicycle/0009_0002/0034/",
+            "d": "2026-08-06"
+          },
+          {
+            "t": "マイベスト カーボンホイール（8/6更新）",
+            "u": "https://my-best.com/21017",
+            "d": "2026-08-06"
+          }
+        ],
+        "status": "確定＝掲載価格・順位（8/6時点）。"
+      },
+      {
+        "id": "20260806-x-30man-value",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://img.my-best.com/product_images/2c286ddf323d62743143ecb36080a534.jpg?ixlib=rails-4.3.1&q=45&lossless=0&w=160&h=160&fit=clip&s=47a4798140bcb3a4168afad41591799d",
+        "headline": "【Xで話題】「ロードに30万は安い？高い？」金銭感覚論争——一方で『税込30万以下』の実力機が充実",
+        "layer1": "X（旧Twitter）やQ&Aで「自転車に30万は高すぎ」派と「趣味としてはむしろ安い（クルマは乗り出し200万〜）」派の金銭感覚論争が再燃。大人が没頭できる対象としてのコスパをどう見るかで意見が割れている。",
+        "layer2": "裏を取ると——実際の相場は『カーボン完成車は¥30万台後半〜40万が主流』で、30万はその下限。だが『税込30万以下』帯は年々充実し、ジャイアントTCRアドバンスド3 KOMがシマノCUES搭載で¥275,000、ビアンキVia Nirone 7（アルミ＋カーボンフォーク）¥143,000など『最初の1台』の実力機が揃う。マサル的な着地：予算30万でも、完成車は堅実機に抑えてホイール（中華カーボン）へ回すと『体感の伸び』が最も大きい——この提案が接客で効く。",
+        "sources": [
+          {
+            "t": "マイベスト ロードバイク（7/31更新・30万以下の実力機）",
+            "u": "https://my-best.com/21173",
+            "d": "2026-07-31"
+          },
+          {
+            "t": "サイクルスポーツ（税込30万円以下 注目ロード）",
+            "u": "https://www.cyclesports.jp/topics/155380/",
+            "d": "2026-07"
+          }
+        ],
+        "status": "曖昧＝金銭感覚は世論。※Xの論争は入口・要裏取り、価格と実力機の相場はメディアで確認済み。"
+      },
+      {
+        "id": "20260806-beginner-tire-rim-hookless",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/07/Tour-de-France-tech-debuts-July-2026-1024x683.jpg",
+        "headline": "【初中級】タイヤの新常識は『太さ×リム内幅』——新デュラは23mm内幅・28〜30c前提、フックレスは相性に注意",
+        "layer1": "近年のホイールはリム内幅が広がり（7/29発表の新デュラ完組WH-R9370は内幅23mm・前作+2mmで28〜30mmタイヤ最適化）、『太いほど正義』でなく『リム内幅×タイヤ幅』の組み合わせで乗り味・安全が決まる時代になった。",
+        "layer2": "潜ると——特に中華カーボンに多い『フックレス（フックなし）リム』は、対応タイヤと指定空気圧を守らないとビードが外れる事故リスクがある（2024年UAEツアーでも実例）。2026年ツールでもフックレス採用は18チーム中4チームのみと、プロですら慎重だ。初中級の実務3点：①メーカー互換表でタイヤ×リムの組合せを必ず確認、②指定上限空気圧を超えない、③迷うならフック付きリム＋25〜28cが無難。内幅21mm世代のホイールに32cを組むなど『広すぎ』も禁物。",
+        "sources": [
+          {
+            "t": "road.cc（新デュラ完組 内幅23mm・28-30c最適化）",
+            "u": "https://road.cc/tech-news/shimano-launches-lighter-more-aero-dura-ace-wheels",
+            "d": "2026-07-29"
+          },
+          {
+            "t": "しがないリーマンと自転車の話（TDF2026フックレス採用率・補足）",
+            "u": "https://www.chn-bikes.com/archives/40590030.html",
+            "d": "2026-07-11"
+          }
+        ],
+        "status": "確定＝互換の考え方・採用率。※製品個別の可否は各社互換表で確認。"
+      },
+      {
+        "id": "20260806-china-wheel-real-performance",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://www.yoeleojapanshop.com/cdn/shop/products/sat-c38-pro-carbon-wheels-1_1024x1024.jpg?v=1680779595",
+        "headline": "中華カーボン完組の『実測』実力——軽量化は本物、だが『剛性』と『下りのリム発熱』は正直に見る",
+        "layer1": "純正の『鉄下駄』からの交換で中華カーボン完組は1kg超の軽量化＋高いコスパを実現——ただし長期実測レビューでは『剛性は一流ブランドに一歩譲る』『長い下りでリムが発熱』など、正直な弱点も報告されている。",
+        "layer2": "潜ると——『当たり』を引く実務基準は3つ。①UCI/ISO等の認証と実測重量の開示、②下りの発熱対策（ディスクブレーキならリム発熱の問題は概ね解消）、③保証・国内代理店の有無。価格は¥3.9〜6.4万帯（SUPERTEAM/ELITEWHEELS）から¥13〜18万帯（Winspace Hyper等）まで序列がある。『最安』に飛びつかず、『用途×保証』で1〜2段上を選ぶのが後悔しないコツ。うちの8LIEN／CRW／YOELEOはこの『認証・保証つき中華』の中核で、まさにこの弱点を潰しにいく帯。",
+        "sources": [
+          {
+            "t": "価格.com ホイール人気ランキング（序列・8/6時点）",
+            "u": "https://kakaku.com/ranking/bicycle/0009_0002/0034/",
+            "d": "2026-08-06"
+          },
+          {
+            "t": "innertop（中華カーボン長期実測レビュー・補足）",
+            "u": "https://innertop.com/carbonwheel/",
+            "d": "2024-04"
+          }
+        ],
+        "status": "確定＝価格帯・一般特性。個体差あり、実測値は製品による。"
+      }
+    ]
+  },
+  {
     "date": "2026-08-05",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。女子ツールが第4ステージの個人TTで大逆転——ロイセルが黄ジャージ、王者フェランプレヴォは自滅。国内は8/1にシマノとパナレーサーが同時に動きました。鮮度優先で厳選しています。",
     "cards": [
