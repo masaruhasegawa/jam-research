@@ -1,5 +1,203 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-08-07",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、8本。女子ツールはいよいよ今日8/7、『史上初の女子ヴァントゥー山頂』で総合決着——昨日はキム・ル・クールが荒れた1日を制し、ロンゴボルギーニが表彰台圏内へ。ポローニュはレンメンがプロ初勝利も、本命アルメイダが大クラッシュで負傷脱落。国内はマイベスト8/6更新で中華完組が『1位』続投。鮮度優先で厳選しました。",
+    "cards": [
+      {
+        "id": "20260807-tdff-ventoux-decider",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-08/captura-de-ecra-2026-08-06-165244-6a74addb56aef.png",
+        "headline": "今日8/7『史上初の女子ヴァントゥー山頂』で総合決着——昨日第6はキム・ル・クールが荒れた1日を制し、ロンゴボルギーニが表彰台に肉薄",
+        "layer1": "8/6・第6ステージ（マッシフサントラルの丘陵153.4km）は逃げ切りでキム・ル・クール（AGインシュアランス）が優勝。GC勢の中ではエリーザ・ロンゴボルギーニがロイセル／ヴォラリング集団に26秒差をつけ、総合表彰台圏内へ浮上。ファンデルブレゲンは残り約80kmで脱落する荒れ模様だった。首位ロイセルはマイヨジョーヌを死守。そして今日8/7、第7ステージ（144.2km）が『レース史上初の女子ヴァントゥー山頂』で総合を決める。",
+        "layer2": "潜ると——ヴァントゥーはベドワン側から全長約21km・平均8%、最初の15kmが『ほぼ10%』の連続急勾配、その先は森林限界を越えた“禿げ山”で風が牙をむき、最後にまた立つ。プレビューの本命はデミ・ヴォラリング（純クライマーの単独勝ち予想）。焦点は、第4のTTでタイムを稼いだ首位ロイセル（TTスペシャリスト）を、ヴォラリングがこの標高で削り切れるか。連覇王者フェランプレヴォは第5で崩落し『私のツールは終わった』と既に総合を失っており、勝負は“登坂力 vs TT貯金”の一点。※GCの正確な秒差は媒体間で微差・確定順位は本日ステージ後に。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（第6ステージ結果・ル・クール勝利）",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-de-france-femmes-2026-stage-6-kim-le-court-wins-wild-day-in-massif-central-as-elisa-longo-borghini-edges-closer-to-the-podium",
+            "d": "2026-08-06"
+          },
+          {
+            "t": "CyclingUpToDate（第7ステージ・ヴァントゥー プレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-femmes-2026-stage-7-preview-profiles-favourites-and-predictions-vollering-and-reusser-battle-for-tour-victory-on-mont-ventoux",
+            "d": "2026-08-07"
+          },
+          {
+            "t": "Cyclingnews（第6ステージ ル・クール勝利）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-france-femmes-kim-le-court-pienaar-surges-from-small-pack-for-stunning-win-on-stage-6/",
+            "d": "2026-08-06"
+          }
+        ],
+        "status": "確定＝第6はル・クール勝利・ロンゴボルギーニ+26秒でGC浮上・ロイセル黄維持／確定＝第7は本日8/7ヴァントゥー山頂で総合決着。曖昧＝GC正確秒差はステージ後に確定（※要裏取り）"
+      },
+      {
+        "id": "20260807-pologne-st4-lemmen-almeida-crash",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/97akJXsXB3uQpvw2F5L2rA-2040-80.jpg",
+        "headline": "ツール・ド・ポローニュ第4、レンメンが『プロ初勝利』で総合首位に——だが40分中断の大クラッシュで本命アルメイダが負傷脱落、UAEに暗雲",
+        "layer1": "8/6・第4ステージ（ジャガン→カルパチュ、山頂フィニッシュ）はバルト・レンメン（ヴィスマ・リースアバイク）が最後の登り（約7km・6.1%）でブレナー／スカローニを振り切りプロ初勝利。総合はレンメンが2位スカローニに6秒差でリード、ブレナー（トゥドール）が+26秒の3位。だがこの日は残り約40kmで30〜40人を巻き込む大落車が発生し、レースは約40分中断。総合本命ジョアン・アルメイダ（UAE）も巻き込まれ、大きな裂傷を負って一度は再スタートしたものの、最後の勝負どころ前に脱落した。",
+        "layer2": "潜ると——安全確保のため終盤のカテゴリー1『ボロヴィツェ』が水濡れ下りの危険でコースから外され、ステージは短縮された。ミランが握っていた黄ジャージは山岳日で当然のように動き、無名のドメスティーク上がりレンメンが主役に躍り出た。含みは“その先”——アルメイダは2週間後のブエルタでポガチャルを支える山岳の右腕。ここでの落車・裂傷が回復にどう響くかは要観察（脱落＝ポローニュ総合の望みは消滅、ブエルタへの状態は本日以降の続報待ち・※要裏取り）。",
+        "sources": [
+          {
+            "t": "Cyclingnews（第4ステージ レンメン勝利・落車）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-pologne-bart-lemmen-holds-off-christian-scaroni-for-victory-on-shortened-stage-4-clouded-by-major-crash/",
+            "d": "2026-08-06"
+          },
+          {
+            "t": "Velo101（第4ステージ・アルメイダ落車）",
+            "u": "https://www.velo101.com/courses/tour-de-pologne/4eme-tour-de-pologne-bart-lemmen-resiste-au-retour-de-scaroni/",
+            "d": "2026-08-06"
+          }
+        ],
+        "status": "確定＝レンメン優勝・総合首位（+6秒スカローニ）・大落車で40分中断＆コース短縮・アルメイダ負傷脱落。曖昧＝アルメイダのブエルタへの影響（※要裏取り）"
+      },
+      {
+        "id": "20260807-vuelta-2weeks-uae-alarm",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-06/tadej-pogacar-6a353346e1dd7.jpg",
+        "headline": "次のグランツール『ブエルタ』まで2週間——8/22モナコ発、ヴィンゲゴー不在で赤ジャージは空位、王手のポガチャルに“サポート”の不安が差す",
+        "layer1": "ブエルタ2026は8/22モナコ発〜9/13グラナダ着。ポガチャルの参戦は正式で、勝てば『同年グランツール三冠』かつ唯一未勝利のブエルタ制覇。だが今日ポローニュで右腕アルメイダが落車負傷し、UAEの山岳サポート層に早くも黄信号。迎え撃つ最右翼は“ブエルタ4勝”のログリッチで、本人は「5勝目を争えたら最高」と前向き。ツールで鎖骨骨折のヴィンゲゴーは連覇防衛が絶望的で、狙いは秋の世界戦に傾く。",
+        "layer2": "潜ると——コースは総獲得58,000m超・山頂フィニッシュ7回・TT2本の“登坂偏重”で、単騎でも強いポガチャル向きに見える一方、3週間を支える山岳アシスト（アルメイダ／ヴァイン／シヴァコフら）の頭数と状態が生命線。ヴィンゲゴー欠場で“真っ向勝負”の絵は薄れ、赤ジャージの主役はポガチャル、対抗はログリッチ＋ガル／スケルモースら若手という構図。マサル的な着地点は「三冠が懸かる大会＝視聴と機材露出が跳ねる」＝秋商戦の“語れるネタ”として今から仕込める。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（ポガチャル ブエルタ参戦 正式）",
+            "u": "https://cyclinguptodate.com/cycling/official-tadej-pogacar-will-ride-the-2026-vuelta-a-espana-as-uae-team-emirates-xrg-rider-set-for-return",
+            "d": "2026-08-06"
+          },
+          {
+            "t": "Cyclingnews（ポガチャルが直面する5つの課題）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/unstoppable-the-five-biggest-challenges-that-tadej-pogacar-will-face-at-this-years-vuelta-a-espana/",
+            "d": "2026-08-06"
+          },
+          {
+            "t": "Cyclingnews（第4ステージ アルメイダ落車）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-pologne-bart-lemmen-holds-off-christian-scaroni-for-victory-on-shortened-stage-4-clouded-by-major-crash/",
+            "d": "2026-08-06"
+          }
+        ],
+        "status": "確定＝ブエルタ8/22モナコ発・ポガチャル参戦正式・ヴィンゲゴー欠場濃厚・ログリッチ有力。曖昧＝アルメイダ負傷の影響とUAE最終メンバー（※要裏取り）"
+      },
+      {
+        "id": "20260807-mybest-carbon-ranking-superteam",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://img.my-best.com/contents/a5deedfdf9b9f9b8ff2d2c0f5d420ae9.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=a2c0a254995862aaee35d6d8903f8904",
+        "headline": "【経営メモ・市場】マイベスト8/6更新の売れ筋——カーボンホイールは『SUPERTEAM ¥3.76万』が1位続投、上位3つが9万円未満",
+        "layer1": "マイベストの『ロードバイク用カーボンホイール人気ランキング』が8/6付で更新。1位は SUPERTEAM のホイールセット ¥37,619、2位も SUPERTEAM 系（Windbreak Bike扱い）¥39,899、3位 ELITEWHEELS ¥87,996——上位3つが9万円未満で、Fulcrum（¥355,490）ら大手プレミアムと対照的な並びになった。国内の“最初のカーボン”入口が、はっきり中華の超低価格帯に寄っている。",
+        "layer2": "潜ると——ここで注意したい棲み分け：ランキング1〜2位の『¥3〜4万』帯は、うちが推すUCI認証・実測公称・保証つきの『¥10万前後』帯（8LIEN／CRW／GOOSYNN等）とは別物。前者は“とにかく安くカーボン”の入口、後者は“レースで踏める・下りで焼けない・保証で守れる”実戦帯。経営の勝ち筋は「¥3万の存在を否定する」のではなく、『¥3万と¥10万で何が変わるか（剛性・リム発熱・認証・アフター）』を語れる接客で“指名買い”に引き上げること。ランキング上位＝客の検索導線なので、店頭POPやブログの比較記事はこの価格帯対比で組むと刺さる。",
+        "sources": [
+          {
+            "t": "マイベスト（カーボンホイール人気ランキング・8/6更新）",
+            "u": "https://my-best.com/21017",
+            "d": "2026-08-06"
+          }
+        ],
+        "status": "確定＝8/6更新でSUPERTEAM ¥37,619が1位・上位3点が9万円未満。補足＝各モデルの実測・認証はメーカー公称ベース（店頭訴求は実測/保証で裏取り推奨）"
+      },
+      {
+        "id": "20260807-market-clearance-price-split",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://www.1jyo.com/wp/wp-content/uploads/2025/07/0b76e7f9e59a36ffe184635a5a349281.jpg",
+        "headline": "【経営メモ・市場】8月は『型落ち処分の入口』——一方で価格戦略は二極化、シマノは8/1値上げ・トレックは主力を“値下げ”",
+        "layer1": "季節要因では、8〜10月が旧モデル処分のピークで、型落ちは新品・保証つきで20〜40%引きが出やすい“買い手市場”の入口。だがメーカーの価格戦略は割れている：シマノは8/1からペダル等スペアパーツを中心に価格改定（値上げ）を実施。対してトレックは2026年モデルの一部を値下げし、例として Madone SL 5 Gen8 が¥449,000→¥399,000、Madone SL 7 Gen8 が¥950,000→¥850,000へ。",
+        "layer2": "潜ると——この“上（コンポ／ハイエンド）は値上げ、下〜中（型落ち完成車）は値下げ”の二極化は、うちの棚づくりに直結する。①シマノ値上げは補修・整備原価の上昇＝工賃見直しと在庫の先押さえの理由になる。②大手の型落ち完成車が20〜40%引きで出ると、“完成車の値引き合戦”には正面から乗らないのが定石——うちの勝ち筋は完成車の値引きでなく『中華カーボン完組へのアップグレード＋整備＋語れる接客』で単価と満足を積むこと。値下げ表示に釣られた客に、ホイール・タイヤ・フィッティングで“体感の差”を売る導線を用意しておく。",
+        "sources": [
+          {
+            "t": "シマノ（価格改定のお知らせ・8/1〜）",
+            "u": "https://shop-jp.shimano.com/blogs/news/price_update",
+            "d": "2026-08-01"
+          },
+          {
+            "t": "一条サイクル（トレック2026 価格改定・値下げ紹介）",
+            "u": "https://www.1jyo.com/news/?p=99501",
+            "d": "2026-07"
+          },
+          {
+            "t": "Pedalism.jp（型落ちセールの狙い目時期 2026年版）",
+            "u": "https://pedalism.jp/road-bike-sale-timing-when-cheap/",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝シマノ8/1値上げ・トレック主力の値下げ額。補足＝“8〜10月が処分ピーク”は季節通例（各店の在庫状況で幅あり）"
+      },
+      {
+        "id": "20260807-parts-wh-r9370-lineup",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/07/Shimano-Dura-Ace-WH-R9370-July-2026.jpg",
+        "headline": "【続報・パーツ】新デュラ完組『WH-R9370』の中身が判明——C36/C50/C60＋TT用C99・リアディスク、28〜30cタイヤ最適化で“登坂の軽快感”",
+        "layer1": "先日の“カーボンスポーク×約43万円”報の続報。シマノ新デュラエース完組のラインナップが具体化し、ロード用は C36／C50／C60 の3リムハイト、TT・トライアスロン用に C99フロント＋リアディスクを用意。いずれも28〜30mmタイヤ最適化で、旧世代比の軽量化により『登坂での軽快感と鋭い加速』を打ち出している。",
+        "layer2": "潜ると——ここで読み取るべきは“太タイヤ時代の確定”。シマノ自身が最上位完組を『28〜30c前提』で設計＝プロも市販もこの幅が標準という宣言に近い。フックレス一辺倒への揺り戻し（フックビードで太タイヤの相性トラブルを避ける流れ）とも符合する。うちの実務的な含み：新デュラ完組は前後で約43万円の“天井”。同じ50mm前後・28〜30c対応を、中華完組（8LIEN／CRW等）は約1/3価格で提供できるので、『新デュラの設計思想（太タイヤ×エアロ×軽量）を、手の届く価格で』という提案がそのまま刺さる。",
+        "sources": [
+          {
+            "t": "road.cc（新デュラ完組 WH-R9370 詳細）",
+            "u": "https://road.cc/tech-news/shimano-launches-lighter-more-aero-dura-ace-wheels",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝ラインナップ（C36/C50/C60＋C99/リアディスク）・28〜30c最適化・約43万円の価格帯。※初出は7月末、本カードは“中身（構成）”の続報整理"
+      },
+      {
+        "id": "20260807-beginner-steep-climb-howto",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-08/photo-collage-6a74b3e4c797e.png",
+        "headline": "【初中級】プロが今日『平均8%・最初の15kmはほぼ10%』のヴァントゥーを登る日——10%超の激坂は“根性”でなく『入りを抑えて後半上げる』で速くなる",
+        "layer1": "今日8/7、女子ツールが登るヴァントゥーは全長約21km・平均8%、序盤15kmが『ほぼ10%』の連続急勾配。プロでも“入りをどう耐えるか”が全て。初中級の10%坂も原理は同じで、坂に入った瞬間に力むと森林限界を越える前に脚が終わる。序盤を1〜2枚軽く・心拍を上げすぎず入り、勾配が緩む区間で踏み直すのが定石。",
+        "layer2": "潜ると——具体策は3つ。①ギアは“もう1枚軽い”を常に持っておく（フロントとの兼ね合いで、激坂常用なら34×34以上の軽さを確保。11速でも十分だが、脚が売り切れる人はワイドスプロケが効く）。②ケイデンスは無理に高く回さず、自分が“会話ぎりぎり”で保てる強度（パワーがあればFTPの85〜90%上限）で我慢し、緩斜面で解放。③ヴァントゥーのような“森を抜けたら風と直射”区間は、体温上昇で出力が落ちる——序盤で突っ込みすぎないことが結果的に暑さ対策にもなる。激坂は“前半の貯金”でなく“前半の節約”が速い。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（第7ステージ ヴァントゥー勾配プロフィール）",
+            "u": "https://cyclinguptodate.com/cycling/tour-de-france-femmes-2026-stage-7-preview-profiles-favourites-and-predictions-vollering-and-reusser-battle-for-tour-victory-on-mont-ventoux",
+            "d": "2026-08-07"
+          }
+        ],
+        "status": "確定＝ヴァントゥーの距離/勾配（約21km・平均8%・序盤ほぼ10%）。初中級向けの走法は一般的セオリー（数値は目安）"
+      },
+      {
+        "id": "20260807-xbuzz-cheap-china-wheel-debate",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/01/zakki_C128.jpg",
+        "headline": "【Xで話題・ホイール】“国内1位が¥3.7万の中華ホイール”は『買い』か『地雷』か——見極めは価格でなく《UCI認証・実測・保証》の3点",
+        "layer1": "マイベスト8/6の1位が¥3.76万のSUPERTEAM——この“激安カーボン完組”を巡り、Xでは毎度『コスパ最強』派と『命を乗せる物に3万は怖い／当たり外れが激しい』派の論争が起きる。バズは“みんな一度は迷う”証拠で、記事・ショートで伸びやすいテーマ。（Xは入口・裏取りはランキングと各社スペック）",
+        "layer2": "潜ると——“¥3万台”と“¥10万前後”は同じ『中華カーボン』でも中身が違う。地雷を避ける軸は『安さ』でなく3点：①UCI認証（フレーム/ホイールの安全試験を通したか）②実測重量（公称でなく実測を出しているか）③保証・国内代理店（割れた時に誰が対応するか）。¥3万台はこの3点が“曖昧なことが多い”ゾーンで、通勤・入門の割り切りなら十分でも、下りを攻める・レースで踏むなら不安が残る。うちの取扱帯（8LIEN／CRW／GOOSYNN／NEPEST／FARSPORTS／PARTICLE等の¥10万前後）は、まさにこの3点を満たすことで“¥3万との差額”を説明できる。接客では「安い中華＝悪」ではなく『用途で線を引く』のが誠実で、結果的に指名買いにつながる。",
+        "sources": [
+          {
+            "t": "マイベスト（カーボンホイール人気ランキング・8/6更新／1位SUPERTEAM）",
+            "u": "https://my-best.com/21017",
+            "d": "2026-08-06"
+          },
+          {
+            "t": "bike-memo（2026 中華カーボンホイール格付け・選び方）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-01"
+          }
+        ],
+        "status": "確定＝8/6ランキング1位が¥3.76万のSUPERTEAM。Xの賛否は“話題の入口”＝断定しない／選び方の3点は一般的な見極め軸（※個別モデルの認証・実測は要確認）"
+      }
+    ]
+  },
+  {
     "date": "2026-08-06",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。女子ツールは第5ステージで連覇王者フェランプレヴォが陥落、「私のツールは終わった」——決着は明日8/7『史上初の女子ヴァントゥー』。国内は8/6更新の売れ筋で中華完組が定位置、機材はシマノ13速の新リークが出ました。鮮度優先で厳選しています。",
     "cards": [
