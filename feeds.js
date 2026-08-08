@@ -1,5 +1,227 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-08-09",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。女子ツールは今日『コル・デズ4回』で決着——フォレリングが8秒リード、しかも“フェアプレー論争”付き。ポローニュも最終ITTで大接戦、ブエルタは2週間後にモナコF1コースから発進です。",
+    "cards": [
+      {
+        "id": "20260809-tdff-final",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/mhnYRSv4LnzkgudPyf2WHY-1200-80.jpg",
+        "headline": "女子ツール、フォレリングが『残り6km』の一撃でマイヨ強奪——ニエヴィアドマに8秒差、今日“コル・デズ4回”の最終決戦へ",
+        "layer1": "第8ステージ（8/8ニース）でフォレリングが未分類の登りで加速し、リーダーのニエヴィアドマとロンゴボルギーニを引き剥がしてステージ優勝＋マイヨジョーヌ奪回。ボーナス込みで総合『8秒』リードにして最終日へ持ち込んだ。",
+        "layer2": "今日8/9の最終第9ステージはニース周回99.2km、コル・デズを『4回』登る山岳。因縁の数字——2024年はニエヴィアドマがフォレリングをわずか『4秒』差で下して優勝した。立場が逆転し、今度は追う側になったニエヴィアドマが8秒をどう削るか。逃げれば時間差、待てば削れない。コル・デズの下りとプロムナード・デ・ザングレのフィニッシュが最後の舞台。",
+        "sources": [
+          {
+            "t": "Cyclingnews（マイヨ奪取）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-france-femmes-demi-vollering-snatches-maillot-jaune-with-searing-late-attack/",
+            "d": "2026-08-08"
+          },
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/racing/demi-vollering-snatches-yellow-jersey-in-daring-attack-to-win-tour-de-france-femmes-stage-8",
+            "d": "2026-08-08"
+          },
+          {
+            "t": "Wikipedia（2026 TdF Femmes）",
+            "u": "https://en.wikipedia.org/wiki/2026_Tour_de_France_Femmes",
+            "d": "2026-08-08"
+          }
+        ],
+        "status": "確定＝第8終了時フォレリング総合1位、ニエヴィアドマ+8秒。/曖昧＝最終総合は今日8/9のコル・デズ最終ステージで確定（未実施）。"
+      },
+      {
+        "id": "20260809-tdff-fairplay",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/5aWec9hgrByLNZHwpLBHs-2000-80.jpg",
+        "headline": "【Xで話題・人間ドラマ】ニエヴィアドマ「彼らへの敬意を全て失った」——フォレリング陣営の“フェアプレー欠如”を告発",
+        "layer1": "マイヨを失ったニエヴィアドマが、フォレリング（FDJ）のチームメイト、セリア・ジェリの走りを『フェアプレーに欠ける』と公然と批判。「彼らへの敬意を全て失った」と語り、SNSでも賛否が割れている。",
+        "layer2": "何が起きたか——終盤の勝負どころでの牽制・位置取りをめぐる駆け引きが発端。夫テイラー・フィニーは、妻の感情を2024年ツールでのフォレリング落車の因縁に重ねる発言もした。ただし現時点は選手個人の主観的告発で、審判の裁定・ペナルティといった一次事実は出ていない＝※要裏取り。“物語”としては最終日を前に最高潮で、記事・ショートで伸びやすい題材。",
+        "sources": [
+          {
+            "t": "Cyclingnews（I lost all respect）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-lost-all-respect-for-them-kasia-niewiadoma-phinney-accuses-demi-vollerings-teammate-celia-gery-of-lack-of-fair-play-after-tour-de-france-femmes-stage-8/",
+            "d": "2026-08-08"
+          },
+          {
+            "t": "Cyclingflash",
+            "u": "https://cyclingflash.com/news/tour-femmes-2026-demi-vollering-shakes-up-the-race-and-takes-yellow-from-niewiadoma",
+            "d": "2026-08-08"
+          }
+        ],
+        "status": "曖昧＝当事者の主張段階（公式ペナルティは確認できず、※要裏取り）。事実として確定なのは“告発があった”こと。"
+      },
+      {
+        "id": "20260809-pologne-final",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://www.tourdepologne.pl/wp-content/uploads/2026/08/TdP-2026-3-Szymon-Gruchalski-7.jpg",
+        "headline": "ツール・ド・ポローニュも今日決着——スカローニが『3秒』差で首位、最終12.5km個人TTへ／ミランは“ハット3連勝”",
+        "layer1": "第6ステージ（8/8）をバレが自身初のプロ勝利で制し、ボーナス差でスカローニ（XDSアスタナ）が総合首位に浮上。2位バレ+3秒、3位レンメン+5秒の大接戦で、今日8/9はヴィエリチカの12.5km個人TTで総合が決まる。",
+        "layer2": "序盤はミラン（リドル・トレック）が第1〜3を『3連勝』で席巻したスプリンター天国だったが、山岳で構図が一変し秒差の総合争いへ。最終ITTは短く平坦寄り＝TTに強い選手が逆転できる距離で、3秒・5秒はクロノなら一瞬で消える。スカローニの“逃げ切り”か、TT巧者の“下克上”か。",
+        "sources": [
+          {
+            "t": "Cyclingnews（バレ第6勝利）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-pologne-louis-barre-takes-a-maiden-pro-win-in-stage-6-taking-a-second-win-for-visma-lease-a-bike/",
+            "d": "2026-08-08"
+          },
+          {
+            "t": "Cyclingflash（GC変動）",
+            "u": "https://cyclingflash.com/news/louis-barre-takes-first-pro-win-in-tour-of-poland-lemmen-loses-leaders-jersey-1",
+            "d": "2026-08-08"
+          },
+          {
+            "t": "Wikipedia（2026 Tour de Pologne）",
+            "u": "https://en.wikipedia.org/wiki/2026_Tour_de_Pologne",
+            "d": "2026-08-08"
+          }
+        ],
+        "status": "確定＝第6終了時スカローニ首位（+3秒バレ／+5秒レンメン）、ミラン3勝。/曖昧＝総合優勝は今日の最終ITTで確定（未実施）。"
+      },
+      {
+        "id": "20260809-vuelta-monaco",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-08%2Fwout-van-aert-tadej-pogacar-2.jpg",
+        "headline": "次のグランツール『ブエルタ』は2週間後——開幕はモナコF1コースの9.6km個人TT、ポガチャルは“三冠グランドスラム”に王手",
+        "layer1": "8/22開幕のブエルタ2026、第1ステージはモナコ市街地の9.6km個人TT。フィニッシュはF1モナコGPと同じブールバール・アルベール1世＝『F1と同じ路面で秒を削る』演出だ。ポガチャルが唯一未勝利のGTを獲れば、史上9人目の“全3大ツール制覇”となる。",
+        "layer2": "なぜ今アツいか——女子ツールとポローニュが終わる今日が、頭を「次はブエルタ」に切り替える日。ポガチャルはUAEでアルメイダ・ヴァインらを従え、4度優勝のログリッチが最大の対抗。開幕がいきなり短距離TT＝総合勢が初日から数秒を削り合う緊張感で、ヴァンアールトのスプリント/TTも見どころ。F1×自転車の“語りたくなる”絵柄。",
+        "sources": [
+          {
+            "t": "La Vuelta 公式（Stage 1）",
+            "u": "https://www.lavuelta.es/en/stage-1",
+            "d": "2026-08"
+          },
+          {
+            "t": "TOUR magazin（F1 feeling）",
+            "u": "https://www.tour-magazin.de/en/professional-cycling/latest-news/vuelta-a-espana-2026-date-for-route-presentation-fixed-kick-off-with-formula-1-feeling/",
+            "d": "2026-08"
+          },
+          {
+            "t": "Cycling Weekly（ポガチャル参戦）",
+            "u": "https://www.cyclingweekly.com/racing/vuelta-a-espana/tadej-pogacar-to-ride-2026-vuelta-a-espana-aiming-to-complete-grand-tour-triple",
+            "d": "2026-08-04"
+          }
+        ],
+        "status": "確定＝8/22モナコ発9.6km ITT、ポガチャル参戦。/曖昧＝“三冠”は結果次第（9/13グラナダまで）。"
+      },
+      {
+        "id": "20260809-100mile-fkt",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/jnMig7Sm95Bw2GYAJVj8R8-2560-80.jpg",
+        "headline": "英『100マイル最速』が40年ぶり更新——デンマークのフォルサックが3時間27分08秒、“フロー状態”で世紀を走破",
+        "layer1": "元五輪トラック選手カスパー・フォン・フォルサック（33）が、40年破られなかった英100マイル（約161km）のFKTを『3:27:08』に更新。TTバイクではない通常のロードバイクでの100マイルとしては史上最速とされる。",
+        "layer2": "平均速度は約46.5km/hに相当（161km÷3.452時間の概算）。本人は「フロー状態に入る」と表現＝ペースと集中が噛み合う“ゾーン”。40年前の記録がいかに堅牢だったかと、機材（エアロ・タイヤ・空気圧）とペーシング科学の進歩が重なった一撃だ。ホビーの“100km／100マイル”目標にも刺さる普遍テーマ。※平均速度は距離÷公表タイムの当方概算。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/news/you-get-into-a-flow-state-british-100-mile-road-bike-record-set-by-dane",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝タイム3:27:08、記録更新。/曖昧＝“史上最速の非TT世紀”は媒体表現、平均速度は当方算出の概算。"
+      },
+      {
+        "id": "20260809-carbon-spoke",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "",
+        "headline": "【パーツ】“カーボンスポーク完組”が国内の棚に定着——8/3入荷でSCOM／Equalが13.7万〜、手組の次の主役に",
+        "layer1": "国内ショップの8/3入荷情報に、カーボンスポークの完組が複数並ぶ。SCOM『VOSO Lite Ultimate45-50』が13.75万円、『AEROLITE40』15.95万円、Equalのカスタム完組が16.4万円台〜など、“カーボンスポーク前提”の価格帯が定番化してきた。",
+        "layer2": "なぜ効くか——ディスク化でリムのブレーキ面が消え、スポークまで軽量・エアロ化する流れが加速。数年前は最上級だけだったカーボンスポークが15万円前後まで降りてきた。中華完組（8LIEN／CRW等）でも“スポーク素材と本数”が差別化の軸になりつつあり、店頭での説明力が問われる領域。マサル的には「なぜカーボンスポークか」を一枚で語れると強い。",
+        "sources": [
+          {
+            "t": "サイクルプラス（入荷情報 8/3）",
+            "u": "https://cycleplus.exblog.jp/30970237",
+            "d": "2026-08-03"
+          }
+        ],
+        "status": "確定＝当該店の8/3入荷価格。/曖昧＝相場は店舗差あり、全国一律ではない。"
+      },
+      {
+        "id": "20260809-shop-restock",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "",
+        "headline": "【経営メモ・市場】8/3入荷が映す“夏商戦のリアル値付け”——105完成車17.6万・Vittoria新RUBINO6,490円で回転を作る",
+        "layer1": "都内系ショップの8/3入荷を定点観測。105搭載の限定完成車『Coda Bloom FARNA SL』が17.6万円、Vittoria中級新タイヤ『RUBINO V』6,490円、入門Zaffiro EVO 3,993円、接触冷感ウェア（パールイズミ）などが“夏に売れる棚”を構成していた。",
+        "layer2": "経営視点——高額完成車が動きにくい夏は、①タイヤ／チューブ／冷感ウェアの“消耗＋季節”で客足を作り、②整備・ホイールカスタム（カーボンスポーク完組など）で単価を上げる二段構えが効く。売れる中心価格は『105・17〜18万』が目安。TPUチューブ（GUEE 3,520円）やサイコン（iGPSPORT 2.64万）など周辺小物が“数”を稼ぐ点も、在庫の作り方に直結する。",
+        "sources": [
+          {
+            "t": "サイクルプラス（入荷情報 8/3）",
+            "u": "https://cycleplus.exblog.jp/30970237",
+            "d": "2026-08-03"
+          }
+        ],
+        "status": "確定＝当該店の8/3実売価格。/曖昧＝一店の事例で、全国相場ではない。"
+      },
+      {
+        "id": "20260809-rim-vs-disc",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://img.my-best.com/contents/db578fa404501aceda4509e0dc96e8e7.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=8fc2c5ba415f1d6866e6709267b445d5",
+        "headline": "【経営メモ・市場】8月の“消耗品ランキング”が夏の実需を映す——一方SNSでは「リムvsディスク＆高騰」論争が継続",
+        "layer1": "マイベストのブレーキ用品など消耗品ランキングが2026年8月版に更新され、夏の実需（ブレーキ・タイヤまわり）が可視化。並行して国内SNS／ブログでは「油圧ディスクは部品も高い」「いや制動と設計自由度でもう戻れない」という“リムvsディスク＆ロード高騰”論争がくすぶり続けている。",
+        "layer2": "店の落とし所——新規客はディスク一択（供給・将来性）が現実解だが、既存リム資産の客には“今の1台を活かす”提案も価値。高騰局面では『5万円以下のディスク×チューブレス完組』や中華カーボンが受け皿になり、指名買いより「予算内で最適化」の相談が増える。論争は裏を返せば“買い方の相談需要”そのもの。※SNS論調は入口で、実購買は予算と用途で決まる（※要裏取り）。",
+        "sources": [
+          {
+            "t": "マイベスト（ブレーキ用品ランキング 2026年8月）",
+            "u": "https://my-best.com/7767",
+            "d": "2026-08"
+          },
+          {
+            "t": "MAVIC（ディスク×チューブレス解説・背景）",
+            "u": "https://webmagazine.mavic.jp/post/181259380029/",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝ランキングは8月版として存在。/曖昧＝“論争が話題”はSNS論調ベース（※要裏取り）。"
+      },
+      {
+        "id": "20260809-first-carbon-map",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://ehbtj.com/wp/wp-content/uploads/2024/09/1eb0ac320d37a68baa2d52c2daf7ad8a.jpg",
+        "headline": "【初中級】“初めてのカーボンホイール”は予算別の地図で選ぶ——4万ICANから20万Winspaceまで、価格帯で狙いが違う",
+        "layer1": "今日のリムvsディスク論争の裏で増える相談が「結局どのカーボンホイール？」。中華完組は価格帯ごとに性格が分かれる。目安は、ICAN 4〜6万（入門）、Elitewheels 5〜10万台（超軽量志向）、Yoeleo／Farsports（UCI認証・ハブ選択）、Winspace 15〜20万（レース最上位）。国内ランキングでも中華完組が上位を固定している。",
+        "layer2": "選び方の芯——安さでなく『UCI認証・実測重量・国内保証窓口』の3点。入門帯は“重すぎない安定”、軽量帯は登り、上位帯は総合性能とサポート。うちの取扱（8LIEN／CRW／NEPEST／YOELEO等）を、この地図のどこに置くかを一言で説明できると信頼につながる。※各価格帯は代表例で、同ブランド内でもモデル差は大きい。",
+        "sources": [
+          {
+            "t": "bike-memo（中華カーボンホイール格付け・定番ガイド）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-04"
+          },
+          {
+            "t": "なんでも独り言（Elitewheels Edge 実例）",
+            "u": "https://ehbtj.com/diary/bought-elitewheels-edge-lightweight-carbon-wheel-from-china/",
+            "d": "2024-09"
+          }
+        ],
+        "status": "曖昧＝価格帯は代表値の目安（普遍ネタ、今日の論争を入口に再構成）。確定要素はブランドの価格帯レンジ。"
+      }
+    ]
+  },
+  {
     "date": "2026-08-08",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。女子ツールはニエヴィアドマが『ヴァントゥー』で人生初勝利＆マイヨ——父の涙まで拾いました。ポローニュは今日クイーンステージ、ブエルタは布陣が固まりつつあります。市場はシマノ値上げ×型落ち処分の二極化と、8月ランキングの中華完組上位を経営メモで。",
     "cards": [
