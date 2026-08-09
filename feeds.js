@@ -1,5 +1,179 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-08-10",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、7本。昨日は“二つの決着”——女子ツールはフォレリングが『コル・デズ独走』で2年前の雪辱、ポローニュはブレナーが最終TTで大逆転。ブエルタは2週間後、バンアールトに“自由”が来ます。市場は8月＝仕込み期です。",
+    "cards": [
+      {
+        "id": "20260810-tdff-vollering-win",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/AzUcQpkW3cpx2YW5cPSS8B-1024-80.jpg",
+        "headline": "女子ツール決着、フォレリングが『コル・デズ独走』で完全復讐——2年前『4秒差』の雪辱、総合1分18秒差で悲願の2度目マイヨ",
+        "layer1": "8/9の最終第9ステージ（ニース周回99.2km・コル・デズ4回）で、8秒リードのフォレリングが最後の登りでニエヴィアドマを引き剥がして独走。ステージ優勝と総合優勝を同時に決め、女子ツール史上初の『複数回制覇』を達成した。",
+        "layer2": "因縁の決着。2024年はニエヴィアドマがわずか『4秒』差でフォレリングを下していた。今年は最終日、残り19kmでのニエヴィアドマの攻撃に落ち着いて対応し、最後の登り残り700mで加速→下りで突き放してステージを1分04秒差、総合は1分18秒差に拡大した。ポイント賞（緑）はヴィーベスが164ptで確定。8秒→1:18という決着の劇的さが、女子レース人気の追い風になっている。",
+        "sources": [
+          {
+            "t": "Cyclingnews（独走で総合制覇）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-france-femmes-demi-vollering-drops-niewiadoma-phinney-to-seal-overall-with-solo-final-stage-victory-in-nice/",
+            "d": "2026-08-09"
+          },
+          {
+            "t": "Cycling Up To Date（第9結果）",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-de-france-femmes-2026-stage-9-demi-vollering-wins-tour-with-dashing-final-day-solo-triumph",
+            "d": "2026-08-09"
+          },
+          {
+            "t": "IDL Pro Cycling（最終順位・各賞）",
+            "u": "https://www.idlprocycling.com/cycling/2026-tour-de-france-femmes-standings-wiebes-wins-jerseys-van-der-breggen-kopecky-and-squiban-lose-time",
+            "d": "2026-08-09"
+          }
+        ],
+        "status": "確定＝総合1位フォレリング、2位ニエヴィアドマ+1:18、第9ステージ勝者もフォレリング、ポイント賞ヴィーベス164pt。"
+      },
+      {
+        "id": "20260810-tdff-fairplay-truce",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-08%2Fvollering-niewiadoma-6a78be2ca2cf4.png",
+        "headline": "【Xで話題・続報】因縁の2人が“和解”——ニエヴィアドマ「ごめんね」、フォレリング「これがレースだ」でフェアプレー論争は決着",
+        "layer1": "昨日8/9の当研究所カードで伝えた『フォレリング陣営のフェアプレー欠如』告発（ニエヴィアドマの怒り）は、レース後の本人同士の会話で収束。ニエヴィアドマが謝意を伝え、フォレリングは「これがバイクレースだ」と応じた。",
+        "layer2": "発端は前日、集団内の牽制やチームの動きを巡る非難だった。だがフォレリングは勝利後、遺恨を否定して「そういうもの」と受け流し、2人が言葉を交わして手打ちに。SNS（X）では『スポーツマンシップ』と称賛が広がる一方、火種となった具体的行為の是非は今も割れる。裏取りは本人コメントを報じた記事で確認済み。",
+        "sources": [
+          {
+            "t": "IDL Pro Cycling（本人が謝意）",
+            "u": "https://www.idlprocycling.com/cycling/demi-vollering-reveals-exactly-what-she-told-kasia-niewiadoma-in-tour-de-france-femmes-kasia-said-she-was-sorry",
+            "d": "2026-08-09"
+          },
+          {
+            "t": "Cycling Up To Date（第9レポート）",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-de-france-femmes-2026-stage-9-demi-vollering-wins-tour-with-dashing-final-day-solo-triumph",
+            "d": "2026-08-09"
+          }
+        ],
+        "status": "確定＝レース後に両者が会話し和解を報道。/曖昧＝論争の元になった具体的行為の評価は依然分かれる。"
+      },
+      {
+        "id": "20260810-pologne-brenner",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/d227dTUS9GA2SEvDAQmTTC-1024-80.jpg",
+        "headline": "ツール・ド・ポローニュ、ブレナーが最終TTで大逆転総合優勝——キュングが今季初勝利、ミランのスプリント量産も総合は独の若手へ",
+        "layer1": "8/9の最終第6ステージ（個人TT）でシュテファン・キュングが今季初勝利。総合はマルコ・ブレナーが驚異のTTで逆転し、自身初の『ステージレース総合優勝』を飾った。",
+        "layer2": "ブレナーはキャリア3勝目にして初のGC。最終TTで一気に上位を抜き去った。2位はフィン・フィッシャーブラック（レッドブル・ボーラ）、3位はイヴァン・ロメオ（モビスター）。スプリントではミランが大会を席巻したが、山岳とTTの差でGCは非スプリンターの手に渡った——ブエルタ前の“TTが効く”という予兆でもある。",
+        "sources": [
+          {
+            "t": "Cyclingnews（キュング勝利／ブレナー総合）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-pologne-stefan-kung-takes-a-first-win-of-the-year-while-marco-brenner-wins-the-general-classification-with-stunning-time-trail-performance/",
+            "d": "2026-08-09"
+          }
+        ],
+        "status": "確定＝総合ブレナー、2位フィッシャーブラック、3位ロメオ、第6TT勝者キュング。/曖昧＝選手の所属表記は最新移籍で要確認のため本文では最小限に。"
+      },
+      {
+        "id": "20260810-vuelta-vanaert",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-08%2Fwout-van-aert-tadej-pogacar-2.jpg",
+        "headline": "【ブエルタ2週間前】バンアールトに“自由”——ヴィンゲゴー不在で緑とステージ量産へ、ポガチャルは赤とGT三冠に王手",
+        "layer1": "8/22モナコ発のブエルタ2026、ヴィスマの総合エース・ヴィンゲゴーが不在となり、バンアールトがステージ勝利とポイント賞（緑）に専念できる自由な立場に。総合はポガチャルとログリッチが赤ジャージを争う構図。",
+        "layer2": "バンアールトは2024年ブエルタで2週間に『3勝』＋複数のトップ3を記録。今回はGCの束縛が外れ、平坦・丘陵ステージで存分に狙える。専門メディアは“スプリンター天国”とも評す起伏で、彼を『ステージ王』争いの主役に挙げる（2026シーズンに一度ポガチャルを直接下している、という文脈込み）。ポガチャルにとってはブエルタ制覇＝キャリア初のGT三冠へ王手の一戦。",
+        "sources": [
+          {
+            "t": "Cycling Up To Date（バンアールト分析）",
+            "u": "https://cyclinguptodate.com/cycling/analysis-wout-van-aert-already-beat-tadej-pogacar-once-in-2026-now-he-can-challenge-him-for-the-vuelta-spotlight",
+            "d": "2026-08-09"
+          },
+          {
+            "t": "IDL Pro Cycling（ブエルタ2026プレビュー）",
+            "u": "https://www.idlprocycling.com/cycling/2026-vuelta-a-espana-a-spanish-playground-style-course-for-wout-van-aert-tadej-pogacar-and-mads-pedersen",
+            "d": "2026-08-06"
+          }
+        ],
+        "status": "確定＝バンアールトのブエルタ出場・ステージ／緑狙いを報道、開幕は8/22モナコ。/曖昧＝スタートリスト最終確定と具体ステージ戦略は直前まで流動的。"
+      },
+      {
+        "id": "20260810-market-cnwheel-ranking",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://img.my-best.com/contents/a5deedfdf9b9f9b8ff2d2c0f5d420ae9.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=a2c0a254995862aaee35d6d8903f8904",
+        "headline": "【経営メモ・市場】国内カーボンホイールの棚は『中華上位固定』が定着——8月ランキングもELITEWHEELS/SUPERTEAMが常連、主戦場は10万円未満",
+        "layer1": "価格.com（8月）やマイベスト（7月更新）のカーボンホイール人気では、ELITEWHEELSやSUPERTEAMら中華完組が上位を占め続ける。“最初の一本”の主戦場は10万円前後〜未満に固まっている。",
+        "layer2": "マサル向けの含意：大手完組（シマノ等15〜21万）との価格差は歴然で、来店客の質問は『安さ』から『実測・保証・UCI認証』へ移っている。棚づくりの定石は、①10万円未満の中華完組で入口を作り、②振れ取り・タイヤ相性・トルク管理などの“サービス”で粗利を確保、の二段構え。うちの8LIEN／CRW／GOOSYNN帯はこの上位帯と真っ向で戦える価格・重量域にある。",
+        "sources": [
+          {
+            "t": "マイベスト（カーボンホイール人気）",
+            "u": "https://my-best.com/21017",
+            "d": "2026-07"
+          },
+          {
+            "t": "価格.com（8月・ホイールランキング）",
+            "u": "https://kakaku.com/ranking/bicycle/0009_0002/0034/",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝主要ランキングで中華完組が上位を継続。/曖昧＝順位は日次で変動する。"
+      },
+      {
+        "id": "20260810-market-price-timing",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://shop-jp.shimano.com/cdn/shop/articles/shimano_logo_1200x1200_51a8765f-65ed-4bbc-94e2-7c4b65ac6698.jpg?v=1785122615",
+        "headline": "【経営メモ・市場】8月は“仕込み期”——シマノ8/1値上げは既定、型落ち処分の本番は10〜11月、『定価高止まり・実売下落』を読む",
+        "layer1": "シマノは8/1に一部（ペダル等）の価格改定を実施済み。一方で旧モデルの本格的な処分値引きは新型発表後の10〜11月が山場になりやすく、いまは在庫を整える“仕込み期”だ。",
+        "layer2": "市場の構図は『定価は高止まり・実売は下落』。供給が回復して在庫は潤沢化し、型落ちは大きく下がる一方、指名される新型・人気車は強気のまま。ショップの勝ち筋は、①夏に無理な安売りをせず秋の処分に向け在庫を整理、②値上げ前後の“旧価格ラスト需要”を確実に取り込む、③価格でなく整備・適合提案で差別化。中古の高騰バブルも終息へ向かい、下取り査定は慎重に。",
+        "sources": [
+          {
+            "t": "シマノ公式（価格改定のお知らせ 8/1〜）",
+            "u": "https://shop-jp.shimano.com/blogs/news/price_update",
+            "d": "2026-08-01"
+          },
+          {
+            "t": "プライシー（2026 セール時期の考え方）",
+            "u": "https://www.pricey.jp/web/articles/3501",
+            "d": "2026-06-03"
+          }
+        ],
+        "status": "確定＝シマノ8/1改定は公式発表。/曖昧＝“処分の本番は秋”は例年傾向に基づく見立て（断定はしない）。"
+      },
+      {
+        "id": "20260810-beginner-cn-lightweight",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C163.jpg",
+        "headline": "【初中級】中華カーボン『最初の一本』は数値より“3つの規格”——軽さは本物、後悔は「内幅・フックレス・保証」で決まる",
+        "layer1": "いま国内で買える中華完組は軽量化が進み、50mmハイトで実測1300g級（ELITEWHEELSのDrive系／Edge系など）まで来た。だが初めての一本で後悔するのは重量ではなく『規格の見落とし』だ。",
+        "layer2": "先に押さえる3点：①リム内幅——最新タイヤは21mm以上前提で、28c以上との相性を見る。②フックレスかフック付きか——フックレスは対応タイヤと空気圧の上限が厳格で、プロですら直近ツールでの採用はまだ少数派。③保証年数——2年以上が安心の目安。カタログの軽量値は“公称”で個体差があるため、まず規格→次に軽さ、の順で選べば大きく外さない。",
+        "sources": [
+          {
+            "t": "バイクメモ（2026 中華カーボン格付け）",
+            "u": "https://bike-memo.com/cycle_260202_carbon-wheels/",
+            "d": "2026-02"
+          },
+          {
+            "t": "価格.com（8月・ホイール人気で在庫傾向）",
+            "u": "https://kakaku.com/ranking/bicycle/0009_0002/0034/",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝軽量化・規格差は各社スペックで確認可。/曖昧＝重量は公称値で実測は個体差あり（※要実測）。"
+      }
+    ]
+  },
+  {
     "date": "2026-08-09",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。女子ツールは今日『コル・デズ4回』で決着——フォレリングが8秒リード、しかも“フェアプレー論争”付き。ポローニュも最終ITTで大接戦、ブエルタは2週間後にモナコF1コースから発進です。",
     "cards": [
