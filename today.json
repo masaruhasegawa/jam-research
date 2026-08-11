@@ -1,125 +1,122 @@
 {
-  "date": "2026-08-11",
-  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。次のグランツール『ブエルタ』開幕まで2週間、主役ポガチャルの三冠挑戦とコース改変、そして国内の夏商戦と中華ホイール論争まで底まで潜りました。",
+  "date": "2026-08-12",
+  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。ブエルタ開幕まで10日、王者ポガチャルの三冠に立ちはだかるはずの『ログリッチが練習中に車に轢かれ50/50』、ブルゴス総合はガルが初制覇、そして中華ホイールの『一体成型＄2,000』攻勢とシマノ8/1値上げの中身まで底まで潜りました。",
   "cards": [
     {
-      "id": "20260811-pogacar-vuelta-triple",
+      "id": "20260812-burgos-gall",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": true,
-      "image": "https://cyclingmagazine.ca/wp-content/uploads/2026/08/PogacarVuelta_copy-1-1200x675.jpg",
-      "headline": "ブエルタ開幕まで2週間、ポガチャルは『同年ダブル』と“GT三冠”へ——本人は慎重「明日開幕なら疲れて走れない」から一転、出場正式決定",
-      "layer1": "UAEがブエルタ2026（8/22モナコ発〜9/13グラナダ着・約3,300km）の布陣を発表し、ツール5勝目のポガチャルが正式にエントリー。狙いは同年『ツール＆ブエルタ制覇』と、キャリアで三大GTを全部獲る“グランドスラム”。",
-      "layer2": "ツール直後は「今ブエルタが始まるなら、疲れていて走れない。でも2週間以内には決められる」と保留していたが、結局ゴー。ツール+ブエルタの同年ダブルはアンクティル／イノー／フルームに次ぐ史上4人目、三大GT完全制覇なら史上9人目。開幕はモナコ（本人の居住地）の9.6km個人TT。挑戦者は赤ジャージ最多タイを狙うログリッチ（※練習中の事故で出場は五分五分の報）、マス、ガル、スキェルモーセ、そして僚友アルメイダ。脇を固めるのはヴァイン／シヴァコフら山岳精鋭。",
+      "image": "https://cdn.mos.cms.futurecdn.net/YVWUKrGnGDRqHWpvWo25jb-1024-80.jpg",
+      "headline": "ブルゴス一周、フェリックス・ガルが『キャリア初の総合優勝』——最終ラグナス・デ・ネイラでオンリーに5秒、チッコーネに10秒の薄氷、勝負どころは“6秒を守り切る”攻防だった",
+      "layer1": "8/8閉幕のブエルタ・ア・ブルゴスで、レッドブル所属の登坂家フェリックス・ガル（オーストリア）が自身『プロ初のステージレース総合優勝』を掴んだ。最終5ステージはペリッツァーリが残り1.2kmで抜け出し区間勝利、ガルは3位でフィニッシュして総合を死守した。",
+      "layer2": "数字を裏取りすると、ガルは最終日を『2位オンリーに6秒、3位チッコーネに7秒』のリードで迎え、137kmの激坛決戦を終えて最終差はオンリー5秒・チッコーネ10秒。ほぼミスの許されない僅差だった。ガルはこれがキャリア通算わずか4勝目で、初のGCタイトル。ブエルタ本番へ向けた“登坂力の指標”として要注目の一戦になった。",
       "sources": [
-        { "t": "Canadian Cycling Magazine", "u": "https://cyclingmagazine.ca/sections/news/tadej-pogacar-confirmed-for-2026-vuelta-a-espana/", "d": "2026-08-03" },
-        { "t": "ProCyclingUK（挑戦者プレビュー）", "u": "https://procyclinguk.com/vuelta-a-espana-2026-contenders-preview-who-can-challenge-tadej-pogacar/", "d": "2026-08-10" },
-        { "t": "WTOP（AP）", "u": "https://wtop.com/sports/2026/08/pogacar-returns-to-the-spanish-vuelta-in-pursuit-of-a-rare-double-and-elusive-triple/", "d": "2026-08-03" }
+        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-burgos-felix-gall-seals-overall-victory-as-red-bull-bora-hansgrohe-take-out-final-stage/", "d": "2026-08-08" },
+        { "t": "CyclingUpToDate", "u": "https://cyclinguptodate.com/cycling/results-vuelta-a-burgos-2026-stage-5-felix-gall-seals-overall-victory-as-giulio-pellizzari-conquers-lagunas-de-neila", "d": "2026-08-08" }
       ],
-      "status": "確定＝UAEが布陣発表・ポガチャル出場、開幕8/22モナコITT。曖昧＝ログリッチの出場可否は事故報道あり流動的（要続報）。"
+      "status": "確定＝ガル総合優勝（対オンリー5秒・対チッコーネ10秒）／ペリッツァーリが最終区間勝利。"
     },
     {
-      "id": "20260811-vuelta-route-landslide",
+      "id": "20260812-roglic-car",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/www.indeleiderstrui.nl/images/2026-08/wout-van-aert-tadej-pogacar-2.jpg",
-      "headline": "ブエルタ2026のコースは『スプリンターの遊び場』と“超級山岳”の二面性——最難関ステージが土砂崩れで急遽改変、ポガチャル封じの最後の砦が揺れる",
-      "layer1": "コース分析では、序盤〜中盤に逃げ・短い登坂フィニッシュが多くファンアールトやペデルセンら攻撃型に出番。一方で終盤は超級山岳が連続し、最終週の“クイーンステージ”は5,000m超級の獲得標高。",
-      "layer2": "そのクイーンステージ（南スペイン・アンダルシアの山岳）が土砂崩れで一部通行不能となり、主催がルートを大幅に組み替え。『ポガチャルとブエルタ初制覇の間に立つ最後の障害』とも言われた最難関日だけに、変更が総合争いの綾になる。スプリンター系にはボーナス機会が残る構成で、緑ジャージ（ポイント）争いも面白い。",
+      "image": "https://cdn.road.cc/wp-content/uploads/2026/07/Screenshot-2026-07-31-172051.png",
+      "headline": "ポガチャルの“最有力対抗”ログリッチ、練習中に『車に轢かれ』ブエルタ出場は50/50——狙う『史上初の5勝目』が一転、暗雲",
+      "layer1": "ブエルタ通算4勝の記録保持者プリモシュ・ログリッチ（レッドブル）が、7/31に『トレーニング中に車に衝突された』と公表。太もも裏と腰に激しい打撲を負い、クラシカ・サンセバスティアンとブルゴス一周を欠場した。La Gazzetta報道では、ブエルタ出走の可能性は現状『50/50』。",
+      "layer2": "先回りすると、ログリッチの2026年は“ツールを捨ててブエルタ5勝目に全振り”の一年。その調整レースを2つ潰した打撃は小さくない。ヘラス（4勝）と並ぶ記録を塗り替える『史上最多5勝目』が本人の悲願だが、8/22モナコ発のスタートに“フィットして立てるか”が全て。ポガチャルの三冠を阻む最右翼が揺らげば、赤ジャージ争いの構図そのものが変わる。",
       "sources": [
-        { "t": "IDL ProCycling（コース分析）", "u": "https://www.idlprocycling.com/cycling/2026-vuelta-a-espana-a-spanish-playground-style-course-for-wout-van-aert-tadej-pogacar-and-mads-pedersen", "d": "2026-08-06" },
-        { "t": "Cyclingnews（山岳ステージ改変）", "u": "https://www.cyclingnews.com/pro-cycling/racing/major-changes-of-crunch-2026-vuelta-a-espana-mountain-stage-set-to-test-tadej-pogacar-and-other-top-gc-contenders/", "d": "2026-08" }
+        { "t": "road.cc", "u": "https://road.cc/news/primoz-roglic-injured-after-being-hit-by-driver-in-training-ride-faces-race-against-time-for-vuelta-a-espana", "d": "2026-07-31" },
+        { "t": "Domestique", "u": "https://www.domestiquecycling.com/en/news/primoz-roglic-forced-to-change-vuelta-plans-after-being-hit-by-car/", "d": "2026-08-09" }
       ],
-      "status": "確定＝コース傾向と土砂崩れによる山岳ステージ改変は複数メディアが報道。曖昧＝改変後の詳細距離・獲得標高は今後の公式確定待ち。"
+      "status": "確定＝車との接触・打撲でサンセバスティアン/ブルゴス欠場／曖昧＝ブエルタ出走は50/50（要続報）。"
     },
     {
-      "id": "20260811-pedersen-vanaert-sprint",
+      "id": "20260812-vine-comeback",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/www.indeleiderstrui.nl/images/2026-08/mads-pedersen-6a74745c20542.jpg",
-      "headline": "ブエルタは『ペデルセン vs ファンアールト』再戦——2025ジロの死闘再び、ペデルセン「クールだね」／スキェルモーセは総合を狙う",
-      "layer1": "ツールで緑ジャージを獲ったペデルセン（リドル・トレック）がブエルタ復帰を明言、ヴィスマのファンアールトと平坦〜中級で真っ向勝負。二人の激突は2025ジロの再現。",
-      "layer2": "ペデルセンは「数勝できたら最高」と語り、引退までにGTステージ通算15勝（現状12〜13勝）を視野。ポイント3賞制覇は達成済みで、今回は“ジャージより勝利数”に軸足。同僚スキェルモーセ（ツール6位）はブエルタで総合を狙う布陣。ファンアールトとの再戦を問われ「そう、それはクールになるよ」と楽しみにしている。",
+      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/www.indeleiderstrui.nl/images/2026-08/jay-vine-crash-6a773e14a4faf.png",
+      "headline": "【人間ドラマ】『妻は“助からないかも”と言われた』——頸椎骨折から生還したヴァインがブエルタ内定、しかしブルゴスで再び落車しUAEに新たな不安",
+      "layer1": "UAEのジェイ・ヴァインが、4月イツリアの大落車で頸椎・胸椎を骨折した重傷から復帰。ブルゴス一周で個人TTを制し“ブエルタ行きの切符”を掴んだ矢先、最終ステージで落車して先頭から脱落。復活劇の直後に暗転した。",
+      "layer2": "深掘りすると、ヴァインは事故当時『妻に“助からないかもしれない”と告げられた』ほどの重傷から、わずか4か月でGTプロトンに戻ってきた稀有な選手。だがこの再落車は、ポローニュでのアルメイダ離脱に続くUAEの“ブエルタ・サポート陣”への二つ目の警鐘でもある。ポガチャルの三冠挑戦は、本人の強さ以上に『山岳アシストが無事に揃うか』が鍵になりつつある。",
       "sources": [
-        { "t": "IDL ProCycling", "u": "https://www.idlprocycling.com/cycling/mads-pedersen-targets-jonas-vingegaards-grand-tour-record-as-wout-van-aert-vuelta-duel-looms", "d": "2026-08-06" },
-        { "t": "Domestique Cycling", "u": "https://www.domestiquecycling.com/en/news/pedersen-and-skjelmose-confirm-vuelta-return-after-tour-success/", "d": "2026-07-27" }
+        { "t": "idlprocycling", "u": "https://www.idlprocycling.com/cycling/jay-vine-crash-adds-to-uae-concerns-ahead-of-vuelta-as-pellizzari-and-gall-celebrate-in-burgos", "d": "2026-08-08" },
+        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/news/jay-vine-returns-to-racing-at-vuelta-a-burgos-four-months-after-fracturing-vertebrae-in-itzulia-crash/", "d": "2026-08-05" }
       ],
-      "status": "確定＝両者ブエルタ出場・スキェルモーセ総合狙い。曖昧＝ペデルセンのGT通算勝利数は媒体表記に幅（12〜13勝）。"
+      "status": "確定＝ヴァインはブルゴスTT勝利でブエルタ内定／最終日に落車。UAEのサポート層に不安（重症度は要続報）。"
     },
     {
-      "id": "20260811-brenner-pologne-drama",
+      "id": "20260812-worlds-montreal-vinge",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://www.tourdepologne.pl/wp-content/uploads/2026/08/SG1_1483-1.jpg",
-      "headline": "【人間ドラマ・深掘り】ツール・ド・ポローニュを制した23歳ブレナー——キャリアわずか3勝目、“最終TTの大逆転”で掴んだ初の総合",
-      "layer1": "昨日速報したポローニュ総合優勝、その中身が沁みる。ドイツの23歳マルコ・ブレナー（Tudor）は、これがステージレース初の総合勝利にしてキャリア通算3勝目。最終日の個人TTで総合4位から一気に頂点へ。",
-      "layer2": "派手なステージ勝ちで積み上げた総合ではない。山岳最難関3日を4位・2位・3位と“落ちない走り”で凌ぎ、最後のTTで大逆転——という玄人好みの勝ち方。同僚キュング（Tudor）が最終TTステージを制し、チームは“ダブル”で締めた。2位フィッシャーブラック、3位ロメオ。若手の台頭と、地味な堅実さが実を結ぶ物語は、記事・ショートで刺さる。",
+      "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/Team-Visma-Lease-a-Bike/CORVOS_00038962-289.jpg?width=832&height=468&format=jpg&crop=6000%2C3375%2C0%2C312",
+      "headline": "9月の世界選は『52年ぶりの北米・モントリオール』——ポガチャル三連覇の好機だが“パンチャー向き”、ヴィンゲゴーは鎖骨骨折から『出場を明言せず』",
+      "layer1": "9/20〜27の世界選手権はモントリオールで開催（欧州外は52年ぶり）。モンロワイヤル周辺13.4kmの起伏サーキットが主役で、ツール落車で鎖骨を骨折したヴィンゲゴーは『無いとは言わないが、やるとも今は言えない』と出場を保留した。",
+      "layer2": "先回りすると、コースは平均6.2%の激坂区間や11%超を含む“パンチャー＆オールラウンダー向き”。ポガチャルには三連覇の現実味があるが、より起伏がバラけるぶんファンアールト／ファンデルプール／ペデルセンにも勝機が残る設計だ。ヴィンゲゴーは『今年はジロを挟んだ影響で爆発力が足りなかった』と振り返りつつ、まだ実走復帰前。“秋の最大のカムバック”になるか、鎖骨の回復次第という状況。",
       "sources": [
-        { "t": "Tour de Pologne 公式", "u": "https://www.tourdepologne.pl/en/2026/08/09/a-thrilling-finale-in-wieliczka-and-a-spectacular-triumph-for-marco-brenner/", "d": "2026-08-09" },
-        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-pologne-stefan-kung-takes-a-first-win-of-the-year-while-marco-brenner-wins-the-general-classification-with-stunning-time-trail-performance/", "d": "2026-08-09" }
+        { "t": "Domestique", "u": "https://www.domestiquecycling.com/en/news/montreal-worlds-not-out-of-the-question-for-vingegaard-after-tour-crash/", "d": "2026-07-30" },
+        { "t": "Domestique（コース）", "u": "https://www.domestiquecycling.com/en/news/confirmed-montreal-2026-route-gives-pogacar-clear-shot-at-worlds-hat-trick/", "d": "2026-07" }
       ],
-      "status": "確定＝ブレナー総合優勝・キュングTTステージ勝・表彰台の順位。昨日は速報、本日は背景の深掘り。"
+      "status": "確定＝世界選は9/20〜27モントリオール、起伏コース／曖昧＝ヴィンゲゴー出場は未定（本人が明言せず）。"
     },
     {
-      "id": "20260811-vingegaard-absent-vuelta",
-      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2025-08/vingegaard-jorgenson-68b3175a14228.jpg",
-      "headline": "“なぜ今ブエルタに王者がいないのか”——ヴィンゲゴーは今季『ジロ＆ツール』に集中、ツールの落車（鎖骨骨折）から回復し世界戦へ照準",
-      "layer1": "昨年のブエルタ王者ヴィンゲゴー（ヴィスマ）は今季ブエルタを回避。プランはジロ＋ツールで、ヴィスマはブエルタを“ステージ狩り”に切り替え、ファンアールトとブレナンで勝負する。",
-      "layer2": "背景は二つ。①シーズン設計＝三大GTのうちジロとツールに主眼を置き、ブエルタは主力温存。②ツールでの落車で鎖骨を骨折し、まずは確実な回復が最優先。目線は9月の世界選手権（モントリオール）に向く。だから8/22モナコ発のブエルタは、ポガチャル vs ログリッチ／マスら“挑戦者”の構図が主役になる。王者不在は空位ではなく、来季以降の因縁を仕込む余白でもある。",
+      "id": "20260812-arctic-race",
+      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
+      "image": "https://www.arctic-race-of-norway.com/img/global/logo-og.png",
+      "headline": "明日8/13開幕、世界最北のステージレース『アークティック・レース・オブ・ノルウェー』——出走108人中66人が新顔、勝敗を分けるのは第3“10.8%の壁”",
+      "layer1": "ブエルタ前の谷間を埋める4日間、8/13〜16のアークティック・レース・オブ・ノルウェーが開幕。暫定出走108人のうち66人が新顔という“世代交代”の一戦で、スプリントはE・ヴァーノン、総合はファンエートフェルトらが有力とされる。",
+      "layer2": "深掘りすると、全4ステージ計693.8kmで、決着は最短145.5kmの第3ステージ。ほぼ平坦から一転、最後は『3.4km・平均10.8%』の激坂でストールヘイア山頂へ駆け上がる。純スプリンターでも純クライマーでもなく“横風と短い急坂をこなす万能型”が勝つ、北欧らしいサバイバル。日本での知名度は低いが、若手の出世レースとして見応えがある。",
       "sources": [
-        { "t": "Cyclingnews（ヴィスマ2026計画）", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/completing-the-grand-tour-set-in-2026-jonas-vingegaard-reportedly-has-deal-in-place-to-make-giro-d-italia-debut/", "d": "2026-01" },
-        { "t": "Team Visma | Lease a Bike", "u": "https://www.teamvismaleaseabike.com/race-preview/news/beyond-tour-ambitions-vingegaard-aims-to-complete-trilogy-in-giro-ditalia/", "d": "2026-01" }
+        { "t": "Arctic Race of Norway", "u": "https://www.arctic-race-of-norway.com/en/news/2026/fresh-faces-new-ambitions/956", "d": "2026-08-10" },
+        { "t": "CyclingUpToDate", "u": "https://cyclinguptodate.com/cycling/stages-profiles-arctic-race-of-norway-2026", "d": "2026-08-09" }
       ],
-      "status": "確定＝ヴィンゲゴーのブエルタ回避・ヴィスマのステージ狙い方針。曖昧＝鎖骨回復の進捗と世界戦出場可否は今後の本人・チーム発表待ち（要続報）。"
+      "status": "確定＝8/13〜16開催・全4ステージ・第3が山頂決戦／出走108人・新顔66人。"
     },
     {
-      "id": "20260811-wheel-ranking-two-tier",
-      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://img.my-best.com/product_images/145553ffbec49ca1e191982c1afddd66.jpg",
-      "headline": "【経営メモ・市場】8/10更新でも国内カーボンホイールは『中華完組が上位固定』——SUPERTEAMが2〜4万円台、対するシマノ完組は14.8万円の“二層構造”",
-      "layer1": "マイベストのカーボンホイール人気ランキングが8/10に更新。上位はSUPERTEAM（¥29,734・1,503g・50mm・チューブレス）やSUPERTEAM（¥39,899・UCI認証・2年保証）、ELITEWHEELS（¥109,999・1,314g）。価格.comの8月ホイールランキングでもSUPERTEAM ¥38,874が上位。",
-      "layer2": "価格帯を見ると市場は明確に二層。①中華完組の“¥2〜4万・50mm・TL”ゾーンが数で上位を固定、②シマノULTEGRA WH-R8170-C36-TL ¥148,500に代表される国内大手の“¥15万前後”ゾーン。買い手の入口は圧倒的に前者で、うちの取扱い（8LIEN／CRW／GOOSYNN等）はまさにこの主戦場。経営目線では『安さ』でなく“UCI認証・保証・整備”を乗せて中価格帯（10万円前後）で戦うのが勝ち筋。単なる最安値競争に降りない。",
+      "id": "20260812-endurance-aero",
+      "genre": "parts", "genreLabel": "PARTS", "genreJa": "パーツ", "hot": false,
+      "image": "https://bikerumor.com/wp-content/uploads/2026/08/2026-Stevens-Izoard-all-rounder-aero-carbon-endurance-road-bike_photo-by-Markus-Greber_riding.jpg",
+      "headline": "“快適系”が続々エアロ武装——8/6発表のステベンス新『イゾアール』が象徴、エンデュランスでも32cを飲みつつ空力化する2026の潮流",
+      "layer1": "8/6にステベンスが新型『イゾアール』を発表。レース機アルカリの空力と、エンデュランス機ゼニスの快適ジオメトリを掛け合わせた“オールラウンダー”で、砂時計型ヘッドや整流ダウンチューブを採り入れつつ32mmタイヤまで対応する。",
+      "layer2": "先回りして流れを見ると、これは単発でなく“エンデュランスのエアロ化”という2026の潮流だ。キャニオンも新型エンデュレースCFRを、切り詰め翼断面・ドロップドステー・一体コクピットでほぼエアロ機に寄せてきた（30cクリアランス）。つまり『速さ』と『快適＆太タイヤ』の二択は薄れ、“1台で両取り”が新標準に。うちの接客でも“どっちか”でなく“どう両立させるか”で提案できる。",
       "sources": [
-        { "t": "マイベスト（カーボンホイール）", "u": "https://my-best.com/21017", "d": "2026-08-10" },
-        { "t": "価格.com（8月ホイールランキング）", "u": "https://kakaku.com/ranking/bicycle/0009_0002/0034/", "d": "2026-08" }
+        { "t": "Bikerumor", "u": "https://bikerumor.com/2026-stevens-izoard-all-rounder-road-bike-updated/", "d": "2026-08-06" },
+        { "t": "BikeRadar（キャニオン）", "u": "https://www.bikeradar.com/news/canyon-endurace-cfr-2026-spotted", "d": "2026-03-25" }
       ],
-      "status": "確定＝両ランキングの上位に中華完組・価格帯。数値は各サイト掲載の実売表示（変動あり）。"
+      "status": "確定＝ステベンス新イゾアールは8/6発表・32c対応／エンデュランスのエアロ化は複数ブランドで進行中。"
     },
     {
-      "id": "20260811-summer-shohsen",
-      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://img.my-best.com/product_images/41db0ed8f4062fcbd4279c7fa3b1263e.jpg",
-      "headline": "【経営メモ・市場】お盆の実務は『試乗会ラッシュ×型落ち値下げ』——メリダ／キャノンデールが各地で8/8〜開催、ワイズロードは夏フェアで在庫を回す",
-      "layer1": "各社が夏の試乗会を集中投入。メリダはセオサイクル初石店（千葉・流山）で8/8〜17、キャノンデールはなるしまフレンド神宮店で「TEST RIDE WEEK」8/8〜16。ワイズロードONLINEはサマーフェア（〜8/31）と値下げ・アウトレット（SCOTT ADDICT RC等）を展開。",
-      "layer2": "8月は“仕込み＆処分”が同時進行する月。新車の本格モデルチェンジと在庫処分の本番は10〜11月だが、夏は試乗需要が高い。経営目線の勝ち筋は、値引き合戦に降りず『実車体験→指名買い＋整備・フィッティング』で回転と粗利を作ること。試乗会は集客の口実として使い、うちの中華完組も“店で跨いで比べられる”体験に接続すると納得感が段違いになる。",
-      "sources": [
-        { "t": "サイクルスポーツ（試乗会情報）", "u": "https://www.cyclesports.jp/", "d": "2026-08-10" },
-        { "t": "ワイズロード ONLINE", "u": "https://online.ysroad.co.jp/shop/l/l-pricedown-01/", "d": "2026-08" }
-      ],
-      "status": "確定＝各試乗会の会期・ワイズロードの夏施策は各公式で告知。曖昧＝値下げ幅は商品・時期で変動、店頭確認が前提。"
-    },
-    {
-      "id": "20260811-china-wheel-smart-choice",
-      "genre": "wheel", "genreLabel": "WHEEL", "genreJa": "ホイール", "hot": false,
-      "image": "https://img.my-best.com/product_images/53965a0e3a8b60b1ccabf1bc1e98aa64.jpg",
-      "headline": "【Xで話題】中華カーボンは『怪しい』から『賢い選択』へ——SNSでは今も“粗悪品”論と“もう本命”論が交錯、見極めは《UCI認証・実測・保証》の3点",
-      "layer1": "国内ブログ・SNSでは「中国製は粗悪品、その考えでは取り残される」という論調が広がる一方、依然“中華は不安”という声も根強く、コスパと信頼性を巡って賛否が交錯している。",
-      "layer2": "実態を潜ると、2025→2026で品質は急伸。大手の1/3〜1/2の価格ながら、重量・剛性・空力は“レースで表彰台を狙える”水準に到達したとの評価が増えた（例：大手¥20〜30万に対し、中華は¥5〜7万台で近い仕様）。ただし『中華』と一括りは危険で、メーカー間の格差が大きいのが真実。買い時の物差しは価格でなく、①UCI認証の有無、②公称でなく“実測”重量・振れ、③保証年数と国内サポート、の3点。うちの取扱い（8LIEN／CRW／GOOSYNN／NEPEST／YOELEO等）はこの3点で説明できる並びで、SNSの不安に“根拠”で答えられるのが強み。",
-      "sources": [
-        { "t": "IT技術者ロードバイク『中華ホイール普及学』", "u": "https://rbs.ta36.com/?p=67279", "d": "2026" },
-        { "t": "bike-memo（中華カーボン格付け2026）", "u": "https://bike-memo.com/cycle_260118_carbon-wheels/", "d": "2026-04" },
-        { "t": "マイベスト（実売ランキング裏取り）", "u": "https://my-best.com/21017", "d": "2026-08-10" }
-      ],
-      "status": "確定＝品質向上と価格差・見極め3点は複数ソースで一致。曖昧＝SNS論争の“いま”の中心投稿は出所特定まではしておらず、傾向として提示（※要裏取り）。"
-    },
-    {
-      "id": "20260811-aokippu-scam",
+      "id": "20260812-aero-vs-endurance",
       "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "https://news.tv-aichi.co.jp/data/9339/t-image.jpg?v=1777452845",
-      "headline": "【Xで話題・安全】自転車“青切符”に便乗した詐欺が発生——「その場で現金要求は100%詐欺」、名古屋では5万円被害、制度批判もSNSで再燃",
-      "layer1": "2026年4月施行の自転車青切符（交通反則通告制度）に便乗した詐欺が各地で発生。名古屋市では「歩行者がいるのに手信号しないのは違反」と声をかけられ、現金5万円をだまし取られる愛知初の被害。警察が注意喚起している。",
-      "layer2": "警察の要点は明快——本物の警察官は違反を停めても『その場で反則金を払え』とは絶対に言わない。反則金は後日、金融機関で納付するのが原則で、現場での現金要求は100%詐欺。愛知県警のSNS注意喚起には「制度自体がおかしい」という批判コメントも殺到し、青切符への反発が改めて可視化された。ローディーは①現場で現金を渡さない、②警察官の所属・氏名を確認、③不審なら110番、の3点で自衛を。ショップとしても来店客への一言注意が信頼になる。",
+      "image": "https://c02.purpledshub.com/uploads/sites/39/2026/03/New-Canyon-Endurace-CFR_2026_Daiel-Benson_002.jpeg?webp=1&w=1200",
+      "headline": "【初中級】最初の1台は『エアロ』か『エンデュランス』か——2026は境界が溶けた、決め手は“乗る道と姿勢”のたった2点",
+      "layer1": "新型が軒並み“エアロ×太タイヤ×快適”を両取りし始めた今、初心者が最も迷う『エアロかエンデュランスか』の選択は、スペック表より“自分の使い方”で決めるのが正解になってきた。",
+      "layer2": "先回りして整理すると、判断軸は2つだけ。①走る道：荒れた舗装・ロングライド中心なら、30〜32cが入り上体が起きるエンデュランス系が疲れにくい。②姿勢：前傾を深く取れて短時間高強度も楽しみたいならエアロ系。逆に言えば、いまのエンデュランス機は十分速いので“見た目のエアロ”だけで無理な前傾を選ぶと後悔しやすい。うちなら『まず32cが入るか』『ハンドルが遠すぎないか』の2点を試乗で確認するのが確実。",
       "sources": [
-        { "t": "テレビ愛知NEWS（守山署・5万円被害）", "u": "https://news.tv-aichi.co.jp/single.php?id=9339", "d": "2026" },
-        { "t": "乗りものニュース（県警SNSに批判）", "u": "https://trafficnews.jp/post/655039/2", "d": "2026" }
+        { "t": "Bikerumor（イゾアール）", "u": "https://bikerumor.com/2026-stevens-izoard-all-rounder-road-bike-updated/", "d": "2026-08-06" },
+        { "t": "BikeRadar（エンデュレース）", "u": "https://www.bikeradar.com/news/canyon-endurace-cfr-2026-spotted", "d": "2026-03-25" }
       ],
-      "status": "確定＝制度は4月施行、便乗詐欺の手口・警察の呼びかけは報道一致。曖昧＝被害件数の全体像・SNS批判の広がりは継続報道中（※出所は要確認）。"
+      "status": "確定＝2026は両カテゴリの境界が縮小／選択軸は“走る道と姿勢”。数値より用途で選ぶのが安全。"
+    },
+    {
+      "id": "20260812-china-monocoque",
+      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
+      "image": "https://cdn.mos.cms.futurecdn.net/hU8a84L4xMb7bhrmUtBghE-2560-80.jpg",
+      "headline": "【経営メモ・市場】中華完組が『一体成型カーボン＄2,000』で殴り込み——エリートホイールズ新“ドライブ・モノ65D”、リム＆スポーク一体で約1,245g",
+      "layer1": "中華の雄エリートホイールズが、リムからカーボンスポークまで“丸ごと一体成型”の新作『ドライブ・モノ65D』を公開。65mmハイト・内幅25mm・フック付き＋シールドリムベッドで約1,245g、噂の価格は約＄2,000（※要裏取り）。ハイエンドの一体成型を一気に“中価格帯”へ引き下ろす一手だ。",
+      "layer2": "経営目線で先回りすると、論点は“割り切り”。一体成型は横剛性と反応性が高い反面、『スポークが1本折れたら丸ごと交換』という弱点がある。つまり万人向けではないが、10〜20万円で完組ハイエンドが買える時代を象徴する製品で、シマノ8/1値上げで大手完組との価格差はさらに開いた。うちの取扱帯（8LIEN／CRW／GOOSYNN等）はまさにこの“10万円前後〜10万円台”が主戦場。価格でなく『UCI認証・実測重量・保証・破損時の交換ポリシー』で差を語れば負けない。",
+      "sources": [
+        { "t": "Velo（Outside）", "u": "https://velo.outsideonline.com/road/road-gear/elite-wheels-launch-drive-mono-65d/", "d": "2026-08" },
+        { "t": "Cycling Weekly（Elitewheels）", "u": "https://www.cyclingweekly.com/reviews/bike-components/elitewheels-50d-carbon-road-wheels-review-lighter-and-half-the-price-of-even-hunt-wheels", "d": "2026-08" }
+      ],
+      "status": "確定＝一体成型・約1,245g・65mm／曖昧＝価格＄2,000は噂値（※要裏取り）、国内実売は未定。"
+    },
+    {
+      "id": "20260812-shimano-price",
+      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
+      "image": "https://shop-jp.shimano.com/cdn/shop/articles/shimano_logo_1200x1200_51a8765f-65ed-4bbc-94e2-7c4b65ac6698.jpg?v=1785122615",
+      "headline": "【経営メモ・市場】シマノ8/1値上げの『中身』が判明——ペダル・シューズ・PRO・LAZERが約2〜5%↑、上がったのは“完成車でなく周辺”",
+      "layer1": "8/1施行のシマノ価格改定は、対象が『ペダル約20型・シューズ約40型・スペア約30点・LAZERヘルメット・PROコンポ』と広範。値上げ幅はおおむね2〜5%で、例えばS-PHYREシューズは¥68,640→¥72,050、入門SPDペダルは¥4,646→¥4,879など。",
+      "layer2": "経営目線で先回りすると、今回の肝は“完成車やコンポ本体でなく周辺（履物・ペダル・PRO・ヘルメット）が上がった”点。客は完成車価格ばかり見るが、実際は『納車時の一式（ペダル・シューズ・ボトルケージ・バーテープ）』で客単価が静かに上がる。だからこそ勝ち筋は値引き合戦でなく“指名買い＋フィッティング＋整備”のパッケージ提案。旧価格在庫があるうちは周辺品の同時提案でマージンを確保しておきたい。",
+      "sources": [
+        { "t": "シマノ公式（価格改定）", "u": "https://shop-jp.shimano.com/blogs/news/price_update", "d": "2026-08-01" }
+      ],
+      "status": "確定＝8/1改定・対象はペダル/シューズ/スペア/LAZER/PRO・幅は約2〜5%（具体額は公式記載）。"
     }
   ]
 }
