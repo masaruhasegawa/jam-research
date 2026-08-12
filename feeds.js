@@ -1,5 +1,237 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-08-13",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。ブエルタ開幕まで9日、初日は『モナコ9.4kmITT』で王者ポガチャルが即差をつける構図、ログリッチは今週末後に最終判断。今日は世界最北アークティック・レース開幕、移籍市場も始動。そして大手が『中華の価格帯』に降りてきた——CUBEが完成車にカーボン完組を標準化した意味まで底まで潜りました。",
+    "cards": [
+      {
+        "id": "20260813-vuelta-itt-roglic",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/Roglic.png?width=2400&height=1260&quality=75&crop=1600%2C840%2C0%2C30",
+        "headline": "ブエルタ開幕まで9日、初日は『モナコ9.4kmITT』——ポガチャル/ファンアールト/ペデルセンのTT巧者が“開幕即差”、ログリッチの出場可否は「今週末後に最終判断」",
+        "layer1": "8/22開幕のブエルタ・ア・エスパーニャ2026は、モンテカルロのカジノ脇をスタートする『9.4kmの個人TT』で幕を開ける。短距離ながら純登坂家に差をつけられる設計で、初日の有力はポガチャル（UAE）、ファンアールト（Visma）、ペデルセン（Lidl-Trek）。",
+        "layer2": "“最有力対抗”ログリッチ（Red Bull）は練習中に車に轢かれ、クラシカ・サンセバスティアンとブルゴスを回避。出場は依然『50/50』で、ベルギー紙Het Laatste Nieuwsによればチームは「今週末が終わるまで最終決定を保留」。史上初の5勝目を狙う4度の女王が、開幕2週間前でも“走れるか未定”という異例の状況。ポガチャルにとっては、初日TTでのわずか数秒のリードが3週間の重石になる。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（スタートリスト）",
+            "u": "https://cyclinguptodate.com/cycling/startlist-vuelta-a-espana-2026-riders-tadej-pogacar-wout-van-aert-mads-pedersen-joao-almeida-oscar-onley-and-more",
+            "d": "2026-08-12"
+          },
+          {
+            "t": "Domestique Cycling（ログリッチ50/50）",
+            "u": "https://www.domestiquecycling.com/en/news/primoz-roglic-forced-to-change-vuelta-plans-after-being-hit-by-car/",
+            "d": "2026-08-08"
+          },
+          {
+            "t": "WatchCycling（ブエルタ・プレビュー）",
+            "u": "https://watchcycling.com/news/vuelta-a-espana-2026-preview/",
+            "d": "2026-08-10"
+          }
+        ],
+        "status": "確定＝初日はモナコ9.4km個人TT／ログリッチは50/50で最終判断を今週末後まで保留。※出場可否は要続報。"
+      },
+      {
+        "id": "20260813-vuelta-gc-thin",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-07%2Fpogacar-tour-francia-1283923178.jpg",
+        "headline": "なぜ今年のブエルタは『GC不作』なのか——ヴィンゲゴー・エヴェネプール・アユソ・デルトロ・カラパスが軒並み不在、ポガチャル最大の対抗は“自チームの”アルメイダ",
+        "layer1": "2026ブエルタはポガチャルが7年ぶりに出場し、GT三冠（ジロ・ツール・ブエルタ制覇）に王手。だが総合を脅かすはずの強豪が軒並み欠場し、番狂わせの目が薄い“一強”構図になっている。",
+        "layer2": "昨年覇者ヴィンゲゴーはツールの落車で鎖骨骨折・手術しリスト外。エヴェネプール、アユソ、デルトロ、セイシャス、カラパスも不在。プレビュー各紙が『対抗一番手』に挙げるのは、なんとポガチャル自身のチームメイト＝昨年2位アルメイダ。ログリッチが50/50で不確実な今、“真の挑戦者不在”そのものが今大会の物語になりつつある。裏を返せば、区間を狙う逃げ屋やスプリンターにはチャンスが広がる。",
+        "sources": [
+          {
+            "t": "ProCyclingUK（対抗馬プレビュー）",
+            "u": "https://procyclinguk.com/vuelta-a-espana-2026-contenders-preview-who-can-challenge-tadej-pogacar/",
+            "d": "2026-08-11"
+          },
+          {
+            "t": "CyclingUpToDate（ポガチャル参戦の是非分析）",
+            "u": "https://cyclinguptodate.com/cycling/analysis-the-pros-and-cons-of-tadej-pogacar-racing-the-2026-vuelta-a-espana",
+            "d": "2026-08-09"
+          }
+        ],
+        "status": "確定＝ヴィンゲゴー/エヴェネプール/アユソ/デルトロ/カラパス不在、アルメイダが対抗筆頭。"
+      },
+      {
+        "id": "20260813-arctic-race-start",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-08%2Fprofile-arcticraceofnorway2026stage3-6a7885b338bfe.png",
+        "headline": "今日8/13開幕、世界最北『アークティック・レース・オブ・ノルウェー』（4日間）——連覇狙うコービン・ストロング、初日エヴェネス→ミューレは“終盤の登り”がスプリンターの罠",
+        "layer1": "8/13〜16、北極圏ノルウェーで4ステージ制のアークティック・レースが開幕。初日はEvenes→Myre、平坦基調だが終盤に登りが待ち、純スプリンターがふるい落とされうる構成。",
+        "layer2": "2025年覇者コービン・ストロング（NZ）が連覇に挑み、ティレル、シャンプーサン、レクネスン、ヴァルグレンらパンチャーが対抗。勝者像は『短い登り・横風・変わりやすい北極の天候をこなす万能型』で、GCは最終日まで動く。スプリントはヴァーノン／ファン・ユーデン／ロナルディの争い。地味だが“総合が最後までもつれる”タイプの好素材レース。",
+        "sources": [
+          {
+            "t": "WatchCycling（プレビュー・favourites）",
+            "u": "https://watchcycling.com/road/races/arctic-race-of-norway/2026/",
+            "d": "2026-08-11"
+          },
+          {
+            "t": "CyclingUpToDate（ステージ&プロフィール）",
+            "u": "https://cyclinguptodate.com/cycling/stages-profiles-arctic-race-of-norway-2026",
+            "d": "2026-08-10"
+          },
+          {
+            "t": "Cyclingnews（アークティック・レース特設）",
+            "u": "https://www.cyclingnews.com/arctic-race-of-norway/",
+            "d": "2026-08-12"
+          }
+        ],
+        "status": "確定＝8/13開幕・ストロング連覇挑戦。初日の結果は本稿時点で未実施＝要フォロー。"
+      },
+      {
+        "id": "20260813-transfer-window",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/ZfDMVEmxYxD72P2rd9fKd8-2560-80.jpg",
+        "headline": "【移籍市場】8/1〜15の“登録期間”が始動——確定移籍が続々、ログリッチの『レッドブル退団』観測も浮上（※噂は要裏取り）",
+        "layer1": "WorldTourの移籍解禁（8/1）で来季の動きが本格化。8/1〜15が最初の選手登録期間で、各紙が確定・観測を報じ始めた。",
+        "layer2": "確定系ではグローネウェーゲンがJayco退団、ファン・ユーデンがPicnic→Alpecin、ランダがSoudal→Euskaltel、G.コルティナがMovistar→Alpecin。観測レベルではログリッチのレッドブル退団、Kate CourtneyのFDJ入り、シュミットのPinarello-Q36.5（年俸€2M観測）など。契約は12/31まで確定不要で、現時点の“噂”は断定しない。マサル視点：移籍はバイク/ホイールのスポンサー変更に直結するので、機材トレンドを読む先行指標として要ウォッチ。※退団・移籍の一部は観測段階＝要裏取り。",
+        "sources": [
+          {
+            "t": "Cycling Weekly（2027移籍まとめ）",
+            "u": "https://www.cyclingweekly.com/racing/all-the-pro-cycling-transfers-for-2027",
+            "d": "2026-08-11"
+          },
+          {
+            "t": "Cyclist（移籍の噂まとめ）",
+            "u": "https://www.cyclist.co.uk/news/cycling-transfer-rumours",
+            "d": "2026-08-10"
+          }
+        ],
+        "status": "曖昧＝確定移籍あり／退団・移籍の一部は観測段階（※要裏取り）。"
+      },
+      {
+        "id": "20260813-cube-2027-standard",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://bikebiz.com/wp-content/uploads/693209-1133910_O_P_50-cb546b-original-1786083723-1024x683.jpg",
+        "headline": "【パーツ・ホイール】CUBEが8/12発表の2027年モデルで『全車にパワメ＋カーボン完組（Newmen）を標準化』——旗艦は新“Litening Aero C:68X”",
+        "layer1": "独CUBEが2027年レンジを8/12公開。ロード／MTB／eバイク全域を刷新し、目玉は『全モデルにパワーメーターとNewmenカーボンホイールを標準装備』した点。旗艦Litening Aero C:68XはTotalEnergiesのレースバイクになる。",
+        "layer2": "“カーボン完組は後から買うご褒美”という常識が、完成車の標準装備側に移り始めた。大手が中位グレードまでカーボンホイールを載せると、購入直後のアップグレード動機が薄れ、ホイール単体販売の設計が変わる。中華完組（8LIEN／CRW／GOOSYNN等）にとっては“価格”だけでなく「標準化された大手との違い」をどう出すかが次の論点。逆に、標準完組に不満な層への『2本目・用途特化』提案は伸びしろ。",
+        "sources": [
+          {
+            "t": "BikeBiz（CUBE 2027レンジ発表）",
+            "u": "https://bikebiz.com/cube-unveils-2027-range-with-road-mtb-e-bike-more/",
+            "d": "2026-08-12"
+          },
+          {
+            "t": "BikeRadar（2026-27ロードバイク動向）",
+            "u": "https://www.bikeradar.com/features/tech/five-biggest-road-bike-launches-of-2026-so-far",
+            "d": "2026-08-08"
+          }
+        ],
+        "status": "確定＝CUBE 2027は全車パワメ＋Newmenカーボン完組を標準、旗艦Litening Aero C:68X。"
+      },
+      {
+        "id": "20260813-premium-price-attack",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/06/2026-Zipp-404-S-action-two-riders-1024x683.jpeg",
+        "headline": "【経営メモ・市場】大手が『中華の価格帯』に降りてきた——Zippが£985（約19万）でエアロ完組、CUBEはカーボン完組を標準化、中華の“価格優位”が縮む兆し",
+        "layer1": "プレミアム側の廉価攻勢が続く。Zipp 404 Sはサブ£1,000（前後ペア£985＝約19万円）でカーボンエアロ完組を投入し、CUBEは完成車にカーボン完組を標準装備。中価格帯の“値ごろ感”が押し上げられている。",
+        "layer2": "マサル視点の含意：中華完組の最大の武器は『大手の1/3〜1/2の価格』だったが、大手が中価格帯に本格参入すると単純な価格差は縮む。売りは“価格”一本足でなく、①公称と実測の裏取り②アフター・保証③相談できる店、へシフトさせるのが安全。ただしZippの£985は日本定価だと関税・為替で20万超になり得るので、実売ではなお中華完組が優位に立つ場面が多い。※国内実売・関税後価格は要確認。",
+        "sources": [
+          {
+            "t": "road.cc（Zipp 404 S サブ£1,000）",
+            "u": "https://road.cc/tech-news/zipp-launches-new-404-s-carbon-road-wheels-promising-industry-leading-aero-performance-for-under-1000",
+            "d": "2026-06-30"
+          },
+          {
+            "t": "BikeBiz（CUBEカーボン完組標準化）",
+            "u": "https://bikebiz.com/cube-unveils-2027-range-with-road-mtb-e-bike-more/",
+            "d": "2026-08-12"
+          }
+        ],
+        "status": "曖昧＝方向性は確か（大手の廉価化）／国内実売・関税後価格は要確認。Zippは2026-06-30発表の補足。"
+      },
+      {
+        "id": "20260813-roadbike-banare",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/01/zakki_C112.jpg",
+        "headline": "【Xで話題・市場】『ロードバイク離れ』論争が再燃——サイスポ2026年8月号が問題提起、初心者105完成車が“30〜40万円”常態化＆SNSマナー炎上",
+        "layer1": "「速さより体験へ」という潮流の裏で、Xやブログで“ロードバイク離れ”の議論が再燃。サイクルスポーツ2026年8月号も競争一辺倒からの脱却を提起し、価格高騰と新規客減が論点になっている。",
+        "layer2": "具体の痛点：2015〜20年に15〜20万円で買えた105アルミ／カーボンが、23〜26年は『30〜40万円台が当たり前』に。加えて“並走・信号無視・歩道暴走”動画の拡散で「ロード乗り＝マナーが悪い」レッテルが強まり、新規参入の心理的ハードルが上昇。マサル視点：新規が減る局面ほど、初心者の不安（価格・マナー・整備）を解く発信と、入門〜中価格帯の“納得の一本”提案が効く。※Xの論調は入口、価格の数字は誌・ブログ記載ベース＝要裏取り。",
+        "sources": [
+          {
+            "t": "note（サイスポ2026年8月号評）",
+            "u": "https://note.com/silicate_melt/n/nf56b3d1b86a6",
+            "d": "2026-08"
+          },
+          {
+            "t": "bike-memo（ロードバイク離れの理由）",
+            "u": "https://bike-memo.com/cycle_260114_environment/",
+            "d": "2026-01"
+          }
+        ],
+        "status": "曖昧＝“離れ”は継続的議論／価格・マナーの数字は誌・ブログ記載ベース（要裏取り）。"
+      },
+      {
+        "id": "20260813-first-carbon-wheel",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://www.minimobi-ridejournal.tama-picalog.com/wp-content/uploads/2026/05/Tyukacarbon_osusume_IK.jpg",
+        "headline": "【初中級】完成車の『カーボンホイール標準化』時代、“最初の一本”はどう選ぶ——後付けの常識が崩れても中華完組が効く場面",
+        "layer1": "CUBEの全車カーボン完組標準（8/12）に象徴されるように、「カーボンは後から買うご褒美」という前提が崩れ始めた。ではこれから初カーボンホイールを選ぶ人はどう考えるべきか。",
+        "layer2": "整理すると——①完成車に良い完組が付くなら“買い替え”でなく『2本目（用途違い＝ディープ／軽量）』発想が賢い、②標準アルミ車から一気に体感を変えたいなら中華完組（8LIEN／CRW／GOOSYNN等）が費用対効果で依然強い、③選定は「重量の公称vs実測」「フックレス対応内幅とタイヤ互換」「保証と国内サポート」を必ず裏取り。標準化が進むほど、“相談して選べる店で買う”価値がむしろ上がる。",
+        "sources": [
+          {
+            "t": "ミニモビジャーナル（中華カーボン選び方）",
+            "u": "https://www.minimobi-ridejournal.tama-picalog.com/chinesecarbon-wheels/",
+            "d": "2026-05"
+          },
+          {
+            "t": "BikeBiz（完成車カーボン完組標準化の起点）",
+            "u": "https://bikebiz.com/cube-unveils-2027-range-with-road-mtb-e-bike-more/",
+            "d": "2026-08-12"
+          }
+        ],
+        "status": "確定＝完成車のカーボン完組標準化は進行中／選定基準（実測・内幅・保証）は普遍。"
+      },
+      {
+        "id": "20260813-why-tt-bike",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039065-120.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C141",
+        "headline": "【初中級】ブエルタ初日は『わずか9.4km』——なのになぜプロは“専用TTバイク”に乗り換えるのか、初心者に効くエアロの考え方",
+        "layer1": "8/22のブエルタ開幕TTは9.4kmと短い。それでもトップ選手は専用のTTバイク・ディープホイール・深い前傾ポジションに徹底的にこだわる。数分の勝負に、なぜそこまでやるのか。",
+        "layer2": "答えは“空気抵抗は速度の2乗で効く”から。TTの高速域では消費パワーの大半が空気との戦いになり、フレーム形状より先に『体の前面投影面積（ポジション）』が最大の変数になる。初心者が費用対効果で真似るなら順番は、①ポジション見直し（ほぼ無料）→②ホイールのディープ化（体感が一番大きい）→③ウェア。うちのエアロ系ディープ完組は“普段乗りで最も分かりやすく速くなる”入口になる。※消費パワーの内訳は速度・機材・風で変動。",
+        "sources": [
+          {
+            "t": "WatchCycling（モナコ9.4kmITT）",
+            "u": "https://watchcycling.com/news/vuelta-a-espana-2026-preview/",
+            "d": "2026-08-10"
+          },
+          {
+            "t": "Domestique Cycling（ブエルタ回帰の背景）",
+            "u": "https://www.domestiquecycling.com/en/news/how-the-stars-aligned-for-tadej-pogacars-return-to-the-vuelta-a-espana/",
+            "d": "2026-08-09"
+          }
+        ],
+        "status": "確定＝ブエルタ初日は9.4kmITT／エアロの優先順位は一般論（数値は条件依存）。"
+      }
+    ]
+  },
+  {
     "date": "2026-08-12",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。ブエルタ開幕まで10日、王者ポガチャルの三冠に立ちはだかるはずの『ログリッチが練習中に車に轢かれ50/50』、ブルゴス総合はガルが初制覇、そして中華ホイールの『一体成型＄2,000』攻勢とシマノ8/1値上げの中身まで底まで潜りました。",
     "cards": [
