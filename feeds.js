@@ -1,5 +1,227 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-08-14",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。ブエルタ開幕まで8日——ポガチャルは『アルメイダと共同エース』の布陣が確定、ログリッチは出場が五分のまま2027の移籍観測（ロット-インターマルシェ有力）も加速。世界最北アークティックは初日をロナルディが競り勝ちました。機材はシマノが新デュラエース完組を投入＝『13速いよいよ』の空気。そして大手が軽量完組で“降りてきた”いま、中華の価格優位はどうなるか、底まで潜りました。",
+    "cards": [
+      {
+        "id": "20260814-roglic-vuelta-2027",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/xFW6ij5uHfmnQyVLammWqA-1024-80.jpg",
+        "headline": "ログリッチ、『二つの不確実』に挟まれる——ブエルタ出場は依然“五分”で判断は来週、その先の2027は『レッドブル退団→ロット-インターマルシェ移籍』観測が加速",
+        "layer1": "史上初の5勝目を狙うログリッチ（Red Bull、36歳）は、7月末の練習中に車に追突され、クラシカ・サンセバスティアンとブルゴス一周を回避。ブエルタ（8/22開幕）の出場可否は今も『50/50』（ガゼッタ）で、レッドブルは最終8人のメンバー発表を『来週』まで保留している。",
+        "layer2": "同時に“来季”も動いた。契約非更新でレッドブル退団が既定路線となり、ベルギー紙Het Laatste Nieuwsは『ロット-インターマルシェ入りが有力』と報道。並行してピドコックのいるピナレロ-Q36.5（Q36.5）も名乗りを上げているが、いずれも合意には至っていない。36歳が“もう1年”を望むなか、目の前のブエルタは出られるかも未定——という異例。マサル的な読み：レッドブルは8/20モナコのチーム発表直前まで引っ張る公算で、出場ならポガチャル最大の対抗、不参加ならGCはさらに“ポガチャル独り舞台”に傾く。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（出場は50/50）",
+            "u": "https://cyclinguptodate.com/cycling/primoz-roglics-bid-for-historic-fifth-vuelta-thrown-into-serious-doubt-as-chances-of-starting-down-to-50-50",
+            "d": "2026-08-08"
+          },
+          {
+            "t": "CyclingFlash（決定を先延ばし）",
+            "u": "https://cyclingflash.com/news/primoz-roglic-delays-vuelta-decision-a-little-longer",
+            "d": "2026-08-12"
+          },
+          {
+            "t": "Cyclingnews（2027はロット-インターマルシェ観測）",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/2027-transfer-drama-heats-up-as-grand-tour-champion-primoz-roglic-reportedly-eyes-switch-to-lotto-intermarche-for-next-season/",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝練習中の落車で調整遅れ、出場は五分・判断は来週／2027はレッドブル退団の方向。※移籍先・出場可否はともに要続報。"
+      },
+      {
+        "id": "20260814-arctic-stage1-lonardi",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/JY2nVa7diTz2hj5hi3RfAV-1024-80.jpg",
+        "headline": "世界最北アークティック・レース、初日は『バイクスロー』の僅差決着——ロナルディが約11ヶ月ぶり勝利、優勝候補バーノンは“発射台崩壊”で沈む、今日の第2ステージは純スプリント",
+        "layer1": "8/13開幕のアークティック・レース・オブ・ノルウェー第1ステージ（エヴェネス→ミューレ、181.9km）は、集団スプリントをジョバンニ・ロナルディ（Team Polti VisitMalta）が制した。2着ジェイソン・テッソン（TotalEnergies）、3着ライリー・ピクレル。最後は“バイクスロー（自転車の投げ出し）”で勝敗が分かれる大接戦。",
+        "layer2": "本命視されていたイーサン・バーノン（NSN）は、チームが最終発射台で位置を作れず埋没。ロナルディにとっては2025年9月のツール・オブ・イスタンブール以来、約11ヶ月ぶりの白星で、苦しんできた29歳の“復活の一勝”になった。今日8/14の第2ステージはアンデネス着で終盤の登りが少なく、『スプリンターに最も明快なチャンス』——バーノンの雪辱と、ロナルディ連勝がかかる。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ロナルディ勝利）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/arctic-race-of-norway-giovanni-lonardi-steals-the-show-in-stage-1-sprint/",
+            "d": "2026-08-13"
+          },
+          {
+            "t": "CyclingUpToDate（第2ステージ・プレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/arctic-race-of-norway-2026-stage-2-preview-profiles-favourites-predictions-ethan-vernon-eyes-redemption-as-sprinters-get-clearest-chance-in-andenes",
+            "d": "2026-08-13"
+          }
+        ],
+        "status": "確定＝第1ステージはロナルディ優勝、バーノンは発射台失敗で不発。第2ステージ（8/14）はスプリント濃厚。"
+      },
+      {
+        "id": "20260814-vuelta-uae-squad",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://www.uaeteamemirates.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-02-at-19.48.16.jpeg",
+        "headline": "UAEがブエルタ布陣を発表——ポガチャルは『アルメイダと共同エース』、登坂はヴァイン＆シヴァコフ、スペインの新星トーレスがGTデビュー",
+        "layer1": "UAE Team Emirates-XRGがブエルタ8人を発表。ポガチャルは2019年のGT初挑戦（＝ブエルタ）以来の復帰で、昨年2位のジョアン・アルメイダと『共同エース』体制を敷く。メンバーはポガチャル、アルメイダ、ジェイ・ヴァイン、パベル・シヴァコフ、パブロ・トーレス、ケビン・フェルマルケ、ドメン・ノヴァク、イボ・オリベイラ。",
+        "layer2": "ヴァインとシヴァコフが実績ある登坂アシスト、19歳格のパブロ・トーレスは好調な2026年を経てGTデビュー。ポガチャルは今季ジロ＆ツールに続く“同年3つ目のGT”を狙い、キャリアで唯一欠けるブエルタ制覇＝GT三冠に王手をかける。マサル視点の裏読み：最大の対抗は皮肉にも“自チームのアルメイダ”で、開幕モナコ9.6km個人TT→グラナダ着（全3,283.7km・獲得58,156m）の超山岳版で、UAEの二枚看板がどう機能するかが最初の見どころ。",
+        "sources": [
+          {
+            "t": "UAE Team Emirates-XRG（公式・布陣発表）",
+            "u": "https://www.uaeteamemirates.com/uae-team-emirates-xrg-unveil-squad-for-vuelta-a-espana/",
+            "d": "2026-08"
+          },
+          {
+            "t": "CyclingUpToDate（スタートリスト）",
+            "u": "https://cyclinguptodate.com/cycling/startlist-vuelta-a-espana-2026-riders-tadej-pogacar-wout-van-aert-mads-pedersen-joao-almeida-oscar-onley-and-more",
+            "d": "2026-08-12"
+          }
+        ],
+        "status": "確定＝UAEはポガチャル＋アルメイダの共同エース、8人発表。※GT三冠達成は結果次第。"
+      },
+      {
+        "id": "20260814-vingegaard-worlds",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/Team-Visma-Lease-a-Bike/CORVOS_00038962-289.jpg?width=2400&height=1260&quality=75&crop=6000%2C3150%2C0%2C425",
+        "headline": "【人間ドラマ】ヴィンゲゴー、鎖骨手術後『まだバイクに触れていない』——9月モントリオール世界戦は「どうなるか自分でも分からない」、ペデルセンは“間に合う”とエール",
+        "layer1": "ツール第15ステージの落車で鎖骨を骨折し手術を受けたヴィンゲゴー（Visma）が、手術後初のアップデートで『まだ一度もバイクに乗れていない』と告白。ツール・オブ・デンマークにも姿は見せたが未始動で、チームは追加レースをまだ組めていない。",
+        "layer2": "世界選手権は9/20〜27にモントリオールで開催（＝北米・52年ぶり）。本人は「鎖骨がどう反応し、どう治るか次第。まだ分からない」と慎重で、残り約5週間で“世界最高峰と戦えるレベル”まで戻せるかは疑問符も残る。チームメイトのペデルセンは『世界戦の頃には鎖骨は治っているさ』と激励。今季はジロを制し“ジロ＆ツール・ダブル”に挑んだ末の中断だけに、静かな復帰戦が焦点。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（ペデルセンのエール／出場不透明）",
+            "u": "https://cyclinguptodate.com/cycling/jonas-your-collarbone-will-be-healed-by-the-time-we-race-the-worlds-mads-pedersen-sends-message-to-vingegaard-with-2026-return-still-uncertain",
+            "d": "2026-08-06"
+          },
+          {
+            "t": "Domestique Cycling（モントリオール世界戦は“ありえなくはない”）",
+            "u": "https://www.domestiquecycling.com/en/news/montreal-worlds-not-out-of-the-question-for-vingegaard-after-tour-crash/",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝手術は成功も術後未始動、世界戦出場は本人も未確定。※回復の進み方で判断。"
+      },
+      {
+        "id": "20260814-shimano-dura-ace-wheels",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/Pm6DzMEABQ2rYoesxef9y9-1920-80.jpg",
+        "headline": "シマノが新型デュラエース完組『WH-R9370』を発表——最大220g軽量化・カーボンスポーク・内幅23mmで28〜30cタイヤ最適化、9月発売。“R9300世代の第一弾”に「13速いよいよ」の観測",
+        "layer1": "シマノが新デュラエース完組を投入。ロードはC36／C50／C60、TT用にC99。C36は1,170g（従来1,350g）、C50は1,302g（同1,461g）、C60も1,400g切りと、ホイールセットで最大220g軽くなった。リム内幅は2mm拡大の23mmで、28〜30cタイヤに最適化。発売は2026年9月。",
+        "layer2": "ハブは高級路線の“カップ&コーン”を維持しつつベアリング交換可・回転抵抗は一般カートリッジ比30%減を主張。注目は品番で、これが『R9300』ネーミングを冠する最初の製品＝新デュラエース群の号砲と読める。パリ〜ルーベでは新型ペダルの試作も目撃されており、業界は『13速デュラエース（R9300）』本体の登場を秒読みと見る。価格は未発表。マサル的着地：完組が“内幅拡大＋28〜30c前提”に振れた＝タイヤ太幅化がホイールの設計を作り替えている、という潮流の象徴。",
+        "sources": [
+          {
+            "t": "BikeRadar（WH-R9370詳細）",
+            "u": "https://www.bikeradar.com/news/shimano-dura-ace-r9370-wheels",
+            "d": "2026-07-29"
+          },
+          {
+            "t": "Cyclingnews（新完組＝新群前触れか）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/shimano-launches-brand-new-dura-ace-wheel-range-does-this-mean-a-new-groupset-is-imminent/",
+            "d": "2026-07-29"
+          }
+        ],
+        "status": "確定＝WH-R9370発表・9月発売・スペック公表。曖昧＝13速本体『R9300』は未発表（時期は観測）。"
+      },
+      {
+        "id": "20260814-tyre-width-rim",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/99238213-685f-4bb2-ad1e-6402eb0e5d4a/thumbnails/9c60d722-43ad-433c-82c1-2264c317cafb.jpg?appId=32337f2f-7841-4ef6-a233-d1f001580530&w=1200",
+        "headline": "【初中級】完組が『内幅23mm・28〜30c前提』へ——いま初中級が一番ミスる“リム内幅とタイヤ幅の組み合わせ”を、シマノ新完組を入口に整理",
+        "layer1": "シマノ新デュラエース完組が内幅を23mmへ広げ「28〜30cに最適化」と明言したように、2026年の完組は太タイヤ前提が標準。だが手持ちホイールの内幅を知らずに“細いタイヤ”を組むと、性能も安全もズレる。",
+        "layer2": "先回りの答え：内幅（フックドの一般値）21mmなら28cが好バランス、23mmなら28〜30cが基準、25mm級なら30〜32cが素直。ざっくり“実測タイヤ幅はリム内幅＋7〜10mmに膨らむ”ので、内幅23mmに28c表記を張ると実測30c前後になり、クリアランスとハンドリングが変わる。フックレスは対応タイヤ・上限空気圧の指定が厳しく退潮気味なので、初中級はまず『フックド＋内幅に合う28〜30c＋メーカー指定内の空気圧』が安全。中華完組を選ぶときも“内幅の表記”を必ず確認するのが失敗しないコツ。",
+        "sources": [
+          {
+            "t": "BikeRadar（新完組が28〜30c最適化＝太タイヤ前提を裏付け）",
+            "u": "https://www.bikeradar.com/news/shimano-dura-ace-r9370-wheels",
+            "d": "2026-07-29"
+          }
+        ],
+        "status": "確定＝完組は内幅拡大・28〜30c前提へ。目安値は一般的な推奨で、最終はメーカー指定を優先（※タイヤ/リムの適合表を確認）。"
+      },
+      {
+        "id": "20260814-market-major-vs-china",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png?media=1716897874",
+        "headline": "【経営メモ・市場】大手が“軽量完組”で降りてきた——シマノ新デュラエースが220g減、Xでは『もう中華でよくない？』論と『やっぱり本家』論が再燃、店の値付けはどう構えるか",
+        "layer1": "シマノが新デュラエース完組で最大220g軽量化・カーボンスポーク採用と“中華完組の土俵”に本気で踏み込んだ。国内のロードバイク層の間でも、Xで『大手が軽くしてきたなら中華の価格優位は薄れる？』という声と『信頼と入手性は本家』という声が交錯している。",
+        "layer2": "深掘りの実態：中華軽量完組は依然として価格帯が段違い（例：ウィンスペースLún HYPER Lightは1,250g級で中国価格9,400元＝約19万円、西側でも1,500ドル前後）。対する新デュラエース完組は価格未発表だが、旧R9270世代の実勢からして数十万円コースになる公算。つまり“軽さの絶対値”は詰まっても『価格差』は当面残る＝二層構造は崩れない。ショップの構えとしては、(1)大手完組は「保証・供給・リセール」を武器に、(2)中華完組は「同じ重量帯を半額前後で」という提案に整理すると、値引き競争に巻き込まれずに済む。数字は要現地確認（為替・仕入で変動）。",
+        "sources": [
+          {
+            "t": "Cyclingnews（シマノ新完組・軽量化）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/shimano-launches-brand-new-dura-ace-wheel-range-does-this-mean-a-new-groupset-is-imminent/",
+            "d": "2026-07-29"
+          },
+          {
+            "t": "Cyclists Hub（Winspace Lún HYPER Light 価格/重量）",
+            "u": "https://www.cyclistshub.com/lun-hyper-light-wheels/",
+            "d": "2026-05"
+          }
+        ],
+        "status": "確定＝大手が軽量完組を投入。曖昧＝新完組の国内価格は未発表、価格差の縮小幅は現時点で試算。※Xで話題、価格は各社公称・要現地確認。"
+      },
+      {
+        "id": "20260814-market-obon-sale",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://pedalism.jp/wp-content/uploads/2026/08/ec_p681.jpg",
+        "headline": "【経営メモ・市場】お盆は『型落ち処分の底』、9月に新モデルで値上がり——買い手は今、店は在庫回転の勝負どころ",
+        "layer1": "国内ECではワイズロードが8/7〜のSUMMER FAIR追加キャンペーン（8/31まで）を実施するなど、8月は旧モデルの処分セールが本格化。買い手向け情報では『同一車種でもEC間で1万円級の価格差』が出ており、8月型落ちが年間で最も安い局面と整理されている。",
+        "layer2": "先回りの実務：新モデル切替は例年秋口で、9月以降は円安・値上げ基調も重なり“同スペックが上振れ”しやすい。だから(1)旧モデル完成車を今の処分価格で取りに行くか、(2)値上がり前提で早めに押さえるか、の二択が合理的。ショップ視点では、8月は『型落ち完成車の在庫を回して現金化＋パーツ/工賃で粗利を確保』が定石。青切符（4月施行）以降はメンテ・パーツ需要が下支えしているので、完成車の薄利は部品・整備で取り返す設計にすると、夏枯れでも数字が作れる。",
+        "sources": [
+          {
+            "t": "Pedalism.jp（ロードが安くなる時期・2026年版）",
+            "u": "https://pedalism.jp/road-bike-sale-timing-when-cheap/",
+            "d": "2026-08"
+          },
+          {
+            "t": "ワイズロード ONLINE（SUMMER FAIR）",
+            "u": "https://online.ysroad.co.jp/shop/l/l-pricedown-01/",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝8月は型落ち処分が本格化、EC間の価格差大。※具体値・在庫は各店で変動、要確認。"
+      },
+      {
+        "id": "20260814-china-carbon-choose",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://www.pandapodium.cc/wp-content/uploads/2025/11/26s5-scaled.jpg",
+        "headline": "【初中級】大手が軽量完組を出した“今こそ”——初めての中華完組は『カーボンスポーク vs スチール／内幅／認証・保証』の3点で選ぶ",
+        "layer1": "シマノが軽量完組で本気を出した今、初中級の関心は『同じ軽さを中華で安く取れるか』に戻ってきた。中華勢もFARSPORTSが2026年“Sシリーズ（カーボンスポーク）／EVO Cシリーズ（スチールスポーク）”へ整理し、受注生産（納期5〜10日）で“価格から設計主導”に舵を切っている。",
+        "layer2": "先回りの選び方：(1)カーボンスポーク＝軽く反応が鋭いが価格↑・補修性はブランド依存、スチール＝重いが安く補修が容易、初めてはまずスチールでも十分。(2)リム内幅は前カード同様“28〜30c前提の23mm級”が使いやすい。(3)最重要はカタログ重量より『UCI/相当の試験・実測レビュー・保証と国内サポート』の3点。安さだけでなく“検品と設計の裏付け”があるブランドを選べば、大手が軽くしてきた今でも中華完組は十分に賢い選択になる。うち（8LIEN/CRW/GOOSYNN/NEPEST/FARSPORTS/PARTICLE）の強みも、まさにここ。",
+        "sources": [
+          {
+            "t": "Panda Podium（FARSPORTS 2026 Sシリーズ・受注生産）",
+            "u": "https://www.pandapodium.cc/product/farsports-2026-s-series-carbon-spokes-wheelset/",
+            "d": "2026"
+          },
+          {
+            "t": "VeloFanatics（2026 中華カーボン完組の総括）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝中華勢はカーボン/スチール2系統・受注生産化。判断軸（内幅・認証・保証）は普遍。※各社の重量/価格は公称、実測は要確認。"
+      }
+    ]
+  },
+  {
     "date": "2026-08-13",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。ブエルタ開幕まで9日、初日は『モナコ9.4kmITT』で王者ポガチャルが即差をつける構図、ログリッチは今週末後に最終判断。今日は世界最北アークティック・レース開幕、移籍市場も始動。そして大手が『中華の価格帯』に降りてきた——CUBEが完成車にカーボン完組を標準化した意味まで底まで潜りました。",
     "cards": [
