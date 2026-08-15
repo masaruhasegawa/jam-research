@@ -1,5 +1,217 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-08-16",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。アークティックは24歳シルバが『ウルグアイ初の総合リーダー』へ王手、ブエルタは開幕1週間前でログリッチの出場可否が最終週まで持ち越し。機材は新型ドマーネが名物『アイソスピード』を捨てて軽量化——エンデュランスの潮流が変わりました。",
+    "cards": [
+      {
+        "id": "20260816-arctic-silva",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-05/guillermo-thomas-silva-6a003a68514ee.jpg",
+        "headline": "アークティック・レース第3ステージ、24歳トマス・シルバが『激坂ストールヘイア』を制し総合首位——ウルグアイ史上初のWTプロが、母国初の“ステージレース総合リーダー”に王手",
+        "layer1": "8/15、世界最北のステージレース『アークティック・レース・オブ・ノルウェー』第3ステージ、Storheia山頂（最後は勾配15%）でXDSアスタナのトマス・シルバがファンエートフェルトの飛び出しを差し返して優勝。総合でも2位ファンエートフェルトに10秒、3位ピナレッロに21秒差をつけて首位に立った。",
+        "layer2": "シルバは24歳、ウルグアイ人初のワールドツアー選手。今季ジロ第2ステージを勝ち『南米ウルグアイ人初のグランツール区間勝利＆マリアローザ着用』という歴史を作った新星で、パンチ力とスプリントを併せ持つ。最終第4ステージ（今日8/16・ソートラン→ナルヴィク190.8km、フィニッシュは2.8km・平均8%の登り）を守り切れば、母国に初のステージレース総合優勝を持ち帰る。地味な北欧レースだが“新しい主人公”が生まれる瞬間だ。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/arctic-race-of-norway-thomas-silva-holds-off-lennert-van-eetvelt-on-steep-uphill-sprint-to-win-stage-3-and-takes-race-lead/",
+            "d": "2026-08-15"
+          },
+          {
+            "t": "CyclingUpToDate（第4プレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/arctic-race-of-norway-2026-stage-3-preview-profiles-favourites-predictions-gc-battle-set-to-explode-on-brutal-storheia-summit-finish",
+            "d": "2026-08-15"
+          }
+        ],
+        "status": "確定＝第3ステージ優勝・総合首位（主催/複数メディア）。曖昧＝最終第4ステージの結果は今日決着。"
+      },
+      {
+        "id": "20260816-vuelta-roglic",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2025/Men/Red-Bull-BORA-hansgrohe/CORVOS_00037104-098.jpg?width=832&height=468&format=jpg&crop=2000%2C1125%2C0%2C104",
+        "headline": "ブエルタ開幕1週間前、ログリッチの出場可否が『最終週まで持ち越し』——7月の練習中“車と接触”の後遺症、6月以来レースなし、ポガチャル参戦で5勝目に暗雲",
+        "layer1": "8/13、レッドブル・ボーラは4度のブエルタ王者プリモシュ・ログリッチのブエルタ出場を『レースウィークまで最終判断しない』と表明。関係者は「あと1週間様子を見る」とし、8/20モナコのチーム発表の直前まで結論を持ち越す。",
+        "layer2": "ログリッチは7月末の練習中に車と接触して以降、6月の国内選手権を最後にレース復帰できず、調整のはずのサンセバスティアンもブエルタ・ア・ブルゴスも欠場。回復は本人の想定より遅れている。モナコ在住で自宅リハビリできるのが救いだが、同じ舞台に“GTグランドスラム”へ王手のポガチャルが立つ以上、史上初の『ブエルタ5勝目』のハードルは一段と上がった。出るか出ないか——ここまで引っ張るのは、コンディションが五分五分の裏返しだ。",
+        "sources": [
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/red-bull-leave-primoz-roglic-vuelta-decision-until-final-days/",
+            "d": "2026-08-13"
+          },
+          {
+            "t": "CyclingUpToDate（スタートリスト）",
+            "u": "https://cyclinguptodate.com/cycling/startlist-vuelta-a-espana-2026-riders-tadej-pogacar-wout-van-aert-mads-pedersen-joao-almeida-oscar-onley-and-more",
+            "d": "2026-08-11"
+          }
+        ],
+        "status": "確定＝出場判断はレースウィークに持ち越し（レッドブル/複数メディア）。曖昧＝出場可否・コンディションの詳細は未確定。"
+      },
+      {
+        "id": "20260816-kruijswijk-farewell",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2025-06/kruisjwijk-68557f981025d.jpg",
+        "headline": "39歳クルイスウィックが『今季ブエルタで現役引退』を表明——ラボバンク時代から17年、“あと1つのグランツール”を母国近くモナコ発で締める",
+        "layer1": "8/10、ヴィスマ・リースアバイクのステフェン・クルイスウィック（39）が、8/22開幕のブエルタを最後に現役引退すると明かした。「残るグランツールは1つ。それが最後。走り終えたら、選手としての僕は終わりだ」。",
+        "layer2": "彼はラボバンク〜ユンボ〜ヴィスマと“同じ血統のチーム”一筋17年。2019年ツール総合3位、2016年ジロではマリアローザを6日間着るも、アニェッロ峠の下りで“雪の壁”に突っ込む悲劇で総合4位、2018年ブエルタも4位。派手な勝利は少ないが、エースを支え続けた玄人好みの登坂職人だ。通算グランツール出走は24回。最後の大舞台が“自宅に近い”モナコ発というのも縁——結果でなく、17年の物語に拍手を送りたい1本。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/one-of-vismas-most-recognisable-riders-confirms-post-vuelta-retirement-after-remarkable-17-years-with-dutch-squad-and-tour-de-france-podium",
+            "d": "2026-08-10"
+          }
+        ],
+        "status": "確定＝本人が引退とブエルタが最後のGTであることを明言（複数メディア）。"
+      },
+      {
+        "id": "20260816-vuelta-newgen",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-08/oscaronley-6a734f6e308c8.jpg",
+        "headline": "ブエルタ2026、ポガチャルとログリッチの“下”で新世代GCが台頭——不調から復活のオンリー、ブルゴスを制したガル、若きブイトラゴが虎視眈々",
+        "layer1": "8/22開幕ブエルタのスタートリストが固まる中、総合の主役はポガチャル対ログリッチだが、その一つ下の世代——ネットカンパニー・イネオスのオスカー・オンリー、デカトロンのフェリックス・ガル、バーレーンのサンティアゴ・ブイトラゴらが“表彰台”を狙って名を連ねる。",
+        "layer2": "スコットランドの新鋭オンリーは今季、オーヴェルニュでの落車（肩脱臼）でツールを棒に振る不遇の年だったが、ブルゴスで移籍後初勝利を挙げ「良い脚を取り戻した」と復調。そのブルゴス総合を制したのがガルで、山岳での爆発力は本物。ヴィンゲゴー・エヴェネプール・アユソ不在で“空いた表彰台”を、20代半ばの伸び盛りが奪い合う構図だ。ポガチャル圧勝ムードの陰で、実は「2位・3位の物語」が今年のブエルタの見どころになる。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（スタートリスト）",
+            "u": "https://cyclinguptodate.com/cycling/startlist-vuelta-a-espana-2026-riders-tadej-pogacar-wout-van-aert-mads-pedersen-joao-almeida-oscar-onley-and-more",
+            "d": "2026-08-11"
+          },
+          {
+            "t": "CyclingUpToDate（オンリー）",
+            "u": "https://cyclinguptodate.com/cycling/up-to-this-point-it-hadnt-been-a-good-season-oscar-onley-turns-luck-around-with-burgos-win",
+            "d": "2026-08-05"
+          }
+        ],
+        "status": "確定＝各選手のブエルタ登録・ブルゴス結果（複数メディア）。曖昧＝最終メンバー・エース序列は開幕直前に確定。"
+      },
+      {
+        "id": "20260816-britain-women",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/c6kaKYska32a4MojE9XapD-1024-80.jpg",
+        "headline": "来週8/19開幕『ツアー・オブ・ブリテン女子』——コペツキ／ヴィーベスら“ツール女子の主役”が集結、5日間19チームの豪華スタートリスト",
+        "layer1": "8/13、主催が『ツアー・オブ・ブリテン女子』（8/19〜23・カンバーランド発、5日間）の暫定スタートリストを発表。世界王者ロッテ・コペツキ（2024年覇者）、ツール女子で開幕2連勝＆緑を獲ったローレナ・ヴィーベス、ディフェンディング王者アリー・ウォラストン、キム・ル・クールら“今季ツール女子の顔”が名を連ねた。",
+        "layer2": "出走は19チーム（うち女子ワールドツアー13）。ツール・ド・フランス・ファムを完全制覇したフォレリング不在でも、スプリント・パンチ・独走とタイプの違う勝ち星請負人が揃い、5日間ながら“ミニ・グランツール”級の顔ぶれ。女子ロードは日本でも配信・SNSで注目が増しており、同僚コペツキ対ヴィーベス（SDワークス）の“身内対決”は絵になる。ブエルタ開幕（8/22）と重なる週だが、女子も見逃せない。",
+        "sources": [
+          {
+            "t": "British Cycling",
+            "u": "https://www.britishcycling.org.uk/tourofbritain/article/20260813-tour-of-britain-Champions-and-stage-winners-headline-latest-provisional-Lloyds-Tour-of-Britain-Women-rider-announcement-0",
+            "d": "2026-08-13"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-france-femmes-stage-winners-lorena-wiebes-and-kim-le-court-pienaar-headline-star-studded-start-list-for-tour-of-britain-women/",
+            "d": "2026-08-13"
+          }
+        ],
+        "status": "確定＝暫定スタートリスト・日程（主催/英連盟）。曖昧＝最終出走メンバーは開幕直前に確定。"
+      },
+      {
+        "id": "20260816-trek-domane",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/pSxPzakkgfpiC7zJ2TU26V-2560-80.jpg",
+        "headline": "新型トレック『ドマーネ』第5世代が発表——名物“アイソスピード”を廃止、フレーム最大305g減・40mmタイヤ対応・入門は約£2,500へ値下げ",
+        "layer1": "トレックがエンデュランスの看板『ドマーネ』を刷新。振動を逃がす名物機構“IsoSpeed”とダウンチューブ収納を撤廃し、フレーム単体で最大305g軽量化（最軽量完成車6.63kg／28c）。タイヤは40mmまで対応、入門価格は£2,500/€2,500/$2,200からと従来より下げた。",
+        "layer2": "トレックの説明は率直だ——「太タイヤ・低圧が普及した今、IsoSpeedが効いているのか分からない、要らないという声が多かった」。つまり“快適装備”の役目を、太いタイヤの空気量が肩代わりし始めた。8/8に触れた『快適系がエアロ武装（ステベンス新イゾアール等）』の流れと合わせると、2026のエンデュランスは「ギミックより、素の軽さ・太タイヤ・エアロ」へと再定義されつつある。裏を返せば、リム内幅とタイヤの相性がますます効く時代——完組・タイヤ選びの重要度が上がる。",
+        "sources": [
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/tech-news/trek-ditches-isospeed-on-new-domane-offering-lighter-weights-space-for-40mm-tyres-and-a-lower-entry-price",
+            "d": "2026-08-13"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/bikes/road/new-trek-domane-launched/",
+            "d": "2026-08-13"
+          }
+        ],
+        "status": "確定＝IsoSpeed廃止・軽量化・40mm対応・価格（トレック/複数メディア）。曖昧＝国内価格・入荷時期は続報待ち。"
+      },
+      {
+        "id": "20260816-tire-demand",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/cxboC9JeMDMGxqFayE38bJ-1920-80.jpg",
+        "headline": "【経営メモ・市場】8月のタイヤ実需は『手頃な定番』が回る——価格.com集計（〜8/14）はコンチ“ウルトラスポーツ3”が首位、GP5000も根強い",
+        "layer1": "価格.comのロードタイヤ人気ランキング（集計7/16〜8/14）は、1位コンチネンタル・ウルトラスポーツ3（25c・約3,300円）、2位GP5000（23c・約9,900円）、3位パナレーサー系（約4,980円）と、“手頃な練習・通勤タイヤ”とハイエンドが混在している。",
+        "layer2": "夏は消耗が早く、客の関心は『まず安くて丈夫な定番』に向かう。首位が3,300円級という事実は、値引き合戦の車体より“消耗品のリピート”が夏の現金製造機だという示唆だ。一方でGP5000（S TR含む）が上位固定＝「決戦用は指名買い」も健在。店の打ち手は明快——入門客には定番タイヤ＋工賃で回転を作り、走り込む客にはGP5000/コルサ系を提案して単価を取る“二段構え”。タイヤは在庫リスクが低く、来店頻度を上げる導線になる。",
+        "sources": [
+          {
+            "t": "価格.com（タイヤ人気ランキング）",
+            "u": "https://kakaku.com/ranking/bicycle/0009_0002/0016/",
+            "d": "2026-08-14"
+          }
+        ],
+        "status": "確定＝価格.com集計順位・期間（〜8/14）。曖昧＝実売価格は店頭・時期で変動。"
+      },
+      {
+        "id": "20260816-kaidoki",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/08/2027-Trek-Domane-opener.jpeg",
+        "headline": "【経営メモ・市場／Xで話題】再燃する『2026は買い始めやすい年』論——大手が定価を下げ（新型ドマーネ入門£2,500）、コロナ高騰は“調整期”へ、裏取りするとおおむね本当",
+        "layer1": "SNS・ブログで「今のロードは値ごろ、始めるなら今」という声が再び拡散。実際、新型トレック・ドマーネは入門を約£2,500へ下げ、国内でもトレックが主力の定価を10〜14%下げるなど、コロナ期に高騰した価格が“調整期”に入っている。",
+        "layer2": "裏取りすると、この“買い時”論はおおむね事実だ。①大手が快適装備を削って軽く・安く（ドマーネ）②中古相場は取引が増えても平均横ばい＝需給が健全化③型落ち処分の本番は10〜11月で、今はまだ“前哨”。店として怖いのは「値引き＝正義」の空気に飲まれること。買い手が強気な今こそ、勝ち筋は“安さ”でなく『指名買い＋整備＋保証』。うち（中華カーボン完組）は“10万円前後で軽量＋UCI認証＋保証”という、大手の値下げでも埋まらない価格×価値の隙間を突ける。",
+        "sources": [
+          {
+            "t": "road.cc（ドマーネ価格）",
+            "u": "https://road.cc/tech-news/trek-ditches-isospeed-on-new-domane-offering-lighter-weights-space-for-40mm-tyres-and-a-lower-entry-price",
+            "d": "2026-08-13"
+          },
+          {
+            "t": "価格.com（タイヤ実需）",
+            "u": "https://kakaku.com/ranking/bicycle/0009_0002/0016/",
+            "d": "2026-08-14"
+          }
+        ],
+        "status": "確定＝ドマーネの価格改定・大手の値下げ傾向（複数メディア）。曖昧＝『買い時』の是非は個人の予算・用途次第で、断定はしない。"
+      },
+      {
+        "id": "20260816-carbon-select",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2024/07/Hooked-vs-hookless-wheels-at-the-Tour-de-France-June-2026-1024x683.jpg",
+        "headline": "【初中級】完成車が『40mmタイヤ対応・広内幅』前提へ（新型ドマーネが象徴）——初カーボン完組で失敗しない3点は“内幅×タイヤ幅／フックレスの空気圧上限／認証・保証”",
+        "layer1": "新型ドマーネが40mmタイヤ対応と、完成車の“太タイヤ・広内幅”化がさらに進む。初中級が最初にミスるのは相変わらず『リム内幅とタイヤ幅の組み合わせ』と『フックレスの空気圧』の2点だ。",
+        "layer2": "実務的な指針。①内幅21〜23mmのリムなら28〜32cが素直（内幅が広いほど、同じタイヤが太く・低圧で使える）。②フックレス（中華完組の多くが該当）は上限“5.0bar＝72.5psi”を絶対に超えない——ETRTO基準で、超過はビード外れ＝事故につながる。プロ集団でも18チーム中フックレスは4チームだけで、実は“フックド回帰”が進行中（安全と実測の裏取り）。③そのうえで数値より《UCI認証・実測重量・保証》の3点で選ぶ。太タイヤ時代は「軽さ」より「規格の噛み合わせ」で後悔が決まる。条件さえ満たせば、中華完組は“最初の一本”に十分効く。",
+        "sources": [
+          {
+            "t": "road.cc（ドマーネ・40mm対応）",
+            "u": "https://road.cc/tech-news/trek-ditches-isospeed-on-new-domane-offering-lighter-weights-space-for-40mm-tyres-and-a-lower-entry-price",
+            "d": "2026-08-13"
+          },
+          {
+            "t": "road.cc（フックド vs フックレス）",
+            "u": "https://road.cc/content/feature/when-it-comes-rims-pro-peloton-hooked-or-not-309183",
+            "d": "2026-07-08"
+          }
+        ],
+        "status": "確定＝40mm対応・フックレス上限5.0bar・ペロトンのフックド優勢（複数メディア）。曖昧＝各完組の推奨は必ずメーカー指定値を確認。"
+      }
+    ]
+  },
+  {
     "date": "2026-08-15",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。悲しい報せが二つ——ヴォルタ・ア・ポルトガルで19歳ターリングが事故死、ブエルタ・ア・コロンビアは大地震で中止。機材はメリダが『£800グラベル』で裾野を広げ、ブエルタ開幕まであと7日です。",
     "cards": [

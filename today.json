@@ -1,164 +1,148 @@
 {
-  "date": "2026-08-15",
-  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。悲しい報せが二つ——ヴォルタ・ア・ポルトガルで19歳ターリングが事故死、ブエルタ・ア・コロンビアは大地震で中止。機材はメリダが『£800グラベル』で裾野を広げ、ブエルタ開幕まであと7日です。",
+  "date": "2026-08-16",
+  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。アークティックは24歳シルバが『ウルグアイ初の総合リーダー』へ王手、ブエルタは開幕1週間前でログリッチの出場可否が最終週まで持ち越し。機材は新型ドマーネが名物『アイソスピード』を捨てて軽量化——エンデュランスの潮流が変わりました。",
   "cards": [
     {
-      "id": "20260815-tarling",
-      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": true,
-      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-06/giro-paisaje-landscape-visma-1272064242-photoaidcom-greyscale-6a329835580f2.jpg",
-      "headline": "【訃報】19歳フィンレー・ターリング、ヴォルタ・ア・ポルトガル第8ステージで事故死——五輪選手ジョシュ・ターリングの弟、コース上に『対向車』が進入、レースは残り20kmで中立化",
-      "layer1": "8/14、ポルトガル一周の第8ステージ（アルコゼロ付近・国道N306）で、NSNデベロップメントの19歳フィンレー・ターリングが対向から進入した車と衝突し死亡。表彰式は中止、区間は残り20kmあまりで中立化された。",
-      "layer2": "彼は2023年欧州TT王者で現ネットカンパニー・イネオスのジョシュ・ターリング（21）の実弟。『レース中の一般車混入』という最悪の形で、閉鎖が甘い区間の安全管理に再び批判が向かう。プロトンの現場では、選手同士の落車より“外部要因”の死亡が近年くり返されており、UCIとレース主催の交通遮断責任が問われる見込み。まずは事実確認のみを添える——煽らない。",
+      "id": "20260816-arctic-silva",
+      "genre": "race",
+      "genreLabel": "RACE",
+      "genreJa": "レース",
+      "hot": true,
+      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-05/guillermo-thomas-silva-6a003a68514ee.jpg",
+      "headline": "アークティック・レース第3ステージ、24歳トマス・シルバが『激坂ストールヘイア』を制し総合首位——ウルグアイ史上初のWTプロが、母国初の“ステージレース総合リーダー”に王手",
+      "layer1": "8/15、世界最北のステージレース『アークティック・レース・オブ・ノルウェー』第3ステージ、Storheia山頂（最後は勾配15%）でXDSアスタナのトマス・シルバがファンエートフェルトの飛び出しを差し返して優勝。総合でも2位ファンエートフェルトに10秒、3位ピナレッロに21秒差をつけて首位に立った。",
+      "layer2": "シルバは24歳、ウルグアイ人初のワールドツアー選手。今季ジロ第2ステージを勝ち『南米ウルグアイ人初のグランツール区間勝利＆マリアローザ着用』という歴史を作った新星で、パンチ力とスプリントを併せ持つ。最終第4ステージ（今日8/16・ソートラン→ナルヴィク190.8km、フィニッシュは2.8km・平均8%の登り）を守り切れば、母国に初のステージレース総合優勝を持ち帰る。地味な北欧レースだが“新しい主人公”が生まれる瞬間だ。",
       "sources": [
-        { "t": "CyclingUpToDate", "u": "https://cyclinguptodate.com/cycling/british-cyclist-finlay-tarling-dies-aged-19-after-crash-at-volta-a-portugal-as-stage-8-neutralised", "d": "2026-08-14" },
-        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/racing/volta-a-portugal-organisers-confirm-death-of-finlay-tarling-after-serious-accident-during-stage-8/", "d": "2026-08-14" },
-        { "t": "Olympics.com", "u": "https://www.olympics.com/en/news/british-cyclist-finlay-tarling-dies-in-serious-accident-at-tour-of-portugal", "d": "2026-08-14" }
+        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/racing/arctic-race-of-norway-thomas-silva-holds-off-lennert-van-eetvelt-on-steep-uphill-sprint-to-win-stage-3-and-takes-race-lead/", "d": "2026-08-15" },
+        { "t": "CyclingUpToDate（第4プレビュー）", "u": "https://cyclinguptodate.com/cycling/arctic-race-of-norway-2026-stage-3-preview-profiles-favourites-predictions-gc-battle-set-to-explode-on-brutal-storheia-summit-finish", "d": "2026-08-15" }
       ],
-      "status": "確定＝主催・ポルトガル連盟が死亡を公式確認、対向車進入と発表。曖昧＝事故の詳細な状況・責任所在は調査中。"
+      "status": "確定＝第3ステージ優勝・総合首位（主催/複数メディア）。曖昧＝最終第4ステージの結果は今日決着。"
     },
     {
-      "id": "20260815-colombia-quake",
-      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/e9whpuNyu4xH5ctmbxoLRD-1024-80.jpg",
-      "headline": "ブエルタ・ア・コロンビアが『大地震で中止』——マグニチュード7.4・死者273人超、5ステージ終了時点でディエゴ・カマルゴを総合優勝に認定、道路は救援に開放",
-      "layer1": "8/13、コロンビア自転車連盟が国内最大のステージレース『ブエルタ・ア・コロンビア』を第5ステージ終了時点で中止と発表。地元メデジンEPMのカマルゴが山頂ゴールで首位に立っており、そのまま2度目の総合優勝者に認定された。",
-      "layer2": "月曜に同国を襲ったM7.4の地震（死者273人超）を受け、次ステージが被災地マニサレス（カルダス県）に入る予定だったため“道路封鎖より救援優先”で打ち切り。スポーツより人命——主催の判断は明快だった。日本のローディーには馴染みが薄いが、南米の国民的レースが災害で止まる重みは、ツールが止まるのと同じ。カマルゴは連覇を『複雑な栄冠』として受け止めている。",
+      "id": "20260816-vuelta-roglic",
+      "genre": "race",
+      "genreLabel": "RACE",
+      "genreJa": "レース",
+      "hot": false,
+      "image": "https://domestique-cycling.b-cdn.net/production/2025/Men/Red-Bull-BORA-hansgrohe/CORVOS_00037104-098.jpg?width=832&height=468&format=jpg&crop=2000%2C1125%2C0%2C104",
+      "headline": "ブエルタ開幕1週間前、ログリッチの出場可否が『最終週まで持ち越し』——7月の練習中“車と接触”の後遺症、6月以来レースなし、ポガチャル参戦で5勝目に暗雲",
+      "layer1": "8/13、レッドブル・ボーラは4度のブエルタ王者プリモシュ・ログリッチのブエルタ出場を『レースウィークまで最終判断しない』と表明。関係者は「あと1週間様子を見る」とし、8/20モナコのチーム発表の直前まで結論を持ち越す。",
+      "layer2": "ログリッチは7月末の練習中に車と接触して以降、6月の国内選手権を最後にレース復帰できず、調整のはずのサンセバスティアンもブエルタ・ア・ブルゴスも欠場。回復は本人の想定より遅れている。モナコ在住で自宅リハビリできるのが救いだが、同じ舞台に“GTグランドスラム”へ王手のポガチャルが立つ以上、史上初の『ブエルタ5勝目』のハードルは一段と上がった。出るか出ないか——ここまで引っ張るのは、コンディションが五分五分の裏返しだ。",
       "sources": [
-        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-colombia-cancelled-mid-race-to-help-prioritise-earthquake-victim-relief/", "d": "2026-08-14" },
-        { "t": "IDLProCycling", "u": "https://www.idlprocycling.com/cycling/tour-of-colombia-suspended-after-five-stages-due-to-a-severe-earthquake", "d": "2026-08-14" }
+        { "t": "Domestique Cycling", "u": "https://www.domestiquecycling.com/en/news/red-bull-leave-primoz-roglic-vuelta-decision-until-final-days/", "d": "2026-08-13" },
+        { "t": "CyclingUpToDate（スタートリスト）", "u": "https://cyclinguptodate.com/cycling/startlist-vuelta-a-espana-2026-riders-tadej-pogacar-wout-van-aert-mads-pedersen-joao-almeida-oscar-onley-and-more", "d": "2026-08-11" }
       ],
-      "status": "確定＝連盟が中止とカマルゴの総合優勝を発表。曖昧＝地震被害の最終集計は継続中。"
+      "status": "確定＝出場判断はレースウィークに持ち越し（レッドブル/複数メディア）。曖昧＝出場可否・コンディションの詳細は未確定。"
     },
     {
-      "id": "20260815-arctic-st3",
-      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-08/erland-blikra-wins-stage-2-of-the-2026-arctic-race-of-norway-6a7f39e44b643.jpg",
-      "headline": "アークティック・レース第2は地元ブリクラがスプリント制覇、ヴァーノン2着——ロナルディが黄を堅持、そして今日『初の山頂決戦ストールヘイア』でGC爆発",
-      "layer1": "8/14の第2ステージ（179.1km・アンデネス）は、ウノ-Xが発射台を作った地元ノルウェーのエルレン・ブリクラが優勝。NSNのイーサン・ヴァーノンが2着、第1勝者ロナルディが3着で総合首位を守った。",
-      "layer2": "ここまで2日連続のスプリント決着だったが、今日8/15の第3ステージは『ストールヘイア山頂ゴール』——2日ぶんの平坦が一転、クライマーが総合をひっくり返す唯一の山場。寒冷・雨基調のコンディション下、逃げ屋と登坂力のある総合勢の勝負になる。最北の地のレースは天候そのものが第2の敵で、“発射台が崩れる”ような荒れ方も昨年から続く名物。",
+      "id": "20260816-kruijswijk-farewell",
+      "genre": "race",
+      "genreLabel": "RACE",
+      "genreJa": "レース",
+      "hot": false,
+      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2025-06/kruisjwijk-68557f981025d.jpg",
+      "headline": "39歳クルイスウィックが『今季ブエルタで現役引退』を表明——ラボバンク時代から17年、“あと1つのグランツール”を母国近くモナコ発で締める",
+      "layer1": "8/10、ヴィスマ・リースアバイクのステフェン・クルイスウィック（39）が、8/22開幕のブエルタを最後に現役引退すると明かした。「残るグランツールは1つ。それが最後。走り終えたら、選手としての僕は終わりだ」。",
+      "layer2": "彼はラボバンク〜ユンボ〜ヴィスマと“同じ血統のチーム”一筋17年。2019年ツール総合3位、2016年ジロではマリアローザを6日間着るも、アニェッロ峠の下りで“雪の壁”に突っ込む悲劇で総合4位、2018年ブエルタも4位。派手な勝利は少ないが、エースを支え続けた玄人好みの登坂職人だ。通算グランツール出走は24回。最後の大舞台が“自宅に近い”モナコ発というのも縁——結果でなく、17年の物語に拍手を送りたい1本。",
       "sources": [
-        { "t": "CyclingUpToDate", "u": "https://cyclinguptodate.com/cycling/results-arctic-race-of-norway-2026-stage-2-erlend-blikra-powers-past-ethan-vernon-to-win-in-andenes-as-giovanni-lonardi-keeps-yellow", "d": "2026-08-14" },
-        { "t": "ProCyclingStats", "u": "https://www.procyclingstats.com/race/arctic-race-of-norway/2026/stage-3/result/result", "d": "2026-08-15" }
+        { "t": "CyclingUpToDate", "u": "https://cyclinguptodate.com/cycling/one-of-vismas-most-recognisable-riders-confirms-post-vuelta-retirement-after-remarkable-17-years-with-dutch-squad-and-tour-de-france-podium", "d": "2026-08-10" }
       ],
-      "status": "確定＝第2結果と総合首位。曖昧＝第3ステージは本稿執筆時点で未了（今日決着）。"
+      "status": "確定＝本人が引退とブエルタが最後のGTであることを明言（複数メディア）。"
     },
     {
-      "id": "20260815-ayuso-novuelta",
-      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-08/ayuso-dauphine-1275747349.jpg",
-      "headline": "アユソが『ブエルタ回避』を確定——ツール7位から秋はカナダ・クラシック→世界戦→初モニュメント（ロンバルディア）に照準、母国ブエルタのGC不足がさらに加速",
-      "layer1": "リドル・トレックのアユソ（23）が2026ブエルタ不出場を改めて確定。ツール7位（後半失速）を『学びの過程』とし、秋はGPケベック/モントリオール、世界戦・欧州選、そしてプロ初モニュメントのイル・ロンバルディア（10/10）に向かう。",
-      "layer2": "ブエルタ開幕はあと7日（8/22モナコ発）。ヴィンゲゴー・エヴェネプール・デルトロに続きアユソまで抜け、GC上位候補はますますポガチャル一強＋対抗ログリッチ（出場可否は今週末後に最終判断）という薄い構図に。裏を返せば、二番手集団（オンリー、シェフマンス級）に総合表彰台のチャンスが広がる“番狂わせ待ち”のブエルタになる。",
+      "id": "20260816-vuelta-newgen",
+      "genre": "race",
+      "genreLabel": "RACE",
+      "genreJa": "レース",
+      "hot": false,
+      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-08/oscaronley-6a734f6e308c8.jpg",
+      "headline": "ブエルタ2026、ポガチャルとログリッチの“下”で新世代GCが台頭——不調から復活のオンリー、ブルゴスを制したガル、若きブイトラゴが虎視眈々",
+      "layer1": "8/22開幕ブエルタのスタートリストが固まる中、総合の主役はポガチャル対ログリッチだが、その一つ下の世代——ネットカンパニー・イネオスのオスカー・オンリー、デカトロンのフェリックス・ガル、バーレーンのサンティアゴ・ブイトラゴらが“表彰台”を狙って名を連ねる。",
+      "layer2": "スコットランドの新鋭オンリーは今季、オーヴェルニュでの落車（肩脱臼）でツールを棒に振る不遇の年だったが、ブルゴスで移籍後初勝利を挙げ「良い脚を取り戻した」と復調。そのブルゴス総合を制したのがガルで、山岳での爆発力は本物。ヴィンゲゴー・エヴェネプール・アユソ不在で“空いた表彰台”を、20代半ばの伸び盛りが奪い合う構図だ。ポガチャル圧勝ムードの陰で、実は「2位・3位の物語」が今年のブエルタの見どころになる。",
       "sources": [
-        { "t": "CyclingUpToDate", "u": "https://cyclinguptodate.com/cycling/juan-ayuso-confirms-his-end-of-2026-schedule-after-opting-out-of-the-vuelta-a-espana", "d": "2026-08-14" },
-        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/racing/juan-ayuso-focuses-on-canadian-classics-world-championships-and-monument-debut-at-il-lombardia-for-second-half-of-season/", "d": "2026-08-14" }
+        { "t": "CyclingUpToDate（スタートリスト）", "u": "https://cyclinguptodate.com/cycling/startlist-vuelta-a-espana-2026-riders-tadej-pogacar-wout-van-aert-mads-pedersen-joao-almeida-oscar-onley-and-more", "d": "2026-08-11" },
+        { "t": "CyclingUpToDate（オンリー）", "u": "https://cyclinguptodate.com/cycling/up-to-this-point-it-hadnt-been-a-good-season-oscar-onley-turns-luck-around-with-burgos-win", "d": "2026-08-05" }
       ],
-      "status": "確定＝アユソの秋スケジュールと不出場。曖昧＝ログリッチのブエルタ出場可否は未確定（別途続報）。"
+      "status": "確定＝各選手のブエルタ登録・ブルゴス結果（複数メディア）。曖昧＝最終メンバー・エース序列は開幕直前に確定。"
     },
     {
-      "id": "20260815-vinge-limbo",
-      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-05/jonas-vingegaard-6a043c19c9084.jpg",
-      "headline": "ヴィンゲゴー、復帰は依然『白紙』——鎖骨骨折から1ヶ月、ヴィスマは「まだ回復中」のみ、9月モントリオール世界戦は“可能性”止まり、ラスムセンは「2027パリ〜ニースが現実的」",
-      "layer1": "ツール第15ステージの落車（鎖骨骨折）から約1ヶ月。ヴィスマは「ヨナスはまだ回復中」と述べるにとどまり、練習復帰も具体的なレース日程も未発表。復帰の唯一の可能性は9/27モントリオール世界戦だが、確約はない。",
-      "layer2": "チーム内でも見解が割れる——ペデルセンは世界戦出場を後押しする一方、元選手ラスムセンは『準備不足での出場はデンマークの不利になる』とし、現実的復帰は2027パリ〜ニースと指摘。今季すでにパリ〜ニース・カタルーニャ・ジロを制した実績があり、本人・家族とも“無理に戻らない”姿勢。焦らず2027ツールのポガチャル戦に照準、という読みが自然。",
+      "id": "20260816-britain-women",
+      "genre": "race",
+      "genreLabel": "RACE",
+      "genreJa": "レース",
+      "hot": false,
+      "image": "https://cdn.mos.cms.futurecdn.net/c6kaKYska32a4MojE9XapD-1024-80.jpg",
+      "headline": "来週8/19開幕『ツアー・オブ・ブリテン女子』——コペツキ／ヴィーベスら“ツール女子の主役”が集結、5日間19チームの豪華スタートリスト",
+      "layer1": "8/13、主催が『ツアー・オブ・ブリテン女子』（8/19〜23・カンバーランド発、5日間）の暫定スタートリストを発表。世界王者ロッテ・コペツキ（2024年覇者）、ツール女子で開幕2連勝＆緑を獲ったローレナ・ヴィーベス、ディフェンディング王者アリー・ウォラストン、キム・ル・クールら“今季ツール女子の顔”が名を連ねた。",
+      "layer2": "出走は19チーム（うち女子ワールドツアー13）。ツール・ド・フランス・ファムを完全制覇したフォレリング不在でも、スプリント・パンチ・独走とタイプの違う勝ち星請負人が揃い、5日間ながら“ミニ・グランツール”級の顔ぶれ。女子ロードは日本でも配信・SNSで注目が増しており、同僚コペツキ対ヴィーベス（SDワークス）の“身内対決”は絵になる。ブエルタ開幕（8/22）と重なる週だが、女子も見逃せない。",
       "sources": [
-        { "t": "CyclingUpToDate", "u": "https://cyclinguptodate.com/cycling/no-news-is-good-news-visma-remain-all-quiet-on-the-vingegaard-front-as-tour-stars-2026-comeback-looks-increasingly-uncertain", "d": "2026-08-13" }
+        { "t": "British Cycling", "u": "https://www.britishcycling.org.uk/tourofbritain/article/20260813-tour-of-britain-Champions-and-stage-winners-headline-latest-provisional-Lloyds-Tour-of-Britain-Women-rider-announcement-0", "d": "2026-08-13" },
+        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-france-femmes-stage-winners-lorena-wiebes-and-kim-le-court-pienaar-headline-star-studded-start-list-for-tour-of-britain-women/", "d": "2026-08-13" }
       ],
-      "status": "確定＝ヴィスマの公式コメントと復帰未定。曖昧＝世界戦出場は本人・チームとも明言せず、要続報。"
+      "status": "確定＝暫定スタートリスト・日程（主催/英連盟）。曖昧＝最終出走メンバーは開幕直前に確定。"
     },
     {
-      "id": "20260815-jakobsen-visma",
-      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-08/fabio-jakobsen-signs-for-team-visma-lease-a-bike-6a7f2eb8b11d9.png",
-      "headline": "【移籍市場】ヤコブセンが『即時ヴィスマ移籍』を電撃発表（〜2028）——クーイ退団の穴埋めに“平坦スプリント専門”、最後の勝利は28ヶ月前という賭け",
-      "layer1": "8/14、ヴィスマ・リースアバイクが元ピクニック・ポストNLのファビオ・ヤコブセン（29）を即時加入・2028年まで契約と発表。7/31の円満解除から一気に加速した、今季最大級のサプライズ移籍。",
-      "layer2": "ヴィスマの狙いは明快——クーイ退団で空いた『平坦スプリンター』の枠。ただしヤコブセンの直近勝利は2024トルコ一周（＝28ヶ月前）で、6月の蘭選手権以来レースもしていない。当面は“状態の立て直し”に専念しレース復帰は先。移籍市場は8/1〜のトランスファーウィンドウで動きが活発——シュタインハウザーがレッドブル・ボーラへ、女子ではマルクスがヴィスマへ、と主力の玉突きが続く。夏の“陣容固め”は来季勢力図の前哨戦。",
+      "id": "20260816-trek-domane",
+      "genre": "parts",
+      "genreLabel": "PARTS",
+      "genreJa": "パーツ",
+      "hot": false,
+      "image": "https://cdn.mos.cms.futurecdn.net/pSxPzakkgfpiC7zJ2TU26V-2560-80.jpg",
+      "headline": "新型トレック『ドマーネ』第5世代が発表——名物“アイソスピード”を廃止、フレーム最大305g減・40mmタイヤ対応・入門は約£2,500へ値下げ",
+      "layer1": "トレックがエンデュランスの看板『ドマーネ』を刷新。振動を逃がす名物機構“IsoSpeed”とダウンチューブ収納を撤廃し、フレーム単体で最大305g軽量化（最軽量完成車6.63kg／28c）。タイヤは40mmまで対応、入門価格は£2,500/€2,500/$2,200からと従来より下げた。",
+      "layer2": "トレックの説明は率直だ——「太タイヤ・低圧が普及した今、IsoSpeedが効いているのか分からない、要らないという声が多かった」。つまり“快適装備”の役目を、太いタイヤの空気量が肩代わりし始めた。8/8に触れた『快適系がエアロ武装（ステベンス新イゾアール等）』の流れと合わせると、2026のエンデュランスは「ギミックより、素の軽さ・太タイヤ・エアロ」へと再定義されつつある。裏を返せば、リム内幅とタイヤの相性がますます効く時代——完組・タイヤ選びの重要度が上がる。",
       "sources": [
-        { "t": "CyclingUpToDate", "u": "https://cyclinguptodate.com/cycling/official-fabio-jakobsen-joins-visma-until-2028-as-dutch-giants-back-themselves-to-unlock-a-great-deal-of-untapped-potential", "d": "2026-08-14" },
-        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/transfers/visma-lease-a-bike-confirm-fabio-jakobsen-joins-team-with-immediate-effect-after-picnic-postnl-departure/", "d": "2026-08-14" }
+        { "t": "road.cc", "u": "https://road.cc/tech-news/trek-ditches-isospeed-on-new-domane-offering-lighter-weights-space-for-40mm-tyres-and-a-lower-entry-price", "d": "2026-08-13" },
+        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/bikes/road/new-trek-domane-launched/", "d": "2026-08-13" }
       ],
-      "status": "確定＝ヴィスマ公式が加入・契約年を発表。曖昧＝復帰初戦の時期は未定。"
+      "status": "確定＝IsoSpeed廃止・軽量化・40mm対応・価格（トレック/複数メディア）。曖昧＝国内価格・入荷時期は続報待ち。"
     },
     {
-      "id": "20260815-merida-speeder-gravel",
-      "genre": "parts", "genreLabel": "PARTS", "genreJa": "パーツ", "hot": false,
-      "image": "https://cdn.road.cc/wp-content/uploads/2026/08/Merida-Speeder-opener-2-scaled.jpg",
-      "headline": "メリダの定番フラットバー『スピーダー』がグラベル化——最大50mmタイヤ・入門£800（約15万円）、“クロスバイクの顔をした万能グラベル”という新提案",
-      "layer1": "メリダが長寿モデルのフラットバー車『スピーダー』を刷新。最大50mmタイヤ・複数のダボ穴・安定ジオメトリを備えたグラベル寄りの一台へ生まれ変わり、入門グレードは£800（約15万円）、上位500は£1,500でシレックスII譲りのカーボンフォークを採用。",
-      "layer2": "旧型は32c前提・35cまでだったのが一気に45c標準・50cクリアランスへ——“太タイヤ×低圧”が快適系の標準装備になった象徴。ドロップハンドルが苦手な初心者に『アップライトのまま砂利も走れる』選択肢を、しかも15万円で出してきたのがポイント。うちの客層でいえば“完成車を買うほどでないが街乗り＋たまに未舗装”という層の受け皿。ここが伸びると、後付けの太タイヤ・チューブレス需要も広がる。",
+      "id": "20260816-tire-demand",
+      "genre": "market",
+      "genreLabel": "MARKET",
+      "genreJa": "国内市場",
+      "hot": false,
+      "image": "https://cdn.mos.cms.futurecdn.net/cxboC9JeMDMGxqFayE38bJ-1920-80.jpg",
+      "headline": "【経営メモ・市場】8月のタイヤ実需は『手頃な定番』が回る——価格.com集計（〜8/14）はコンチ“ウルトラスポーツ3”が首位、GP5000も根強い",
+      "layer1": "価格.comのロードタイヤ人気ランキング（集計7/16〜8/14）は、1位コンチネンタル・ウルトラスポーツ3（25c・約3,300円）、2位GP5000（23c・約9,900円）、3位パナレーサー系（約4,980円）と、“手頃な練習・通勤タイヤ”とハイエンドが混在している。",
+      "layer2": "夏は消耗が早く、客の関心は『まず安くて丈夫な定番』に向かう。首位が3,300円級という事実は、値引き合戦の車体より“消耗品のリピート”が夏の現金製造機だという示唆だ。一方でGP5000（S TR含む）が上位固定＝「決戦用は指名買い」も健在。店の打ち手は明快——入門客には定番タイヤ＋工賃で回転を作り、走り込む客にはGP5000/コルサ系を提案して単価を取る“二段構え”。タイヤは在庫リスクが低く、来店頻度を上げる導線になる。",
       "sources": [
-        { "t": "road.cc", "u": "https://road.cc/tech-news/merida-speeder-gets-a-gravel-makeover-with-space-for-50mm-tyres-and-an-800-entry-point", "d": "2026-08-14" },
-        { "t": "Cycling Weekly", "u": "https://www.cyclingweekly.com/products/meridas-popular-flat-bar-hybrid-speeder-goes-gravel-with-greater-versatility-and-wider-tyres-clearances", "d": "2026-08-14" }
+        { "t": "価格.com（タイヤ人気ランキング）", "u": "https://kakaku.com/ranking/bicycle/0009_0002/0016/", "d": "2026-08-14" }
       ],
-      "status": "確定＝価格・タイヤクリアランス・構成。曖昧＝日本での取扱・価格は未案内（要確認）。"
+      "status": "確定＝価格.com集計順位・期間（〜8/14）。曖昧＝実売価格は店頭・時期で変動。"
     },
     {
-      "id": "20260815-market-valueaero",
-      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://cdn.road.cc/wp-content/uploads/2026/06/2026-Zipp-404-S-action-two-riders-1024x683.jpeg",
-      "headline": "【経営メモ・市場】大手が『値ごろ帯』へ本格的に降りてきた——メリダ£800グラベル、Zipp 404 Sが“1,000ポンド切り”のエアロ完組、中華の価格優位が縮む構図",
-      "layer1": "この夏の機材トレンドは“裾野の値下げ”。メリダがグラベルを£800で、ZippはFirecrest譲りのエアロ完組『404 S』を前後合計£985（＝sub-£1,000/約19万円）で投入。大手ブランドが従来より一段下の価格帯に降りてきている。",
-      "layer2": "うちの主戦場（中華カーボン完組10万円前後）に、“ブランドの安心感＋そこそこの価格”が上から迫ってくる流れ。とはいえZipp 404 Sは1,585g・フックレス・内幅23mm・空気圧上限5barと“割り切り仕様”で、実測1,300g級の中華軽量完組とは土俵が違う。勝ち筋は正面の価格勝負でなく『UCI認証・実測重量・保証/整備』のセット提示——値段だけで比べさせない売り方。大手の値ごろ化は“比較の入口”が増える＝説明の機会が増える、と前向きに捉える。",
+      "id": "20260816-kaidoki",
+      "genre": "market",
+      "genreLabel": "MARKET",
+      "genreJa": "国内市場",
+      "hot": false,
+      "image": "https://cdn.road.cc/wp-content/uploads/2026/08/2027-Trek-Domane-opener.jpeg",
+      "headline": "【経営メモ・市場／Xで話題】再燃する『2026は買い始めやすい年』論——大手が定価を下げ（新型ドマーネ入門£2,500）、コロナ高騰は“調整期”へ、裏取りするとおおむね本当",
+      "layer1": "SNS・ブログで「今のロードは値ごろ、始めるなら今」という声が再び拡散。実際、新型トレック・ドマーネは入門を約£2,500へ下げ、国内でもトレックが主力の定価を10〜14%下げるなど、コロナ期に高騰した価格が“調整期”に入っている。",
+      "layer2": "裏取りすると、この“買い時”論はおおむね事実だ。①大手が快適装備を削って軽く・安く（ドマーネ）②中古相場は取引が増えても平均横ばい＝需給が健全化③型落ち処分の本番は10〜11月で、今はまだ“前哨”。店として怖いのは「値引き＝正義」の空気に飲まれること。買い手が強気な今こそ、勝ち筋は“安さ”でなく『指名買い＋整備＋保証』。うち（中華カーボン完組）は“10万円前後で軽量＋UCI認証＋保証”という、大手の値下げでも埋まらない価格×価値の隙間を突ける。",
       "sources": [
-        { "t": "road.cc（Zipp 404 S）", "u": "https://road.cc/tech-news/zipp-launches-new-404-s-carbon-road-wheels-promising-industry-leading-aero-performance-for-under-1000", "d": "2026-06-30" },
-        { "t": "road.cc（Merida）", "u": "https://road.cc/tech-news/merida-speeder-gets-a-gravel-makeover-with-space-for-50mm-tyres-and-an-800-entry-point", "d": "2026-08-14" }
+        { "t": "road.cc（ドマーネ価格）", "u": "https://road.cc/tech-news/trek-ditches-isospeed-on-new-domane-offering-lighter-weights-space-for-40mm-tyres-and-a-lower-entry-price", "d": "2026-08-13" },
+        { "t": "価格.com（タイヤ実需）", "u": "https://kakaku.com/ranking/bicycle/0009_0002/0016/", "d": "2026-08-14" }
       ],
-      "status": "確定＝各製品の価格・仕様。曖昧＝“中華の優位が縮む”は傾向分析（断定でない）。Zippは6月発表を文脈として補足使用。"
+      "status": "確定＝ドマーネの価格改定・大手の値下げ傾向（複数メディア）。曖昧＝『買い時』の是非は個人の予算・用途次第で、断定はしない。"
     },
     {
-      "id": "20260815-market-obon-nedan",
-      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "http://bike-plus.com/cdn/shop/articles/zaikosyobun_sale_2026_blogtop.jpg",
-      "headline": "【経営メモ・市場】お盆は『買い手市場』の踊り場——本当の型落ち処分は10〜11月、値下げ待ちの客に“今買う理由”をどう作るか",
-      "layer1": "国内のセール暦を整理すると、最安のヤマは①モデル入れ替えの10〜11月（旧型20〜40%OFF）②年末年始（在庫処分・半額も）③春の新生活期。お盆の今は特別大セールの谷間で、在庫処分は各店の個別追加が中心。",
-      "layer2": "つまり“値下げ待ち”の客は秋まで動きにくい踊り場。ここで在庫回転を作るには、値引きでなく『指名買い＋その場整備・即納・保証』の付加価値で今買う理由を提示するのが定石。逆に仕入れ側は、秋の大処分に向けて“いま安く出回る型落ち”を仕込む時期でもある。相場観：定価は高止まり（シマノ8/1改定は既定）、実売は秋に向けて下落——この二層をどう読むかが夏の勝負どころ。",
+      "id": "20260816-carbon-select",
+      "genre": "beginner",
+      "genreLabel": "BEGINNER",
+      "genreJa": "初中級",
+      "hot": false,
+      "image": "https://cdn.road.cc/wp-content/uploads/2024/07/Hooked-vs-hookless-wheels-at-the-Tour-de-France-June-2026-1024x683.jpg",
+      "headline": "【初中級】完成車が『40mmタイヤ対応・広内幅』前提へ（新型ドマーネが象徴）——初カーボン完組で失敗しない3点は“内幅×タイヤ幅／フックレスの空気圧上限／認証・保証”",
+      "layer1": "新型ドマーネが40mmタイヤ対応と、完成車の“太タイヤ・広内幅”化がさらに進む。初中級が最初にミスるのは相変わらず『リム内幅とタイヤ幅の組み合わせ』と『フックレスの空気圧』の2点だ。",
+      "layer2": "実務的な指針。①内幅21〜23mmのリムなら28〜32cが素直（内幅が広いほど、同じタイヤが太く・低圧で使える）。②フックレス（中華完組の多くが該当）は上限“5.0bar＝72.5psi”を絶対に超えない——ETRTO基準で、超過はビード外れ＝事故につながる。プロ集団でも18チーム中フックレスは4チームだけで、実は“フックド回帰”が進行中（安全と実測の裏取り）。③そのうえで数値より《UCI認証・実測重量・保証》の3点で選ぶ。太タイヤ時代は「軽さ」より「規格の噛み合わせ」で後悔が決まる。条件さえ満たせば、中華完組は“最初の一本”に十分効く。",
       "sources": [
-        { "t": "プライシー（安い時期まとめ）", "u": "https://www.pricey.jp/web/articles/3501", "d": "2026-08" },
-        { "t": "バイクプラス（在庫処分セール）", "u": "https://bike-plus.com/blogs/news/bike-clearance-sale-update-2026", "d": "2026-08" }
+        { "t": "road.cc（ドマーネ・40mm対応）", "u": "https://road.cc/tech-news/trek-ditches-isospeed-on-new-domane-offering-lighter-weights-space-for-40mm-tyres-and-a-lower-entry-price", "d": "2026-08-13" },
+        { "t": "road.cc（フックド vs フックレス）", "u": "https://road.cc/content/feature/when-it-comes-rims-pro-peloton-hooked-or-not-309183", "d": "2026-07-08" }
       ],
-      "status": "確定＝国内セール暦の一般傾向。曖昧＝“お盆に大セールがない”は今年の観測で、店ごとに差あり。経営視点の相場分析。"
-    },
-    {
-      "id": "20260815-beginner-hookless",
-      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/RURujkV9dWMTiFYc6scw6c-2048-80.jpg",
-      "headline": "【初中級】完成車が『太タイヤ・フックレス・広内幅』前提へ——初中級が最初にミスるのは“空気圧の上限”と“内幅×タイヤ幅”の2点",
-      "layer1": "メリダの50mmグラベルやフックレス完組（Zipp 404 Sは内幅23mm・28〜39c対応・上限5bar）に象徴されるように、2026の完成車は太タイヤ×フックスレス×広内幅が標準へ。だが初中級がここで踏む地雷が2つある。",
-      "layer2": "①空気圧の“上限”——フックレスは高圧に弱く、Zipp 404 Sなら最大5bar（約73psi）が上限。昔の感覚で7bar入れるとビード外れの危険。②内幅×タイヤ幅の相性——内幅23mmなら28〜30cが最適で、細すぎるタイヤは実測が膨らみ空力も乗り心地も崩れる。“太い＝正義”ではなく、リムが決めた設計値に合わせるのが正解。フックレス対応タイヤ（ETRTO準拠・メーカーの互換表にある銘柄）を選ぶこと、上限空気圧をリムとタイヤの低い方に合わせること——この2点を外さなければ、太タイヤ時代の恩恵（快適・グリップ・低転がり）を安全に取れる。",
-      "sources": [
-        { "t": "road.cc（Zipp 404 S・内幅/上限気圧）", "u": "https://road.cc/tech-news/zipp-launches-new-404-s-carbon-road-wheels-promising-industry-leading-aero-performance-for-under-1000", "d": "2026-06-30" },
-        { "t": "road.cc（Cadex・フックレス安全性の議論）", "u": "https://road.cc/tech-news/we-believe-our-combination-is-safe-cadex-sticks-with-hookless-new-max-50", "d": "2026-02" },
-        { "t": "road.cc（Merida 50mm・太タイヤ化の潮流）", "u": "https://road.cc/tech-news/merida-speeder-gets-a-gravel-makeover-with-space-for-50mm-tyres-and-an-800-entry-point", "d": "2026-08-14" }
-      ],
-      "status": "確定＝内幅・上限気圧の各社仕様。普遍ネタだが“太タイヤ完成車の普及”という直近の潮流を入口にした初中級向け整理。"
-    },
-    {
-      "id": "20260815-china-wheel-x",
-      "genre": "wheel", "genreLabel": "WHEEL", "genreJa": "ホイール", "hot": false,
-      "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C163.jpg",
-      "headline": "【Xで話題・ホイール】『中華ホイール、正直めちゃくちゃ増えた』——“当たりと地雷が混在”論がXで継続、見極めの軸は結局《UCI認証・実測・保証》の3点",
-      "layer1": "Xでは今も「中華ホイールが増えすぎて、当たりと地雷が混在している」という声が定番で伸びている（例：IT技術者ローディー系アカウントの“地雷を踏まないコツ”スレッド）。円安が普及を後押しし、価格.comの掲示板でも中華ディープの相談が続く。",
-      "layer2": "入口はXの“体感”だが、裏取りの結論は毎回同じ——選別軸は価格でなく《①UCI認証の有無 ②公称でなく実測重量 ③国内保証・代理店の有無》の3点。ブランドではELITEWHEELS（Drive/Edge）・SUPERTEAM・ICANが“三大巨頭”として国内レビューでも定着し、Elitewheelsは5月のチャイナサイクルでDrive G50 CS等を投入済み。つまり“地雷回避”は運でなく手順。うちが強いのはまさにこの3点を店頭で担保できること——Xの不安（当たり外れ）を、店が“実測と保証”で潰す構図。",
-      "sources": [
-        { "t": "X（IT技術者ロードバイク）", "u": "https://x.com/FJT_TKS/status/2033489501583228959", "d": "2026-08" },
-        { "t": "bike-memo（中華カーボン格付け）", "u": "https://bike-memo.com/cycle_260202_carbon-wheels/", "d": "2026-08" },
-        { "t": "価格.com（中華ディープ相談）", "u": "https://bbs.kakaku.com/bbs/-/SortID=24337960/", "d": "2026-08" }
-      ],
-      "status": "確定＝Xで継続的に話題、選別軸（認証・実測・保証）は国内レビューでも共通。※個別ブランドの“当たり外れ”の断定は要裏取り（製品ごと）。X由来は入口として明記。"
-    },
-    {
-      "id": "20260815-pogacar-latteart",
-      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/www.indeleiderstrui.nl/images/2026-08/tadej-pogacar-6a7ebc5038808.png",
-      "headline": "【小ネタ・トレンド】ポガチャル、モナコのコーヒー店で『ラテアート対決』——F1新星ベアマンの店で見事な一杯、でも指はやけど、本人「9割はウ○コみたいになる」",
-      "layer1": "ブエルタ前の“オフ”の一コマ。ポガチャルがモナコ近郊ラ・チュルビのコーヒー＆バイクショップ（F1ドライバー、オリー・ベアマンが共同オーナー）でラテアート対決に参加。上手な一杯を披露しつつ指をやけど、自虐で笑わせる映像がSNSで拡散した。",
-      "layer2": "ベアマンが仕掛けた企画『Pour Decisions』の第1回で、自転車界の王者を“ご指名”。ポガチャルは「9割はうまくいかない」と本人談だが、勝負どころの集中力はコーヒーにも出るらしい。レース以外でも話題を作れるスター性が、ブエルタ（8/22開幕）前の露出を温める。硬いニュースの合間に、こういう“人としての親しみ”がファン拡大の燃料になる——ショートの箸休めにも使える一本。",
-      "sources": [
-        { "t": "In de Leiderstrui", "u": "https://www.indeleiderstrui.nl/wielrennen/ja-ook-dit-kan-hij-pogacar-maakt-fantatische-latte-art-maar-komt-niet-onder-blaren-uit", "d": "2026-08-14" },
-        { "t": "road.cc（ライブブログ）", "u": "https://road.cc/news/cycling-live-blog-14-august-2026", "d": "2026-08-14" }
-      ],
-      "status": "確定＝コーヒー店企画への参加は複数媒体が報道。曖昧＝発言の細部はニュアンス訳。小ネタ扱い。"
+      "status": "確定＝40mm対応・フックレス上限5.0bar・ペロトンのフックド優勢（複数メディア）。曖昧＝各完組の推奨は必ずメーカー指定値を確認。"
     }
   ]
 }
