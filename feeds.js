@@ -1,5 +1,260 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-08-18",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。ブエルタ開幕まで4日、スタートリスト確定・ヴィンゲゴー『今季終了』・ログリッチへの疑問符と“人間ドラマ”が一気に動きました。市場はフックレス安全論争と中華カーボン二層構造を経営目線で。",
+    "cards": [
+      {
+        "id": "20260818-vuelta-startlist",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2025-07/woutvanaert-68868b099032e.jpg",
+        "headline": "ブエルタ開幕4日前、スタートリストが確定——ポガチャル『大本命』に26チーム、バンアールト／ペデルセン／スキェルモーセ／アルメイダ／オンリー／カラパスが集結",
+        "layer1": "8/22モナコ開幕のブエルタ、出場26チームの顔ぶれがほぼ固まった。ツール5勝のポガチャルが唯一未制覇のグランツールへ、最大の対抗はログリッチと自チームのアルメイダ。",
+        "layer2": "ペデルセンとスキェルモーセ（Lidl-Trek）はツールに続く『夏のGT二枚看板』を明言、バンアールトはヴィンゲゴー不在で緑とステージ量産に自由、オンリー（Netcompany-INEOS）ら新世代GCが表彰台を狙う。ヴィンゲゴー・エヴェネプール・アユソ不在で“GC不作”は変わらず、ポガチャル封じは事実上『自チームのアルメイダ』頼み。開幕はモナコF1コースの短いITT。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（スタートリスト）",
+            "u": "https://cyclinguptodate.com/cycling/startlist-vuelta-a-espana-2026-riders-tadej-pogacar-wout-van-aert-mads-pedersen-joao-almeida-oscar-onley-and-more",
+            "d": "2026-08-17"
+          },
+          {
+            "t": "Olympics.com",
+            "u": "https://www.olympics.com/en/news/tadej-pogacar-vuelta-de-espana-2026-road-cycling-confirmation",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝出場26チーム・8/22モナコITT開幕・主要選手/曖昧＝一部チームの最終メンバーは直前確定"
+      },
+      {
+        "id": "20260818-roglic-doubt",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-08/primoz-roglic-and-geraint-thomas-6a7ee0452038d.png",
+        "headline": "ログリッチに『全盛期は過ぎた』——G・トーマス＆ロウが公然と疑問符、今季28日・練習中の“車接触”が影を落とす",
+        "layer1": "元ツール王者ジェラント・トーマスがポッドキャストで「彼は全盛を過ぎた、どれほど走れるのか」とログリッチのブエルタGCに疑問。相棒ルーク・ロウも「今季28レース日、かつての支配的な彼ではない」。",
+        "layer2": "ログリッチは7月末に練習中で車に接触、サンセバスチャンとブルゴスを回避しブエルタ一本に絞った。ロウは「本気で狙えば混戦には絡む。ただポガチャルの水準からは程遠い」。2027年はレッドブル退団→ロット移籍の観測も浮上（※移籍は要裏取り）。共同記録4勝の名手が、GC本命から実質“ステージ／サポート”へ格下げされつつある空気。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/he-is-past-his-prime-how-good-is-he-going-to-be-geraint-thomas-has-serious-doubts-about-primoz-roglic-challenging-for-vuelta-a-espana",
+            "d": "2026-08-15"
+          },
+          {
+            "t": "IDL ProCycling",
+            "u": "https://www.idlprocycling.com/cycling/he-has-only-had-28-race-days-will-roglics-vuelta-approach-really-work-to-his-advantage",
+            "d": "2026-08-14"
+          }
+        ],
+        "status": "確定＝トーマス／ロウの発言・車接触で2レース回避/曖昧＝ブエルタGC戦略と2027移籍観測は未確定"
+      },
+      {
+        "id": "20260818-vinge-seasonover",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2025-10/jonas-vingegaard-68e29b410d301.jpg",
+        "headline": "ヴィンゲゴー『今季終了』が確定——ツールの鎖骨骨折から復帰不能、9月モントリオール世界戦も欠場へ",
+        "layer1": "ヴィスマ・リースアバイクが、ツールの落車で鎖骨を折ったヴィンゲゴーの今季全休を確認。ブエルタに続き、9/20-27の世界選手権（モントリオール）も回避が濃厚に。",
+        "layer2": "本人は「骨折でトレーニング開始が遅れ、近い将来にトップ状態へ戻すのは不可能」。今季はパリ〜ニース・カタルーニャ・初のジロ制覇と絶好調だったが、ツール第15ステージの落車で暗転した。ヴィスマは復帰時期を明言せず事実上シーズンを畳んだ形で、ブエルタGC不作を決定づける一因に。“今季の主役の一人が最後に静かに退場”という人間ドラマ。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/jonas-vingegaard-reportedly-makes-his-decision-no-2026-world-championships-in-montreal-for-danish-star",
+            "d": "2026-08-15"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/jonas-vingegaard-out-for-rest-of-season-with-no-return-possible-after-crash/",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝今季全休・チーム発表/曖昧＝2027の復帰プランは未定"
+      },
+      {
+        "id": "20260818-vuelta-route",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-08/profile-vueltaaespana2026stage20-6a7c4e3fdd66f.png",
+        "headline": "ブエルタ2026は『史上最凶級』——7つの山頂決戦・総獲得58,000m、第20ステージは187kmで4,850m登坂の“クイーン”",
+        "layer1": "8/22開幕のブエルタは山また山。7つの山頂フィニッシュ、総獲得標高58,000m超で「史上最難関の一つ」と評される。TTはわずか2本、山岳ステージは10。",
+        "layer2": "白眉は最終盤の第20ステージ（シエラネバダ）——187kmで4,850m登坂、エル・プルチェを2度越え、締めのコリャド・デル・アルグアシルは終始10%。第9アルト・デ・アイタナ（21.9km/5.5%）が「大会最大の差」を生むと目される。ポガチャル封じの舞台は整ったが、逆に独走を後押しする恐れも。うちの完組ユーザーにも“登坂×軽さ”への関心が高まる時期で、記事・ショートの引きが強い。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（ステージ&プロフィール）",
+            "u": "https://cyclinguptodate.com/cycling/stages-profiles-vuelta-a-espana-2026-9-mountain-stages-and-the-hardest-ever-finale-to-a-grand-tour",
+            "d": "2026-08-15"
+          }
+        ],
+        "status": "確定＝コース・第20が最難関/曖昧＝実際の勝負どころは開幕後"
+      },
+      {
+        "id": "20260818-weekend-races",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-07/tim-merlier-on-stage-12-of-the-2026-tour-de-france-6a59e777bc54a.jpg",
+        "headline": "この週末8/19、男女2大ステージレースが同時開幕——男子『ルネウィ・ツアー』はスプリンター博覧会、女子『ツアー・オブ・ブリテン』はコペツキ×ヴィーベス",
+        "layer1": "8/19、ベルギーのルネウィ・ツアー（〜23日）と英国のツアー・オブ・ブリテン女子（〜23日）が同日開幕。ブエルタ前の最後の本格実戦。",
+        "layer2": "男子はミラン／メルリエ／フィリプセン／コーイ／グルーネウェーゲンと今季最強格スプリンターが集結、初日ディースト周回は石畳の丘を挟みつつ集団スプリント濃厚。女子は前回女王ウォラストン、2024覇者コペツキ、ツール女子2勝のヴィーベス、ル・クールら19チーム。J SPORTSで追える“調整レース”として、選手の仕上がりを測る好機。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（ルネウィ・ツアー プレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/renewi-tour-2026-gc-and-stage-1-preview-profiles-favourites-predictions-milan-merlier-philipsen-kooij-and-groenewegen-battle-for-opening-sprint",
+            "d": "2026-08-17"
+          },
+          {
+            "t": "Cyclingnews（ツアー・オブ・ブリテン女子）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-france-femmes-stage-winners-lorena-wiebes-and-kim-le-court-pienaar-headline-star-studded-start-list-for-tour-of-britain-women/",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝両レース8/19開幕・主要スタートリスト/曖昧＝最終メンバーは直前確定"
+      },
+      {
+        "id": "20260818-kakaku-wheel",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2026/02/Cadex-Aero-tyre_001.jpg",
+        "headline": "【市場】価格.com 8/17ホイール実売は『中華カーボンが上位固定』——SUPERTEAM 3.9万が首位、対するアルテグラ14.8万・デュラ20.9万の二層構造",
+        "layer1": "8/17時点の価格.com『自転車用ホイール』人気ランキングは、SUPERTEAM 45/50/65mm（¥38,874・¥39,599）がワンツー、ELITEWHEELS 50mm（¥85,999／¥104,999）も上位に固定。",
+        "layer2": "対してシマノはアルテグラWH-R8170-C36-TL ¥148,500、RS710-C46 ¥118,800、デュラR9270-C50 ¥209,000。“3〜4万円の中華カーボン”と“12〜21万円の国産完組”に市場がくっきり二分され、買い手の入口は明確に価格。うち（8LIEN／CRW／GOOSYNN）が戦うのはこの下側＝主戦場。数値は価格.com当日表示ベースで、並びは日々変動する。",
+        "sources": [
+          {
+            "t": "価格.com 自転車用ホイール人気ランキング",
+            "u": "https://kakaku.com/ranking/bicycle/0009_0002/0034/",
+            "d": "2026-08-17"
+          }
+        ],
+        "status": "確定＝8/17ランキング掲載価格/曖昧＝順位・価格は日々変動"
+      },
+      {
+        "id": "20260818-clearance-timing",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2025/07/Tadej-Pogacar_Colnago-Y1Rs_20250703_SvB_A6300_BR_1241-1-scaled.jpg",
+        "headline": "【経営メモ】ワイズロード『SUMMER FAIR』が8/16-17で終了——本番の型落ち処分は10〜11月、“今買う理由”をどう作るか",
+        "layer1": "大手ワイズロードの夏セール（SUMMER FAIR 2026）は店舗8/16・オンライン8/17午前で終了。無金利ローンや値下げコーナーで在庫を回した。",
+        "layer2": "各社が夏（6〜8月）に新型を発表し、その2〜3ヶ月後の10〜11月が旧モデル大幅値引きの本番——つまり8月は“踊り場”。値下げ待ちの客に今買わせるには、①フィッティング＋整備を含めた総額価値、②人気サイズ・カラーが秋に消える希少性、③完組セット割の即効性で背中を押す。うちは大手の谷間で『指名買い＋即納＋保証』を作れるかが勝負。記事化不要の内部メモ。",
+        "sources": [
+          {
+            "t": "ワイズロード SUMMER FAIR 2026",
+            "u": "https://ysroad.co.jp/news/260704_summer_fair_2026/",
+            "d": "2026-08"
+          },
+          {
+            "t": "プライシー（ロードバイクのセール時期）",
+            "u": "https://www.pricey.jp/web/articles/3501",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝ワイズ夏フェアの終了日/曖昧＝秋の値下げ幅は各社・在庫次第"
+      },
+      {
+        "id": "20260818-hookless-debate",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/08/Untitled-design-1-1024x683.png",
+        "headline": "【Xでも話題・ホイール】フックレスは本当に危険か——シュワルベ『安全基準が甘すぎる』、Cadex『問題はリムでなくタイヤのビード』",
+        "layer1": "8/9のroad.cc特集で、フックレス安全論争がメーカー当事者の言葉で再燃。シュワルベは現行ISO試験を「最大圧＋10%で5分＝簡単すぎる」と批判し、1.5倍を新基準にと主張。",
+        "layer2": "Cadexは論点をずらし「本質はリム形状でなくタイヤのビード規格。現行ETRTOはビードの伸びを甘く規定している」とし、カーボン-ケブラー補強ビードで対応。両者に共通するのは“正しいタイヤ・正しい空気圧なら安全”という結論。日本のローディーがXで抱く「中華フックレス完組は大丈夫か」への一次回答はここ——対応タイヤリストの遵守とETRTO上限（フックレスは約5bar/72.5psi）を守れば、実用上の危険は小さい。数値・規格は上記メディア引用ベース。",
+        "sources": [
+          {
+            "t": "road.cc（Schwalbe vs Cadex 特集）",
+            "u": "https://road.cc/feature/cycling-brands-shaping-the-future-of-bike-wheel-and-tyre-technology",
+            "d": "2026-08-09"
+          }
+        ],
+        "status": "確定＝メーカー発言・ETRTO上限（約5bar）/曖昧＝将来のUCI規制・新基準化の動向は未確定"
+      },
+      {
+        "id": "20260818-widerim-trend",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn-jupiter.metropolis.co.uk/wp-content/uploads/sites/9/2026/07/DTSwiss-Road-Wheels-1800-New-Horizons-Action-Gravel-Credits-Antoine-Willemart-012-1920px.webp",
+        "headline": "【トレンド】8/9のメーカー議論が映す2026ホイールの行き先＝『ワイド×フックレス×一体設計』——値ごろ帯もDT Swiss 1800が内幅+2mmに拡大",
+        "layer1": "road.cc 8/9特集が示すのは、ホイールが軒並みワイドリム化していく流れ。エントリー帯のDT Swiss 1800も全モデル内幅+2mm（Aero20→22・Endurance22→24・Gravel24→26mm）で£399.98に更新された。",
+        "layer2": "狙いは「低圧でも性能を落とさず、転がり・グリップ・快適性を上げる」こと。上位ではCadex Max50（内幅22.4mm・一体タイヤ）やタイヤ圧センサー内蔵Zippなど“ワイド×フックレス×一体設計”が加速。完成車が28〜32cを飲む前提に変わり、うちのカーボン完組も『内幅×タイヤ幅×空気圧上限』で選ぶ提案が刺さる。※DT Swiss／Cadexの製品発表自体は7〜2月で、主役は8/9の潮流特集。",
+        "sources": [
+          {
+            "t": "road.cc（ホイール／タイヤ技術の行き先）",
+            "u": "https://road.cc/feature/cycling-brands-shaping-the-future-of-bike-wheel-and-tyre-technology",
+            "d": "2026-08-09"
+          },
+          {
+            "t": "Cyclist（DT Swiss 1800）",
+            "u": "https://www.cyclist.co.uk/news/dt-swiss-1800-alloy-wheels-2026",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝各製品スペック・ワイド化の潮流/曖昧＝“最適空気圧”は体重・路面で個別に決まる"
+      },
+      {
+        "id": "20260818-tire-pressure",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/02/SLorencePhoto_Cadex_ET_01-1024x683.jpg",
+        "headline": "【初中級】夏にやりがちな『空気圧の入れすぎ』——フックレスは約5barが上限、体重×タイヤ実測幅×内幅で決める",
+        "layer1": "太タイヤ・チューブレス・ワイドリム化で、いまの最適空気圧は昔よりかなり低い。特にフックレスはETRTO上限が約5bar（72.5psi）で、7bar運用は“高すぎ”になりがち。",
+        "layer2": "目安は「体重・タイヤ実測幅・リム内幅」から出発点を決め、跳ね（高すぎ）とリム打ち／よれ（低すぎ）の間で微調整する。28c前後・体重60〜70kgなら概ね4.2〜4.8bar帯が現実的な入口。中華フックレス完組を初めて買う人が一番ミスるのは“上限を超えて入れる”こと——まず対応タイヤリストと上限を確認し、そこから0.2〜0.3bar下げて自分の最適を探る。数値は一般的な目安で、最終は実走で詰める。",
+        "sources": [
+          {
+            "t": "road.cc（フックレス上限・安全）",
+            "u": "https://road.cc/feature/cycling-brands-shaping-the-future-of-bike-wheel-and-tyre-technology",
+            "d": "2026-08-09"
+          },
+          {
+            "t": "GIANT/BiCYCLE CLUB（適正空気圧の考え方）",
+            "u": "https://www.giant.co.jp/news/gear/4612/",
+            "d": "2021-02"
+          }
+        ],
+        "status": "確定＝フックレスのETRTO上限（約5bar）/曖昧＝最適値は体重・路面・好みで個体差、目安は参考値"
+      },
+      {
+        "id": "20260818-china-strategy",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/07/2026-July-4-Tech-of-the-Week-1024x708.jpg",
+        "headline": "【経営メモ】中華カーボンの『主戦場は10万円未満』が定着——大手が値ごろ帯へ降りる今、うちの立ち位置をどう守るか",
+        "layer1": "価格.comの二層構造（中華3〜10万／国産12〜21万）に加え、大手までワイド完組を4万円弱で投入。中華の“価格優位”が上下から挟まれ始めた。",
+        "layer2": "経営目線の要点：①10万円未満の主戦場は数が出るが利幅は薄い＝整備・フィッティング・保証で付加価値を乗せる、②大手の値ごろ帯（DT Swiss等）はアルミ中心で、カーボン一体・軽量では依然うち（8LIEN／CRW／GOOSYNN）に分がある、③秋の型落ち期に国産完組の実売が下がると“比較の谷”が生まれる——ここで《UCI認証・実測・保証》の3点を武器に指名買いへ誘導。値付けは「安さ勝負」でなく「規格で選べる安心」を軸に。記事化不要の内部メモ。",
+        "sources": [
+          {
+            "t": "価格.com 自転車用ホイール人気ランキング",
+            "u": "https://kakaku.com/ranking/bicycle/0009_0002/0034/",
+            "d": "2026-08-17"
+          },
+          {
+            "t": "Cyclist（DT Swiss 1800・値ごろ帯のワイド化）",
+            "u": "https://www.cyclist.co.uk/news/dt-swiss-1800-alloy-wheels-2026",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝二層構造・大手のワイド完組投入/曖昧＝秋の実売下落幅は予測"
+      }
+    ]
+  },
+  {
     "date": "2026-08-17",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。アークティックは24歳シルバが『南米史上初の総合優勝』——しかもそのバイクは中国XDS。週末はブエルタのログリッチ出場判断、そして8/19は『ツアー・オブ・ブリテン女子』と『ルネウィ・ツアー』が同時開幕します。",
     "cards": [

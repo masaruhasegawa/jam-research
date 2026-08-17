@@ -1,159 +1,146 @@
 {
-  "date": "2026-08-17",
-  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。アークティックは24歳シルバが『南米史上初の総合優勝』——しかもそのバイクは中国XDS。週末はブエルタのログリッチ出場判断、そして8/19は『ツアー・オブ・ブリテン女子』と『ルネウィ・ツアー』が同時開幕します。",
+  "date": "2026-08-18",
+  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。ブエルタ開幕まで4日、スタートリスト確定・ヴィンゲゴー『今季終了』・ログリッチへの疑問符と“人間ドラマ”が一気に動きました。市場はフックレス安全論争と中華カーボン二層構造を経営目線で。",
   "cards": [
     {
-      "id": "20260817-arctic-silva",
+      "id": "20260818-vuelta-startlist",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": true,
-      "image": "https://cdn.mos.cms.futurecdn.net/DxSZuj5m3KLNcByYaaBuy3-1024-80.jpg",
-      "headline": "アークティック・レース総合は24歳トマス・シルバ——ウルグアイ史上初のWTプロが『南米初の総合優勝者』に、最終ステージはクリストファセンが飾る",
-      "layer1": "8/13〜16の世界最北ステージレース。第3ステージの激坂『ストールヘイア』を制して首位に立ったトマス・シルバ（XDSアスタナ）が、最終第4ステージ（ナルヴィク、終盤2.8km・平均8%）も守り切って総合優勝。区間はセドリック・バッケ・クリストファセンが逃げ切った。",
-      "layer2": "シルバは大会13人目の覇者にして『史上初の南米人優勝者』。母国ウルグアイからスペインで長く下積みし、今季XDSアスタナでWT昇格→ジロ区間勝利＆マリアローザ着用、6勝1,336ポイントの大ブレイク中。本人は「若い世代がプロを目指すなら、ヨーロッパに来るしかない」。総合2位ファンエートフェルト、3位A.ピナレッロ（人名）。※各紙で最終総合のタイム差表記が割れており、正確値は要確定。",
+      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2025-07/woutvanaert-68868b099032e.jpg",
+      "headline": "ブエルタ開幕4日前、スタートリストが確定——ポガチャル『大本命』に26チーム、バンアールト／ペデルセン／スキェルモーセ／アルメイダ／オンリー／カラパスが集結",
+      "layer1": "8/22モナコ開幕のブエルタ、出場26チームの顔ぶれがほぼ固まった。ツール5勝のポガチャルが唯一未制覇のグランツールへ、最大の対抗はログリッチと自チームのアルメイダ。",
+      "layer2": "ペデルセンとスキェルモーセ（Lidl-Trek）はツールに続く『夏のGT二枚看板』を明言、バンアールトはヴィンゲゴー不在で緑とステージ量産に自由、オンリー（Netcompany-INEOS）ら新世代GCが表彰台を狙う。ヴィンゲゴー・エヴェネプール・アユソ不在で“GC不作”は変わらず、ポガチャル封じは事実上『自チームのアルメイダ』頼み。開幕はモナコF1コースの短いITT。",
       "sources": [
-        { "t": "Cyclinguptodate（第4ステージ結果）", "u": "https://cyclinguptodate.com/cycling/results-arctic-race-of-norway-2026-stage-4-cedrik-bakke-christophersen-takes-final-stage-as-guillermo-thomas-silva-holds-on-to-win-general-classification", "d": "2026-08-16" },
-        { "t": "Velo101（第3ステージ）", "u": "https://www.velo101.com/courses/arctic-race-of-norway/arctic-race-of-norway-guillermo-thomas-silva-simpose-au-sommet-de-storheia/", "d": "2026-08-15" },
-        { "t": "Cyclinguptodate（本人コメント）", "u": "https://cyclinguptodate.com/cycling/they-have-to-come-to-europe-guillermo-thomas-silva-hopes-his-example-can-inspire-next-generation-of-uruguayan-cyclists", "d": "2026-08-14" }
+        { "t": "CyclingUpToDate（スタートリスト）", "u": "https://cyclinguptodate.com/cycling/startlist-vuelta-a-espana-2026-riders-tadej-pogacar-wout-van-aert-mads-pedersen-joao-almeida-oscar-onley-and-more", "d": "2026-08-17" },
+        { "t": "Olympics.com", "u": "https://www.olympics.com/en/news/tadej-pogacar-vuelta-de-espana-2026-road-cycling-confirmation", "d": "2026-08" }
       ],
-      "status": "確定＝シルバ総合優勝・南米初の覇者/曖昧＝最終総合の正確なタイム差（※要確定）"
+      "status": "確定＝出場26チーム・8/22モナコITT開幕・主要選手/曖昧＝一部チームの最終メンバーは直前確定"
     },
     {
-      "id": "20260817-vuelta-startlist",
+      "id": "20260818-roglic-doubt",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/Red-Bull-Bora-hansgrohe/CORVOS_00038767-321.jpg?width=832&height=468&format=jpg&crop=2000%2C1125%2C0%2C104",
-      "headline": "ブエルタ8/22開幕、スタートリストが固まる——ポガチャルが『大本命』、ログリッチの出場可否は“今週末に最終判断”",
-      "layer1": "8/16更新のスタートリストで、ポガチャル（UAE）が「総合大本命」、昨年2位アルメイダが共同エース格。ペデルセン（緑ジャージ連覇狙い）、ファンアールト、オンリー、ブイトラゴ、スケルモーセらが名を連ねる。チーム発表は8/20モナコ、開幕は8/22。",
-      "layer2": "焦点は7月末に練習中『車と接触』したログリッチ。サンセバスチャン／ブルゴスを負傷欠場し、最後のレースは6月の国内選手権——無レース約2ヶ月での“ぶっつけ”になる。レッドブルは「週明けに8名を最終決定」＝開幕直前まで五分の情勢。出走が叶えば史上初の“5勝目”へ、彼が揺れればポガチャルのGT三冠に王手という二面の物語。",
+      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-08/primoz-roglic-and-geraint-thomas-6a7ee0452038d.png",
+      "headline": "ログリッチに『全盛期は過ぎた』——G・トーマス＆ロウが公然と疑問符、今季28日・練習中の“車接触”が影を落とす",
+      "layer1": "元ツール王者ジェラント・トーマスがポッドキャストで「彼は全盛を過ぎた、どれほど走れるのか」とログリッチのブエルタGCに疑問。相棒ルーク・ロウも「今季28レース日、かつての支配的な彼ではない」。",
+      "layer2": "ログリッチは7月末に練習中で車に接触、サンセバスチャンとブルゴスを回避しブエルタ一本に絞った。ロウは「本気で狙えば混戦には絡む。ただポガチャルの水準からは程遠い」。2027年はレッドブル退団→ロット移籍の観測も浮上（※移籍は要裏取り）。共同記録4勝の名手が、GC本命から実質“ステージ／サポート”へ格下げされつつある空気。",
       "sources": [
-        { "t": "Cyclinguptodate（スタートリスト）", "u": "https://cyclinguptodate.com/cycling/startlist-vuelta-a-espana-2026-riders-tadej-pogacar-wout-van-aert-mads-pedersen-joao-almeida-oscar-onley-and-more", "d": "2026-08-16" },
-        { "t": "Domestique（ログリッチ判断）", "u": "https://www.domestiquecycling.com/en/news/red-bull-leave-primoz-roglic-vuelta-decision-until-final-days/", "d": "2026-08-13" }
+        { "t": "CyclingUpToDate", "u": "https://cyclinguptodate.com/cycling/he-is-past-his-prime-how-good-is-he-going-to-be-geraint-thomas-has-serious-doubts-about-primoz-roglic-challenging-for-vuelta-a-espana", "d": "2026-08-15" },
+        { "t": "IDL ProCycling", "u": "https://www.idlprocycling.com/cycling/he-has-only-had-28-race-days-will-roglics-vuelta-approach-really-work-to-his-advantage", "d": "2026-08-14" }
       ],
-      "status": "確定＝開幕8/22・ポガチャル大本命/曖昧＝ログリッチ出場（週明け判断・※要続報）"
+      "status": "確定＝トーマス／ロウの発言・車接触で2レース回避/曖昧＝ブエルタGC戦略と2027移籍観測は未確定"
     },
     {
-      "id": "20260817-tob-women",
+      "id": "20260818-vinge-seasonover",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://cyclingmagazine.ca/wp-content/uploads/2026/06/MaggieColesLysterMazda-1200x675-1.jpg",
-      "headline": "8/19開幕『ツアー・オブ・ブリテン女子』——コペツキ＆ヴィーベスら“ツール女子の主役”が集結、5日間635.8kmは大会史上最長",
-      "layer1": "8/19〜23、カンブリア（コッカーマス）発→ロイヤル・レミントン・スパ着の5日間。19チーム（うちWWT13）が出走。2024覇者コペツキ、ツール女子2勝＆マイヨジョーヌ着用のヴィーベス（ともにSDワークス）、ル・クールらスターが名を連ねる。",
-      "layer2": "総距離635.8kmは12年の歴史で最長。平坦寄りでスプリント量産が見込まれるが、コペツキは世界王者級のオールラウンダーで総合も十分狙える。ツール女子の熱がそのまま持ち込まれる“主役続投”の一戦で、女子ロードの盛り上がりを国内に伝える良ネタ。",
+      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2025-10/jonas-vingegaard-68e29b410d301.jpg",
+      "headline": "ヴィンゲゴー『今季終了』が確定——ツールの鎖骨骨折から復帰不能、9月モントリオール世界戦も欠場へ",
+      "layer1": "ヴィスマ・リースアバイクが、ツールの落車で鎖骨を折ったヴィンゲゴーの今季全休を確認。ブエルタに続き、9/20-27の世界選手権（モントリオール）も回避が濃厚に。",
+      "layer2": "本人は「骨折でトレーニング開始が遅れ、近い将来にトップ状態へ戻すのは不可能」。今季はパリ〜ニース・カタルーニャ・初のジロ制覇と絶好調だったが、ツール第15ステージの落車で暗転した。ヴィスマは復帰時期を明言せず事実上シーズンを畳んだ形で、ブエルタGC不作を決定づける一因に。“今季の主役の一人が最後に静かに退場”という人間ドラマ。",
       "sources": [
-        { "t": "Cyclingnews（スタートリスト）", "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-france-femmes-stage-winners-lorena-wiebes-and-kim-le-court-pienaar-headline-star-studded-start-list-for-tour-of-britain-women/", "d": "2026-08-13" },
-        { "t": "Canadian Cycling Mag（プレビュー）", "u": "https://cyclingmagazine.ca/sections/news/2026-tour-of-britain-women-preview/", "d": "2026-08-13" }
+        { "t": "CyclingUpToDate", "u": "https://cyclinguptodate.com/cycling/jonas-vingegaard-reportedly-makes-his-decision-no-2026-world-championships-in-montreal-for-danish-star", "d": "2026-08-15" },
+        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/racing/jonas-vingegaard-out-for-rest-of-season-with-no-return-possible-after-crash/", "d": "2026-08" }
       ],
-      "status": "確定＝8/19開幕・主力の出走/曖昧＝総合本命は展開次第"
+      "status": "確定＝今季全休・チーム発表/曖昧＝2027の復帰プランは未定"
     },
     {
-      "id": "20260817-renewi",
+      "id": "20260818-vuelta-route",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/krDwMTCmtoEhrxY6bTy4PA-1024-80.jpg",
-      "headline": "同じ8/19開幕『ルネウィ・ツアー』は“今季最強スプリンター博覧会”——ミラン・メルリエ・フィリプセンが同じ土俵に",
-      "layer1": "8/19〜23、ベルギー5日間（TTなし）。世界最速級のミラン、メルリエ、フィリプセンが揃い踏み、さらにフルーネウェーゲン、ジルマイ、コーイも参戦。初日から大集団スプリント濃厚で、今季屈指の“弾幕”になる。",
-      "layer2": "個人TTが無いぶん総合は僅差の“ボーナス秒＆丘”勝負に。メルリエは登れる万能型で総合も狙える位置取りができる。マサル的にはスプリンター機材（重ギア・ディープ・エアロ）と“発射台”の作法が映える一戦で、ショート向きの見せ場が多い。",
+      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-08/profile-vueltaaespana2026stage20-6a7c4e3fdd66f.png",
+      "headline": "ブエルタ2026は『史上最凶級』——7つの山頂決戦・総獲得58,000m、第20ステージは187kmで4,850m登坂の“クイーン”",
+      "layer1": "8/22開幕のブエルタは山また山。7つの山頂フィニッシュ、総獲得標高58,000m超で「史上最難関の一つ」と評される。TTはわずか2本、山岳ステージは10。",
+      "layer2": "白眉は最終盤の第20ステージ（シエラネバダ）——187kmで4,850m登坂、エル・プルチェを2度越え、締めのコリャド・デル・アルグアシルは終始10%。第9アルト・デ・アイタナ（21.9km/5.5%）が「大会最大の差」を生むと目される。ポガチャル封じの舞台は整ったが、逆に独走を後押しする恐れも。うちの完組ユーザーにも“登坂×軽さ”への関心が高まる時期で、記事・ショートの引きが強い。",
       "sources": [
-        { "t": "Cyclinguptodate（プレビュー）", "u": "https://cyclinguptodate.com/cycling/renewi-tour-2026-gc-and-stage-1-preview-profiles-favourites-predictions-milan-merlier-philipsen-kooij-and-groenewegen-battle-for-opening-sprint", "d": "2026-08-16" }
+        { "t": "CyclingUpToDate（ステージ&プロフィール）", "u": "https://cyclinguptodate.com/cycling/stages-profiles-vuelta-a-espana-2026-9-mountain-stages-and-the-hardest-ever-finale-to-a-grand-tour", "d": "2026-08-15" }
       ],
-      "status": "確定＝開幕8/19・最強スプリンター陣容/曖昧＝総合争いの主導権"
+      "status": "確定＝コース・第20が最難関/曖昧＝実際の勝負どころは開幕後"
     },
     {
-      "id": "20260817-shimano-freehub",
-      "genre": "parts", "genreLabel": "PARTS", "genreJa": "パーツ", "hot": false,
-      "image": "https://cdn.road.cc/wp-content/uploads/2026/08/2026-Shimano-13-opener-1024x683.jpeg",
-      "headline": "シマノ13速の“隠れた本丸”は『新フリーボディ規格 ASL13R』——独販売店リークで浮上、手持ちホイールの互換に直結",
-      "layer1": "8/5、ドイツ販売店の商品登録に「ASL13R」という新フリーボディ表記が出現。次期13速デュラエース（R9300世代）が、現行12速のフリーとは別規格を要する可能性が濃厚になった。",
-      "layer2": "命名則からASL12R（現GRX 1×12のマイクロスプライン系）の“進化版”と読める＝完全新設計ではなさそうだが、13速化で「今のホイールがそのまま使えるか」は初中級〜買い替え層の最大関心事。正式発表は2026末〜2027、実戦投入は2027シーズンが濃厚。裏を返せば『今“13速待ち”で高価な完組を焦って買う必要はない』が実務の芯。",
+      "id": "20260818-weekend-races",
+      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
+      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-07/tim-merlier-on-stage-12-of-the-2026-tour-de-france-6a59e777bc54a.jpg",
+      "headline": "この週末8/19、男女2大ステージレースが同時開幕——男子『ルネウィ・ツアー』はスプリンター博覧会、女子『ツアー・オブ・ブリテン』はコペツキ×ヴィーベス",
+      "layer1": "8/19、ベルギーのルネウィ・ツアー（〜23日）と英国のツアー・オブ・ブリテン女子（〜23日）が同日開幕。ブエルタ前の最後の本格実戦。",
+      "layer2": "男子はミラン／メルリエ／フィリプセン／コーイ／グルーネウェーゲンと今季最強格スプリンターが集結、初日ディースト周回は石畳の丘を挟みつつ集団スプリント濃厚。女子は前回女王ウォラストン、2024覇者コペツキ、ツール女子2勝のヴィーベス、ル・クールら19チーム。J SPORTSで追える“調整レース”として、選手の仕上がりを測る好機。",
       "sources": [
-        { "t": "road.cc（フリーボディ規格リーク）", "u": "https://road.cc/tech-news/shimano-13-speed-leak-on-retail-website-suggests-a-possible-new-freehub-standard", "d": "2026-08-05" }
+        { "t": "CyclingUpToDate（ルネウィ・ツアー プレビュー）", "u": "https://cyclinguptodate.com/cycling/renewi-tour-2026-gc-and-stage-1-preview-profiles-favourites-predictions-milan-merlier-philipsen-kooij-and-groenewegen-battle-for-opening-sprint", "d": "2026-08-17" },
+        { "t": "Cyclingnews（ツアー・オブ・ブリテン女子）", "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-france-femmes-stage-winners-lorena-wiebes-and-kim-le-court-pienaar-headline-star-studded-start-list-for-tour-of-britain-women/", "d": "2026-08" }
       ],
-      "status": "確定＝ASL13R表記のリーク/曖昧＝互換の最終仕様・発売時期（※公式未発表）"
+      "status": "確定＝両レース8/19開幕・主要スタートリスト/曖昧＝最終メンバーは直前確定"
     },
     {
-      "id": "20260817-china-wheel-buzz",
+      "id": "20260818-kakaku-wheel",
+      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
+      "image": "https://c02.purpledshub.com/uploads/sites/39/2026/02/Cadex-Aero-tyre_001.jpg",
+      "headline": "【市場】価格.com 8/17ホイール実売は『中華カーボンが上位固定』——SUPERTEAM 3.9万が首位、対するアルテグラ14.8万・デュラ20.9万の二層構造",
+      "layer1": "8/17時点の価格.com『自転車用ホイール』人気ランキングは、SUPERTEAM 45/50/65mm（¥38,874・¥39,599）がワンツー、ELITEWHEELS 50mm（¥85,999／¥104,999）も上位に固定。",
+      "layer2": "対してシマノはアルテグラWH-R8170-C36-TL ¥148,500、RS710-C46 ¥118,800、デュラR9270-C50 ¥209,000。“3〜4万円の中華カーボン”と“12〜21万円の国産完組”に市場がくっきり二分され、買い手の入口は明確に価格。うち（8LIEN／CRW／GOOSYNN）が戦うのはこの下側＝主戦場。数値は価格.com当日表示ベースで、並びは日々変動する。",
+      "sources": [
+        { "t": "価格.com 自転車用ホイール人気ランキング", "u": "https://kakaku.com/ranking/bicycle/0009_0002/0034/", "d": "2026-08-17" }
+      ],
+      "status": "確定＝8/17ランキング掲載価格/曖昧＝順位・価格は日々変動"
+    },
+    {
+      "id": "20260818-clearance-timing",
+      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
+      "image": "https://c02.purpledshub.com/uploads/sites/39/2025/07/Tadej-Pogacar_Colnago-Y1Rs_20250703_SvB_A6300_BR_1241-1-scaled.jpg",
+      "headline": "【経営メモ】ワイズロード『SUMMER FAIR』が8/16-17で終了——本番の型落ち処分は10〜11月、“今買う理由”をどう作るか",
+      "layer1": "大手ワイズロードの夏セール（SUMMER FAIR 2026）は店舗8/16・オンライン8/17午前で終了。無金利ローンや値下げコーナーで在庫を回した。",
+      "layer2": "各社が夏（6〜8月）に新型を発表し、その2〜3ヶ月後の10〜11月が旧モデル大幅値引きの本番——つまり8月は“踊り場”。値下げ待ちの客に今買わせるには、①フィッティング＋整備を含めた総額価値、②人気サイズ・カラーが秋に消える希少性、③完組セット割の即効性で背中を押す。うちは大手の谷間で『指名買い＋即納＋保証』を作れるかが勝負。記事化不要の内部メモ。",
+      "sources": [
+        { "t": "ワイズロード SUMMER FAIR 2026", "u": "https://ysroad.co.jp/news/260704_summer_fair_2026/", "d": "2026-08" },
+        { "t": "プライシー（ロードバイクのセール時期）", "u": "https://www.pricey.jp/web/articles/3501", "d": "2026-08" }
+      ],
+      "status": "確定＝ワイズ夏フェアの終了日/曖昧＝秋の値下げ幅は各社・在庫次第"
+    },
+    {
+      "id": "20260818-hookless-debate",
       "genre": "wheel", "genreLabel": "WHEEL", "genreJa": "ホイール", "hot": false,
-      "image": "https://kurocycle.jp/wp-content/uploads/2024/05/PXL_20240511_102814070-scaled.jpg",
-      "headline": "【Xで話題・ホイール】『中華ホイールは当たりと地雷が混在』論が継続——見極めはやはり《UCI認証・実測・保証》の3点",
-      "layer1": "Xで「中華ホイール、正直めちゃくちゃ増えた。でも“当たり”と“地雷”が混在してるのが現実」という投稿が拡散し、選び方の議論が続いている。裏取りすると、価格.comの8月ランキングでもSUPERTEAM／ELITEWHEELSが上位常連＝“普及は本物”と確認できる。",
-      "layer2": "差が出るのは『下りや限界走行』——リム精度・ハブ・振れ耐性で体感が分かれる。地雷回避の芯は①UCI認証の有無 ②公称でなく実測の重量・幅 ③国内保証／サポート、の3点。“当たり”側の常連はWinspace／YOELEO／ICAN／Farsports／ELITEWHEELS。うちの中華カーボン（8LIEN／CRW／GOOSYNN等）も同じ土俵で、この3点を前面に出せば十分戦える。",
+      "image": "https://cdn.road.cc/wp-content/uploads/2026/08/Untitled-design-1-1024x683.png",
+      "headline": "【Xでも話題・ホイール】フックレスは本当に危険か——シュワルベ『安全基準が甘すぎる』、Cadex『問題はリムでなくタイヤのビード』",
+      "layer1": "8/9のroad.cc特集で、フックレス安全論争がメーカー当事者の言葉で再燃。シュワルベは現行ISO試験を「最大圧＋10%で5分＝簡単すぎる」と批判し、1.5倍を新基準にと主張。",
+      "layer2": "Cadexは論点をずらし「本質はリム形状でなくタイヤのビード規格。現行ETRTOはビードの伸びを甘く規定している」とし、カーボン-ケブラー補強ビードで対応。両者に共通するのは“正しいタイヤ・正しい空気圧なら安全”という結論。日本のローディーがXで抱く「中華フックレス完組は大丈夫か」への一次回答はここ——対応タイヤリストの遵守とETRTO上限（フックレスは約5bar/72.5psi）を守れば、実用上の危険は小さい。数値・規格は上記メディア引用ベース。",
       "sources": [
-        { "t": "X（IT技術者ロードバイク／話題の起点）", "u": "https://x.com/FJT_TKS/status/2033489501583228959", "d": "2026-08" },
-        { "t": "価格.com（8月ホイールランキング／裏取り）", "u": "https://kakaku.com/ranking/bicycle/0009_0002/0034/", "d": "2026-08-16" },
-        { "t": "ミニモビジャーナル（選び方・参考）", "u": "https://www.minimobi-ridejournal.tama-picalog.com/chinesecarbon-wheels/", "d": "2026-05-26" }
+        { "t": "road.cc（Schwalbe vs Cadex 特集）", "u": "https://road.cc/feature/cycling-brands-shaping-the-future-of-bike-wheel-and-tyre-technology", "d": "2026-08-09" }
       ],
-      "status": "確定＝Xで議論継続・普及はランキングが裏付け/曖昧＝個別ブランドの“当たり率”（※Xは入口、普及トレンドは裏取り済み）"
+      "status": "確定＝メーカー発言・ETRTO上限（約5bar）/曖昧＝将来のUCI規制・新基準化の動向は未確定"
     },
     {
-      "id": "20260817-kakaku-wheel",
-      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://cdn.road.cc/wp-content/uploads/2026/07/Shimano-Dura-Ace-WH-R9370-July-2026.jpg",
-      "headline": "【経営メモ・市場】価格.com8月ホイール実売は『中華カーボンが上位固定』——SUPERTEAM3.9万・ELITEWHEELS8.6万 対 アルテグラ14.8万の二層構造",
-      "layer1": "価格.com「自転車用ホイール」8月ランキング（集計7/17〜8/15、更新8/16）は、1位SUPERTEAM（65mm・約3.96万）、3位SUPERTEAM（45mm・約3.89万）、5位ELITEWHEELS（50mm・約8.6万）と中華カーボンが席巻。2位に唯一シマノ・アルテグラWH-R8170（14.85万）が食い込む。",
-      "layer2": "『5万円未満の中華』と『15万の本家』に需要がくっきり二層化している。ショップ視点では、10万円未満の激戦帯は中華完組が指名買いを取り、価格で殴り合っても消耗するだけ。勝ち筋は『実測・振れ取り・保証・アフター』を束ねた“整備込みの安心”を売価に乗せること。うちの中華カーボンはまさにこの帯の主戦力。",
+      "id": "20260818-widerim-trend",
+      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
+      "image": "https://cdn-jupiter.metropolis.co.uk/wp-content/uploads/sites/9/2026/07/DTSwiss-Road-Wheels-1800-New-Horizons-Action-Gravel-Credits-Antoine-Willemart-012-1920px.webp",
+      "headline": "【トレンド】8/9のメーカー議論が映す2026ホイールの行き先＝『ワイド×フックレス×一体設計』——値ごろ帯もDT Swiss 1800が内幅+2mmに拡大",
+      "layer1": "road.cc 8/9特集が示すのは、ホイールが軒並みワイドリム化していく流れ。エントリー帯のDT Swiss 1800も全モデル内幅+2mm（Aero20→22・Endurance22→24・Gravel24→26mm）で£399.98に更新された。",
+      "layer2": "狙いは「低圧でも性能を落とさず、転がり・グリップ・快適性を上げる」こと。上位ではCadex Max50（内幅22.4mm・一体タイヤ）やタイヤ圧センサー内蔵Zippなど“ワイド×フックレス×一体設計”が加速。完成車が28〜32cを飲む前提に変わり、うちのカーボン完組も『内幅×タイヤ幅×空気圧上限』で選ぶ提案が刺さる。※DT Swiss／Cadexの製品発表自体は7〜2月で、主役は8/9の潮流特集。",
       "sources": [
-        { "t": "価格.com（8月ホイールランキング）", "u": "https://kakaku.com/ranking/bicycle/0009_0002/0034/", "d": "2026-08-16" }
+        { "t": "road.cc（ホイール／タイヤ技術の行き先）", "u": "https://road.cc/feature/cycling-brands-shaping-the-future-of-bike-wheel-and-tyre-technology", "d": "2026-08-09" },
+        { "t": "Cyclist（DT Swiss 1800）", "u": "https://www.cyclist.co.uk/news/dt-swiss-1800-alloy-wheels-2026", "d": "2026-07" }
       ],
-      "status": "確定＝8月ランキングの順位・価格/曖昧＝需要の長期トレンドは月次で変動"
+      "status": "確定＝各製品スペック・ワイド化の潮流/曖昧＝“最適空気圧”は体重・路面で個別に決まる"
     },
     {
-      "id": "20260817-sale-timing",
-      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://pedalism.jp/wp-content/uploads/2026/08/ec_p681.jpg",
-      "headline": "【経営メモ・市場】“値下げ待ち”の客にどう今買わせるか——旧モデル処分の本番は『8〜10月で定価の15〜30%』",
-      "layer1": "国内で値引きが集中するのは①8〜10月の旧モデル処分（定価の15〜30%が標準）②12〜1月の年末年始（15〜25%）。逆に2〜5月のシーズンインは避けるべき、という購入指南が更新（8/11）で拡散している。",
-      "layer2": "つまり今（お盆〜9月）は“買い手が値下げを待つ”踊り場。ショップは「待てば安い」の常識を逆手に取り、①整備・フィッティング・保証などモノ以外の価値、②型落ちの“今ある在庫の即納”、③下取り／セット割で『今日買う理由』を作るのが実務。新モデル発表期（9〜10月）に向けた在庫回転の勝負どころ。",
-      "sources": [
-        { "t": "Pedalism.jp（購入タイミング／更新）", "u": "https://pedalism.jp/road-bike-sale-timing-when-cheap/", "d": "2026-08-11" }
-      ],
-      "status": "確定＝値引きの集中期と幅/曖昧＝店舗ごとの実値引きは在庫次第"
-    },
-    {
-      "id": "20260817-first-wheel",
+      "id": "20260818-tire-pressure",
       "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "https://innertop.com/wp-content/uploads/2018/10/chinesecarbonwheels.png",
-      "headline": "【初中級】“初めての中華カーボン完組”は数値より《3つの規格》——価格.com上位を入口に、内幅・フックレス上限・認証保証で選ぶ",
-      "layer1": "実売ランキングで中華カーボンが上位を占める今、初中級の「最初の一本」は現実的な選択肢になった。ただし後悔は“軽さ”より規格ミスで起きる。買う前に見るべきは数字より規格。",
-      "layer2": "芯は3点——①リム内幅×タイヤ幅（内幅21〜23mmなら28〜30cが最適、細すぎ選択は乗り味を殺す）②フックレスなら空気圧の上限厳守（多くは5.0bar前後が上限、入れ過ぎはビード外れの危険）③UCI認証と国内保証・アフター。SUPERTEAM／ELITEWHEELS／YOELEO／ICAN等の“当たり”帯は、この3点を満たせば価格性能で本家に迫る。公称1,300g等の数字は実測で裏取りを。",
+      "image": "https://cdn.road.cc/wp-content/uploads/2026/02/SLorencePhoto_Cadex_ET_01-1024x683.jpg",
+      "headline": "【初中級】夏にやりがちな『空気圧の入れすぎ』——フックレスは約5barが上限、体重×タイヤ実測幅×内幅で決める",
+      "layer1": "太タイヤ・チューブレス・ワイドリム化で、いまの最適空気圧は昔よりかなり低い。特にフックレスはETRTO上限が約5bar（72.5psi）で、7bar運用は“高すぎ”になりがち。",
+      "layer2": "目安は「体重・タイヤ実測幅・リム内幅」から出発点を決め、跳ね（高すぎ）とリム打ち／よれ（低すぎ）の間で微調整する。28c前後・体重60〜70kgなら概ね4.2〜4.8bar帯が現実的な入口。中華フックレス完組を初めて買う人が一番ミスるのは“上限を超えて入れる”こと——まず対応タイヤリストと上限を確認し、そこから0.2〜0.3bar下げて自分の最適を探る。数値は一般的な目安で、最終は実走で詰める。",
       "sources": [
-        { "t": "価格.com（8月ランキング／入口）", "u": "https://kakaku.com/ranking/bicycle/0009_0002/0034/", "d": "2026-08-16" },
-        { "t": "ミニモビジャーナル（選び方・参考）", "u": "https://www.minimobi-ridejournal.tama-picalog.com/chinesecarbon-wheels/", "d": "2026-05-26" }
+        { "t": "road.cc（フックレス上限・安全）", "u": "https://road.cc/feature/cycling-brands-shaping-the-future-of-bike-wheel-and-tyre-technology", "d": "2026-08-09" },
+        { "t": "GIANT/BiCYCLE CLUB（適正空気圧の考え方）", "u": "https://www.giant.co.jp/news/gear/4612/", "d": "2021-02" }
       ],
-      "status": "確定＝選定3点の考え方/曖昧＝個別モデルの実測・上限空気圧は要確認"
+      "status": "確定＝フックレスのETRTO上限（約5bar）/曖昧＝最適値は体重・路面・好みで個体差、目安は参考値"
     },
     {
-      "id": "20260817-endurance-year",
-      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://c02.purpledshub.com/uploads/sites/39/2026/03/New-Canyon-Endurace-CFR_2026_Daiel-Benson_002.jpeg?webp=1&w=1200",
-      "headline": "【トレンド】2026は『エンデュランス完成車の当たり年』——“速さ×快適×積載”を満たす4条件、境界はいよいよ溶けた",
-      "layer1": "8/15のバイクレーダー総括——2026はキャノンデール／ビアンキ／ピナレロ／サーヴェロ等が高性能エンデュランスを続々投入し、“遅い快適バイク”の時代は終わったと指摘。エアロとエンデュランスの境界が溶けた。",
-      "layer2": "良いエンデュランスの共通4条件は①ロードマナー（オフ寄せの過剰ジオメトリで走りを殺さない）②フェンダー台座（悪天候対応＋太タイヤクリアランス）③ダウンチューブ収納／ツール積載 ④“プロレースバイク級の作り込み”。新型ドマーネのアイソスピード廃止（＝軽量化）もこの潮流の象徴。初中級には『エアロかエンデュランスか』より“乗る道と姿勢”で選ぶ時代になった。",
-      "sources": [
-        { "t": "BikeRadar（2026エンデュランス総括）", "u": "https://www.bikeradar.com/features/opinion/2026-is-the-year-of-the-endurance-bike", "d": "2026-08-15" }
-      ],
-      "status": "確定＝2026のエンデュランス潮流と4条件/曖昧＝各モデルの優劣は用途次第"
-    },
-    {
-      "id": "20260817-price-war",
+      "id": "20260818-china-strategy",
       "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://c02.purpledshub.com/uploads/sites/39/2026/03/Giant-Propel-Advanced-SL-0-AXS_20260227_SvB_EOS-R_IMG_9682-scaled.jpg?webp=1&w=1200",
-      "headline": "【経営メモ・市場】大手が『値ごろ帯』へ降り、新興が“半額スペック”で突き上げる——中華ホイールの価格優位が挟まれる構図",
-      "layer1": "コロナ特需の反動で供給過多・価格調整が続き、国内でも大手ロードの値下げが常態化。一方でNESTO／GUSTO等の新興が「大手の半額以下で同等スペック」を打ち出し、上下から価格圧力がかかっている。",
-      "layer2": "この“上（大手値下げ）×下（新興台頭）”に挟まれると、中華完組の唯一の武器だった『価格』は相対的に細る。ショップの活路は価格勝負ではなく、①指名されるブランド選定（認証・実績のある中華カーボン）②整備・保証・フィッティングの束ね売り ③試乗で“体感”を売ること。値付けは『定価高止まり・実売下落』を読み、粗利は付帯価値で確保する。",
+      "image": "https://cdn.road.cc/wp-content/uploads/2026/07/2026-July-4-Tech-of-the-Week-1024x708.jpg",
+      "headline": "【経営メモ】中華カーボンの『主戦場は10万円未満』が定着——大手が値ごろ帯へ降りる今、うちの立ち位置をどう守るか",
+      "layer1": "価格.comの二層構造（中華3〜10万／国産12〜21万）に加え、大手までワイド完組を4万円弱で投入。中華の“価格優位”が上下から挟まれ始めた。",
+      "layer2": "経営目線の要点：①10万円未満の主戦場は数が出るが利幅は薄い＝整備・フィッティング・保証で付加価値を乗せる、②大手の値ごろ帯（DT Swiss等）はアルミ中心で、カーボン一体・軽量では依然うち（8LIEN／CRW／GOOSYNN）に分がある、③秋の型落ち期に国産完組の実売が下がると“比較の谷”が生まれる——ここで《UCI認証・実測・保証》の3点を武器に指名買いへ誘導。値付けは「安さ勝負」でなく「規格で選べる安心」を軸に。記事化不要の内部メモ。",
       "sources": [
-        { "t": "Pedalism.jp（値下げ時期・価格改定）", "u": "https://pedalism.jp/road-bike-sale-timing-when-cheap/", "d": "2026-08-11" },
-        { "t": "価格.com（実売の二層構造・参考）", "u": "https://kakaku.com/ranking/bicycle/0009_0002/0034/", "d": "2026-08-16" }
+        { "t": "価格.com 自転車用ホイール人気ランキング", "u": "https://kakaku.com/ranking/bicycle/0009_0002/0034/", "d": "2026-08-17" },
+        { "t": "Cyclist（DT Swiss 1800・値ごろ帯のワイド化）", "u": "https://www.cyclist.co.uk/news/dt-swiss-1800-alloy-wheels-2026", "d": "2026-07" }
       ],
-      "status": "確定＝大手値下げ・新興台頭の潮流/曖昧＝具体的な値下げ率は時期・モデルで変動（※個別数値は要裏取り）"
-    },
-    {
-      "id": "20260817-xds-mainstream",
-      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://bikerumor.com/wp-content/uploads/2026/04/XSD-header-.png",
-      "headline": "【トレンド】アークティックを制した『XDS＝中国ブランド』——WTバイクの中国メーカーが日本を含む15市場へ本格上陸",
-      "layer1": "今朝の総合優勝者シルバのチームはXDSアスタナ。そのバイクを供給するXDS（1995年創業の中国大手）は、自社ブランド“X-LAB”を米・ノルウェー・日本など15市場へ展開中。フレーム・ホイール・部品・モーターまで内製する垂直統合が強み。",
-      "layer2": "WT供給バイクAD9はトーレイT1100カーボン＋デュラエースDi2で約6.82kg・7,999ドル。入門SP3は799ドル、カーボンRS7は2,099ドルと価格が刺さる。しかも流通は“直販でなく実店舗優先”＝ショップと組む前提。『中華＝怪しい』から『WTを走らせる本流メーカー』への転換が、レース結果とともに可視化された——うちが扱う中華カーボン（8LIEN／CRW等）の“信頼の追い風”になる文脈。",
-      "sources": [
-        { "t": "Bikerumor（XDS X-LAB 世界展開）", "u": "https://bikerumor.com/xds-launches-9-bike-x-lab-global-range-with-serious-prices/", "d": "2026-04-08" },
-        { "t": "ProCyclingStats（XDSアスタナ）", "u": "https://www.procyclingstats.com/team/xds-astana-team-2026/overview/start", "d": "2026-08-16" }
-      ],
-      "status": "確定＝XDSのX-LAB展開・AD9スペック・アークティック総合優勝/曖昧＝日本での取扱店網の広がりは今後（※要続報）"
+      "status": "確定＝二層構造・大手のワイド完組投入/曖昧＝秋の実売下落幅は予測"
     }
   ]
 }
