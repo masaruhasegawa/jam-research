@@ -1,5 +1,337 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-08-20",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、14本。レースは“三連戦”の初日結果が出そろい——ルネウィはミランが写真判定、ブリテン女子はヴィーベス、ドイツはデル・トロ。ブエルタは王者不在ヴィスマの布陣ドラマ、機材はBerdの世界最軽量グラベルとシマノGRX13速リーク、市場はFUJI新型クロスの当日キャンペーンと価格.comの二極化、そしてXは“初心者いじめ”炎上を拾いました。",
+    "cards": [
+      {
+        "id": "20260820-renewi-st1-milan",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://procyclinguk.com/wp-content/uploads/2026/08/Jonathan-Milan-2026-Renewi-Tour-Stage-1-Rain-Cor-Vos.jpg",
+        "headline": "ルネウィ・ツアー初日は『豪雨の写真判定』——ミランがコーイをコンマ差でねじ伏せ、最強スプリンター博覧会の初戦を奪う",
+        "layer1": "昨日8/19開幕のルネウィ・ツアー第1ステージ（ディースト発着）は、ヨナタン・ミラン（Lidl-Trek）が優勝。2位オラフ・コーイに写真判定の僅差、3位メルリエ、4位フィリプセンと、事前に「同じ土俵」と言われた最強スプリンター陣が予告どおり接近戦に。",
+        "layer2": "勝負を荒らしたのは雨。残り2kmで約15秒あった逃げが最終1km内で吸収され、濡れた路面でリードアウト列が崩壊、実質『ノーコントロールの叩き合い』になった。残り15km地点の落車で集団が一度割れたのも伏線で、供給役を失ったチームが出た。今日8/20の第2ステージ（ブランケンベルヘ→アルドーイェ）は純平坦想定——ミラン連勝か、コーイ／フィリプセンの雪辱かが見どころ。総合の本番は8/21第3ステージのミュール激坂2回登り。",
+        "sources": [
+          {
+            "t": "ProCyclingUK（st1リザルト）",
+            "u": "https://procyclinguk.com/renewi-tour-2026-stage-1-jonathan-milan-beats-olav-kooij-in-photo-finish-after-late-breakaway-caught/",
+            "d": "2026-08-19"
+          },
+          {
+            "t": "Cycling Uptodate（st1リザルト）",
+            "u": "https://cyclinguptodate.com/cycling/results-renewi-tour-2026-stage-1-jonathan-milan-wins-opening-sprint-ahead-of-kooij-merlier-and-philipsen",
+            "d": "2026-08-19"
+          }
+        ],
+        "status": "確定＝表彰台順位（ミラン→コーイ→メルリエ→フィリプセン）。曖昧＝逃げの秒差15秒・落車地点残り15kmはソース記述で細部は要裏取り。"
+      },
+      {
+        "id": "20260820-tob-women-st1-wiebes",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/8JgxTxPjmbagSKAfvL2u5a-2000-80.jpg",
+        "headline": "ツアー・オブ・ブリテン女子開幕、ヴィーベスが荒れたフィナーレを差し切り勝利——初のリーダージャージ、今日の平坦で“連勝”に照準",
+        "layer1": "昨日8/19開幕のツアー・オブ・ブリテン女子第1ステージ（カンブリア地方）は、ローレナ・ヴィーベス（SD Worx-Protime）が集団スプリントを制覇。2位コンソンニ（Canyon-SRAM）、3位ジョジー・ネルソン（Picnic-PostNL）で、ヴィーベスが初のリーダージャージを着た。",
+        "layer2": "風・断続的なアタック・登坂・落車で削られた末の勝負処理で、王者の格の違いが出た内容。英メディアはこれを「ヴィーベス通算134勝目」とカウント（※勝数は媒体独自集計、表記時は出典明記）。今日8/20の第2ステージ（クリザロー→ブラックプール）は明確な平坦スプリントで、本人にとって最も分かりやすいチャンス——大会最長5日間635.8kmの序盤で貯金を作れるか。",
+        "sources": [
+          {
+            "t": "Cyclingnews（st1リザルト）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-of-britain-women-lorena-wiebes-snatches-sprint-victory-on-stage-1-ahead-of-chiara-consonni/",
+            "d": "2026-08-19"
+          },
+          {
+            "t": "IDL Procycling（st1リザルト・勝数）",
+            "u": "https://www.idlprocycling.com/cycling/tour-of-britain-women-2026-stage-1-result-wiebes-takes-victory-number-134-thursday-135",
+            "d": "2026-08-19"
+          }
+        ],
+        "status": "確定＝表彰台順位・リーダージャージ。曖昧＝『通算134勝』はIDL独自カウント（他媒体で数値差の可能性）。"
+      },
+      {
+        "id": "20260820-deutschland-prologue-deltoro",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/VJ85dcXpdQq9FGVzWTAy9a-2000-80.jpg",
+        "headline": "ドイツ・ツアーはデル・トロが『2.6kmプロローグ』を制圧——マニエを退け初日リーダー、UAE対Lidlの総合前哨戦",
+        "layer1": "昨日8/19開幕のドイツ・ツアー、バート・オルプの2.6km個人TTプロローグは、イサク・デル・トロ（UAE）が優勝。2位に平坦快速のポール・マニエを退け、デル・トロが総合首位で今日8/20の第1ステージ（バート・オルプ→シュヴェービッシュ・ハル、215.3km丘陵）へ入る。",
+        "layer2": "図式は『デル・トロのUAE vs チッコーネのLidl』。今季ブレイクしたデル・トロが超短距離TTでも力を示した形で、たった2.6kmの差が丘陵ステージでどう効くかが焦点。ブエルタを回避したクライマー勢がここで秋の始動を測る場でもある。※プロローグの勝利タイム差は数値未取得（要裏取り）。",
+        "sources": [
+          {
+            "t": "Cyclingnews（プロローグ）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/deutschland-tour-isaac-del-toro-blasts-to-prologue-victory-ahead-of-paul-magnier/",
+            "d": "2026-08-19"
+          },
+          {
+            "t": "Cycling Uptodate（GC/st1プレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/deutschland-tour-2026-gc-and-stage-1-preview-profiles-favourites-predictions-del-toros-uae-versus-ciccones-lidl",
+            "d": "2026-08-19"
+          }
+        ],
+        "status": "確定＝勝者デル・トロ・2位マニエ・コース。曖昧＝勝利タイム差は未取得。"
+      },
+      {
+        "id": "20260820-vuelta-visma-lineup",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-08%2Fphoto-collage-6a841c70d7f73.png",
+        "headline": "ブエルタ開幕2日前、王者ヴィンゲゴー不在のヴィスマは『総合を捨てて全面ステージ戦』——ファンアールト旗頭、新鋭ブレナンがGTデビュー",
+        "layer1": "8/22開幕のブエルタに向け、ヴィスマ・リースアバイクが布陣を発表。2025年覇者ヴィンゲゴーが不在のなか、総合ではなくステージ勝利に全振りし、ワウト・ファンアールトを旗頭に、GTデビューの新鋭マシュー・ブレナン、元ブエルタ王者セップ・クス、ラポルト、テュレット、ノルドハーゲン、クライスワイク、アルミライユを起用する。",
+        "layer2": "前日のログリッチ『GC断念』に続く“総合空位”ドラマの第2弾——昨年の王者チームまでもがGCを捨て、ポガチャル一強を裏づける構図になった。人間ドラマは、山岳エースではなく脇役に回るクスと、いきなり大舞台へ放り込まれる10代ブレナン。ファンアールトのステージ量産が“もう一つの総合”として大会を彩る。※ヴィンゲゴー欠場は「ツールでの鎖骨負傷の影響」との観測で、最終的な理由は要裏取り。",
+        "sources": [
+          {
+            "t": "Cycling Uptodate（ヴィスマ布陣）",
+            "u": "https://cyclinguptodate.com/cycling/van-aert-brennan-kuss-visma-reveal-their-highly-ambitious-lineup-to-tackle-the-2026-vuelta-a-espana",
+            "d": "2026-08-18"
+          },
+          {
+            "t": "Infobae（西語・布陣）",
+            "u": "https://www.infobae.com/espana/agencias/2026/08/18/el-visma-sin-vingegaard-lleva-a-van-aert-como-jefe-de-filas-y-el-decathlon-a-felix-gall/",
+            "d": "2026-08-18"
+          }
+        ],
+        "status": "確定＝メンバー構成・ステージ狙いの方針。曖昧＝ヴィンゲゴー欠場の正式理由（※要裏取り）。"
+      },
+      {
+        "id": "20260820-transfer-seixas-hinge",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/08/Z8D_0020-2.jpg",
+        "headline": "2027移籍市場の“蝶番”は19歳セイシャス——彼が決まるまで巨額マネーが凍結、動けるのは一握りの超富裕チームだけ",
+        "layer1": "8/1に翌季契約が解禁され、2027年へ向けた移籍市場が本格化。仏の19歳ポール・セイシャスの去就が『市場の蝶番（hinge）』となり、彼が決まるまで各チームの巨額予算が保留状態にある、とVeloが報じた。確定済みではランダ（Soudal QS→Euskaltel）、ヤコブセン（→ヴィスマ、2028末まで）が動いた。",
+        "layer2": "市場に出る大物はカラパス／ヒンドレー／ログリッチ／デ・リー／オコナーら。ただしセイシャス級の若き逸材に手を出せるのは、ペロトンでも一握りの“ウーバーリッチ”チームだけ——という財力格差が今オフ最大の焦点。ブエルタ期間中は発表ラッシュになりやすく、うち（ショップ）目線でも「どのブランド／チームが伸びるか」を占う材料になる。※個別移籍の最終確認は各チーム公式待ち。",
+        "sources": [
+          {
+            "t": "Velo（Outside・移籍市場分析）",
+            "u": "https://velo.outsideonline.com/news/paul-seixas-cycling-transfer-market-2026-2027/",
+            "d": "2026-08-12"
+          },
+          {
+            "t": "Cyclingnews（2027移籍ハブ）",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/cycling-transfers-all-the-latest-news-and-announcements-for-the-2027-season/",
+            "d": "2026-08-01"
+          }
+        ],
+        "status": "確定＝契約解禁・市場本格化。曖昧＝個別移籍（ランダ／ヤコブセン等）の細部は最終確認前。"
+      },
+      {
+        "id": "20260820-berd-sparrow50-gold",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://bikerumor.com/wp-content/uploads/2026/08/Sparrow50-Gold-Wheelset-Pair.jpeg",
+        "headline": "Berdが『世界最軽量50mmグラベル』を主張——ペア1,298g、金属でもカーボンでもない“ストリング（繊維）スポーク”という第3勢力",
+        "layer1": "8/18、米Berdが新グラベルホイール『Sparrow50 Gold』を発表。50mmディープ×内幅30mmのフックド（フック付き）リムで、700cペア1,298g、価格US$2,395。新ハブ『Talon ESL-R』は36TラチェットでシマノMicroSpline／SRAM XDR／HG／カンパN3Wに対応、40〜60mmタイヤ向け。",
+        "layer2": "目玉はBerd独自のPBO（ポリベンゾオキサゾール）繊維を編んだ“ストリング・スポーク”。金属やカーボンと違い粘弾性で振動を吸い、Berdは『30km/hで振動減衰だけで5W節約』『標準比14.3%高エアロ』と主張する（※いずれもメーカー自社テスト、要裏取り）。カーボンスポーク全盛のいま、あえて“非金属・非カーボン”で1,298gという軽さは異例で、フックレスではなくフックド＋内幅30mmを選び太タイヤの実用性を優先した点も、うちの中華カーボン提案の対比材料になる。",
+        "sources": [
+          {
+            "t": "Bikerumor（発表）",
+            "u": "https://bikerumor.com/berd-claims-its-sparrow50-gold-gravel-wheels-are-the-fastest-and-smoothest-available/",
+            "d": "2026-08-18"
+          },
+          {
+            "t": "Escape Collective（発表）",
+            "u": "https://escapecollective.com/berds-new-sparrow-50-gold-wheels-bring-a-new-claim-to-fast-gravel-wheels/",
+            "d": "2026-08-18"
+          }
+        ],
+        "status": "確定＝発表・重量1,298g・価格・規格。曖昧＝『5W節約』『14.3%高エアロ』はメーカー主張（※要裏取り）。"
+      },
+      {
+        "id": "20260820-shimano-grx-13s-leak",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://bikerumor.com/wp-content/uploads/2026/08/Tease-of-13-speed-Shimano-GRX-with-new-MicroSpline-Road-freehub.jpg",
+        "headline": "シマノ13速は『まずGRX（グラベル）から』か——新フリーボディ“MicroSpline Road”の物証が浮上、手持ちホイールの互換に直結",
+        "layer1": "8/7、複数の物証からシマノがGRX（グラベル）を13速化し、新フリーボディ『MicroSpline Road』を採用する可能性が浮上。①新型DT Swiss G1800のフリーボディ選択肢に「Shimano 13-speed」表記、②独リテーラーの製品コードに12速／13速MicroSplineの両バリアント、が根拠。road用ハブ幅対応で従来MicroSplineに約1.1mm追加した設計とされる。",
+        "layer2": "先回りの読みは『13速はデュラエースより先にGRXから来る→ロードは後追い、早くて2027春以降』。SRAM（RED XPLR等）もカンパ（Ekar）も既に13速を投入済みで、シマノの番という流れ。ここが決まると“買ったホイールが新コンポで使えるか”＝フリーボディ規格の互換が一気に現実問題になる。既報の「R9300全体像」「ASL13R」とは別軸の、GRX×新フリーボディという新しい切り口。※規格名・寸法は公式未発表、単一媒体ソースで確度は中（要裏取り）。",
+        "sources": [
+          {
+            "t": "Bikerumor（物証リーク・更新）",
+            "u": "https://bikerumor.com/bike-rumors-hint-shimano-grx-will-go-13-speed-on-new-microspline-road-freehub/",
+            "d": "2026-08-07"
+          }
+        ],
+        "status": "曖昧＝リーク／物証ベースの推測。規格名『MicroSpline Road』・約1.1mm追加は記事準拠で公式未発表（※要裏取り）。"
+      },
+      {
+        "id": "20260820-dtswiss-arc-white-ltd",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://bikerumor.com/wp-content/uploads/2026/08/Limited-edition-DT-Swiss-ARC-1100-Dicut-55-LTD-road-wheels_too-much-white.jpg",
+        "headline": "DT Swiss『ARC 55 White LTD』登場——中身は第3世代ARCそのもの、注目は同梱の“前後で違うタイヤ”というエアロ運用",
+        "layer1": "DT Swissが第3世代ARCの限定版『ARC 1100 Dicut 55 White LTD』を発表。55mm×外幅28mmカーボンエアロ、ペア公称1,471g、US$3,604／€2,800。白塗装180ハブ＋大型白ロゴが差分で、UNO-Xが2026年ツールで実戦投入。限定の『ホイール・タイヤ・システム』はコンチネンタルのツール限定タイヤ同梱。",
+        "layer2": "性能面は現行ARC v3と同一で、差分は事実上カラーのみのコスメ限定。だが本当の読みどころは同梱タイヤの運用——フロントに空力特化の細い『Aero 111』、リアは通常タイヤという“前後で違うタイヤ”が、プロで定着しつつあるエアロ最適化の象徴だという点。初中級が真似るなら『前だけ細く・軽く』の考え方は効くが、太タイヤ低圧の快適トレンドとどう折り合うかが次の論点。",
+        "sources": [
+          {
+            "t": "Bikerumor（限定版発表）",
+            "u": "https://bikerumor.com/dt-swiss-shines-up-white-hubs-in-limited-edition-arc-1100-dicut-55-ltd-road-wheels/",
+            "d": "2026-08-06"
+          }
+        ],
+        "status": "確定＝限定版の仕様・価格・重量。曖昧＝『前後異径タイヤ』の一般化はトレンド解釈（各社で運用差）。"
+      },
+      {
+        "id": "20260820-cube-litening-aero-c68x",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn-jupiter.metropolis.co.uk/wp-content/uploads/sites/9/2026/08/Cube-Litening-Aero-2027-1-scaled.webp",
+        "headline": "『ツール出場バイクより安いエアロ』が普通になる——CUBE新旗艦Litening Aero C:68Xが£4,999〜で示す“値崩れ”の潮流",
+        "layer1": "8/12、CUBEが2027モデル群を発表。旗艦エアロ『Litening Aero C:68X』はフレーム150g減・45km/h時10.4W高速化しつつ、完成車£4,999〜（最上位でも£7,499）。各メディアが『2026年ツール・ド・フランスに出たどのバイクより安い』と報じた。",
+        "layer2": "初中級が本当に知りたい『じゃあ買うべきエアロは？』に先回りすると3点。(1) 大手がここまで下げられた理由＝型落ちしにくい共通フレーム＋スペックの割り切り、(2) £5,000級エアロ完成車と“中華カーボン完成車＋中華ホイール組み”の実質コスパ比較、(3) エアロでも34mmタイヤ対応が当たり前になり『エアロ＝硬くて細タイヤ』は過去、という現実。うちの立ち位置は『同じ予算で、ホイールを中華カーボンに振って軽さ・戦闘力を足す』提案が刺さる。",
+        "sources": [
+          {
+            "t": "BikeRadar（2027 CUBE）",
+            "u": "https://www.bikeradar.com/news/2027-cube-litening-aero-c68x",
+            "d": "2026-08-12"
+          },
+          {
+            "t": "Cyclist（2027 CUBE）",
+            "u": "https://www.cyclist.co.uk/news/cube-litening-aero-c68x-2026",
+            "d": "2026-08-12"
+          },
+          {
+            "t": "road.cc（2027 CUBEレンジ）",
+            "u": "https://road.cc/tech-news/cube-unveils-2027-range-with-lighter-litening-aero-c68x-leading-the-charge",
+            "d": "2026-08-12"
+          }
+        ],
+        "status": "確定＝発表・価格・軽量/空力の公称値（3媒体一致）。曖昧＝コスパ比較は店側の解釈。"
+      },
+      {
+        "id": "20260820-kakaku-wheel-ranking",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://m.media-amazon.com/images/I/41yMJip+akL._SL500_.jpg",
+        "headline": "【経営メモ】価格.comホイール最新（8/19更新）——数量は中華カーボンが席巻、しかし“金額2位”に純正ULTEGRA C36が定着",
+        "layer1": "価格.com自転車用ホイール人気ランキング（集計7/20〜8/18・8/19更新）は、1位 SUPERTEAMチューブレス¥38,874、3位 SUPERTEAMディスク¥39,599、6位 ELITEWHEELS 50mm¥85,999と中華カーボンが上位を占める一方、2位に純正 ULTEGRA WH-R8170-C36-TL¥148,500、8位に現行 DURA-ACE WH-R9270-C50-TU¥209,000が入った。",
+        "layer2": "『中華が数量で席巻』は既知として、今回の新展開は二つ。(1) 純正ULTEGRA C36が“金額2位”に定着＝エントリー中華（¥3〜4万）と純正ミドル（¥14.8万）の二極化が進み、中間帯が空洞になっている。(2) 8位に残る現行DURA C50は、先に発表された新型WH-R9370（9/17発売）で今後の下落圧力が濃厚＝仕入れ・下取り・中古値の見極め局面。ボリュームゾーンの¥3〜4万中華は利幅が薄いので、うちの差別化は『組付け・振れ取り・保証』などサービス側で立てるのが定石。",
+        "sources": [
+          {
+            "t": "価格.com（自転車用ホイール人気ランキング）",
+            "u": "https://kakaku.com/ranking/bicycle/0009_0002/0034/",
+            "d": "2026-08-19"
+          }
+        ],
+        "status": "確定＝集計期間・順位・実売価格（価格.com実データ）。曖昧＝下落圧力・二極化は市場解釈。"
+      },
+      {
+        "id": "20260820-fuji-ubik-campaign",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/08/f52386a5a787469a9d7c8bb3c1ab9551.jpeg",
+        "headline": "【経営メモ】FUJI、定番クロス後継『UBIK』を投入——今日8/20開始『STAND! BUY ME!』でセンタースタンド無料進呈、秋の入口商材に",
+        "layer1": "FUJIが定番クロスバイクRAIZの後継『UBIK』シリーズ（リムブレーキ／UBIK DISC）を発売。記念キャンペーン『STAND! BUY ME!』は今日2026/8/20（木）〜9/30（水）、全色購入者にセンタースタンドを無料進呈（数量限定）。納車は8月末から正規販売店で開始。",
+        "layer2": "ロードより裾野の広いクロス／通勤エントリー帯の新定番で、9月新学期・秋需要の“入口”商材。スタンド標準添付は日常実用ニーズに直に刺さり、値引きせず販促できる＝利幅を守る手法として上手い。あさひ等の量販に対し、専門店は『組付け品質＋即納＋その先のロード誘導』で差別化する余地がある。エントリー客を将来のロード・ホイール購入へ引き上げる導線として設計するのが得策。",
+        "sources": [
+          {
+            "t": "cyclesports.jp（UBIK）",
+            "u": "https://www.cyclesports.jp/news/new-product/166592/",
+            "d": "2026-08-07"
+          },
+          {
+            "t": "アキボウ プレスリリース（dreamnews）",
+            "u": "https://www.dreamnews.jp/press/0000358574",
+            "d": "2026-08-07"
+          }
+        ],
+        "status": "確定＝発売・キャンペーン期間（当日8/20開始）・特典（メーカー／輸入元一次情報）。"
+      },
+      {
+        "id": "20260820-colnago-pogacar-campaign",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bikeueki.com/wp-content/uploads/2026/08/COLNAGO_2026CAMPAIGN_top.jpg",
+        "headline": "【経営メモ】ポガチャル“史上最年少ツール5勝”の余波——コルナゴが記念キャンペーン、値引きせず高単価完成車の指名買いを喚起",
+        "layer1": "2026年ツールでポガチャル（UAE）が史上最年少で通算5勝目＝『5勝クラブ』入りした余波で、コルナゴが期間限定『TOUR DE FRANCE 2026 CHAMPION CAMPAIGN』を実施。対象モデル成約でオリジナルアパレルを進呈する内容が、国内正規店で告知されている。",
+        "layer2": "ツール勝者ブランドは直後に指名買いが伸びる典型例で、V5Rs等ハイエンド完成車の販促好機。特典が“値引きでなく付加価値”なので単価・利益率を守れるのが利口な設計。業界全体も『安売りより高単価』へ舵を切っており（大手の増益基調）、この波に乗るなら今の在庫確保・展示訴求が有効。うち目線では、ハイエンド完成車の相談客に『ホイールは中華カーボンで軽く・戦えるものに』という提案を重ねられる場面。",
+        "sources": [
+          {
+            "t": "スポーツサイクル ウエキ（コルナゴ企画告知）",
+            "u": "https://bikeueki.com/bike/model/road_bike/colnago/",
+            "d": "2026-08"
+          },
+          {
+            "t": "cyclesports.jp（ポガチャル5勝）",
+            "u": "https://www.cyclesports.jp/news/race/165870/",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝ポガチャル5勝（一次情報）。曖昧＝キャンペーンはメーカー企画をショップが告知した二次（対象・期間の細部は店により差）。"
+      },
+      {
+        "id": "20260820-aokippu-3months",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn-webcartop.com/wp-content/uploads/2026/08/260807_bicycle_violation_002.jpg",
+        "headline": "【初中級】自転車『青切符』導入3か月、実際どう切られている？——ロード乗りが今すぐ直すべき違反ワースト3",
+        "layer1": "8/9、WEB CARTOPが『青切符導入3か月』の取締り状況を整理。制度は2026/4/1施行（16歳以上・113種の違反が反則金対象）。導入初月の反則切符交付は全国2,147件、指導警告票は約13.6万件、摘発ワースト3は一時停止違反・ながらスマホ・信号無視（JAF Mate調べ）。",
+        "layer2": "初中級が一番不安な『自分の日常走行のどれがアウト？』に先回り。(1) ロードでやりがちなのは一時停止不停止・イヤホン/ながらスマホ・二段階右折無視の3つ、(2) 反則金は種類で数千〜1.2万円、赤切符（飲酒等）とは別物、(3) いまは“ルール浸透重視”で警告中心だが今後は厳格化見込み。装備側ではライト・ベル・反射材の不備が違反の入口になりやすいので、納車時・点検時に一緒に確認するのがショップの親切。",
+        "sources": [
+          {
+            "t": "WEB CARTOP（3か月の取締り整理）",
+            "u": "https://www.webcartop.jp/2026/08/1866932/",
+            "d": "2026-08-09"
+          },
+          {
+            "t": "JAF Mate Online（初月データ・ワースト3）",
+            "u": "https://jafmate.jp/car/traffic_topics_20260520_1199203.html",
+            "d": "2026-05-20"
+          }
+        ],
+        "status": "確定＝制度内容・初月データ（2,147件・約13.6万件・ワースト3）。曖昧＝今後の厳格化は見通し。"
+      },
+      {
+        "id": "20260820-x-beginner-harassment",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://livedoor.blogimg.jp/cysoku/imgs/b/9/b9559061-s.png",
+        "headline": "【Xで話題】『初心者いじめ』炎上でロード界隈の“民度”論争が再燃——専門店にとってはむしろ差別化の好機",
+        "layer1": "8/17頃、ロードを始めたばかりの女性がXに投稿した乗車動画に対し、一部のローディーがサドル高やフレームサイズ、姿勢を嘲笑。本人が『始めたばかりで何もわからず…』と反応して拡散し、『界隈が新規を助けず叩く＝普及の妨げ』という批判が噴出、8/18に複数のまとめ記事が立った。",
+        "layer2": "これは既出の『ロードバイク離れ論争』とは別軸で、“新規参入者の心理的ハードル＝民度問題”。SNS上の「怖い界隈」イメージは、そのまま実店舗の来店障壁でもある。だから専門店には逆張りの好機——『初心者歓迎・フィッティング相談歓迎・マウント無し』を明確に打ち出せば、それ自体が差別化の訴求点になる。店のSNS発信のトーンや接客方針に直結する話。※炎上の中心は特定できたが、発端の一次ポストURL自体は要確認（Xで話題、裏取り一部限定）。",
+        "sources": [
+          {
+            "t": "サイ速（まとめ）",
+            "u": "https://cysoku.com/archives/97638043.html",
+            "d": "2026-08-18"
+          },
+          {
+            "t": "コノユビニュース（まとめ）",
+            "u": "http://konoyubitomare.jp/archives/1083722180.html",
+            "d": "2026-08-18"
+          }
+        ],
+        "status": "曖昧＝※Xで話題、要裏取り。まとめ複数で話題化は確認、発端の一次ポストURLは未特定。"
+      }
+    ]
+  },
+  {
     "date": "2026-08-19",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。今日はレースが“渋滞”——ルネウィ／ツアー・オブ・ブリテン女子／ドイツ・ツアーが同日開幕、ブエルタは3日前。機材は13速の全体像、市場は型落ちの暦と中華の現在地を押さえました。",
     "cards": [
