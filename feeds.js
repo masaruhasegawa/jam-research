@@ -1,5 +1,294 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-08-21",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ブエルタ開幕前夜、ログリッチの『ラストダンス』と、ルネウィの大落車が同時進行——今日はレースが濃いです。中華はホイールの次に『クランク』へ来ました。",
+    "cards": [
+      {
+        "id": "20260821-renewi-st2",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-08/captura-de-ecra-2026-08-20-162730-6a871cfcbc4f9.png",
+        "headline": "ルネウィ・ツアー第2は『大落車が主役を替えた』——初日勝者ミランが集団に周回遅れ、フィリプセンが漁夫の利で総合首位",
+        "layer1": "8/20の第2ステージ、初日勝者で総合リーダーのミランがバイヤー絡みの大落車に巻き込まれ6分以上を失い、残り約5kmで集団に周回遅れ。混乱のスプリントはフィリプセンが約400mから発射してキャリア65勝目、ボーナス10秒で黄色ジャージを奪った。",
+        "layer2": "先回り＝ミランは『勝てなかった』のではなく『走れなかった』。フィリプセンは着差でなくボーナスタイムで首位に立った格好。最強スプリンター4人（ミラン／フィリプセン／メルリエ／コーイ）が拮抗する博覧会ゆえ、『落車と運』が総合を動かす構図になっている。今日以降のミランの容態次第ではリタイアもありうる（※要続報）。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/results-renewi-tour-2026-stage-2-jasper-philipsen-wins-in-ardooie-as-crash-hit-race-leader-jonathan-milan-is-lapped-by-peloton",
+            "d": "2026-08-20"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/renewi-tour-jasper-philipsen-storms-into-race-lead-with-victory-on-windy-and-chaotic-stage-2/",
+            "d": "2026-08-20"
+          }
+        ],
+        "status": "確定＝フィリプセン勝利・総合首位、ミラン落車で周回遅れ／曖昧＝ミランの負傷程度・継続可否は続報待ち"
+      },
+      {
+        "id": "20260821-deutschland-st1",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-08/louis-barre-at-the-2026-tour-de-pologne-6a775fd6b0f6d.jpg",
+        "headline": "ドイツ・ツアー第1は『伏兵ルイ・バレの一撃』——残り2kmでマニエを振り切り単独勝利、デル・トロ／チッコーネを抑え総合首位",
+        "layer1": "8/20、ヴィスマのルイ・バレが登り基調のフィニッシュ手前2km弱で抜け出して単独勝利。2位デル・トロに16秒差、同タイム3位にチッコーネ。ボーナス込みで総合首位（デル・トロに9秒、チッコーネに18秒）に立った。",
+        "layer2": "先回り＝スプリント予想を『登りゴール』が裏切った。プロローグ2位のマニエはボーナススプリントで2秒稼ぐも本ゴール手前800mで集団に吸収、1分16秒遅れの総合31位に転落。プロローグ王者デル・トロ（UAE）は総合を睨むが、対Lidl-Trekの前哨戦は『パンチャー向けゴール』の使い方が鍵になる。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/results-deutschland-tour-2026-stage-1-vismas-louis-barre-holds-off-del-toro-and-ciccone-for-stunning-solo-stage-win",
+            "d": "2026-08-20"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/deutschland-tour-louis-barre-swipes-bonus-seconds-and-surprising-win-on-stage-1-to-go-into-race-lead/",
+            "d": "2026-08-20"
+          }
+        ],
+        "status": "確定＝バレ勝利・総合首位／曖昧＝GCは僅差、この先の山岳で逆転余地大"
+      },
+      {
+        "id": "20260821-tob-women-st2",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2024-06/lorena-wiebes-666484b958f1a.JPG",
+        "headline": "ツアー・オブ・ブリテン女子第2は『豪雨と車両事故で中断』——それでもヴィーベスが連勝、通算135勝でリード拡大",
+        "layer1": "8/20、クリスロー→ブラックプールの第2ステージはコース前方の車両事故で一時中断、選手は冷たい豪雨の中で待機。再開後もヴィーベスが雨のスプリントを制して2連勝、2位コールズ-リスター、3位ル・クール。総合とポイントのリードを広げた。",
+        "layer2": "先回り＝ヴィーベスは『悪条件ほど強い』。通算135勝の勝負強さで、路面が荒れて集団が絞られるほど発射台が明確になる。今日8/21は起伏のあるステージで、舞台は純スプリントから『パンチャー要素』へ。コペツキを擁するSDワークスは総合も視野に入れる。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-of-britain-women-2026-stage-2-lorena-wiebes-goes-back-to-back-in-blackpool-after-car-accident-stoppage-and-torrential-rain",
+            "d": "2026-08-20"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-of-britain-women-lorena-wiebes-doubles-up-with-long-range-sprint-to-win-stage-2/",
+            "d": "2026-08-20"
+          }
+        ],
+        "status": "確定＝ヴィーベス連勝・総合首位／曖昧＝起伏ステージでの総合争いはこれから"
+      },
+      {
+        "id": "20260821-vuelta-roglic",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-04/primoz-roglic-69d65215500c1.jpg",
+        "headline": "明日8/22開幕ブエルタ、ログリッチの『ラストダンス』——ツールを捨てて狙う『史上初の5勝目』、だが直前の車接触で「スタートに立てれば勝ち」",
+        "layer1": "8/22モナコ開幕。ログリッチ（10月で37歳）はロベルト・エラスと並ぶ最多4勝で、誰も到達していない『5勝目』を狙い、今季はツールを回避してブエルタに全振りした。だが直前の練習で車と接触して準備が乱れ、本人は「時にスタートに立つこと自体が勝利だ」と語った。",
+        "layer2": "先回り＝なぜ『ラストダンス』か。レッドブルとの契約は今季末で切れ、ベルギー勢はロット移籍を報道。年齢・契約・不透明な将来が重なり、GT表彰台の『最後のチャンス』という位置づけになっている。最大の壁は7年ぶり出場のポガチャル（唯一未制覇のGTを狙う圧倒的本命）。ログリッチの現実解は『総合上位＋ステージ』だ。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/sometimes-win-means-to-be-on-the-start-primoz-roglic-makes-stark-vuelta-a-espana-admission-with-record-fifth-title-bid-and-tadej-pogacar-looming",
+            "d": "2026-08-20"
+          },
+          {
+            "t": "Velo（Outside）",
+            "u": "https://velo.outsideonline.com/road/road-racing/vuelta-a-espana/primoz-roglic-vuelta-espana-2026",
+            "d": "2026-08-19"
+          }
+        ],
+        "status": "確定＝ログリッチ出場・ツール回避・5勝狙い／曖昧＝落車後のコンディション、将来の移籍先"
+      },
+      {
+        "id": "20260821-vuelta-uae-almeida",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-04/tadej-pogacar-69d3a18f2ca93.JPG",
+        "headline": "ブエルタのポガチャル包囲網——だが『UAEの支援に疑問符』、アルメイダは『副エース降格』、識者「結局ボスが自分でやるしかない」",
+        "layer1": "UAEは8人体制（ポガチャル、アルメイダ、ヴァイン、シヴァコフ、トーレスら）を発表。だが分析筋は『紙の上ほど強くない』と指摘する。昨年ブエルタ2位のアルメイダは今季『謎の不調』でジロを欠場、ツアー・オブ・ポローニュも撤退し、今回はドメスティーク役に回る。",
+        "layer2": "先回り＝ポガチャル最大の対抗が『自チームのアルメイダ』のはずが、そのアルメイダが3月以降ステージレース完走なし。エースを守る山岳列車が機能するか不透明で、識者ヤン・ヘルムセンは「主にボス自身から生まれるしかない」と言う。裏を返せば、単騎でも勝てるポガチャルの強さの証明でもある。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/it-will-mainly-have-to-come-from-the-big-boss-himself-analysts-doubt-uae-can-vuelta-a-espana-as-tadej-pogacars-team-face-question-marks",
+            "d": "2026-08-20"
+          },
+          {
+            "t": "UAE Team Emirates（公式）",
+            "u": "https://www.uaeteamemirates.com/uae-team-emirates-xrg-unveil-squad-for-vuelta-a-espana/",
+            "d": "2026-08-03"
+          }
+        ],
+        "status": "確定＝UAE 8人発表・アルメイダはGCオプション兼アシスト／曖昧＝アルメイダの実戦での復調度"
+      },
+      {
+        "id": "20260821-mvdp-mtb",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cyclingmagazine.ca/wp-content/uploads/2026/08/unnamed-2-1200x675.jpg",
+        "headline": "ファンデルプールが『今季初MTB』——今日8/21レ・ゲでショートトラック、狙いは9月の『二種目世界戦』、だが落車リスクと隣り合わせ",
+        "layer1": "MvdPがツール区間勝利後の復帰戦として、UCI MTBワールドカップ・レ・ゲに出場。今日8/21にXCCショートトラック（男子18:05 CEST〜）、8/23にXCOクロスカントリー。2026シーズン初のマウンテンバイクレースだ。",
+        "layer2": "先回り＝なぜ今MTBか。9月の世界選（ロード＆MTB）を睨んだ実戦カン取りだが、MTBは『テクニカルな下り』が弱点で落車＝負傷のリスクが常につきまとう。ロード世界戦を棒に振る危険と背中合わせで、二週で二種目の世界タイトルを狙う『欲張り』な後半戦プラン。今日のショートトラックの結果が試金石になる。",
+        "sources": [
+          {
+            "t": "Canadian Cycling Magazine",
+            "u": "https://cyclingmagazine.ca/mtb/how-to-watch-the-uci-mountain-bike-world-cup-and-van-der-poel-in-les-gets/",
+            "d": "2026-08-19"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/mathieu-van-der-poels-2026-mountain-bike-return-confirmed-with-place-on-world-cup-start-list-at-les-gets/",
+            "d": "2026-08-18"
+          }
+        ],
+        "status": "確定＝出場・日程／曖昧＝結果（今日開催）・ロード世界戦への影響"
+      },
+      {
+        "id": "20260821-winspace-crank",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://www.winspace.cc/cdn/shop/files/HYPERCarbonCrankset1.webp?v=1786094685",
+        "headline": "中華トップWINSPACEが『HYPERカーボンクランク』投入（8/19）——公称298g・パワメ内蔵$999〜、『ホイールの次はコンポ』へ",
+        "layer1": "WINSPACEが8/19にHYPERカーボンクランクを発売。170mmで約298g（±10g）、T1200ハイモジュラスカーボン、Magene P515パワーメーター内蔵。パワー版$999／カーボンチェーンリング同梱版$1,299、チェーンリングは50/34〜56/42、クランク長は150〜172.5mmの7サイズ。",
+        "layer2": "先回り＝中華カーボンが『ホイールの成功』をコンポ領域へ広げた象徴。駆動側剛性16.11%向上・150万サイクルの疲労試験クリアを公称する（※第三者の実測レビューは待ち）。パワメ内蔵で$999は、シマノ／スラムのパワメ付きクランクより明確に安い。うちの取扱いブランド（8LIEN／CRW等）にも『クランク・コンポ化』の波が来る前触れと見ておきたい。",
+        "sources": [
+          {
+            "t": "WINSPACE（製品ページ）",
+            "u": "https://www.winspace.cc/products/hyper-carbon-crankset",
+            "d": "2026-08"
+          },
+          {
+            "t": "WINSPACE JAPAN",
+            "u": "https://winspace.jp/",
+            "d": "2026-08-19"
+          }
+        ],
+        "status": "確定＝発売・公称スペック・価格／曖昧＝実測重量・耐久・国内価格は要確認"
+      },
+      {
+        "id": "20260821-market-kakaku",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://img.my-best.com/contents/d408d665025f8439c7b39c9ec36e0ed5.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=959b499fca4de742831cc5d7de05129c",
+        "headline": "【経営メモ】価格.com完成車ランキング（8/20更新）は『激安エントリーが席巻』——新規客の入口は『超低単価』",
+        "layer1": "8/20更新（8/13〜19集計）の価格.com完成車ランキング上位は、GIOS PURE 2024（￥110,000）を筆頭に、21Technology 700C（￥22,800）、Canover各種（￥3〜5万）が並ぶ。新規の買い手が最初に見る価格帯は、想像よりずっと下にある。",
+        "layer2": "先回り＝この『入口の安さ』では利幅が薄い。だから店の勝ち筋は、入口価格の勝負ではなく『買った後のアップグレード』にある。中華カーボン完組（8LIEN／CRW／GOOSYNN等）とホイール周りの工賃で単価を作る発想が効く。ランキング上位＝需要の実像なので、接客の『次の一手』の提案を用意しておく。",
+        "sources": [
+          {
+            "t": "価格.com（ロードバイク人気ランキング）",
+            "u": "https://kakaku.com/bicycle/road-bicycle/ranking_6420/",
+            "d": "2026-08-20"
+          }
+        ],
+        "status": "確定＝ランキング上位に激安エントリーが並ぶ（8/20更新）／曖昧＝実売台数の絶対値までは非公開"
+      },
+      {
+        "id": "20260821-market-china-upmarket",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://www.winspace.cc/cdn/shop/files/HYPERCarbonCrankset1.webp?v=1786094685",
+        "headline": "【経営メモ】中華が『完組の先＝コンポ・完成車』へ登り、単価を上げてきた——大手の『値ごろ帯降下』との挟み撃ちをどう抜けるか",
+        "layer1": "WINSPACEがクランク$999・完成車を約￥448,000〜で展開するなど、中華トップは『最安』から『中価格帯』へ軸足を上げつつある。一方で大手（シマノ完組・Zipp・CUBE等）は値ごろ帯へ降りてきており、中価格帯の競争が最も激しくなる構図だ。",
+        "layer2": "先回り＝中華の『半額神話』が薄れると、単なる価格訴求では埋もれる。うちの取扱い（8LIEN／CRW／GOOSYNN／NEPEST／PARTICLE等）で勝つ軸は『価格＋目利き＋アフター』。同じ中華でも個体差・規格・保証を選別し、組付けとサポートで安心を付ける——挟み撃ちを抜けるのは『店でしか買えない体験』だ。",
+        "sources": [
+          {
+            "t": "WINSPACE JAPAN",
+            "u": "https://winspace.jp/",
+            "d": "2026-08-19"
+          },
+          {
+            "t": "CyclistsHub（Winspace新製品）",
+            "u": "https://www.cyclistshub.com/winspace-launches-the-t1600-ultra/",
+            "d": "2026-06-24"
+          }
+        ],
+        "status": "確定＝中華トップが中価格帯へ上昇・大手は値ごろ帯へ降下／曖昧＝国内実売価格・在庫の出方は要観測"
+      },
+      {
+        "id": "20260821-beginner-wet-braking",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-08/captura-de-ecra-2026-08-20-162730-6a871cfcbc4f9.png",
+        "headline": "【初中級】昨日は雨で落車と中断が続出——初中級のための『ウェット路面の減速術』3点",
+        "layer1": "ルネウィでミランが大落車、ツアー・オブ・ブリテン女子は豪雨で中断と、8/20は雨がレースを荒らした。プロでも滑る雨の下りは、初中級には最大の落車ポイント。今のうちに『雨の減速』を身体に入れておきたい。",
+        "layer2": "先回り＝3点。①ブレーキは『早く・弱く・長く』（コーナー手前で終える、寝かせながら握らない）。②ディスクは初期制動が強いので指1本でジワッと、リムは雨で効きが遅れる前提で早めに。③タイヤは空気圧を『普段より0.3〜0.5bar下げる』と接地が増える（フックレスは上限厳守）。加えて白線・マンホール・落ち葉は『踏まない』ライン取りが最優先。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（ルネウィ第2）",
+            "u": "https://cyclinguptodate.com/cycling/results-renewi-tour-2026-stage-2-jasper-philipsen-wins-in-ardooie-as-crash-hit-race-leader-jonathan-milan-is-lapped-by-peloton",
+            "d": "2026-08-20"
+          },
+          {
+            "t": "CyclingUpToDate（ToB女子第2）",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-of-britain-women-2026-stage-2-lorena-wiebes-goes-back-to-back-in-blackpool-after-car-accident-stoppage-and-torrential-rain",
+            "d": "2026-08-20"
+          }
+        ],
+        "status": "確定＝雨の減速の基本（前後配分・早め制動・ライン取り）／曖昧＝空気圧の下げ幅は体重・タイヤで各自調整"
+      },
+      {
+        "id": "20260821-helmet-aogire",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://prcdn.freetls.fastly.net/release_image/46797/39/46797-39-6ad142566c58049e577456f81242ee13-3750x2500.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+        "headline": "【初中級・Xで話題】ヘルメットは『青切符の対象外』——『未着用で反則金』は誤解、混同がSNSで拡散（裏取り済み）",
+        "layer1": "2026年4月から自転車の青切符（反則金）制度が始まったが、『ヘルメット未着用も反則金の対象になる／完全義務化された』という情報がXで拡散。実際はヘルメット着用は全年齢の『努力義務』のままで、未着用は青切符の対象外というのが正確なところだ。",
+        "layer2": "先回り＝制度の切り分け。青切符（反則金5千〜1.2万円）の対象は信号無視・逆走・ながらスマホなど113項目で、『努力義務』のヘルメット未着用はそこに含まれない。ただし『罰則がない＝被らなくていい』ではない——事故時の頭部損傷リスクと、保険・過失の実務では着用の有無が効く。店頭では『義務化の噂』を否定しつつ、着用を勧めるのが誠実だ。",
+        "sources": [
+          {
+            "t": "三菱UFJ銀行（青切符解説）",
+            "u": "https://www.bk.mufg.jp/column/others/b0112.html",
+            "d": "2026-08"
+          },
+          {
+            "t": "OGKカブト（プレスリリース）",
+            "u": "https://prtimes.jp/main/html/rd/p/000000039.000046797.html",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝青切符は113項目・ヘルメット未着用は対象外（努力義務のまま）／曖昧＝将来の『義務化』は現時点で未定の噂"
+      },
+      {
+        "id": "20260821-wheel-china-select",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://img.my-best.com/contents/d408d665025f8439c7b39c9ec36e0ed5.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=959b499fca4de742831cc5d7de05129c",
+        "headline": "【ホイール】『アップグレードも中華』が定着——完組選びの軸は今も《内幅×タイヤ幅・フックレス上限・認証保証》",
+        "layer1": "実売でカーボン完組は中華勢が上位を占め続け、純正（アルテグラ／デュラ）との『価格二層構造』が定常化。8/19のWINSPACEクランクのように領域も広がり、『最初の一本はもちろん、アップグレードも中華』という選択が普通になっている。",
+        "layer2": "先回り＝『中華だから安心／危険』の二分はもう古い。見極めは3点で不変：①内幅×タイヤ幅（ワイド化で28〜30c前提の設計か）②フックレスの空気圧上限（超えない・約5barが目安）③UCI認証・保証が実在するか。ブランド名より『個体と規格』を見る。ここを店が代わりに見極めれば、工賃込みでも『中華＋安心』の価値が立つ。",
+        "sources": [
+          {
+            "t": "mybest（ロード用ホイール比較）",
+            "u": "https://my-best.com/6705",
+            "d": "2026-06"
+          },
+          {
+            "t": "WINSPACE JAPAN",
+            "u": "https://winspace.jp/",
+            "d": "2026-08-19"
+          }
+        ],
+        "status": "確定＝中華完組が実売上位・選定3軸／曖昧＝個別ブランドの当たり外れは依然存在、実測での確認推奨"
+      }
+    ]
+  },
+  {
     "date": "2026-08-20",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、14本。レースは“三連戦”の初日結果が出そろい——ルネウィはミランが写真判定、ブリテン女子はヴィーベス、ドイツはデル・トロ。ブエルタは王者不在ヴィスマの布陣ドラマ、機材はBerdの世界最軽量グラベルとシマノGRX13速リーク、市場はFUJI新型クロスの当日キャンペーンと価格.comの二極化、そしてXは“初心者いじめ”炎上を拾いました。",
     "cards": [
