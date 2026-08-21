@@ -1,5 +1,256 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-08-22",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。今日8/22はブエルタ開幕——ポガチャルが『唯一勝てていないグランツール』へ。昨日はルネウィ・ドイツ・英国女子で下克上と強奪が同時多発、そして純正デュラが『カーボンスポーク1302g』で中華の土俵に降りてきました。",
+    "cards": [
+      {
+        "id": "20260822-vuelta-st1",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/o9dfoYGxAgxmJ5j8ffMbSP-2000-80.jpg",
+        "headline": "ブエルタ2026、今日8/22モナコで開幕——ポガチャルが『唯一勝てていないグランツール』へ、勝てば史上9人目の全3冠",
+        "layer1": "今日8/22、モナコの9.4km個人TTでブエルタが開幕。ツール5勝目のポガチャルは2019年（20歳で総合3位）以来のブエルタで、キャリア唯一未勝利のGT制覇＝史上9人目の『全3冠』に挑む。",
+        "layer2": "第1ステージはF1コース由来の多数のコーナー・トンネルを含むテクニカルな市街地TT（約10分・184人）。スタート順は遅く、ポガチャル19:19・ファンアールト19:17・ログリッチ最終19:20（CET）。全21ステージ・7つの山頂決戦・獲得58,000mで『史上最凶級』、フィニッシュはグラナダ。※区間結果は日本時間の今夜。",
+        "sources": [
+          {
+            "t": "Cyclingnews（スタート順）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-stage-1-time-trial-start-times-when-jay-vine-wout-van-aert-tadej-pogacar-and-others-take-turns-on-twisting-9-6km-route-in-monaco/",
+            "d": "2026-08-21"
+          },
+          {
+            "t": "Olympics.com（プレビュー）",
+            "u": "https://www.olympics.com/en/news/vuelta-a-espana-2026-pogacar-grand-tour-riders-schedule",
+            "d": "2026-08"
+          },
+          {
+            "t": "Cycling Weekly（出場確定）",
+            "u": "https://www.cyclingweekly.com/racing/vuelta-a-espana/tadej-pogacar-to-ride-2026-vuelta-a-espana-aiming-to-complete-grand-tour-triple",
+            "d": "2026-08-03"
+          }
+        ],
+        "status": "確定＝開幕日・コース・スタート順・全3冠の懸かり。曖昧＝区間結果は本日夜。"
+      },
+      {
+        "id": "20260822-renewi-st3",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/HXNVwyRWXWx4YVDEdngPP7-2000-80.jpg",
+        "headline": "ルネウィ・ツアー第3は『ベルクモースの強奪』——ミュール・デ・グラモンで抜け出し、区間＆総合リーダーを一気に奪取",
+        "layer1": "昨日8/21の第3ステージ（セル→グラモン182km、ロンド＝ツール・ド・フランドル風レイアウト）で、25歳イェンノ・ベルクモース（Lotto）が名物ミュール・デ・グラモンで飛び出し単独勝利。区間と総合リーダージャージを同時に奪った。",
+        "layer2": "『最強スプリンター博覧会』と言われた大会だが、丘・石畳区間で集団が砕けミラン／メルリエ／フィリプセンら快速勢が脱落。セガールト（Bahrain）と抜け出した後に振り切る『強奪』。平坦スプリンターの総合はこれで白紙、勝負は最終盤へ。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/renewi-tour-jenno-berckmoes-pulls-off-a-heist-to-snatch-stage-3-and-the-leaders-jersey-on-tour-of-flanders-inspired-day/",
+            "d": "2026-08-21"
+          }
+        ],
+        "status": "確定＝区間勝者・総合首位交代。"
+      },
+      {
+        "id": "20260822-dtour-st2",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://media.delius-klasing.de/dpr_auto,fl_progressive,f_jpg,c_fill,g_face:center,h_675,w_1200/q_auto:eco/tour/gettyimages-2291428439_db1f1c79c9fa18cfad364a6c9f1e8dfe",
+        "headline": "ドイツ・ツアー第2は『19歳マガニョッティの下克上』——本命マニエをゴールスプリントで差し、レッドブルU23の新星が大金星",
+        "layer1": "昨日8/21の第2ステージ（シュヴェービッシュ・ハル→オッフェンバッハ196.9km）で、レッドブルU23の19歳イタリア人アレッシオ・マガニョッティが優勝候補ポール・マニエ（スーダル）を集団スプリントで撃破。",
+        "layer2": "3位レイタン、4〜7位に独勢（ヴァルシャイト／バウハウス／ミュラー／デゲンコルプ）が並ぶ地元色。総合はバレがレッド維持も、デル・トロが中間スプリントのボーナス3秒で差を9→6秒に詰めた。『若手スプリンターの台頭』が今大会の裏テーマに。",
+        "sources": [
+          {
+            "t": "TOUR Magazin",
+            "u": "https://www.tour-magazin.de/profi-radsport/deutschland-tour/lidl-deutschland-tour-2026-2-etappe-red-bull-youngster-magagnotti-laesst-magnier-alt-aussehen/",
+            "d": "2026-08-21"
+          },
+          {
+            "t": "Cyclingflash",
+            "u": "https://cyclingflash.com/news/sprint-talent-alessio-magagnotti-surprises-paul-magnier-in-deutschland-tour-bunch-sprint",
+            "d": "2026-08-21"
+          }
+        ],
+        "status": "確定＝区間勝者・総合6秒差。"
+      },
+      {
+        "id": "20260822-mvdp-mtb",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.brujulabike.com/media/196008/conversions/img-2792-1240.jpg",
+        "headline": "ファンデルプールのMTB復帰は『10位・痛みの23分』——レ・ゲのショートトラックで最後尾から20人抜き、日曜XCOへ",
+        "layer1": "昨日8/21、レ・ゲ（MTBワールドシリーズ）のXCショートトラックでファンデルプールがMTB復帰。最後尾スタートから序盤に20人以上を抜いて先頭集団へ合流も、23分の激走の末10位。本人は『すごく痛かった』。",
+        "layer2": "勝者は36秒先のボイシス。10位で日曜8/23のXCOは2列目スタートを確保した。狙いは翌週バル・ディ・ソーレのMTB世界戦で、ロードからの『二種目挑戦』の最終リハーサル。約1年ぶりのMTBで、落車リスクとコンディションが焦点になる。",
+        "sources": [
+          {
+            "t": "Brujula Bike",
+            "u": "https://en.brujulabike.com/it-was-very-painful-der-poel-finishes-10th-on-his-mtb-return/",
+            "d": "2026-08-21"
+          },
+          {
+            "t": "Canadian Cycling Mag",
+            "u": "https://cyclingmagazine.ca/mtb/how-to-watch-the-uci-mountain-bike-world-cup-and-van-der-poel-in-les-gets/",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝10位・XCOは日曜8/23。"
+      },
+      {
+        "id": "20260822-tob-women-st4",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://procyclinguk.com/wp-content/uploads/2026/08/Lorena-Wiebes-2026-Tour-of-Britain-Women-Stage-1.jpg",
+        "headline": "ツアー・オブ・ブリテン女子、ヴィーベスが3連勝——今日8/22の最終第4ステージで『全ステージ制覇』に王手",
+        "layer1": "SDワークスのローレナ・ヴィーベスが荒天・中断続きの序盤3ステージを全て制し、リーダージャージで独走。今日8/22の第4ステージ（ラニドロス→ヘイ・オン・ワイ138km）で『全勝』に挑む。",
+        "layer2": "第2ステージは豪雨で一時中立化、走路には一般車の進入事故もあった荒れた大会。それでも差し切る決定力で通算勝利を伸ばした。最終日は登り基調でGCが動く余地があり、快速のヴィーベスがどこまで守り切るかが見どころ。",
+        "sources": [
+          {
+            "t": "ProCyclingUK（第4プレビュー）",
+            "u": "https://procyclinguk.com/tour-of-britain-women-2026-stage-4-preview-hay-on-wye-offers-one-final-chance-to-reshape-the-gc/",
+            "d": "2026-08-21"
+          },
+          {
+            "t": "ProCyclingUK（第2レポート）",
+            "u": "https://procyclinguk.com/lloyds-tour-of-britain-women-2026-stage-2-lorena-wiebes-wins-again-in-blackpool-after-neutralised-wet-stage/",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝3連勝・首位／最終日は本日8/22。"
+      },
+      {
+        "id": "20260822-wh-r9370",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/07/Shimano-Dura-Ace-WH-R9370-July-2026.jpg",
+        "headline": "新型デュラエース・ホイール『WH-R9370』全国試乗会が開催中（8/8〜9/23）——シマノ初の『カーボンスポーク』で一気に軽量化",
+        "layer1": "シマノが7/29発表の新型デュラエース・ホイールWH-R9370。ステンレスから『カーボンスポーク』へ刷新し、日本では全国14店で試乗会が8/8〜9/23で開催中。オールラウンドのC50は9/17発売。",
+        "layer2": "公称重量はC36が1170g・C50が1302g・C60（エアロ）が1389gと大幅減。リム／ハブも再設計。純正がついに『軽さ×エアロ』で中華カーボンの土俵へ本格参入した格好で、C99前輪・リアディスクのTT系まで揃う。試乗が『自分のバイクで体感』できる店舗もある。",
+        "sources": [
+          {
+            "t": "road.cc（発表・仕様）",
+            "u": "https://road.cc/tech-news/shimano-launches-lighter-more-aero-dura-ace-wheels",
+            "d": "2026-07-29"
+          },
+          {
+            "t": "cyclesports（全国試乗会）",
+            "u": "https://www.cyclesports.jp/news/test-ride-event/166406/",
+            "d": "2026-08"
+          },
+          {
+            "t": "cyclowired（試乗会告知）",
+            "u": "https://www.cyclowired.jp/news/node/393024",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝カーボンスポーク採用・公称重量・試乗会日程・C50発売9/17。"
+      },
+      {
+        "id": "20260822-buychari-2026",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://journal.buychari.com/wp-content/uploads/2026/08/2026-latest-road-bikes-ogp.jpg",
+        "headline": "【初中級】『2026年に狙うべき買いなロードバイク』最新版（8/19更新）——ジャーナリスト視点の“今の正解”",
+        "layer1": "buychari journalの『2026年に狙うべき買いなロードバイク』が8/19に更新。新型が出そろう夏に、価格帯別・用途別の『今買って後悔しない完成車』を整理した実用ガイド。",
+        "layer2": "軸は『機械式105の完成車は30万円台後半〜40万円が一般的』『10〜30万円帯が実は一番面白い』『太タイヤ・広内幅・フックレス前提の新世代』。中国メーカーの軽量オールラウンダーやグラベルの盛り上がりも指摘。初中級が“今の相場観”を掴むのに使える一本。",
+        "sources": [
+          {
+            "t": "buychari journal（やすいの視点）",
+            "u": "https://journal.buychari.com/2026-latest-road-bikes/",
+            "d": "2026-08-19"
+          }
+        ],
+        "status": "確定＝更新日・論点。数値は一般相場（※実勢は店頭で要確認）。"
+      },
+      {
+        "id": "20260822-market-summer-sale",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://ysroad.co.jp/osaka/wp-content/uploads/2026/08/pop_douji10_2608.png",
+        "headline": "【経営メモ】ワイズロード8月キャンペーン（〜8/31・パーツ10点で10%OFF）——だが“型落ち処分の本番”は10〜11月",
+        "layer1": "ワイズロードが8/1〜8/31、車体購入時にパーツ10点同時購入で全品10%OFFのキャンペーン。夏商戦の販促だが、本体の大幅値引き（旧モデル処分）は例年10〜11月・中間決算期が本番。",
+        "layer2": "夏はボーナス期でも本体値引きは10〜20%止まり、ピークは8〜10月の型落ち処分＋12〜1月の年末年始。過去にはワイズ決算セールでBianchi／COLNAGOが最大80%OFFの例も（※過去実績・要裏取り）。“値下げ待ち”の客に今買う理由（パーツ同時値引き・在庫・納期）をどう作るかが当店の勝負どころ。",
+        "sources": [
+          {
+            "t": "Y's Road 大阪本館",
+            "u": "https://ysroad.co.jp/osaka/2026/08/08/263665",
+            "d": "2026-08-08"
+          },
+          {
+            "t": "Pedalism（セール時期）",
+            "u": "https://pedalism.jp/road-bike-sale-timing-when-cheap/",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝ワイズ施策・値引き本番時期／値引き率は過去実績（※要裏取り）。"
+      },
+      {
+        "id": "20260822-market-pincer",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://hobby-race.com/wp-content/uploads/2025/07/PXL_20250712_020534308.PORTRAIT-1024x576.jpg",
+        "headline": "【経営メモ・Xで話題】純正が“1302g”で降りてきた——『もう中華カーボンいらない?』論に、実売は中華上位継続で反論",
+        "layer1": "新型デュラC50が公称1302g・エアロ化で登場し、SNSでは『純正が軽くなったなら中華いらない?』の声。一方、価格.com実売はSUPERTEAM等の中華カーボンが上位を維持（前後5万円〜・10万円未満が主戦場）。",
+        "layer2": "裏取りすると実態は“挟み撃ち”：上は純正が軽量エアロで存在感を回復、下は中華が価格で席巻。中間に立つ当店は『価格が別次元（純正は数十万円）』『保証・実測・UCI認証で中華の“当たり外れ”を潰す』で棲み分けを説明できる。X由来はあくまで入口、主役はシマノ公称値と実売ランキング。",
+        "sources": [
+          {
+            "t": "ホビーレース（SUPERTEAM実測）",
+            "u": "https://hobby-race.com/archives/1153",
+            "d": "2026-08-11"
+          },
+          {
+            "t": "価格.com（ホイール売れ筋）",
+            "u": "https://kakaku.com/ranking/bicycle/0009_0002/0034/",
+            "d": "2026-08"
+          },
+          {
+            "t": "road.cc（WH-R9370公称値）",
+            "u": "https://road.cc/tech-news/shimano-launches-lighter-more-aero-dura-ace-wheels",
+            "d": "2026-07-29"
+          }
+        ],
+        "status": "曖昧＝SNSの声は入口（※Xで話題）／確定＝純正公称値・中華実売の上位継続。"
+      },
+      {
+        "id": "20260822-hookless-retreat",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/08/Untitled-design-1-1024x683.png",
+        "headline": "【トレンド】プロで進む“フックレス離れ”——2026ツールは採用チームが約半減、Enveも「フックドへ戻す」、争点は『リムでなくタイヤ』",
+        "layer1": "road.cc（8/9）がタイヤ／ホイール各社に取材。2026ツールでフックレス採用は2024比で約半数に減り、Enve 4.5 Proはフックレス→フックド、“ミニフック”設計も登場。安全と性能への疑問が背景。",
+        "layer2": "対立軸は明確：シュワルベは『フックレスの安全基準が甘い』、Cadexは『問題はリムでなくタイヤのビード（適合と精度）』。一方ZippやCadexは引き続きフックレス継続を明言。初中級への実務結論はシンプルで、“フックレスなら空気圧上限（目安5bar前後）を守り、リムに正式適合したタイヤを使う”——ここさえ外さなければ過度に怖がる必要はない。",
+        "sources": [
+          {
+            "t": "road.cc（各社取材）",
+            "u": "https://road.cc/feature/cycling-brands-shaping-the-future-of-bike-wheel-and-tyre-technology",
+            "d": "2026-08-09"
+          },
+          {
+            "t": "road.cc（フックレス論争）",
+            "u": "https://road.cc/feature/hookless-wheels-keep-getting-bad-press-after-several-recent-controversies-can-brands-sticking-with-the-technology-weather-the-hookless-storm",
+            "d": "2026-03-17"
+          }
+        ],
+        "status": "確定＝ツールでの採用減・各社スタンス。曖昧＝“ミニフック”標準化は各社動向次第。"
+      }
+    ]
+  },
+  {
     "date": "2026-08-21",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ブエルタ開幕前夜、ログリッチの『ラストダンス』と、ルネウィの大落車が同時進行——今日はレースが濃いです。中華はホイールの次に『クランク』へ来ました。",
     "cards": [
