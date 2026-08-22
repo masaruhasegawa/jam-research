@@ -1,5 +1,241 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-08-23",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。週末は世界中でレースが同時多発——ブエルタは『0.09秒』の開幕劇、今日は各地で最終日決着。市場と初中級もしっかり添えました。",
+    "cards": [
+      {
+        "id": "20260823-vuelta-st1-pogacar",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/www.indeleiderstrui.nl/images/2026-08/tadej-pogacar-6a89dd734df5f.png",
+        "headline": "ブエルタ第1は『0.09秒差』の激闘——ポガチャルがモナコTTを強奪、2位ヘイター・3位ターリングを退け即・赤ジャージ",
+        "layer1": "8/22モナコの9.6km個人TTでポガチャルが優勝。2位イーサン・ヘイターにわずか『0.09秒（コンマ09秒）』差、3位ターリング（+4秒）、バンアールトは8位（+9秒）。全3冠に挑む本命が初日から赤を着た。",
+        "layer2": "先回り——ログリッチの『ラストダンス』は+20秒で開幕から失点、TTで早くも差がついた。そして今日8/23の第2はモナコ→マノスク214.3km（今大会最長・獲得3,000m超）。登り基調のフィニッシュは『パンチャー型スプリンター』（ペデルセン／バンアールト系）向きで、純粋スプリンターには重い一日。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（第1結果）",
+            "u": "https://cyclinguptodate.com/cycling/results-vuelta-a-espana-2026-stage-1-tadej-pogacar-denies-ethan-hayter-by-009-seconds-to-seize-first-red-jersey-in-monaco-as-joshua-tarling-completes-podium",
+            "d": "2026-08-22"
+          },
+          {
+            "t": "CyclingFlash（バンアールト8位）",
+            "u": "https://cyclingflash.com/news/vuelta-2026-pogacar-beats-hayter-by-009-seconds-in-opening-time-trial-van-aert-eighth-in-monaco",
+            "d": "2026-08-22"
+          },
+          {
+            "t": "ProCyclingUK（第2プレビュー）",
+            "u": "https://procyclinguk.com/vuelta-a-espana-2026-stage-2-preview-pedersen-and-van-aert-face-first-sprint-battle-in-manosque/",
+            "d": "2026-08-22"
+          }
+        ],
+        "status": "確定＝ポガチャルが0.09秒差で優勝・赤ジャージ／曖昧＝今日の第2の勝者は予想（登り基調で荒れやすい）"
+      },
+      {
+        "id": "20260823-renewi-final",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-07/tourdefrance2026-jasperphilipsen-6a610066549f6.jpg",
+        "headline": "ルネウィ・ツアー、決着は今日レーヴェン——フィリプセンが写真判定で総合首位、『4秒差スプリンターGC』のまま最終日へ",
+        "layer1": "8/22第4でフィリプセンがコーイを写真判定で下して区間勝利＋ボーナス秒、総合首位に浮上。2位ベルクモース+4秒、3位コーイ+10秒で今日8/23の最終第5（レーヴェン周回）へ。",
+        "layer2": "先回り——平坦スプリンターが総合を争う珍しい構図で、勝敗を分けるのは中間スプリントと着順の『ボーナス秒』。刻み方次第でコーイ／ベルクモースの逆転もあり得る超僅差。初日勝者ミランは大落車で総合圏外に沈み、今大会は不発のまま最終日を迎える。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（第4後の総合）",
+            "u": "https://cyclinguptodate.com/cycling/renewi-tour-2026-classifications-update-after-stage-4-jasper-philipsen-snatches-overall-lead-in-photo-finish-before-leuven-showdown",
+            "d": "2026-08-22"
+          }
+        ],
+        "status": "確定＝第4終了時フィリプセン首位+4秒／曖昧＝総合優勝は今日の第5で確定"
+      },
+      {
+        "id": "20260823-mvdp-mtb-xco",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/www.indeleiderstrui.nl/images/2026-08/mathieu-van-der-poel-mountainbike-mtb-6a88810935229.jpg",
+        "headline": "ファンデルプールのMTB復帰は『痛みの10位』——今日8/23はXCO本番、狙うは“まだ獲っていない”MTB世界戦という賭け",
+        "layer1": "8/21レ・ゲのショートトラックで11か月ぶりにMTB復帰、最後尾発進から10位。本人「予想以上に痛かった」。今日8/23はクロスカントリー（XCO）本番に臨む。",
+        "layer2": "先回り——狙いは唯一手にしていないMTB世界選手権の虹。ただしXCO世界戦（9月）に賭ける分、同時期のロード世界戦を実質手放すトレードオフを負う。ショートトラックでは一時6位まで上げるも読み違いで14位に落ち、盛り返して10位——『脚は戻りつつあるが実戦勘はこれから』を露呈した。",
+        "sources": [
+          {
+            "t": "IDLProCycling（復帰10位）",
+            "u": "https://www.idlprocycling.com/mountain-biking/mathieu-van-der-poel-had-a-solid-return-to-mtb-in-les-gets-it-hurt-more-than-i-would-have-liked",
+            "d": "2026-08-21"
+          },
+          {
+            "t": "UCI MTB World Series（出場確定）",
+            "u": "https://www.ucimtbworldseries.com/news/van-der-poels-comeback-headlines-blockbuster-whoop-uci-mountain-bike-world-series-weekend-in-les-gets-haute-savoie",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝ショートトラック10位／曖昧＝XCO（今日）の結果はこれから"
+      },
+      {
+        "id": "20260823-tob-women",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://procyclinguk.com/wp-content/uploads/2026/08/Lorena-Wiebes-2026-Tour-of-Britain-Women-Stage-1.jpg",
+        "headline": "ツアー・オブ・ブリテン女子、ル・クールが『グレート・オーム』で主役交代——ヴィーベスの3連勝を阻んで総合首位、決着は今日",
+        "layer1": "8/21第3、ル・クール＝ピナールが残り2.6kmの激坂グレート・オームから単独アタック、13秒差で区間勝利＆総合首位を奪取。連勝中のヴィーベスは追走できず脱落した。",
+        "layer2": "先回り——第3終了で総合はル・クール首位、2位リッペルト+26秒、ヴィーベス+35秒。スプリンターのヴィーベスは平坦でボーナスを刻んでも逆転は難しく、登坂力のル・クールが今日8/23の最終ステージを守り切れるかが焦点。“3連勝の勢い”が一撃の登りで覆った典型例。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（第3・主役交代）",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-of-britain-women-2026-stage-3-kim-le-court-pienaar-seizes-race-lead-with-great-orme-solo-as-lorena-wiebes-denied-hat-trick",
+            "d": "2026-08-21"
+          },
+          {
+            "t": "ProCyclingUK（最終前プレビュー）",
+            "u": "https://procyclinguk.com/tour-of-britain-women-2026-stage-4-preview-hay-on-wye-offers-one-final-chance-to-reshape-the-gc/",
+            "d": "2026-08-22"
+          }
+        ],
+        "status": "確定＝第3終了ル・クール首位（+26秒/+35秒）／曖昧＝総合優勝は今日確定"
+      },
+      {
+        "id": "20260823-deutschland-final",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/www.indeleiderstrui.nl/images/2026-08/isaac-del-toro-6a85b538ab066.png",
+        "headline": "ドイツ・ツアー最終日は今日ハイルブロン——首位バレを22歳デル・トロが『6秒差』で追う、丘陵コースの逆転劇へ",
+        "layer1": "プロローグ王者デル・トロ（UAE・22歳）は第2までに首位ルイ・バレ（ヴィスマ）を6秒差まで詰めた。第2は19歳マガニョッティがマニエを差す大金星。今日8/23の最終第4はハイルブロン発着156.5kmの丘陵コース。",
+        "layer2": "先回り——中間スプリントのボーナス秒でデル・トロがじわじわ削ってきた形。丘陵フィニッシュはクラシック系とスプリンターが交錯し、デル・トロが登りで仕掛ければ6秒は十分ひっくり返る射程だ。※総合は第2終了時点の数字で、第3（8/22）の結果次第で微変の可能性。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（第2結果・総合）",
+            "u": "https://cyclinguptodate.com/cycling/results-deutschland-tour-2026-stage-2-teenager-alessio-magagnotti-stuns-paul-magnier-in-sprint-as-isaac-del-toro-cuts-louis-barres-lead",
+            "d": "2026-08-21"
+          },
+          {
+            "t": "IDLProCycling（プロローグ）",
+            "u": "https://www.idlprocycling.com/cycling/del-toros-pure-explosion-of-power-too-much-for-magnier-in-deutschland-tour-opening-prologue",
+            "d": "2026-08-19"
+          }
+        ],
+        "status": "確定＝第2終了バレ首位・デル・トロ+6秒／曖昧＝最終結果は今日、GCは第3で微変あり"
+      },
+      {
+        "id": "20260823-market-vuelta-demand",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-04/primoz-roglic-69d65215500c1.jpg",
+        "headline": "【経営メモ】ブエルタ開幕でグランツール特需——“ポガチャル/コルナゴ”の指名買いを、値引きせず秋商戦の入口に",
+        "layer1": "8/22開幕のブエルタは3週間、毎日TVに映る“動く広告塔”。過去もツール／ジロ期はプロ使用ブランド（コルナゴ・UAE系）の指名検索と来店が伸びる季節だ。",
+        "layer2": "先回り——グランツール期は『憧れ起点』で高単価完成車・パーツが動く数少ない時期。値引きで釣るより、店内でレース中継を流す／“プロと同じ”ホイール・タイヤの実物を触らせる方が単価を守れる。本番の型落ち処分（中間決算〜10-11月）まで、今は“定価でも欲しい客”を拾う設計に振りたい。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（ブエルタ開幕）",
+            "u": "https://cyclinguptodate.com/cycling/results-vuelta-a-espana-2026-stage-1-tadej-pogacar-denies-ethan-hayter-by-009-seconds-to-seize-first-red-jersey-in-monaco-as-joshua-tarling-completes-podium",
+            "d": "2026-08-22"
+          }
+        ],
+        "status": "確定＝ブエルタ開幕・ポガチャル首位／経営示唆＝グランツール期の指名買い需要を定価で取り込む"
+      },
+      {
+        "id": "20260823-market-nedagoro",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://journal.buychari.com/wp-content/uploads/2026/08/2026-latest-road-bikes-ogp.jpg",
+        "headline": "【経営メモ】大手の“値ごろ帯降下”×中華の価格優位が挟み撃ち——夏セール終盤、型落ち本番は10-11月、今は『予約と下取り』で囲う",
+        "layer1": "ワイズロード等の夏セール（〜8/31）は一巡へ。だが本当の型落ち処分は中間決算後の10〜11月で、夏の値引きは概ね10〜20%止まり。“値下げ待ち”の客は今は動きにくい。",
+        "layer2": "先回り——大手が定価を下げ（新型ドマーネ入門£2,500級）、中華は完組で“半額スペック”を突き上げる二方向の圧。うちが取れる手は『価格』でなく『今買う理由』＝下取り強化・秋モデル予約・初期調整/保証込みの安心。中華カーボン完組は10万円前後が国内定番化——そこに保証と工賃で付加価値を乗せるのが挟み撃ちの抜け道。",
+        "sources": [
+          {
+            "t": "価格.com 値下げランキング（毎日更新）",
+            "u": "https://kakaku.com/bicycle/road-bicycle/ranking_6420/pricedown/",
+            "d": "2026-08-22"
+          },
+          {
+            "t": "ワイズロード ONLINE（サマーフェア〜8/31）",
+            "u": "https://online.ysroad.co.jp/shop/default.aspx",
+            "d": "2026-08"
+          }
+        ],
+        "status": "経営メモ・曖昧＝値引き相場は店舗差／示唆＝価格競争を避け“予約・下取り・保証”で囲う"
+      },
+      {
+        "id": "20260823-beginner-china-carbon",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://innertop.com/wp-content/uploads/2018/10/chinesecarbonwheels.png",
+        "headline": "【初中級】“初めての中華カーボン完組”は数値でなく《3つの規格》——純正が軽くなった今こそ外さない選び方",
+        "layer1": "中華カーボン完組は10万円前後が国内の定番。新型デュラエース（WH-R9370・約1,302g）がカーボンスポークで軽くなり全国試乗会も開催中（8/8〜9/23）だが、実売上位は依然として中華勢が占める。ただ“安さ”だけで選ぶと事故る。",
+        "layer2": "先回り——外さない軸は3つ。①内幅×タイヤ幅（内幅21mm超なら28〜30C前提、細タイヤは不適）②フックレスの空気圧上限（約5barが目安、入れすぎは危険）③UCI認証と保証・アフター（日本語対応・振れ取り工賃）。カタログ重量やリムハイトの数値比べは最後でいい。1,200g級でも、ハブの回転と振れ精度と保証で実力は分かれる。",
+        "sources": [
+          {
+            "t": "road.cc（新型デュラ WH-R9370）",
+            "u": "https://cdn.road.cc/wp-content/uploads/2026/07/Shimano-Dura-Ace-WH-R9370-July-2026.jpg",
+            "d": "2026-07"
+          },
+          {
+            "t": "bike-memo（2026 中華カーボン格付け）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-04"
+          }
+        ],
+        "status": "初中級・普遍（試乗会・中華実売の議論を起点）／確定＝選び方の3規格"
+      },
+      {
+        "id": "20260823-aokippu",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://alterlock.net/wp-content/uploads/2025/09/2026-traffic-law-roadbike-points-min.png",
+        "headline": "【初中級・Xで話題】青切符“施行5か月”の実際——ロード乗りの反則金ワースト、そして9月から『生活道路30km/h』が追加",
+        "layer1": "2026年4月施行の自転車青切符。スマホ保持12,000円・信号無視/逆走/歩道通行6,000円・一時不停止5,000円。SNSでは“実際どこまで切られるのか”が継続的な話題になっている。",
+        "layer2": "先回り——専門家解説では、歩道通行は「単に走るだけなら指導警告で、“周囲に危険を感じさせるか”が分かれ目」。さらに9月からセンターラインの無い生活道路は30km/h制限が加わり、ロードの巡航がそのまま違反になり得る。まず直すべきは“ながら・逆走・信号”の3点（裏取り済み・警察庁/専門解説）。",
+        "sources": [
+          {
+            "t": "AlterLock（2026改正・ロード視点）",
+            "u": "https://alterlock.net/ja/2026-traffic-law-roadbike-points",
+            "d": "2026-08-17"
+          },
+          {
+            "t": "政府広報オンライン（青切符）",
+            "u": "https://www.gov-online.go.jp/article/202410/entry-6604.html",
+            "d": "2024-10"
+          }
+        ],
+        "status": "確定＝反則金額・施行時期・9月の生活道路30km/h／曖昧＝取締り運用は現場裁量"
+      },
+      {
+        "id": "20260823-trend-allroad",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/06/2026-Zipp-404-S-action-two-riders-1024x683.jpeg",
+        "headline": "【トレンド】“オールロード化”が完成車の前提へ——40mmタイヤ×広内幅で、ロードとグラベルの境界が溶けた2026",
+        "layer1": "2026はビアンキ・インフィニート（40mmクリアランス）、キャノンデール・スーパーシックスEVO世代など“1台で舗装も未舗装も”のオールロードが主流化。太タイヤ×広内幅×フックレスが標準前提になった。",
+        "layer2": "先回り——背景は『週末に舗装と砂利を両方走る実ユーザー』の実態と、快適さと剛性を両立させたカーボン成形の進化。実務的な線引きは“最低40mmクリア・ヘッド71〜72.5°・完成車9kg未満・フェンダー/ラック台座”。この流れは中華完組にも波及し、内幅の広い太タイヤ対応リムが『最初の一本』の標準になっていく。",
+        "sources": [
+          {
+            "t": "BikeTips（オールロード潮流・背景）",
+            "u": "https://biketips.com/road-gravel-hybrid-all-road-bikes-2026-trend/",
+            "d": "2026-05"
+          }
+        ],
+        "status": "トレンド／背景＝2026の完成車潮流（主役級新型の相次ぐ40mm化）。個別スペックは各社公式で要確認"
+      }
+    ]
+  },
+  {
     "date": "2026-08-22",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。今日8/22はブエルタ開幕——ポガチャルが『唯一勝てていないグランツール』へ。昨日はルネウィ・ドイツ・英国女子で下克上と強奪が同時多発、そして純正デュラが『カーボンスポーク1302g』で中華の土俵に降りてきました。",
     "cards": [
