@@ -1,5 +1,275 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-08-24",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。週末はブエルタ開幕の熱狂に3つのステージレースが同時決着、そしてブエルタで『13速デュラエースの実車』が激写——機材の地殻変動が始まりました。今日8/24は今大会初の山頂決着です。",
+    "cards": [
+      {
+        "id": "20260824-vuelta-st2",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/qNaVetYgQPFWvp3Ne8irMU-2000-80.jpg",
+        "headline": "ブエルタ第2は『20歳ブレナンの大金星』——ファンアールトの飛び出しに乗って差し切り、ポガチャルは3位で赤を+9秒に拡大",
+        "layer1": "モナコ発214kmの初ロードステージ、マノスクの上り基調ゴールで20歳マシュー・ブレナン（ヴィスマ）がグランツール初出場初勝利。ファンアールトが2位で総合2番手に浮上し、ポガチャルは3位で赤ジャージを守って総合リードを9秒に広げた。",
+        "layer2": "GTデビュー戦の初日から勝つのは稀。上りスプリント決着という事実は、この開幕が『純スプリンター向き』ではなく、ポガチャル/ファンアールト級のパンチャーが差せる設計だという読みを裏づける。ボーナス秒でファンアールトが総合2位（ブレナンは3位・1秒差）。落車でウィトデブロックが今大会初のリタイア。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-powerful-sprint-nets-matthew-brennan-stage-2-victory-as-tadej-pogacar-fends-off-attacks-to-keep-leaders-jersey/",
+            "d": "2026-08-23"
+          },
+          {
+            "t": "The National",
+            "u": "https://www.thenationalnews.com/sport/cycling/2026/08/23/tadej-pogacar-settles-for-third-place-on-vuelta-a-espana-stage-2-but-increases-overall-lead/",
+            "d": "2026-08-23"
+          }
+        ],
+        "status": "確定＝ブレナン優勝・ポガチャル3位で赤維持（総合+9秒）・ファンアールト総合2位。"
+      },
+      {
+        "id": "20260824-vuelta-st3",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/FNUSDcuSzTKzuVFDmSzD4d-1768-80.jpg",
+        "headline": "今日8/24ブエルタ第3は『今大会初の山頂フィニッシュ』——174kmでフォンロメウ（標高1,936m）へ、ポガチャル包囲網に最初の亀裂が入るか",
+        "layer1": "グリュイッサン発フォンロメウ着174km。1級のモン=ルイ峠（19.1km・平均5%）から続けて登り、標高1,936mのフォンロメウで初の山頂決着。総合勢の『最初の選別』が予想される一日。",
+        "layer2": "平均5%と勾配自体は緩く、コースの大半は平坦なので大差はつきにくい——本格山岳の前哨戦という位置づけ。ポガチャル有利だが、赤を守って自ら踏むか、逃げやボーナス狙いに委ねるかが見どころ。ペデルセンやファンアールトら重量級が最後の急坂で削られる標高でもある。",
+        "sources": [
+          {
+            "t": "Cyclingnews（第3プレビュー）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-2026-stage-3-preview/",
+            "d": "2026-08-17"
+          },
+          {
+            "t": "IDL ProCycling",
+            "u": "https://www.idlprocycling.com/cycling/2026-vuelta-a-espana-stage-3-preview-pogacar-van-aert-and-pedersen-face-a-tricky-finish-at-2000-metres",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝コース（174km・フォンロメウ山頂1,936m）／曖昧＝当日結果は未了（本稿は前日プレビュー）。"
+      },
+      {
+        "id": "20260824-tarling",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-08%2Fjoshua-tarling-6a89f77f64505.jpg",
+        "headline": "【人間ドラマ】ターリング、弟の死から1週間で開幕TT3位——悲しみを越えてポディウムへ、ヤング（白）ジャージも受け取る",
+        "layer1": "先週ヴォルタ・ア・ポルトガルで弟フィンレー（19）を事故で亡くしたジョシュア・ターリング（INEOS）が、ブエルタ開幕モナコ個人TTで3位。復帰初戦で表彰台に上がり、ヤングライダー賞の白ジャージも受け取った。",
+        "layer2": "『走るか』を最後まで悩んだ末の出走。ポガチャルに0.09秒差で続いたヘイターに次ぐ3位という結果は、悲嘆のただ中で叩き出した数字だ。周囲は『勝利にも等しい』と称賛。弟フィンレーの事故死は8/15にこのタイムラインでも報じた続報——今大会を通じてターリングの走りは注目され続ける。",
+        "sources": [
+          {
+            "t": "IDL ProCycling",
+            "u": "https://www.idlprocycling.com/cycling/joshua-tarling-explains-how-he-finished-third-at-vuelta-just-a-week-after-brother-finlays-death",
+            "d": "2026-08-22"
+          },
+          {
+            "t": "ロードバイクはやめられない",
+            "u": "https://chan-bike.com/",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝ターリングTT3位・白ジャージ／背景＝弟フィンレーの事故死（先週）。"
+      },
+      {
+        "id": "20260824-mvdp-xco",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/RyT39Rm6mVMRSyhLcSCtYe-2000-80.jpg",
+        "headline": "ファンデルプールがレ・ジェXCOで『7年ぶりW杯勝利』に肉薄——2位、勝者ボワシに7秒届かず、狙うMTB世界戦へ好感触",
+        "layer1": "8/23のUCI MTBワールドカップ・レ・ジェのクロスカントリー（XCO）で、ファンデルプールが2位（1:19:55）。優勝は地元アドリアン・ボワシ（1:19:48）で、その差はわずか7秒。ロード界のスターがMTBでも表彰台に迫った。",
+        "layer2": "MVDPのW杯勝利は約7年遠ざかっており、今回は『あと7秒』まで。金曜のショートトラックは痛みの10位だったが、本番XCOで一気に浮上。狙いは9月の世界戦（二種目挑戦）で、この結果は『本気で世界戦を獲りにいける』裏づけになる。落車リスクと隣り合わせの賭けが、まず好感触で滑り出した。",
+        "sources": [
+          {
+            "t": "CyclingFlash",
+            "u": "https://cyclingflash.com/news/what-a-race-mathieu-van-der-poel-finishes-second-in-les-gets-world-cup-thriller",
+            "d": "2026-08-23"
+          },
+          {
+            "t": "Pinkbike（リザルト）",
+            "u": "https://www.pinkbike.com/news/results-2026-les-gets-elite-xc-world-cup.html",
+            "d": "2026-08-23"
+          }
+        ],
+        "status": "確定＝MVDP2位・ボワシ優勝（7秒差）／曖昧＝世界戦の最終エントリーは今後。"
+      },
+      {
+        "id": "20260824-tob-women",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/as8Z4qRNG2969Xm5zz6JSM-2000-80.jpg",
+        "headline": "ツアー・オブ・ブリテン女子、ル・クールが『アフリカ人初の総合優勝』——最終日はヴィーベスが4勝目、モーリシャスの女王が歴史を作る",
+        "layer1": "最終第5ステージ（123.8km）を制したのはヴィーベス（SDワークス）で今大会4勝目。だが総合はキム・ル・クール=ピーナー（AGインシュアランス）がリッパート（2位）を24秒差で退けて初制覇——女子ツアー・オブ・ブリテン初の『アフリカ人総合優勝者』となった。",
+        "layer2": "ル・クールはモーリシャスのチャンピオン。前日グレート・オームで主役交代を演じ、最終日は集団内で安全に守り切ってキャリア最大のステージレース総合優勝を掴んだ。ヴィーベスは勝ちまくったが総合は3位——スプリンターの限界と、丘での秒差の重みが出た一戦。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-of-britain-women-kim-le-court-pienaar-claims-overall-title-as-unstoppable-lorena-wiebes-takes-fourth-victory-in-stage-5-finale/",
+            "d": "2026-08-23"
+          },
+          {
+            "t": "British Cycling",
+            "u": "https://www.britishcycling.org.uk/tourofbritain/article/20260823-tour-of-britain-Kim-Le-Court-Pienaar-and-Lorena-Wiebes-make-history-at-the-final-stage-of-the-2026-Lloyds-Tour-of-Britain-Women-0",
+            "d": "2026-08-23"
+          }
+        ],
+        "status": "確定＝ル・クール総合優勝（初のアフリカ人）・ヴィーベス最終ステージで4勝目。"
+      },
+      {
+        "id": "20260824-weekend-gc",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/aqedMr2yq5dFSWVFHTrjMA-2000-80.jpg",
+        "headline": "週末のステージレースW決着——ドイツ・ツアーはデル・トロが総合（最終日マグニエ）、レニューイはフィリプセンが総合＆最終日レーヴェンを制圧",
+        "layer1": "ドイツ・ツアー最終第4（ハイルブロン）はポール・マグニエがスプリント勝利、総合は22歳イサク・デル・トロ（UAE）がバレ／ヒルシを抑えて優勝。レニューイ・ツアーは最終日レーヴェンをジャスパー・フィリプセンが制し、総合もフィリプセン（2位ベルクモース・3位コーイ）が獲った。",
+        "layer2": "デル・トロは最後まで攻めて逆転を狙うも僅かに届かず、それでも総合を守り切る強さ——ツール3位の勢いそのまま。フィリプセンは大落車で一度は主役を外れたが、写真判定やスプリントで盛り返し『最強スプリンター博覧会』を総合で締めた。両者ともブエルタ本隊とは別戦線で、秋の好調をはっきり示した週末。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ドイツ・ツアー）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/deutschland-tour-isaac-del-toro-seals-overall-title-as-paul-magnier-wins-finale-stage-4-in-heilbronn/",
+            "d": "2026-08-23"
+          },
+          {
+            "t": "ProCyclingStats（レニューイ総合）",
+            "u": "https://www.procyclingstats.com/race/renewi-tour/2026/gc/result/result",
+            "d": "2026-08-23"
+          }
+        ],
+        "status": "確定＝デル・トロ（独ツアー）／フィリプセン（レニューイ）総合優勝。"
+      },
+      {
+        "id": "20260824-alaphilippe",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/preyXU8URFip5kJRmtcp5W-2000-80.jpg",
+        "headline": "【人間ドラマ】アラフィリップが34歳で電撃引退——契約最終年を待たず、2026ツールが最後のレースに。『楽しさが消えた時が、やめる時』",
+        "layer1": "元世界王者（2連覇）ジュリアン・アラフィリップが即時引退を表明。Tudor Pro Cyclingとの契約最終年を全うせず、2026年ツール・ド・フランスがラストランになる。『ある朝、今季で終わりだと悟った』と本人が語った。",
+        "layer2": "ツールのアルプ・デュエズ後に『もう見られないだろう』と示唆していた伏線。戦績はミラノ〜サンレモ（'19）、ストラーデ・ビアンケ（'19）、フレーシュ・ワロンヌ3勝、世界選手権2連覇（'20/'21）、全3グランツールでのステージ勝利——一時代を築いたパンチャーだ。惜しむ声とともに『感謝して締める』姿勢。※初報は関係者情報ベース、その後に本人発表で確定。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/julian-alaphilippe-has-reportedly-called-an-early-end-to-his-professional-racing-career/",
+            "d": "2026-08-21"
+          },
+          {
+            "t": "Domestique",
+            "u": "https://www.domestiquecycling.com/en/news/i-felt-it-alaphilippe-explains-decision-behind-his-immediate-retirement/",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝引退表明（即時・契約最終年を残す）／初報は関係者情報、のち本人発表。"
+      },
+      {
+        "id": "20260824-shimano-13s",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/aKcBqmNzkUMt723zeT5wNe-1920-80.png",
+        "headline": "【機材】シマノ新型デュラエース『R9300』がブエルタで実物発見——13速カセット＋新サムボタン、フリーボディ刷新で『手持ちホイール非互換』の物証",
+        "layer1": "開催中のブエルタで、アルペシン勢のバイクにシマノの新型デュラエース（R9300とみられる）を複数媒体が激写。13枚カセット、フードに新設された突起状のサムボタン、SRAM風のユニバーサル・ディレイラーハンガーを確認。2021年以来の全面刷新だ。",
+        "layer2": "依然『セミワイヤレス』（ディレイラー間は有線）。最大の注意は新フリーボディ規格——既存ホイールは要アップグレードの可能性が高く、13速に乗るなら『ホイールも買い替え』が現実味を帯びる。クランクはアルミ継続、プロトでは1x対応の示唆も。本命は2026年後半にデュラエース→2027アルテグラの流れ。『噂』の段階から『実車が撮られた』段階へ前進した意味は大きい。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/groupsets/new-dura-ace-spotted/",
+            "d": "2026-08-22"
+          },
+          {
+            "t": "Escape Collective",
+            "u": "https://escapecollective.com/in-the-wild-shimano-dura-ace-r9300-groupset-at-la-vuelta/",
+            "d": "2026-08-23"
+          }
+        ],
+        "status": "確定＝ブエルタで実車確認（13速・新サムボタン・新ハンガー）／曖昧＝正式スペック・価格・発売日は未発表。"
+      },
+      {
+        "id": "20260824-13s-shop",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://escapecollective.com/content/images/size/w1200/2026/08/New-Shimano-Dura-Ace-R9300-Vuelta-Espana-2026-Escape-Collective--2-2.jpg",
+        "headline": "【経営メモ・Xで話題】13速デュラエースが『見えた』——今、店頭の12速客に何と言うか（買い控え防止と在庫の考え方）",
+        "layer1": "ブエルタで新型デュラエース（13速）の実車が撮られ、『そろそろ13速では？』という買い控えが起きやすい局面。だが正式発表・価格・発売日は未定で、当面は12速が主流のままだ。",
+        "layer2": "店の構えは3点。①現行12速デュラ/アルテは『今買っても当分現役』と明言する（WT本格投入は2026後半〜2027、量販普及はさらに先）。②新フリーボディ非互換の可能性＝『13速へ行く時はホイールもセット』と早めに伝え、ワイド内幅の完組提案（＝うちの中華カーボン完組が効く場面）に繋げる。③型落ちになる12速完成車・コンポは秋の処分で仕入れ妙味——『駆け込み』でなく『賢い型落ち』として売る。Xでも『非互換で買い替え地獄』論が出る見込みで、先回りの説明がそのまま信頼になる。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/groupsets/new-dura-ace-spotted/",
+            "d": "2026-08-22"
+          },
+          {
+            "t": "Escape Collective",
+            "u": "https://escapecollective.com/in-the-wild-shimano-dura-ace-r9300-groupset-at-la-vuelta/",
+            "d": "2026-08-23"
+          }
+        ],
+        "status": "確定＝13速実車確認／経営示唆＝発売未定ゆえ12速は当面安泰、非互換前提でホイール提案を（※Xの反応は今後の見込み）。"
+      },
+      {
+        "id": "20260824-cs-gravel",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://www.yaesu-net.co.jp/00_wordpress/wp-content/uploads/2026/08/CS202610_H1-WEB.jpg",
+        "headline": "【経営メモ・国内】サイクルスポーツ最新10月号（8/20発売）は『グラベル特集』＋日本人選手——国内の関心はグラベル/オールロードへ、秋商戦の芯に",
+        "layer1": "8/20発売のサイクルスポーツ2026年10月号は巻頭で『グラベル』を特集。併せて『ツール・ド・フランス2026 注目の日本人選手』『2026SSサイクルアイテム』を組む。国内主要誌がこの号でグラベルを前面に出した＝読者の関心の在処を示す。",
+        "layer2": "完成車が40mmタイヤ・広内幅前提へ動く潮流（先日のトレンド）とも符合する。店としては『ロード一択』ではなく、既存ロード客への“2台目グラベル/オールロード”提案が刺さる時期。タイヤ・ワイド内幅ホイール・ギア比の相談が増える前提で、在庫と接客を組み直したい。※特集構成は出版社の公式目次で確認済み。",
+        "sources": [
+          {
+            "t": "八重洲出版（公式目次）",
+            "u": "https://www.yaesu-net.co.jp/item/cyclesports-202610/",
+            "d": "2026-08-20"
+          },
+          {
+            "t": "cyclesports.jp",
+            "u": "https://www.cyclesports.jp/",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝10月号の特集内容（グラベル/日本人選手/SS用品）。"
+      },
+      {
+        "id": "20260824-gt-watch",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/FNUSDcuSzTKzuVFDmSzD4d-1768-80.jpg",
+        "headline": "【初中級】ブエルタが今アツい——初めてでも10倍楽しむ『山頂フィニッシュ/赤ジャージ/ボーナス秒』の見方",
+        "layer1": "今日8/24は今大会初の山頂決着（フォンロメウ）。『なぜTTや上りゴールで総合が動くの？』を押さえると、レース観戦は一気に面白くなる。",
+        "layer2": "4点だけ。①赤ジャージ＝総合（積算タイム）首位で、区間勝者とは別物。②ボーナス秒＝区間上位や中間スプリントで数秒引かれ、僅差の総合を揺らす（今大会もファンアールトが2位浮上）。③カテゴリ山岳＝険しさの格付けで、1級/超級ほど山頂に人が集まる。④山頂フィニッシュ＝平坦で温存→最後の登りで実力差が一気に出る。この4点で、ポガチャルが『なぜ9.4kmや緩い上りでも差を作れるか』が読める。まずは今日の最後の登りだけでも見ると◎。",
+        "sources": [
+          {
+            "t": "Cyclingnews（第3プレビュー）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-2026-stage-3-preview/",
+            "d": "2026-08-17"
+          },
+          {
+            "t": "Olympics.com（順位表・解説）",
+            "u": "https://www.olympics.com/en/news/vuelta-espana-2026-schedule-stage-results-general-classification-standings",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝観戦の基礎知識／今日の山頂決着に紐づく初中級向け解説。"
+      }
+    ]
+  },
+  {
     "date": "2026-08-23",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。週末は世界中でレースが同時多発——ブエルタは『0.09秒』の開幕劇、今日は各地で最終日決着。市場と初中級もしっかり添えました。",
     "cards": [
