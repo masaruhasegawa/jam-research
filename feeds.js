@@ -1,5 +1,304 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-08-25",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ブエルタ第3は『雹嵐で史上まれな中止』——赤のポガチャルが自ら集団を止めました。今日8/25はアンドラ超級山岳でGCが初めて本気で動きます。異常気象・グラベルの成熟・13速の互換不安まで、いまの芯を12枚で。",
+    "cards": [
+      {
+        "id": "20260825-vuelta-st3-hail",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/gb83HzBMqhypFmjmZNAvnQ-2000-80.jpg",
+        "headline": "ブエルタ第3は『雹嵐で異例の中止』——赤のポガチャルが“パトロン”として集団を止めた、勝者なし・表彰台なし",
+        "layer1": "8/24、今大会初の山頂決着フォンロメウ（1,936m）を目前にした最終盤で、雹・雷・強風・豪雨が集団を直撃。選手は路肩の避難所へ走り込み、主催は「安全のため第3ステージを中止。勝者も表彰台もなし」と発表した。総合順位は前日マノスク終了時のまま据え置き。",
+        "layer2": "象徴的だったのは、主催の正式中止判断より先に、赤ジャージのポガチャルが先頭で減速を促し、腕を上げてペースダウンを合図、続けて左を指してコース離脱を指示——集団全体がそれに従ったこと。“パトロン”としてのリーダーシップが各メディアで称賛された。GCはポガチャル首位、2位ファンアールト『＋9秒』、3位ブレナン『＋10秒』のまま凍結。序盤から異常気象に翻弄される大会になっている。",
+        "sources": [
+          {
+            "t": "Cyclingnews（勝者なしで終了）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-stage-3-ends-without-a-winner-as-extreme-weather-batters-the-peloton-on-the-road-to-first-summit-finish-at-font-romeu/",
+            "d": "2026-08-24"
+          },
+          {
+            "t": "Cyclingnews（ポガチャルが集団を止めた）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tadej-pogacar-pulls-over-peloton-as-hailstorm-neutralises-vuelta-a-espana-stage-3/",
+            "d": "2026-08-24"
+          },
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/racing/vuelta-a-espana/vuelta-a-espana-stage-three-neutralised-and-then-abandoned-after-hailstorm",
+            "d": "2026-08-24"
+          }
+        ],
+        "status": "確定＝第3中止・勝者/表彰台なし・GCは第2終了時で据え置き（ポガチャル赤・＋9秒）。"
+      },
+      {
+        "id": "20260825-vuelta-st4",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/gSwJTBAo6WfhyWT95h8rhH-1800-80.jpg",
+        "headline": "今日8/25ブエルタ第4は『アンドラの超短距離殺し』——104.8km・獲得3,024m、超級エンバリラから登坂4連発でGC初の本物の選別",
+        "layer1": "アンドラ・ラ・ベリャ発着104.8km。ピレネー最高標高の舗装峠ポルト・デンバリラ（cat.1・2,400m）で幕を開け、ベイシャリス、コル・ドルディノ（いずれもcat.1）と登坂を連ね、最後は高速ダウンヒルでフィニッシュ。第3中止を受けた“実質初の本格山岳”になる。",
+        "layer2": "距離は短いが密度が濃い「トブラローネ型」プロフィール。登って下って登る構成で、純粋な山頂決着ではなく下りの巧拙とボーナス秒も絡む。ポガチャル本命は動かないが、ペデルセンやファンアールトら重量級は超級で削られる標高。総合トップ10の輪郭がここで初めて見え始める。※当日結果は未了。",
+        "sources": [
+          {
+            "t": "Cyclingnews（第4プレビュー）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-2026-stage-4-preview/",
+            "d": "2026-08"
+          },
+          {
+            "t": "Rouleur（第4プレビュー）",
+            "u": "https://www.rouleur.cc/racing/vuelta-a-espana-2026-stage-4-preview",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝コース（104.8km・獲得3,024m・アンドラ発着・登坂4本）／曖昧＝当日結果は未了（前日プレビュー）。"
+      },
+      {
+        "id": "20260825-vanaert-red",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/qeUP3Jwa4YCvLkCpjvgbEa-2100-80.jpg",
+        "headline": "【人間ドラマ】ファンアールトが『赤に9秒差の総合2位』——“総合は捨てた”はずのヴィスマが、今日アンドラで赤を狙える皮肉",
+        "layer1": "第2ステージのボーナス秒と上りスプリント3位で総合2位に浮上したファンアールト。第3中止でGCが凍結し、ポガチャルとの差は9秒のまま。開幕前に「総合を捨てて全面ステージ戦」を掲げたヴィスマだが、旗頭のファンアールトが思わぬ“赤の射程内”にいる。",
+        "layer2": "今日のアンドラ超級山岳はファンアールト級の重量級に本来は不利。だが下り区間の展開とボーナス秒次第、そしてポガチャルが自ら踏まず逃げに委ねる展開なら、一時的にでも赤を奪う目はある。総合を狙わないチームが“赤を着る”のは物語として大きく、ステージ量産と両立できるかが見どころ。※今日赤を奪うかは要確認。",
+        "sources": [
+          {
+            "t": "Cyclingnews（第2結果・GC）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-powerful-sprint-nets-matthew-brennan-stage-2-victory-as-tadej-pogacar-fends-off-attacks-to-keep-leaders-jersey/",
+            "d": "2026-08-23"
+          },
+          {
+            "t": "ロードバイクはやめられない（第2）",
+            "u": "https://chan-bike.com/2026-vuelta-a-espana-stage-2",
+            "d": "2026-08-24"
+          }
+        ],
+        "status": "確定＝GC2位ファンアールト＋9秒（第3中止で据え置き）／曖昧＝今日赤を奪うかは未了。"
+      },
+      {
+        "id": "20260825-extreme-weather-ewp",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/Uso2vkbXm3i53wafEG8oFV-2560-80.jpg",
+        "headline": "【トレンド・安全】相次ぐ『レース中止』——異常気象がグランツールの新常態に、“止める判断”を誰がするか",
+        "layer1": "ブエルタ第3の雹嵐中止は、近年増える「悪天候によるステージ短縮・中止」の最新例。極端気象がレース運営の前提を揺さぶり、悪天候プロトコル（EWP）と選手の安全判断が改めて焦点になっている。",
+        "layer2": "今回は主催の正式中止より先に、赤のポガチャルが集団を止める“現場判断”が先行した点が象徴的だ。選手会や各チームは近年、猛暑・豪雨・降雹での中立化を求める声を強めている。マサル的には、この一件は「ウェットや低温での減速・視界確保・低体温対策」を初中級向けに翻訳できる格好の素材——プロが逃げた雹の中で、街乗りは何を優先すべきかへ落とせる。※安全プロトコルの制度論は各所で継続議論中。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/racing/vuelta-a-espana/vuelta-a-espana-stage-three-neutralised-and-then-abandoned-after-hailstorm",
+            "d": "2026-08-24"
+          },
+          {
+            "t": "Escape Collective",
+            "u": "https://escapecollective.com/hailstorm-stops-play-on-vuelta-stage-3/",
+            "d": "2026-08-24"
+          }
+        ],
+        "status": "確定＝第3が悪天候で中止／曖昧＝EWP運用の是非・基準は議論継続。"
+      },
+      {
+        "id": "20260825-gravel-boty",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/216bd3a5-608f-4dea-b58d-303141a5477f/thumbnails/c6562027-2cfb-4372-abe0-a475ecfba5fe.jpg?appId=32337f2f-7841-4ef6-a233-d1f001580530&w=1200",
+        "headline": "【トレンド】グラベルが『成熟期』へ——BikeRadar“今年の一台”候補が公開、争点はサス化・新ホイールサイズ・そして中華参入",
+        "layer1": "BikeRadarが2026グラベル・バイク・オブ・ザ・イヤーの最終候補を公開（受賞発表は8/27予定）。この数年で急速に成熟したグラベルの“今の正解”を映す一覧で、サスペンションフォーク採用やドロッパー、ソフトテイル設計が主役級テーマに並ぶ。",
+        "layer2": "見どころは3つ。①100mm前後のトラベルを前提にした“サス化・ジオメトリ補正”、②カテゴリーに影を落とす『新しいホイールサイズ』の議論、③WinspaceのG系グラベルやX-Labなど中華ブランドの本格参入だ。国内の関心も「オールロード化」からグラベルへ広がっており、うちの中華カーボン（8LIEN・CRW・GOOSYNN等）にとってはロード完組の次の商機になり得る。※受賞結果は8/27発表待ち。",
+        "sources": [
+          {
+            "t": "BikeRadar（Gravel Bike of the Year 候補）",
+            "u": "https://www.bikeradar.com/features/tech/2026-gravel-bike-of-the-year-shortlist",
+            "d": "2026-08-24"
+          },
+          {
+            "t": "BikeRadar（2026グラベルのトレンド）",
+            "u": "https://www.bikeradar.com/features/tech/2026-gravel-bike-of-the-year",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝候補公開・8/27受賞発表予定／曖昧＝新ホイールサイズや中華参入の“定着”はこれから。"
+      },
+      {
+        "id": "20260825-china-carbon-2026",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png?media=1716897874",
+        "headline": "【ホイール】中華カーボン2026は『大手の1/3〜1/2の価格で肉薄』——選ぶ軸は今も規格と保証、うちの強みが効く領域",
+        "layer1": "2026年の中華カーボン完組は品質の底上げが著しく、重量・剛性・空力で大手上位に肉薄しながら価格は1/3〜1/2、というのが海外レビュー勢の共通見解。T1000/T1100系カーボンを謳うフラッグシップはペア800g台も並ぶ。",
+        "layer2": "ただし“安いから買い”ではない。外さない軸は今も《内幅×使用タイヤ幅／フックレス上限空気圧／認証・保証》の3点で、ここは説明できる店が勝つ。うちの取扱（8LIEN・CRW・GOOSYNN・NEPEST・FARSPORTS・PARTICLE）は、この規格説明とアフター（振れ取り・スポーク・保証窓口）を店頭で担保できるのが、直販オンリーの海外ブランドに対する差別化になる。数値の鵜呑みは禁物——公称重量は前後合計かペアかを必ず確認。",
+        "sources": [
+          {
+            "t": "Velofanatics（Best Chinese Carbon 2026）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026-08"
+          },
+          {
+            "t": "bike-memo（2026格付け）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-01"
+          }
+        ],
+        "status": "確定＝価格優位と品質接近の傾向／曖昧＝個別モデルの実測値はレビュー差あり（要裏取り）。"
+      },
+      {
+        "id": "20260825-dura-ace-r9300-etube",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/uBbjRSbNkehy2Y8QdJfhWV-1624-80.jpg",
+        "headline": "【機材】13速デュラエースR9300、E-Tubeリークで輪郭が固まる——『セミワイヤレス維持・新フリーボディ・新サムボタン』",
+        "layer1": "ブエルタで実車が激写された新型デュラエースR9300について、E-Tubeアプリのリーク解析が続報を追加。13速カセット、刷新シフター（新サムボタン）、新フリーボディが確認され、方式は“完全ワイヤレス”ではなく従来どおりのセミワイヤレス継続が濃厚とされる。",
+        "layer2": "実務上のいちばんの争点は『手持ちホイールの互換』。新フリーボディを要する設計なら、現行11速/12速のホイールはそのままでは載せ替えできない可能性が高い。ただしシマノ未発表で、正式名称も発売時期（2026後半〜2027説）も未確定。7月にホイールR9370、プロトのペダルも出ており、周辺エコシステムは先に動いている。※スペックはリーク段階、断定は避ける。",
+        "sources": [
+          {
+            "t": "Cycling Weekly（ブエルタで発見）",
+            "u": "https://www.cyclingweekly.com/news/new-13-speed-shimano-dura-ace-groupset-spotted-at-vuelta-a-espana",
+            "d": "2026-08"
+          },
+          {
+            "t": "the5krunner（R9300リーク）",
+            "u": "https://the5krunner.com/2026/08/23/dura-ace-r9300-13-speed-spotted/",
+            "d": "2026-08-23"
+          }
+        ],
+        "status": "曖昧＝リーク/目撃ベース（シマノ未発表）。13速・セミワイヤレス・新フリーは複数筋で一致、名称/時期/互換は未確定。"
+      },
+      {
+        "id": "20260825-seikatsu-doro-30",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C165.jpg",
+        "headline": "【初中級・Xで話題】9/1から『生活道路30km/h』が施行——標識が無くても自動で30、ロード乗りが今すぐ意識すべきこと",
+        "layer1": "改正道路交通法施行令により、2026年9月1日から中央線がなく道幅の狭い『生活道路』の法定速度が30km/hに引き下げられる。住宅街や商店街の裏道は、30の標識が立っていなくても自動的に30km/h規制になる。4月施行の自転車“青切符”に続く新ルールだ。",
+        "layer2": "Xでは「国の法改正で自転車が邪魔」というドライバー側の不満と、「ロードは裏道でも簡単に30を超える」という自戒が交錯して拡散中（＝Xバズ起点）。裏を取ると、この30km/h規制は自動車の法定速度の話が主だが、車の流れが遅くなる細街路ではロードとの速度差・追い越し接触リスクの構図が変わる。実務の要点は3つ——①生活道路では“流れ＋標識”を車と同じ目線で読む、②裏道の飛び出し（子ども・高齢者）を前提に減速、③幹線の路肩と細街路で走り方を切り替える。青切符の反則金（5千〜1.2万円）対象の一時不停止・信号無視は生活道路でも当然対象。",
+        "sources": [
+          {
+            "t": "日本カーソリューションズ（法改正解説）",
+            "u": "https://www.ncsol.co.jp/column/c_40/",
+            "d": "2026-08"
+          },
+          {
+            "t": "bike-memo（青切符・反則金一覧）",
+            "u": "https://bike-memo.com/cycle_260216_rule-blue/",
+            "d": "2026-02"
+          }
+        ],
+        "status": "確定＝9/1施行・標識なしでも生活道路は30km/h／Xバズは裏取り済み（施行令ベース）。"
+      },
+      {
+        "id": "20260825-13s-compat-buy",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://rydecruz.com/cdn/shop/articles/cover_a61aa5e6-f931-448b-a210-f984c4fb8f6a.png?v=1786546683",
+        "headline": "【初中級】『13速が来るなら今は買い控え?』への答え——手持ち12速は当分無駄にならない、を数字と時期で",
+        "layer1": "R9300の実車・リークで「13速待ちで今は買い控えるべき?」という不安がSNSで増えている。結論から言うと、慌てて待つ必要は薄い——正式発表すらまだで、発売は2026後半〜2027説、供給が回るのはさらに先だからだ。",
+        "layer2": "整理すると、①13速が“手持ちホイール非互換”になり得るのは新フリーボディが要る場合で、これは新型を買う人の話。今の11速/12速環境がある日突然使えなくなるわけではない。②プロ供給→市販→在庫潤沢まで通常1年以上のラグ。③むしろ13速移行期は現行12速デュラ/アルテや上位互換の中華完組が“型落ち値ごろ”で狙える局面になりやすい。だから初中級は「規格の3点（内幅×タイヤ幅・フックレス上限・認証保証）」で今必要な完組を選ぶのが合理的。13速は“出てから”で間に合う。※発売時期・互換はシマノ未発表につき確定情報待ち。",
+        "sources": [
+          {
+            "t": "Rydecruz（R9300 互換解説）",
+            "u": "https://rydecruz.com/blogs/pedal-press/shimano-13-speed-compatibility-will-r9300-work-with-your-current-wheels-and-freehub",
+            "d": "2026-08"
+          },
+          {
+            "t": "the5krunner（R9300リーク）",
+            "u": "https://the5krunner.com/2026/08/23/dura-ace-r9300-13-speed-spotted/",
+            "d": "2026-08-23"
+          }
+        ],
+        "status": "曖昧＝発売時期/互換は未発表。買い控え不要という判断は“正式発表なし＋供給ラグ”という事実に基づく。"
+      },
+      {
+        "id": "20260825-ysroad-clearance",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://ysroad.co.jp/nagoya/wp-content/uploads/2026/08/img_6957.jpeg",
+        "headline": "【経営メモ】ワイズロード夏商戦が終盤——名古屋は『カンパ高級ホイール限定処分』、型落ち本番の10〜11月へ助走",
+        "layer1": "ワイズロード各店が8月末までのキャンペーンを集中投下。名古屋本館はカンパニョーロ高級ホイールの数量限定特価、オンラインは夏フェアのタイムセール、各店でアパレル3点5%/5点10%OFFなどが並ぶ。夏の在庫調整が本格化してきた。",
+        "layer2": "読みどころは“値引きの深さ”。夏はボーナス期でも値引きは10〜20%止まりが通例で、型落ち処分の本番は9月末の中間決算→10〜11月。今の高級ホイール処分は「決算前の在庫を軽くする助走」で、深掘りはこれから。うちの動きとしては、①今の浅い値引きに乗らず“予約と下取り”で客を囲う、②大手が高級完組を叩く局面では、うちは中華完組の“同価格帯・上位性能＋説明とアフター”で差別化する、が定石。深追いの安売り競争には乗らない。",
+        "sources": [
+          {
+            "t": "Y's Road 名古屋（カンパ限定セール）",
+            "u": "https://ysroad.co.jp/nagoya/2026/08/19/196402",
+            "d": "2026-08-19"
+          },
+          {
+            "t": "Y's Road 京都（アパレルまとめ買い）",
+            "u": "https://ysroad.co.jp/kyoto/2026/08/18/161822",
+            "d": "2026-08-18"
+          }
+        ],
+        "status": "確定＝各店キャンペーン（〜8/31）実施中／読み＝深い型落ち処分は9月末決算〜10-11月。"
+      },
+      {
+        "id": "20260825-ysroad-bundle",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://ysroad.co.jp/osaka/wp-content/uploads/2026/08/pop_douji10_2608.png",
+        "headline": "【経営メモ】大手は『車体＋パーツ10点で10%OFF』の抱き合わせで客単価を作る——新規客の入口設計をどう真似るか",
+        "layer1": "ワイズロード大阪本館は8/31まで『車体購入時にパーツ10点同時購入で全品10%OFF』を実施中。車体販売に高粗利のパーツをまとめて乗せて客単価を引き上げる、王道の抱き合わせ設計だ。",
+        "layer2": "この施策の本質は“値引き”ではなく“同時購入率の引き上げ”。新規客は納車時にペダル・ボトルケージ・ライト・鍵・裾バンド…と必ず周辺を買う。そこを最初に束ねると、後から単品でネット購入されて取り逃す機会を潰せる。うちのような専門店なら、大手の10%より“フィッティング＋規格説明つきの初期セットアップ提案”で価値を足せる。中華完組アップグレードも、この納車時の同時提案に乗せると通しやすい。値引き競争ではなく“入口の設計”で勝つ論点。",
+        "sources": [
+          {
+            "t": "Y's Road 大阪（パーツ10点同時購入10%OFF）",
+            "u": "https://ysroad.co.jp/osaka/2026/08/08/263665",
+            "d": "2026-08-08"
+          },
+          {
+            "t": "Y's Road 池袋（ウェア同時購入）",
+            "u": "https://ysroad.co.jp/ikebukuro/2026/08/20/168364",
+            "d": "2026-08-20"
+          }
+        ],
+        "status": "確定＝抱き合わせキャンペーン実施中（〜8/31）／示唆＝入口の同時提案設計が客単価の肝。"
+      },
+      {
+        "id": "20260825-china-market-position",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/01/zakki_C128.jpg",
+        "headline": "【経営メモ・市場】国内でPVを稼ぐのは『中華カーボン格付け記事』——指名買いの入口はブログとYouTube、店はその受け皿になる",
+        "layer1": "日本語圏では『2026中華カーボンおすすめランキング/格付け』系の記事・動画が継続的にPVを伸ばしている。買う前にブログとYouTubeで機種を絞り込み、メーカー直販が最安・安心と学んで来店/問い合わせる——という導線が定着した。",
+        "layer2": "経営的な含意は2つ。①客は“比較を済ませて指名で来る”ので、店は「その機種の実物・規格適合・アフターを確認できる場」になれば選ばれる（在庫を全部持つ必要はない）。②直販最安に価格で真っ向勝負しない——うちの価値は取付・振れ取り・保証窓口・トラブル対応というアフターの束。記事で指名買いが起きる今こそ、8LIEN・CRW・GOOSYNN等の“店で買う安心”を言語化して受け皿に回るのが得策。数値ランキングは媒体ごとに基準が違うので、鵜呑みにせず実測・実使用の裏取りを添えて案内する。",
+        "sources": [
+          {
+            "t": "bike-memo（2026中華カーボン格付け）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-01"
+          },
+          {
+            "t": "bike-memo（コスパ最強TOP5）",
+            "u": "https://bike-memo.com/cycle_260202_carbon-wheels/",
+            "d": "2026-02"
+          }
+        ],
+        "status": "確定＝格付け系コンテンツが国内で継続的にPV／読み＝店はアフターの受け皿で差別化（価格勝負を避ける）。"
+      }
+    ]
+  },
+  {
     "date": "2026-08-24",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。週末はブエルタ開幕の熱狂に3つのステージレースが同時決着、そしてブエルタで『13速デュラエースの実車』が激写——機材の地殻変動が始まりました。今日8/24は今大会初の山頂決着です。",
     "cards": [
