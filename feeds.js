@@ -1,5 +1,295 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-08-26",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。ブエルタは今日8/26が第5ステージ、そしてMTB世界戦がヴァルディソーレで開幕——ポガチャルの『50km独走』とファンデルプールの“二冠挑戦”が今日の主役です。新鮮どころを底まで潜って揃えました。",
+    "cards": [
+      {
+        "id": "20260826-vuelta-st5-st4",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/3skUSXkGw8ThABorvhAo9d-1884-80.jpg",
+        "headline": "今日8/26ブエルタ第5は『丘のスプリント』——昨日の第4でポガチャルが“50km独走”、赤を+3分21秒に広げGCは早くも王手",
+        "layer1": "今日8/26の第5ステージはファルセ→ロケテス173.4km。前半に丘が連続し、残り25kmにパウルス峠（約3.5km・平均7.1%）——強いスプリンターは生き残れるが、リドル・トレックやヴィスマが揺さぶれば少人数の選別も。昨日8/25の第4（アンドラ104.8km）はポガチャルが残り50kmから独走、2位に2分39秒差をつけて赤の下でステージも奪取。",
+        "layer2": "先回り——「もうGC決着では?」。総合2位ログリッチに+3分21秒。今回の50km独走は自己ベンチマーク（ツール第6ガヴァルニ43km、ブエルタ2019の39km）を更新する“グランツール史上もっとも支配的なソロ”。本人談は「孤立して全GC勢に挟撃されるより、登りで自分から動いて逃げ切りに賭けた」。今日はUAEが無害な逃げを追う動機が薄く『逃げ切り濃厚』——GC上位は動かず、スプリンター＆パンチャーのステージ狩り合戦になる公算が高い。",
+        "sources": [
+          {
+            "t": "Cyclingnews（第5プレビュー）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-2026-stage-5-preview/",
+            "d": "2026-08-25"
+          },
+          {
+            "t": "La Vuelta 公式（第4レポート）",
+            "u": "https://www.lavuelta.es/en/news/2026/stage-4/pogacar-takes-andorran-crown-with-historic-solo/54296",
+            "d": "2026-08-25"
+          },
+          {
+            "t": "The42（第4速報）",
+            "u": "https://www.the42.ie/vuelta-stage-four-7141767-Aug2026/",
+            "d": "2026-08-25"
+          }
+        ],
+        "status": "確定＝第4はポガチャル優勝・赤+3分21秒／第5は本日開催で逃げ有利予想（結果は未確定）"
+      },
+      {
+        "id": "20260826-mtb-worlds-vdp",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://images.ctfassets.net/761l7gh5x5an/1J3NnymHAjCbhYE9Qu1XVt/473ba8d071ad326b77d2eb083572bdd6/CEM_8151.jpg?f=&fit=thumb&q=80&fl=progressive&w=1200&h=800",
+        "headline": "MTB世界選手権が今日8/26イタリア・ヴァルディソーレで開幕——『ファンデルプールvsピドコック』、狙うは“同一年ロード＆MTB二冠”という前人未到の賭け",
+        "layer1": "8/26〜30、ヴァルディソーレで17のレインボー（XCO／XCC／XCR／DHI／E-XC）を争う。エリートXCOは最終日8/30——女子ピーテルセ組が13:00、ファンデルプール×ピドコックのエリート男子が15:15発走。MVDPは8/24レ・ジェW杯で勝者に7秒差の2位と、近年最高のMTB結果で乗り込む。",
+        "layer2": "先回り——なぜ“賭け”か。9/27のロード世界戦（モントリオール）まで4週間、落車1発で両方を失いかねない。同一年にロードとMTBの両方で世界王者になった男子は史上ゼロ＝達成すれば歴史。対抗は2連覇中の王者ハザリー、W杯リーダーのルカ・マルタン、新星ボワシ、そして五輪2冠のピドコック。MVDP本人は「理想的な準備はできない、運も要る」と慎重姿勢。",
+        "sources": [
+          {
+            "t": "UCI 公式（XCO出場発表）",
+            "u": "https://www.uci.org/article/2026-uci-mountain-bike-world-championships-pidcock-and-van-der-poel-join-xco-line-up/2y71CSnQ5SzMkYJcZlf6cB",
+            "d": "2026-08-24"
+          },
+          {
+            "t": "Velo（スタートリスト／視聴）",
+            "u": "https://velo.outsideonline.com/mountain/2026-mountain-bike-world-championships-start-lists-how-to-watch/",
+            "d": "2026-08-24"
+          },
+          {
+            "t": "CyclingFlash（レ・ジェ2位）",
+            "u": "https://cyclingflash.com/news/what-a-race-mathieu-van-der-poel-finishes-second-in-les-gets-world-cup-thriller",
+            "d": "2026-08-24"
+          }
+        ],
+        "status": "確定＝日程・出場（8/26開幕、エリートXCOは8/30）／MVDPの二冠は挑戦中"
+      },
+      {
+        "id": "20260826-widar-vuelta",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/224zLADqoynLjoP8rH9AiD-2100-80.jpg",
+        "headline": "【人間ドラマ】20歳ヴィダール、GT初の本格山岳で『世界最強に混じって2位』——「これは普通じゃない、自分でも驚いた」",
+        "layer1": "ブエルタ第4アンドラ、ポガチャルの独走の後方で、20歳ヤルノ・ヴィダール（ロット）が追走集団のスプリントを制して2位。グランツール・デビュー戦、しかも初めての本格山岳ステージでの快挙だった。",
+        "layer2": "先回り——何がすごいか。コリャダ・デ・ベイシャリスの選別を生き残り、本人は「ポガチャルが行った時、まだ数人が追おうとしたが、自分は即・自分のペースを選んだ」。白（ヤング）ジャージ首位はオンリーだが、ヴィダールは「この面々の中で走れるのは本当に光栄」と。ポガチャル一強の陰で“次世代GC”が着実に頭角を現している。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ヴィダール2位）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/its-not-normal-im-actually-a-bit-surprised-today-20-year-old-jarno-widar-impresses-with-second-place-on-first-ever-grand-tour-mountain-stage-at-vuelta-a-espana/",
+            "d": "2026-08-25"
+          },
+          {
+            "t": "CyclingFlash（ヴィダール談）",
+            "u": "https://cyclingflash.com/news/jarno-widar-2nd-competes-with-worlds-best-in-vuelta-i-am-very-proud-of-myself",
+            "d": "2026-08-25"
+          }
+        ],
+        "status": "確定＝ヴィダール第4ステージ2位"
+      },
+      {
+        "id": "20260826-transfers-2027",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/RxpmCqaM6DPBfsfUxEnnfX-2100-80.jpg",
+        "headline": "【移籍市場】2027の移籍が本格始動——デ・リエが『トゥドールへ電撃』、ランダは古巣エウスカルテルへ“帰郷”、ヒンドレーはヴィスマ、フリゴはUAE",
+        "layer1": "2027シーズンへ向けた移籍が続々確定。スプリンターのアルノー・デ・リエがProTeamトゥドールへ、クライマーのミケル・ランダがプロデビューの地エウスカルテル・エウスカディへ“帰郷”、ヤイ・ヒンドレーがヴィスマへ、マルコ・フリゴがUAEへ2年契約で移る。",
+        "layer2": "先回り——市場の目玉は誰か。カラパス、ヒンドレー、ログリッチ、デ・リエ、オコーナーら大物が動く年。女子はニエヴィアドマ＝フィニー、バルサモ、ウトルップ・ルドウィグ、ダイガートが焦点で、“女子初の100万ドル契約”も取り沙汰される大再編。19歳セイシャスの争奪が決まるまで巨額マネーが凍る構図は継続中で、決着すれば連鎖的に一気に動く。",
+        "sources": [
+          {
+            "t": "Cycling Weekly（2027移籍まとめ）",
+            "u": "https://www.cyclingweekly.com/racing/all-the-pro-cycling-transfers-for-2027",
+            "d": "2026-08-24"
+          },
+          {
+            "t": "Cyclingnews（移籍最新）",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/cycling-transfers-all-the-latest-news-and-announcements-for-the-2027-season/",
+            "d": "2026-08-24"
+          },
+          {
+            "t": "Velo（移籍市場分析）",
+            "u": "https://velo.outsideonline.com/news/cycling-transfer-market-2026-27/",
+            "d": "2026-08-20"
+          }
+        ],
+        "status": "確定＝デ・リエ／ランダ／ヒンドレー／フリゴの移籍発表／大物勢は交渉中"
+      },
+      {
+        "id": "20260826-pogacar-dominance",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/tf8RrZuK52EMrdpV8uSW39-2000-80.jpg",
+        "headline": "【トレンド】ポガチャルは『強すぎてつまらない』のか——+3分21秒でも“最も面白いレース”になり得る理由",
+        "layer1": "第4での圧勝で「大差がつきすぎて競技が退屈になる」という“ポガチャル一強”論が再燃。ツールでも出た議論だが、ブエルタ主催者は「実力差は事実。でも彼はレジェンドで、彼と共にスペクタクルが来る」と一蹴した。",
+        "layer2": "先回り——本当に退屈か。識者はむしろ逆で「全員がポガチャルから時間を奪う夢を諦めた瞬間、“2位以下の潰し合い”が始まって面白くなる」と見る。ログリッチの5勝目挑戦、ヴィダールら新世代の突き上げ、山岳総獲得58,000mの“史上最凶”コース——トップが独走でも、赤の『下』で起きるドラマは今大会むしろ濃い。マサルのショート向けには「一強でも見る理由」を語れる切り口。",
+        "sources": [
+          {
+            "t": "Velo（ブエルタ展望）",
+            "u": "https://velo.outsideonline.com/road/road-racing/vuelta-a-espana/tadej-pogacar-vuelta-a-espana-2026/",
+            "d": "2026-08-21"
+          },
+          {
+            "t": "Domestique（主催者コメント）",
+            "u": "https://www.domestiquecycling.com/en/news/la-vuelta-boss-dismisses-tadej-pogacar-dominance-concern-ahead-of-spanish-return/",
+            "d": "2026-08-20"
+          },
+          {
+            "t": "Cyclingnews（第4分析）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-tadej-pogacar-twists-the-knife-with-solo-raid-in-andorra-to-win-stage-4/",
+            "d": "2026-08-25"
+          }
+        ],
+        "status": "確定＝主催者コメント・GC差／“面白いか”は評価・議論"
+      },
+      {
+        "id": "20260826-bikeradar-boty",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/056e14a0-fd0e-4849-9774-3038fbb22416/thumbnails/38741c2e-2551-45f5-b692-de5ffdadcf33.jpg?appId=32337f2f-7841-4ef6-a233-d1f001580530&w=1200",
+        "headline": "【トレンド】BikeRadar『2026年間ベストバイク』が明日8/27発表——レース／エンデュランス／グラベルの3冠、争点は“境界が溶けた完成車”",
+        "layer1": "BikeRadarが2026年の「Bike of the Year」を明日8/27に発表する。レースバイク（有力8台）、エンデュランス（5台）、グラベルの3カテゴリで頂点を選ぶ。候補と“今年を定義したトレンド”は8/20に公開済み。",
+        "layer2": "先回り——何が争点か。レース部門は『軽量エアロの一体設計』、エンデュランスは『速さ×快適×積載』で境界がグラベル／オールロードへ接近し、太タイヤ・広内幅対応が前提に。“年間ベスト”は次に売れる基準＝マサルが仕入れ・接客で先回りできる指標になる。中華完組はこの『ワイドリム×タイヤ幅最適化』の潮流にちょうど乗っており、値ごろ帯で戦える領域。",
+        "sources": [
+          {
+            "t": "BikeRadar（BOTY 2026 総合）",
+            "u": "https://www.bikeradar.com/features/bike-of-the-year/bike-of-the-year-2026",
+            "d": "2026-08-20"
+          },
+          {
+            "t": "BikeRadar（レース候補8台）",
+            "u": "https://www.bikeradar.com/features/tech/2026-race-bike-of-the-year-contenders",
+            "d": "2026-08-20"
+          }
+        ],
+        "status": "確定＝ショートリスト公開・8/27発表予定／受賞結果は未発表"
+      },
+      {
+        "id": "20260826-uci-gravel-japan",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://ysroad.co.jp/osaka/wp-content/uploads/2026/08/zx.jpg",
+        "headline": "【経営メモ・市場】日本初『UCIグラベル世界シリーズ』が薬萊で開催（8/21-23）——パナがタイトルスポンサー、限定GRAVELKING ZX発売、国内グラベル需要が“イベント”で可視化",
+        "layer1": "8/21-23、宮城・薬萊で日本初のUCIグラベル・ワールドシリーズ『HYSK GRAVEL CLASSIC YAKURAI 2026 presented by GRAVELKING』が開催された。パナレーサーが2026-28シーズンのタイトルスポンサーに就き、記念の限定『GRAVELKING ZX』を8/7に発売。",
+        "layer2": "先回り——店にどう効くか。国内のグラベル関心が“世界シリーズ上陸”で一気に可視化＝雑誌・完成車のオールロード化の流れとも符合する。ZXは45c／50cのみ・センタースリック＝高速グラベル志向で、ロードからの越境客（オールロード入口）に売りやすい商材。秋商戦の芯に『グラベル／オールロード＋ワイドタイヤ』を据えるべきサインだ。",
+        "sources": [
+          {
+            "t": "Panaracer（UCIグラベル特設）",
+            "u": "https://panaracer.com/sp-content/uci/",
+            "d": "2026-08-07"
+          },
+          {
+            "t": "Y's Road 大阪（GRAVELKING ZX）",
+            "u": "https://ysroad.co.jp/osaka/2026/08/14/263898",
+            "d": "2026-08-14"
+          }
+        ],
+        "status": "確定＝大会開催・パナ協賛・ZXは8/7発売"
+      },
+      {
+        "id": "20260826-ysroad-summerfair",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://ysroad.co.jp/kyoto/wp-content/uploads/2026/07/20260718_161329034.jpg",
+        "headline": "【経営メモ】ワイズロード『サマーフェア』は〜8/31で終盤——例：TREKドマーネAL4が9%OFF（型落ち）、本番の型落ち処分は10〜11月へ助走",
+        "layer1": "ワイズロードのONLINE限定サマーフェアが8/31まで開催中。京都店では2024年型落ちのTREK DOMANE AL 4が¥219,000→9%OFFの¥197,100（8/16まで）など、フェア中は3万円以上で無金利ローンも用意されていた。",
+        "layer2": "先回り——今“買う理由”をどう作るか。夏のボーナス期でも大手の値引きは10〜20%止まりで、“本番の型落ち処分”は中間決算後の9月末→10〜11月。だから今は『予約・下取り・取り置き』で客を囲い、秋の値ごろ玉を確保する助走期と位置づけたい。大手の抱き合わせ（車体＋パーツで10%OFF）は、客単価設計をそのまま真似られる好例。",
+        "sources": [
+          {
+            "t": "Y's Road 京都（サマーフェア）",
+            "u": "https://ysroad.co.jp/kyoto/2026/07/30/160968",
+            "d": "2026-07-30"
+          },
+          {
+            "t": "Y's Road ONLINE",
+            "u": "https://online.ysroad.co.jp/shop/default.aspx",
+            "d": "2026-08-25"
+          }
+        ],
+        "status": "確定＝サマーフェア〜8/31・ドマーネAL値引き例／“本番は秋”は市場観測"
+      },
+      {
+        "id": "20260826-30kmh-survey",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://news.mynavi.jp/article/20260819-4834429/ogp_images/ogp.jpg",
+        "headline": "【初中級・Xで話題】生活道路『30km/h』は9/1施行——世論は「正しく理解1割未満・“煽られる”不安3割」、ロード乗りが今すぐ押さえる要点",
+        "layer1": "9/1から中央線のない生活道路の法定速度が原則30km/hに（標識が無くても自動で30）。ただ直近の調査では、正しく理解している人は約1割、対象道路が分からない約4割、後続車に“煽られる”不安が約3割——Xでも『趣旨は賛成だが運用が不安』の声が拡散している。",
+        "layer2": "先回り——自転車乗りへの実害は? 速度規制の主対象はクルマだが、狭い生活道路で自転車とクルマの速度差が縮む＝理屈上は安全側に働く。一方で“煽り”リスクは車道端を走るローディーにも波及し得る。パリ等の欧州『ゾーン30』に倣う流れで、店頭では『9/1で何が変わり、何は変わらないか（青切符の違反項目とは別軸の話）』を落ち着いて説明できると信頼になる。昨日の“施行される”の続報＝今日は“世論・理解度”が新情報。",
+        "sources": [
+          {
+            "t": "マイナビニュース（理解度調査）",
+            "u": "https://news.mynavi.jp/article/20260819-4834429/",
+            "d": "2026-08-19"
+          },
+          {
+            "t": "JAF Mate（対象道路・違反リスク）",
+            "u": "https://jafmate.jp/safety/sp_20260821_1199619.html",
+            "d": "2026-08-21"
+          },
+          {
+            "t": "政府広報オンライン",
+            "u": "https://www.gov-online.go.jp/article/202606/radio-3618.html",
+            "d": "2026-06"
+          }
+        ],
+        "status": "確定＝9/1施行・調査数値／“煽り”懸念は世論・要冷静"
+      },
+      {
+        "id": "20260826-xco-watch-guide",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2024-12%2Ftom-pidcock-5-6757208b62b6f.jpg",
+        "headline": "【初中級】今週はMTB世界選手権——ロード乗りが『XCO／XCC／DH』を10倍楽しむ見方、なぜファンデルプールの挑戦が“事件”なのか",
+        "layer1": "8/26-30のMTB世界戦に合わせ、ロードしか見ない人向けに競技区分を整理。XCO＝クロスカントリー五輪（周回の登坂・テクニック勝負）、XCC＝ショートトラック（短距離高強度）、DH＝ダウンヒル（タイム一発の下り）。エリートXCOの本番は最終日8/30。",
+        "layer2": "先回り——なぜMVDPの挑戦が特別か。彼はロード・シクロクロス・MTBを跨ぐ稀有なオールラウンダーで、同一年にロードとMTBの二冠は男子史上ゼロ＝達成なら歴史的。ロードの実力者がMTBの“テクニックと心肺”でどこまで通用するかが見どころだ。機材も別物（サスペンション・幅広タイヤ・1×ドライブトレイン）で、ロードとの違いを知ると観戦が一気に面白くなる。",
+        "sources": [
+          {
+            "t": "UCI 公式（大会概要）",
+            "u": "https://www.uci.org/article/2026-uci-mountain-bike-world-championships-pidcock-and-van-der-poel-join-xco-line-up/2y71CSnQ5SzMkYJcZlf6cB",
+            "d": "2026-08-24"
+          },
+          {
+            "t": "idlprocycling（コース・日程）",
+            "u": "https://www.idlprocycling.com/mountain-biking/2026-mountain-bike-world-championships-this-course-and-schedule-await-mathieu-van-der-poel-and-tom-pidcock",
+            "d": "2026-08-24"
+          }
+        ],
+        "status": "確定＝競技区分・日程／“二冠は史上ゼロ”は事実"
+      },
+      {
+        "id": "20260826-shimano-price-up",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://shop-jp.shimano.com/cdn/shop/articles/shimano_logo_1200x1200_51a8765f-65ed-4bbc-94e2-7c4b65ac6698.jpg?v=1785122615",
+        "headline": "【経営メモ・市場】シマノが8/1に価格改定（値上げ）——ペダル・シューズ・クリート・LAZERヘルメット・PROパーツが約3〜5%高、仕入れ見直しのサイン",
+        "layer1": "シマノ日本法人が2026年8月1日0時から価格改定を実施。ペダル（例：PD-ED500が¥8,281→¥8,694）、シューズ（SH-RC102が¥14,850→¥15,620）、クリート、LAZERヘルメット、PRO（ハンドル・ステム・シートポスト・サドル・工具）などが概ね3〜5%の値上げに。7/31 23:59までの注文は旧価格。",
+        "layer2": "先回り——店の原価にどう効くか。今回はDi2などコア・コンポの改定ではなく、アクセ・アパレル・PRO周りが中心＝“完成車の心臓”より“付帯商材”の仕入れが上がる構図。売価の据え置きは粗利を削るので、対象カテゴリは早めに値付けを見直したい。円安・原材料高の基調が続くなら次はコア部品の番＝在庫の持ち方（早めの確保 vs 回転重視）も併せて再設計を。",
+        "sources": [
+          {
+            "t": "シマノ日本（価格改定のお知らせ）",
+            "u": "https://shop-jp.shimano.com/blogs/news/price_update",
+            "d": "2026-08-01"
+          }
+        ],
+        "status": "確定＝8/1改定・対象カテゴリと値上げ幅（コアコンポは今回対象外）"
+      }
+    ]
+  },
+  {
     "date": "2026-08-25",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ブエルタ第3は『雹嵐で史上まれな中止』——赤のポガチャルが自ら集団を止めました。今日8/25はアンドラ超級山岳でGCが初めて本気で動きます。異常気象・グラベルの成熟・13速の互換不安まで、いまの芯を12枚で。",
     "cards": [
