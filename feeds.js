@@ -1,5 +1,305 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-08-27",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。ブエルタは今日8/27・第6で『未舗装のダート激坂』が登場——昨日はブレナンが2勝目、GCはポガチャルが+3分21秒で盤石です。そして今夜はMTB世界戦XCC（ショートトラック）でファンデルプールvsピドコック、機材は中華FARSPORTSの『カーボンスポーク1,190g』とウィンスペースの完成車攻勢を底まで潜りました。",
+    "cards": [
+      {
+        "id": "20260827-vuelta-stage6",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-08%2Ftadej-pogacar-crosses-the-line-after-winning-stage-4-of-the-2026-vuelta-a-espana-6a8dcdc2dbfac.jpg",
+        "headline": "ブエルタ第6は今日8/27『未舗装のダート激坂』——177.4km・獲得3,100m、逃げかポガチャルか。昨日第5はブレナンが2勝目、GCは赤+3分21秒で盤石",
+        "layer1": "今日8/27の第6ステージはアルコセブレ→カステリョン。序盤は上り下りが続き、終盤にプエルト・エル・バルトロ（登坂の途中に『未舗装3.1km・平均10.8%』のダート区間）を挟んでカテゴリー1へ格上げ、頂上から残り約10kmは平坦。逃げ切りにもポガチャルの独壇場にもなり得る難コース。",
+        "layer2": "GCはポガチャル（UAE）が総合11時間26分01秒でリード、2位ログリッチ+3分21秒、3位マス+3分32秒、4位クス+3分44秒、5位オンリー+3分45秒。第4アンドラの『50km独走』で早くも王手。ダート区間はMTB出身の逃げ屋に理があり“集団が割れる”設計だが、赤が『ここでも最強』を見せに来れば逃げは飲まれる。ポイント賞・山岳賞もポガチャルが二冠状態。",
+        "sources": [
+          {
+            "t": "La Vuelta 公式 Stage 6",
+            "u": "https://www.lavuelta.es/en/stage-6",
+            "d": "2026-08-27"
+          },
+          {
+            "t": "CyclingUpToDate（第6プレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/vuelta-a-espana-2026-stage-6-preview-profiles-favourites-predictions-pogacar-likely-to-win-grave-climb-marked-day",
+            "d": "2026-08-26"
+          },
+          {
+            "t": "CyclingUpToDate（第5後のGC/各賞）",
+            "u": "https://cyclinguptodate.com/cycling/vuelta-a-espana-2026-classifications-ppdate-utage-5-pogacar-continues-to-lead-overall-points-and-kom-classifications",
+            "d": "2026-08-26"
+          }
+        ],
+        "status": "確定＝第5結果とGC（ブレナン優勝／ポガチャル赤+3:21）。曖昧＝第6の勝者は未実施（逃げ vs ポガチャルは五分、ダート区間が鍵）。"
+      },
+      {
+        "id": "20260827-brennan-drama",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-08%2Fcaptura-de-ecra-2026-08-26-162952-6a8f067dc93d5.png",
+        "headline": "【人間ドラマ】21歳ブレナン、GTデビューでいきなり『2勝』——ファンアールト＆ラポートが敷いた“赤絨毯”を、弾丸のように突き抜けた",
+        "layer1": "昨日8/26の第5、マシュー・ブレナン（英・ヴィスマ）が第2に続く2勝目。誕生日から数週間で21歳、初めての3週間レースで“スプリントの王”に。2着メーウス、3着アルバネーゼ。",
+        "layer2": "勝因は個の脚だけでなく『チームの完璧な発射台』。総合を捨てたはずのヴィスマが、ファンアールトとラポートを最後の数百mまで先導役に投入し、ブレナンを“レッドカーペット”で送り出した。GTデビューで2勝は、同世代（ヴィダール20歳・ヤング等）と並ぶ“新世代の台頭”の象徴。うちの客層にも刺さる「若手が主役になる瞬間」の物語。",
+        "sources": [
+          {
+            "t": "Velo（第5レポート）",
+            "u": "https://velo.outsideonline.com/road/road-racing/vuelta-a-espana/vuelta-a-espana-stage-5-report-results",
+            "d": "2026-08-26"
+          },
+          {
+            "t": "IDL ProCycling（本人コメント）",
+            "u": "https://www.idlprocycling.com/cycling/matthew-brennan-knows-who-to-thank-after-his-second-vuelta-a-espana-stage-win-to-be-honest-it-went-pretty-smoothly",
+            "d": "2026-08-26"
+          },
+          {
+            "t": "Wikipedia（Matthew Brennan）",
+            "u": "https://en.wikipedia.org/wiki/Matthew_Brennan_(cyclist)",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝2勝・順位・チーム。曖昧＝年齢は各媒体「21」で統一（前季カタルーニャ時点の“19”表記から誕生日を経て更新済み）。"
+      },
+      {
+        "id": "20260827-mtb-worlds-xcc",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.brujulabike.com/media/196282/conversions/van-der-poel-pidcock-val-di-sole-1240.jpg",
+        "headline": "今夜8/27・MTB世界戦は『XCC（ショートトラック）』本番——ファンデルプールvsピドコックvsピーテルセ、エリートXCO決戦は8/30",
+        "layer1": "ヴァルディソーレのMTB世界選手権、今日8/27はクロスカントリー・ショートトラック（XCC）。女子エリート17:45／男子エリート18:30（現地）。20分前後の全開・脱落方式で、日曜8/30のXCO本番へ向けた前哨戦にして“今夜の見せ場”。",
+        "layer2": "注目はファンデルプールの二冠賭け（同一年ロード＆MTB）。ただし史上、XCOでピドコックに“先着できたのは1度だけ”という相性の壁があり、五輪MTB2連覇のピドコックが本命。女子はピーテルセが軸。XCCは短距離高強度でロード的な脚が効きやすく、ロード出身のVdPにとって“最も勝機のある種目”という見方も。ダウンヒルは8/28予選〜8/29決勝、XCO（真の頂点）は8/30。",
+        "sources": [
+          {
+            "t": "Olympics.com（MTB世界戦・全日程）",
+            "u": "https://www.olympics.com/en/news/uci-mountain-bike-world-championships-2026-full-schedule-all-results-medals",
+            "d": "2026-08-25"
+          },
+          {
+            "t": "Brujula Bike（VdP×Pidcock 対戦史）",
+            "u": "https://en.brujulabike.com/der-poel-has-finished-ahead-of-pidcock-just-once-in-xco-a-look-back-at-all-their-clashes-ahead-of-the-val-di-sole-world-championships/",
+            "d": "2026-08-24"
+          }
+        ],
+        "status": "確定＝日程（8/27=XCC、8/30=XCOエリート）と主役3人。曖昧＝勝敗は未実施。現地時刻は媒体表記ベース。"
+      },
+      {
+        "id": "20260827-endurance-year-boty",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/c8c098cb-197f-47a8-9c1e-94dbf2303322/thumbnails/291c51c2-0021-4345-9b76-09cbda911c43.jpeg?appId=32337f2f-7841-4ef6-a233-d1f001580530&w=1200",
+        "headline": "【トレンド】BikeRadar『2026年間ベストバイク』は今日8/27発表——今年の主役は“エンデュランス”、レース機材の技術がそのまま快適系へ降りてきた年",
+        "layer1": "BikeRadarのBike of the Year 2026（レース／エンデュランス／グラベルの3冠＋総合）が今日8/27に発表。編集部は「2026はエンデュランスの年」と断言、キャニオン/リブル/ピナレロ/サーヴェロ/トレック/キューブが一斉に本気の新型を投入した。",
+        "layer2": "“良いエンデュランス”の共通点は4つ——①レースと同等のロードマナー（オフロード寄りに緩めない）②フェンダー台座③ダウンチューブ収納/ベントーボックス台座④レース機材と同じ作り込み。争点は『速さと快適の境界が溶けた』こと＝32C超の太タイヤ×広内幅で、エンデュランスが“遅い快適バイク”でなくなった。うちの提案（中華カーボンの太タイヤ運用・ワイドリム）と地続きの流れ。",
+        "sources": [
+          {
+            "t": "BikeRadar（2026はエンデュランスの年）",
+            "u": "https://www.bikeradar.com/features/opinion/2026-is-the-year-of-the-endurance-bike",
+            "d": "2026-08-15"
+          },
+          {
+            "t": "BikeRadar（BOTY 2026・発表8/27）",
+            "u": "https://www.bikeradar.com/features/bike-of-the-year/bike-of-the-year-2026",
+            "d": "2026-08-19"
+          }
+        ],
+        "status": "確定＝発表日8/27・カテゴリー構成・4つの共通点。曖昧＝各カテゴリーの受賞車は本日発表待ち（速報が出たら差し替え）。"
+      },
+      {
+        "id": "20260827-farsports-carbon-spokes",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "http://www.farsports.com/cdn/shop/files/10_ec5acbbd-2b7f-4a2a-9c73-9da9106c301f.jpg?v=1762943920",
+        "headline": "【ホイール】中華FARSPORTSの2026『Sシリーズ＝カーボンスポーク1,190g』——大手が今年やっと出した技術を、1/3の価格で先取り",
+        "layer1": "FARSPORTS 2026 Sシリーズは全面カーボンスポーク化。S4(45mm)1,190g／S5(50mm)1,220g／S6(58.5mm)1,320g、前後18本2:1組、フックド内幅24/外幅31.5mm、チューブレス対応、実売$1,359（約20万円）。",
+        "layer2": "妙味は“横風で従来のフラット幅広より低ドラッグ”という新形状のカーボンスポークを、この価格で載せてきた点。シマノもデュラエースWH-R9370で初のカーボンスポークを投入（全国試乗会8/8〜9/23）したが、価格帯は中華上位の約3倍。つまり2026は『カーボンスポークが新主戦場』で、体感差の説明軸は依然“規格・保証・補修部品の入手性”——ここがうち（FARSPORTS/CRW/8LIEN等の正規サポート）の効く領域。",
+        "sources": [
+          {
+            "t": "FARSPORTS 公式（2026 New S Series）",
+            "u": "https://www.farsports.com/products/farsports-2026-new-s-series",
+            "d": "2026-08"
+          },
+          {
+            "t": "Panda Podium（S Series 諸元）",
+            "u": "https://www.pandapodium.cc/product/farsports-2026-s-series-carbon-spokes-wheelset/",
+            "d": "2026-08"
+          },
+          {
+            "t": "road.cc（シマノ新DAホイール=初カーボンスポーク）",
+            "u": "https://road.cc/tech-news/shimano-launches-lighter-more-aero-dura-ace-wheels",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝FARSPORTS重量/価格/構成、シマノのカーボンスポーク参入。曖昧＝FARSPORTS公式ページに明確な発売日表記なし（“2026レンジ”の現行品として掲載）。"
+      },
+      {
+        "id": "20260827-winspace-m5",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://www.cyclowired.jp/sites/default/files/images_title/news/2026/08/RET-M5%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9_9339-%EF%BD%BF%EF%BD%BD%EF%BD%B1%EF%BD%B4-2.jpg",
+        "headline": "【経営メモ・市場】ウィンスペースが最安『M5』を国内投入——フレーム23.8万・105Di2完成車44.8万、9月納車。中華が“完成車のエントリー価格帯”に降りてきた",
+        "layer1": "ウィンスペースがC5後継のエントリー新型『M5』を発表。フレームセット238,000円、105機械式SPORTS 318,000円、105Di2 SPORTS 448,000円（いずれも税込）、9月納車予定。ブログ/Xでも『中華完成車で十分か』論が再燃。",
+        "layer2": "素材はT700+T800+M40、最大700×32C対応、整備性重視のT47ねじ切りBB、XXS〜XLの6サイズ（推奨身長146〜193cm）。“ホイールまでカーボン＋電動105で50万円切り”のM6に続き、ウィンスペースは国内300店超の正規網でサポートを訴求。＝中華が『ホイール単体』から『完成車のエントリー〜ミドル』へ主戦場を上げた合図。うちは同価格帯でどう戦うか（フィッティング・補修・ホイールアップグレード提案で付加価値）を今すぐ言語化すべき局面。",
+        "sources": [
+          {
+            "t": "cyclowired（M5発表）",
+            "u": "https://www.cyclowired.jp/news/node/393113",
+            "d": "2026-08-15"
+          },
+          {
+            "t": "サイクルスポーツ（M5・価格詳報）",
+            "u": "https://www.cyclesports.jp/news/new-product/166759/",
+            "d": "2026-08-15"
+          },
+          {
+            "t": "Y's Road 船橋（M5入荷告知）",
+            "u": "https://ysroad.co.jp/funabashi/2026/08/15/147741",
+            "d": "2026-08-15"
+          }
+        ],
+        "status": "確定＝価格・素材・サイズ・納期（各媒体一致）。曖昧＝『Xで論争』は入口。裏取りは公式スペックで完了、盛らない。"
+      },
+      {
+        "id": "20260827-2027-price-hike",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://www.1jyo.com/wp/wp-content/uploads/2026/06/4d575f174b97c1f460b7b8afdef35ace.jpg",
+        "headline": "【経営メモ・市場②】大手2027モデルは『値上げ＋型番更新』で走り出す——シマノ8/1改定と“型落ち処分本番10-11月”の二層で、今こそ下取り囲い込み",
+        "layer1": "トレックなど2027モデルが順次発表。例：ドマーネAL4が219,000→229,000円（11速Tiagraへ更新）、マドンSLはSL5=399,000／SL6=650,000／SL7=850,000円。上流ではシマノが8/1にペダル・シューズ・LAZER等を約3〜5%値上げ済み。",
+        "layer2": "経営の読み：①2027は“値上げ＋装備更新”が基調＝新型は高くなる。②その裏で『2026以前の型落ち処分の本番は10〜11月』。この二層を客に翻訳し「今の型落ちが実質の底値、2027は上がる」と示せば、夏に迷った客の下取り・予約を今から囲える。中華完成車（M5等）×大手値上げで“価格帯の挟み撃ち”が強まる中、うちの武器は納期・整備・下取りの三点セット。",
+        "sources": [
+          {
+            "t": "1jyo（トレック2027・価格改定/新色）",
+            "u": "https://www.1jyo.com/news/?p=104588",
+            "d": "2026-06"
+          },
+          {
+            "t": "シマノ（2026/8/1 価格改定のお知らせ）",
+            "u": "https://shop-jp.shimano.com/blogs/news/price_update",
+            "d": "2026-08-01"
+          },
+          {
+            "t": "サイクルスポーツ（2027年モデル一覧）",
+            "u": "https://www.cyclesports.jp/tags/2027%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝トレック2027価格例・シマノ8/1改定。曖昧＝“処分本番10-11月”は例年動向にもとづく経営読み（断定でなく戦略仮説）。"
+      },
+      {
+        "id": "20260827-32c-t47-standard",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.funq.jp/contents/uploads/2021/02/24002929/ki210126_22I3759-1.jpg",
+        "headline": "【機材】完成車が『32Cタイヤ対応＋T47ねじ切りBB』へ揃ってきた——エアロも快適も“太タイヤ前提”、整備性で選ぶ時代",
+        "layer1": "2026〜27の新型は、エアロ機でも32Cクリアランスを確保する例が増加（例：ウィンスペースM5=最大32C・T47採用）。エンデュランス勢も収納台座・フェンダー台座・太タイヤを標準化し、“細タイヤ高圧”前提が崩れてきた。",
+        "layer2": "ポイントは2つ。①T47（ねじ切り大径BB）回帰＝プレスフィットの異音・圧入トラブルを避け、整備性と剛性を両立する潮流。②32C対応で選択肢が28→30→32Cへ。太くしても内幅ワイドリムなら空力ペナルティが小さく、乗り心地と転がりが両立。＝購入時に見るべきは“最大タイヤ幅”と“BB規格”。うちの中華カーボン提案（ワイドリム×太タイヤ×低圧）とも噛み合う。",
+        "sources": [
+          {
+            "t": "cyclowired（ウィンスペースM5・32C/T47）",
+            "u": "https://www.cyclowired.jp/news/node/393113",
+            "d": "2026-08-15"
+          },
+          {
+            "t": "BikeRadar（エンデュランスの年・太タイヤ標準化）",
+            "u": "https://www.bikeradar.com/features/opinion/2026-is-the-year-of-the-endurance-bike",
+            "d": "2026-08-15"
+          }
+        ],
+        "status": "確定＝M5の32C/T47、エンデュランス機の傾向。曖昧＝“全完成車が32C”ではない（レース系は28-30C留めも多い）。"
+      },
+      {
+        "id": "20260827-tubeless-low-pressure",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.funq.jp/contents/uploads/2021/02/24002929/ki210126_22I3759-1.jpg",
+        "headline": "【初中級・Xで定番の論争】まだ7bar入れてる?——2026の“適正空気圧”はもっと低い。ワイド化・チューブレス・フックレスで常識が変わった",
+        "layer1": "『ロードは7気圧』はもう古い、という話がXで定期的に燃える。タイヤが25→28→30Cへ太くなり、チューブレス化・リムのワイド化・フックレス登場で、推奨空気圧はぐっと下がっているのが今の標準。",
+        "layer2": "先回りの答え：適正は“体重×タイヤ幅×路面”で決まる。目安として、太いほど・重心が軽いほど低圧でOK（例：28C・体重60kg台なら前後4bar台に入ることも珍しくない）。フックレスリムは規格上限（多くは5.0〜5.5bar程度）を超えないのが絶対条件で、上限内でさらに低圧が推奨。高圧で“跳ねて遅い・疲れる”のは初心者あるある。まず取説の対応幅と上限を確認→低めから0.2bar刻みで詰めるのが安全。数値は必ずタイヤ/リムの公表値で裏取りを。",
+        "sources": [
+          {
+            "t": "Bicycle Club（7bar高すぎ・適正検証）",
+            "u": "https://www.funq.jp/bicycle-club/article/675507/",
+            "d": "2026-02"
+          },
+          {
+            "t": "最適空気圧2026年版（体重別早見）",
+            "u": "https://datsusara-by50.com/optimum-air-pressure/",
+            "d": "2026"
+          },
+          {
+            "t": "Mavic（適正空気圧の目安）",
+            "u": "https://mavic.jp/blogs/blog/product-58_20230616",
+            "d": "2023-06"
+          }
+        ],
+        "status": "曖昧＝空気圧の“正解値”は車体/体重/路面で変動（例外規定的に幅で提示）。フックレス上限だけは各社公表値で必ず裏取り＝ここは断定禁物。"
+      },
+      {
+        "id": "20260827-mtb-xcc-howto",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.brujulabike.com/media/196282/conversions/van-der-poel-pidcock-val-di-sole-1240.jpg",
+        "headline": "【初中級】今夜のMTB世界戦『XCC』を10倍楽しむ超入門——20分の全開・脱落方式、ロード脚が効く“最速の見せ場”",
+        "layer1": "今夜8/27のXCC（クロスカントリー・ショートトラック）は、1周1〜2分の短周回を20分＋数周、後方から一定数が脱落していく方式。XCO（日曜8/30）と違い“純粋な脚と度胸の全開勝負”で、初めてでも展開が分かりやすい。",
+        "layer2": "見どころの読み方：①スタート直後の先頭争い＝XCCは位置取りが全て、出遅れると即脱落圏。②ロード出身のファンデルプールがなぜ有利か＝短時間高強度はロードの土俵、テクニカルなXCOより差が出にくい。③日曜XCOの“伏線”＝今夜の調子と先頭グループ構成が本番の前哨。ロード観戦しかしない人にこそ、選手の別の顔が見える一戦。",
+        "sources": [
+          {
+            "t": "Olympics.com（MTB世界戦・日程/種目）",
+            "u": "https://www.olympics.com/en/news/uci-mountain-bike-world-championships-2026-full-schedule-all-results-medals",
+            "d": "2026-08-25"
+          },
+          {
+            "t": "Velo（スタートリスト/見方）",
+            "u": "https://velo.outsideonline.com/mountain/2026-mountain-bike-world-championships-start-lists-how-to-watch/",
+            "d": "2026-08-24"
+          }
+        ],
+        "status": "確定＝XCCの方式・日程。曖昧＝勝敗は未実施、現地時刻は媒体表記。"
+      },
+      {
+        "id": "20260827-gravel-in-grandtour",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-08%2Ftadej-pogacar-crosses-the-line-after-winning-stage-4-of-the-2026-vuelta-a-espana-6a8dcdc2dbfac.jpg",
+        "headline": "【トレンド】グランツールに『ダート区間』が定着——今日のブエルタ第6は未舗装10.8%激坂、機材はロードのまま“グラベル的走り”が問われる",
+        "layer1": "今日8/27のブエルタ第6は、山頂手前に未舗装3.1km・平均10.8%のダート区間（Tramo de Tierra）を仕込む。舗装ロードの車体でダートを登る“ハイブリッド設計”が、ここ数年グランツールの定番演出になってきた。",
+        "layer2": "何が問われるか：①タイヤ選択＝細すぎればパンク/失速、太めのチューブレスが安全という判断がプロでも働く（=市販の太タイヤ化トレンドと同じ理屈）。②位置取り＝ダート入口の“前方どり”が全て、渋滞や落車で数十秒が飛ぶ。③総合勢のリスク管理＝ポガチャルが攻めるか、無難に守るか。グラベルとロードの境界が溶ける流れ（オールロード化・32C標準化）が、最高峰の舞台でも“見せ場”として制度化された象徴。うちの太タイヤ・ワイドリム提案の追い風。",
+        "sources": [
+          {
+            "t": "La Vuelta 公式 Stage 6（コース）",
+            "u": "https://www.lavuelta.es/en/stage-6",
+            "d": "2026-08-27"
+          },
+          {
+            "t": "Domestique（ブエルタ2026・ステージ解説）",
+            "u": "https://www.domestiquecycling.com/en/features/vuelta-a-espana-2026-route-stage-by-stage-guide/",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝第6にダート区間あり（距離/勾配）。曖昧＝プロの実際のタイヤ選択は当日発表待ち（要裏取り）。"
+      }
+    ]
+  },
+  {
     "date": "2026-08-26",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。ブエルタは今日8/26が第5ステージ、そしてMTB世界戦がヴァルディソーレで開幕——ポガチャルの『50km独走』とファンデルプールの“二冠挑戦”が今日の主役です。新鮮どころを底まで潜って揃えました。",
     "cards": [
