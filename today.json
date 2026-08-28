@@ -1,174 +1,173 @@
 {
-  "date": "2026-08-28",
-  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ブエルタは今日8/28・第7で今大会2つ目の『山頂フィニッシュ』（バルデリナレス標高1,963m）——昨日第6はポガチャルが未舗装激坂で3勝目、ですが復活したエンリク・マスがくらいつき『総合2位』へ浮上、ポガチャルも「正直ショックだった」。MTB世界戦はXCショートトラックでスティガー＆ボワシが虹、本番XCOは8/30・ファンデルプールの『同一年ロード＆MTB二冠』へ。機材はBikeRadar年間ベストで“グラベルが総合王者”、スペシャライズドSL9が廉価3モデルで一気に降りてきました。",
+  "date": "2026-08-29",
+  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ブエルタは今日8/29が『海岸のスプリント』（プソル→シェラコ171km）——昨日第7はウノエックスが、ノルウェー国王ハラルド5世崩御の数時間後に『喪章の1-2』、レクネスンがGT初勝利、GCはポガチャル盤石（マス+3:50）。明日8/30はMTB世界戦XCO本番で、ファンデルプールの『同一年ロード＆MTB二冠』へ最後の1ピース。機材はシマノ13速デュラエースR9300の実車がブエルタで続々目撃、国内は新デュラC50カーボンスポークのインプレが出そろい。市場は夏セールがあと2日、そして『清算』局面の逆風を整備力で受ける話まで。",
   "cards": [
     {
-      "id": "20260828-vuelta-stage7",
+      "id": "20260829-vuelta-stage8",
       "genre": "race",
       "genreLabel": "RACE",
       "genreJa": "レース",
       "hot": true,
-      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-08%2Fcaptura-de-ecra-2026-08-27-162758-6a905790857b2.png",
-      "headline": "ブエルタ第7は今日8/28『今大会2つ目の山頂フィニッシュ』——バルデリナレス（標高1,963m）へ149.8km・獲得3,500m。昨日第6はポガチャルが未舗装激坂で3勝目、マスが総合2位へ浮上",
-      "layer1": "今日8/28の第7はバル・ダルバ→アラゴンの山岳、スキー場アラモン・バルデリナレスへ登る今大会2度目の頂上決戦。最後の登りは9.8km・平均5.9%（最大13%）。昨日第6（8/27）はポガチャルが未舗装区間エル・バルトロで仕掛け、マスとの一騎打ちを制して3勝目。",
-      "layer2": "第6後の総合はポガチャル（UAE）が首位を維持、2位に浮上したマス（モビスター）が+3分34秒、3位ログリッチ+4分21秒（マスはログリッチに47秒差）。第7は逃げ切りも山頂勝負も両にらみだが、頂上フィニッシュは基本『GC勢の選別』に働く設計。ポガチャルが赤ジャージのまま“頂上でもう一度”見せに来るのか、マスの勢いが続くのかが焦点。",
+      "image": "https://cdn.mos.cms.futurecdn.net/7d6FJ3mhLbq94pfqzgq9TG-2560-80.jpg",
+      "headline": "ブエルタ第8は今日8/29『バレンシア海岸のスプリント』——プソル→シェラコ171km・平坦。昨日第7はレクネスンが独走勝利、GCはポガチャル盤石（マス+3:50・ログリッチ+4:50）",
+      "layer1": "今日8/29の第8はプソルからシェラコへ171kmのほぼ平坦、数少ない大集団スプリントの一日。昨日第7（山岳・アラモンバルデリナレス）はウノエックスのA・レクネスンが終盤の登りで独走、同僚ヨハネセンとの『ノルウェー1-2』、ファンアールトは3位だった。",
+      "layer2": "総合は第7後もポガチャル（UAE）が赤を堅持、2位マス（モビスター）+3分50秒、3位ログリッチ+4分50秒。逃げが山岳ポイントも勝利も持ち去ったためGC上位の差はほぼ動かず。今日はフィリプセン／コーイ／メルリエ級スプリンターの出番＝ポイント賞も動く。ファンアールトは第7の中間スプリント制圧でポガチャルとのポイント差を33→13へ縮め、緑も射程に入れてきた。",
       "sources": [
-        { "t": "La Vuelta 公式 Stage 7", "u": "https://www.lavuelta.es/en/stage-7", "d": "2026-08-28" },
-        { "t": "Cyclingnews（第6・ポガチャル3勝目/降りで肝を冷やす）", "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-tadej-pogacar-survives-near-crash-on-descent-for-third-victory-of-the-race-on-stage-6/", "d": "2026-08-27" },
-        { "t": "CyclingUpToDate（第6結果）", "u": "https://cyclinguptodate.com/cycling/results-vuelta-a-espana-2026-stage-6-tadej-pogacar-survives-off-road-scare-and-astonishing-enric-mas-comeback-to-win-gravel-climb-thriller", "d": "2026-08-27" },
-        { "t": "CyclingFlash（第6後のGC差）", "u": "https://cyclingflash.com/news/vuelta-2026-these-are-the-gaps-in-the-general-classification-after-stage-six", "d": "2026-08-27" }
+        { "t": "La Vuelta 公式 Stage 8", "u": "https://www.lavuelta.es/en/stage-8", "d": "2026-08-29" },
+        { "t": "Cyclingnews（第7・ウノエックス1-2）", "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-andreas-leknessund-tobias-johannessen-solo-away-from-wout-van-aert-in-uno-x-mobility-1-2-on-stage-7/", "d": "2026-08-28" },
+        { "t": "CyclingUpToDate（第7結果・GC）", "u": "https://cyclinguptodate.com/cycling/live-vuelta-a-espana-stage-7-star-studded-23-man-breakaway-goes-clear-will-la-vuelta-crown-a-third-stage-winner-today", "d": "2026-08-28" },
+        { "t": "Rouleur（第8プレビュー・平坦スプリント）", "u": "https://www.rouleur.cc/racing/vuelta-a-espana-2026-stage-8-preview", "d": "2026-08-28" }
       ],
-      "status": "確定＝第6結果とGC（ポガチャル3勝目／マス総合2位+3:34／ログリッチ3位+4:21）。曖昧＝第7の勝者は未実施（頂上フィニッシュ、逃げ vs GC勢は五分）。"
+      "status": "確定＝第7結果（レクネスン優勝・ウノエックス1-2・van Aert3位）とGC（ポガチャル首位／マス+3:50／ログリッチ+4:50）。曖昧＝第8勝者は未実施（平坦・スプリント濃厚だが逃げ切りの目も残る）。"
     },
     {
-      "id": "20260828-mtb-xcc-worlds",
+      "id": "20260829-unox-king-harald",
       "genre": "race",
       "genreLabel": "RACE",
       "genreJa": "レース",
       "hot": false,
-      "image": "https://images.ctfassets.net/761l7gh5x5an/47frRId6XjNd0TFungwe0a/df93ad98e17329358d6a8e6694cf2fa0/AW6_5785.jpg?f=&fit=thumb&q=80&fl=progressive&w=1200&h=800",
-      "headline": "MTB世界戦・ショートトラック（XCC）決着——女子はスティガーがE・リチャーズを『差し切り』虹、男子はボワシが世界王者。本番XCOは8/30",
-      "layer1": "昨日8/27、ヴァルディソーレのXCC（ショートトラック世界選手権）は、女子エリートでラウラ・スティガー（オーストリア）がイヴィー・リチャーズ（英）をゴール勝負で退けて優勝、3位はジーナ・フライ（スイス）。男子エリートはアドリアン・ボワシ（仏）が世界王者に。",
-      "layer2": "注目のファンデルプールとピドコックは、いずれもXCCを『回避』——狙いを8/30の本番XCO一本に絞った。女子の大本命プック・ピーテルセもXCCは8位と抑え気味で、こちらもXCOに照準。つまり“前哨戦”のXCCは新旧の勢いが入れ替わり、日曜の頂上決戦の伏線に。ロード界の主役が本気でMTB世界選手権を獲りに来る、その序章。",
+      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-08/captura-de-ecra-2026-08-28-164343-6a91acbbd360c.png",
+      "headline": "【人間ドラマ】ウノエックスの『ノルウェー1-2』は、国王ハラルド5世崩御の数時間後だった——黒い喪章のレクネスン、グランツール初勝利を祖国へ捧げる",
+      "layer1": "昨日8/28の朝、ノルウェー国王ハラルド5世が89歳で崩御。その数時間後に始まった第7で、ウノエックス・モビリティのレクネスンが終日逃げてグランツール初勝利、同僚ヨハネセンが2位に続いて『ノルウェー1-2』を決めた。",
+      "layer2": "選手は黒い喪章を着けて出走し、丸一日の逃げを『祖国への追悼』に変えた。プロコンチから昇格してきた小さなノルウェーチームが、国家の悲しみの日に最大の物語を書いた形。逃げの立役者ファンアールト（3位）は「もう少し出せたかもしれない」と悔しさを口にしたが、最後は同じ逃げ仲間のノルウェー勢が主役をさらった。結果速報の裏に、こういう『なぜ心が動くか』がある。",
       "sources": [
-        { "t": "CyclingFlash（ピーテルセXCC8位・各結果）", "u": "https://cyclingflash.com/news/puck-pieterse-finishes-eighth-at-world-short-track-mountain-biking-championships", "d": "2026-08-27" },
-        { "t": "Cyclingnews（MTB世界選手権2026）", "u": "https://www.cyclingnews.com/races/uci-mountain-bike-world-championships-2026/", "d": "2026-08-27" },
-        { "t": "Pinkbike（日程・スタートリスト）", "u": "https://www.pinkbike.com/news/2026-val-di-sole-xc-world-championships-preview-rider-list-race-schedule-and-how-to-watch.html", "d": "2026-08" }
+        { "t": "CyclingUpToDate（喪章の1-2・国王崩御）", "u": "https://cyclinguptodate.com/cycling/live-vuelta-a-espana-stage-7-star-studded-23-man-breakaway-goes-clear-will-la-vuelta-crown-a-third-stage-winner-today", "d": "2026-08-28" },
+        { "t": "Cyclingnews（レクネスン独走・1-2）", "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-andreas-leknessund-tobias-johannessen-solo-away-from-wout-van-aert-in-uno-x-mobility-1-2-on-stage-7/", "d": "2026-08-28" },
+        { "t": "CyclingFlash（van Aert「もう少し出せた」）", "u": "https://cyclingflash.com/news/wout-van-aert-regrets-conserving-energy-maybe-there-was-a-bit-more-to-give", "d": "2026-08-28" }
       ],
-      "status": "確定＝XCC結果（女子スティガー／男子ボワシ、VdP・ピドコックはXCC回避）。曖昧＝XCO（8/30）の結果は未実施。"
+      "status": "確定＝ハラルド5世崩御（8/28朝・89歳）・喪章での出走・ウノエックス1-2・レクネスンGT初勝利。曖昧＝チーム内の追悼コメント詳細は各紙で温度差あり。"
     },
     {
-      "id": "20260828-mvdp-double-gamble",
+      "id": "20260829-mtb-xco-worlds",
       "genre": "race",
       "genreLabel": "RACE",
       "genreJa": "レース",
       "hot": false,
-      "image": "https://escapecollective.com/content/images/size/w1200/2026/08/Val-di-Sole-XCO-Men-1.jpg",
-      "headline": "【人間ドラマ】ファンデルプールの『同一年 ロード＆MTB二冠』への賭け——8/30ヴァルディソーレXCO、相手はピドコック、前人未到へ最後のピース",
-      "layer1": "今週の世界選手権のハイライトは8/30のXCO（クロスカントリー・オリンピック）。ロードの王ファンデルプールが、MTBのレインボー——キャリアで唯一“獲っていない”タイトルに挑む。立ちはだかるのは近年のXCO最強ピドコック。",
-      "layer2": "『同じ年にロードとMTB両方の世界王者』は、機材も走りも別競技に近く、トップ選手でもほぼ成し得てこなかった領域。VdPはXCCを捨ててコンディションと本番の路面把握に集中、対するピドコックもXCC回避で“XCOに全振り”。二人の相性は過去XCOでほぼピドコック優勢とされ、番狂わせを起こせるかが見どころ。結果速報より、『なぜ彼がまたゼロから別競技の頂点を獲りにいくのか』という物語がうちの客層に刺さる。",
+      "image": "https://cdn.brujulabike.com/media/196455/conversions/mundial-xco-favoritos-horarios-donde-ver-1240.jpg",
+      "headline": "明日8/30はMTB世界戦の本番『エリートXCO』——ファンデルプールの『同一年ロード＆MTB二冠』へ最後の1ピース、相手は絶好調ボワシ＆W杯総合首位マルタン",
+      "layer1": "ヴァルディソーレのエリートXCO（1周3.5km・獲得155m/周のパンチーな周回）は明日8/30に決着。前哨のショートトラック（XCC・8/27）は、ファンデルプールもピドコックも『回避』して狙いを本番一本に絞った。",
+      "layer2": "ファンデルプールは先週レ・ジェのXCOで2位と近年最高の手応え。だが今季W杯を支配するのはL・マルタン（総合首位・2勝2度の2位）とA・ボワシ（XCC世界王者・W杯2勝）の若手フランス勢、加えて五輪2冠のピドコック、連覇中の世界王者ハザリー。女子はプック・ピーテルセが本命。vdPが勝てば『同一年にロードとMTBの世界王者』という前人未到で、9月のロード世界戦へ向けた最高の布石にもなる。",
       "sources": [
-        { "t": "Escape Collective（XCO世界戦プレビュー）", "u": "https://escapecollective.com/who-will-leave-italy-with-rainbows-val-di-sole-xc-world-championships-preview/", "d": "2026-08-27" },
-        { "t": "UCI（ピドコック＆VdPがXCO出場）", "u": "https://www.uci.org/article/2026-uci-mountain-bike-world-championships-pidcock-and-van-der-poel-join-xco-line-up/2y71CSnQ5SzMkYJcZlf6cB", "d": "2026-08" },
-        { "t": "Brújula Bike（VdPがショートトラック回避）", "u": "https://en.brujulabike.com/der-poel-pulls-out-of-the-short-track-world-championships/", "d": "2026-08" }
+        { "t": "Brujula Bike（XCO本命・日程）", "u": "https://en.brujulabike.com/der-poel-and-pidcock-head-to-the-xco-world-championships-facing-an-in-form-boichis-favourites-schedules-start-lists-and-where-to-watch/", "d": "2026-08-28" },
+        { "t": "UCI（ピドコック＆vdP XCO出場）", "u": "https://www.uci.org/article/2026-uci-mountain-bike-world-championships-pidcock-and-van-der-poel-join-xco-line-up/2y71CSnQ5SzMkYJcZlf6cB", "d": "2026-08" },
+        { "t": "Velo（観戦ガイド・スタートリスト）", "u": "https://velo.outsideonline.com/mountain/2026-mountain-bike-world-championships-start-lists-how-to-watch/", "d": "2026-08" }
       ],
-      "status": "確定＝XCO出場と両者のXCC回避、8/30開催。曖昧＝二冠の成否は当日次第（歴史的難度、ピドコックが本命視）。"
+      "status": "確定＝XCO本番は8/30・XCCはvdP/ピドコックが回避。曖昧＝勝者未定（vdP有力もマルタン／ボワシ／ハザリーが強力な対抗）。"
     },
     {
-      "id": "20260828-mas-shock",
-      "genre": "race",
-      "genreLabel": "RACE",
-      "genreJa": "レース",
+      "id": "20260829-dura-ace-r9300",
+      "genre": "parts",
+      "genreLabel": "PARTS",
+      "genreJa": "パーツ",
       "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/x95sC8eRpV3thnhQgo4RgK-2000-80.jpg",
-      "headline": "【人間ドラマ】マス、未舗装激坂で王者に食らいつき『総合2位』へ——ポガチャル「正直、ちょっとショックだった」。だが本人は「良い日、でも過大評価しないで」",
-      "layer1": "昨日第6、ポガチャルがエル・バルトロの未舗装区間で単独に持ち込みかけたその瞬間、エンリク・マス（モビスター）が砂利の激坂で追いつき、頂上まで並走。GCでログリッチを飛び越え総合2位に浮上した。",
-      "layer2": "ポガチャルは「マスが戻ってきたのを見て、正直ちょっとショックだった」と告白——今大会“隙のない赤”に、はっきりした綻びが見えた一日。一方のマスは勝ち急がず「良い日だったけど、これを大きく捉えすぎないで」と冷静。数年不調に沈んだクライマーが、砂利という“番狂わせの土俵”で復活の狼煙を上げた構図。GC差は依然+3分34秒と大きいが、山頂連発のこの先で『物語が続くか』が見どころ。",
+      "image": "https://cdn.mos.cms.futurecdn.net/uBbjRSbNkehy2Y8QdJfhWV-1624-80.jpg",
+      "headline": "【機材】シマノ13速『デュラエースR9300』、今大会ブエルタで実車が続々目撃——セミワイヤレス維持・新シフトボタン・13枚カセット、そして『新フリーボディ』",
+      "layer1": "このブエルタで、シマノの次期デュラエースとみられる機材が複数目撃された。カセットは明確に13枚、リアはケーブル接続＋内蔵バッテリーの『セミワイヤレス』を維持、シフトボタンは再設計されている。",
+      "layer2": "最大の争点は互換性。写真のカセットは『新しいフリーボディ』を要するとみられ、『手持ちのホイールがそのままでは使えない』可能性が濃い＝店頭で買い替え客への丁寧な説明が要る。正式発表・発売時期は未確定で、噂は2026後半〜2027。SRAM（無線12速）とカンパ（13速・コフィディスが唯一の2×13スーパーレコード13を実戦投入）に対し、シマノが『セミワイヤレスのまま13速化』で追う輪郭が、レース現場で固まりつつある。",
       "sources": [
-        { "t": "Cyclingnews（マス本人コメント）", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/a-good-day-but-lets-not-give-it-too-much-importance-enric-mas-remains-cautious-after-matching-tadej-pogacar-on-vuelta-a-espana-gravel-climb/", "d": "2026-08-27" },
-        { "t": "IDL ProCycling（ポガチャル「ショックだった」）", "u": "https://www.idlprocycling.com/cycling/pogacar-was-surprised-by-mass-comeback-i-was-a-bit-in-shock", "d": "2026-08-27" },
-        { "t": "Cyclingnews（第6・降りの肝冷やし）", "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-tadej-pogacar-survives-near-crash-on-descent-for-third-victory-of-the-race-on-stage-6/", "d": "2026-08-27" }
+        { "t": "Cycling Weekly（ブエルタで13速目撃）", "u": "https://www.cyclingweekly.com/news/new-13-speed-shimano-dura-ace-groupset-spotted-at-vuelta-a-espana", "d": "2026-08" },
+        { "t": "the5krunner（E-Tubeリーク・セミワイヤレス）", "u": "https://the5krunner.com/2026/08/23/dura-ace-r9300-13-speed-spotted/", "d": "2026-08-23" },
+        { "t": "biketips（R9300 E-Tubeリーク解説）", "u": "https://biketips.com/shimano-13-speed-dura-ace-r9300-e-tube-leak-2026/", "d": "2026-08" }
       ],
-      "status": "確定＝マス総合2位浮上、両者コメント。曖昧＝マスの復調が本物かは今後の山岳で判断（本人も慎重）。"
+      "status": "確定＝ブエルタで実車目撃・13枚・セミワイヤレス維持・新シフトボタン。曖昧＝発売時期未定／フリーボディ互換は非公式（※要裏取り＝正式発表待ち）。"
     },
     {
-      "id": "20260828-boty-2026-gravel",
+      "id": "20260829-dura-ace-c50",
+      "genre": "wheel",
+      "genreLabel": "WHEEL",
+      "genreJa": "ホイール",
+      "hot": false,
+      "image": "https://ysroad.co.jp/nagoya/wp-content/uploads/2026/08/wh-r9370-c50-tl-f-ewhr9370c50lfed-shic6-primary-08-hires-fcbc46.png",
+      "headline": "【ホイール】新デュラエース『WH-R9370（C36/C50/C60）』の国内試乗インプレが出そろう——大手がやっと出した『カーボンスポーク』は、中華上位が先行してきた土俵",
+      "layer1": "シマノ初のカーボンスポーク採用ホイール群WH-R9370（C36/C50/C60＋TT用C99）の全国試乗が進行中（〜9/23）で、国内ショップの実走インプレが8月に入り出そろってきた。",
+      "layer2": "目玉はステンレス→カーボンスポーク化による軽量・高剛性・反応性の底上げ。ただ『カーボンスポーク＝軽く反応が良い』という価値は、FARSPORTSやWINSPACE等の中華上位が1〜2年先に、しかも半額〜1/3の価格で提示してきた領域でもある。大手の正規保証・供給網 vs 中華の価格——うちの土俵（規格・保証・目利きで選ばせる）はむしろ効きやすい構図。試乗が広がる今こそ、両者を並べて説明できると強い。",
+      "sources": [
+        { "t": "Y's Road 名古屋（新デュラC50試乗）", "u": "https://ysroad.co.jp/nagoya/2026/08/17/196264", "d": "2026-08-17" },
+        { "t": "Cyclingnews（新デュラエース・ホイール群）", "u": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/shimano-launches-brand-new-dura-ace-wheel-range-does-this-mean-a-new-groupset-is-imminent/", "d": "2026-08" }
+      ],
+      "status": "確定＝WH-R9370はカーボンスポーク・試乗展開中（〜9/23）。曖昧＝実測重量・価格はグレード差あり（店頭で要確認）。"
+    },
+    {
+      "id": "20260829-summer-sale-end",
+      "genre": "market",
+      "genreLabel": "MARKET",
+      "genreJa": "国内市場",
+      "hot": false,
+      "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2569368003022026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=0b955f60c31735b29b332e447ebed144",
+      "headline": "【経営メモ・市場】夏セールは『あと2日（〜8/31）』で終幕——だが本番の型落ち処分は10〜11月。供給過多の『買い手市場』、今は下取りと予約で客を囲う時期",
+      "layer1": "ワイズロード等の夏セールは8/31で終了間近。ただ2026新旧入れ替えに伴う『型落ち処分の本番』は例年どおり秋（10〜11月）で、今はまだ助走段階にある。",
+      "layer2": "背景は供給過多。ブーム期の過剰在庫が各所に残り、値引き・投げ売りが常態化した『買い手市場』が続く。だから夏セール終盤の駆け込みは『薄利の数売り』になりがち。うちが取るべきは、①秋の型落ち本番を待つ客を『予約・下取り』で先に紐付ける、②中華カーボンの目利きと整備で単価より信頼を積む——値引き競争から静かに降りる設計。",
+      "sources": [
+        { "t": "ワイズロード オンライン（夏セール〜8/31）", "u": "https://online.ysroad.co.jp/shop/l/l-pricedown-01/", "d": "2026-08" },
+        { "t": "ロードバイクの安い時期まとめ（型落ちは秋）", "u": "https://wiggle-planet.jp/archives/193", "d": "2026-08" }
+      ],
+      "status": "確定＝夏セール〜8/31・型落ち処分の本番は秋（10-11月）。曖昧＝各店の処分規模は10-11月の入荷・在庫次第。"
+    },
+    {
+      "id": "20260829-industry-shakeout",
+      "genre": "market",
+      "genreLabel": "MARKET",
+      "genreJa": "国内市場",
+      "hot": false,
+      "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C164.jpg",
+      "headline": "【経営メモ・市場】『ブーム去りの清算』が進む——大手トレックが日本定価を10〜14%値下げ、閉店・撤退も。逆風下で専門店の武器は『整備力と目利き』",
+      "layer1": "スポーツ自転車はブームが去り、一部で投げ売りが常態化。大手トレックは日本国内の主力ロードの定価を10〜14%値下げする異例対応をとり、国内では老舗の閉店やブランドの販売網縮小も伝えられ、業界は『清算』局面に入っている。",
+      "layer2": "一方で買い手は新興（中華カーボン・中華電動コンポ）へ熱視線を送る。油圧・電動化で整備は高度化し、専用工具・研修・後継者難が小売を締め付ける。ここで効くのが差別化：値引きでは大手に勝てないが、『複雑化した機材を直せる・中華の良し悪しを見抜ける』店は残る。マサルの強み（中華の実運用知＋整備力）が、そのまま参入障壁になる局面。",
+      "sources": [
+        { "t": "日本経済新聞（ブーム去り値下げ・新興に熱視線）", "u": "https://www.nikkei.com/article/DGXZQOUB257HL0V21C25A2000000/", "d": "2025-12" },
+        { "t": "サイクリング評論家・平本雅典（閉店ラッシュ）", "u": "https://cycling-hiramoto.blog.jp/archives/32897022.html", "d": "2026" },
+        { "t": "bike-memo（大手値下げと新興メーカー）", "u": "https://bike-memo.com/cycle_260204_roadbike/", "d": "2026-02" }
+      ],
+      "status": "確定＝トレック日本値下げ・新興への需要移行は複数報。曖昧＝閉店/撤退の全体規模は各社非開示（※一部ブログ発、要裏取り）。背景ソースは古めだが構造は継続中。"
+    },
+    {
+      "id": "20260829-30kmh-enforcement",
+      "genre": "beginner",
+      "genreLabel": "BEGINNER",
+      "genreJa": "初中級",
+      "hot": false,
+      "image": "https://d1uzk9o9cg136f.cloudfront.net/f/16782548/rc/2026/08/01/ab54f58932636508039a62c54e7886d34020c75a_xlarge.jpg",
+      "headline": "【初中級・Xで話題】いよいよ『あと3日』——9/1施行『生活道路30km/h』の最終確認。標識が無くても自動で30、見分け方は『中央線の有無』",
+      "layer1": "2026年9月1日から、中央線や車両通行帯のない『生活道路』の法定速度が一律30km/hに引き下げられる（標識が無くても自動適用）。歩行者・自転車の安全確保が目的で、警察庁は「生活道路は人が優先」と位置づける。",
+      "layer2": "ロード乗りの実務ポイント：①対象は『中央線のない生活道路』、幹線道路は従来どおり＝見分けは『中央線があるか』。②まず効くのは自動車側の速度抑制で、追い越し時の安全余裕が増える面がある。③反則金（青切符）の本格運用は施行から数か月後の見込みで、当面は周知・指導のフェーズ。SNSでは「標識ないのに30は分かりにくい」「対象道路の見分け方」が話題——店頭で『中央線で見分ける』を案内できると信頼につながる。",
+      "sources": [
+        { "t": "政府広報オンライン（生活道路30km/h）", "u": "https://www.gov-online.go.jp/article/202606/radio-3618.html", "d": "2026-06" },
+        { "t": "webオートバイ（9/1施行を解説）", "u": "https://www.autoby.jp/_ct/17855984", "d": "2026-08-01" },
+        { "t": "JAF交通安全（対象道路・ゾーン30との違い）", "u": "https://jaf-training.jp/column/traffic-safety/30km-living-area-road/", "d": "2026" }
+      ],
+      "status": "確定＝9/1施行・中央線なし道路は自動30・人優先。曖昧＝自転車への反則金運用の細部は今後の通達次第（※要裏取り）。"
+    },
+    {
+      "id": "20260829-xco-watch-guide",
+      "genre": "beginner",
+      "genreLabel": "BEGINNER",
+      "genreJa": "初中級",
+      "hot": false,
+      "image": "https://cdn.brujulabike.com/media/196189/conversions/hqqinj-wkai23ic-1787601684062-0-1240.jpg",
+      "headline": "【初中級】明日8/30のMTB世界戦『エリートXCO』を10倍楽しむ超入門——なぜロード乗りが観るべきか、ファンデルプールの『二冠』が事件な理由",
+      "layer1": "明日8/30はMTB世界選手権の華、エリートXCO（クロスカントリー・オリンピック）。1周3.5kmの短い周回を1時間半前後、ほぼ全開で回り続ける消耗戦で、ロードの脚（登坂力・心肺）がそのまま効く種目だ。",
+      "layer2": "観戦の入口：①周回ごとに順位が入れ替わる『見やすさ』、②テクニカルな下りとガレ場で実力差が出る、③ロードのスター（ファンデルプール、ピドコック）が本気で乗り込む稀有な舞台。特にvdPが勝てば『同じ年にロードとMTBの世界王者』という前人未到——だからこそ『事件』。初めてでも『周回数・虹ジャージ・落車リスク』の3点を押さえれば一気に面白くなる。",
+      "sources": [
+        { "t": "Velo（観戦ガイド・見どころ）", "u": "https://velo.outsideonline.com/mountain/2026-mountain-bike-world-championships-start-lists-how-to-watch/", "d": "2026-08" },
+        { "t": "Brujula Bike（日程・スタートリスト）", "u": "https://en.brujulabike.com/der-poel-and-pidcock-head-to-the-xco-world-championships-facing-an-in-form-boichis-favourites-schedules-start-lists-and-where-to-watch/", "d": "2026-08-28" }
+      ],
+      "status": "確定＝XCO本番8/30・周回制・ロード脚が効く。曖昧＝vdPの二冠は『挑戦中』（結果は明日）。"
+    },
+    {
+      "id": "20260829-drivetrain-map",
       "genre": "trend",
       "genreLabel": "TREND",
       "genreJa": "トレンド",
       "hot": false,
-      "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/339173fc-0511-499b-a6f5-465a527065e6/thumbnails/bf049f90-f233-4a80-840a-9ed6fc095e8a.png?appId=32337f2f-7841-4ef6-a233-d1f001580530&w=1200",
-      "headline": "【トレンド】BikeRadar『2026年間ベストバイク』決定——総合王者は“グラベル”のリドレー・カンゾ・ファスト2.0。境界が溶けた年を象徴",
-      "layer1": "昨日8/27、BikeRadarの年間ベストが発表。総合＝リドレー・カンゾ・ファスト2.0（グラベル部門と兼ねて総合1位）、エンデュランス部門＝キャノンデール…ではなくキャニオン・エンデュレースCF SLX、レース部門＝エディ・メルクス525R。",
-      "layer2": "ここでの“事件”は、グラベルバイクが全カテゴリーを束ねる『総合王者』になったこと。カンゾ・ファストは「エアロなレースバイクの速さ×オフロードの操縦性×一年中使える実用性」を一台に統合、と評された。つまり“レース／エンデュランス／グラベル”の境界が実運用レベルで溶け、一台で広くこなす完成車が最も価値を評価される年になった、という審査側の結論。うちの提案軸（オールロード化・太タイヤ前提・中華完組の受け皿）とも直結する。",
+      "image": "https://cdn.mos.cms.futurecdn.net/Pm6DzMEABQ2rYoesxef9y9-1920-80.jpg",
+      "headline": "【トレンド】2026ドライブトレイン勢力図——デュラエースDi2が最多（約13/23チーム）、SRAM Red AXSが約9まで急伸、13速はカンパ（コフィディス）が唯一の実戦2×13",
+      "layer1": "2026シーズンのWTコンポ分布は、シマノ・デュラエースDi2が約13/23チームで依然最多。ただSRAM Red AXSが乗り換えの波で約9チームまで伸び、カンパはコフィディス1チームのみ（唯一の2×13スーパーレコード13）という三つ巴になっている。",
+      "layer2": "読み筋：SRAMは『無線フル＆12速』で先行、カンパは『13速』で先行、シマノは『セミワイヤレスのまま13速化』（R9300）で追う——という三者三様。ユーザー目線では『今の12速デュラは当分現役』で、13速の恩恵（歯数の刻み）より、互換の断絶（新フリーボディ）の方が現実的な論点。店頭では『焦って買い替えない』を数字と時期で言える方が信頼される。",
       "sources": [
-        { "t": "BikeRadar（総合王者=カンゾ・ファスト2.0）", "u": "https://www.bikeradar.com/news/ridley-kanzo-fast-2-2026-bike-the-year-winner", "d": "2026-08-27" },
-        { "t": "BikeRadar（Bike of the Year 2026）", "u": "https://www.bikeradar.com/features/bike-of-the-year/bike-of-the-year-2026", "d": "2026-08-27" }
+        { "t": "Cyclingnews（新デュラエースと勢力図）", "u": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/shimano-launches-brand-new-dura-ace-wheel-range-does-this-mean-a-new-groupset-is-imminent/", "d": "2026-08" },
+        { "t": "Cycling Weekly（ブエルタで13速目撃）", "u": "https://www.cyclingweekly.com/news/new-13-speed-shimano-dura-ace-groupset-spotted-at-vuelta-a-espana", "d": "2026-08" }
       ],
-      "status": "確定＝各部門と総合の受賞（総合＝グラベルのカンゾ・ファスト2.0）。"
-    },
-    {
-      "id": "20260828-tarmac-sl9-cheaper",
-      "genre": "market",
-      "genreLabel": "MARKET",
-      "genreJa": "国内市場",
-      "hot": false,
-      "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/9f3acafe-88ec-4bb6-9ff9-8b53c8fd0e44/thumbnails/531a2f1f-2743-48d2-8a51-58ae7bee72e4.jpg?appId=32337f2f-7841-4ef6-a233-d1f001580530&w=1200",
-      "headline": "【経営メモ・市場】スペシャライズドがTarmac SL9に廉価3モデル——Comp £3,999／Expert £5,999／S-Level £8,799。大手が“最新世代”を型落ち待たず値ごろ帯へ降ろす",
-      "layer1": "8/25、スペシャライズドが最新レースバイクTarmac SL9に廉価3モデル（S-Level／Expert／Comp）を追加。6月に出た最上位S-Works（「史上最速のロードバイク」）の下の“空白”を、いきなり最新世代のまま埋めにきた。",
-      "layer2": "肝はフレーム：S-WorksのFACT 12rに対し新3モデルはFACT 10rカーボンだが、『空力形状は同一』とされ、速さの核はそのまま。S-Levelは「S-Worksに次ぐ2番目に速い」と称し£3,200安、Compは£3,999（US $4,500〜）まで下がる。これは“旧型を安く”ではなく『最新世代を最初から広い価格帯で』という新手。経営示唆：型落ち処分（10-11月）を待たずに大手が値ごろ帯を取りに来ると、中華完組・完成車の価格優位と真っ向でぶつかる。うちは『規格・保証・整備』の受け皿価値と、下取り＋予約の囲い込みで差を作る局面。",
-      "sources": [
-        { "t": "BikeRadar（SL9廉価3モデル）", "u": "https://www.bikeradar.com/news/specialized-unveils-cheaper-tarmac-sl9s", "d": "2026-08-25" },
-        { "t": "road.cc（“2番目に速い”£3,999入口）", "u": "https://road.cc/tech-news/the-second-fastest-bike-ever-made-specialized-expands-tarmac-sl9-range-with-3999-entry-point", "d": "2026-08-25" },
-        { "t": "Velo（SL9がより安く）", "u": "https://velo.outsideonline.com/road/road-gear/spacialized-tarmac-sl9-gets-cheaper/", "d": "2026-08-25" }
-      ],
-      "status": "確定＝3モデルの追加と英価格・フレーム素材（FACT 10r／空力はS-Works同形状）。曖昧＝国内価格・入荷時期は未告知（為替と代理店次第）。"
-    },
-    {
-      "id": "20260828-typochi-buyers-market",
-      "genre": "market",
-      "genreLabel": "MARKET",
-      "genreJa": "国内市場",
-      "hot": false,
-      "image": "https://pedalism.jp/wp-content/uploads/2026/08/ec_p681.jpg",
-      "headline": "【経営メモ・市場】夏セールは〜8/31で終盤、本番の型落ち処分は10〜11月——供給過多で“買い手市場”、中古も潤沢。今は下取りと予約で囲う時期",
-      "layer1": "国内は例年、夏（6〜8月）に各社が新型を出し、その2〜3か月後の10〜11月に旧型が『型落ち』で大きく動く。今年はコロナ特需の反動で供給過多、値下げ・在庫処分基調で、良質な中古も市場に潤沢＝買い手市場。夏セールは多くが〜8/31で終盤に。",
-      "layer2": "経営メモ：①“今すぐ最安”を求める新規客には、型落ち本番（10-11月）とスペック同等・年式違いの狙い目を正直に伝えて信頼を作り、予約で先に囲う。②上のSL9のように大手が“最新世代を値ごろ帯”へ降ろすと、旧型の値引き余地はさらに削られる＝『安さ』一本での競争は不利。③うちの武器は下取り査定＋整備＋規格相談。売る瞬間より“買い替えの一巡”を設計して客単価とLTVを取りにいく。数字（各店の割引率）は都度確認・盛らない。",
-      "sources": [
-        { "t": "Pedalism.jp（安くなる時期・買い方2026）", "u": "https://pedalism.jp/road-bike-sale-timing-when-cheap/", "d": "2026-08" },
-        { "t": "BikeRadar（大手が最新世代を値ごろ帯へ＝SL9廉価化）", "u": "https://www.bikeradar.com/news/specialized-unveils-cheaper-tarmac-sl9s", "d": "2026-08-25" }
-      ],
-      "status": "曖昧＝“買い手市場・中古潤沢・直営縮小”は業界の傾向としての整理（個別店の割引率・在庫は都度確認）。確定＝型落ち処分は例年10-11月が本番。"
-    },
-    {
-      "id": "20260828-gravel-autumn-axis",
-      "genre": "market",
-      "genreLabel": "MARKET",
-      "genreJa": "国内市場",
-      "hot": false,
-      "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2025/10/gravel26.jpg",
-      "headline": "【経営メモ・市場】“グラベル/オールロード”が秋商戦の芯へ——世界の年間ベスト総合もグラベル、国内はUCIグラベル日本開催＆特集ラッシュが後押し",
-      "layer1": "国内メディアはグラベル/オールロード特集が続き（サイクルスポーツや八重洲のガイド本など）、8/21-23には日本初のUCIグラベル世界シリーズ（薬萊）も開催。世界ではBikeRadar年間ベストの“総合王者”がグラベル車と、内外で潮目が「一台で広くこなす太タイヤ機」に寄っている。",
-      "layer2": "経営示唆：秋は『レース1台』より『通勤・ロング・未舗装まで一台』を求める新規/買い替え層が伸びる。フックレス&ワイド化、35mm前後のタイヤクリアランス、GRX系1×などがキーワード。うちの中華カーボン完組（ワイド内幅・オールロード対応）と相性が良く、“最初の一台をオールロード寄りで”という提案が刺さる。ネタ化（記事/ショート）でも「グラベル入門」「ロードでグラベルごっこ」はPVが出やすい鉱脈。",
-      "sources": [
-        { "t": "サイクルスポーツ（グラベル最新機材ピックアップ）", "u": "https://www.cyclesports.jp/news/new-product/147820/", "d": "2026-08" },
-        { "t": "BikeRadar（総合王者=グラベルのカンゾ・ファスト）", "u": "https://www.bikeradar.com/news/ridley-kanzo-fast-2-2026-bike-the-year-winner", "d": "2026-08-27" },
-        { "t": "八重洲出版（グラベルバイク最新2026ガイド）", "u": "https://www.yaesu-net.co.jp/item/gravel-bikes-saishin-2026/", "d": "2026" }
-      ],
-      "status": "確定＝UCIグラベル日本開催（8/21-23）とBoTY総合のグラベル受賞。曖昧＝“国内需要が芯に”は傾向の解釈（特集の勢いとイベントからの補強）。"
-    },
-    {
-      "id": "20260828-first-bike-three-ways",
-      "genre": "beginner",
-      "genreLabel": "BEGINNER",
-      "genreJa": "初中級",
-      "hot": false,
-      "image": "https://journal.buychari.com/wp-content/uploads/2026/08/2026-latest-road-bikes-ogp.jpg",
-      "headline": "【初中級】2026『初めての一台』は三択で考える——①大手の最新廉価（SL9等）②中華カーボン③型落ち。速さ・保証・値段の三角形で選ぶ",
-      "layer1": "この夏〜秋、初心者の選択肢が一気に整理された。①大手が“最新世代を廉価に”（例：Tarmac SL9のComp £3,999〜）、②中華カーボンが完組〜完成車で価格優位、③型落ちが10-11月に本番の値引き。買いなロードの解説記事も続々更新中。",
-      "layer2": "先回りの答え：『何を最優先するか』で一発で決まる。速さ＆最新規格＝①（フレームは1グレード下でも空力は上位同形状、というSL9型の“お得”が増えた）。コスパ最重視＆自分で調べられる＝②（内幅×タイヤ幅・フックレス上限・UCI/ISO認証と保証を必ず確認）。とにかく総額を抑える＝③（スペック同等・年式違いを10-11月に狙う）。“全部入り”は無いので、店では予算だけでなく『速さ／保証／総額』のどれを捨てられるかを一緒に決めるのが失敗しないコツ。",
-      "sources": [
-        { "t": "BUYCHARI Journal（2026 買いなロードバイク）", "u": "https://journal.buychari.com/2026-latest-road-bikes/", "d": "2026-08" },
-        { "t": "BikeRadar（大手廉価化の実例=SL9）", "u": "https://www.bikeradar.com/news/specialized-unveils-cheaper-tarmac-sl9s", "d": "2026-08-25" }
-      ],
-      "status": "確定＝三択それぞれの実例と価格傾向。曖昧＝個別のおすすめ車種は予算・用途・体格で変わる（店頭で確定）。"
-    },
-    {
-      "id": "20260828-30kmh-imminent",
-      "genre": "beginner",
-      "genreLabel": "BEGINNER",
-      "genreJa": "初中級",
-      "hot": false,
-      "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C165.jpg",
-      "headline": "【初中級・Xで話題】あと数日で『生活道路30km/h』が9/1施行——標識が無くても自動で30、青切符は施行から約5か月。ロード乗りが今すぐ押さえる要点",
-      "layer1": "9/1から、いわゆる生活道路（中央線の無い道など幅の狭い道）の法定速度が原則30km/hへ。標識が無くても対象になる区間があり、下り・幹線バイパスを走りがちなロード乗りは特に注意。青切符（自転車の交通反則通告制度）は今年春の施行から約5か月、取り締まりも動いている。",
-      "layer2": "先回り：①『生活道路30』はクルマ基準の話に見えて自転車も速度超過の対象になり得る——軽い下りで容易に30超えするロードは“意識してブレーキ”が要る区間が増える。②青切符の反則金は概ね5,000〜12,000円が目安、対象は113項目（信号無視・一時不停止・スマホ等）。③XやSNSでは「どこが対象か分かりにくい」「煽られ不安」といった声が定番化。正確には“区間・標識・道幅”で判断が要り、断定的な拡散（例：ヘルメット未着用で反則金＝誤り）に乗らないのが安全。数字・対象は警視庁の一次情報で最終確認を。",
-      "sources": [
-        { "t": "警視庁（自転車の青切符・制度）", "u": "https://www.keishicho.metro.tokyo.lg.jp/kotsu/jikoboshi/bicycle/cycle_kaisei.html", "d": "2026" },
-        { "t": "bike-memo（青切符の違反113項目と反則金）", "u": "https://bike-memo.com/cycle_260216_rule-blue/", "d": "2026-08" },
-        { "t": "CYCLE HACK（青切符の反則金一覧とルール）", "u": "https://cyclehack.jp/1384", "d": "2026" }
-      ],
-      "status": "確定＝9/1に生活道路の法定速度30km/h化、青切符は春施行済み。曖昧＝“自転車への速度取締りの実運用”は地域差あり（一次情報で確認、SNSの断定拡散は要裏取り）。"
+      "status": "確定＝DA Di2最多・SRAM急伸・カンパ2×13はコフィディスのみ。曖昧＝チーム数は資料により前後（※概数）。"
     }
   ]
 }
