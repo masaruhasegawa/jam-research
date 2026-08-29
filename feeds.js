@@ -1,5 +1,260 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-08-30",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。ブエルタが一変しました——王者ポガチャルが第8で落車リタイア、赤はマスへ。そして今夜はMTB世界戦XCO本番＋ブエルタ初のクイーンステージ、歴史が2つ動く日曜です。",
+    "cards": [
+      {
+        "id": "20260830-vuelta-pogacar-out",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://escapecollective.com/content/images/size/w1200/2026/08/corvos-vuelta26-stage-8-pogacar.jpg",
+        "headline": "【速報・大波乱】王者ポガチャル、ブエルタ第8で落車リタイア——平坦区間で単独転倒・左肩と顔面を負傷、赤ジャージのまま救急搬送。マスが人生初の赤を『受け取るが着ない』",
+        "layer1": "8/29第8ステージ（プソル→シェラコ・平坦）、残り約33kmの平坦区間でポガチャルが単独落車し数名を巻き込む。左肩の激痛と顔面出血で腕が使えず、リーダーのまま無念のリタイア。区間はコカール（コフィディス）が混乱のスプリントを制した。",
+        "layer2": "総合はエンリク・マス（モビスター）が人生初の赤へ。だがマスは表彰式で赤を着ず掲げるだけ——「落車で赤をもらっても良い気分じゃない。明日、実力でふさわしければ着る」。スペイン人リーダーは2018年エラーダ以来。新GCは『マス／ログリッチ+1:00／ガル+1:11／クス+2:15／オンリー+2:16』。Xでも世界中が騒然（※裏取り＝レース結果・複数メディア一致）。",
+        "sources": [
+          {
+            "t": "Escape Collective",
+            "u": "https://escapecollective.com/pogacar-crashes-out-of-the-vuelta-a-espana/",
+            "d": "2026-08-29"
+          },
+          {
+            "t": "idl procycling",
+            "u": "https://www.idlprocycling.com/cycling/pogacar-abandon-overshadows-cofidis-excellent-sprint-win-on-crash-filled-stage-8-of-the-vuelta-a-espana",
+            "d": "2026-08-29"
+          },
+          {
+            "t": "Cycling Up To Date（GC）",
+            "u": "https://cyclinguptodate.com/cycling/vuelta-a-espana-2026-classifications-update-stage-8-pogacar-out-of-the-race-enric-mas-the-red-jersey-for-the-first-time-in-his-career",
+            "d": "2026-08-29"
+          }
+        ],
+        "status": "確定＝落車リタイア・コカール区間勝利・マス新リーダー（複数メディア一致）。マスの『赤を着ない』発言・GCタイム差も裏取り済み"
+      },
+      {
+        "id": "20260830-coquard-stage8-drama",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://img.vavel.com/st-8-1787986765545-c7ob1e.jpg",
+        "headline": "【人間ドラマ】王者が散った同じ日に——ベテラン、コカールが混乱のスプリントを制す。ポガチャルの悲劇の裏で『苦労人スプリンター』が頂点に",
+        "layer1": "第8ステージのスプリントは大落車で集団が分断。その混乱を冷静に抜けたブライアン・コカール（コフィディス）が、ペデルセンとメースを抑えて勝利をつかんだ。",
+        "layer2": "コカールは長年グランツールで勝利に手が届きそうで届かなかった古参フランス人スプリンター。王者ポガチャルが涙を呑んだ一日に、地道に走り続けた選手が主役の座を掴む——グランツールの『明暗』が凝縮したステージだった。",
+        "sources": [
+          {
+            "t": "VAVEL USA",
+            "u": "https://www.vavel.com/en-us/more-sports/2026/08/29/1269381-stage-8-of-la-vuelta-live-result-pucol-and-xeraco-2026.html",
+            "d": "2026-08-29"
+          },
+          {
+            "t": "idl procycling",
+            "u": "https://www.idlprocycling.com/cycling/pogacar-abandon-overshadows-cofidis-excellent-sprint-win-on-crash-filled-stage-8-of-the-vuelta-a-espana",
+            "d": "2026-08-29"
+          }
+        ],
+        "status": "確定＝区間勝利と着順。コカールの詳細な過去戦績は本文で断定せず、人間ドラマの側面を中心に紹介"
+      },
+      {
+        "id": "20260830-vuelta-stage9-aitana",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/ahMR9ZqhMs6bdtP4Vb79ed-1946-80.jpg",
+        "headline": "今日8/30ブエルタ第9は『王者不在で迎える初のクイーンステージ』——ビラホイオサ→アルト・デ・アイターナ約188km・獲得約5,000m、最後は21.9km/平均5.5%（終盤6.6kmは8%級）",
+        "layer1": "5つの山岳を越え、最後は1級アルト・デ・アイターナ（標高1,543m）へ。ポガチャル包囲網が消え、GCは『本当の意味で振り出し』に戻った。翌8/31は第1休息日。",
+        "layer2": "主役は赤で地元のマス、+1:11のガル、そして4度の総合王者ログリッチ。さらにクス／オンリー／カラパス／スキェルモーセが射程内で横一線。強者がこれだけ拮抗するのは今大会初——今日の登りが『実力で赤を勝ち取る』最初の本物の選別になる。",
+        "sources": [
+          {
+            "t": "Cyclingnews（第9プレビュー）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-2026-stage-9-preview/",
+            "d": "2026-08-29"
+          },
+          {
+            "t": "La Vuelta 公式（第9）",
+            "u": "https://www.lavuelta.es/en/stage-9",
+            "d": "2026-08-30"
+          },
+          {
+            "t": "Cycling Up To Date（第9プレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/vuelta-a-espana-2026-stage-9-preview-profiles-favourites-predictions-without-pogacar-gc-riders-take-on-the-first-queen-stage-of-the-race",
+            "d": "2026-08-29"
+          }
+        ],
+        "status": "確定＝コース・日程・GC構図（複数一致）／結果は日本時間の今夜に判明。獲得標高はプレビュー各紙の約5,000mを採用"
+      },
+      {
+        "id": "20260830-mtb-worlds-xco-men",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.brujulabike.com/media/196455/conversions/mundial-xco-favoritos-horarios-donde-ver-1240.jpg",
+        "headline": "今日8/30はMTB世界選手権『エリート男子XCO本番』——ファンデルプール＆ピドコックの“飛び道具”vs 今季の王者候補ボワシ／マルタン。VDPは『まだ持っていない虹』へ最後の1ピース",
+        "layer1": "イタリア・ヴァルディソーレ、3.5km×周回（1周155mアップ）の激コース。男子エリートは日本時間22:15スタート。ロードから殴り込むファンデルプールとピドコックが最大の注目。",
+        "layer2": "本命はW杯総合首位マルタンと、XCC（ショートトラック）世界王者ボワシの仏勢。そこに『豪華な招待客』のVDP（レゲW杯2位）とピドコック（ノベメスト勝利）が絡む構図。VDPにとってMTBの虹は唯一未獲得のタイトルで、同一年にロードとMTBを狙う二刀流の集大成。番狂わせが起きるとすれば脚の“鮮度”がカギ。",
+        "sources": [
+          {
+            "t": "Brújula Bike（XCO展望）",
+            "u": "https://en.brujulabike.com/der-poel-and-pidcock-head-to-the-xco-world-championships-facing-an-in-form-boichis-favourites-schedules-start-lists-and-where-to-watch/",
+            "d": "2026-08-28"
+          },
+          {
+            "t": "UCI（XCO出走）",
+            "u": "https://www.uci.org/article/2026-uci-mountain-bike-world-championships-pidcock-and-van-der-poel-join-xco-line-up/2y71CSnQ5SzMkYJcZlf6cB",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝日程・コース・出走・本命（複数一致）／結果は日本時間の今夜"
+      },
+      {
+        "id": "20260830-mtb-worlds-xco-women",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://images.ctfassets.net/761l7gh5x5an/1J3NnymHAjCbhYE9Qu1XVt/473ba8d071ad326b77d2eb083572bdd6/CEM_8151.jpg?f=&fit=thumb&q=80&fl=progressive&w=1200&h=800",
+        "headline": "同じく今日8/30『エリート女子XCO』は超オープン——ピーテルセ／リースフェズ／フライ／スティガーが横一線、絶対王者不在の虹争奪戦",
+        "layer1": "女子エリートは日本時間20:00スタート（男子より先）。今季は突出した支配者がおらず、展望各紙が『非常にオープンなシナリオ』と口を揃える大混戦。",
+        "layer2": "W杯で勝ち星を分け合ったリースフェズとフライ、シクロクロスとMTBを股にかけるピーテルセ、勢いのスティガーやベルタ（地元）まで、優勝候補が一桁では収まらない。男子のVDP劇場の陰に隠れがちだが、レース展開の読めなさは女子の方が上——ショート観戦にも向く一戦。",
+        "sources": [
+          {
+            "t": "Brújula Bike（XCO展望）",
+            "u": "https://en.brujulabike.com/der-poel-and-pidcock-head-to-the-xco-world-championships-facing-an-in-form-boichis-favourites-schedules-start-lists-and-where-to-watch/",
+            "d": "2026-08-28"
+          }
+        ],
+        "status": "確定＝日程・混戦の構図／結果は今夜。個々の優勝確率は断定せず"
+      },
+      {
+        "id": "20260830-trend-gt-wide-open",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0829%2Fr1708543_1296x729_16%2D9.jpg",
+        "headline": "【トレンド】『ポガチャル強すぎてつまらない』論が一夜で消滅——落車一発でブエルタは戦国へ。グランツールは“機材と脚”だけでは決まらない、という残酷",
+        "layer1": "数日前まで+3〜4分で『盤石』とされた王者が、平坦での1回の落車ですべてを失った。GCは横一線に戻り、残り12日は本物の総力戦になった。",
+        "layer2": "今季ずっと語られた『支配的すぎ問題』が、皮肉にも事故で解消。裏を返せば、どれだけ強くても“運”と“集団内の位置取り”が勝敗を分けるということ——だから前待ち・安全管理・下りの技術が効く。観る側にとっては最高に面白い2週間の始まりでもある。",
+        "sources": [
+          {
+            "t": "Escape Collective",
+            "u": "https://escapecollective.com/pogacar-crashes-out-of-the-vuelta-a-espana/",
+            "d": "2026-08-29"
+          },
+          {
+            "t": "ESPN",
+            "u": "https://www.espn.com/olympics/cycling/story/_/id/49762980/tadej-pogacar-spanish-vuelta-following-stage-8-crash",
+            "d": "2026-08-29"
+          }
+        ],
+        "status": "確定＝レース状況／“面白さ”の評価は編集視点として明示"
+      },
+      {
+        "id": "20260830-oxford-grinder-lock",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/08/2026-August-29-Tech-of-the-Week-1024x681.jpeg",
+        "headline": "【パーツ・盗難対策】アングルグラインダー『切断ディスク10枚』に耐えるU字ロック、オックスフォード“Grinder”登場（8/29）——高級ロード時代の“最後の砦”",
+        "layer1": "8/29発表。14mmの超硬カーバイド芯を採用し、グラインダーの切断ディスクを平均10枚“消耗させる”耐性を謳う。S1（260mm）£179.99／S2（320mm）£199.99。",
+        "layer2": "近年の窃盗はグラインダーで数十秒——従来ロックはほぼ無力だった。カーバイド芯は刃そのものを摩耗させて時間を稼ぐ発想で、破壊音と手間を増やして“諦めさせる”のが狙い。高価なカーボン完成車が増えた日本でも駐輪＝リスク。店としては『本体＋強固ロック＋盗難保険』のセット提案が客単価にも安心にも効く。",
+        "sources": [
+          {
+            "t": "road.cc（Tech of the Week）",
+            "u": "https://road.cc/tech-news/last-lock-youll-ever-need",
+            "d": "2026-08-29"
+          }
+        ],
+        "status": "確定＝仕様・海外価格（road.cc）／日本での取扱・価格・入荷は未定"
+      },
+      {
+        "id": "20260830-market-china-carbon-buying",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/01/zakki_C128.jpg",
+        "headline": "【国内市場】“中華カーボンホイール格付け・比較”記事が今もPV上位——買い手は『ネットで銘柄を決めてから来店』、店は指名買いの“受け皿”になる時代",
+        "layer1": "2026年、中華カーボンは『重量・剛性・エアロが大手の1/3〜1/2の価格で肉薄』との評価が定着。WINSPACE・ICAN・ELITEWHEELS等を並べる比較/格付け記事が検索とPVを稼ぎ続けている。",
+        "layer2": "購買行動の主役はブログとYouTube。客は銘柄を決めてから店に来るので、店の役割は『説得』より『裏取りと受け皿』に移った——規格や認証、保証・アフターを実物で確認させ、不安を消す場になる。ここで顔の見える中華（8LIEN/CRW/GOOSYNN/NEPEST等）を扱う強みが効く。",
+        "sources": [
+          {
+            "t": "bike-memo（中華カーボン格付け）",
+            "u": "https://bike-memo.com/cycle_260202_carbon-wheels/",
+            "d": "2026-02-02"
+          }
+        ],
+        "status": "確定＝国内で継続的にPVを集める“テーマ”（購買行動の傾向）。個別ブランドの優劣は断定せず"
+      },
+      {
+        "id": "20260830-market-summer-sale-end",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://pedalism.jp/wp-content/uploads/2026/08/ec_p681.jpg",
+        "headline": "【経営メモ・市場】夏セールは『あと1日（〜8/31）』で終幕——だが本番の型落ち処分は10〜11月。供給過多の“買い手市場”、今は下取りと予約で客を囲う時期",
+        "layer1": "多くの店の夏商戦が明日8/31で区切り。とはいえ大幅値引きの本命は、秋のモデル入れ替えに合わせた10〜11月の型落ち処分。今は『在庫潤沢・値下がり傾向』の買い手市場が続く。",
+        "layer2": "焦って夏セール残り物に飛びつくより、秋の処分を待つ客も多い。だからこの端境期は『下取り査定』と『秋モデルの予約』で関係を先に作るのが効く。加えて今週はブエルタ×MTB世界戦のダブルで観戦熱が高い——グランツール特需の“指名買い”を、値引きせず秋商戦の入口に繋げたい。",
+        "sources": [
+          {
+            "t": "Pedalism.jp（安い時期）",
+            "u": "https://pedalism.jp/road-bike-sale-timing-when-cheap/",
+            "d": "2026-08"
+          },
+          {
+            "t": "プライシー（セール時期）",
+            "u": "https://www.pricey.jp/web/articles/3501",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝セールの時期構造（夏終盤→秋本番）。個別店舗の具体値引き率は日々変動につき断定せず"
+      },
+      {
+        "id": "20260830-beginner-crash-avoidance",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/oUU4nmXSFM9oQu8rooJrTJ-1024-80.jpg",
+        "headline": "【初中級】世界王者でも平坦で落ちる——集団走行の“身の守り方”3点と、落ちた後にまずやること",
+        "layer1": "ポガチャルの落車も、大落車で分断したスプリントも、舞台は“危険に見えない平坦”だった。落車の多くは登りより、速度が乗った平坦・下り・スプリント前後の密集で起きる。",
+        "layer2": "身を守る基本は『①前輪を前走者の後輪に重ねない（オーバーラップ回避）②ブレーキは早め・軽く小刻みに、急な握り込みは後方落車の元③密集が怖い時は集団後方より“前方の安全地帯”へ』。もし落ちたら、まず路肩へ退避し二次落車を防ぎ、鎖骨・肩・手首の痛みと頭部打撲を確認、フレーム/フォークの目視割れをチェックしてから再乗車。頭を打ったらヘルメットは必ず交換。",
+        "sources": [
+          {
+            "t": "Cyclingnews（第8ライブ・落車報）",
+            "u": "https://www.cyclingnews.com/pro-cycling/live/vuelta-a-espana-stage-8-live-can-the-sprinters-survive-a-late-climb/",
+            "d": "2026-08-29"
+          }
+        ],
+        "status": "確定＝落車が起きた事実を入口にした普遍テク。応急対応は一般的な安全指針に基づく（重症時は無理せず受診）"
+      },
+      {
+        "id": "20260830-wheel-china-selection-axis",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://innertop.com/wp-content/uploads/2018/10/chinesecarbonwheels.png",
+        "headline": "【ホイール】中華カーボン“いま”の選ぶ軸——大手が今年やっと出した『カーボンスポーク』も中華は先行、数値より《規格×認証×保証》で外さない",
+        "layer1": "新デュラエースWH-R9370がシマノ初のカーボンスポークで話題だが、その土俵は中華上位（FARSPORTS等）が先に踏み込んでいた領域。性能差が縮んだ今、選定の主戦場は“数値”から“規格と信頼”へ移っている。",
+        "layer2": "初めての中華完組で外さない軸は『①リム内幅×使うタイヤ幅の相性 ②フックレスなら対応タイヤと空気圧上限の厳守 ③UCI等の認証と、破損時の保証・補修パーツ供給』。軽さ公称は各社近いので、差が出るのはむしろ“買った後”。だからこそ、アフターを持てる店で顔の見える中華（8LIEN/CRW/GOOSYNN/NEPEST/PARTICLE等）を選ぶ意味がある。",
+        "sources": [
+          {
+            "t": "bike-memo（中華カーボン格付け・選び方）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-01-18"
+          }
+        ],
+        "status": "曖昧＝性能の“肉薄”は評価レンジ。確定は選定の考え方（規格・認証・保証）。個別ブランドの優劣は断定せず"
+      }
+    ]
+  },
+  {
     "date": "2026-08-29",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ブエルタは今日8/29が『海岸のスプリント』（プソル→シェラコ171km）——昨日第7はウノエックスが、ノルウェー国王ハラルド5世崩御の数時間後に『喪章の1-2』、レクネスンがGT初勝利、GCはポガチャル盤石（マス+3:50）。明日8/30はMTB世界戦XCO本番で、ファンデルプールの『同一年ロード＆MTB二冠』へ最後の1ピース。機材はシマノ13速デュラエースR9300の実車がブエルタで続々目撃、国内は新デュラC50カーボンスポークのインプレが出そろい。市場は夏セールがあと2日、そして『清算』局面の逆風を整備力で受ける話まで。",
     "cards": [
