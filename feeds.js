@@ -1,5 +1,241 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-09-01",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ブエルタは今日9/1に第10へ再開（王者不在の赤はマス）、そして国内は『生活道路30km/h』がいよいよ今日施行——レースも商売も動く一日です。",
+    "cards": [
+      {
+        "id": "20260901-vuelta-st10",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://procyclinguk.com/wp-content/uploads/2026/08/Enric-Mas-2026-Vuelta-Espana-Stage-9-Getty.jpg",
+        "headline": "今日9/1ブエルタは休息日明けの第10——アルカラス→エルチェ・デ・ラ・シエラ約185km。『平坦は少ないが山でもない』丘陵で、逃げか耐久スプリンターか",
+        "layer1": "8/31の第1休息日を挟み、レースは今日9/1にアルバセテ県の第10ステージ（Alcaraz→Elche de la Sierra・184.7km）で再開。細かい登りが続く起伏区間で、フィニッシュは緩い上り。総合は王者不在のまま、赤ジャージのマスがログリッチに+1:18でリード。",
+        "layer2": "獲得標高は媒体で数値差があり約2,700〜3,000m（cyclingstageは2,991m表記）。Puerto de las Cruces／Peralejo／Socovosなど複数の3〜4級を越えるが山頂フィニッシュではなく、主催者評は『滅多に平坦にならないが、粘れるスプリンターを排除するほどではない』。＝GC勢は脚を温存し、大逃げか生き残りスプリントの一日になりやすい。休息日明けは体が重く、逃げが決まりやすいのも見どころ。",
+        "sources": [
+          {
+            "t": "cyclingstage（第10プレビュー）",
+            "u": "https://www.cyclingstage.com/vuelta-2026-route/stage-10-spain-2026/",
+            "d": "2026-08-31"
+          },
+          {
+            "t": "ProCyclingUK（第9・GC）",
+            "u": "https://procyclinguk.com/vuelta-a-espana-2026-stage-9-enric-mas-wins-on-alto-de-aitana-and-extends-red-jersey-lead/",
+            "d": "2026-08-31"
+          }
+        ],
+        "status": "確定＝第10は9/1・184.7km・Alcaraz→Elche de la Sierra／GCはマス赤+1:18。曖昧＝獲得標高は媒体差（約2,700〜3,000m）"
+      },
+      {
+        "id": "20260901-onley-podium",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/e5xQafZdtqUhUho3RFASXW-1024-80.jpg",
+        "headline": "【人間ドラマ】病み上がりのオンリーが『表彰台圏内』へ——アイターナで王者マスに唯一食らいつき、「初めて普通に戻れた日」",
+        "layer1": "第9アイターナで、体調不良に苦しんでいた23歳オスカー・オンリー（ネットカンパニー・イネオス）がマスの決定的アタックに唯一反応し、GC勢トップの2位でフィニッシュ。総合4位に浮上し、表彰台（3位ガル）まで残り41秒に迫った。",
+        "layer2": "オンリーはレース序盤に体調を崩していたが、本人は「今日は久しぶりに普通に戻れた最初の日」と回復を宣言。マスが山頂22kmの残り2kmで仕掛けた場面に食い下がり、ログリッチら他のGC勢に12秒差をつけた。カラパスを抜いての4位で、後半の超級山岳に向け『本気の表彰台チャレンジ』が現実味を帯びた。マサル的には“不調から這い上がる若手”の物語がまさに刺さる一本。",
+        "sources": [
+          {
+            "t": "Cyclingnews（Onley）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/the-first-day-i-felt-back-to-normal-oscar-onley-defeated-in-stage-9-sprint-at-vuelta-a-espana-but-remains-in-gc-battle-as-illness-fades/",
+            "d": "2026-08-31"
+          }
+        ],
+        "status": "確定＝オンリー第9で2位・総合4位、ガル（3位）まで41秒。裏取り済み（本人コメント・GCタイム）"
+      },
+      {
+        "id": "20260901-pogacar-diagnosis",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/QMsYfxzxMtRh48bm4gAER5-1024-80.jpg",
+        "headline": "【Xで大反応・続報】ポガチャルの診断確定——脳震盪＋左鎖骨のずれた骨折＋C7頸椎骨折。鎖骨手術は延期、世界選手権（モントリオール）に暗雲",
+        "layer1": "第8（8/29）で石にホイールを取られ落車・棄権した王者ポガチャルについて、UAEチーム医が診断を確定：脳震盪、左鎖骨のずれた（転位）骨折、安定型のC7頸椎骨折。Xでは棄権直後から「今季終了か」「世界選手権は」と大きな反応が続いている。",
+        "layer2": "鎖骨手術はバルセロナで火〜水に予定されるが、脳震盪プロトコルのため慎重に延期・調整中（転位骨折で大きめの手術）。9/20〜27モントリオールの世界選手権はほぼ絶望的と見られる一方、エージェント／チームは『完全には諦めていない』とコメントし、欧州選手権やロンバルディアの可能性にも含みを残す。9度のGT出場で“初のリタイア”という重い節目。Xの噂が先行したが、主役は裏取れたチーム医の公式診断。",
+        "sources": [
+          {
+            "t": "Cycling Weekly（診断）",
+            "u": "https://www.cyclingweekly.com/racing/vuelta-a-espana/concussion-and-shoulder-and-cervical-fractures-tadej-pogacars-injuries-confirmed-by-team-doctor-after-vuelta-crash",
+            "d": "2026-08-30"
+          },
+          {
+            "t": "Domestique（手術・世界戦）",
+            "u": "https://www.domestiquecycling.com/en/news/pogacar-set-for-major-surgery-as-world-championships-hopes-fade/",
+            "d": "2026-08-31"
+          }
+        ],
+        "status": "確定＝脳震盪・鎖骨転位骨折・C7頸椎骨折（チーム医）。曖昧＝手術日程と世界戦出場可否は経過次第（※断定しない）"
+      },
+      {
+        "id": "20260901-gc-secondhalf",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://procyclinguk.com/wp-content/uploads/2026/08/divI-think-its-something-to-show-respect-to-him-–-New-Vuelta-a-Espana-leader-Enric-Mas-refuses-to-wear-red-jersey-on-stage-8-podium-after-Tadej-Pogacars-abandondiv.jpg",
+        "headline": "【トレンド】休息日総括——王者不在で『マス守勢・4人が追う』後半戦へ。GTは超級山岳の“総力戦”で決まる",
+        "layer1": "第1休息日時点のGCは、1位マス（赤）、+1:18ログリッチ、+1:39ガル、+2:20オンリー、+3:26カラパス。ポガチャルという“絶対値”が消え、僅差の4〜5人が後半の超級山岳連続で殴り合う構図になった。",
+        "layer2": "マスの+1:18は「守るには薄い」リード。後半はバルデリナレスやシエラ・デ・ラ・パンデラ級の山頂フィニッシュが控え、機材（軽量ホイール・ワイドギア）とチーム力、そして休息日明けのコンディションが効く。8/31の“戦国宣言”から一歩進み、今日の第10（丘陵の消耗戦）で誰がどれだけ脚を使うかが、後半の勢力図を左右する。ムービスターが山でマスを守り切れるかが最大の焦点。",
+        "sources": [
+          {
+            "t": "ProCyclingUK（GC contenders）",
+            "u": "https://procyclinguk.com/vuelta-a-espana-2026-gc-contenders-after-stage-9-who-can-win-the-race-now/",
+            "d": "2026-08-31"
+          }
+        ],
+        "status": "確定＝休息日GCの順位・タイム。曖昧＝後半の勝敗予想（各自の脚とチーム力次第）"
+      },
+      {
+        "id": "20260901-30kmh-enforce",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": true,
+        "image": "https://response.jp/imgs/ogp_f/2237843.jpg",
+        "headline": "【国内市場・Xで話題】生活道路『30km/h』はいよいよ今日9/1施行——見分けは『中央線の有無』、認知はまだ4割。店頭Q&Aの準備を",
+        "layer1": "改正道路交通法施行令が今日9/1に施行され、中央線や車線のない“生活道路”の法定速度が一般道の60km/hから30km/hへ引き下げられた。全国の一般道の約7割が対象とされ、標識が無くても自動的に30km/hになる。",
+        "layer2": "三井住友海上の調査では、施行2か月前でドライバーの認知は40.7%どまり。見分け方は『中央線（センターライン）の有無』で、線がなく歩車の分離もない道は原則30。ロード乗り・客からは「自転車は？」「青切符（自転車は4/1導入済）との関係は？」の質問が増える見込み。店としては“見分け方＋自転車の速度違反リスク”を一枚POP化しておくと、来店客の不安に即答でき、点検・保険・ライト等の付帯提案にもつなげやすい。",
+        "sources": [
+          {
+            "t": "レスポンス（対象道路）",
+            "u": "https://response.jp/article/2026/08/30/415900.html",
+            "d": "2026-08-30"
+          },
+          {
+            "t": "JAF（30km/h解説）",
+            "u": "https://jaf-training.jp/column/raw/30km-living-area-road/",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝9/1施行・生活道路は30km/h・見分けは中央線の有無・認知40.7%（三井住友海上）"
+      },
+      {
+        "id": "20260901-uci-gravel-yakurai",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://www.cyclowired.jp/sites/default/files/images_title/news/2026/08/ayano2026GCY-1541.jpg",
+        "headline": "【国内市場】日本初のUCIグラベル世界シリーズが宮城で決着——男子エリートは沢田時が圧勝。『グラベル』が秋商戦の芯に",
+        "layer1": "8/22〜23、宮城県加美町で日本初のUCIグラベルワールドシリーズ『HYSK GRAVEL CLASSIC YAKURAI 2026』が開催。男子エリートは沢田時（Astemo宇都宮ブリッツェン）が圧勝、女子エリートは許書瑋（台湾）が優勝した。",
+        "layer2": "各カテゴリーの上位25%に入ると、2026年10月に豪州ナナップで開かれるUCIグラベル世界選手権の出場権が得られる本格戦。国内でも“世界戦の切符”が懸かる舞台が生まれ、グラベル／オールロード需要を押し上げる。秋商戦の芯として、32C以上対応の完成車・チューブレス・グラベルタイヤ（GRAVELKINGなど）・ワイドギアの提案が刺さる時期。中華カーボンでもグラベル対応リムが増えており、うちの取り扱いに自然に着地できるテーマ。",
+        "sources": [
+          {
+            "t": "cyclowired（優勝レポート）",
+            "u": "https://www.cyclowired.jp/news/node/393202",
+            "d": "2026-08-23"
+          },
+          {
+            "t": "cyclowired（大会概要）",
+            "u": "https://www.cyclowired.jp/news/node/391917",
+            "d": "2026-03"
+          }
+        ],
+        "status": "確定＝8/22-23開催・男子沢田時／女子許書瑋優勝・上位25%で世界戦（10月・豪ナナップ）出場権"
+      },
+      {
+        "id": "20260901-akishoubai-nedage",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://pedalism.jp/wp-content/uploads/2026/08/ec_p681.jpg",
+        "headline": "【経営メモ・市場】9月は『型落ち処分の入口』——各社が8〜10月に翌年モデル発表、旧在庫は定価15〜30%引きが標準。今は下取り・予約で囲う",
+        "layer1": "夏セールは8/31で終幕。ここからが本番で、多くのブランドが8〜10月に翌年モデルを発表し、その前後で旧モデルの在庫処分セールに入る。値引きは定価の15〜30%が標準的で、GIANT・MERIDA・FUJIなどは大幅値引きも入る。",
+        "layer2": "ブーム去りの供給過多で、在庫は潤沢・中古も潤沢の“買い手市場”が継続。値引きの底は例年10〜11月なので、9月頭の今は「安くなる直前」。客には“待てば下がる”を隠さず伝えつつ、下取り査定＋新モデル予約で早期に囲うのが得策。指名買い（ネットで銘柄を決めて来店）が増えているので、店の武器は整備力・適合の目利き・アフター。値引き競争の土俵に降りず、付帯価値で利ざやを守る局面。",
+        "sources": [
+          {
+            "t": "Pedalism（セール時期2026）",
+            "u": "https://pedalism.jp/road-bike-sale-timing-when-cheap/",
+            "d": "2026-08"
+          },
+          {
+            "t": "日経（ブーム去り値下げ）",
+            "u": "https://www.nikkei.com/article/DGXZQOUB257HL0V21C25A2000000/",
+            "d": "2025-12"
+          }
+        ],
+        "status": "確定＝旧モデル値引きは定価15〜30%が標準・発表期は8〜10月。曖昧＝各店の底値時期（例年10〜11月）は在庫次第"
+      },
+      {
+        "id": "20260901-china-newbrands",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cosperbike.com/wp-content/uploads/2024/07/9cb82a0d44919850528cd8b920345966.jpg",
+        "headline": "【ホイール・中華最前線】新興ブランドが続々——VOOK/LAGET/Mambas等が国内でも話題。“安いだけ”から“自社開発・軽量”の世代へ",
+        "layer1": "中華カーボンの新興ブランドが2026年も増殖中。国内ショップの展示レポートでは、2023年設立で軽量・自社一貫開発をうたうVOOK（V9）や、LAGET、東莞拠点のBIGROCK、Mambasなどが紹介され、単なる激安勢とは一線を画す“開発型”ブランドが目立ってきた。",
+        "layer2": "かつての中華＝『格安OEMの寄せ集め』から、自社設計フレーム＋自社（or上位OEM）カーボンホイールで“完成度で勝負”する層へ移行しつつある。ただしブランド乱立で当たり外れの幅は大きく、初中級が外さない軸はやはり《規格（フックレス/内幅/対応タイヤ）×認証（ISO/UCI等）×保証・国内サポート》。数値やインフルの評判より、リムの規格と保証体制で選ぶのが安全。うち（8LIEN/CRW/GOOSYNN/NEPEST/FARSPORTS/PARTICLE）は“国内サポート付きの中華上位”という立ち位置を明確に打ち出す好機。",
+        "sources": [
+          {
+            "t": "avelo（CHINA CYCLE展示）",
+            "u": "https://www.avelotokyo.com/2026/08/vook-v9-laget-bigrock-32-mtb-mambas.html",
+            "d": "2026-08"
+          },
+          {
+            "t": "コスパバイク（新興比較）",
+            "u": "https://cosperbike.com/chinese-roadbike-manufacturer-hikaku/",
+            "d": "2026-02"
+          }
+        ],
+        "status": "曖昧＝新興ブランドの品質・国内流通は玉石混交（※現物・保証条件の確認前提）。確定＝新興が“自社開発・軽量”を訴求する潮流"
+      },
+      {
+        "id": "20260901-shimano-r9370-onsale",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/07/Shimano-Dura-Ace-WH-R9370-July-2026.jpg",
+        "headline": "【機材】新デュラエース・ホイール『WH-R9370』はこの9月から発売開始——C36は1170g（-180g）、28-30C最適化。大手も“カーボンスポーク×太タイヤ”へ",
+        "layer1": "シマノの新デュラエース・ホイールWH-R9370（C36/C50/C60＋TT用C99・リアディスク）が、2026年9月から発売開始。C36は前作比-180gの1170g、C50は1302g、C60は1389gと大幅軽量化し、28-30mmタイヤ最適化とカーボンスポークを採用（ハブは伝統のカップ&コーンを維持）。",
+        "layer2": "実売は9月スタートで、8月末までに国内試乗インプレも出そろった。ポイントは“大手がようやく「カーボンスポーク＋太タイヤ最適化」に舵を切った”こと——この土俵は中華上位（FARSPORTSのSシリーズ等）が先行してきた領域で、価格差は依然大きい。新ホイール投入は「新デュラエース13速（R9300）」本体の登場が近い兆候とも読まれる。太タイヤ前提の完成車が増える中、ホイール選びは“公称重量より規格×対応タイヤ幅”で。",
+        "sources": [
+          {
+            "t": "road.cc（R9370発表）",
+            "u": "https://road.cc/tech-news/shimano-launches-lighter-more-aero-dura-ace-wheels",
+            "d": "2026-07"
+          },
+          {
+            "t": "BikeRadar（R9370詳細）",
+            "u": "https://www.bikeradar.com/news/shimano-dura-ace-r9370-wheels",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝WH-R9370は9月発売開始・C36は1170g・28-30C最適化・カップ&コーン。曖昧＝新13速本体（R9300）の市販時期は未確定（2027説有力）"
+      },
+      {
+        "id": "20260901-hookless-pressure",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.funq.jp/contents/uploads/2021/02/24002929/ki210126_22I3759-1.jpg",
+        "headline": "【初中級】フックレス時代の落とし穴は『下げすぎ』——低圧化はいいが、下限を割ると事故に。まず“最低空気圧”を守る",
+        "layer1": "ワイド化・チューブレス・フックレスが普及し、2026年の“適正空気圧”は昔よりかなり低いのが常識になった。ただし中華上位も大手（新デュラエース）もフックレスが主流になった今、初中級がやりがちな逆の失敗が『下げすぎ』——低圧の快適さを狙って下限を割ると危険。",
+        "layer2": "検証記事では、フックレスは“フックが無い分ビードとの接点が広く、実測タイヤ幅が広がる”ため、同じ表示でも太めに出て低圧化しやすい一方、ビード外れ（脱着）のリスクがある。ロード用チューブレスの推奨最低は23C/25Cで概ね4.8bar級とされ、これより下げないのが基本。リム/タイヤメーカーの“最低空気圧”表示を必ず確認し、体重×タイヤ幅で早見表を目安にするのが安全。『7barは高すぎ』も正しいが、フックレスでは“下限を割らない”がもっと大事。",
+        "sources": [
+          {
+            "t": "Bicycle Club（適正空気圧検証）",
+            "u": "https://www.funq.jp/bicycle-club/article/675507/",
+            "d": "2026-08"
+          },
+          {
+            "t": "GIANT（フックレス×空気圧）",
+            "u": "https://www.giant.co.jp/news/gear/4612/",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝フックレスは実測幅が広がり低圧化しやすい／下限（概ね4.8bar級）を割らないのが基本。曖昧＝最適値は体重・タイヤ幅・銘柄で変わる（メーカー表示優先）"
+      }
+    ]
+  },
+  {
     "date": "2026-08-31",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ブエルタは今日『第1休息日』、王者ポガチャル不在でマスが赤——そしてMTB世界戦はピドコックが虹、ファンデルプールの二冠の夢は散りました。移籍市場も目玉が動いています。",
     "cards": [
