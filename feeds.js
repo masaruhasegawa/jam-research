@@ -1,5 +1,246 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-09-02",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。王者ポガチャルは鎖骨手術『成功』も世界選手権には暗雲——ヴィンゲゴーの41日後、2026はGT両王者が鎖骨で散る年になりました。ブエルタは平坦の第11、英国はツアー・オブ・ブリテンが今日開幕です。",
+    "cards": [
+      {
+        "id": "20260902-vuelta-st11-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.cyclingstage.com/images/vuelta-spain/2026/stage-11-profile.jpg?02",
+        "headline": "今日9/2ブエルタ第11は『平坦スプリント』——カルタヘナ→ロルカ151.3km・獲得1,331m、唯一の上りアレド峠(9.5km/4.2%)を越え29.5kmはほぼ下り、猛暑35℃",
+        "layer1": "混乱の丘陵ステージだった昨日から一転、今日は純スプリンター向けの平坦。中盤の分類上り『アレド峠』で逃げを容認しつつ、頂上から下って高速フィニッシュへ。",
+        "layer2": "第10終了時の総合は赤＝エンリク・マス、2位ログリッチ『+1:18』、3位ガル『+1:39』、4位オンリー『+2:20』、5位カラパス『+3:26』。王者ポガチャル不在の今日は平坦でGC変動は小さく、決着は後半の超級山岳へ持ち越し。スプリントはニス／コルトら生き残りの快速勢の争い。",
+        "sources": [
+          {
+            "t": "cyclingstage（第11コース）",
+            "u": "https://www.cyclingstage.com/vuelta-2026-route/stage-11-spain-2026/",
+            "d": "2026-09-02"
+          },
+          {
+            "t": "idlprocycling（第10終了時GC）",
+            "u": "https://www.idlprocycling.com/cycling/vuelta-a-espana-2026-standings-big-shake-up-in-the-gc-top-10-van-aert-moves-up-in-the-points",
+            "d": "2026-09-01"
+          }
+        ],
+        "status": "確定＝コース・獲得標高・総合順位／曖昧＝勝者予想は展開次第"
+      },
+      {
+        "id": "20260902-vuelta-st10-tronchon",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-08%2Fwout-van-aert-in-action-on-stage-7-of-the-2026-vuelta-a-espana-6a91c0bbc1b87.jpg",
+        "headline": "【人間ドラマ】バスティアン・トロンションがブエルタ第10で大金星——混乱の最終1kmで『ヴィスマが制御を失い』、コル/ニス/ファンアールトを差し切る",
+        "layer1": "丘陵184.7km・獲得約3,000mの第10。最終盤でヴィスマがリードアウトを崩した隙に、グルパマ・FDJのトロンション(仏)がマグヌス・コル、ティボー・ニス、ファンアールトを抑えて優勝。",
+        "layer2": "トロンションにとってはグランツール初勝利級の大金星。ヴィスマはブレナンで行くかファンアールトで行くかを決めきれず、発射準備が空中分解した。『勝ちを狙って前に出た側』が崩れ、便乗した伏兵が抜ける——スプリントの残酷を象徴する一勝。",
+        "sources": [
+          {
+            "t": "PEZ Cycling News",
+            "u": "https://pezcyclingnews.com/racing/vuelta-2026-stage-10-bastien-tronchon/",
+            "d": "2026-09-01"
+          },
+          {
+            "t": "Velo（Outside）",
+            "u": "https://velo.outsideonline.com/road/road-racing/vuelta-a-espana/vuelta-a-espana-stage-10-report-results",
+            "d": "2026-09-01"
+          }
+        ],
+        "status": "確定＝勝者・上位／曖昧＝ヴィスマの采配の細部は各社解説"
+      },
+      {
+        "id": "20260902-pogacar-surgery",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://escapecollective.com/content/images/size/w1200/2026/08/Kramon_260822_Vuelta_st1_iTT_00518.jpg",
+        "headline": "【🔥今日の一本】ポガチャル、左鎖骨手術は『成功』——だが9/27世界選手権(モントリオール)は絶望的、シーズン終了の可能性も",
+        "layer1": "第8での落車(鎖骨骨折＋脳震盪＋C7頸椎)を受け、8/31月曜にバルセロナで左鎖骨を手術、UAEは『うまくいった』と発表。数日入院ののち帰国してリハビリへ入る。",
+        "layer2": "鎖骨は通常6週、早くて4週で復帰。手術から世界選手権まで約4週しかなく、脳震盪と頸椎も併発のため防衛は極めて困難で、チームは時期を明言せず『2027仕切り直し』もにじませる。奇妙な符合——ちょうど『41日前』にヴィンゲゴーもツールで鎖骨を折って離脱。2026はGT両王者が鎖骨で散る年になった。",
+        "sources": [
+          {
+            "t": "Escape Collective",
+            "u": "https://escapecollective.com/pogacar-undergoes-significant-surgery-to-repair-collarbone/",
+            "d": "2026-09-01"
+          },
+          {
+            "t": "The National",
+            "u": "https://www.thenationalnews.com/sport/cycling/2026/09/01/tadej-pogacar-has-successful-surgery-after-vuelta-crash-but-season-finale-remains-under-threat/",
+            "d": "2026-09-01"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/tadej-pogacars-clavical-surgery-went-well-monday-as-team-confirms-world-champion-will-remain-in-barcelona-for-several-days/",
+            "d": "2026-09-01"
+          }
+        ],
+        "status": "確定＝手術成功・怪我3点／曖昧＝世界選手権出場可否は未定(※Xで大反応、主役は裏取り済み記事)"
+      },
+      {
+        "id": "20260902-tour-of-britain",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/N28QePr8vVjgiLmWGhdMng-2000-80.jpg",
+        "headline": "【レース】ロイズ・ツアー・オブ・ブリテン男子が今日9/2開幕——初日はリンカーンの激坂『マイケルゲート』(平均11.3%)を5周、ピドコックら参戦",
+        "layer1": "9/2〜6の5日間・816.4km。初日はリンカーン発着182.5kmの市街地サーキットで、激坂マイケルゲートを5回登る。カテゴリーはUCIプロシリーズ。",
+        "layer2": "出場はUAE(世界1位)、イネオス、スーダル・クイックステップらワールドツアーに、ピナレロQ36.5のトム・ピドコック＆フレッド・ライトら英国勢。昨年はグレゴワールがエヴェネプールを『2秒差』で下した接戦。ブエルタと並ぶ、秋の見どころレース枠。",
+        "sources": [
+          {
+            "t": "Cyclingnews（Tour of Britain）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-of-britain-men-2026/",
+            "d": "2026-08-26"
+          },
+          {
+            "t": "British Cycling（Stage 1）",
+            "u": "https://www.britishcycling.org.uk/tourofbritain/men/stageone",
+            "d": "2026-09-02"
+          }
+        ],
+        "status": "確定＝日程・コース・出場チーム／曖昧＝総合本命は後半の山岳次第"
+      },
+      {
+        "id": "20260902-duraace-13s-racing",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/uBbjRSbNkehy2Y8QdJfhWV-1624-80.jpg",
+        "headline": "【パーツ・続報】新デュラエース13速『R9300』はもう“走っている”——ブエルタでアルペシンが実戦投入、セミワイヤレスは維持",
+        "layer1": "8月下旬のリークに続き、ブエルタでアルペシン・プレミアテックの実車にR9300一式(13速カセット・新レバー・新RD・新クランク＆パワメ)が目撃。プロトタイプ段階ながら『実戦フェーズ』へ進んだ。",
+        "layer2": "『見た』から『レースで使う』に進んだ意味は大きく、市販が近い兆候。ただし正式発表・価格は未定(※要裏取り)。買い時の目安：手持ちの12速は当分無駄にならない(コンポ世代交代は数年単位)。13速待ちの買い控えより、フレームやホイールなど長く使う資産を先に更新するのが賢い。SRAMはロード13速が2027見込み、グラベルXPLRは既に13速。",
+        "sources": [
+          {
+            "t": "Cycling Weekly（Vueltaで目撃）",
+            "u": "https://www.cyclingweekly.com/news/new-13-speed-shimano-dura-ace-groupset-spotted-at-vuelta-a-espana",
+            "d": "2026-08-23"
+          },
+          {
+            "t": "Brújula Bike",
+            "u": "https://en.brujulabike.com/a-new-13-speed-shimano-dura-ace-is-already-racing-at-vuelta/",
+            "d": "2026-08-24"
+          }
+        ],
+        "status": "確定＝ブエルタで実戦目撃・13速／曖昧＝市販時期と価格は未発表(※要裏取り)"
+      },
+      {
+        "id": "20260902-30kmh-enforced",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://img.webike-cdn.net/@news/wp-content/uploads/2026/08/seikatsudouro_newrules_001b.webp",
+        "headline": "【国内市場・経営メモ】生活道路『30km/h』が昨日9/1施行——標識が無くても自動で30、超過検挙は反則金の対象外＝『赤切符(刑事)』。店頭Q&Aの本番へ",
+        "layer1": "中央線・車両通行帯の無い生活道路の法定速度が『60→30km/h』に(9/1施行)。新しい標識は設置されず、施行日を境に全国一律で自動的に30。報道は一般道の『約7割』が該当と伝える。",
+        "layer2": "実務の肝：①見分けは『中央線の有無』——無ければ30と考える②車の話が主だが、30超過での検挙は青切符(反則金)ではなく『赤切符＝刑事手続き』という整理③ローディーは「車が30で走る道」を前提に、走行位置と追い越されの想定を更新する必要。店頭では『どこが30?』『自転車も?』の質問が増える＝正確に答えられる準備を(自転車の青切符は別制度で4月から、点数なし・反則金)。",
+        "sources": [
+          {
+            "t": "くるまのニュース（Yahoo）",
+            "u": "https://news.yahoo.co.jp/articles/cf2e82f4920bcd12d58cfb58f97821ed52aa9b9c",
+            "d": "2026-08-31"
+          },
+          {
+            "t": "BSN新潟放送（警察に聞く）",
+            "u": "https://news.yahoo.co.jp/articles/8ea0a728528cb8b1ff5d5fcf743d66ba03324a3e",
+            "d": "2026-09-01"
+          }
+        ],
+        "status": "確定＝施行日・見分け方／曖昧＝運用の細部は今後の警察対応次第(※Xで賛否、要フォロー)"
+      },
+      {
+        "id": "20260902-2027-model-season",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2026/03/Giant-Propel-Advanced-SL-0-AXS_20260227_SvB_EOS-R_IMG_9654-scaled.jpg?w=1200",
+        "headline": "【国内市場・経営メモ】9月は『型落ち処分の入口』——2027モデルが出そろい始め(TREK Madone SLR Gen8ほか)、シマノ8/1値上げと二層で“買い手市場”が深化",
+        "layer1": "秋は翌年モデルの発表シーズン。TREKは2027として『Madone SLR Gen8(98万円)』『Domane SLR Gen4(75万円)』などを公開。一方シマノは8/1にペダル・シューズ・PROパーツ等を約3〜5%値上げ。",
+        "layer2": "経営示唆：新型が出るほど旧在庫の割安感が増し、本番の型落ち処分は10〜11月へ。今は焦って投げ売りせず、『下取り上乗せ』と『2027完成車の秋予約』で客を先に囲うのが上策。値上げは逆手に取り、「今の12速105/アルテ完成車が相対的に割安」という訴求に転換できる。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ（2027年モデル）",
+            "u": "https://www.cyclesports.jp/tags/2027%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/",
+            "d": "2026-08"
+          },
+          {
+            "t": "シマノ 価格改定のお知らせ",
+            "u": "https://shop-jp.shimano.com/blogs/news/price_update",
+            "d": "2026-07-28"
+          }
+        ],
+        "status": "確定＝TREK2027公開・シマノ値上げ／曖昧＝国内発売時期・価格は順次発表"
+      },
+      {
+        "id": "20260902-transfers-2027-wave2",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/emANyHxoWN3ybdY3V882PV-2560-80.jpg",
+        "headline": "【トレンド・移籍】2027移籍の第2波——ファンウデンがアルペシンへ、女子は新プロチーム『Decathlon CMA CGM』が始動",
+        "layer1": "エヴェネプール→レッドブル、アユソ→リドル・トレックに続き、カスパー・ファンウデン(→アルペシン)、ガルシア・コルティナ(→アルペシン)らが確定。女子は新設のDecathlon CMA CGMが10人を編成、ファンアンロイ→キャニオン・スラムも決まった。",
+        "layer2": "男子はスプリント／クラシック補強が軸で勢力図が微修正。女子は資本(デカトロン／CMA CGM)の新規参入で選手の受け皿が増え、市場は拡大局面。日本の店に直接は効かないが、『来季どのブランドがどのチームか』は、推し選手の機材＝完成車の話題づくりに使える。",
+        "sources": [
+          {
+            "t": "Cycling Weekly（2027移籍まとめ）",
+            "u": "https://www.cyclingweekly.com/racing/all-the-pro-cycling-transfers-for-2027",
+            "d": "2026-08"
+          },
+          {
+            "t": "Cyclingnews（2027 transfers）",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/cycling-transfers-all-the-latest-news-and-announcements-for-the-2027-season/",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝各移籍の発表分／曖昧＝一部は噂段階のため主役は確定分のみ"
+      },
+      {
+        "id": "20260902-collarbone-safety",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://www.thenationalnews.com/resizer/v2/XFCYQDXDYHDACMZGULEV4IVETE.jpg?smart=true&auth=2dd99e459c35e98b267ba7deaafad408140b397ebfd1633cd34b88a9e994f4b9&width=400&height=225",
+        "headline": "【初中級】“鎖骨骨折の夏”が教える落車の守り方——世界最強でも平坦で折れる、受け身と『まずやること』",
+        "layer1": "ポガチャル(ボトルを飲みながら物体に接触して単独落車→鎖骨骨折)、その41日前にはヴィンゲゴーも鎖骨。プロでも些細なきっかけで折れるのが鎖骨だ。",
+        "layer2": "実践：①手を前について支えると鎖骨・手首に衝撃が集中する→とっさは体を丸め、肩と背中で受けて頭を守る②走行中の片手作業(補給・ウェア調整)は直線・安全なときに短く③落車後はまず頭部(ヘルメットの割れ・意識・記憶)を確認、鎖骨は『段差・異常な動き』で疑い無理に動かさない④脳震盪の疑いがあれば当日は運動を再開しない。鎖骨は通常6週で復帰が目安。",
+        "sources": [
+          {
+            "t": "The National（落車の状況）",
+            "u": "https://www.thenationalnews.com/sport/cycling/2026/09/01/tadej-pogacar-has-successful-surgery-after-vuelta-crash-but-season-finale-remains-under-threat/",
+            "d": "2026-09-01"
+          }
+        ],
+        "status": "確定＝怪我の事実・一般的な受け身の考え方／曖昧＝医療判断は個別に専門家へ"
+      },
+      {
+        "id": "20260902-vuelta-gc-battle",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-09%2Fwout-van-aert-6a96dfbb83c15-6a96f273d59df.jpg",
+        "headline": "【トレンド】王者不在の『戦国ブエルタ』後半戦——赤マス+1:18ログリッチ、+1:39ガル、23歳オンリーも圏内、勝負は残る超級山岳",
+        "layer1": "ポガチャル離脱後、総合はマスが赤を守るが2位ログリッチと『1分18秒』、3位ガル、4位に23歳オンリーまで僅差。平坦の今日を挟み、決戦は後半の山頂フィニッシュ群へ。",
+        "layer2": "見どころは『守るマス vs 経験のログリッチ vs 伸び盛りのオンリー/ガル』の三つ巴。王者が消えたことで“機材と脚だけでは決まらない”戦術戦に振れた。日本の視聴者的には、若手オンリーの躍進が「次のスター探し」という別の楽しみを足してくれる。",
+        "sources": [
+          {
+            "t": "idlprocycling（第10終了時GC）",
+            "u": "https://www.idlprocycling.com/cycling/vuelta-a-espana-2026-standings-big-shake-up-in-the-gc-top-10-van-aert-moves-up-in-the-points",
+            "d": "2026-09-01"
+          }
+        ],
+        "status": "確定＝総合順位・タイム差／曖昧＝逆転劇は後半の山岳次第"
+      }
+    ]
+  },
+  {
     "date": "2026-09-01",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ブエルタは今日9/1に第10へ再開（王者不在の赤はマス）、そして国内は『生活道路30km/h』がいよいよ今日施行——レースも商売も動く一日です。",
     "cards": [
