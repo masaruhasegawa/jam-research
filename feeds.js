@@ -1,5 +1,275 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-09-03",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。ブエルタは今日『カラール・アルト天文台』の超級決戦——王者不在の赤ジャージ争奪はいよいよ山で炙り出されます。イギリスではNSNの伏兵が石畳でガンナを差し切り、機材はデュラエース13速が“新フリーボディ＝ホイール非互換”の物証を残しました。",
+    "cards": [
+      {
+        "id": "20260903-vuelta-st12-calaralto",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.cyclingstage.com/images/vuelta-spain/2026/stage-12-profile-100.jpg?02",
+        "headline": "【🔥今日の一本】ブエルタ第12は『超級カラール・アルト天文台』決戦——ベラ→166.6km・獲得4,568m、終盤ベレフィケ(13.1km/7.2%)からの山頂フィニッシュで王者不在GCが初めて“山で”炙り出される",
+        "layer1": "今日9/3の第12ステージはベラ→カラール・アルト天文台の166.6km・獲得4,568mの本格山岳。中盤の超級ベレフィケ(13.1km平均7.2%)を越え、最後は天文台への16.9km(平均5.6%)を上り切る山頂ゴール。",
+        "layer2": "先回りすると、この最終上りは『序盤3kmが二桁勾配→6km以降は偽平坦・小さな下り・登り返しが混じる不規則な壁』。つまり“一定ペースの削り合い”ではなく、ベテランの緩急とアタック合戦で差がつく設計。ポガチャル離脱後、赤=マスを2位以下(ログリッチ／ガル／オンリー／カラパス／スケルモーセ)が僅差で追う超接戦だけに、平坦続きで凍結していたGC差が今日ようやく本物の秒差に開く見込み。",
+        "sources": [
+          {
+            "t": "cyclingstage（第12コース）",
+            "u": "https://www.cyclingstage.com/vuelta-2026-route/stage-12-spain-2026/",
+            "d": "2026-09-03"
+          },
+          {
+            "t": "ProCyclingStats（Stage 12）",
+            "u": "https://www.procyclingstats.com/race/vuelta-a-espana/2026/stage-12",
+            "d": "2026-09-03"
+          }
+        ],
+        "status": "確定＝距離166.6km・獲得4,568m・最終上りカラール・アルト天文台16.9km/5.6%・手前に超級ベレフィケ。曖昧＝GCの秒差は今日の結果待ち。"
+      },
+      {
+        "id": "20260903-vuelta-st11-brennan-gc",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://d2779tscntxxsw.cloudfront.net/6a98587602b1f.png",
+        "headline": "【レース・続報】昨日9/2ブエルタ第11はブレナンが『大会3勝目』——21歳ヴィスマの弾丸がロルカのスプリントを制し、赤はマスが堅守。上位は僅差でひしめく“戦国GC”のまま山へ",
+        "layer1": "カルタヘナ→ロルカの平坦第11は、ヴィスマの21歳マシュー・ブレナンがスプリントを制して今大会3勝目。2位コカール、3位メーウス。赤ジャージは総合首位のエンリク・マスが維持。",
+        "layer2": "先回りの深掘り：ブレナンはGTデビューの今大会で早くも3勝、ファンアールトらが敷く発射台の“最後の一撃”として完成度が際立つ。一方GCは、ポガチャル離脱以降マスが赤を着るも、ログリッチ／ガル／オンリー／カラパス／スケルモーセらが超僅差で並ぶ“総力戦”構図。平坦ステージが続き差が動かなかったぶん、今日の超級カラール・アルトが最初の本格的な選別点になる。",
+        "sources": [
+          {
+            "t": "FloBikes（GC after St11）",
+            "u": "https://www.flobikes.com/articles/16152359-la-vuelta-standings-after-stage-11-see-whos-leading",
+            "d": "2026-09-02"
+          },
+          {
+            "t": "Cyclingnews（Stage 11 live）",
+            "u": "https://www.cyclingnews.com/pro-cycling/live/vuelta-a-espana-stage-11-live-the-sprint-team-are-set-to-battle-the-breakaway-on-the-road-to-lorca/",
+            "d": "2026-09-02"
+          }
+        ],
+        "status": "確定＝第11はブレナン(3勝目)、赤=マス継続。曖昧＝2位以下の正確な秒差は媒体で表記揺れ、山岳前で僅差なのは共通。"
+      },
+      {
+        "id": "20260903-tob-st1-askey-michaelgate",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://procyclinguk.com/wp-content/uploads/2026/09/Lewis-Askey-2026-Tour-of-Britain-Stage-1-Getty.jpg",
+        "headline": "【人間ドラマ】ツアー・オブ・ブリテン開幕、伏兵ルイス・アスキー(NSN)が石畳の激坂『マイケルゲート』でガンナを差し切る——初日はポルトガルで散った選手への追悼から始まった",
+        "layer1": "昨日9/2開幕のツアー・オブ・ブリテン男子・第1ステージ(リンカーン発着)は、平均11%超の石畳『マイケルゲート』最後の登坂でルイス・アスキー(NSNサイクリング)がアタック。2位ガンナ(+2秒)、3位ウェレンス(+2秒)を退けて母国で勝利、リーダージャージを獲得。",
+        "layer2": "刺さる背景：勝ったアスキーはWorldTourではなく英コンチネンタル格のNSN所属で、ガンナやウェレンスら格上を石畳で力ずくで抑えた“下剋上”。しかもこの開幕は、ヴォルタ・ア・ポルトガル中に亡くなった若手フィンレイ・ターリングへの追悼とともに始まり、英国の名物クライムで走る意味が一段重かった。残り2kmで飛び出したフェルメルシュを捉え、最急勾配で突き放した勝ち方も見事。",
+        "sources": [
+          {
+            "t": "ProCyclingUK（Stage 1）",
+            "u": "https://procyclinguk.com/lloyds-tour-of-britain-men-2026-stage-1-lewis-askey-storms-up-michaelgate-to-win-in-lincoln/",
+            "d": "2026-09-02"
+          },
+          {
+            "t": "British Cycling（Stage One）",
+            "u": "https://www.britishcycling.org.uk/tourofbritain/men/stageone",
+            "d": "2026-09-02"
+          }
+        ],
+        "status": "確定＝アスキー(NSN)が第1勝、2位ガンナ・3位ウェレンス、ターリング追悼で開幕。"
+      },
+      {
+        "id": "20260903-nsn-transfers-2027",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039128-048.jpg",
+        "headline": "【移籍・トレンド】2027移籍“第3波”——石畳を制したNSNは補強も本気、アスグリーン＆ブイトラゴを獲得。モラーノがロット、ド・リエがトゥドール、ファンアンローイがCanyon-SRAMへ",
+        "layer1": "昨日更新の2027移籍まとめで、NSNサイクリングがカスパー・アスグリーン(EF)とサンティアゴ・ブイトラゴ(バーレーン)を獲得と判明。他にモラーノ(UAE→ロット)、ド・リエ(ロット→トゥドール)、ファンアンローイ(リドル・トレック→Canyon-SRAM)などが確定。",
+        "layer2": "先回りすると、昨日ツアー・オブ・ブリテン初日を勝ったNSNの“伏兵アスキー”は偶然ではない。NSNは元世界TTの実力者アスグリーンやGTステージ勝者ブイトラゴまで引き抜き、格上に挑む陣容を整えつつある。2027はスター級の大移動というより“中堅・実力派の再配置”が主役で、市場は本格始動フェーズ。マサル的には、こうした選手の物語がそのままショート/記事の起点になる。",
+        "sources": [
+          {
+            "t": "Domestique（2026/27移籍まとめ）",
+            "u": "https://www.domestiquecycling.com/en/features/the-2026-2027-transfer-overview/",
+            "d": "2026-09-02"
+          },
+          {
+            "t": "Cycling Weekly（2027 transfers）",
+            "u": "https://www.cyclingweekly.com/racing/all-the-pro-cycling-transfers-for-2027",
+            "d": "2026-09-02"
+          }
+        ],
+        "status": "確定＝NSNがアスグリーン/ブイトラゴ、モラーノ→ロット、ド・リエ→トゥドール等。曖昧＝大物の一部は交渉中。"
+      },
+      {
+        "id": "20260903-duraace-r9300-13-freehub",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/uBbjRSbNkehy2Y8QdJfhWV-1624-80.jpg",
+        "headline": "【パーツ・続報】新デュラエース『R9300＝13速』の物証がブエルタで続々——決定打は“新フリーボディ必須”＝手持ちホイールにポン付け不可。公式発表は年末〜2027初頭、実戦供給は2027シーズン狙い",
+        "layer1": "開催中のブエルタで撮影された次期デュラエース(R9300とみられる)は、12→13速化が最大の変更。セミワイヤレス(変速は無線・後変速のみ内蔵バッテリーへ有線)を維持し、新型シフトボタンとLED、そして『新フリーボディを要する13枚カセット』が確認された。",
+        "layer2": "先回りの核心：13速カセットは従来のHGフリーボディに“載らない”設計で、事実上ホイール側の対応(=新ホイールか新フリーボディ)が要る。つまり『コンポだけ換えて13速化』は不可の可能性が高い。まだ公式未発表で、正式披露は2026年末〜2027年初頭、量産・本格供給は2027レースシーズン見込み。フルワイヤレス化の噂もあるが現物はセミワイヤレスのまま。店頭では“今の12速客に買い控えを促さない”説明が要る領域。",
+        "sources": [
+          {
+            "t": "Cycling Weekly（R9300 spotted）",
+            "u": "https://www.cyclingweekly.com/news/new-13-speed-shimano-dura-ace-groupset-spotted-at-vuelta-a-espana",
+            "d": "2026-08"
+          },
+          {
+            "t": "the5krunner（13-speed spotted）",
+            "u": "https://the5krunner.com/2026/08/23/dura-ace-r9300-13-speed-spotted/",
+            "d": "2026-08-23"
+          }
+        ],
+        "status": "曖昧＝Shimano未発表(目撃ベース)。確度高＝13速・セミワイヤレス維持・新フリーボディ必須。時期＝公式は年末〜2027初頭見込み。"
+      },
+      {
+        "id": "20260903-13sp-buy-timing",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/uBbjRSbNkehy2Y8QdJfhWV-1624-80.jpg",
+        "headline": "【初中級】“13速が来るなら今は買い控え?”への答え——手持ち12速は当分無駄にならない。理由は『供給は2027シーズン＆超高額から』、まず値ごろな今の12速/機械式で困らない",
+        "layer1": "デュラエース13速の目撃が続き『今買うと損?』の不安が再燃。結論は“急いで待つ必要なし”。理由は供給時期と価格、互換性の三つ。",
+        "layer2": "先回りで整理：①時期——13速は公式発表すら年末〜2027初頭、一般が普通に買えるのはさらに先。②価格——最上位デュラエースからの投入で、当初は数十万円級。恩恵が中級グレードに降りるのは何年か後。③互換——13速は新フリーボディ必須で“載せ替え”が効かず、結局ホイールごと更新になりがち。だから今の12速(や十分速い機械式)を買っても数年は現役。むしろ今は型落ち12速が値ごろ＝“買い時”とすら言える。",
+        "sources": [
+          {
+            "t": "the5krunner（13-speed spotted）",
+            "u": "https://the5krunner.com/2026/08/23/dura-ace-r9300-13-speed-spotted/",
+            "d": "2026-08-23"
+          },
+          {
+            "t": "Cycling Weekly（R9300 spotted）",
+            "u": "https://www.cyclingweekly.com/news/new-13-speed-shimano-dura-ace-groupset-spotted-at-vuelta-a-espana",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝供給は2027シーズン以降・新フリーボディ必須。判断＝12速は当分現役、待つ実益は薄い。"
+      },
+      {
+        "id": "20260903-china-carbon-spoke",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.shopify.com/s/files/1/0464/1098/9718/files/YOELEO.jpg?v=1645595904",
+        "headline": "【ホイール】中華カーボンは『カーボンスポーク世代』へ本格移行——ヨーレオ/ウィンスペースがUCI認証＆TÜVで“表彰台級”に肉薄、大手の1/3〜1/2価格。選ぶ軸は数値より《規格×認証×保証》",
+        "layer1": "中華カーボンホイールは“怪しいパーツ”から“賢い選択肢”へ。上位のヨーレオ(カーボンスポークで高反応)、ウィンスペース(TÜV認証・エアロ特化)はUCI競技規定をクリアし、性能面で欧州中堅に肉薄。価格は大手の1/3〜1/2。",
+        "layer2": "先回りの目利き：大手がやっと採用した“カーボンスポーク×太タイヤ最適化”は、中華上位がむしろ先行してきた土俵。だが失敗しない選び方はスペック数値の競い合いではなく——①ディスク用を選ぶ(リムブレーキの熱問題を回避)、②リム高は45〜50mmで万能、③ハブ/ベアリング(DT Swiss等)と③保証・アフターが効くブランド(ウィンスペース/ヨーレオ)を優先。うち(8LIEN/CRW/GOOSYNN/NEPEST/FARSPORTS/PARTICLE)が強いのは、まさにこの“規格と保証で外さない”受け皿の領域。",
+        "sources": [
+          {
+            "t": "bike-memo（中華カーボン格付け2026）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-04"
+          },
+          {
+            "t": "Yoeleo Japan（SATシリーズ）",
+            "u": "https://www.yoeleojapanshop.com/",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝上位中華はUCI/TÜV認証・カーボンスポーク採用。判断＝選定軸は規格×認証×保証、数値だけで選ばない。"
+      },
+      {
+        "id": "20260903-china-rating-pv-buzz",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/01/zakki_C128.jpg",
+        "headline": "【国内市場・Xで定番】“中華カーボン格付け・比較”記事がいまもPV上位＆X常連——買い手は『ネットで銘柄を決めてから来店』、店は指名買いの“受け皿”になる時代",
+        "layer1": "日本語ブログの中華カーボンホイール格付け・比較記事は年明けから更新され続け、いまもPV上位・Xでも定番の話題。ローディーの多くが“ブランドをネットで決め切ってから来店”する購買行動が定着している。",
+        "layer2": "裏取りして先回り：X上の『中華は不安/いや今は良い』という論争は入口で、その先の一次情報は各社のUCI認証・TÜV等の認証実績と保証条件。だから店の勝ち筋は“安さ勝負”ではなく、指名買いの受け皿として『規格適合・実測・アフター保証』を即答できること。マサル的には、この“指名買い前提”をショート/記事で先回りして満たすほど来店動機になる。(Xの噂そのものは断定せず、認証・保証の一次情報で裏を取る前提)",
+        "sources": [
+          {
+            "t": "bike-memo（中華カーボンおすすめ2026）",
+            "u": "https://bike-memo.com/cycle_260202_carbon-wheels/",
+            "d": "2026-02"
+          },
+          {
+            "t": "bike-memo（格付け・比較2026）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-04"
+          }
+        ],
+        "status": "確定＝格付け記事はPV/X常連、指名買い行動が主流。※Xの評価論争は入口、裏取りは認証・保証で。"
+      },
+      {
+        "id": "20260903-buyers-market-autumn",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://www.1jyo.com/wp/wp-content/uploads/2026/06/4d575f174b97c1f460b7b8afdef35ace.jpg",
+        "headline": "【経営メモ・市場】秋の『買い手市場』が深化——ワイズロードはアウトレット最大90%OFF稼働、2027モデルは出そろい(TREKドマーネSLR Gen5=-305g/40C対応)、シマノ値上げと“二層”で在庫が動く",
+        "layer1": "9月現在、ワイズロードは型落ち・在庫処分を最大90%OFFのアウトレットで放出中(すべて新品)、あさひも通販セールを展開。一方でTREKは2027(Gen)を出しそろえ、ドマーネSL/SLRはGen5でフルモデルチェンジ(約305g軽量化・最大40Cタイヤ対応)。",
+        "layer2": "先回りの経営視点：①旧在庫の値ごろ化(処分本番は10〜11月)と、②新型による“旧型の陳腐化”＋シマノ値上げ、という二層で『買い手市場』が深まる。専門店の武器は値引き競争ではなく、下取り・予約・整備力で客を“今”囲い込むこと。とくにドマーネGen5のような太タイヤ(40C)/軽量化トレンドは、手持ち車のタイヤ・ホイール相談(＝うちの得意領域)に自然につながる。",
+        "sources": [
+          {
+            "t": "1jyo（TREK 2027 価格改定・新色）",
+            "u": "https://www.1jyo.com/news/?p=104588",
+            "d": "2026-08-14"
+          },
+          {
+            "t": "ワイズロード（値下げ対象/アウトレット）",
+            "u": "https://online.ysroad.co.jp/shop/l/l-pricedown-01/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝アウトレット/セール稼働中、TREK 2027出そろい(ドマーネGen5フルMC)。※処分本番は10〜11月。"
+      },
+      {
+        "id": "20260903-beginner-mountain-watch",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/GTGsfaV7Rzk4A9Nuu5Y7kE-1920-80.jpg",
+        "headline": "【初中級】今日のブエルタ“超級山頂フィニッシュ”を10倍楽しむ観戦入門——赤ジャージ攻防／GCの秒差／超級山岳の見どころを、初めてでも分かるように",
+        "layer1": "今日のカラール・アルトは今大会屈指の山頂ゴール。GC(総合)が“僅差の戦国”のまま初めて本格山岳を迎える一日で、初観戦でも“事件が起きる日”になりやすい。",
+        "layer2": "先回りの見方3点：①赤ジャージ＝総合首位(今はマス)。山頂で誰が着替えるかがハイライト。②“獲得標高4,568m/超級ベレフィケ＆最終16.9km”という数字は、逃げ切りかGC勝負かの分岐点。ラスト3kmの二桁勾配で一気に人が絞られる。③平坦続きで凍っていた秒差が今日“本物”になる——数十秒でも山では致命傷。ロード乗り目線では、こういう不規則勾配こそ“ペース管理と緩急”という自分の走りにも効く教材。",
+        "sources": [
+          {
+            "t": "cyclingstage（第12コース）",
+            "u": "https://www.cyclingstage.com/vuelta-2026-route/stage-12-spain-2026/",
+            "d": "2026-09-03"
+          },
+          {
+            "t": "Cyclingnews（Vuelta 2026）",
+            "u": "https://www.cyclingnews.com/races/vuelta-a-espana-2026/",
+            "d": "2026-09-03"
+          }
+        ],
+        "status": "確定＝第12は超級山頂フィニッシュ。観戦要点＝赤の攻防・GC秒差・最終上りの勾配。"
+      },
+      {
+        "id": "20260903-trend-2027-gear-year",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://www.1jyo.com/wp/wp-content/uploads/2026/06/4d575f174b97c1f460b7b8afdef35ace.jpg",
+        "headline": "【トレンド】2027は『機材の当たり年』になりそう——デュラエース13速、フレームの全面刷新(ドマーネGen5=40C対応)、太タイヤ×カーボンスポークが“標準”へ",
+        "layer1": "デュラエース13速の実戦目撃、TREKドマーネGen5のフルモデルチェンジ(最大40Cタイヤ対応)、大手のカーボンスポーク採用が重なり、2027は“フレーム・変速・ホイール”が同時に更新される節目の年になりそう。",
+        "layer2": "先回りの本質：ここ数年の流れ(太タイヤ・低圧チューブレス・T47ねじ切りBB・エアロと快適の融合)が、2027モデルで“例外”から“標準”へ移る。つまり『速い×快適×整備しやすい』が当たり前になる一方、13速の新フリーボディのように“旧資産と非互換”な変化も同居する。買い替えは焦らず、①今の12速は数年戦える、②太タイヤ対応の有無、③保証と整備性——で選ぶのが吉。うち的には“太タイヤ×カーボンスポーク×中華”の相談が増える追い風。",
+        "sources": [
+          {
+            "t": "1jyo（TREK 2027 ドマーネGen5等）",
+            "u": "https://www.1jyo.com/news/?p=104588",
+            "d": "2026-08-14"
+          },
+          {
+            "t": "the5krunner（デュラエース13速）",
+            "u": "https://the5krunner.com/2026/08/23/dura-ace-r9300-13-speed-spotted/",
+            "d": "2026-08-23"
+          }
+        ],
+        "status": "確定＝13速目撃・ドマーネGen5フルMC・カーボンスポーク普及。判断＝“標準化”と“非互換”が同居、焦らず選ぶ。"
+      }
+    ]
+  },
+  {
     "date": "2026-09-02",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。王者ポガチャルは鎖骨手術『成功』も世界選手権には暗雲——ヴィンゲゴーの41日後、2026はGT両王者が鎖骨で散る年になりました。ブエルタは平坦の第11、英国はツアー・オブ・ブリテンが今日開幕です。",
     "cards": [
