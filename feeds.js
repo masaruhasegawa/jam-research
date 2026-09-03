@@ -1,5 +1,237 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-09-04",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。ブエルタは第12でスロベニアの新星オムルジェル(20)が『超級カラール・アルト』を独走制覇、赤マスは山で貯金——今日の第13は逃げ切り濃厚回です。英国はメルリエとヴィーベスが2つのツアー・オブ・ブリテンを盛り上げ、機材は新デュラエースの『13速＆9月出荷ホイール』が現実味。国内は9/1施行30km/hの裏でXが“車道走行の実害”を語り始めました。",
+    "cards": [
+      {
+        "id": "20260904-vuelta-st12-omrzel",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://procyclinguk.com/wp-content/uploads/2026/09/Jakob-Omrzel-2026-Vuelta-Espana-Stage-12-Getty.avif",
+        "headline": "【🔥今日の一本】ブエルタ第12『超級カラール・アルト』は20歳オムルジェル(バーレーン)が独走初勝利——赤マスは山で貯金し、2位ロリッチに『+1:45』、3位は移籍市場の主役ガル",
+        "layer1": "昨日9/3のブエルタ第12(ベラ→カラール・アルト166.6km・今大会最高所の山頂フィニッシュ)は、大逃げから20歳ヤコブ・オムルジェルが残り13kmで抜け出し独走。2位ベラーデに『+1:56』の大差でキャリア最大の勝利をつかんだ。赤ジャージのマスも山頂で自ら加速し、総合リードを広げた。",
+        "layer2": "総合はマスが2位ログリッチに『+1:45』、3位はデカトロンのフェリックス・ガル(+2:06)。そのガルは今『リドル・トレックへ移籍』が濃厚と噂される選手＝走りと市場の両方で主役だ(※移籍は正式未発表・要裏取り)。オムルジェルはポガチャル/ログリッチに続く『スロベニア新世代』の台頭を印象づけた一勝。王者不在GCは山で少しずつ差が開き始めた。",
+        "sources": [
+          {
+            "t": "ProCyclingUK（第12結果）",
+            "u": "https://procyclinguk.com/vuelta-a-espana-2026-stage-12-jakob-omrzel-wins-on-calar-alto-as-enric-mas-extends-red-jersey-lead/",
+            "d": "2026-09-03"
+          },
+          {
+            "t": "ProCyclingStats（Stage 12 result）",
+            "u": "https://www.procyclingstats.com/race/vuelta-a-espana/2026/stage-12/result/result",
+            "d": "2026-09-03"
+          },
+          {
+            "t": "Olympics.com（GC standings）",
+            "u": "https://www.olympics.com/en/news/vuelta-espana-2026-schedule-stage-results-general-classification-standings",
+            "d": "2026-09-03"
+          }
+        ],
+        "status": "確定＝オムルジェル優勝(+1:56)・GC(マス+1:45ログリッチ・ガル3位)/曖昧＝ガルの移籍は噂段階(※要裏取り)"
+      },
+      {
+        "id": "20260904-vuelta-st13-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/Le6SogUUfhRtcGaeZXfXgd-1931-80.jpg",
+        "headline": "【レース・今日】ブエルタ第13はアルムニェカル→ロハ192.8km『逃げ切り濃厚』の丘陵——前半84kmに登り集中、ファンアールト/ニース/コートが狙う",
+        "layer1": "今日9/4の第13ステージは192.8km・獲得3,200m超。序盤84kmに3つのカテゴリー山岳が集中し、そこで強力な逃げが形成されやすい丘陵ステージ。フィニッシュのロハは平坦寄りで、逃げ向きの脚に絶好の一日。",
+        "layer2": "本命は逃げ向きの実力者＝ファンアールト、ニース(第10で3位)、コート、ローランス、ヘイターら。総合勢は静観の見込みで、焦点は『逃げが決まるか・集団が仕留めるか』。マスは山を越えたばかりで今日は小休止気味、赤は動かない可能性が高い。まず序盤84kmの登りで“誰が逃げに乗るか”が見どころ。",
+        "sources": [
+          {
+            "t": "Cyclingnews（Stage 13 preview）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-2026-stage-13-preview/",
+            "d": "2026-09-04"
+          },
+          {
+            "t": "ProCyclingUK（Stage 13 preview）",
+            "u": "https://procyclinguk.com/vuelta-a-espana-2026-stage-13-preview-van-aert-nys-and-cort-face-a-breakaway-battle-on-the-road-to-loja/",
+            "d": "2026-09-04"
+          }
+        ],
+        "status": "確定＝コース(192.8km・逃げ向き丘陵)/曖昧＝優勝者は未定(今日開催)"
+      },
+      {
+        "id": "20260904-tob-men-merlier-askey",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://procyclinguk.com/wp-content/uploads/2026/09/Tim-Merlier-2026-Tour-of-Britain-Stage-2-Getty-scaled.avif",
+        "headline": "【レース】ツアー・オブ・ブリテン、メルリエが第2『スケグネス』のスプリント制覇——だが総合はGBの伏兵アスキー(NSN)が首位堅守、今日は第3ハル→ビバリー",
+        "layer1": "昨日9/3の男子第2(→スケグネス)は横風のスプリントをティム・メルリエ(スーダル)が制し、2位クファイ、3位ベネット。開幕勝利のルイス・アスキー(NSN)は集団内で無難にまとめ、総合首位を守った。",
+        "layer2": "アスキーは初日リンカーンの激坂『マイケルゲート』(平均11.3%)でガンナを差した英国の伏兵。純スプリント区間を凌いだことで首位を継続し、今日9/4の第3(ハル→ビバリー)へ。平坦寄りが続くなか、いつGC勢が動くか——地元の物語が続く。",
+        "sources": [
+          {
+            "t": "ProCyclingUK（ToB Men Stage 2）",
+            "u": "https://procyclinguk.com/lloyds-tour-of-britain-men-2026-stage-2-tim-merlier-wins-skegness-sprint-as-lewis-askey-keeps-race-lead/",
+            "d": "2026-09-03"
+          }
+        ],
+        "status": "確定＝メルリエ第2勝利・アスキー総合首位/曖昧＝第3ステージは今日開催"
+      },
+      {
+        "id": "20260904-tob-women-wiebes",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://procyclinguk.com/wp-content/uploads/2026/08/Lorena-Wiebes-2026-Tour-of-Britain-Women-Stage-1.jpg",
+        "headline": "【人間ドラマ】女子ツアー・オブ・ブリテン、ヴィーベスが第2も制して2連勝——雨で一部中立化のブラックプールをロングスプリント、総合『+14秒』",
+        "layer1": "女子第2(クリザロー→ブラックプール)は、路面悪化で一部が中立化されるなか、ローレナ・ヴィーベスがロングスプリントで連勝。2位コールズ=リスター、3位ル・クール=ピエナール。",
+        "layer2": "ヴィーベスは世界最速級のスプリンター。開幕から2連勝で総合リードを『+14秒』に拡大した。女子レースも“スプリンター天国”の様相だが、大会後半に丘陵が控える。純スプリンターの貯金がどこまで持つか——男子アスキーの守勢と対照的な、王者の攻めが続く。",
+        "sources": [
+          {
+            "t": "ProCyclingUK（ToB Women Stage 2）",
+            "u": "https://procyclinguk.com/lloyds-tour-of-britain-women-2026-stage-2-lorena-wiebes-wins-again-in-blackpool-after-neutralised-wet-stage/",
+            "d": "2026-09-03"
+          },
+          {
+            "t": "Cyclingnews（Wiebes doubles up）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-of-britain-women-lorena-wiebes-doubles-up-with-long-range-sprint-to-win-stage-2/",
+            "d": "2026-09-03"
+          }
+        ],
+        "status": "確定＝ヴィーベス2連勝・総合+14秒"
+      },
+      {
+        "id": "20260904-shimano-wh-r9370-ship",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/Pm6DzMEABQ2rYoesxef9y9-1920-80.jpg",
+        "headline": "【ホイール】シマノ新デュラエース『WH-R9370』が今月出荷開始——カーボンスポークで最大-220g、なお“カップ&コーン”を堅持。中華カーボンスポークは半額圏",
+        "layer1": "新デュラエースのホイールWH-R9370が『2026年9月から』出荷開始(正確な日は未確定)。カーボンスポーク採用でペア最大-220g(C50=1,302g／C36=1,170g)、28-30C最適化、リム内幅23mm。いよいよ店頭に届く時期。",
+        "layer2": "注目は軸受けに『カップ&コーン』を堅持した点——シマノは“回転抵抗はカートリッジより30%低い・ベアリング交換可”と主張する。一方でヨーレオ/ウィンスペース等の中華はカーボンスポーク×同等重量を『大手の1/2前後』で出しており、選ぶ軸は数値より《規格×認証×保証》。うちの取扱い(8LIEN/CRW/GOOSYNN/NEPEST/FARSPORTS)もこの土俵で戦える。",
+        "sources": [
+          {
+            "t": "BikeRadar（WH-R9370）",
+            "u": "https://www.bikeradar.com/news/shimano-dura-ace-r9370-wheels",
+            "d": "2026-07-29"
+          },
+          {
+            "t": "Cyclingnews（Dura-Ace wheel range）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/shimano-launches-brand-new-dura-ace-wheel-range-does-this-mean-a-new-groupset-is-imminent/",
+            "d": "2026-07"
+          },
+          {
+            "t": "TechTimes（WH-R9370 launch）",
+            "u": "https://www.techtimes.com/articles/321970/20260729/shimano-dura-ace-wh-r9370-launches-carbon-spokes-slash-weight-signal-r9300-groupset-era.htm",
+            "d": "2026-07-29"
+          }
+        ],
+        "status": "確定＝重量-220g・28-30C・カップ&コーン堅持/曖昧＝9月出荷の正確日は未確定"
+      },
+      {
+        "id": "20260904-dura13-inventory-memo",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://escapecollective.com/content/images/size/w1200/2026/08/New-Shimano-Dura-Ace-R9300-Vuelta-Espana-2026-Escape-Collective--2-2.jpg",
+        "headline": "【経営メモ・市場】新デュラエース『13速R9300』がブエルタで実戦投入——“新フリーボディ必須”説で、店の12速在庫と客への説明をどう構えるか",
+        "layer1": "新型13速デュラエース(R9300)がブエルタでアルペシン等の実戦に投入され続報。5年ぶりの刷新で、セミワイヤレスは維持しつつ13速化。カセット/リアメカ/レバーが新設計と見られる。",
+        "layer2": "経営目線の要点は『供給は2027シーズン＆超高額から』＝今の12速在庫は当分無駄にならない。ただし“新フリーボディ必須(手持ちホイールにポン付け不可)”という物証があり、13速移行時はホイール側の投資も要る。客には『今は12速/機械式で十分、13速は2027以降に周辺ごと更新』と正直に説明するのが吉。公式発表は年末〜2027初頭が有力(※要裏取り)。",
+        "sources": [
+          {
+            "t": "Escape Collective（R9300 in the wild）",
+            "u": "https://escapecollective.com/in-the-wild-shimano-dura-ace-r9300-groupset-at-la-vuelta/",
+            "d": "2026-08"
+          },
+          {
+            "t": "Cyclingnews（R9300 spotted）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/groupsets/new-dura-ace-spotted/",
+            "d": "2026-08"
+          },
+          {
+            "t": "GravelPassion（R9300 rumours）",
+            "u": "https://en.gravelpassion.fr/rumours-shimano-dura-ace-13-speed/",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝ブエルタで13速実戦・5年ぶり刷新/曖昧＝発売時期・新フリーボディ必須は未公式(※要裏取り)"
+      },
+      {
+        "id": "20260904-30kmh-car-lane-x",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://car-info.tokyo/wp-content/uploads/road-sign-30kmh.png",
+        "headline": "【国内市場・Xで継続議論】生活道路『30km/h』9/1施行の裏で、Xは“車道走行の実害”を語り始めた——縁石にペダル・段差・グレーチングで「寿命が縮む」の声",
+        "layer1": "9/1施行の生活道路30km/h(中央線などが無い道路が対象)に合わせ、Xやまとめでは『車道を走らされる自転車の危なさ』が継続的に話題。縁石へのペダル接触、車道端の段差、雨天のグレーチング(排水溝格子)の滑りなど、実体験の声が並ぶ。",
+        "layer2": "店頭Q&Aの本番だ。返せると強いのは3点——①見分け＝『中央線の有無』(あれば従来60、無ければ自動30)②危険回避＝車道端の段差・格子を避け、無理に端へ寄りすぎない③装備＝太めタイヤ/チューブレスで段差耐性を上げる。制度の認知はまだ約4割で、不安相談は増える見込み。",
+        "sources": [
+          {
+            "t": "car-info.tokyo（30km/h施行・見分け）",
+            "u": "https://car-info.tokyo/seikatsudoro-30km-2026/",
+            "d": "2026-09-01"
+          },
+          {
+            "t": "Togetter（車道自転車レーンの危険・Xの声）",
+            "u": "https://togetter.com/li/2682591",
+            "d": "2026-04-05"
+          }
+        ],
+        "status": "確定＝9/1施行・見分けは中央線の有無/曖昧＝Xの“実害”は個別体験談(※要裏取り)"
+      },
+      {
+        "id": "20260904-china-carbon-howto",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/01/zakki_C128.jpg",
+        "headline": "【初中級】“ネットで銘柄を決めてから来店”時代の中華カーボン選び——数字より《実在ブランド×規格の明快さ×使える保証》の3点",
+        "layer1": "中華カーボン(ホイール/フレーム)はXやブログで常に比較・格付けが話題で、買い手は『ネットで候補を絞ってから来店』が定着。ただし“安さ・軽さ”の数字だけで選ぶと後悔しやすい、という声も根強い。",
+        "layer2": "潜って得た選び方の芯は3つ——①実在ブランドか(継続販売・実店舗流通・レビュー蓄積)②規格が明快か(内幅/対応タイヤ/フックレス可否/対応内圧)③保証が“実際に使える”条件か(送料・往復・言語)。8LIEN/CRW/GOOSYNN/YOELEO等はこの3点で選べば失敗が減る。フックレスは『最低空気圧を守る』が絶対で、下げすぎは事故のもと。",
+        "sources": [
+          {
+            "t": "B4C（中華カーボンのインプレと評価）",
+            "u": "https://b4c.jp/china-carbon-road-fasterway/",
+            "d": "2026-01"
+          },
+          {
+            "t": "bike-memo（中華カーボンホイール格付け）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-01"
+          }
+        ],
+        "status": "確定＝選び方の原則(規格×認証×保証)は普遍/曖昧＝個別ブランド評価は用途・個体差あり"
+      },
+      {
+        "id": "20260904-breakaway-watch-101",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://procyclinguk.com/wp-content/uploads/2026/08/divI-didnt-have-confidence-in-myself-–-Wout-van-Aert-bags-green-jersey-but-regrets-missed-opportunity-in-Vuelta-a-Espana-breakawaydiv.jpg",
+        "headline": "【初中級・観戦】今日のブエルタ第13“逃げ切り回”を10倍楽しむ——なぜ『逃げは決まる/決まらない』のか、集団との駆け引き入門",
+        "layer1": "今日の第13は逃げ切りが濃厚な丘陵ステージ。『逃げ(ブレイクアウェイ)』は数人〜十数人が集団の前に出て先行する動きで、決まる(逃げ切る)か、吸収されるかがドラマの核心になる。",
+        "layer2": "決まる条件はだいたい3つ——①総合に絡まない顔ぶれ(＝集団が本気で追わない)②登りで実力が拮抗し差が広がらない③スプリンターチームに平坦で牽く動機がない。今日は①③が揃いやすく、逃げ向きのファンアールト/ニース/コートが本命。GC勢は静観＝赤ジャージは動かない可能性が高い。まず序盤84kmの登りで“誰が乗るか”を見よう。",
+        "sources": [
+          {
+            "t": "Cyclingnews（Stage 13 preview）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-2026-stage-13-preview/",
+            "d": "2026-09-04"
+          },
+          {
+            "t": "ProCyclingUK（Stage 13 preview）",
+            "u": "https://procyclinguk.com/vuelta-a-espana-2026-stage-13-preview-van-aert-nys-and-cort-face-a-breakaway-battle-on-the-road-to-loja/",
+            "d": "2026-09-04"
+          }
+        ],
+        "status": "確定＝逃げが決まる基本原理/曖昧＝今日の実際の展開は予想"
+      }
+    ]
+  },
+  {
     "date": "2026-09-03",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。ブエルタは今日『カラール・アルト天文台』の超級決戦——王者不在の赤ジャージ争奪はいよいよ山で炙り出されます。イギリスではNSNの伏兵が石畳でガンナを差し切り、機材はデュラエース13速が“新フリーボディ＝ホイール非互換”の物証を残しました。",
     "cards": [
