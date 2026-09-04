@@ -1,5 +1,304 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-09-05",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ブエルタは第13でヴァンアールトが『4日粘った逃げ』でついに独走勝利、今日の第14は“南のアングリル”パンデラでGC再点火——勝負は来週木曜の『32km個人TT』へ。英国はコーイユがメルリエを差し、世界選手権(モントリオール9/20-27)が視界に。国内は『9月末決算セール』と“中古バブル崩壊”の買い手市場、機材は新デュラエース・ホイールが今月出荷(約44万円)で中華の価格優位が改めて鮮明です。",
+    "cards": [
+      {
+        "id": "20260905-vuelta-st13-vanaert",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://procyclinguk.com/wp-content/uploads/2026/09/Wout-van-Aert-2026-Vuelta-Espana-Stage-13-Getty-scaled.avif",
+        "headline": "【🔥今日の一本】ヴァンアールト、4日連続の逃げでついに——ブエルタ第13『ロハ』を残り3.6kmから独走。世界選手権前に最高のはずみ",
+        "layer1": "昨日9/4のブエルタ第13(アルムニェカル→ロハ192.8km・猛暑)は、40人超の大逃げに乗ったヴァンアールト(ヴィスマ)が残り3.6kmで加速、パレ＝パントル(スーダル)を振り切って独走勝利。今大会これで『4日連続の逃げ』の末、上位常連からの“ついに”の一勝だった。",
+        "layer2": "勝因は21歳ブレナンの献身的アシスト——集団を削り、ヴァンアールトを勝てる形に置いた。総合はマスが2位ログリッチに『+1:45』を堅守。この勝利は9/20-27の世界選手権(モントリオール)へ向けた“調子と自信”の証明でもある。スプリント・登り・逃げの全部に顔を出し続けた末に、彼はようやく“存在感”を“勝利”に変えた。",
+        "sources": [
+          {
+            "t": "Cyclingnews（第13・Van Aert finally）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-wout-van-aert-finally-takes-a-victory-on-stage-13/",
+            "d": "2026-09-04"
+          },
+          {
+            "t": "ProCyclingUK（第13・Loja）",
+            "u": "https://procyclinguk.com/vuelta-a-espana-2026-stage-13-wout-van-aert-attacks-late-to-win-in-loja/",
+            "d": "2026-09-04"
+          },
+          {
+            "t": "IDL ProCycling（第13結果）",
+            "u": "https://www.idlprocycling.com/cycling/van-aert-finally-claims-his-well-deserved-vuelta-victory-as-brennan-and-visma-take-brilliant-breakaway-stage-by-the-horns",
+            "d": "2026-09-04"
+          }
+        ],
+        "status": "確定＝第13はヴァンアールト勝利・マス赤堅守(2位ログリッチ+1:45)。※世界選手権の各国最終メンバーは未確定。"
+      },
+      {
+        "id": "20260905-vuelta-st14-pandera",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/WAwtWZM5zUxcWfSWKamXm3-2500-80.jpg",
+        "headline": "【レース・今日】ブエルタ第14は“南のアングリル”シエラ・デ・ラ・パンデラ——ハエン→154.5km、最後は11.9km/平均7.2%(部分15〜17%)でGC再点火",
+        "layer1": "今日9/5の第14はハエン発154.5km、ほぼ平坦区間なしで最後にシエラ・デ・ラ・パンデラ(11.9km・平均7.2%)へ。オリーブ畑を抜ける細く荒れた激坂で、地元は『南のアングリル』と呼ぶ。手前にはバルデペーニャス・デ・ハエンの“壁”(600m・10%超)。",
+        "layer2": "ここは赤マスが差を広げにいく“今大会最後級の本格山頂”。細い悪路＋15〜17%＋日陰なし＋猛暑で、脚だけでなく『ペース管理と機材(超ワイドレシオ)』が問われる。手前の壁で既に足切りが始まり、パンデラ本体で総合が炙り出される。ガル(3位)ら追走勢には数少ない“山で仕掛ける日”になる。",
+        "sources": [
+          {
+            "t": "Cyclingnews（第14プレビュー）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-2026-stage-14-preview/",
+            "d": "2026-09-04"
+          },
+          {
+            "t": "Rouleur（第14プレビュー）",
+            "u": "https://www.rouleur.cc/racing/vuelta-a-espana-2026-stage-14-preview",
+            "d": "2026-09-04"
+          }
+        ],
+        "status": "確定＝コース/GC状況。展開(逃げ切りかGC決戦か)は本日決着・未確定。"
+      },
+      {
+        "id": "20260905-tob-men-st3-kooij",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/WX5Jzcxu4qU4FUYsR4dYDi-2100-80.jpg",
+        "headline": "【レース】ツアー・オブ・ブリテン男子、第3はコーイユがメルリエを逆に差す——混乱のスプリントを“150m”から発射、今日は第4ヘルムズリー→レイバーン",
+        "layer1": "昨日9/4の男子ToB第3(ハル→ビバリー)は、混沌のスプリントをオラフ・コーイユ(ヴィスマ)が制覇。2位ティム・メルリエ、3位ケルバリ。コーイユは『150を見た瞬間、今だと思った』と早駆けで頂点をさらった。",
+        "layer2": "前日まで無双だったメルリエをコーイユが“逆に差した”構図で、両者の対決がツアーの見せ場に。今日9/5の第4はヘルムズリー→レイバーン(ヨークシャーの丘)——スプリンター向きが崩れれば総合が動く。※女子ToBは8/19-23で既に閉幕(ル・クール＝ピエナールが総合初制覇、ヴィーベスは5戦4勝で総合2位)＝今回の英国は男子が主役。",
+        "sources": [
+          {
+            "t": "Cyclingnews（男子第3・Kooij）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-of-britain-olav-kooij-turns-the-tables-on-tim-merlier-to-win-stage-3/",
+            "d": "2026-09-04"
+          },
+          {
+            "t": "Cyclingnews（女子ToB総合・閉幕）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-of-britain-women-kim-le-court-pienaar-claims-overall-title-as-unstoppable-lorena-wiebes-takes-fourth-victory-in-stage-5-finale/",
+            "d": "2026-08-23"
+          }
+        ],
+        "status": "確定＝男子第3コーイユ勝利／女子ToBは8/23閉幕。男子総合首位は接戦・本日以降で変動見込み。"
+      },
+      {
+        "id": "20260905-worlds-montreal",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/nqMV2ufKCe4Cn9HofW6sbQ-2560-80.jpg",
+        "headline": "【トレンド】世界選手権は9/20-27モントリオール——北米では約10年ぶり、ブエルタ組(ヴァンアールト/ペデルセン)とカナダGP組(エヴェネプール/デルトロ/セイシャス)が激突",
+        "layer1": "2026世界選手権(モントリオール、9/20-27)は北米では約10年ぶり開催。男子ロードの本命はポガチャル、ペデルセン、ヴァンアールト——彼らはブエルタで仕上げ、エヴェネプール、デルトロ、セイシャスらはカナダGPで調整に入っている。",
+        "layer2": "焦点は“調整方法の違い”。GTで疲労と実戦感を積む組(ヴァンアールトは第13勝利で好調を証明)と、短期レースで鮮度を残す組の対決だ。ポガチャルは第8落車・鎖骨術後で出場自体は予定だが本調子は未知数(※要裏取り)。コースは丘が多くパンチャー有利＝ヴァンアールト/エヴェネプール/ペデルセンに向く。女子はコペツキー/PFP/フォレリング/ロンゴボルギーニらが軸。",
+        "sources": [
+          {
+            "t": "Cyclingnews（Van Aert・Worlds好調）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/a-serious-confidence-boost-for-the-worlds-as-rainbow-jersey-battle-looms-wout-van-aert-shows-stunning-form-and-racecraft-in-vuelta-a-espana/",
+            "d": "2026-09-04"
+          },
+          {
+            "t": "Velo（Worlds展望）",
+            "u": "https://velo.outsideonline.com/road/road-racing/north-americas-first-road-cycling-world-championships-in-a-decade-will-be-brutal/",
+            "d": "2026-03"
+          }
+        ],
+        "status": "確定＝日程/開催地/主要顔ぶれ。ポガチャルの状態・各国最終メンバーは未確定(※要裏取り)。"
+      },
+      {
+        "id": "20260905-pinarello-x-affordable",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://granfondo-cycling.com/wp-content/uploads/sites/3/2026/09/Pinarello_X_2026_Test_Review-31.jpg",
+        "headline": "【トレンド】大手が“最新世代を廉価帯へ”降ろす——ピナレロ新型『X』は105機械式から、標準38mmの太タイヤで箱出し",
+        "layer1": "9/3公開のグランフォンド誌インプレによると、ピナレロの新シリーズ『X』はX1が105機械式＋アルミホイール、X5が105 Di2＋カーボンで、いずれも標準38mmタイヤで出荷。上位技術を“買いやすい価格帯”に降ろす動きだ。",
+        "layer2": "これは業界全体の潮流——スペシャライズドTarmac SL9の廉価3モデル(既報)と同じく、大手は『最新プラットフォームを型落ち待たずに値ごろ帯へ』下ろし始めた。同時に“太タイヤ標準(38mm箱出し)”が普通になり、快適性と安定性が初中級の当たり前に。うちの客への意味は明快で、①大手の最新廉価②中華カーボン③型落ち、の三択比較がますます効く。",
+        "sources": [
+          {
+            "t": "GRAN FONDO（Pinarello X 2026インプレ）",
+            "u": "https://granfondo-cycling.com/pinarello-x-series-2026-review/",
+            "d": "2026-09-03"
+          }
+        ],
+        "status": "確定＝仕様/価格思想。国内価格・入荷時期は要確認。"
+      },
+      {
+        "id": "20260905-13speed-carbonspoke-price",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/07/Shimano-Dura-Ace-WH-R9370-July-2026.jpg",
+        "headline": "【パーツ・続報】新デュラエース・カーボンスポークホイールは今月出荷＝約$2,970/セット、SRAMも2026新型で12&13速へ——“大手の到達点”が中華の1/3〜1/2価格帯に重なる",
+        "layer1": "シマノの新デュラエースWH-R9370(カーボンスポーク・内幅23mm・30C最適化)は今月9月に出荷開始で、価格は約$2,970(≒44万円)/セットと判明。SRAMも2026新型Force/Rivalで12&13速化を進め、13速競争はシマノ・SRAM・カンパの三つ巴になった。",
+        "layer2": "重要なのは“価格の可視化”。大手が『カーボンスポーク＝約44万円』と示したことで、YOELEO/ウィンスペース等の中華カーボンスポーク(15〜20万円台〜)が“1/3〜1/2で同じ土俵”という構図が数字で明確になった。13速は『新フリーボディ必須＆超高額＆本格供給は2027シーズン狙い』(既報)なので、いまの12速在庫は当分無駄にならない——客への説明はそこを軸に。",
+        "sources": [
+          {
+            "t": "road.cc（Dura-Ace WH-R9370）",
+            "u": "https://road.cc/tech-news/shimano-launches-lighter-more-aero-dura-ace-wheels",
+            "d": "2026-07"
+          },
+          {
+            "t": "TechTimes（DA価格・9月出荷）",
+            "u": "https://www.techtimes.com/articles/321970/20260729/shimano-dura-ace-wh-r9370-launches-carbon-spokes-slash-weight-signal-r9300-groupset-era.htm",
+            "d": "2026-07-29"
+          },
+          {
+            "t": "Cyclonline（SRAM 2026・12/13速）",
+            "u": "https://www.cyclonline.com/sram-news-review-test/sram-2026-new-12-13-speed-force-and-rival-axs-groupsets-for-road-and-gravel",
+            "d": "2026-08-09"
+          }
+        ],
+        "status": "確定＝DA新ホイール仕様・9月出荷・概算価格。SRAMロード13速の市販時期は未確定(※要裏取り)。"
+      },
+      {
+        "id": "20260905-vuelta-itt-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/HtP86xv66utsDw3xwQRaRZ-2560-80.jpg",
+        "headline": "【レース・展望】ブエルタの大一番は来週木曜『32km個人TT』——赤マスが山で作る貯金と、TT王ログリッチの逆襲、勝負は“1分45秒”の攻防",
+        "layer1": "総合はマス(赤)が2位ログリッチに『+1:45』、3位ガル+2:06。今日9/5のパンデラを含む山岳でマスがどれだけ差を広げられるかが、来週木曜の32km個人タイムトライアルの前提になる。",
+        "layer2": "焦点は“脚質の綱引き”。ログリッチはTTスペシャリスト＝32kmでマス相手に1分前後を取り返せる可能性があり、マスは山で最低でも1分以上の上乗せが欲しい。つまり今日と週明けの山は『TTで溶ける前の貯金作り』。ガルら追走勢はTTが不利な分、山でオールインするしかない。王者不在GCが“機材(TT)と脚(山)の総力戦”で決まる構図だ。",
+        "sources": [
+          {
+            "t": "Cyclingnews（第14プレビュー・ITT言及）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-2026-stage-14-preview/",
+            "d": "2026-09-04"
+          },
+          {
+            "t": "ProCyclingUK（第13・GC状況）",
+            "u": "https://procyclinguk.com/vuelta-a-espana-2026-stage-13-wout-van-aert-attacks-late-to-win-in-loja/",
+            "d": "2026-09-04"
+          }
+        ],
+        "status": "確定＝GC秒差・ITT日程。各選手のTT実力差は推定・未確定。"
+      },
+      {
+        "id": "20260905-market-september-sale",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C164.jpg",
+        "headline": "【経営メモ・市場】9月末は“中間決算セール”本番——在庫圧縮の最需要期に大幅値引き、型落ち処分の本番は10〜11月へ",
+        "layer1": "多くの自転車店が9月末(中間決算)に在庫圧縮・節税目的でセールを実施。ワイズロード等では過去にBianchi/COLNAGO等が最大級の値引きになった実績があり、2027モデルが出そろい始めた今、旧在庫が動きやすい時期に入った。",
+        "layer2": "経営メモとして押さえる二層構造——(1)9月末の“決算セール”＝短期の在庫処分、(2)10〜11月の“型落ち処分”＝新型発表2〜3か月後の本命値引き(人気モデルで最大40%級)。うちの構えは、今は焦って底値を追わず『下取り＋予約』で客を囲い、11月の本番在庫で利幅を取りにいくのが定石。シマノ8/1値上げ(既報)と合わせ、価格差の説明力が武器になる。",
+        "sources": [
+          {
+            "t": "プライシー（ロードバイクのセール時期）",
+            "u": "https://www.pricey.jp/web/articles/3501",
+            "d": "2026"
+          },
+          {
+            "t": "bike-memo（2026値下げ・価格改定）",
+            "u": "https://bike-memo.com/cycle_260204_roadbike/",
+            "d": "2026-02-04"
+          }
+        ],
+        "status": "確定＝9月末決算/10-11月型落ちの季節性。個別店の値引き率は都度確認。"
+      },
+      {
+        "id": "20260905-market-used-bubble",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.image.st-hatena.com/image/scale/85c648441a55083dad826637685ebf1d5ded9378/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcyclekaigyou%2F20260125%2F20260125133221.png",
+        "headline": "【経営メモ・Xで継続議論】“中古バブル崩壊”＝供給過多の買い手市場が深化——Xでは『投げ売り』体感、専門店の武器は《整備力・目利き・下取り》",
+        "layer1": "コロナ期に大量供給された車体が2023〜2025年に中古へ流出、2026年は新車供給も完全回復し“中古バブル崩壊”が進行中。Xでは中古の値崩れや『なんとなく乗る層の消滅』を語る声が続き、買い手市場が定着している。",
+        "layer2": "裏取りすると、これは単なる噂ではなく供給過多という構造要因(ブーム終焉＋新車回復＋維持費/法改正の逆風)による。店側の生存戦略は価格勝負ではなく“付加価値”——(1)整備力(中古の当たり外れを見抜き直す)、(2)目利き(中華含めた規格・保証の選定)、(3)下取り(客の循環を店内に囲う)。値崩れ相場を“下取り原資”に変えられる店が強い。※Xの体感値は誇張もあるため断定はしない。",
+        "sources": [
+          {
+            "t": "元・自転車屋開業ブログ（バブル崩壊の記録）",
+            "u": "https://kyomu-cycle.hatenablog.com/entry/2026/01/25/133239",
+            "d": "2026-01-25"
+          },
+          {
+            "t": "bike-memo（ロードバイク離れの理由）",
+            "u": "https://bike-memo.com/cycle_260114_environment/",
+            "d": "2026-01-14"
+          }
+        ],
+        "status": "曖昧＝“買い手市場”は確度高、Xの『投げ売り』体感は定量未確認(※要裏取り)。"
+      },
+      {
+        "id": "20260905-beginner-gearratio-climb",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://images.cyclehack.jp/wp-content/uploads/2021/07/pixta_54857769_M.jpg",
+        "headline": "【初中級】今日のパンデラ“15〜17%”を我々素人が登るなら——答えは『コンパクト＋ワイドカセット』、数値より“止まらず回せる”が正義",
+        "layer1": "プロが平均7.2%(部分15〜17%)のパンデラを踏む今日、アマの装備の現実解は『コンパクトクランク(50-34T)×ワイドカセット(11-32T〜11-34T)』。最大斜度をまっすぐ登り続けられる“逃げのギア”を1枚持つことが、激坂を制する鍵になる。",
+        "layer2": "先回りして言うと、脚力より“ケイデンスが落ちない設計”が大事。目安はキツい坂でも60〜70rpmを保てる歯数で、10%超が続くなら11-34Tや、フロント46-33T等のセミコンパクトも選択肢。ロー側を1〜2枚厚くするだけで“足つき→回復不能”の事故が激減する。中華カーボンでも最近はワイドレシオ前提のフリー規格が主流で、ここでも《規格の確認》が効いてくる。",
+        "sources": [
+          {
+            "t": "CYCLE HACK（ギア比の選び方）",
+            "u": "https://cyclehack.jp/467",
+            "d": "2021-07"
+          },
+          {
+            "t": "more-fast（初心者に50-34×11-28を薦める理由）",
+            "u": "https://more-fast.com/knowledge/gear/road-gearrate-beginner/",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝コンパクト＋ワイドが激坂の定石。最適歯数は体力/コース次第で個別。"
+      },
+      {
+        "id": "20260905-beginner-china-carbon-choose",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/01/zakki_C128.jpg",
+        "headline": "【初中級】“初めての中華カーボン”の外さない選び方——数値より《実在ブランド×規格の明快さ×使える保証》の3点",
+        "layer1": "2026の中華カーボンは大手の1/3〜1/2価格でレース表彰台級に肉薄。だが選ぶ軸は重量やリム高の数値ではなく、《(1)実在して続くブランドか (2)ハブ/フリー/内幅の規格が明快か (3)日本で使える保証・窓口があるか》の3点で外さない。",
+        "layer2": "先回りの深掘り——最近はYOELEO/ウィンスペース等が国内ショップ経由の購入・サポートを整え、直輸入一択ではなくなった。YOELEO新型『QianKun CS』のようにカーボンスポーク＋セラミックベアリング＋ニップルホールレスと“上位仕様”も普及。逆に注意は、激安すぎて素性不明・保証なし・非標準フリーの個体。うちの役割は“指名買いの受け皿”＝規格適合の確認と整備・保証で、ネットで決めてきた客を安全に着地させることだ。",
+        "sources": [
+          {
+            "t": "bike-memo（2026中華カーボン格付け）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-01-18"
+          },
+          {
+            "t": "コンポ・DE・リング（QianKun新型レビュー）",
+            "u": "https://note.com/compo_de_ring/n/na3da1885e4fa",
+            "d": "2026-02-10"
+          }
+        ],
+        "status": "確定＝選定3軸は普遍。個別モデルの最新価格/在庫は都度確認。"
+      },
+      {
+        "id": "20260905-wheel-china-carbonspoke-gen",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://kurocycle.jp/wp-content/uploads/2021/05/s-1.jpg",
+        "headline": "【ホイール】中華カーボンは“カーボンスポーク世代”が標準へ——YOELEOは新型『QianKun CS』でセラミックベアリング＆ニップルホールレス、UCI認証も常態化",
+        "layer1": "2026の中華カーボンは上位帯が軒並みカーボンスポーク化。YOELEOは従来のスチールスポーク/スチールベアリングから、新型『QianKun(乾坤)CS』でカーボンスポーク＋セラミックベアリング＋ニップルホールレスリムへ刷新。ウィンスペースHyper(ペア約1,450g・UCI認証)等も定番化した。",
+        "layer2": "先回りすると、争点はもう“カーボンスポークの有無”ではなく《規格(ハブ/フリー/内幅)×認証(UCI/TÜV)×保証(国内窓口)》に移った。大手が今月デュラエースの新カーボンスポーク(約44万円)を出したことで、中華上位(15〜20万円台〜)の価格優位が逆に鮮明に。うちの強みは、この“上位仕様を安全に選ばせる”受け皿になれること。",
+        "sources": [
+          {
+            "t": "コンポ・DE・リング（QianKun CS新型）",
+            "u": "https://note.com/compo_de_ring/n/na3da1885e4fa",
+            "d": "2026-02-10"
+          },
+          {
+            "t": "クロサイクル（YOELEO国内取扱）",
+            "u": "https://kurocycle.jp/information/%E5%95%86%E5%93%81%E6%83%85%E5%A0%B1/",
+            "d": "2026"
+          }
+        ],
+        "status": "曖昧＝カーボンスポーク化の潮流は確度高。QianKun CSの国内最新価格/在庫は要確認(※要裏取り)。"
+      }
+    ]
+  },
+  {
     "date": "2026-09-04",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。ブエルタは第12でスロベニアの新星オムルジェル(20)が『超級カラール・アルト』を独走制覇、赤マスは山で貯金——今日の第13は逃げ切り濃厚回です。英国はメルリエとヴィーベスが2つのツアー・オブ・ブリテンを盛り上げ、機材は新デュラエースの『13速＆9月出荷ホイール』が現実味。国内は9/1施行30km/hの裏でXが“車道走行の実害”を語り始めました。",
     "cards": [
