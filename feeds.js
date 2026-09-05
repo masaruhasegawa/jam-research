@@ -1,5 +1,275 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-09-06",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。ブエルタ第14『南のアングリル』パンデラは、開幕週に病気と2度の落車で総合99位まで沈んだ26歳ブレナーが“復活の独走”でツドール悲願のGT初勝利——赤マスは山でさらに突き放し、ガルが2位『+2:06』へ、勝負は来週の『32km個人TT』へ。今日の第15は記録的猛暑で『110kmに短縮』、ヴァンアールト再びの気配。英国はボルが4年ぶりVでヴェレンスが総合首位、今日が最終第5です。国内は9月末『決算セール』→10〜11月『モデルチェンジ処分』の買い手市場、機材は新デュラエース・ホイールが今月出荷で“カーボンスポーク時代”がついに店頭へ。",
+    "cards": [
+      {
+        "id": "20260906-vuelta-st14-brenner",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://pezcyclingnews.com/wp-content/uploads/2026/09/vueltaaespana26st14-brenner-win-1200.jpg",
+        "headline": "【🔥今日の一本】ブエルタ第14『南のアングリル』パンデラ——26歳ブレナーが“99位からの復活”で頂点、ツドール悲願のグランツール初勝利",
+        "layer1": "昨日9/5のブエルタ第14(ハエン→シエラ・デ・ラ・パンデラ154.5km・最後は12km/平均7.2%)は、44人の大逃げから抜け出したマルコ・ブレナー(ツドール)が、山岳賞ブイトラゴの猛攻を残り1kmで唯一しのぎ、最後の登り返しで差し切って独走勝利。新興ワールドツアー『ツドール』にとって初のグランツール・ステージ勝利になった。",
+        "layer2": "物語は開幕週の『病気と2度の落車』から始まる——第1週は総合99位まで沈み、勝負どころに絡めるか本人も半信半疑だった。だが直前のツール・ド・ポローニュで初のWTタイトルを獲っており「自分ならやれると“ずっと”知っていた」と。ブイトラゴが登りで削り切った脚を、ブレナーが下り〜最後の登り返しで温存し切ったのが分かれ目だった。確定＝勝者ブレナー／2位ブイトラゴ、赤マスは堅守。",
+        "sources": [
+          {
+            "t": "Cyclingnews(From 99th to first)",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/from-99th-to-first-marco-brenner-bounces-back-from-crashes-and-sickness-to-take-tudors-first-grand-tour-stage-victory-a-result-he-always-knew-he-was-capable-of/",
+            "d": "2026-09-05"
+          },
+          {
+            "t": "PezCycling/iCycle",
+            "u": "https://icycle.bike/vuelta26-stage-14-brenner-beats-buitrago-on-la-pandera/",
+            "d": "2026-09-05"
+          }
+        ],
+        "status": "確定＝ブレナー勝利・ツドールGT初勝利／赤マス維持"
+      },
+      {
+        "id": "20260906-vuelta-st15-cordoba",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-09%2Fwout-van-aert-at-the-2026-vuelta-a-espana-6a9bfe3c260ac.jpg",
+        "headline": "【レース・今日】ブエルタ第15は『猛暑で110kmに短縮』——パルマ・デル・リオ→コルドバ、逃げ切りかヴァンアールト再びか",
+        "layer1": "今日9/6の第15は本来パルマ・デル・リオ→コルドバ189.7kmの中級山岳だが、アンダルシアの記録的猛暑を受けて『110kmに大幅短縮』。終盤30km地点にプエルト・アルタフィ(5.9km/平均5.7%)、その後は台地を経て最後8kmは完全平坦。逃げ切り＋少人数スプリントの気配。",
+        "layer2": "主役候補は第13で独走したヴァンアールト(ヴィスマ)——金曜も逃げを“支配”して勝ち切っており、平坦フィニッシュは彼向き。対抗はパレ＝パントルら逃げ巧者。短縮は選手保護(熱中症リスク)の判断で、GC勢は来週の個人TTへ脚を温存する読み。確定＝110km短縮・アルタフィが最終上り／曖昧＝逃げ容認かの展開は当日次第。",
+        "sources": [
+          {
+            "t": "Cyclingnews(stage15 preview)",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-2026-stage-15-preview/",
+            "d": "2026-09-05"
+          },
+          {
+            "t": "Cycling Up To Date",
+            "u": "https://cyclinguptodate.com/cycling/vuelta-a-espana-2026-stage-15-preview-profile-favourites-prediction-breakaway-battle-stands-between-wout-van-aert-and-repeat-cordoba-victory",
+            "d": "2026-09-05"
+          }
+        ],
+        "status": "確定＝コース短縮110km・猛暑対応／展開は要観戦"
+      },
+      {
+        "id": "20260906-vuelta-gc-tt",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://www.rte.ie/images/0024f5ce-1600.jpg",
+        "headline": "【レース・GC】赤マス盤石、パンデラでGC再編——ガルが2位浮上『+2:06』、ログリッチ&カラパスは後退。勝負は来週の『32km個人TT』へ",
+        "layer1": "第14の山頂で総合が動いた。赤ジャージのマス(モビスター)はガルと共に前で粘り、ログリッチとカラパスに約25秒を追加。総合2位にはフェリックス・ガルが『+2:06』で浮上し、ログリッチは3位へ後退した。",
+        "layer2": "マスは僚友カストリージョを終盤に投入し、カラパスの飛び出し後にログリッチを削る“静かに決定的”な一日に。長年『あと一歩』だったマスが、ついにGTで主導権を握った。最大の関門は来週の『32km個人TT』——山で作った貯金を、TT巧者ログリッチがどこまで削り返すか。確定＝ガル2位+2:06・ログリッチ3位／曖昧＝各選手の秒差はTT前に更に動く。",
+        "sources": [
+          {
+            "t": "RTÉ Sport(Vuelta st14)",
+            "u": "https://www.rte.ie/sport/cycling/2026/0905/1590447-brenner-climbs-to-victory-in-vuelta-stage-14/",
+            "d": "2026-09-05"
+          },
+          {
+            "t": "PezCycling/iCycle",
+            "u": "https://icycle.bike/vuelta26-stage-14-brenner-beats-buitrago-on-la-pandera/",
+            "d": "2026-09-05"
+          }
+        ],
+        "status": "確定＝ガル2位+2:06・ログリッチ3位後退／来週の個人TTが山場"
+      },
+      {
+        "id": "20260906-tob-st4-bol",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/LUe7kBDgs4ELewwKv5QqzZ-2000-80.jpg",
+        "headline": "【レース】ツアー・オブ・ブリテン第4はセース・ボルが『4年ぶり』の勝利——逃げ仲間ヴェレンスが総合首位、今日は最終第5でクーイ×メルリエ",
+        "layer1": "昨日9/5の第4(ヘルムズリー→レイバーン166km、グリーンハウ7.9%など激坂続き)は、逃げから残ったセース・ボルがスプリントを制し“ちょうど4年ぶり”の勝利。同じ逃げのティム・ヴェレンス(UAE)が総合首位に立ち、2位アスキーに『+21秒』とした。",
+        "layer2": "今日9/6は最終第5——平坦寄りでクーイ(ヴィスマ)とメルリエ(スーダル)のスプリント頂上決戦、ヴェレンスは総合逃げ切りが濃厚。ボルの復活は“逃げ×パンチャー型スプリント”という近年ToBらしい勝ち方で、純ピュアスプリンター一辺倒では勝てないコース設計を象徴する。確定＝ボル勝利・ヴェレンス総合首位+21秒／最終日は要観戦。",
+        "sources": [
+          {
+            "t": "Cyclingnews(ToB st4)",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-of-britain-men-cees-bol-scores-decisive-sprint-win-on-stage-4-while-breakaway-partner-tim-wellens-takes-gc-lead/",
+            "d": "2026-09-05"
+          },
+          {
+            "t": "Cycling Up To Date(st5 preview)",
+            "u": "https://cyclinguptodate.com/cycling/tour-of-britain-2026-stage-5-preview-profiles-favourites-predictions-tim-wellens-on-brink-of-overall-win-as-kooij-and-merlier-battle-for-final-stage",
+            "d": "2026-09-05"
+          }
+        ],
+        "status": "確定＝ボル勝利・ヴェレンス総合首位／最終第5は今日"
+      },
+      {
+        "id": "20260906-worlds-montreal-course",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://media.delius-klasing.de/dpr_auto,fl_progressive,f_jpg,c_fill,g_face:center,h_675,w_1200/q_auto:eco/tour/gettyimages-2175467704_6ccdcda29c93741bf17c87fe38e8057c",
+        "headline": "【トレンド】世界選手権モントリオール(9/20-27)の全容——男子273.7km/獲得3,803m、名物カミリアン・ウード坂×12周の『登坂力勝負』",
+        "layer1": "北米で約10年ぶりの世界選手権(9/20-27)。エリート男子はブロサール発進からモンロワイヤル周回へ。総距離273.7km・獲得3,803m・12周、女子は180.4km/2,570m・8周。鍵はカミリアン・ウード坂(2.3km/平均6.2%)とポリテクニークの11%超区間、そしてパーク通りの緩斜面フィニッシュ。",
+        "layer2": "このコースは平坦スプリンターより『登れる強者＝パンチャー/オールラウンダー』向き。ブエルタ組(ヴァンアールト/ペデルセン/マス)とカナダGP組(エヴェネプール/デルトロ/セイシャス)が激突する構図で、獲得3,800m級は“消耗戦”を約束する。王者ポガチャルは鎖骨手術明けで欠場濃厚。確定＝コース諸元・日程/登坂型のコース／曖昧＝出場者は各国エントリーで最終確定。",
+        "sources": [
+          {
+            "t": "TOUR Magazin(Worlds 2026)",
+            "u": "https://www.tour-magazin.de/en/professional-cycling/day-race/road-cycling-world-championships-2026-canada-the-biggest-sporting-event-in-montreal-since-the-olympic-games/",
+            "d": "2026-08"
+          },
+          {
+            "t": "UCI(200 days to go/courses)",
+            "u": "https://www.uci.org/pressrelease/200-days-to-go-a-look-at-the-courses-of-the-2026-uci-road-world/7MNCbBHZySudjNAoDW4R8x",
+            "d": "2026-03"
+          }
+        ],
+        "status": "確定＝コース・日程・登坂型／出場者は流動的"
+      },
+      {
+        "id": "20260906-transfers-2027",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/9Rk6o8UGoBHfrXdzQnjkER-1024-80.jpg",
+        "headline": "【移籍・トレンド】2027移籍が加速——モラーノがUAE退団でロット、アスグリーンがNSN、スロックがバーレーンへ。19歳セイシャス争奪が“市場の蝶番”",
+        "layer1": "2027シーズンの移籍が続々確定。フアンセバスティアン・モラーノが8年在籍したUAEを離れロット・アンテルマルシェへ、カスパー・アスグリーンがEFからNSNサイクリングへ、今季の伸び盛りリアム・スロックがバーレーン・ヴィクトリアスへ。女子はファンアンローイがLidl-TrekからCanyon-SRAM(11/1〜2029)へ。",
+        "layer2": "市場の“蝶番”は19歳の仏才能ポール・セイシャス——彼を巡り、資金力のある超大手だけが本気で動ける『セイシャス争奪戦』が全体の連鎖を左右している。UAEの主力放出は世代交代と選手層の入れ替えと読める。確定＝各移籍は公式発表済み／曖昧＝セイシャスの最終行き先は未定。",
+        "sources": [
+          {
+            "t": "Cyclingnews(2027 transfers)",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/cycling-transfers-all-the-latest-news-and-announcements-for-the-2027-season/",
+            "d": "2026-09"
+          },
+          {
+            "t": "Velo(Seixas transfer market)",
+            "u": "https://velo.outsideonline.com/news/paul-seixas-cycling-transfer-market-2026-2027/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝モラーノ/アスグリーン/スロック等／セイシャスは継続注目"
+      },
+      {
+        "id": "20260906-dura-ace-r9370-ship",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/Pm6DzMEABQ2rYoesxef9y9-1920-80.jpg",
+        "headline": "【ホイール】新デュラエース『WH-R9370』がこの9月から出荷開始——C36/C50/C60＋TT用C99&リアディスク、カーボンスポークで最大-220g。中華は同技術を先行",
+        "layer1": "シマノの新デュラエース・ホイール『WH-R9370』が今月9月から順次出荷。ラインは平坦〜山岳のC36/C50/C60に加え、TT/トライアスロン用の『C99フロント＆リアディスク』も。新カーボンスポーク＆リムレイアップで最大『-220g/セット』、28-30Cタイヤ最適化。“R9300命名”は次期13速デュラエースが近い合図とも読める。",
+        "layer2": "我々目線の要点は2つ。①ブエルタ来週の個人TTはまさにC99/ディスクの舞台＝TVで“新型の実戦”が見られる。②大手がやっと出した『カーボンスポーク』を、中華上位(ヨーレオ/FARSPORTS/ウィンスペース)は数年前から先行し1/3〜1/2価格で提供中。店頭では「大手の到達点＝中華の中位帯」と説明できる好機。確定＝R9370今月出荷・構成・軽量値／曖昧＝R9300(13速)は正式未発表。",
+        "sources": [
+          {
+            "t": "Cyclingnews(new Dura-Ace wheels)",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/shimano-launches-brand-new-dura-ace-wheel-range-does-this-mean-a-new-groupset-is-imminent/",
+            "d": "2026-08"
+          },
+          {
+            "t": "BikeRadar(WH-R9370)",
+            "u": "https://www.bikeradar.com/news/shimano-dura-ace-r9370-wheels",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝R9370今月出荷／中華は同技術を先行"
+      },
+      {
+        "id": "20260906-buy-timing",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://pricey-prod-owned-media.s3.ap-northeast-1.amazonaws.com/hub-page-main-visual-images/article_3501.webp",
+        "headline": "【経営メモ・市場】“買い時カレンダー”——9月末『決算セール』→10〜11月『モデルチェンジ処分』で20〜40%OFFへ。今は下取り＆予約で客を囲う",
+        "layer1": "国内の値引きは季節で動く。まず9月末の『中間決算セール』で人気ブランドが在庫圧縮の特価に、続く10〜11月の翌年モデル入れ替えでGIANT/MERIDA級が最大40%OFFになることも。2026年は在庫潤沢・値下がり基調で“買い手市場”が続く。",
+        "layer2": "店側の勝ち筋は『二段構え』。9月は決算特価で回転を作りつつ、本命の値引き客には10-11月処分を予告して『予約＋下取り』で先に囲う。中古も潤沢なので下取り査定の“目利き”が武器になる。過度な安売り競争より、整備・保証・アフターで粗利を守る設計が要。確定＝決算(9月末)/モデルチェンジ(10-11月)の値引き周期／曖昧＝実額は店舗・ブランド差。",
+        "sources": [
+          {
+            "t": "プライシー(ロードバイクのセールはいつ)",
+            "u": "https://www.pricey.jp/web/articles/3501",
+            "d": "2026-09"
+          },
+          {
+            "t": "Pedalism.jp(セール狙い目の月)",
+            "u": "https://pedalism.jp/road-bike-sale-timing-when-cheap/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝値引きの季節周期／店の武器は下取り・整備・保証"
+      },
+      {
+        "id": "20260906-trek-japan-stock",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://www.1jyo.com/wp/wp-content/uploads/2025/07/0b76e7f9e59a36ffe184635a5a349281.jpg",
+        "headline": "【経営メモ・市場②】大手の“日本価格改定＋型落ち”が同時進行——新色投入で価格見直し、旧在庫は定価15〜30%引きが標準。仕入れと在庫の握り方",
+        "layer1": "TREKなど大手は2026/2027の切り替え期に『新色投入＋価格改定』を進め、旧モデルは定価15〜30%引きが標準の処分相場に。円安・シマノ値上げの一方で、供給過多とブーム後退が重なり“二層の値付け”が常態化している。",
+        "layer2": "経営の実務では、①型落ちは「値引き原資」でなく『下取り・セット販売の呼び水』に使う、②新価格の完成車は“納期と保証”で売る、が定石。値上げ局面こそ「今が底値ではない」と誠実に伝え、10-11月処分へ予約でつなぐ方が信頼と粗利を両立できる。※為替・各社改定額は流動的、仕入れ時に都度確認を。",
+        "sources": [
+          {
+            "t": "壱丁目自転車(TREK価格改定・新色)",
+            "u": "https://www.1jyo.com/news/?p=99501",
+            "d": "2026-08"
+          },
+          {
+            "t": "buychari JOURNAL(2026買いなロード)",
+            "u": "https://journal.buychari.com/2026-latest-road-bikes/",
+            "d": "2026-08"
+          }
+        ],
+        "status": "曖昧＝改定額は変動／型落ちは“呼び水”運用が定石"
+      },
+      {
+        "id": "20260906-heat-riding",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2025/09/2509akidemo-1.jpg",
+        "headline": "【初中級】プロが『110kmに短縮』する猛暑——秋でも油断禁物、素人ライドの熱中症対策の要点",
+        "layer1": "今日のブエルタ第15はプロでも“猛暑で110kmに短縮”された。9月でも日中の熱中症リスクは高く、我々素人こそ対策必須。基本は『暑熱順化・こまめな給水・時間帯選び』の3点。",
+        "layer2": "実践の勘所——①ライドは早朝/夕方に寄せ日陰ルートを選ぶ、②20分おきに少量ずつ、発汗が多い日は塩分(スポドリ/経口補水液)、③ネッククーラー・冷感インナーで体温上昇を抑える、④異変を感じたら我慢せず即中断＆経口補水。プロがレース短縮を選ぶ判断は「無理をしない」の最良の見本だ。確定＝対策の定石／体調は早めの自己申告で対応。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ(秋でも熱中症)",
+            "u": "https://www.cyclesports.jp/topics/145436/",
+            "d": "2025-09"
+          },
+          {
+            "t": "LongRide(暑さ・熱中症対策11選)",
+            "u": "https://www.longride.org/heat-measure-longride/",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝熱中症対策の基本／無理せず中断が正解(普遍ネタ・今日のブエルタ短縮が起点)"
+      },
+      {
+        "id": "20260906-aokippu-helmet",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://prcdn.freetls.fastly.net/release_image/46797/39/46797-39-6ad142566c58049e577456f81242ee13-3750x2500.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+        "headline": "【初中級・Xで議論】自転車『青切符』4月スタートから5か月——反則金3,000〜12,000円、ヘルメットは“努力義務”のまま。店頭Q&Aの最新形",
+        "layer1": "2026年4月1日から16歳以上の自転車に交通反則通告制度『青切符』が導入され、ながらスマホや信号無視など約113種が反則金(3,000〜12,000円・原付と同額)の対象に。一方でヘルメットは今も『努力義務』で反則金の対象外——Xでもローディーの間で「結局かぶらないと損か?」の議論が続く。",
+        "layer2": "裏取りの要点——青切符は“反則金で刑事手続きを回避”する仕組みで、重大違反・事故は従来通り赤切符(刑事)。ヘルメットは義務化されていないが、自転車死亡事故の約63.5%が頭部致命傷というデータがあり、店としては「ルールは青切符・安全はヘルメット」を分けて誠実に案内するのが要。※将来の義務化は着用率・事故統計次第で未定。",
+        "sources": [
+          {
+            "t": "三菱UFJ銀行(自転車青切符とは)",
+            "u": "https://www.bk.mufg.jp/column/others/b0112.html",
+            "d": "2026"
+          },
+          {
+            "t": "OGKカブト(PR TIMES・青切符とヘルメット)",
+            "u": "https://prtimes.jp/main/html/rd/p/000000039.000046797.html",
+            "d": "2026-03"
+          }
+        ],
+        "status": "確定＝青切符4月施行・反則金額/ヘルメットは努力義務のまま(※義務化は未定)"
+      }
+    ]
+  },
+  {
     "date": "2026-09-05",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ブエルタは第13でヴァンアールトが『4日粘った逃げ』でついに独走勝利、今日の第14は“南のアングリル”パンデラでGC再点火——勝負は来週木曜の『32km個人TT』へ。英国はコーイユがメルリエを差し、世界選手権(モントリオール9/20-27)が視界に。国内は『9月末決算セール』と“中古バブル崩壊”の買い手市場、機材は新デュラエース・ホイールが今月出荷(約44万円)で中華の価格優位が改めて鮮明です。",
     "cards": [
