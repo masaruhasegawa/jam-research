@@ -1,5 +1,275 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-09-07",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。ブエルタは今日『第2休息日』、代わりに昨日ツアー・オブ・ブリテンが決着——UAEが最終日も独走で締めました。最終週の主戦場『32kmTT』の算数、13速の“フリーボディ問題”、中華ホイールの『カーボンスポーク要る?』まで底まで潜っています。",
+    "cards": [
+      {
+        "id": "20260907-tob-men-final",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/buknuXrYxe8bmizqkGRDff-2000-80.jpg",
+        "headline": "【🔥今日の一本】ツアー・オブ・ブリテン決着——最終第5をポリットが『残り8kmから独走』、総合はウェレンスでUAEが“完全支配”",
+        "layer1": "昨日9/6の最終第5ステージ、UAEのニルス・ポリットが残り8kmで抜け出し2位ヴェルメルシュに『12秒』差の独走勝利。総合はティム・ウェレンスが制し、2位アスキー・3位ステュイヴェンを従えてUAEが週間を締めた。",
+        "layer2": "先回りで“なぜUAEがこうも強いか”を潜ると、答えは『駒の厚み』。エースのウェレンスを勝たせつつ、最終日はアシストのはずのポリット（元パリ〜ルーベ級のパワー型）が勝てる——勝ち筋を複数持てるのが一強の正体。ロードレースは『個人競技の顔をしたチーム戦』で、総合とステージを別々の選手で獲りにいける層の差が、そのまま結果に出た一週間だった。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ToB第5・総合）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-of-britain-men-nils-politt-strikes-for-solo-stage-5-win-while-tim-wellens-secures-overall-title/",
+            "d": "2026-09-06"
+          },
+          {
+            "t": "CyclingUpToDate（第5結果・12秒差）",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-of-britain-2026-stage-5-tim-wellens-seals-overall-victory-as-nils-politt-crowns-uae-domination-with-solo-win",
+            "d": "2026-09-06"
+          }
+        ],
+        "status": "確定＝ポリット第5勝利（+12秒）／ウェレンス総合優勝、2位アスキー・3位ステュイヴェン。"
+      },
+      {
+        "id": "20260907-vuelta-restday-green",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/Live/CORVOS_00039313-204.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C141",
+        "headline": "【レース・ブエルタ】今日は『第2休息日』——マス赤マス堅守で最終週へ、ファンアールトは緑を“ほぼ確定”（108点差）",
+        "layer1": "昨日9/6の第15、猛暑で110kmに短縮されたコルドバはファンアールトが『3日で2勝目』。GCはエンリク・マスが赤ジャージを守り、2位ガルに『+2:06』、3位ログリッチはさらに+4秒。今日9/7は第2休息日で、勝負は最終週へ持ち越し。",
+        "layer2": "先回りで“この休息日の意味”を潜ると、二つの物語が並走している。①ポイント賞＝ファンアールトが緑で『108点差』を築き実質確定、スプリンター不在の山岳偏重コースを中間スプリントと逃げで荒稼ぎした職人芸。②GC＝マスの+2:06は「山で作った貯金」で、木曜の32km個人TT（次カード）でログリッチに削られる前提の“余白”。休息日は回復であると同時に、各チームが『どこで賭けるか』を設計し直す日でもある。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（第15・GCと緑108点差）",
+            "u": "https://cyclinguptodate.com/cycling/results-vuelta-a-espana-2026-stage-15-wout-van-aert-wins-five-man-thriller-after-extreme-heat-slashes-almost-80km-from-route",
+            "d": "2026-09-06"
+          },
+          {
+            "t": "Domestique（分類リーダー総覧）",
+            "u": "https://www.domestiquecycling.com/en/news/2026-vuelta-a-espana-classifications-leaders-overview/",
+            "d": "2026-09-06"
+          }
+        ],
+        "status": "確定＝マス赤（2位ガル+2:06／3位ログリッチ+2:10）、ファンアールト緑108点差、9/7は休息日。"
+      },
+      {
+        "id": "20260907-vuelta-itt-maths",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2025/Men/Team-Visma-Lease-a-Bike/CORVOS_00038032-078.jpg?width=832&height=468&format=jpg&crop=2000%2C1125%2C0%2C104",
+        "headline": "【レース・展望】最終週の主戦場は第18『32km個人TT』——ログリッチはマスの“貯金”を1本で消せるのか、算数で検証",
+        "layer1": "GCを決めにいく大一番は第18ステージ、エル・プエルト・デ・サンタ・マリア→ヘレス『32.1km・ほぼ平坦』の個人TT。現時点でマス→ログリッチは約2:10差。TT巧者ログリッチが逆転できるかが、最終週最大の焦点。",
+        "layer2": "先回りで“数字の現実”を潜ると、過去の同型TT（25〜34kmの平坦）でログリッチはマスに『1:30〜2:00』奪ってきた実績があり、2021年ブエルタでは2分以上つけた。だが確定ではない——今のログリッチは36歳、しかもブエルタ直前の交通事故で5週間を失って復調途上。加えてTTの後にも山岳が残り、マスに“取り返す舞台”がある。つまり『理屈上は届く射程だが、今年の身体でそれを出せるかは別問題』というのが正直な結論。TTだけで決着とは限らない。",
+        "sources": [
+          {
+            "t": "idl（“1:46を返す算数”）",
+            "u": "https://www.idlprocycling.com/cycling/321-kilometers-146-to-claw-back-heres-the-maths-primoz-roglic-needs-to-know-to-overhaul-mas-at-the-vuelta",
+            "d": "2026-09-04"
+          },
+          {
+            "t": "Domestique（第18“真実の日”プレビュー）",
+            "u": "https://www.domestiquecycling.com/en/features/vuelta-a-espana-stage-18-preview-race-of-truth-in-valladolid/",
+            "d": "2025-09-11"
+          }
+        ],
+        "status": "曖昧＝TTでの逆転は“射程内だが不確実”（現GC差+2:10・本人の年齢/事故明けを考慮）。日付・距離は確定。"
+      },
+      {
+        "id": "20260907-transfers-wave",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/9Rk6o8UGoBHfrXdzQnjkER-1024-80.jpg",
+        "headline": "【移籍・トレンド】2027移籍“新しい波”——ファンエトフェルトがロット退団でNSN、ベン・スイフトが引退、C・ペデルセンがウノエックス",
+        "layer1": "9月頭の移籍市場が再び動いた。若手GC株レナート・ファンエトフェルトがロット→NSN（9/3）、ベテランのベン・スイフトが現役引退を表明（9/2）、カスパー・ペデルセンがスーダル→ウノエックス（9/2）など、確定が続々。",
+        "layer2": "先回りで“市場の主役NSN”を潜ると、石畳（ツアー・オブ・ブリテン開幕で伏兵アスキーが勝った、あのチーム）で結果を出したNSNが、ファンエトフェルトのような『総合も狙える若手』を集めて本格補強に動いているのが見える。移籍は単なる人の入れ替えではなく『どのチームが次に強くなるか』の先行指標。ベン・スイフトの引退は一時代の区切りで、こういう“世代交代”のニュースはショート/記事で情感が乗りやすいネタ。",
+        "sources": [
+          {
+            "t": "idlprocycling（2027移籍・確定一覧）",
+            "u": "https://www.idlprocycling.com/cycling/cycling-transfers-20262027-every-confirmed-move-so-far",
+            "d": "2026-09-03"
+          },
+          {
+            "t": "Cyclingnews（2027移籍まとめ）",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/cycling-transfers-all-the-latest-news-and-announcements-for-the-2027-season/",
+            "d": "2026-09-03"
+          }
+        ],
+        "status": "確定＝ファンエトフェルト→NSN、スイフト引退、C・ペデルセン→ウノエックス（各媒体の確定欄）。"
+      },
+      {
+        "id": "20260907-dura-ace-13s-wire",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://the5krunner.com/wp-content/uploads/2015/11/shimano.jpg?wsr",
+        "headline": "【パーツ・続報】新デュラエース13速『R9300』の実像——“完全ワイヤレス”ではなく《まだ1本ケーブルが残る》セミワイヤレス",
+        "layer1": "ブエルタで目撃・E-Tubeアプリのリークが積み上がり、次期デュラエースR9300が『13速化』でほぼ確実に。ただし完全ワイヤレスではなく、リアディレイラーは有線が残る“セミワイヤレス”で、クランクは引き続きアルミ、シフター釦は再設計（LED付き）とされる。",
+        "layer2": "先回りで“買い手の実害”を潜ると、SRAM/カンパが完全ワイヤレスな中でシマノが1本ケーブルを残す理由は、たぶん『電池持ち・信頼性・整備性』の割り切り。マサル的に効くのは互換性で、リーク型番から『新フリーボディ必須＝今の12速ホイールにポン付け不可』の線が濃厚（次カードで深掘り）。公式発表は年末〜2027初頭、実戦供給は2027シーズンが本線で、“今すぐ買い替え”を煽る段階ではない。",
+        "sources": [
+          {
+            "t": "the5krunner（R9300目撃・セミワイヤレス）",
+            "u": "https://the5krunner.com/2026/08/23/dura-ace-r9300-13-speed-spotted/",
+            "d": "2026-08-23"
+          },
+          {
+            "t": "biketips（E-Tubeリーク解説）",
+            "u": "https://biketips.com/shimano-13-speed-dura-ace-r9300-e-tube-leak-2026/",
+            "d": "2026-05-05"
+          }
+        ],
+        "status": "曖昧（リーク段階）＝13速・セミワイヤレスは複数証拠、公式未発表。“完全ワイヤレスではない”点に注意。"
+      },
+      {
+        "id": "20260907-freehub-12speed-stock",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://rydecruz.com/cdn/shop/articles/cover_a61aa5e6-f931-448b-a210-f984c4fb8f6a.png?crop=center&height=1024&v=1786546683&width=1024",
+        "headline": "【経営メモ・市場】13速前夜の“フリーボディ問題”——R9300は『新フリーボディ必須』の公算、店の12速在庫はどう握るか",
+        "layer1": "リーク型番（ASL13R系）から、R9300の13速は『新しいフリーボディが必要＝現行の12速ホイールにはそのまま載らない』可能性が高いと分析されている。つまりホイールは“コンポと別売りで買い替え圧力”がかかる構図。",
+        "layer2": "先回りで“店としての一手”を潜ると、結論は『12速在庫は当分死なない、が説明を準備せよ』。理由は3つ——①13速は2027シーズン＆超高額（デュラ級）から入るので大衆帯はまだ12速が主戦、②“新フリーボディ必須”が確定すれば、うちの中華カーボン（8LIEN/CRW/GOOSYNN等）を売る時に『将来13速に行くならホイールも替わる前提』を先に伝えると信頼になる、③逆に言えば“今の12速で完結する完成度”を推せば買い控えを解ける。値付けは『12速は買い時、ただし将来像も正直に』の二枚舌にならない説明が肝。",
+        "sources": [
+          {
+            "t": "Rydecruz（13速互換・フリーボディ考察）",
+            "u": "https://rydecruz.com/blogs/pedal-press/shimano-13-speed-compatibility-will-r9300-work-with-your-current-wheels-and-freehub",
+            "d": "2026-08-18"
+          },
+          {
+            "t": "the5krunner（R9300目撃）",
+            "u": "https://the5krunner.com/2026/08/23/dura-ace-r9300-13-speed-spotted/",
+            "d": "2026-08-23"
+          }
+        ],
+        "status": "曖昧＝“新フリーボディ必須”はリーク型番からの推定（公式未確定）。※要裏取り、断定はしない。"
+      },
+      {
+        "id": "20260907-china-relative-value",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://www.cyclistshub.com/wp-content/uploads/2021/03/Best-Chinese-Carbon-Road-Bike-Wheels-1024x538.jpg",
+        "headline": "【経営メモ・市場②】シマノ“高止まり”で中華ホイールの『相対的お得感』が上がる——8/1改定後の値付けの考え方",
+        "layer1": "シマノは8/1に価格改定（ペダル・スペアパーツ・シューズ・PRO等が概ね数%上げ）、大手コンポは高止まりが続く。一方で中華カーボンは大手同等スペックを『半額前後』で出す構図が定着し、価格差＝“相対価値”はむしろ広がっている。",
+        "layer2": "先回りで“店の値付け戦略”を潜ると、効くのは『絶対安ではなく相対安を売る』こと。数年のシマノ値上げで“中華＝ただ安い”のインパクトは薄れたが、逆に大手が上がるほど『同じ性能なら中華で浮いた差額をタイヤ/整備/2本目に回せる』という提案が刺さる。マサルの武器は価格そのものより《目利き＋整備＋保証》で、指名買い時代の受け皿として『銘柄はネットで決めてきてOK、組付けと面倒はうちが持つ』と言い切れる店が勝つ。値引き競争に降りない設計が要点。",
+        "sources": [
+          {
+            "t": "シマノ公式（8/1価格改定告知）",
+            "u": "https://shop-jp.shimano.com/blogs/news/price_update",
+            "d": "2026-08-01"
+          },
+          {
+            "t": "CyclistsHub（中華カーボン比較2026）",
+            "u": "https://www.cyclistshub.com/best-chinese-carbon-wheels/",
+            "d": "2026-07-06"
+          }
+        ],
+        "status": "確定＝シマノ8/1改定・中華は半額圏。“相対価値”の解釈は経営視点の分析（記事化不要の経営メモ）。"
+      },
+      {
+        "id": "20260907-winspace-vs-yoeleo",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://www.cyclistshub.com/wp-content/uploads/2021/05/YOELEO-vs.-Winspace.jpg",
+        "headline": "【ホイール】中華二強の設計思想が割れた——ウィンスペースは『カーボンスポーク＋セラミック』、ヨーレオは『スチールスポークで整備性』",
+        "layer1": "2026年の中華カーボンは二強でも思想が分岐。ウィンスペース（HYPER系）はカーボンスポーク＋セラミックベアリングで“軽さと反応”に振り、ヨーレオはあえてスチールスポーク（Pillar系）を継続して“整備性・入手性”を優先。どちらもUCI認証で大手の半額圏。",
+        "layer2": "先回りで“どっちが正解か”を潜ると、答えは用途で割れる。カーボンスポークは軽量＆高剛性でヒルクライム/加速の見栄えは良いが、折れた時にスポーク単品交換がしづらく“補修＝ホイール送り”になりがち。スチールスポークは重い代わりに『沿道の店でも直せる』安心がある。つまり『レースで攻める人＝カーボンスポーク、長く実用で乗る人＝スチール』が素直な線引き。うち（8LIEN/CRW/GOOSYNN）で提案するなら、客のライドスタイルを先に聞いてから“スポーク素材で選ぶ”のが外さない。",
+        "sources": [
+          {
+            "t": "CyclistsHub（YOELEO vs Winspace）",
+            "u": "https://www.cyclistshub.com/yoeleo-vs-winspace/",
+            "d": "2026-04-09"
+          },
+          {
+            "t": "CyclistsHub（中華カーボン10本テスト2026）",
+            "u": "https://www.cyclistshub.com/best-chinese-carbon-wheels/",
+            "d": "2026-07-06"
+          }
+        ],
+        "status": "確定＝ウィンスペース=カーボンスポーク/セラミック、ヨーレオ=スチールスポーク。用途別の線引きは分析。"
+      },
+      {
+        "id": "20260907-carbon-spoke-need",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png?media=1716897874",
+        "headline": "【初中級・Xで議論】“初めての中華カーボン、カーボンスポークは本当に要る?”——Xの格付け熱に対する正直な答え",
+        "layer1": "中華カーボンの『格付け・比較』はいまもXで定番の話題で、初心者ほど『カーボンスポーク＝上位＝正解』と受け取りがち。だが最初の1本で本当に効くのは、スポーク素材より《規格の明快さ×認証×使える保証》だ。",
+        "layer2": "先回りで“素人の体感差”を潜ると、カーボンスポークの軽さ・剛性アップは確かに存在するが、初〜中級の巡航で『体感を左右するのはまずタイヤと空気圧、次にリムハイトと重量バランス』で、スポーク素材の寄与は思うより小さい。むしろ最初の1本は、①ディスク/フリーボディ等の規格が今の自分の車体に合うか、②UCI/TÜV等の認証があるか、③国内で相談・補修できる窓口があるか、の3点で外さないほうが幸せ。カーボンスポークは『2本目、レースで攻め始めてから』で十分——という結論はXの煽りに流されない軸になる。※“Xで話題”は入口、数値の裏はメーカー公称と実測レビューで確認済み。",
+        "sources": [
+          {
+            "t": "VeloFanatics（中華カーボン2026）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2025-12-27"
+          },
+          {
+            "t": "CyclistsHub（YOELEO vs Winspace）",
+            "u": "https://www.cyclistshub.com/yoeleo-vs-winspace/",
+            "d": "2026-04-09"
+          }
+        ],
+        "status": "確定＝選定3軸（規格×認証×保証）は普遍。体感差の重み付けは分析（※要裏取り部分は明記）。"
+      },
+      {
+        "id": "20260907-restday-recovery",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://www.harusome-roadbike.com/wp-content/uploads/2026/05/upload_20260518_072340.jpg",
+        "headline": "【初中級】プロも今日は“休む”——ブエルタ休息日にちなむ、素人のための『正しいレストデー』の作り方",
+        "layer1": "今日9/7はブエルタの休息日。プロですら週の途中でまる1日休むのは、体力が伸びるのは『トレーニング中ではなく回復中』だから。素人ほど“休む勇気”が伸び悩み脱出のカギになる。",
+        "layer2": "先回りで“何日・どう休むか”を潜ると、目安は明快。①アマチュアは『週2日は休養日』を確保するのが望ましい、②本当に追い込んだ後は筋グリコーゲンの回復に『36〜48時間』かかる＝翌日ヘロヘロは自然、③完全休養が不安なら“回復走（軽いエンデュランス）”で血流を回すのも有効。ポイントは『超回復＝壊す→十分休む→前より強く直る』の流れを信じること。休息日は「サボり」ではなく“強くなる工程”——このメッセージは初心者の罪悪感をほどく。",
+        "sources": [
+          {
+            "t": "はるそめロードバイク日記（回復週の過ごし方）",
+            "u": "https://www.harusome-roadbike.com/entry/2026week19",
+            "d": "2026-05-18"
+          },
+          {
+            "t": "えふえふぶろぐ（休息・回復の基本）",
+            "u": "https://ff-cycle.blog.jp/archives/1077312689.html",
+            "d": "2026-01"
+          }
+        ],
+        "status": "確定＝『週2休養/回復36〜48h/超回復』はトレ理論の定説。今日のブエルタ休息日を入口にした普遍ネタ。"
+      },
+      {
+        "id": "20260907-heat-protocol-trend",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/BwHRBYVYs32KqtDUUUF59V-2000-80.jpg",
+        "headline": "【トレンド】グランツールが『猛暑で短縮』される時代——ブエルタ第15は40℃で110kmに、“異常気象プロトコル”が常態化",
+        "layer1": "昨日のブエルタ第15は、スタート時40℃前後の猛暑で『異常気象プロトコル』が発動、189.7km→110.2kmへと約80kmもカットされた。近年こうした距離短縮・ルート変更は珍しくなくなり、レース運営の“標準装備”になりつつある。",
+        "layer2": "先回りで“これが我々に及ぼす話”を潜ると、二つ。①レース観戦の見方——短縮されると逃げ/スプリントの確率が上がり、昨日はファンアールトのような万能型が中間スプリント経由で勝ち切れた。展開予想の前提が変わる。②ホビーへの示唆——プロが40℃で距離を削る判断をする以上、素人が真夏〜残暑に“予定通り”走り切ろうとするのは危険。日本の残暑も同じで『距離・時間を削る判断』はサボりでなくリスク管理。気候が“計画を上書きする”のは、もうプロも素人も共通の前提になった。",
+        "sources": [
+          {
+            "t": "Cyclingnews（第15・異常気象プロトコルで短縮）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-2026-stage-15-preview/",
+            "d": "2026-09-06"
+          },
+          {
+            "t": "CyclingUpToDate（80km短縮の顛末）",
+            "u": "https://cyclinguptodate.com/cycling/results-vuelta-a-espana-2026-stage-15-wout-van-aert-wins-five-man-thriller-after-extreme-heat-slashes-almost-80km-from-route",
+            "d": "2026-09-06"
+          }
+        ],
+        "status": "確定＝第15は40℃前後で約80km短縮（189.7→110.2km）。観戦/ホビーへの示唆は分析。"
+      }
+    ]
+  },
+  {
     "date": "2026-09-06",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。ブエルタ第14『南のアングリル』パンデラは、開幕週に病気と2度の落車で総合99位まで沈んだ26歳ブレナーが“復活の独走”でツドール悲願のGT初勝利——赤マスは山でさらに突き放し、ガルが2位『+2:06』へ、勝負は来週の『32km個人TT』へ。今日の第15は記録的猛暑で『110kmに短縮』、ヴァンアールト再びの気配。英国はボルが4年ぶりVでヴェレンスが総合首位、今日が最終第5です。国内は9月末『決算セール』→10〜11月『モデルチェンジ処分』の買い手市場、機材は新デュラエース・ホイールが今月出荷で“カーボンスポーク時代”がついに店頭へ。",
     "cards": [
