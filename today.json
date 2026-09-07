@@ -1,149 +1,158 @@
 {
-  "date": "2026-09-07",
-  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。ブエルタは今日『第2休息日』、代わりに昨日ツアー・オブ・ブリテンが決着——UAEが最終日も独走で締めました。最終週の主戦場『32kmTT』の算数、13速の“フリーボディ問題”、中華ホイールの『カーボンスポーク要る?』まで底まで潜っています。",
+  "date": "2026-09-08",
+  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。ブエルタは最終週が再始動——今日9/8の第16は『海風エシュロン』が赤マスを脅かす、数少ないスプリント日です。“万年2位マスが初めて赤で勝つのか”という人間ドラマ、シマノ13速ロードマップ、9/17発売の新デュラホイールの値付け、中華カーボン『保証の落とし穴』まで底まで潜りました。",
   "cards": [
     {
-      "id": "20260907-tob-men-final",
+      "id": "20260908-vuelta-st16-preview",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": true,
-      "image": "https://cdn.mos.cms.futurecdn.net/buknuXrYxe8bmizqkGRDff-2000-80.jpg",
-      "headline": "【🔥今日の一本】ツアー・オブ・ブリテン決着——最終第5をポリットが『残り8kmから独走』、総合はウェレンスでUAEが“完全支配”",
-      "layer1": "昨日9/6の最終第5ステージ、UAEのニルス・ポリットが残り8kmで抜け出し2位ヴェルメルシュに『12秒』差の独走勝利。総合はティム・ウェレンスが制し、2位アスキー・3位ステュイヴェンを従えてUAEが週間を締めた。",
-      "layer2": "先回りで“なぜUAEがこうも強いか”を潜ると、答えは『駒の厚み』。エースのウェレンスを勝たせつつ、最終日はアシストのはずのポリット（元パリ〜ルーベ級のパワー型）が勝てる——勝ち筋を複数持てるのが一強の正体。ロードレースは『個人競技の顔をしたチーム戦』で、総合とステージを別々の選手で獲りにいける層の差が、そのまま結果に出た一週間だった。",
+      "image": "https://domestique-cycling.b-cdn.net/production/2026/Live/CORVOS_00039272-193.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C141",
+      "headline": "【🔥今日の一本】ブエルタ最終週が再始動——今日9/8第16は『海風のエシュロン』が赤マスを試す、残り少ないスプリント日",
+      "layer1": "第2休息日明けの第16は、コルテガナ→ラ・ラビダ（パロス・デ・ラ・フロンテーラ）181.1km。カテゴリー山は無く、終盤90kmは平坦で、残り数少ないスプリンター向けの日。ただしウエルバ沿岸の『海風』が吹けば集団が割れ、赤ジャージのマス（守るモビスターは最も手薄）が試される。GCはマスが2位ガルに『+2:06』、3位ログリッチはさらに+4秒で最終週へ。",
+      "layer2": "先回りで“なぜ平坦日なのに緊張するか”を潜ると、答えは『横風＝エシュロン（斜行の列）』。海沿いで風が横から入ると集団は数十人の小列に千切れ、位置取りを外したエースは一瞬で1〜2分失う——山より怖い平坦がここにある。実際プレビュー各紙は「クロスウインドがブンチスプリントを壊しうる」と警戒。マス側は全員で前を固める“総力の位置取り”が必須で、勝ち候補はブレナン（21歳・弾丸）とファンアールト。逆に無風ならスプリント、風が出ればGCがまた動く『二面性の一日』。発走13:05・フィニッシュ17:19（CEST）。",
       "sources": [
-        { "t": "Cyclingnews（ToB第5・総合）", "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-of-britain-men-nils-politt-strikes-for-solo-stage-5-win-while-tim-wellens-secures-overall-title/", "d": "2026-09-06" },
-        { "t": "CyclingUpToDate（第5結果・12秒差）", "u": "https://cyclinguptodate.com/cycling/results-tour-of-britain-2026-stage-5-tim-wellens-seals-overall-victory-as-nils-politt-crowns-uae-domination-with-solo-win", "d": "2026-09-06" }
+        { "t": "CyclingUpToDate（第16プレビュー・横風警戒）", "u": "https://cyclinguptodate.com/cycling/vuelta-a-espana-2026-stage-16-preview-profile-favourites-prediction-crosswinds-threaten-one-of-final-sprint-chances-as-matthew-brennan-and-wout-van-aert-target-la-rabida", "d": "2026-09-07" },
+        { "t": "Cycling Mole（第16プレビュー）", "u": "https://cyclingmole.com/2026/09/07/2026-vuelta-a-espana-stage-16-preview/", "d": "2026-09-07" },
+        { "t": "Domestique（第16プレビュー/ライブ）", "u": "https://www.domestiquecycling.com/en/news/stage-16/", "d": "2026-09-08" }
       ],
-      "status": "確定＝ポリット第5勝利（+12秒）／ウェレンス総合優勝、2位アスキー・3位ステュイヴェン。"
+      "status": "確定＝第16は181.1km・平坦基調、GCはマス赤（+2:06ガル/+2:10ログリッチ）。曖昧＝勝者は風次第（スプリント or 逃げ/エシュロン）。"
     },
     {
-      "id": "20260907-vuelta-restday-green",
+      "id": "20260908-mas-human-drama",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://domestique-cycling.b-cdn.net/production/2026/Live/CORVOS_00039313-204.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C141",
-      "headline": "【レース・ブエルタ】今日は『第2休息日』——マス赤マス堅守で最終週へ、ファンアールトは緑を“ほぼ確定”（108点差）",
-      "layer1": "昨日9/6の第15、猛暑で110kmに短縮されたコルドバはファンアールトが『3日で2勝目』。GCはエンリク・マスが赤ジャージを守り、2位ガルに『+2:06』、3位ログリッチはさらに+4秒。今日9/7は第2休息日で、勝負は最終週へ持ち越し。",
-      "layer2": "先回りで“この休息日の意味”を潜ると、二つの物語が並走している。①ポイント賞＝ファンアールトが緑で『108点差』を築き実質確定、スプリンター不在の山岳偏重コースを中間スプリントと逃げで荒稼ぎした職人芸。②GC＝マスの+2:06は「山で作った貯金」で、木曜の32km個人TT（次カード）でログリッチに削られる前提の“余白”。休息日は回復であると同時に、各チームが『どこで賭けるか』を設計し直す日でもある。",
+      "image": "https://cdn.mos.cms.futurecdn.net/dhSWYsvyhoa3ZMBwCunBBL-1024-80.jpg",
+      "headline": "【人間ドラマ】“万年2位”マス、初めての赤——歴史は「勝てない」と言うが、彼はこの3週間すべての問いに答えてきた",
+      "layer1": "エンリク・マス（31）はブエルタで2位が『3回』（2018・2021・2024）、表彰台は4回、なのに一度も総合優勝も赤ジャージ着用も無かった選手。今年、第8でポガチャル落車リタイアの“遺産”として初めて赤を受け取り、表彰台では敬意からあえて袖を通さなかった。そして第12カラール・アルト、第14ラ・パンデラでGC勢の中で最も強く、+2:06で最終週へ。",
+      "layer2": "先回りで“なぜ今度は違うのか”を潜ると、二つの現実がある。①歴史＝マスは長年『二番手で終わる登り方』の代名詞で、専門メディアも「歴史的には勝てない」と書く。だが②今大会は、山頂で自ら仕掛けてログリッチ／ガルを引き離す“勝者の走り”を続けており、モビスターも「2分以上あれば安心」と強気。最大の関門は木曜の32km個人TTでログリッチに削られる分だが、その後にも山が残る。つまり『経歴の呪縛』と『今の充実』がぶつかる一週間——結果速報より、ここに心が動く。マサルさんがショートにするなら“初めて赤が似合う男”の物語で。",
       "sources": [
-        { "t": "CyclingUpToDate（第15・GCと緑108点差）", "u": "https://cyclinguptodate.com/cycling/results-vuelta-a-espana-2026-stage-15-wout-van-aert-wins-five-man-thriller-after-extreme-heat-slashes-almost-80km-from-route", "d": "2026-09-06" },
-        { "t": "Domestique（分類リーダー総覧）", "u": "https://www.domestiquecycling.com/en/news/2026-vuelta-a-espana-classifications-leaders-overview/", "d": "2026-09-06" }
+        { "t": "Cyclingnews（マスGC分析・歴史と現在）", "u": "https://www.cyclingnews.com/pro-cycling/racing/history-says-enric-mas-wont-win-this-vuelta-a-espana-but-hes-had-the-answer-for-everything-since-inheriting-red-and-distancing-primoz-roglic-gc-analysis/", "d": "2026-09-07" },
+        { "t": "Domestique（“渋々のリーダー”が勝者に見えてきた）", "u": "https://www.domestiquecycling.com/en/news/reluctant-vuelta-leader-mas-suddenly-looks-like-a-winner/", "d": "2026-09-06" },
+        { "t": "Cyclingnews（第8で赤を着なかった理由）", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/i-think-its-something-to-show-respect-to-him-new-vuelta-a-espana-leader-enric-mas-refuses-to-wear-red-jersey-on-stage-8-podium-after-tadej-pogacars-abandon/", "d": "2026-08-29" }
       ],
-      "status": "確定＝マス赤（2位ガル+2:06／3位ログリッチ+2:10）、ファンアールト緑108点差、9/7は休息日。"
+      "status": "確定＝マスは過去ブエルタ2位3回・表彰台4回で優勝なし、今年初の赤。曖昧＝優勝は個人TTと残る山岳次第。"
     },
     {
-      "id": "20260907-vuelta-itt-maths",
+      "id": "20260908-vanaert-green",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://domestique-cycling.b-cdn.net/production/2025/Men/Team-Visma-Lease-a-Bike/CORVOS_00038032-078.jpg?width=832&height=468&format=jpg&crop=2000%2C1125%2C0%2C104",
-      "headline": "【レース・展望】最終週の主戦場は第18『32km個人TT』——ログリッチはマスの“貯金”を1本で消せるのか、算数で検証",
-      "layer1": "GCを決めにいく大一番は第18ステージ、エル・プエルト・デ・サンタ・マリア→ヘレス『32.1km・ほぼ平坦』の個人TT。現時点でマス→ログリッチは約2:10差。TT巧者ログリッチが逆転できるかが、最終週最大の焦点。",
-      "layer2": "先回りで“数字の現実”を潜ると、過去の同型TT（25〜34kmの平坦）でログリッチはマスに『1:30〜2:00』奪ってきた実績があり、2021年ブエルタでは2分以上つけた。だが確定ではない——今のログリッチは36歳、しかもブエルタ直前の交通事故で5週間を失って復調途上。加えてTTの後にも山岳が残り、マスに“取り返す舞台”がある。つまり『理屈上は届く射程だが、今年の身体でそれを出せるかは別問題』というのが正直な結論。TTだけで決着とは限らない。",
+      "image": "https://nbcsports.brightspotcdn.com/dims4/default/f3db595/2147483647/strip/true/crop/3307x1860+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F84%2F11%2Fd9912ed34d809504272972d20e94%2F2293843413.jpg",
+      "headline": "【人間ドラマ】ファンアールトが緑を“ほぼ確定”——スプリンター不在の山岳ブエルタで、万能の職人が『108点差』を築いた",
+      "layer1": "ポイント賞（緑）はファンアールトが2位ブレナンに『約108点差』をつけ、実質確定。第13ロハ、第15コルドバ（猛暑で110kmに短縮）を含めステージ2勝、逃げと中間スプリントで着実に稼いだ。純粋スプリンター中心のツールと違い、今年のブエルタは山と丘だらけ——そこを万能型が制した。",
+      "layer2": "先回りで“なぜ万能型が緑を獲れたか”を潜ると、答えはコース設計と点の集め方。今年のブエルタは平坦スプリント日が極端に少なく、点は『山頂・丘・中間スプリント』に分散。ここでファンアールトは、登れて・逃げられて・スプリントもできる“三拍子”を武器に、他の誰も入れない局面で点を回収した。世界選手権（9/20-27モントリオール）の起伏コースを見据えた最高の仕上がりでもある。緑は速さの勲章というより『どんな地形でも点を取り続けた継続力』の勲章——ここがローディーに刺さる。",
       "sources": [
-        { "t": "idl（“1:46を返す算数”）", "u": "https://www.idlprocycling.com/cycling/321-kilometers-146-to-claw-back-heres-the-maths-primoz-roglic-needs-to-know-to-overhaul-mas-at-the-vuelta", "d": "2026-09-04" },
-        { "t": "Domestique（第18“真実の日”プレビュー）", "u": "https://www.domestiquecycling.com/en/features/vuelta-a-espana-stage-18-preview-race-of-truth-in-valladolid/", "d": "2025-09-11" }
+        { "t": "Domestique（分類リーダー総覧・緑108点差）", "u": "https://www.domestiquecycling.com/en/news/2026-vuelta-a-espana-classifications-leaders-overview/", "d": "2026-09-06" },
+        { "t": "NBC Sports（第15・猛暑短縮でファンアールト勝利）", "u": "https://www.nbcsports.com/news/van-aert-wins-shortened-spanish-vuelta-stage-15-amid-extreme-heat-mas-keeps-overall-lead", "d": "2026-09-06" },
+        { "t": "CyclingUpToDate（第15分類・緑108点差）", "u": "https://cyclinguptodate.com/cycling/vuelta-a-espana-2026-classifications-update-stage-15-enric-mas-takes-two-minute-lead-into-final-week-as-wout-van-aert-surges-108-points-clear", "d": "2026-09-06" }
       ],
-      "status": "曖昧＝TTでの逆転は“射程内だが不確実”（現GC差+2:10・本人の年齢/事故明けを考慮）。日付・距離は確定。"
+      "status": "確定＝ファンアールト緑（2位ブレナン、約108点差）、ステージ2勝。"
     },
     {
-      "id": "20260907-transfers-wave",
+      "id": "20260908-transfer-macro",
       "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
       "image": "https://cdn.mos.cms.futurecdn.net/9Rk6o8UGoBHfrXdzQnjkER-1024-80.jpg",
-      "headline": "【移籍・トレンド】2027移籍“新しい波”——ファンエトフェルトがロット退団でNSN、ベン・スイフトが引退、C・ペデルセンがウノエックス",
-      "layer1": "9月頭の移籍市場が再び動いた。若手GC株レナート・ファンエトフェルトがロット→NSN（9/3）、ベテランのベン・スイフトが現役引退を表明（9/2）、カスパー・ペデルセンがスーダル→ウノエックス（9/2）など、確定が続々。",
-      "layer2": "先回りで“市場の主役NSN”を潜ると、石畳（ツアー・オブ・ブリテン開幕で伏兵アスキーが勝った、あのチーム）で結果を出したNSNが、ファンエトフェルトのような『総合も狙える若手』を集めて本格補強に動いているのが見える。移籍は単なる人の入れ替えではなく『どのチームが次に強くなるか』の先行指標。ベン・スイフトの引退は一時代の区切りで、こういう“世代交代”のニュースはショート/記事で情感が乗りやすいネタ。",
+      "headline": "【トレンド・移籍市場】“約200人が契約切れ”の大商戦——女子で史上初『年俸100万ドル』級の噂も、市場は膨張フェーズへ",
+      "layer1": "2027に向けた移籍市場が過熱。報道では『約200人が契約満了』の大量流動年で、女子でも史上初とされる“年俸100万ドル級”の大型契約が話題に（金額は※要裏取り）。個別ではファンアンローイがカニオン-SRAM（女子・CX開幕から〜2029）、モラーノがロット、アスグリーンがNSN、スロックがバーレーン、レッドブルがシュタインハウザー＆AJ・オーガストを補強。",
+      "layer2": "先回りで“なぜ今こんなに動くか”を潜ると、構造は『契約年の一斉満了＋新スポンサー流入』。多くの2年契約が同時に切れる年に当たり、さらに女子は放映・スポンサー拡大で予算が急増、トップ選手の年俸相場が一気に跳ねた。男子はUAE・レッドブル等“金満チーム”の駒余りが玉突きで中堅を動かす構図。マサルさん目線では、これは『機材スポンサーの再編＝来季のプロ供給ブランドの地図が変わる』前触れでもある。“誰がどのバイク／ホイールで走るか”は、店頭の指名買いにも効く。金額系は各社で数字が割れるため、確定は移籍先、年俸は幅で見るのが安全。",
       "sources": [
-        { "t": "idlprocycling（2027移籍・確定一覧）", "u": "https://www.idlprocycling.com/cycling/cycling-transfers-20262027-every-confirmed-move-so-far", "d": "2026-09-03" },
-        { "t": "Cyclingnews（2027移籍まとめ）", "u": "https://www.cyclingnews.com/pro-cycling/transfers/cycling-transfers-all-the-latest-news-and-announcements-for-the-2027-season/", "d": "2026-09-03" }
+        { "t": "Velo（200人が契約切れ・女子初の100万ドル契約）", "u": "https://velo.outsideonline.com/news/cycling-transfer-market-2026-27/", "d": "2026-09-04" },
+        { "t": "Cycling Weekly（2027移籍まとめ）", "u": "https://www.cyclingweekly.com/racing/all-the-pro-cycling-transfers-for-2027", "d": "2026-09-05" },
+        { "t": "Cyclingnews（2027移籍・最新一覧）", "u": "https://www.cyclingnews.com/pro-cycling/transfers/cycling-transfers-all-the-latest-news-and-announcements-for-the-2027-season/", "d": "2026-09-05" }
       ],
-      "status": "確定＝ファンエトフェルト→NSN、スイフト引退、C・ペデルセン→ウノエックス（各媒体の確定欄）。"
+      "status": "確定＝移籍先（ファンアンローイ/モラーノ/アスグリーン/スロック等）。曖昧＝“100万ドル”等の年俸額は※要裏取り。"
     },
     {
-      "id": "20260907-dura-ace-13s-wire",
+      "id": "20260908-shimano-13s-roadmap",
       "genre": "parts", "genreLabel": "PARTS", "genreJa": "パーツ", "hot": false,
-      "image": "https://the5krunner.com/wp-content/uploads/2015/11/shimano.jpg?wsr",
-      "headline": "【パーツ・続報】新デュラエース13速『R9300』の実像——“完全ワイヤレス”ではなく《まだ1本ケーブルが残る》セミワイヤレス",
-      "layer1": "ブエルタで目撃・E-Tubeアプリのリークが積み上がり、次期デュラエースR9300が『13速化』でほぼ確実に。ただし完全ワイヤレスではなく、リアディレイラーは有線が残る“セミワイヤレス”で、クランクは引き続きアルミ、シフター釦は再設計（LED付き）とされる。",
-      "layer2": "先回りで“買い手の実害”を潜ると、SRAM/カンパが完全ワイヤレスな中でシマノが1本ケーブルを残す理由は、たぶん『電池持ち・信頼性・整備性』の割り切り。マサル的に効くのは互換性で、リーク型番から『新フリーボディ必須＝今の12速ホイールにポン付け不可』の線が濃厚（次カードで深掘り）。公式発表は年末〜2027初頭、実戦供給は2027シーズンが本線で、“今すぐ買い替え”を煽る段階ではない。",
+      "image": "https://escapecollective.com/content/images/size/w1200/2026/08/New-Shimano-Dura-Ace-R9300-Vuelta-Espana-2026-Escape-Collective--2-2.jpg",
+      "headline": "【パーツ・続報】シマノ13速ロードマップが見えてきた——R9300はブエルタで“もう走り”、噂は『機械式アルテグラ13速の復活』へ",
+      "layer1": "新デュラエース『R9300＝13速』はブエルタで実車が続々目撃（アルペシン等）。セミワイヤレス（変速レバーは無線／リアメカは有線＋内蔵バッテリー）は維持、13枚カセット＋新型フリーボディの公算。公式発表は年末〜2027初頭、実戦供給は2027シーズン狙い。加えて業界筋では『機械式アルテグラ13速の復活』観測が浮上している。",
+      "layer2": "先回りで“機械式復活はなぜ本気の話か”を潜ると、理由は市場ニーズ。電動Di2は精密だが高価（例：Di2約2,300ポンド vs 機械式約1,300ポンド級との試算）で、『充電不要・現場で直せる・安い』機械式の再評価が進む。MTBでは機械式（XT/SLX）が今も売れており、“性能はほぼ互角なのに価格差だけ大きい”というロード界の不満が背景。時期は早くて2027後半とみられる。マサルさん目線＝13速化と同時に『機械式という安い上位グレード』が戻れば、105とDi2の“真ん中”が埋まり、初中級の買い替え提案の幅が広がる。数字・時期は各社で割れるため現時点は“方向性”として扱うのが安全。",
       "sources": [
-        { "t": "the5krunner（R9300目撃・セミワイヤレス）", "u": "https://the5krunner.com/2026/08/23/dura-ace-r9300-13-speed-spotted/", "d": "2026-08-23" },
-        { "t": "biketips（E-Tubeリーク解説）", "u": "https://biketips.com/shimano-13-speed-dura-ace-r9300-e-tube-leak-2026/", "d": "2026-05-05" }
+        { "t": "cyclonline（機械式アルテグラ2027の噂・技術分析）", "u": "https://www.cyclonline.com/51-shimano-news-review-test/4705-new-shimano-ultegra-13-speed-2027-rumors-evolution", "d": "2026-09-07" },
+        { "t": "Escape Collective（R9300をブエルタで実見）", "u": "https://escapecollective.com/in-the-wild-shimano-dura-ace-r9300-groupset-at-la-vuelta/", "d": "2026-08-24" },
+        { "t": "Cycling Weekly（R9300 13速をブエルタで目撃）", "u": "https://www.cyclingweekly.com/news/new-13-speed-shimano-dura-ace-groupset-spotted-at-vuelta-a-espana", "d": "2026-08-25" }
       ],
-      "status": "曖昧（リーク段階）＝13速・セミワイヤレスは複数証拠、公式未発表。“完全ワイヤレスではない”点に注意。"
+      "status": "確定＝R9300はセミワイヤレス維持で実戦目撃。曖昧＝機械式アルテグラ13速は“噂・観測”段階（※要裏取り）、時期・仕様は未確定。"
     },
     {
-      "id": "20260907-freehub-12speed-stock",
-      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://rydecruz.com/cdn/shop/articles/cover_a61aa5e6-f931-448b-a210-f984c4fb8f6a.png?crop=center&height=1024&v=1786546683&width=1024",
-      "headline": "【経営メモ・市場】13速前夜の“フリーボディ問題”——R9300は『新フリーボディ必須』の公算、店の12速在庫はどう握るか",
-      "layer1": "リーク型番（ASL13R系）から、R9300の13速は『新しいフリーボディが必要＝現行の12速ホイールにはそのまま載らない』可能性が高いと分析されている。つまりホイールは“コンポと別売りで買い替え圧力”がかかる構図。",
-      "layer2": "先回りで“店としての一手”を潜ると、結論は『12速在庫は当分死なない、が説明を準備せよ』。理由は3つ——①13速は2027シーズン＆超高額（デュラ級）から入るので大衆帯はまだ12速が主戦、②“新フリーボディ必須”が確定すれば、うちの中華カーボン（8LIEN/CRW/GOOSYNN等）を売る時に『将来13速に行くならホイールも替わる前提』を先に伝えると信頼になる、③逆に言えば“今の12速で完結する完成度”を推せば買い控えを解ける。値付けは『12速は買い時、ただし将来像も正直に』の二枚舌にならない説明が肝。",
-      "sources": [
-        { "t": "Rydecruz（13速互換・フリーボディ考察）", "u": "https://rydecruz.com/blogs/pedal-press/shimano-13-speed-compatibility-will-r9300-work-with-your-current-wheels-and-freehub", "d": "2026-08-18" },
-        { "t": "the5krunner（R9300目撃）", "u": "https://the5krunner.com/2026/08/23/dura-ace-r9300-13-speed-spotted/", "d": "2026-08-23" }
-      ],
-      "status": "曖昧＝“新フリーボディ必須”はリーク型番からの推定（公式未確定）。※要裏取り、断定はしない。"
-    },
-    {
-      "id": "20260907-china-relative-value",
+      "id": "20260908-china-warranty-x",
       "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
       "image": "https://www.cyclistshub.com/wp-content/uploads/2021/03/Best-Chinese-Carbon-Road-Bike-Wheels-1024x538.jpg",
-      "headline": "【経営メモ・市場②】シマノ“高止まり”で中華ホイールの『相対的お得感』が上がる——8/1改定後の値付けの考え方",
-      "layer1": "シマノは8/1に価格改定（ペダル・スペアパーツ・シューズ・PRO等が概ね数%上げ）、大手コンポは高止まりが続く。一方で中華カーボンは大手同等スペックを『半額前後』で出す構図が定着し、価格差＝“相対価値”はむしろ広がっている。",
-      "layer2": "先回りで“店の値付け戦略”を潜ると、効くのは『絶対安ではなく相対安を売る』こと。数年のシマノ値上げで“中華＝ただ安い”のインパクトは薄れたが、逆に大手が上がるほど『同じ性能なら中華で浮いた差額をタイヤ/整備/2本目に回せる』という提案が刺さる。マサルの武器は価格そのものより《目利き＋整備＋保証》で、指名買い時代の受け皿として『銘柄はネットで決めてきてOK、組付けと面倒はうちが持つ』と言い切れる店が勝つ。値引き競争に降りない設計が要点。",
+      "headline": "【国内市場・Xで議論】中華カーボンの“保証の落とし穴”——『年数は長く見えるのに実は対象外』が指名買いの新論点に",
+      "layer1": "中華カーボン（ホイール・フレーム）の格付け・比較記事は今もPV上位＆X常連で、買い手は『ネットで銘柄を決めてから来店』が定着。その中で新しい論点が“保証の中身”。「◯年保証」と大きく謳っても、実際は『初回購入者限定（中古・転売は対象外）』『クラッシュ（落車）は免責』『レシート/シリアル必須』など、除外条件が効くケースが議論されている。",
+      "layer2": "先回りで“店はどう受け皿になるか”を潜ると、指名買い客に効くのは『保証の3点確認』。①対象者＝本人購入のみか（フリマ経由はほぼ不可）②免責＝クラッシュ・輪行傷・改造は外れるのが普通③手続き＝海外発送・往復送料・関税を客が負担するか。ここを店が代わりに読み解いて説明できれば、“安いネット購入”に対して『目利き＋整備＋国内対応』という専門店の価値が立つ。数値スペック競争ではなく《規格×認証（UCI/TÜV等）×使える保証》で外さない、が引き続き正解。保証条件はブランド・時期で変わるため、購入前に現物規約の確認を。",
       "sources": [
-        { "t": "シマノ公式（8/1価格改定告知）", "u": "https://shop-jp.shimano.com/blogs/news/price_update", "d": "2026-08-01" },
-        { "t": "CyclistsHub（中華カーボン比較2026）", "u": "https://www.cyclistshub.com/best-chinese-carbon-wheels/", "d": "2026-07-06" }
+        { "t": "CyclistsHub（2026中華カーボンホイール比較・保証注意）", "u": "https://www.cyclistshub.com/best-chinese-carbon-wheels/", "d": "2026-07-06" },
+        { "t": "リサイクルいわて（後悔しない選び方・保証の落とし穴）", "u": "https://www.recycle-iwate.com/carbon-wheel-no-regret/", "d": "2026-08" },
+        { "t": "bike-memo（2026中華カーボンおすすめ・選定基準）", "u": "https://bike-memo.com/cycle_260202_carbon-wheels/", "d": "2026-04-01" }
       ],
-      "status": "確定＝シマノ8/1改定・中華は半額圏。“相対価値”の解釈は経営視点の分析（記事化不要の経営メモ）。"
+      "status": "確定＝比較/格付けはPV・X上位で指名買いが定着、保証は除外条件が多い。曖昧＝各社の具体条件は※現物規約を要確認。"
     },
     {
-      "id": "20260907-winspace-vs-yoeleo",
-      "genre": "wheel", "genreLabel": "WHEEL", "genreJa": "ホイール", "hot": false,
-      "image": "https://www.cyclistshub.com/wp-content/uploads/2021/05/YOELEO-vs.-Winspace.jpg",
-      "headline": "【ホイール】中華二強の設計思想が割れた——ウィンスペースは『カーボンスポーク＋セラミック』、ヨーレオは『スチールスポークで整備性』",
-      "layer1": "2026年の中華カーボンは二強でも思想が分岐。ウィンスペース（HYPER系）はカーボンスポーク＋セラミックベアリングで“軽さと反応”に振り、ヨーレオはあえてスチールスポーク（Pillar系）を継続して“整備性・入手性”を優先。どちらもUCI認証で大手の半額圏。",
-      "layer2": "先回りで“どっちが正解か”を潜ると、答えは用途で割れる。カーボンスポークは軽量＆高剛性でヒルクライム/加速の見栄えは良いが、折れた時にスポーク単品交換がしづらく“補修＝ホイール送り”になりがち。スチールスポークは重い代わりに『沿道の店でも直せる』安心がある。つまり『レースで攻める人＝カーボンスポーク、長く実用で乗る人＝スチール』が素直な線引き。うち（8LIEN/CRW/GOOSYNN）で提案するなら、客のライドスタイルを先に聞いてから“スポーク素材で選ぶ”のが外さない。",
+      "id": "20260908-r9370-price-keiei",
+      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
+      "image": "https://cdn.funq.jp/contents/uploads/2026/07/28000440/DURA-ACE-WH-R9370-Series-All-Wheels-Horizontal-1920x1080px-A38595.jpg",
+      "headline": "【経営メモ・市場】新デュラホイールWH-R9370が『9/17発売』——約43万円/セット、シマノ最上位が“さらに上”へ動く値付け",
+      "layer1": "シマノ初のカーボンスポーク採用『WH-R9370』は、オールラウンドのC50から9/17に順次発売。実売想定はフロント198,847円／リア232,866円（税込）＝ペアで約43万円。旧R9270比でC50-159g〜C60-220gの軽量化、リム内幅は全モデル23mm（28〜30C最適化）。初回入荷は9月下旬、全国14店舗で試乗会も。",
+      "layer2": "先回りで“なぜ今、店として重要か”を潜ると、ポイントは『最上位の価格が一段上がった』こと。シマノがカーボンスポークで“さらに高い天井”を作ったことで、中華のカーボンスポーク上位（半額圏）の《相対的お得感》が一段と際立つ——ここが指名買い提案の追い風。一方で、9/17以降は「純正の最新を待つ客」と「今すぐ中華で軽量化する客」に二分されるので、①店頭は試乗導線で純正の“体験価値”を売り、②予算重視には中華カーボンスポーク＋自店整備・保証代行で受ける、の二枚看板が有効。在庫は旧R9270の値ごろ在庫をどう捌くかが当面の論点（新旧の価格差を明示して下取り誘導）。",
       "sources": [
-        { "t": "CyclistsHub（YOELEO vs Winspace）", "u": "https://www.cyclistshub.com/yoeleo-vs-winspace/", "d": "2026-04-09" },
-        { "t": "CyclistsHub（中華カーボン10本テスト2026）", "u": "https://www.cyclistshub.com/best-chinese-carbon-wheels/", "d": "2026-07-06" }
+        { "t": "サイクルスポーツ（WH-R9370発表・初カーボンスポーク）", "u": "https://www.cyclesports.jp/news/new-product/165486/", "d": "2026-07-30" },
+        { "t": "サイクルスポーツ（C50試乗会・全国14店舗）", "u": "https://www.cyclesports.jp/news/test-ride-event/166406/", "d": "2026-08-03" },
+        { "t": "funq/Bicycle Club（R9370詳報）", "u": "https://www.funq.jp/bicycle-club/article/1079789/", "d": "2026-07-28" }
       ],
-      "status": "確定＝ウィンスペース=カーボンスポーク/セラミック、ヨーレオ=スチールスポーク。用途別の線引きは分析。"
+      "status": "確定＝9/17発売開始（C50先行）、想定価格F198,847/R232,866円、初カーボンスポーク。曖昧＝店頭実売・初回入荷数は店舗差。"
     },
     {
-      "id": "20260907-carbon-spoke-need",
+      "id": "20260908-autumn-buyers-market",
+      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
+      "image": "https://www.1jyo.com/wp/wp-content/uploads/2026/06/4d575f174b97c1f460b7b8afdef35ace.jpg",
+      "headline": "【経営メモ・市場】“買い手市場”の秋——型落ち処分の本番は10〜11月、2027モデルは価格改定＋新色で二層化が進む",
+      "layer1": "9月は型落ち処分の入口、本番は10〜11月。旧モデルは新品・保証付きで定価の20〜40%引きが標準になり、在庫を軽くしたい専門店が一斉に動く。並行して2027モデルは各社が価格改定＋新色で登場（例：トレックは日本価格の改定を実施、ドマーネAL4は219,000→229,000円）。“新型は上がる／旧型は下がる”の二層化が鮮明。",
+      "layer2": "先回りで“この秋の勝ち筋”を潜ると、鍵は『二層の橋渡し』。①値上がりする2027新型は、価格改定前の予約・新色狙いで“今”背中を押す。②供給過多の型落ち・中古は買い手優位が深化しているので、単なる安売り競争に乗らず『整備力・目利き・下取り』で利幅を守る。フレーム・コンポは年式が違ってもほぼ同一（色違い中心、105/Tiagra等は数年でしかFMCしない）という事実を客に正直に伝えると、“型落ちで十分”層の信頼を取り込める。マサルさんの店は、型落ち×中華カーボンの組み合わせ提案で『最新新車の半額で“速い一台”』という導線が作りやすい秋。",
+      "sources": [
+        { "t": "一条アルチメイトファクトリー（トレック2027・価格改定/新色）", "u": "https://www.1jyo.com/news/?p=104588", "d": "2026-06" },
+        { "t": "Pedalism.jp（安い時期・型落ちの狙い目）", "u": "https://pedalism.jp/road-bike-sale-timing-when-cheap/", "d": "2026" },
+        { "t": "プライシー（セール時期・20〜40%引き）", "u": "https://www.pricey.jp/web/articles/3501", "d": "2026" }
+      ],
+      "status": "確定＝型落ち処分本番は10〜11月、20〜40%引きが標準、2027は価格改定＋新色。曖昧＝値引き率は車種・店舗差。"
+    },
+    {
+      "id": "20260908-echelon-beginner",
       "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png?media=1716897874",
-      "headline": "【初中級・Xで議論】“初めての中華カーボン、カーボンスポークは本当に要る?”——Xの格付け熱に対する正直な答え",
-      "layer1": "中華カーボンの『格付け・比較』はいまもXで定番の話題で、初心者ほど『カーボンスポーク＝上位＝正解』と受け取りがち。だが最初の1本で本当に効くのは、スポーク素材より《規格の明快さ×認証×使える保証》だ。",
-      "layer2": "先回りで“素人の体感差”を潜ると、カーボンスポークの軽さ・剛性アップは確かに存在するが、初〜中級の巡航で『体感を左右するのはまずタイヤと空気圧、次にリムハイトと重量バランス』で、スポーク素材の寄与は思うより小さい。むしろ最初の1本は、①ディスク/フリーボディ等の規格が今の自分の車体に合うか、②UCI/TÜV等の認証があるか、③国内で相談・補修できる窓口があるか、の3点で外さないほうが幸せ。カーボンスポークは『2本目、レースで攻め始めてから』で十分——という結論はXの煽りに流されない軸になる。※“Xで話題”は入口、数値の裏はメーカー公称と実測レビューで確認済み。",
+      "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039317-145.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C141",
+      "headline": "【初中級・観戦】今日の第16“横風”を10倍楽しむ——『エシュロン』はなぜ山より怖い? 素人にも効く横風の走り方",
+      "layer1": "今日の第16は平坦基調だが、海風が吹けば『エシュロン（横風で斜めに割れる小さな列）』ができる。集団が一気に数十人ずつ千切れ、位置を外したGCエースは平坦なのに1〜2分失うことがある。だから“山じゃないのに超重要”な一日になりうる。",
+      "layer2": "先回りで“なぜ横風で割れるのか”を潜ると、仕組みは風よけの角度。前が風上斜め前に位置すると、風を避けられるのは斜め後ろの限られた枠だけ。枠が埋まると後ろは風を丸受け＝千切れる。プロは各列（エシュロン）を作って耐えるが、道幅と人数で入れる枠が決まるので“前方待機”が生命線。素人ライドへの応用は明快：①横風区間は一列棒状にならず、風下側にずれて斜めの隊列を作る②先頭交代を早めに回す③単独なら無理せずケイデンス維持で耐える。観戦のコツは『道が海・平原に出た瞬間の集団の形』を見ること——列がバラけ始めたらエシュロン発生の合図。",
       "sources": [
-        { "t": "VeloFanatics（中華カーボン2026）", "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/", "d": "2025-12-27" },
-        { "t": "CyclistsHub（YOELEO vs Winspace）", "u": "https://www.cyclistshub.com/yoeleo-vs-winspace/", "d": "2026-04-09" }
+        { "t": "CyclingUpToDate（第16・横風がスプリントを壊す）", "u": "https://cyclinguptodate.com/cycling/vuelta-a-espana-2026-stage-16-preview-profile-favourites-prediction-crosswinds-threaten-one-of-final-sprint-chances-as-matthew-brennan-and-wout-van-aert-target-la-rabida", "d": "2026-09-07" },
+        { "t": "Domestique（第16プレビュー）", "u": "https://www.domestiquecycling.com/en/news/stage-16/", "d": "2026-09-08" }
       ],
-      "status": "確定＝選定3軸（規格×認証×保証）は普遍。体感差の重み付けは分析（※要裏取り部分は明記）。"
+      "status": "確定＝第16は横風でエシュロン発生の可能性。観戦・走行の要点として整理。"
     },
     {
-      "id": "20260907-restday-recovery",
+      "id": "20260908-di2-vs-mech-beginner",
       "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "https://www.harusome-roadbike.com/wp-content/uploads/2026/05/upload_20260518_072340.jpg",
-      "headline": "【初中級】プロも今日は“休む”——ブエルタ休息日にちなむ、素人のための『正しいレストデー』の作り方",
-      "layer1": "今日9/7はブエルタの休息日。プロですら週の途中でまる1日休むのは、体力が伸びるのは『トレーニング中ではなく回復中』だから。素人ほど“休む勇気”が伸び悩み脱出のカギになる。",
-      "layer2": "先回りで“何日・どう休むか”を潜ると、目安は明快。①アマチュアは『週2日は休養日』を確保するのが望ましい、②本当に追い込んだ後は筋グリコーゲンの回復に『36〜48時間』かかる＝翌日ヘロヘロは自然、③完全休養が不安なら“回復走（軽いエンデュランス）”で血流を回すのも有効。ポイントは『超回復＝壊す→十分休む→前より強く直る』の流れを信じること。休息日は「サボり」ではなく“強くなる工程”——このメッセージは初心者の罪悪感をほどく。",
+      "image": "https://cdn.mos.cms.futurecdn.net/uBbjRSbNkehy2Y8QdJfhWV-1624-80.jpg",
+      "headline": "【初中級】“初めての一台にDi2は要る?”——機械式アルテグラ13速の復活観測が示す、正直な答え",
+      "layer1": "電動Di2は精密で疲れても確実に変速でき、ボタン位置も自由。一方で高価（Di2 vs 機械式で1万円どころか十数万円差になることも）、充電が要る、出先での修理は基本不可。いま『機械式アルテグラ13速の復活』が噂されるのは、“安い・充電不要・現場で直せる”機械式の再評価が起きているから。",
+      "layer2": "先回りで“最初の一台はどっち?”に正直に答えると、初中級の1台目は『機械式105で十分』。理由は3つ——①費用対効果＝浮いた予算をホイールやウェア、ライド旅行に回す方が体感が上がる②運用＝充電・電池切れの不安ゼロ、輪行や長距離ロングでも安心③将来＝機械式上位（アルテグラ）が13速で戻る観測があり、機械式は“時代遅れ”では全くない。Di2が輝くのは『長距離で握力が落ちても確実に変速したい』『スプリントで手を離さず変速したい』人。まずは機械式で“自分がどこに不満を感じるか”を知ってから電動に上げるのが、後悔しない順番。数字・時期の噂部分は※要裏取り、機械式復活は現時点で観測段階。",
       "sources": [
-        { "t": "はるそめロードバイク日記（回復週の過ごし方）", "u": "https://www.harusome-roadbike.com/entry/2026week19", "d": "2026-05-18" },
-        { "t": "えふえふぶろぐ（休息・回復の基本）", "u": "https://ff-cycle.blog.jp/archives/1077312689.html", "d": "2026-01" }
+        { "t": "BikeRadar（機械式アルテグラを戻すべき理由・価格差）", "u": "https://www.bikeradar.com/features/opinion/bring-back-mechanical-shimano-ultegra", "d": "2026-06-18" },
+        { "t": "cyclonline（機械式アルテグラ2027の噂）", "u": "https://www.cyclonline.com/51-shimano-news-review-test/4705-new-shimano-ultegra-13-speed-2027-rumors-evolution", "d": "2026-09-07" }
       ],
-      "status": "確定＝『週2休養/回復36〜48h/超回復』はトレ理論の定説。今日のブエルタ休息日を入口にした普遍ネタ。"
+      "status": "確定＝機械式は安い/充電不要/現場修理可、Di2は精密/高価。曖昧＝機械式アルテグラ13速は※要裏取りの観測段階。"
     },
     {
-      "id": "20260907-heat-protocol-trend",
+      "id": "20260908-worlds-montreal-open",
       "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/BwHRBYVYs32KqtDUUUF59V-2000-80.jpg",
-      "headline": "【トレンド】グランツールが『猛暑で短縮』される時代——ブエルタ第15は40℃で110kmに、“異常気象プロトコル”が常態化",
-      "layer1": "昨日のブエルタ第15は、スタート時40℃前後の猛暑で『異常気象プロトコル』が発動、189.7km→110.2kmへと約80kmもカットされた。近年こうした距離短縮・ルート変更は珍しくなくなり、レース運営の“標準装備”になりつつある。",
-      "layer2": "先回りで“これが我々に及ぼす話”を潜ると、二つ。①レース観戦の見方——短縮されると逃げ/スプリントの確率が上がり、昨日はファンアールトのような万能型が中間スプリント経由で勝ち切れた。展開予想の前提が変わる。②ホビーへの示唆——プロが40℃で距離を削る判断をする以上、素人が真夏〜残暑に“予定通り”走り切ろうとするのは危険。日本の残暑も同じで『距離・時間を削る判断』はサボりでなくリスク管理。気候が“計画を上書きする”のは、もうプロも素人も共通の前提になった。",
+      "image": "https://images.ctfassets.net/761l7gh5x5an/7FjLDeTp2fAJ0lWbRhOcEW/5e015aa386aaf3d0bacf76705eacf008/53731--2.JPG?f=&fit=thumb&q=80&fl=progressive&w=1200&h=800",
+      "headline": "【トレンド】世界選手権モントリオール（9/20-27）は“王者不在”の虹争奪——ポガチャルが負傷で連覇断念、コースは登坂力勝負",
+      "layer1": "第99回世界選手権は9/20-27にモントリオール（北米では約10年ぶり）。男子エリートロードは9/27・273.7km、モンロワイヤル周回13.4km×12でカミリアン・ウード坂＋ポリテクニーク坂（部分11%超）を含む登坂型。だが連覇のはずだったポガチャルはブエルタ落車の鎖骨骨折手術でシーズン終了、王座が“空席”に。",
+      "layer2": "先回りで“では誰が虹を?”を潜ると、コース性格＝『パンチャー＆登れる万能型』が中心。候補はエヴェネプール、C・ペデルセン、ブエルタ帰りのファンアールト、若手のデルトロ／セイシャス、スケルモーセら。急坂×12周は“一発の登坂力”より『繰り返し登れる持久力＋位置取り』が効くため、単独スプリンターには不利。ポガチャル不在で本命が消えたぶん、逃げ・カウンター・数的優位を作れる強豪国（ベルギー等）の戦術がそのまま結果を左右する“読みにくい大会”になる。マサルさん的には、ここで走る選手＝来季の機材スポンサー地図（前カードの移籍と接続）でもある。",
       "sources": [
-        { "t": "Cyclingnews（第15・異常気象プロトコルで短縮）", "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-2026-stage-15-preview/", "d": "2026-09-06" },
-        { "t": "CyclingUpToDate（80km短縮の顛末）", "u": "https://cyclinguptodate.com/cycling/results-vuelta-a-espana-2026-stage-15-wout-van-aert-wins-five-man-thriller-after-extreme-heat-slashes-almost-80km-from-route", "d": "2026-09-06" }
+        { "t": "UCI（モントリオール大会コース概要）", "u": "https://www.uci.org/pressrelease/200-days-to-go-a-look-at-the-courses-of-the-2026-uci-road-world/7MNCbBHZySudjNAoDW4R8x", "d": "2026-03" },
+        { "t": "Wikipedia（2026 UCI Road World Championships）", "u": "https://en.wikipedia.org/wiki/2026_UCI_Road_World_Championships", "d": "2026-09" },
+        { "t": "ProCyclingStats（男子エリートRRスタートリスト）", "u": "https://www.procyclingstats.com/race/world-championship/2026/startlist", "d": "2026-09" }
       ],
-      "status": "確定＝第15は40℃前後で約80km短縮（189.7→110.2km）。観戦/ホビーへの示唆は分析。"
+      "status": "確定＝9/20-27モントリオール開催、男子RRは9/27・273.7km登坂型、ポガチャルは負傷欠場。曖昧＝優勝候補は展開次第。"
     }
   ]
 }
