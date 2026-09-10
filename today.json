@@ -1,206 +1,165 @@
 {
-  "date": "2026-09-10",
-  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。今日は運命の32km個人TT——赤マスの『2:10の貯金』を、記録の5冠を狙うログリッチが崩せるか。市場は秋の『買い手市場』が本番、中華は電動13速をもう店頭に。",
+  "date": "2026-09-11",
+  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ブエルタは『TTの翌日』、山でマスがログリッチを突き放せるか——世界選手権まで“中9日”、機材は13速戦争が二社に広がってきました。",
   "cards": [
     {
-      "id": "20260910-vuelta-st18-itt",
-      "genre": "race",
-      "genreLabel": "RACE",
-      "genreJa": "レース",
-      "hot": true,
-      "image": "https://procyclinguk.com/wp-content/uploads/2026/08/divI-havent-looked-at-the-route-at-all-Vuelta-a-Espana-leader-Enric-Mas-admits-complete-lack-of-course-knowledge-for-next-two-weeksdiv.jpg",
-      "headline": "【🔥今日の一本】ブエルタ第18は『運命の32km個人TT』——赤マスの“2:10の貯金”を、記録の5冠を狙うログリッチが崩せるか",
-      "layer1": "今日9/10（木）の第18ステージはエル・プエルト・デ・サンタマリア→ヘレス・デ・ラ・フロンテーラ32.1kmの個人TT。ほぼ平坦だがカディス湾の海風と終盤5kmのロータリー連続で『純パワー＋操舵』が問われる。総合はマス（モビスター）が首位、2位ガルに+2:06、3位ログリッチに+2:10。最終走者マスは16:55発、ログリッチ16:51発（CET）。",
-      "layer2": "TT巧者ログリッチにとって最大の見せ場。ProCyclingUKの試算では『45秒差ならマス安泰、90秒以上動けばレースが変わる』。ただしTT一発でマスを2:10ひっくり返すのは至難で、狙いは山岳前に差を詰めること。TT本命はキュング（15:37発）、ヘイター、そして緑のファンアールト（15:50発）。決着はTT後の金曜ペーニャス・ブランカス、土曜の超級コラード・デル・アルグアシル（8.3km/9.8%）へ持ち越す公算。※勝者・タイム差はレース後に確定。",
+      "id": "20260911-vuelta-st19-penasblancas",
+      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": true,
+      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/www.indeleiderstrui.nl/images/2026-09/santiago-buitrago-2-6a9e60ead853b.jpg",
+      "headline": "【🔥今日の一本】ブエルタ第19は『TT翌日の山頂決戦』ペーニャス・ブランカス——最後18.7km/6.5%で、赤マスがログリッチを“山で”突き放せるか",
+      "layer1": "今日9/11の第19はベレス・マラガ→ペーニャス・ブランカス（約205〜211km）。最後は18.7km・平均6.5%の登坂フィニッシュ。昨日のTTを終え、ここから週末まで山が続く“最後の勝負どころ”。",
+      "layer2": "先回り＝『TTで削り切れなかったログリッチに、もう平坦の武器は無い』が要点。ログリッチは第18TTでマスに33秒しか差を詰められず、総合は依然マスが赤（差は約1分37秒）。この先はマスが強さを見せてきた登坂ばかりで、ログリッチは『上りで攻めるしかない』苦しい立場。優勝候補にはマス、ヨハネッセン、伏兵ガル/ブイトラゴ/ブレナー。決着は明日の“超級”へ持ち越しの公算。",
       "sources": [
-        { "t": "ProCyclingUK（第18プレビュー）", "u": "https://procyclinguk.com/vuelta-a-espana-2026-stage-18-preview-roglic-gets-his-chance-against-mas-in-jerez-time-trial/", "d": "2026-09-09" },
-        { "t": "CyclingUpToDate（発走時刻・GC）", "u": "https://cyclinguptodate.com/cycling/start-times-order-vuelta-a-espana-2026-stage-18-time-trial-enric-mas-has-210-to-defend-as-primoz-roglics-record-fifth-title-bid-reaches-decisive-test", "d": "2026-09-09" },
-        { "t": "Domestique（最終週の全体像）", "u": "https://www.domestiquecycling.com/en/news/vuelta-a-espana-2026-final-week-route-enric-mas-faces-roglic-time-trial-and-brutal-mountain-showdown/", "d": "2026-09-08" }
+        { "t": "ProCycling UK（第19プレビュー）", "u": "https://procyclinguk.com/vuelta-a-espana-2026-stage-19-preview-penas-blancas-puts-roglic-straight-back-onto-mass-terrain/", "d": "2026-09-10" },
+        { "t": "IDL ProCycling（第19favourites）", "u": "https://www.idlprocycling.com/cycling/2026-vuelta-a-espana-stage-19-preview-temperatures-are-dropping-but-the-stakes-and-the-final-climb-are-soaring", "d": "2026-09-10" },
+        { "t": "La Vuelta 公式 Stage 19", "u": "https://www.lavuelta.es/en/stage-19", "d": "2026-09-11" }
       ],
-      "status": "確定＝32.1km個人TT・9/10開催・マス+2:06(ガル)/+2:10(ログリッチ)・発走時刻。曖昧＝結果はレース後。"
+      "status": "確定＝コース/最後18.7km・6.5%、TT後の総合(マス赤・ログリッチ約1:37差)。曖昧＝距離は媒体で205〜211kmと幅、区間展開は本日結果待ち。"
     },
     {
-      "id": "20260910-vuelta-st17-brennan5",
-      "genre": "race",
-      "genreLabel": "RACE",
-      "genreJa": "レース",
-      "hot": false,
-      "image": "http://cdn.cyclingstage.com/images/vuelta-spain/2026/stage-17-profile-100.jpg?02",
-      "headline": "【レース・結果】昨日9/9第17はブレナンが『5勝目』——セビリアの平坦スプリント、ファンアールトの発射台で今大会最強列車が完勝",
-      "layer1": "昨日9/9ドスエルマナス→セビリア185kmの完全平坦は、ビスマの21歳マシュー・ブレナンが今大会5勝目。グアダルキビル川沿いのフィニッシュで、緑ジャージ本人ファンアールトが牽く『発射台』からマグヌス・コルト、ヨルディ・メーウスらを退けた。",
-      "layer2": "グランツール初出場での5勝は驚異的で、ガビリア（2017ジロ）を想起させる新人記録級。前日第16に続く連勝で、純粋なスプリント日は残りごくわずか。ビスマはブレナンの個人勝利＋ファンアールト緑ジャージで『スプリント支配』を完成させた。今日のTTを挟み、週末は山岳でGCが動く。※着順詳細はPCS等で確認済み。",
+      "id": "20260911-vuelta-st18-kung-tt",
+      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-09%2Fenric-mas-6aa18e9f75d2f.jpg",
+      "headline": "【レース・結果】昨日9/10の第18“32km個人TT”はキュングが優勝——マスは赤を守り、記録狙いのログリッチに削られたのは『わずか33秒』",
+      "layer1": "エル・プエルト・デ・サンタマリア→ヘレス32.1kmの平坦TTは、スイスのTT職人シュテファン・キュング（ツドール）が制覇。総合はマスが12位でまとめ、赤を堅守。",
+      "layer2": "先回り＝『TT王ログリッチの逆襲は不発』。ログリッチは区間4位でマスから奪ったのは33秒どまり。総合はマス首位、ログリッチ+1:37、3位ガル+3:01、4位カラパス+5:17。“万年2位”と言われ続けたマスが、最も苦手とされたTTさえ守り切った意味は大きい。本人は『どんなリードも“十分”ではない』と気を引き締める。勝負は今日以降の山へ。",
       "sources": [
-        { "t": "PEZ Cycling（第17・ブレナン5勝）", "u": "https://pezcyclingnews.com/racing/vuelta-2026-stage-17-brennan-wins-again-in-seville/", "d": "2026-09-09" },
-        { "t": "CyclingStage（第17コース）", "u": "https://www.cyclingstage.com/vuelta-2026-route/stage-17-spain-2026/", "d": "2026-09-09" },
-        { "t": "Cyclingnews（第17ライブ）", "u": "https://www.cyclingnews.com/pro-cycling/live/vuelta-a-espana-stage-17-live-matthew-brennan-seeking-fifth-stage-win-on-another-day-for-the-sprinters/", "d": "2026-09-09" }
+        { "t": "PEZ Cycling（キュングTT優勝）", "u": "https://pezcyclingnews.com/racing/vuelta-2026-stage-18-kung-time-trial-mas-roglic/", "d": "2026-09-10" },
+        { "t": "Cyclingnews（GC standings st18）", "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-gc-standings-from-yellow-to-red-tadej-pogacar-takes-leaders-jersey-on-opening-day/", "d": "2026-09-10" },
+        { "t": "Cycling Up To Date（マス発言）", "u": "https://cyclinguptodate.com/cycling/enric-mas-holds-off-primoz-roglic-in-time-trial-and-warns-before-vuelta-finale-no-advantage-is-ever-enough", "d": "2026-09-10" }
       ],
-      "status": "確定＝ブレナン今大会5勝目・セビリア・9/9開催・コルト/メーウスを下す。"
+      "status": "確定＝キュング優勝・マス赤堅守・ログリッチ33秒差(総合+1:37)。曖昧＝下位の細かい秒差は媒体で微差あり。"
     },
     {
-      "id": "20260910-roglic-fifth-title",
-      "genre": "race",
-      "genreLabel": "RACE",
-      "genreJa": "レース",
-      "hot": false,
-      "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00031512-071.jpg",
-      "headline": "【人間ドラマ】ログリッチ、記録の『5度目のブエルタ』へ最後の勝負——7月に散り9月に蘇る“敗者復活”の36歳",
-      "layer1": "今日のTTは、ログリッチにとって記録更新の分水嶺。ブエルタ4勝はロベルト・エラスと並ぶ歴代最多タイで、5勝目なら単独1位となる。だが首位マスに2:10差、TT一発での逆転は現実的でなく、狙いは週末の山岳へ望みをつなぐこと。",
-      "layer2": "彼のキャリアは『7月に落ち、9月に戻る』の反復——ツール・ド・フランスの失望をブエルタで晴らす“再試験の男”。2025年はレッドブルにジロ／ツールを外され、エヴェネプールら新世代に道を譲った。それでも今大会は本人が『こんなに走れるとは思わなかった、何が起きてもおかしくない』と上向き。2027年は複数チームが争奪（ロット／バーレーン観測）で、36歳の再出発も近い。※最新コメントは9/8-9/9、経歴の掘り下げはDomestiqueの特集（8/17）を補足に。",
+      "id": "20260911-mas-eternal-second-red",
+      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
+      "image": "https://procyclinguk.com/wp-content/uploads/2026/09/divI-have-tough-memories-of-that-year-Enric-Mas-looks-to-avoid-repeat-of-2022-time-loss-to-Roglic-on-Sierra-de-la-Panderadiv-scaled.avif",
+      "headline": "【人間ドラマ】マスの“2022年の悪夢”——4年前ログリッチにTTで大逆転された男が、いま『自分のTT』で赤を守った",
+      "layer1": "赤ジャージのマスには、忘れられない過去がある。2022年のブエルタ、彼はTTを含む終盤で総合を失い“表彰台の常連なのに勝てない男”と刻まれた。同じ相手ログリッチを前に、今年は違った。",
+      "layer2": "先回り＝『なぜ今回は守れたのか』。ProCyclingの前日分析は“マスがTTで例年より明確に強く、特に最後の10kmで踏めた”ことを挙げる。苦手を消せば、残るは得意の登坂だけ——だからこそ本人は油断せず『どんな差も十分ではない』と語る。マサル的には“結果速報より、克服の物語”。ここでうちの《軽量×剛性》の登坂機材トークにも自然に着地できる回。",
       "sources": [
-        { "t": "Cyclingnews（ログリッチ最新談）", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/i-never-expected-to-be-going-this-well-primoz-roglic-says-anything-could-happen-in-vuelta-a-espana-gc-battle-with-enric-mas-and-felix-gall/", "d": "2026-09-08" },
-        { "t": "CyclingUpToDate（記録の5冠に言及）", "u": "https://cyclinguptodate.com/cycling/start-times-order-vuelta-a-espana-2026-stage-18-time-trial-enric-mas-has-210-to-defend-as-primoz-roglics-record-fifth-title-bid-reaches-decisive-test", "d": "2026-09-09" },
-        { "t": "Domestique（記録・敗者復活の特集／補足）", "u": "https://www.domestiquecycling.com/en/news/primoz-roglic-and-the-vuelta-records-redemption-and-reinvention/", "d": "2026-08-17" }
+        { "t": "ProCycling UK（マスと2022の記憶）", "u": "https://procyclinguk.com/vuelta-a-espana-2026-stage-19-preview-penas-blancas-puts-roglic-straight-back-onto-mass-terrain/", "d": "2026-09-10" },
+        { "t": "Cycling Up To Date（マス『十分ではない』）", "u": "https://cyclinguptodate.com/cycling/enric-mas-holds-off-primoz-roglic-in-time-trial-and-warns-before-vuelta-finale-no-advantage-is-ever-enough", "d": "2026-09-10" }
       ],
-      "status": "確定＝ブエルタ4勝でエラスと歴代最多タイ・首位に2:10差。曖昧＝5冠なるかは今後の山岳次第。"
+      "status": "確定＝2022にマスが終盤で総合を失った経緯・今年TT堅守。曖昧＝“悪夢”は編集的表現、本人の心理は談話ベース。"
     },
     {
-      "id": "20260910-worlds-montreal-t10",
-      "genre": "trend",
-      "genreLabel": "TREND",
-      "genreJa": "トレンド",
-      "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/SQYJyiq3Hb37V4jZrT8kNT-1024-80.jpg",
-      "headline": "【トレンド】世界選手権モントリオール（9/20-27）まで“中10日”——ポガチャル不在で虹は混戦、キンタナは『引退レース』の花道",
-      "layer1": "ブエルタ閉幕（9/13）から1週で、9/20開幕の世界選手権モントリオール。連覇王者ポガチャルは負傷で今季終了が確定し、本命はエヴェネプール（ただしファンアールトとの兼ね合いで戦術は難しい）。ヴェルタ組（ファンアールト／ペデルセン／マス）がそのまま北米へ向かう。",
-      "layer2": "男子ロードは273.2km、モンロワイヤルの登坂を含む“クラシック型”の登坂力勝負。個人TTは39.9km（サンローラン川／F1ジル・ヴィルヌーヴ・サーキット）でエヴェネプールが連覇本命。もう一つの見どころは、ナイロ・キンタナがこのロードレースを『現役最後のレース』として走ること——2大グランツール覇者の花道になる。※出走・体調は直前で変動。",
+      "id": "20260911-worlds-montreal-preview",
+      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
+      "image": "https://media.delius-klasing.de/images/dpr_auto,fl_progressive,f_auto,c_fill,g_auto:subject:thirds_0,h_600,w_1068/q_auto:eco/tour/gettyimages-2175467704_6ccdcda29c93741bf17c87fe38e8057c/2026-world-cycling-championships-showdown-in-montreal",
+      "headline": "【トレンド】世界選手権モントリオール（9/20-27）まで“中9日”——男子273.7km/3,803m、名物ウード坂×12周の『登坂力勝負』",
+      "layer1": "ブエルタが終われば、すぐ北米の世界選手権。約10年ぶりのカナダ開催で、TTは9/20-22、ロードは9/24-27。男子エリートは273.7km・獲得3,803mを12周。",
+      "layer2": "先回り＝『どんなタイプが勝つコースか』。モンロワイヤル周回のカミリアン・ウード坂、ポリテクニーク（11%超区間あり）、平坦に見えて効くパルク通り——この3点で削り合う“クラシック型”。ブエルタで仕上げた選手(ファンアールト系)とカナダGP勢が激突する構図。うち的には“虹への機材選び”＝エアロと登坂の折衷が語れる導入。",
       "sources": [
-        { "t": "Cyclingnews（世界選手権ハブ）", "u": "https://www.cyclingnews.com/uci-road-world-championships/", "d": "2026-09" },
-        { "t": "UCI（コース公開）", "u": "https://www.uci.org/pressrelease/200-days-to-go-a-look-at-the-courses-of-the-2026-uci-road-world/7MNCbBHZySudjNAoDW4R8x", "d": "2026-03" },
-        { "t": "Wikipedia（2026世界選手権）", "u": "https://en.wikipedia.org/wiki/2026_UCI_Road_World_Championships", "d": "2026-09" }
+        { "t": "TOUR Magazin（Worlds 2026）", "u": "https://www.tour-magazin.de/en/professional-cycling/day-race/road-cycling-world-championships-2026-canada-the-biggest-sporting-event-in-montreal-since-the-olympic-games/", "d": "2026-09-03" },
+        { "t": "Tourisme Montréal（公式ガイド）", "u": "https://www.mtl.org/en/experience/ultimate-guide-faq-uci", "d": "2026-09" }
       ],
-      "status": "確定＝9/20-27モントリオール・ポガチャル欠場・キンタナ引退レース。曖昧＝各国の出走メンバーは最終登録待ち。"
+      "status": "確定＝日程/距離/獲得/周回・コース要素。曖昧＝出走メンバーは各国発表中で流動的。"
     },
     {
-      "id": "20260910-transfers-2027-roglic",
-      "genre": "trend",
-      "genreLabel": "TREND",
-      "genreJa": "トレンド",
-      "hot": false,
+      "id": "20260911-transfers-2027-roglic-lotto",
+      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
       "image": "https://cdn-jupiter.metropolis.co.uk/wp-content/uploads/sites/9/2026/08/SI202408220004-970x624.webp",
-      "headline": "【移籍・トレンド】2027の目玉は“ログリッチ争奪”——ロット／バーレーンが接触、セイシャスは『残留』明言、女子は年俸1億円級の綱引き",
-      "layer1": "在籍終了組が動く2027市場。レッドブル契約満了のログリッチは、ロット・アンテルマルシェとの“会談済み”報道（Het Laatste Nieuws）に加え、バーレーンも関心（Marca）。19歳ポール・セイシャスは『来年もデカトロンCMA CGM、2027年まで契約がある』と残留を明言した。",
-      "layer2": "女子はパウラ・ブラシがUAE Team ADQの3年延長を“見送る”見込みで、モビスター等が年俸100万ユーロ（約1.6億円）級を用意との観測。ピクニックPostNLはヤコブセン／ファンウデン／ビットナーの離脱が続き、戦力流出フェーズに入っている。市場は選手の“移籍の連鎖”がまだ続く。※噂を含むため各紙の一次報道で裏取り、確定は正式発表を待つ。",
+      "headline": "【移籍・トレンド】2027の目玉は“ログリッチ争奪”——ロット／ピナレロが接触、セイシャスは『残留』明言、確定組はファンアンローイ→キャニオン等",
+      "layer1": "2027シーズンへ約200人が契約切れの“大商戦”。36歳ログリッチ(レッドブル契約満了)にロット・アンテルマルシェとピナレロQ36.5が関心、複数媒体が『すでに交渉あり』と伝える。",
+      "layer2": "先回り＝『どこが確定で、どこが噂か』。確定寄り＝ファンアンローイ→キャニオンSRAM、アスグリーン→NSN、リアム・スロック→バーレーン、シュタインハウザー→レッドブル、AJオーガスト→ピナレロ。“残留確定”＝19歳セイシャス（デカトロン2027まで契約）。噂＝ログリッチ→ロット、ヒンドリー移籍説は媒体で『残留延長』報道と食い違いあり《※要裏取り》。X起点の“ログリッチ争奪”は入口で、裏はHet Laatste Nieuws等の交渉報道。",
       "sources": [
         { "t": "Cyclist.co.uk（移籍噂まとめ）", "u": "https://www.cyclist.co.uk/news/cycling-transfer-rumours", "d": "2026-08-17" },
-        { "t": "Cycling Weekly（2027移籍一覧）", "u": "https://www.cyclingweekly.com/racing/all-the-pro-cycling-transfers-for-2027", "d": "2026-09" },
-        { "t": "Cyclingnews（2027移籍一覧）", "u": "https://www.cyclingnews.com/pro-cycling/transfers/cycling-transfers-all-the-latest-news-and-announcements-for-the-2027-season/", "d": "2026-09" }
+        { "t": "Cyclingnews（2027 transfers）", "u": "https://www.cyclingnews.com/pro-cycling/transfers/cycling-transfers-all-the-latest-news-and-announcements-for-the-2027-season/", "d": "2026-09" },
+        { "t": "Cyclingweekly（2027 transfers）", "u": "https://www.cyclingweekly.com/racing/all-the-pro-cycling-transfers-for-2027", "d": "2026-09" }
       ],
-      "status": "確定＝セイシャス残留明言・ピクニック離脱。曖昧＝ログリッチ／ブラシ移籍は交渉・噂段階（※要裏取り）。"
+      "status": "確定＝ファンアンローイ/アスグリーン/スロック等の移籍・セイシャス残留。曖昧＝ログリッチ行き先は交渉段階、ヒンドリーは報道が矛盾で《※要裏取り》。"
     },
     {
-      "id": "20260910-shimano-r9300-vs-china13",
-      "genre": "parts",
-      "genreLabel": "PARTS",
-      "genreJa": "パーツ",
-      "hot": false,
-      "image": "https://cdn.road.cc/wp-content/uploads/2026/06/2026-eurobike-cover-1024x683.jpg",
-      "headline": "【パーツ】シマノ13速R9300は“ヴェルタで走ってるのに未発表”——一方、中華(L-Twoo/Wheeltop)は電動13〜14速を『もう店頭』に",
-      "layer1": "新デュラエースR9300（13速）はブエルタでアルペシン系の実戦車に載るのが目撃されたが、シマノは名称もスペックも未公表。セミワイヤレス維持、直付けチェーンリング、そして“新フリーボディ必須”の物証（ASL13Rコード）が続々。公式発表は年末〜2027初頭、実戦供給は2027シーズン狙いの公算。",
-      "layer2": "対照的に中華ドライブトレインは13速を先行実装済み。L-TwooのEGグラベルはワイヤレス電動13速（11-50t対応）、WheeltopのEDS TXは3-14速のワイヤレスを掲げる。電動でも$400前後〜という価格破壊で、シマノ105 Di2（約$1,900）との差は大きい。ただし中華電動は初期不良・保証明記なしの報告もあり“万人向け”ではない。店頭では『13速はまず超高額＆2027供給、手持ちの12速は当分無駄にならない』が正直な答え。※中華13速の耐久評価はまだ発展途上（要裏取り）。",
+      "id": "20260911-shimano-13s-r9300-vuelta",
+      "genre": "parts", "genreLabel": "PARTS", "genreJa": "パーツ", "hot": false,
+      "image": "https://cdn.mos.cms.futurecdn.net/uBbjRSbNkehy2Y8QdJfhWV-1624-80.jpg",
+      "headline": "【パーツ】新デュラ13速『R9300』はブエルタで“実戦中”——FCC申請でダイレクトマウント確定、なお「セミワイヤレス」堅持",
+      "layer1": "シマノの次期デュラエース(通称R9300)が、いままさにブエルタで実走中。12→13速化、新カセット＆フリーボディ、新シフター/パワーメーター——そして噂通り“完全ワイヤレスではない”セミワイヤレス継続が確認されつつある。",
+      "layer2": "先回り＝『店頭で12速在庫をどう握るか』。目視/リーク/FCC申請で分かったのは、(1)13速カセットは明確に別物＝新フリーボディが要る公算、(2)チェーンリングはダイレクトマウント化、(3)後変速はワイヤ接続＋内蔵バッテリーのまま。つまり“今の12速ホイール/フリーが13速でそのまま使えない”リスクがあり、年末の値引き期に12速を薦める時は「近い将来の互換」を正直に添えるのが誠実。正式発表・価格は未公表。",
       "sources": [
-        { "t": "the5krunner（R9300ヴェルタ目撃）", "u": "https://the5krunner.com/2026/08/23/dura-ace-r9300-13-speed-spotted/", "d": "2026-08-23" },
-        { "t": "BikeRadar（L-Twoo解説）", "u": "https://www.bikeradar.com/advice/buyers-guides/l-twoo-groupset-buyers-guide", "d": "2026-05-12" },
-        { "t": "Cyclists Hub（中華電動の評価）", "u": "https://www.cyclistshub.com/chinese-groupsets-to-buy-or-to-avoid/", "d": "2026-07-21" }
+        { "t": "Cyclingweekly（R9300 at Vuelta）", "u": "https://www.cyclingweekly.com/news/new-13-speed-shimano-dura-ace-groupset-spotted-at-vuelta-a-espana", "d": "2026-09" },
+        { "t": "Escape Collective（in the wild）", "u": "https://escapecollective.com/in-the-wild-shimano-dura-ace-r9300-groupset-at-la-vuelta/", "d": "2026-09" },
+        { "t": "the5krunner（R9300 leaked）", "u": "https://the5krunner.com/2026/08/23/dura-ace-r9300-13-speed-spotted/", "d": "2026-08-23" }
       ],
-      "status": "確定＝R9300はヴェルタ実戦目撃・未発表／中華は電動13-14速を製品化。曖昧＝R9300発売時期、中華電動の長期耐久（※要裏取り）。"
+      "status": "確定＝ブエルタで実走・13速化・セミワイヤレス継続・ダイレクトマウント。曖昧＝正式名称/価格/発売日は未発表、フリーボディ必須は“公算”。"
     },
     {
-      "id": "20260910-china-carbon-ranking-x",
-      "genre": "wheel",
-      "genreLabel": "WHEEL",
-      "genreJa": "ホイール",
-      "hot": false,
-      "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png",
-      "headline": "【ホイール・Xで議論】“中華カーボン格付け”がブログ／XでPV常連——『カーボンスポーク標準』世代へ、UCI認証も常態化",
-      "layer1": "日本のローディーが今もXやブログで盛り上がるのが『中華カーボンホイールの格付け・比較』。買い手は“ネットで銘柄を決めてから来店”が定着し、店は指名買いの受け皿になる時代。話題の芯はいつも「どのブランドがどのランクか」。",
-      "layer2": "実勢の格付けは概ね——Winspace（カーボンスポークの反応性、15〜20万円〜）、Yoeleo（UCI認証の品質管理）、Elitewheels（1,300g切りをコスパ帯で／DRIVE系第2世代）、Farsports（DT Swiss選択可）、ICAN（激安入門4〜6万円）。2026年の潮流はカーボンスポークの標準化とUCI認証取得の広がりで、Tukus等の新興も認証を掲げる。大手の1/3〜1/2という価格破壊は継続。選ぶ軸は数値より《実在ブランド×規格の明快さ×使える保証》。※格付けは各レビューの主観、Xの評判は“入口”。実測・保証条件まで裏取りを。",
+      "id": "20260911-sram-red-13s-2027",
+      "genre": "parts", "genreLabel": "PARTS", "genreJa": "パーツ", "hot": false,
+      "image": "https://cdn.mos.cms.futurecdn.net/iyiy72YXrhsZuTvMW8jrEY-1325-80.jpg",
+      "headline": "【パーツ】“13速戦争”は二社へ——SRAMも13速版の観測、正式ローンチは『2027春〜夏』、ツール2026で試作機の目撃も",
+      "layer1": "13速はシマノだけの話ではない。SRAMもRED系で13速版が観測され、商用ローンチは2027春〜夏の見立て。2026ツールで“黒塗り”試作をプロ機材に載せていた、との報も。",
+      "layer2": "先回り＝『店として“今の12速は損か”』。答えは“いいえ、まだ”。SRAM現行REDは既に軽量・変速/制動を磨いた完成度で、13速化は主にレンジ拡張の話。両社13速が出そろうのは早くて2027後半で、既存12速がすぐ陳腐化するわけではない。中華(L-Twoo/Wheeltop)は電動13〜14速を先に店頭化済みという“逆転現象”も、初中級への説明材料になる。",
       "sources": [
-        { "t": "VeloFanatics（2026中華ホイール）", "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/", "d": "2025-12-27" },
-        { "t": "Cyclists Hub（中華ホイールTEST）", "u": "https://www.cyclistshub.com/best-chinese-carbon-wheels/", "d": "2026-07-06" },
-        { "t": "bike-memo（中華カーボン格付け・国内）", "u": "https://bike-memo.com/cycle_260118_carbon-wheels/", "d": "2026-04-01" }
+        { "t": "Cyclonline（SRAM RED 13s rumors）", "u": "https://www.cyclonline.com/sram-news-review-test/new-sram-red-13-speed-rumors-2026-2027-price,-weight,-and-release-date", "d": "2026-09" },
+        { "t": "Cyclingnews（new SRAM RED）", "u": "https://www.cyclingnews.com/news/new-sram-red-groupset-lightest-ever-with-faster-shifting-but-theres-one-thing-we-just-dont-understand/", "d": "2026" }
       ],
-      "status": "確定＝カーボンスポーク標準化・UCI認証拡大の潮流。曖昧＝個別格付けは主観（※Xの評判は要裏取り）。"
+      "status": "曖昧＝SRAM13速は“観測/噂”段階で公式未発表、時期は媒体推定。確定＝現行REDの完成度・中華の電動多段は既に店頭。"
     },
     {
-      "id": "20260910-autumn-buyers-market",
-      "genre": "market",
-      "genreLabel": "MARKET",
-      "genreJa": "国内市場",
-      "hot": false,
-      "image": "https://bike-plus.com/cdn/shop/files/zaikosyobun_sale_2026_101.jpg?v=1778225845&width=1200",
-      "headline": "【経営メモ・市場】秋の『買い手市場』本番——バイクプラスが型落ち最大40%OFF、ワイズはアウトレット最大90%OFF、9月末決算→10-11月処分へ",
-      "layer1": "供給過多の“買い手市場”が深化。バイクプラスの在庫処分は旧モデル最大40%OFF（例：Trek FX+ 2やRail 9.7 Gen4が40%、Emonda ALR 5が30%）。ワイズロードのアウトレットは約3,000点・最大90%OFFが稼働中。9月末の中間決算セール→10〜11月の型落ち処分が本番だ。",
-      "layer2": "経営の要点は“いつ・何を仕込むか”。決算期は在庫圧縮で大幅値引きが出やすく、型落ちの底は10〜11月。うちの武器は値引き競争ではなく《整備力・目利き・下取り》。客には「今は下取り＋予約で囲い、底値の型落ちを狙う」提案が効く。中華カーボン等の指名買いは在庫を薄く、回転重視で握るのが安全。※各店セールは期間・在庫限定、条件は要確認。",
+      "id": "20260911-elitewheels-driveii-carbonspoke",
+      "genre": "wheel", "genreLabel": "WHEEL", "genreJa": "ホイール", "hot": false,
+      "image": "https://cdn.prod.website-files.com/6a2faf5b0f9bfce919fcc604/6a369918414bee54bdfb30f4_elitewheels-drive-ii-65mm-wheel-review.webp",
+      "headline": "【ホイール】中華カーボンは“カーボンスポーク世代”が本格化——Elitewheels新型『Drive II』は約1,479g・$1,299、ハブも刷新",
+      "layer1": "中華カーボンの主戦場は“カーボンスポーク＋内幅ワイド化”へ。話題のElitewheels新型『Drive II』は4.5mmエアロ・カーボンスポーク採用で約1,479g、実売$1,299前後。ハブも新設計「Kinetic」に。",
+      "layer2": "先回り＝『カーボンスポークは初中級に要るか／壊れたら?』。Drive IIのスポークは“1本ごとに交換可能（スチール同様）”を謳い、全組み直し不要が売り。内幅23mm/外31mmで28-30mmタイヤ最適、ハブは50T星形ラチェット＋セラミックベアリング＋防水。メーカー言うところの“横剛性8%向上”は自社ラボ値なので鵜呑みは禁物《※要裏取り》。数値より《規格の明快さ×交換部品の入手性×使える保証》で選ぶのが、うちの指名買い接客と相性が良い。",
       "sources": [
-        { "t": "バイクプラス（在庫処分セール）", "u": "https://bike-plus.com/collections/bike-clearance-sale", "d": "2026-09" },
-        { "t": "クーポンまとめ（ワイズロード）", "u": "https://couponmatome.jp/ysroad-coupon/", "d": "2026-09" },
-        { "t": "カンザキ（ロード特価情報）", "u": "https://www.81496.com/jouhou/road/roadtokka.html", "d": "2026-09" }
+        { "t": "BikeLabHQ（Drive II 実測レビュー）", "u": "https://www.bikelabhq.com/review/elitewheels-drive-ii-review-the-full-truth", "d": "2026-08-26" },
+        { "t": "note コンポ・DE・リング（Drive II 解説）", "u": "https://note.com/compo_de_ring/n/n4128a16bc4a8", "d": "2026" }
       ],
-      "status": "確定＝バイクプラス最大40%OFF・ワイズ最大90%OFFアウトレット稼働。曖昧＝終了時期・在庫は流動的。"
+      "status": "確定＝重量/価格/内外幅/ハブ仕様（レビュー実測）。曖昧＝“横剛性8%向上”は自社ラボ主張《※要裏取り》、レビューは実売プロモ価格併記。"
     },
     {
-      "id": "20260910-shimano-price-now-buy",
-      "genre": "market",
-      "genreLabel": "MARKET",
-      "genreJa": "国内市場",
-      "hot": false,
-      "image": "https://the5krunner.com/wp-content/uploads/2015/11/shimano.jpg",
-      "headline": "【経営メモ・市場】シマノ8/1値上げ後の店頭『今組むなら?』——中華電動が105 Di2の“約半額”、二層化する提案の作り方",
-      "layer1": "シマノは8/1に広範な価格改定（例：PD-R7000が23,928→25,125円）。純正で組むコストが一段上がった今、店頭の定番質問は『今いちばん賢い組み方は?』。対する中華電動（L-Twoo eRX 12速ワイヤレス等）は105 Di2（約$1,900）の半額圏まで下がる。",
-      "layer2": "提案は二層で。①信頼・再販性重視→中古/型落ちの105・アルテグラDi2が“安全な最適解”。②コスト最優先・実験OK→中華電動だが、初期不良や保証明記なしのリスクを説明した上で。中華カーボンホイールは“相対的お得感”がさらに上昇——シマノ高止まりが中華の追い風になっている。店は「予算×用途×リスク許容度」で振り分けるのが誠実。※中華電動の耐久・保証は個体差あり（要裏取り）。",
+      "id": "20260911-market-ysroad-autumn-sale",
+      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
+      "image": "https://ysroad.co.jp/yokohama/wp-content/uploads/2026/09/296f2d9c-fac6-4776-968f-753b047e66dc.jpg",
+      "headline": "【経営メモ・市場】“買い手市場”の秋が本番——ワイズ『秋のキャンペーン』9/4開幕、アウトレット最大90%OFF・完成車最大35%OFF",
+      "layer1": "ワイズロードが『秋のサイクリングキャンペーン』を9/4〜10/25で開催。春夏ウェアが最終値下げ、アウトレットは型落ち最大90%OFF、スポーツバイク最大35%OFF（6,000台超）。9月末決算→10-11月の処分本番へ。",
+      "layer2": "先回り＝『大手のセールに個人店はどう構えるか』。大手は“旧在庫の物量×ポイント施策（今回は靴/ヘル/アイウェア5倍）”で客を囲う。うちが張り合う土俵はそこではなく《整備力・目利き・下取り・アフター》。値引き合戦に飲まれず、“セールで買った型落ちを長く快適に使う伴走”を売る秋にするのが得策。仕入れは10-11月の処分玉を見据え、今は在庫を薄く握る。",
       "sources": [
-        { "t": "シマノ公式（価格改定のお知らせ）", "u": "https://shop-jp.shimano.com/blogs/news/price_update", "d": "2026-08-01" },
-        { "t": "Cyclists Hub（中華電動の価格比較）", "u": "https://www.cyclistshub.com/chinese-groupsets-to-buy-or-to-avoid/", "d": "2026-07-21" }
+        { "t": "Y's Road 横浜（秋のキャンペーン告知）", "u": "https://ysroad.co.jp/yokohama/2026/09/04/200258", "d": "2026-09-04" },
+        { "t": "ワイズロード アウトレット", "u": "https://online.ysroad.co.jp/shop/l/loutlet/", "d": "2026-09" }
       ],
-      "status": "確定＝シマノ8/1値上げ・中華電動は105Di2の半額圏。曖昧＝中華電動の長期信頼性（※要裏取り）。"
+      "status": "確定＝会期9/4-10/25・ウェア最終値下げ・アウトレット最大90%OFF・完成車最大35%OFF。曖昧＝対象台数/割引は店舗と在庫で変動。"
     },
     {
-      "id": "20260910-why-tt-bikes-fast",
-      "genre": "beginner",
-      "genreLabel": "BEGINNER",
-      "genreJa": "初中級",
-      "hot": false,
-      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-06/primoz-roglic-6a37d5c36e0e9.jpg",
-      "headline": "【初中級・観戦】今日の32km TTを機材目線で10倍——『TTバイクはなぜ速い?』空力ポジションと専用機材の答え",
-      "layer1": "今日のブエルタ第18は選手が1人ずつ走る個人TT。同じ脚力でもロードより数分速いのは“機材と姿勢”の差。DHバー（前傾ポジション）、ディスク／深リムホイール、一体型ヘルメットが「空気の壁」を削る。",
-      "layer2": "空気抵抗は速度の2〜3乗で増え、平坦TTでは消費パワーの8〜9割が空力に消える。だから選手は肩を狭め肘を前に置き“前面投影面積”を最小化する。ポイントは『速さ＝出力÷空気抵抗』で、じつは機材より“肘先ポジション”の効き目が大きい。素人の実用ヒント：まずハンドル位置と服のバタつきを整えるだけで体感が変わる。プロは1kmのロータリー処理（減速→立ち上がり）でも差がつく。※空力割合は一般的な目安。",
+      "id": "20260911-market-liv-avail-2027-entry",
+      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
+      "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/09/availadvanced3.jpg",
+      "headline": "【経営メモ・市場】Liv『アヴェイル』2027が9/4発表——カーボン×ティアグラで¥297,000、アルミは¥119,900、“エントリー endurance”の価格線が見える",
+      "layer1": "女性向けブランドLivが9/4、エンデュランスロード『Avail Advanced/Avail』2027を発表。カーボンの「Avail Advanced 3」はティアグラ2×11速で¥297,000、アルミの「Avail 3」は¥119,900。",
+      "layer2": "先回り＝『いまエントリー客が最初に見る“実売の相場”』。この“カーボン30万弱／アルミ12万”は、初めての1台の心理的な基準線になる。ここに対しうちは、同予算帯で《中華カーボンホイールへの一段アップグレード》や《下取り＋整備込みの総額提案》で差を出せる。大手が価格線を作ってくれるので、その“少し上の満足”を用意しておくのが商機。エントリーは値段の記憶が強いので、初期見積りの見せ方が肝。",
       "sources": [
-        { "t": "ProCyclingUK（第18プレビュー）", "u": "https://procyclinguk.com/vuelta-a-espana-2026-stage-18-preview-roglic-gets-his-chance-against-mas-in-jerez-time-trial/", "d": "2026-09-09" },
-        { "t": "CyclingUpToDate（第18TT・発走）", "u": "https://cyclinguptodate.com/cycling/start-times-order-vuelta-a-espana-2026-stage-18-time-trial-enric-mas-has-210-to-defend-as-primoz-roglics-record-fifth-title-bid-reaches-decisive-test", "d": "2026-09-09" }
+        { "t": "サイクルスポーツ（Liv Avail 2027発表）", "u": "https://www.cyclesports.jp/news/new-product/168027/", "d": "2026-09-04" }
       ],
-      "status": "確定＝今日9/10がTT・空力が支配的。目安＝空力割合は一般論の概算。"
+      "status": "確定＝発表日/モデル/価格（カーボン¥297,000・アルミ¥119,900）。曖昧＝入荷時期/国内在庫は流通しだい。"
     },
     {
-      "id": "20260910-outlet-buy-guide",
-      "genre": "beginner",
-      "genreLabel": "BEGINNER",
-      "genreJa": "初中級",
-      "hot": false,
-      "image": "https://bike-plus.com/cdn/shop/files/zaikosyobun_sale_2026_101.jpg?v=1778225845&width=1200",
-      "headline": "【初中級】型落ちアウトレット“最大90%OFF”は初中級の狙い目か——外さない見極め『3点』",
-      "layer1": "秋は型落ち処分の本番（ワイズ最大90%OFF、バイクプラス最大40%OFF）。初中級には“同じ予算で1〜2ランク上”を狙う好機だが、安さだけで飛びつくと後悔も。見極めの軸は3つ。",
-      "layer2": "①サイズが合うこと（型落ちは在庫サイズが限定——身長でなく“またぎ・リーチ”で合わせる）。②年式コンポの互換（旧規格は将来の補修部品・ホイール互換に影響。11速でも実用十分だが、13速移行期は割り切りを）。③保証・整備が付くか（アウトレットでも初期点検・保証の有無で価値が変わる）。結論：現行1世代落ち×コンポが105以上×店の保証付き、なら“買い”。超旧型やサイズ妥協は避けるのが鉄則。※各店の保証条件は購入前に要確認。",
+      "id": "20260911-beginner-aokippu-5months",
+      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
+      "image": "https://kinto-jp.com/cms-images/assets/c8f79fe8d67e4eb3a34ad72f0d950baf/5e1f815a12f34cea9c04f42d7500ef51/bicycle-blue-ticket-TOP.jpg",
+      "headline": "【初中級】自転車“青切符”4月施行から5か月——反則金3,000〜12,000円、でもヘルメットは今も『努力義務のまま』",
+      "layer1": "2026年4月施行の自転車“青切符”（交通反則通告制度）。16歳以上が対象で、信号無視・一時不停止・並走などに反則金3,000〜12,000円。導入から5か月、店頭でも“何が切符になるの?”の質問が続く。",
+      "layer2": "先回り＝『ノーヘルは切符になる?／点数は引かれる?』。答えは“いずれもNo”。ヘルメット未着用は反則金の対象外で、あくまで努力義務のまま。青切符は免許の違反点数制度の対象外なので、納付すれば点数は引かれない。とはいえ実害（縁石・段差での機材ダメージ、事故時の頭部）を語れば、“義務じゃないけど買う”動線は作れる。売れ筋がエアロ寄りに動いているのも接客の入口。",
       "sources": [
-        { "t": "バイクプラス（在庫処分セール）", "u": "https://bike-plus.com/collections/bike-clearance-sale", "d": "2026-09" },
-        { "t": "クーポンまとめ（ワイズロード・アウトレット）", "u": "https://couponmatome.jp/ysroad-coupon/", "d": "2026-09" }
+        { "t": "KINTO マガジン（青切符解説）", "u": "https://kinto-jp.com/magazine/k20260323-1/", "d": "2026-03-23" },
+        { "t": "政府広報オンライン（青切符導入）", "u": "https://www.gov-online.go.jp/article/202410/entry-6604.html", "d": "2026" }
       ],
-      "status": "確定＝秋の型落ち処分が本番。助言＝互換・サイズ・保証は購入前に要確認。"
+      "status": "確定＝反則金額・対象年齢・ヘルメットは努力義務/点数対象外。曖昧＝取り締まりの実運用は地域差あり。"
     },
     {
-      "id": "20260910-vuelta-mountain-decider",
-      "genre": "race",
-      "genreLabel": "RACE",
-      "genreJa": "レース",
-      "hot": false,
-      "image": "http://cdn.cyclingstage.com/images/vuelta-spain/2026/stage-20-profile-100.jpg?02",
-      "headline": "【レース・展望】決着はTTの“後”——金曜ペーニャス・ブランカス、土曜『超級コラード・デル・アルグアシル(9.8%)』でGCが割れる",
-      "layer1": "今日のTTで数字が動いても、総合の最終決着はその後の山岳。第19（金）はペーニャス・ブランカス山頂（18.7km/6.5%）、第20（土）は獲得約5,000mで超級コラード・デル・アルグアシル（8.3km/平均9.8%）。第21（日）グラナダは事実上の花道になる。",
-      "layer2": "つまりログリッチのシナリオは『TTで詰め、山で奪う』。マスが2:10前後を保てば、TT巧者ログリッチでも土曜の激坂までもつれる。ガル（+2:06）は山が主戦場で、TTで沈んでも山で盛り返す余地がある。マスは3度の“万年2位”を初のグランツール総合優勝に変えられるか——ヤマ場は今日ではなく“週末”にある。※各ステージの展開はレース当日で変動。",
+      "id": "20260911-beginner-watch-st19-climb",
+      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
+      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/www.indeleiderstrui.nl/images/2026-09/santiago-buitrago-2-6a9e60ead853b.jpg",
+      "headline": "【初中級・観戦】今日の第19“18.7km・6.5%”を10倍楽しむ——『山頂フィニッシュはなぜTT翌日が本番』かを素人目線で",
+      "layer1": "今日の見どころは最後の18.7km・平均6.5%の登坂。前日にTTで“貯金と借金”が確定した直後の山なので、総合勢が「守る／取り返す」の意図を最も出しやすいステージ。",
+      "layer2": "先回り＝『6.5%って我々素人にはどれくらい?』。平均6.5%は“座って回せるが会話は途切れる”強度が18km続くイメージ。プロは残り数kmでアタックの応酬になるが、素人が同じ坂を登るなら答えは『コンパクト＋ワイドカセットで“止まらず回す”』。数値の勾配より“脚を売り切らないギア選び”が完走の鍵——ここは初めての1台のギア相談にそのまま繋がる。",
       "sources": [
-        { "t": "Domestique（最終週ルート）", "u": "https://www.domestiquecycling.com/en/news/vuelta-a-espana-2026-final-week-route-enric-mas-faces-roglic-time-trial-and-brutal-mountain-showdown/", "d": "2026-09-08" },
-        { "t": "ProCyclingUK（第18プレビュー・GC）", "u": "https://procyclinguk.com/vuelta-a-espana-2026-stage-18-preview-roglic-gets-his-chance-against-mas-in-jerez-time-trial/", "d": "2026-09-09" }
+        { "t": "IDL ProCycling（第19プレビュー）", "u": "https://www.idlprocycling.com/cycling/2026-vuelta-a-espana-stage-19-preview-temperatures-are-dropping-but-the-stakes-and-the-final-climb-are-soaring", "d": "2026-09-10" },
+        { "t": "La Vuelta 公式 Stage 19", "u": "https://www.lavuelta.es/en/stage-19", "d": "2026-09-11" }
       ],
-      "status": "確定＝第19ペーニャス・ブランカス、第20超級コラード・デル・アルグアシル(9.8%)で決着へ。曖昧＝展開はレース当日で変動。"
+      "status": "確定＝最後18.7km/6.5%・TT翌日の山。曖昧＝勾配の体感はあくまで初中級向けの目安。"
     }
   ]
 }
