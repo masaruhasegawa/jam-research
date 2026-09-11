@@ -1,5 +1,334 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-09-12",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ブエルタは今日9/12の第20『最後の超級山頂』で、赤マスの初総合がほぼ決まります——そして来週の世界選手権モントリオールへ、季節は一気に“北米モード”です。",
+    "cards": [
+      {
+        "id": "20260912-vuelta-st20",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039313-355.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C141",
+        "headline": "【🔥今日の一本】ブエルタ第20は『最後の大山岳』コジャード・デル・アルグアシル——赤マスの“1分37秒”を、ログリッチが今日で崩せるか",
+        "layer1": "今日9/12の第20はラ・カラオラ→コジャード・デル・アルグアシルの186.8km、締めは9.6%級の超級山頂。マスの総合貯金は2位ログリッチに『+1:37』で、最終日はグラナダ周回のため、ログリッチが逆転を狙える“最後のチャンス”が今日。",
+        "layer2": "なぜ今日が本番か——第21(9/13)はグラナダの99.4km周回で平坦寄り、GCが動く可能性は低い。つまりマスの初のグランツール総合優勝がかかるのは実質「今日の山頂」。3位ガル『+3:01』、4位カラパス『+5:17』、5位オンリー『+6:03』と、表彰台争いも今日決着の公算。※GC差は第19終了時点、コース細部は主催発表を要確認。",
+        "sources": [
+          {
+            "t": "Wikipedia: 2026 Vuelta Stage 12–21",
+            "u": "https://en.wikipedia.org/wiki/2026_Vuelta_a_Espa%C3%B1a,_Stage_12_to_Stage_21",
+            "d": "2026-09-11"
+          },
+          {
+            "t": "La Vuelta 公式 Stage 20",
+            "u": "https://www.lavuelta.es/en/stage-20",
+            "d": "2026-09-12"
+          },
+          {
+            "t": "ProCyclingStats Stage 20",
+            "u": "https://www.procyclingstats.com/race/vuelta-a-espana/2026/stage-20",
+            "d": "2026-09-12"
+          }
+        ],
+        "status": "確定＝第20は9/12・第19終了時のGCはマス首位/ログリッチ+1:37。曖昧＝当日のコース勾配細部は主催発表待ち"
+      },
+      {
+        "id": "20260912-vuelta-st19-result",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/PjCS9DqctZDjrftVDJRUQ7-2000-80.jpg",
+        "headline": "【レース・結果】昨日9/11の第19『ペーニャス・ブランカス』はダンバーが独走勝利——残り1kmでブイトラゴを差し切り、マスは赤を堅守",
+        "layer1": "205.1kmの山頂決戦を制したのはエディ・ダンバー(ピナレロQ36.5)。山岳賞ブイトラゴが残り2kmで先行したが、ダンバーが最後の1kmで捉え、約300mから抜き去る今大会屈指の劇的フィニッシュだった。",
+        "layer2": "GC変動——マスが赤を守り、2位ログリッチ『+1:37』、3位ガル『+3:01』、4位カラパス『+5:17』、5位オンリー『+6:03』。ログリッチはアタックを試みたが大差はつけられず、総合の決着は今日の第20へ持ち越された。",
+        "sources": [
+          {
+            "t": "Cyclingnews: Dunbar denies Buitrago",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-eddie-dunbar-denies-santiago-buitrago-with-late-pass-on-penas-blancas-as-irishman-claims-stage-19-victory/",
+            "d": "2026-09-11"
+          },
+          {
+            "t": "Wikipedia: 2026 Vuelta Stage 12–21",
+            "u": "https://en.wikipedia.org/wiki/2026_Vuelta_a_Espa%C3%B1a,_Stage_12_to_Stage_21",
+            "d": "2026-09-11"
+          },
+          {
+            "t": "PEZ Cycling News: Stage 19",
+            "u": "https://pezcyclingnews.com/racing/vuelta-a-espana-2026-stage-19-eddie-dunbar-penas-blancas/",
+            "d": "2026-09-11"
+          }
+        ],
+        "status": "確定＝勝者ダンバー・第19終了時のGC上位5"
+      },
+      {
+        "id": "20260912-dunbar-comeback",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://pezcyclingnews.com/wp-content/uploads/2026/09/vueltaaespana26st19-dunbar-attack-1200.jpg",
+        "headline": "【人間ドラマ】ダンバー、故障だらけの一年を“山頂”で回収——アイルランドの男が掴んだ通算3勝目のブエルタ区間",
+        "layer1": "エディ・ダンバー(29)は今季を怪我に苦しみ結果を残せずにいた。その男がペーニャス・ブランカスで逃げを作り、最後まで残った一人としてブイトラゴを追い詰め、通算3度目のブエルタ区間勝利をもぎ取った。",
+        "layer2": "なぜ刺さるか——ダンバーは2023年ブエルタで2勝した実力者だが、その後は落車と故障が続き“消えた才能”とも言われた。速さで押し切るのでなく、ペースを守って冷静にブイトラゴを手繰り寄せた勝ち方は、タイムでなく「折れなかった一年」への答えだった。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate: Dunbar rolls back the years",
+            "u": "https://cyclinguptodate.com/cycling/results-vuelta-a-espana-2026-stage-19-eddie-dunbar-rolls-back-the-years-with-solo-victory-at-alto-de-estepona",
+            "d": "2026-09-11"
+          },
+          {
+            "t": "PEZ Cycling News: Stage 19",
+            "u": "https://pezcyclingnews.com/racing/vuelta-a-espana-2026-stage-19-eddie-dunbar-penas-blancas/",
+            "d": "2026-09-11"
+          }
+        ],
+        "status": "確定＝故障続きの一年からの復帰勝利・通算3勝目。曖昧＝過去戦績の細部は媒体で表記差あり"
+      },
+      {
+        "id": "20260912-worlds-montreal",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/WqUcGQBvnZCyoYbUBK6nTJ-1200-80.png",
+        "headline": "【トレンド】世界選手権モントリオール（9/20-27）まで“中8日”——男子ロードは214.4km・獲得4,304m、王者ポガチャル不在で虹は混戦へ",
+        "layer1": "北米では約10年ぶりの世界選手権が9/20-27にモントリオールで開催。男子ロード(9/27)は13.4km周回×16＝214.4km/獲得4,304mの登坂型で、名物カミリアン・ウード坂(1.8km/8%)を毎周越える設計だ。",
+        "layer2": "構図——ポガチャルは「今季終了」を明言し連覇に出ず、虹の最有力はエヴェネプール。ファンアールト／ファンデルプールらクラシック勢も射程に入る。個人TT(9/20)はエヴェネプールの連覇が濃厚。前哨戦のGPケベック(9/11)＆GPモントリオール(9/13、本番と同じ周回)が“試走”になる。※各国代表の最終選考は変動。",
+        "sources": [
+          {
+            "t": "Cyclingnews: Worlds 2026 route map",
+            "u": "https://www.cyclingnews.com/races/uci-road-world-championships-2026-2026/map/",
+            "d": "2026-09"
+          },
+          {
+            "t": "ProCyclingUK: Montréal circuit guide (4,304m)",
+            "u": "https://procyclinguk.com/gp-montreal-2026-route-guide-world-championships-circuit-packs-in-4304-metres-of-climbing/",
+            "d": "2026-08-30"
+          },
+          {
+            "t": "Wikipedia: 2026 UCI Road World Championships",
+            "u": "https://en.wikipedia.org/wiki/2026_UCI_Road_World_Championships",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝日程・コース数値・ポガチャル不在。曖昧＝代表最終選考と当日の展開"
+      },
+      {
+        "id": "20260912-gpcqm",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/CORVOS_00039189-197.jpg?width=2400&height=1260&quality=75&crop=7389%2C3880%2C0%2C523",
+        "headline": "【レース・前哨戦】世界選手権の“試走”GPモントリオール（明日9/13）——本番と同じ周回、エヴェネプール本命でデルトロ・セイシャスら次世代が挑む",
+        "layer1": "カナダのワンデー2連戦は、GPケベックが昨日9/11、GPモントリオールが明日9/13。特にモントリオールは9/27世界選手権とほぼ同じ13.4km周回を使うため、本番前の絶好のリハーサルになる。",
+        "layer2": "注目——エヴェネプール(レッドブル・ボーラ)が本命に挙げられ、22歳デルトロや19歳セイシャスら次世代も出場。ツール2勝＋総合2位、クラシカ・サンセバスティアン4勝目と好調のエヴェネプールが、モントリオールの丘で“虹への予告”を出せるか。※GPケベック(9/11)の勝者は速報の裏取り中、要確認。",
+        "sources": [
+          {
+            "t": "Domestique: GP Québec start list",
+            "u": "https://www.domestiquecycling.com/en/news/2026-grand-prix-cycliste-de-quebec-start-list-worlds-contenders-tune-up-form/",
+            "d": "2026-09"
+          },
+          {
+            "t": "Grands Prix Cyclistes Québec et Montréal 公式",
+            "u": "https://gpcqm.ca/en/",
+            "d": "2026-09"
+          },
+          {
+            "t": "ProCyclingUK: Montréal circuit guide",
+            "u": "https://procyclinguk.com/gp-montreal-2026-route-guide-world-championships-circuit-packs-in-4304-metres-of-climbing/",
+            "d": "2026-08-30"
+          }
+        ],
+        "status": "確定＝日程(ケベック9/11・モントリオール9/13)・出場(エヴェネプール等)。曖昧＝ケベックの結果は速報確認中（※要裏取り）"
+      },
+      {
+        "id": "20260912-wheel-landscape",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/u9AgLKrXfztBGijSFrQYAn-2000-80.jpg",
+        "headline": "【ホイール】“カーボンスポーク×ミドルディープ”が2026の到達点——大手ENVE/Visionは1,265〜1,295g、中華はその半額圏で肉薄",
+        "layer1": "2026のロード用カーボンホイールの主流は「45mm前後×カーボンスポーク×高剛性軽量ハブ」。大手の到達点はENVE SES 4.5 Pro(約1,295g・ポガチャル共同開発)やVision Metron RS(45mmで約1,265g・72Tラチェット)あたりだ。",
+        "layer2": "うちに効く視点——同じ“カーボンスポーク世代”を、中華(YOELEO/Winspace/8LIEN/CRW等)は概ね半額圏で投入する。差が出るのは「ハブ精度・アフター・実測アライメント」。値段でなく《整備・保証・目利き》で価値を出せば、大手の到達点を知る客ほど中華の指名買いに納得しやすい。※重量はいずれも公称、実測差あり。",
+        "sources": [
+          {
+            "t": "Cyclingnews: Best road bike wheels 2026",
+            "u": "https://www.cyclingnews.com/features/best-road-bike-wheels/",
+            "d": "2026"
+          },
+          {
+            "t": "Velofanatics: Best Chinese carbon wheels 2026",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026"
+          },
+          {
+            "t": "bike-memo: 中華カーボンホイール格付け",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-01"
+          }
+        ],
+        "status": "曖昧＝新発表でなく2026の現状整理（landscape）。重量は公称値ベース（※要裏取り）"
+      },
+      {
+        "id": "20260912-dura-ace-13s-x",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://escapecollective.com/content/images/size/w1200/2026/08/New-Shimano-Dura-Ace-R9300-Vuelta-Espana-2026-Escape-Collective--2-2.jpg",
+        "headline": "【パーツ・Xで議論】新デュラ13速『R9300』はブエルタで“実戦中”なのに正式発表なし——Xは「親指シフト」と「新フリーボディ」で沸く",
+        "layer1": "シマノの次期デュラエースR9300とみられる13速機材が、今まさに走っているブエルタの選手バイクで多数目撃され、Xでも画像が拡散。だが8月の初リーク以降、シマノは一貫して正式発表していない。",
+        "layer2": "裏取り——目撃機材から読める要点は3つ。①13速化(12速から約5年ぶりの世代交代) ②「セミワイヤレス」堅持(チェーンステーからRDへ1本ケーブルが残る) ③ブラケット内側に飛び出す“親指ボタン”新設。本格展開は2027シーズンの公算。SRAMはグラベルのRed XPLRで13速を既に製品化済みだが、ロード13速は2027春〜夏の噂。X由来の熱は「入口」で、裏はブエルタの実機とメーカー特許にある。",
+        "sources": [
+          {
+            "t": "Escape Collective: R9300 at La Vuelta",
+            "u": "https://escapecollective.com/in-the-wild-shimano-dura-ace-r9300-groupset-at-la-vuelta/",
+            "d": "2026-08"
+          },
+          {
+            "t": "Cycling Weekly: R9300 spotted at Vuelta",
+            "u": "https://www.cyclingweekly.com/news/new-13-speed-shimano-dura-ace-groupset-spotted-at-vuelta-a-espana",
+            "d": "2026-08"
+          },
+          {
+            "t": "Bike News Mag(JP): R9300 リーク",
+            "u": "https://bikenewsmag.com/2026/08/23/new-shimano-dura-ace-r9300-breaks-cover-at-the-vuelta-with-a-13-speed-drivetrain/",
+            "d": "2026-08-23"
+          }
+        ],
+        "status": "確定＝ブエルタでの実戦目撃・セミワイヤレス継続。未確定＝正式名称/発売日、SRAMロード13速は噂（※要裏取り）"
+      },
+      {
+        "id": "20260912-ysroad-aki",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://ysroad.co.jp/kyoto/wp-content/uploads/2026/08/aki.jpg",
+        "headline": "【経営メモ・市場】ワイズロード『秋のサイクリングキャンペーン』展開中（店舗9/4〜10/25）——早期受注5%OFFが今日9/12頃から順次スタート",
+        "layer1": "大手ワイズロードの秋キャンペーンが店舗9/4〜10/25、オンライン9/3〜10/26で進行中。期間限定特価の完成車・ホイール・フレーム、シューズ/ヘルメット等のポイント5倍、金利優遇(最大36回まで低利)など“買い手市場”の秋商戦が本格化している。",
+        "layer2": "経営示唆——秋冬ウェア等の早期受注5%OFFが概ね今日9/12頃から順次開始。大手が9月に金利優遇＋特価で客を囲う局面で、うち(専門店)の武器は値引きでなく《整備力・目利き・下取り・中華の指名買い相談》。値引き競争に乗らず“相談で選ばれる”設計に寄せたい。",
+        "sources": [
+          {
+            "t": "Y's Road 京都: 秋のサイクリングキャンペーン",
+            "u": "https://ysroad.co.jp/kyoto/2026/08/31/162379",
+            "d": "2026-08-31"
+          },
+          {
+            "t": "bike-memo: 2026 ロードバイク値下げ/価格改定",
+            "u": "https://bike-memo.com/cycle_260204_roadbike/",
+            "d": "2026-02-04"
+          }
+        ],
+        "status": "確定＝キャンペーン期間・主な特典。曖昧＝早期受注の開始日は店舗入荷次第で前後"
+      },
+      {
+        "id": "20260912-kaite-market",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C164.jpg",
+        "headline": "【経営メモ・市場②】“供給過多×コロナ反動”で買い手市場が深化——大手の値引き・中古値下がりの秋、専門店の生き残り線",
+        "layer1": "2026年のスポーツ自転車市場はコロナ特需の反動で供給過多が続き、価格高騰の巻き戻し＝買い手市場が深まっている。大手は決算・型落ち処分で値引き、中古相場も下落基調で、今は“買い時”と語られる局面だ。",
+        "layer2": "経営示唆——「安い」だけなら大手やフリマには勝てない。値下がり局面で専門店が勝つ筋は、①中華カーボンの“外さない選び方”相談 ②下取り＆整備込みの提案 ③型落ち特価の目利き案内。処分の本番は10〜11月、9月末の決算セールに続く二段構えで在庫と客を握る。",
+        "sources": [
+          {
+            "t": "bike-memo: 2026 ロードバイク値下げ",
+            "u": "https://bike-memo.com/cycle_260204_roadbike/",
+            "d": "2026-02-04"
+          },
+          {
+            "t": "サトユキブログ: 2026 価格は本当に下がっている?",
+            "u": "https://satoyukiblog.com/2026/03/09/2026-road-bike-prices-are-they-actually-dropping/",
+            "d": "2026-03-09"
+          },
+          {
+            "t": "プライシー: 自転車を安く買うなら",
+            "u": "https://www.pricey.jp/web/articles/1871",
+            "d": "2026"
+          }
+        ],
+        "status": "曖昧＝市場全体の“体感/傾向”ベース、個別価格は店頭で要確認（※要裏取り）"
+      },
+      {
+        "id": "20260912-beginner-st20",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-08%2Feddie-dunbar-ahead-of-stage-4-at-the-2026-vuelta-a-espana-6a8dae4fa8289.jpg",
+        "headline": "【初中級・観戦】今日の第20“最後の超級山頂”を10倍楽しむ——『なぜ最終日でなく“前日”に総合が決まる』のか",
+        "layer1": "ブエルタは今日9/12の第20が最大の山場で、明日の最終日はグラナダ周回のセレモニー的な平坦。だから「総合優勝は最終日ではなく“その前日”に決まる」のがグランツールの定番の見方だ。",
+        "layer2": "初心者の見どころは“タイム差の算数”。マスの貯金は+1:37。山頂フィニッシュでログリッチが1分37秒以上先着すれば逆転が起きる。だから今日は「誰が区間勝利するか」より「マスとログリッチが何秒差でゴールするか」に注目すると一気に面白くなる。※差は第19終了時点。",
+        "sources": [
+          {
+            "t": "Wikipedia: 2026 Vuelta Stage 12–21",
+            "u": "https://en.wikipedia.org/wiki/2026_Vuelta_a_Espa%C3%B1a,_Stage_12_to_Stage_21",
+            "d": "2026-09-11"
+          },
+          {
+            "t": "La Vuelta 公式 Stage 20",
+            "u": "https://www.lavuelta.es/en/stage-20",
+            "d": "2026-09-12"
+          }
+        ],
+        "status": "確定＝日程・第19終了時のGC差。観戦のコツとして提示"
+      },
+      {
+        "id": "20260912-beginner-china-carbon",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C163.jpg",
+        "headline": "【初中級】“ネットで銘柄を決めてから来店”の中華カーボン選び——カーボンスポーク世代で外さない《3点》",
+        "layer1": "YOELEO QianKun／Winspace／Elitewheelsなど「カーボンスポーク＋セラミック」世代の中華ホイールが増え、初中級者もネットで銘柄を決めてから来店する時代。だが“全部入り”ゆえに何を基準に選ぶか迷いやすい。",
+        "layer2": "実践の答え——数値(重量・リム内幅)より《①実在ブランドか(サポート/在庫の実体) ②規格の明快さ(フリーボディ・ブレーキ・チューブレス対応) ③使える保証(対象範囲と国内窓口)》の3点。カーボンスポークは“要る/要らない”で悩むより「整備性と入手性」で選ぶのが、後悔しないコツだ。",
+        "sources": [
+          {
+            "t": "bike-memo: 中華カーボンホイール格付け",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-01"
+          },
+          {
+            "t": "Fun Ride Hub: YOELEO QianKun CS50 レビュー",
+            "u": "https://road-bikes-my-life.com/fastest-review-yoeleo-qian-kun-cs50achieve-speeds-beyond-european-brands-at-chinese-prices/",
+            "d": "2025-10-27"
+          }
+        ],
+        "status": "確定＝選び方のフレーム。曖昧＝ブランド個別評価は時期・個体で変動（※要裏取り）"
+      },
+      {
+        "id": "20260912-worlds-jptime",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/WqUcGQBvnZCyoYbUBK6nTJ-1200-80.png",
+        "headline": "【トレンド・観戦】世界選手権が“北米開催”の恩恵——欧州の深夜でなく朝〜昼に見やすい、9/20-27はロードレース入門の好機",
+        "layer1": "9/20-27の世界選手権はモントリオール(カナダ東部)開催。欧州開催だと日本は深夜〜早朝の観戦になりがちだが、北米東部との時差の関係で、レースは日本の朝〜昼という見やすい時間帯に寄りやすい。",
+        "layer2": "入門者へ——TT(9/20)とロード(9/27)が二本柱。周回コースなので同じ坂(カミリアン・ウード)を何度も通過＝初心者でも「どこで勝負が動くか」を追いやすい。王者ポガチャル不在で優勝候補が割れる“筋書き未定のライブ感”も、入門の入り口に向いている。※日本での放送・配信時間はJ SPORTS等で要確認。",
+        "sources": [
+          {
+            "t": "Cyclingnews: Worlds 2026 route map",
+            "u": "https://www.cyclingnews.com/races/uci-road-world-championships-2026-2026/map/",
+            "d": "2026-09"
+          },
+          {
+            "t": "ProCyclingUK: Montréal circuit guide",
+            "u": "https://procyclinguk.com/gp-montreal-2026-route-guide-world-championships-circuit-packs-in-4304-metres-of-climbing/",
+            "d": "2026-08-30"
+          }
+        ],
+        "status": "確定＝開催地・日程・コース形式。曖昧＝日本の具体的な放送時間は編成次第（※要裏取り）"
+      }
+    ]
+  },
+  {
     "date": "2026-09-11",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ブエルタは『TTの翌日』、山でマスがログリッチを突き放せるか——世界選手権まで“中9日”、機材は13速戦争が二社に広がってきました。",
     "cards": [
