@@ -1,5 +1,330 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-09-13",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。ブエルタは今日が最終日——マスが『2014年コンタドール以来のスペイン人王者』へ王手、同じ日曜にGPモントリオール→世界選へと物語が続きます。",
+    "cards": [
+      {
+        "id": "20260913-vuelta-mas-champion",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://img.aso.fr/core_app/img-cycling-vue-jpg/prehome-1-et18/30332/0:0,960:800-960-0-70/b2c3b",
+        "headline": "【🔥今日の一本】ブエルタ、マスがついに『初グランツール』へ——昨日第20はランダが涙の独走、赤マスは2位ログリッチに『+2:15』で2014年以来のスペイン人王者へ",
+        "layer1": "昨日9/12の第20『コジャード・デル・アルグアシル』はミケル・ランダが独走勝利。総合の赤マスはログリッチとの差を『2分15秒』に広げ、平坦の最終日を残して優勝を実質確定させた。",
+        "layer2": "マスは2018年に23歳で初表彰台（サイモン・イェーツに次ぐ2位）以来、母国ブエルタで準優勝を繰り返してきた『万年2位』。2021年ログリッチ、2022年エヴェネプールに次ぐ2位を経て、31歳で悲願のグランツール初制覇へ。スペイン人のブエルタ総合優勝は2014年コンタドール以来12年ぶりとなる。今日の平坦最終ステージで落車などの番狂わせがなければ確定。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/racing/vuelta-a-espana/mikel-landa-climbs-to-vuelta-a-espana-stage-20-victory-as-enric-mas-all-but-seals-the-red-jersey",
+            "d": "2026-09-12"
+          },
+          {
+            "t": "La Vuelta 公式",
+            "u": "https://www.lavuelta.es/en/news/2026/stage-20/landa-and-mas-revive-spanish-delights/71260",
+            "d": "2026-09-12"
+          },
+          {
+            "t": "Yahoo Sports",
+            "u": "https://sports.yahoo.com/articles/enric-mas-verge-vuelta-glory-164028335.html",
+            "d": "2026-09-12"
+          }
+        ],
+        "status": "確定＝第20終了時点でマスが2位ログリッチに+2:15、区間はランダ優勝。曖昧＝最終日の落車等リスクのみ残る（本稿執筆時点で優勝は未確定）。"
+      },
+      {
+        "id": "20260913-landa-euskaltel",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/Soudal-Quick-step/CORVOS_00038843-243.jpg?width=832&height=468&format=jpg&crop=5184%2C2916%2C0%2C270",
+        "headline": "【人間ドラマ】ランダ、11年ぶりのブエルタ区間勝利で復活——来季は『エウスカルテル』でバスク凱旋、骨盤骨折からの涙",
+        "layer1": "第20を独走で制したランダは、2015年以来11年ぶり2度目のブエルタ区間勝利。グランツール勝利は2017年ジロ以来で、フィニッシュ後は涙をこらえきれなかった。",
+        "layer2": "今季は落車・骨盤骨折に苦しむ『最悪の一年』からの逆転劇。移籍市場では2027年にスダル・クイックステップを離れ、バスクの『エウスカルテル・エウスカディ』に加入すると報じられており、地元凱旋の物語が重なる。マスの初優勝を「とても羨ましい」と語り、同じ“準優勝の道”を歩んできた者としての共感をにじませた。",
+        "sources": [
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/im-very-jealous-landa-sees-something-familiar-in-enric-mas-vuelta-breakthrough/",
+            "d": "2026-09-12"
+          },
+          {
+            "t": "La Vuelta 公式",
+            "u": "https://www.lavuelta.es/en/news/2026/stage-20/landa-and-mas-revive-spanish-delights/71260",
+            "d": "2026-09-12"
+          },
+          {
+            "t": "Cyclingnews 移籍2027",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/cycling-transfers-all-the-latest-news-and-announcements-for-the-2027-season/",
+            "d": "2026-09-11"
+          }
+        ],
+        "status": "確定＝区間勝利・11年ぶり2勝目。※エウスカルテル移籍は各紙報道ベース、両者の正式確定発表は要確認。"
+      },
+      {
+        "id": "20260913-vuelta-stage21",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-09/enric-mas-on-stage-19-of-the-2026-vuelta-a-espana-6aa54a126f0e0.jpg",
+        "headline": "【レース・今日】ブエルタ最終第21ステージは今日9/13——グラナダ市街地の周回、『アルハンブラ宮殿の下』でフィニッシュ（マドリードではない）",
+        "layer1": "最終日はグラナダ発着の高速シティサーキット（約112km）。総合は昨日の山岳で決着済みで、今日はマスが赤ジャージのまま迎えるパレード＆スプリンター最後の1勝を懸けた『お祭り』となる。",
+        "layer2": "2026年のブエルタは伝統のマドリード凱旋ではなく、南部グラナダでの市街地決着。名所アルハンブラ宮殿を望むフィニッシュが舞台だ。総合が最終日でなく“前日”の超級山岳で決まるのは、平坦最終日は大集団ゴールで全員同タイム＝GCがほぼ動かないため（ボーナス秒以外は不動）。",
+        "sources": [
+          {
+            "t": "Rouleur 第21プレビュー",
+            "u": "https://www.rouleur.cc/racing/vuelta-a-espana-2026-stage-21-preview",
+            "d": "2026-09-12"
+          },
+          {
+            "t": "Cyclingstage",
+            "u": "https://www.cyclingstage.com/vuelta-2026-results/",
+            "d": "2026-09-12"
+          },
+          {
+            "t": "ProCyclingStats",
+            "u": "https://www.procyclingstats.com/race/vuelta-a-espana/2026/stage-21/info/profiles",
+            "d": "2026-09-12"
+          }
+        ],
+        "status": "確定＝コースはグラナダ周回・最終日。曖昧＝区間勝者は本稿執筆時点で未確定（今日実施）。"
+      },
+      {
+        "id": "20260913-canada-quebec-montreal",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039333-062.jpg",
+        "headline": "【レース】カナダ2連戦——GPケベックはエヴェネプールがチッコーネを競り勝ち、今日はGPモントリオール（世界選の“リハーサル”）",
+        "layer1": "9/11のGPケベックはレムコ・エヴェネプールが最終盤で抜け出し、ジュリオ・チッコーネとの2人スプリントを制して優勝（平均43.8km/h超の高速レース）。今日9/13はGPモントリオール。",
+        "layer2": "モントリオールは今月末の世界選と“ほぼ同じ”モンロワイヤル周回を16周する新コース＝世界選の前哨戦。ケベックでの完勝でエヴェネプールが本命の位置を固め、ピドコック／セイシャス／デルトロら次世代が対抗する。ツール2位の勢いそのまま、虹への最有力候補に。",
+        "sources": [
+          {
+            "t": "Domestique（GPケベック）",
+            "u": "https://www.domestiquecycling.com/en/news/remco-evenepoel-wins-fast-and-furious-gp-de-quebec-with-thumping-sprint/",
+            "d": "2026-09-11"
+          },
+          {
+            "t": "Cyclingnews（GPケベック）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/grand-prix-de-quebec-remco-evenepoel-takes-narrow-victory-over-giulio-ciccone-in-canadian-worldtour-opener/",
+            "d": "2026-09-11"
+          },
+          {
+            "t": "Domestique（GPモントリオール前哨）",
+            "u": "https://www.domestiquecycling.com/en/news/grand-prix-cycliste-de-montreal-preview-a-new-circuit-a-fortnight-before-the-worlds-use-it/",
+            "d": "2026-09-12"
+          }
+        ],
+        "status": "確定＝ケベックはエヴェネプール優勝。曖昧＝モントリオールは今日実施で結果未確定。"
+      },
+      {
+        "id": "20260913-worlds-montreal",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/www.indeleiderstrui.nl/images/2026-09/remco-evenepoel-6aa4f3b348166.jpg",
+        "headline": "【トレンド】世界選手権モントリオール（9/20-27）——王者ポガチャル欠場で虹は混戦、本命エヴェネプール／警戒ファンアールト",
+        "layer1": "北米では約10年ぶりの世界選。男子エリートロードは9/27・273.7km/獲得3,803m、女子は9/26・180.4km/獲得2,570m。舞台はモンロワイヤルの周回コース。",
+        "layer2": "連覇王者ポガチャルは鎖骨骨折で『今季終了』が確定＝欠場。虹はエヴェネプールが本命だが、調子を上げるファンアールトを擁するベルギーが“2枚看板”で戦術的優位を持つ。名物カミリアン・ウード坂（1.8km/8%）を含む周回の消耗戦は、エヴェネプールが得意とする『じわじわすり潰す』型のレースになりやすい。",
+        "sources": [
+          {
+            "t": "Wikipedia（2026世界選）",
+            "u": "https://en.wikipedia.org/wiki/2026_UCI_Road_World_Championships",
+            "d": "2026-09-10"
+          },
+          {
+            "t": "Velo（ポガチャル欠場・favorites）",
+            "u": "https://velo.outsideonline.com/road/road-racing/pogacar-out-re-ranking-the-favorites-for-uci-road-worlds/",
+            "d": "2026-09-08"
+          },
+          {
+            "t": "UCI（コース）",
+            "u": "https://www.uci.org/pressrelease/200-days-to-go-a-look-at-the-courses-of-the-2026-uci-road-world/7MNCbBHZySudjNAoDW4R8x",
+            "d": "2026-03-04"
+          }
+        ],
+        "status": "確定＝日程・距離・ポガチャル欠場。曖昧＝本命評価は各紙の予想ベース。"
+      },
+      {
+        "id": "20260913-shimano-13s-freehub",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://bikenewsmag.com/wp-content/uploads/2026/08/number-13.jpg",
+        "headline": "【パーツ・Xで議論】シマノ13速R9300はブエルタで“実戦中”なのに未発表——DT Swissに新フリーボディ『Micro Spline Road』出現、「手持ち12速ホイールが使えなくなる」説",
+        "layer1": "新デュラエース（R9300＝13速）はブエルタで実戦投入されつつ、公式発表はまだない。一方DT Swissのホイール製品ページにシマノ13速用の新フリーボディ規格（ASL13R／通称Micro Spline Road）が“独立した新オプション”として登場した。",
+        "layer2": "13速化は12速に1枚足すだけでは収まらず、フリーボディ・カセット・チェーン・RDまで寸法見直しが必要。新フリーボディ必須なら『既存の11/12速ホイール資産がそのまま使えなくなる』——ここが日本のブログ／Xで盛り上がる「今12速を買っていいのか」論の核心だ。ただし公式ロードマップは未公開。店頭は“慌てて買い替え不要・供給は2027シーズン＆超高額から”が現実的な答え。",
+        "sources": [
+          {
+            "t": "Bike News Mag（DT Swissフリーボディ）",
+            "u": "https://bikenewsmag.com/2026/08/06/shimano-13-speed-drivetrain-appears-to-leak-through-new-dt-swiss-freehub-option/",
+            "d": "2026-08-06"
+          },
+          {
+            "t": "the5krunner（R9300目撃）",
+            "u": "https://the5krunner.com/2026/08/23/dura-ace-r9300-13-speed-spotted/",
+            "d": "2026-08-23"
+          },
+          {
+            "t": "Cyclonline（R9300噂・特許）",
+            "u": "https://www.cyclonline.com/51-shimano-news-review-test/4535-new-shimano-dura-ace-13s-2026-2027-preview,-rumors,-and-patents-on-the-new-r9300-groupset",
+            "d": "2026-08-20"
+          }
+        ],
+        "status": "曖昧＝シマノの正式発表なし・互換ロードマップ未公開。※リーク／ブエルタでの実戦目撃ベース、要裏取り。“今この話題”の起点は最終週で実際に走っている点。"
+      },
+      {
+        "id": "20260913-china-carbon-spoke",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/04/Particle-RCX27-Hyperlight-hero-1024x614.jpeg",
+        "headline": "【ホイール】中華カーボンは“カーボンスポーク世代”が標準へ——香港籍Particleは『835g』で世界最軽量UCI認証、大手WH-R9370に半額圏で肉薄",
+        "layer1": "決勝機材のトレンドは「ミドルディープ×カーボンスポーク」。中華勢はParticle『RCX27 Hyperlight』が835g（ペア）でUCI認証の世界最軽量級、Elitewheels『DRIVE II』は50mmで約1,322g。",
+        "layer2": "シマノ新デュラ『WH-R9370』が今月出荷開始（カーボンスポークで最大-220g、約$2,970/セット）だが、中華のカーボンスポークは同技術を1/3〜1/2価格で提供する。選ぶ軸は数値より《実在ブランド×UCI/TÜV認証×使える保証》。Particleは中国製造でも香港籍・英語サポートで“買いやすさ”と法的な安心感を武器にしている（うちが扱うPARTICLEに自然に着地）。",
+        "sources": [
+          {
+            "t": "road.cc（Particle 835g）",
+            "u": "https://road.cc/feature/particle-835g-rcx27-hyperlight-worlds-lightest-uci-approved-carbon-wheelset",
+            "d": "2026-05-12"
+          },
+          {
+            "t": "Cyclists Hub（中華カーボン）",
+            "u": "https://www.cyclistshub.com/best-chinese-carbon-wheels/",
+            "d": "2026-07-06"
+          },
+          {
+            "t": "Plusbikes（ホイール比較）",
+            "u": "https://plusbikes.com/best-road-bike-wheelsets/",
+            "d": "2026-08-26"
+          }
+        ],
+        "status": "確定＝各製品スペック（公称）。※Particle 835g等は公称値、実測差・個体差は要確認。“今”の切り口はWH-R9370が今月出荷＝大手到達点に中華が並ぶ点。"
+      },
+      {
+        "id": "20260913-market-giant-tcr2027",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2022/12/road-bike-wheels-guide-lead-image.png",
+        "headline": "【経営メモ・市場】ジャイアント『TCR』2027発表——カーボンロードが“20万円台から”、9/1価格改定＋型落ち処分で二層化が進む",
+        "layer1": "ジャイアントが2027年のオールラウンドカーボン『TCR』を発表、TCR Advanced 3（ティアグラ）が¥297,000など“20万円台〜”のラインナップに。同社は9/1に8車種の希望小売価格を改定し、19車種を2027継続販売とした。",
+        "layer2": "大手は『最新世代を廉価帯へ降ろす』一方で、価格改定（値上げ）と型落ち処分が同時進行。買い手市場の本番は10〜11月のモデルチェンジ処分。店側は“新品値上げ vs 型落ち大幅引き”の二層で客が動くため、下取り・予約・整備力で囲い込むのが生存線。トレックもDomane AL 4を¥219,000→¥229,000へ改定など、同傾向。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ（TCR 2027）",
+            "u": "https://www.cyclesports.jp/news/new-product/167861/",
+            "d": "2026-09-10"
+          },
+          {
+            "t": "GIANT Japan（2027・価格改定）",
+            "u": "https://www.giant-bicycles.com/jp/news/bike-gear-2027/30870",
+            "d": "2026-09-01"
+          },
+          {
+            "t": "ちばサイクル（TREK 2027）",
+            "u": "https://chibacycle.com/blog/index.php?category=sp&store=concept&p=5799",
+            "d": "2026-09-05"
+          }
+        ],
+        "status": "確定＝TCR2027発表・9/1改定。曖昧＝各店の処分幅は在庫状況次第。"
+      },
+      {
+        "id": "20260913-market-shimano-china",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://the5krunner.com/wp-content/uploads/2015/11/shimano.jpg",
+        "headline": "【経営メモ・市場・Xで議論】シマノ値上げ後の店頭『今組むなら?』——中華電動・中華カーボンの“相対的お得感”が受け皿に",
+        "layer1": "シマノ8/1改定後、105 Di2クラスの新規組みは割高感が強まり、中華電動（L-Twoo／Wheeltop）や中華カーボンの“相対価格の良さ”が客の関心を集めている。",
+        "layer2": "Xや日本語ブログでは「今買うなら何?」論が定番化。指名買い（ネットで銘柄を決めてから来店）が主流で、店は“受け皿”になる時代だ。提案は二層化——①予算優先なら中華電動/中華カーボンで実利、②所有満足・リセール重視なら大手Di2。どちらも整備・目利き・保証で差別化するのが要点。さらに13速の互換問題（前カード参照）が“買い控え”心理を強めており、今の12速/機械式で困らない、と伝える説明力が武器になる。",
+        "sources": [
+          {
+            "t": "初心者のロードバイク（12速13速互換）",
+            "u": "https://roadbike.afblog.biz/archives/4881",
+            "d": "2026-08-15"
+          },
+          {
+            "t": "ロードバイクはやめられない（13速化）",
+            "u": "https://chan-bike.com/shimanos-13-speed-system-is-finally-becoming-a-reality",
+            "d": "2026-08-10"
+          },
+          {
+            "t": "Cyclists Hub（中華カーボン相対価格）",
+            "u": "https://www.cyclistshub.com/best-chinese-carbon-wheels/",
+            "d": "2026-07-06"
+          }
+        ],
+        "status": "曖昧＝“お得感”は市場観測ベース。※X起点の話題であり、個別価格は各製品ページで要裏取り。"
+      },
+      {
+        "id": "20260913-aokippu-sns",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "",
+        "headline": "【初中級・Xで話題】自転車『青切符』は今年4月施行済み——反則金3,000〜12,000円、SNSは「ながらスマホ1.2万は安い」の声。ヘルメットは今も“努力義務”",
+        "layer1": "2026年4月1日、自転車に交通反則通告制度（青切符）が導入済み。違反で青切符→7日以内に反則金を納付すれば刑事処分なし（前科なし）、不払いは赤切符（刑事）へ移行。反則金は3,000〜12,000円。",
+        "layer2": "“ながらスマホ”は通話も画面注視も対象で最高12,000円。SNSでは「1.2万は安い、もっと取れ」「歩道通行6,000円は戸惑う」など反応が割れる。一方ヘルメットは義務化されず“努力義務”のまま＝売れ筋は義務ではなく『エアロ/快適』の提案で動く。店頭Q&Aは「捕まる/捕まらない」より“安全と実利”で答えるのが刺さる。",
+        "sources": [
+          {
+            "t": "警視庁（青切符）",
+            "u": "https://www.keishicho.metro.tokyo.lg.jp/kotsu/jikoboshi/bicycle/cycle_kaisei.html",
+            "d": "2026-04-01"
+          },
+          {
+            "t": "もめごと.jp（反則金一覧）",
+            "u": "https://momegoto.jp/2026/04/07/bicycle-blue-ticket/",
+            "d": "2026-04-07"
+          },
+          {
+            "t": "bike-memo（反則金・SNS反応）",
+            "u": "https://bike-memo.com/cycle_260216_rule-blue/",
+            "d": "2026-02-16"
+          }
+        ],
+        "status": "確定＝制度・金額（警視庁）。※SNS反応は引用まとめベース、個別投稿は要裏取り。og画像は適切な直リンクが取れず空（最終手段）。"
+      },
+      {
+        "id": "20260913-kansen-finale",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://img.aso.fr/core_app/img-cycling-vue-jpg/prehome-1-et18/30332/0:0,960:800-960-0-70/b2c3b",
+        "headline": "【初中級・観戦】今日の『ブエルタ最終日＋日曜のGPモントリオール』を10倍楽しむ——なぜ総合は昨日決まって最終日は“お祭り”なのか",
+        "layer1": "今日はブエルタ最終日（グラナダ）とGPモントリオールが重なる“ロード観戦の当たり日”。ブエルタ総合は昨日の超級山岳で決着済みだ。",
+        "layer2": "グランツールの最終日が平坦だと、GCは事実上動かない（大集団ゴールで全員同タイム＝差がつかない）。だから“前日”の山岳が実質決勝。最終日はスプリンターの最後の1勝と、新王者の凱旋を味わう日となる。そのままGPモントリオール→9/20-27の世界選へと“次の物語”が始まる、観戦入門に最適な週末。",
+        "sources": [
+          {
+            "t": "Rouleur（第21プレビュー）",
+            "u": "https://www.rouleur.cc/racing/vuelta-a-espana-2026-stage-21-preview",
+            "d": "2026-09-12"
+          },
+          {
+            "t": "Domestique（GPモントリオール）",
+            "u": "https://www.domestiquecycling.com/en/news/grand-prix-cycliste-de-montreal-preview-a-new-circuit-a-fortnight-before-the-worlds-use-it/",
+            "d": "2026-09-12"
+          },
+          {
+            "t": "Wikipedia（世界選2026）",
+            "u": "https://en.wikipedia.org/wiki/2026_UCI_Road_World_Championships",
+            "d": "2026-09-10"
+          }
+        ],
+        "status": "確定＝観戦の仕組み。曖昧＝当日の展開は結果待ち。"
+      }
+    ]
+  },
+  {
     "date": "2026-09-12",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ブエルタは今日9/12の第20『最後の超級山頂』で、赤マスの初総合がほぼ決まります——そして来週の世界選手権モントリオールへ、季節は一気に“北米モード”です。",
     "cards": [
