@@ -1,5 +1,299 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-09-15",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。世界王者ポガチャルの今季終了が確定し、モントリオール世界選（9/20-27）は“空いた虹”を巡る大混戦へ。レースの人間ドラマから、中華カーボンの新型・国内市場の秋商戦までまとめました。",
+    "cards": [
+      {
+        "id": "20260915-pogacar-season-over",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cyclingmagazine.ca/wp-content/uploads/2026/08/PogacarVuelta2.jpg",
+        "headline": "【🔥今日の一本】ポガチャル『2026シーズン終了』が確定——ブエルタ落車で鎖骨＋頚椎C7骨折＋脳震盪、世界選もロンバルディアも欠場、復帰は2027へ",
+        "layer1": "ブエルタ第8ステージの高速落車で負傷し、手術を経て今季全休が確定。連覇中の世界王者がモントリオール世界選（9/20-27）を欠場する。",
+        "layer2": "診断は『左鎖骨のずれた骨折＋安定型のC7頚椎骨折＋脳震盪』。命に別状はないが復帰は2027年見込み。ポガチャル本人は現地でスロベニア代表を後押しする方向。すでにヴィンゲゴーも今季全休で、GC二強不在の“空いた虹”という前代未聞の構図になった。",
+        "sources": [
+          {
+            "t": "Canadian Cycling Magazine",
+            "u": "https://cyclingmagazine.ca/sections/news/tadej-pogacars-season-is-over/",
+            "d": "2026-09-05"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tadej-pogacars-absence-changes-everything-how-will-world-championships-strategies-and-tactics-be-rewritten-in-montreal/",
+            "d": "2026-09-09"
+          }
+        ],
+        "status": "確定＝手術・今季全休・世界選欠場（複数メディア）。曖昧＝正確な復帰時期は2027見込みで本人の続報待ち。"
+      },
+      {
+        "id": "20260915-belgium-worlds-squad",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-01%2Fremco-evenepoel-and-wout-van-aert-are-belgiums-projected-leaders-for-2026-world-championships-6973f906e3e09.png",
+        "headline": "【レース】ベルギーが世界選8人を発表——エヴェネプールとファンアールトの『2枚看板』、“内輪割れ”説は監督が否定",
+        "layer1": "モントリオール世界選ロードに向け、ベルギーがエヴェネプール＋ファンアールトを共同エースに8人を選出した。",
+        "layer2": "残る6人はブノー、ファンヒルス、ナイス、ヘルマンス、フェルメールシュ、セガート。ポガチャル不在でベルギーが最有力に浮上した分、監督パウエルスの仕事は『2人の理想の展開を1つの作戦に束ねる』こと。Xでは“共同エースは割れる”論も出たが、代表は公式に否定した。",
+        "sources": [
+          {
+            "t": "Cycling Up To Date",
+            "u": "https://cyclinguptodate.com/cycling/belgium-announces-star-studded-world-championship-squad-as-evenepoel-and-van-aert-lead-eight-man-team",
+            "d": "2026-09-07"
+          },
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/van-aert-vs-evenepoel-camps-belgium-dismiss-split-talk-before-montreal-worlds/",
+            "d": "2026-09-08"
+          }
+        ],
+        "status": "確定＝8人発表。曖昧＝当日のエース優先順位は展開次第。"
+      },
+      {
+        "id": "20260915-worlds-favorites-rerank",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/ytKMCAWdoeKoxdomn4dR7V-2560-80.jpg",
+        "headline": "【トレンド・Xで話題】ポガチャル離脱で世界選の本命が“総入れ替え”——ベルギー筆頭、セイシャス／デルトロ／ファンデルプール／ペデルセンが浮上",
+        "layer1": "王者欠場で優勝候補の序列が引き直された。ベルギー勢が筆頭に、次世代のセイシャス（仏）・デルトロ（墨）も急上昇している。",
+        "layer2": "主要メディアの再ランクはエヴェネプール／ファンアールトを軸に、ファンデルプール（蘭）、ペデルセン（丁）、ピドコック（英）を対抗に置く。カナダ2連戦の勝者デルトロと2位セイシャスが“実走で証明”した点が大きい。Xでも『ポガ無しの虹は誰か』が議論の的になっている。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tadej-pogacars-absence-changes-everything-how-will-world-championships-strategies-and-tactics-be-rewritten-in-montreal/",
+            "d": "2026-09-09"
+          }
+        ],
+        "status": "曖昧＝あくまで下馬評。当日の展開・天候（GPは雨だった）で大きく動く。"
+      },
+      {
+        "id": "20260915-mas-first-gt-quintana",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-09%2Fcollage-tadejpogacarenricmasprimozroglic-6aa7c67a05092.jpg",
+        "headline": "【人間ドラマ】マスの『初グランツール』が持つ重み——モビスターは2016年キンタナ以来のブエルタ制覇、その裏で“花道”を絶たれた男",
+        "layer1": "エンリク・マスがブエルタで悲願の初GT総合優勝。モビスターにとっては2016年キンタナ以来10年ぶりの母国凱歌となった。",
+        "layer2": "一方、今季限りで引退するナイロ・キンタナはブエルタのメンバーから外れ、“最後の花道”を得られなかった（チームはマスとアウトデブルックスを優先）。ポガチャルが出走したレースでの優勝という点で、マスはロリッチ／ヴィンゲゴーらの“列”に名を連ねた。",
+        "sources": [
+          {
+            "t": "Cycling Up To Date",
+            "u": "https://cyclinguptodate.com/cycling/primoz-roglic-jonas-vingegaard-the-riveting-pogacar-based-list-that-enric-mas-has-joined-after-winning-la-vuelta",
+            "d": "2026-09-14"
+          },
+          {
+            "t": "IDL Procycling（キンタナ選外・補足）",
+            "u": "https://www.idlprocycling.com/cycling/movistar-favour-mas-and-uijtdebroeks-over-quintanas-dream-farewell-at-the-vuelta-a-espana",
+            "d": "2026-08-18"
+          }
+        ],
+        "status": "確定＝マス総合優勝（主役ソースは9/14）。補足のキンタナ選外は8月ソースだが引退自体は既定。"
+      },
+      {
+        "id": "20260915-yoeleo-qiankun-cs",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://www.yoeleobike.com/cdn/shop/files/20251106-153552.png?v=1771924207&width=1200",
+        "headline": "【ホイール】YOELEOが“スチールスポーク派”を転換——新型『QianKun CS』はカーボンスポーク採用、CS50が1,185g・CS60が1,285gで$1,650",
+        "layer1": "長くスチールスポークに拘ってきたYOELEOが、カーボンスポークの新シリーズ『QianKun CS』を投入。市場の“カーボンスポーク標準化”に合流した。",
+        "layer2": "公称はCS50が1,185g（同クラス最軽量級の50mm）、CS60が1,285g、ともにT1000カーボンで価格は$1,650。回転部を約145g削減とうたう。日本にはYOELEO・WINSPACEとも国内拠点があり、うち（8LIEN／CRW等）と同じ“大手の半額圏”レンジで真っ向競合。実測重量・剛性は要検証。",
+        "sources": [
+          {
+            "t": "YOELEO 公式（QianKun CS60）",
+            "u": "https://www.yoeleobike.com/products/qiankun-cs60",
+            "d": "2026-09-15"
+          },
+          {
+            "t": "YOELEO 公式（NxT vs QianKun 比較）",
+            "u": "https://www.yoeleobike.com/blogs/wheels/stainless-vs-carbon-spoke-wheelsets-nxt-qiankun",
+            "d": "2026-09-15"
+          }
+        ],
+        "status": "確定＝公称値・価格（公式）。曖昧＝実測重量・実走の剛性感はレビュー準拠で要確認。"
+      },
+      {
+        "id": "20260915-shimano-r9300-leak",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/09/Shimano-Dura-Ace-9300-13-speed-leaked-pictures-Sept-2026-1.jpg",
+        "headline": "【パーツ】新デュラエース13速『R9300』の実物写真がさらに流出——新パワーメーター＆フードボタン刷新、なお公式は沈黙",
+        "layer1": "9/10、Weight Weeniesフォーラム発の新しい流出画像で、次期デュラの新型シフター・リアディレイラー・クランク型パワーメーターが確認された。",
+        "layer2": "構成は『13速・セミワイヤレス堅持（変速レバーは無線／RDは有線＋内蔵バッテリー）』。ホイール（WH-R9370）は既に発表済みだが、コンポ本体はブエルタで実走しても正式発表なし＝投入は2027シーズンが本線。手持ち12速ホイールは、Micro Splineベースなら多くが13速対応見込み、旧HGフリーは非対応の公算。",
+        "sources": [
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/tech-news/shimano-dura-ace-9300-13-speed-leaked-pictures-reveal-new-shifters-rear-derailleur-and-power-meter-for-upcoming-groupset",
+            "d": "2026-09-10"
+          },
+          {
+            "t": "Cyclingnews（ブエルタ実走・補足）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/groupsets/new-dura-ace-spotted/",
+            "d": "2026-08-22"
+          }
+        ],
+        "status": "曖昧＝すべてリーク段階。公式発表・発売日・互換の最終仕様は未確定（※要裏取り）。"
+      },
+      {
+        "id": "20260915-china-brands-japan-direct",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/01/zakki_C128.jpg",
+        "headline": "【経営メモ・市場】中華カーボン大手が“日本法人・直販”を強化——WINSPACE／YOELEOが国内販売網を拡張、専門店は『併売か競合か』",
+        "layer1": "WINSPACE（winspace.jp）とYOELEO（yoeleojapanshop）が日本拠点を構え、国内での直販・レース実績づくりを進めている。",
+        "layer2": "日本語の“中華カーボン格付け”記事はブログ／XでPV常連で、WINSPACE Hyper 50（カーボンスポーク）が上位の常連。大手が国内サポートを厚くするほど、うち（8LIEN／CRW／GOOSYNN等）の立ち位置は『品揃え×組付け・アフターの手厚さ』で差別化する必要が上がる。値付けは“大手の半額圏”維持が鍵。",
+        "sources": [
+          {
+            "t": "WINSPACE JAPAN 公式",
+            "u": "https://winspace.jp/",
+            "d": "2026-09-15"
+          },
+          {
+            "t": "YOELEO Japan 公式",
+            "u": "https://www.yoeleojapanshop.com/",
+            "d": "2026-09-15"
+          },
+          {
+            "t": "bike-memo（中華カーボン格付け）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-09-15"
+          }
+        ],
+        "status": "曖昧＝“直販強化”は現況観測（各社サイト・国内記事準拠）。具体的な市場シェア数値は未確認。"
+      },
+      {
+        "id": "20260915-autumn-buyers-market",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://couponmatome.jp/wp-content/uploads/2023/12/ysroad-coupon.jpg",
+        "headline": "【経営メモ・市場】“買い手市場”の秋が本格化——ワイズはアウトレット最大90%OFF・完成車最大35%OFF、型落ち処分は9月末決算→10〜11月へ",
+        "layer1": "新モデルが出そろう秋は旧モデルが一気に値下がる季節。ワイズロードはアウトレット最大90%OFF・スポーツバイク最大35%OFFを展開中。",
+        "layer2": "供給が完全回復し、割高な中古を買う層が激減＝高年式中古の“価格逆転”は終了局面へ。初中級には歴代でも買いやすい時期だが、店側は9月末の中間決算セール→10〜11月の型落ち処分で在庫の値付けをどう引くかが勝負。中古下落を織り込んだ下取り基準の見直しも要る。",
+        "sources": [
+          {
+            "t": "ワイズロード クーポン・セールまとめ",
+            "u": "https://couponmatome.jp/ysroad-coupon/",
+            "d": "2026-09-15"
+          },
+          {
+            "t": "ワイズロード オンライン 値下げコーナー",
+            "u": "https://online.ysroad.co.jp/shop/l/l-pricedown-01/",
+            "d": "2026-09-15"
+          }
+        ],
+        "status": "確定＝ワイズのセール展開（公表）。曖昧＝中古の下落幅は店舗・銘柄差が大きい。"
+      },
+      {
+        "id": "20260915-worlds-viewing-guide",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/WqUcGQBvnZCyoYbUBK6nTJ-1200-80.png",
+        "headline": "【初中級・観戦】モントリオール世界選（9/20-27）を10倍楽しむ——TTは9/20開幕、男子エリート・ロードは9/27（日本時間9/28）、北米開催で“朝〜昼”に見やすい",
+        "layer1": "52年ぶりのモントリオール開催となる世界選。個人TTが9/20に開幕し、男子エリート・ロードレースは9/27（現地）に行われる。",
+        "layer2": "会場はGPモントリオールと同じモンロワイヤル周回＝“クラシック型”の登坂力勝負。北米開催なので欧州の深夜と違い日本では朝〜昼に見やすく、ロード観戦の入門に好機。J SPORTSは男子エリート・ロードを日本時間9/28午後に中継予定。ポガチャル不在で『誰でも勝てる』混戦が最大の見どころ。",
+        "sources": [
+          {
+            "t": "Cyclingnews（世界選ルート/日程）",
+            "u": "https://www.cyclingnews.com/races/uci-road-world-championships-2026-2026/map/",
+            "d": "2026-09-15"
+          },
+          {
+            "t": "J SPORTS（中継枠）",
+            "u": "https://www.jsports.co.jp/program_guide/12/08/111847_4283374/",
+            "d": "2026-09-15"
+          }
+        ],
+        "status": "確定＝日程・会場・中継枠（各公式）。曖昧＝カテゴリ別の細かい発走時刻は要確認。"
+      },
+      {
+        "id": "20260915-carbon-spoke-durability",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://www.yoeleobike.com/cdn/shop/articles/yoeleo-nxt-sl2-and-qiankun-cs-side-by-side_f1148700-9c96-49c8-8245-32c0409eb9c2.webp?v=1773373779",
+        "headline": "【初中級】カーボンスポークは“折れたら終わり／街で直せない”は本当か——中華カーボン新世代で外さない見極め3点",
+        "layer1": "2026の中華カーボンは『カーボンスポーク×超軽量』へ全面移行。だが初心者ほど「折れないか」「折れたら直せるのか」が不安になる。",
+        "layer2": "実態は――①カーボンスポークは剛性・空力・回転重量で有利（YOELEOは公称145g軽量化）。②弱点は“汎用スチールスポークのように町の店で1本交換”がしにくい点＝ブランド純正スポーク＋対応ハブの供給とアフターが命綱。③選ぶ基準は『UCI認証・国内サポート・スポーク単体の入手性』の3点。“安いけど直せない”を避けるなら国内拠点のあるブランドが無難。",
+        "sources": [
+          {
+            "t": "YOELEO 公式（カーボン vs スチール）",
+            "u": "https://www.yoeleobike.com/blogs/wheels/stainless-vs-carbon-spoke-wheelsets-nxt-qiankun",
+            "d": "2026-09-15"
+          },
+          {
+            "t": "bike-memo（中華カーボン比較）",
+            "u": "https://bike-memo.com/cycle_260202_carbon-wheels/",
+            "d": "2026-09-15"
+          }
+        ],
+        "status": "曖昧＝一般論の整理（メーカー情報準拠）。個別モデルの破損率データは非公開。"
+      },
+      {
+        "id": "20260915-transfers-2027",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/9Rk6o8UGoBHfrXdzQnjkER-1024-80.jpg",
+        "headline": "【移籍・トレンド】2027移籍が本格化——モラーノがUAEを8季で離脱→ロット、スロックはバーレーン、アスグリーンはNSN、“約200人がオフ契約”の大商戦",
+        "layer1": "秋の移籍市場が加熱。スプリンターのモラーノが8シーズン在籍のUAEを去りロットへ、注目株スロックはバーレーンへ動く。",
+        "layer2": "ほかアスグリーンがEF→NSN、女子ではファンアンローイがリドル・トレック→キャニオン・スラム（27年〜）。市場全体では『約200人がオフ契約＋女子初の100万ドル契約』と報じられ、来季の勢力図が動く。ロリッチのロット移籍観測も継続中。",
+        "sources": [
+          {
+            "t": "Cyclingnews（2027移籍まとめ）",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/cycling-transfers-all-the-latest-news-and-announcements-for-the-2027-season/",
+            "d": "2026-09-15"
+          },
+          {
+            "t": "Velo（移籍市場特集）",
+            "u": "https://velo.outsideonline.com/news/cycling-transfer-market-2026-27/",
+            "d": "2026-09-15"
+          }
+        ],
+        "status": "確定＝モラーノ／スロック／アスグリーン等（各報）。曖昧＝ロリッチ等は観測・未確定（※要裏取り）。"
+      },
+      {
+        "id": "20260915-nextgen-deltoro-seixas",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://procyclinguk.com/wp-content/uploads/2026/09/Isaac-del-Toro-2026-GP-Montreal-Getty-scaled.avif",
+        "headline": "【人間ドラマ】“新時代”は世界選で来るか——22歳デルトロと19歳セイシャスが、雨のGPモントリオールで示した本命候補",
+        "layer1": "世界選のリハーサルGPモントリオールを制したのは22歳デルトロ、2位に19歳セイシャス。同じ周回で2週間後の本番へ最高の前振りになった。",
+        "layer2": "ポガチャル・ヴィンゲゴー不在の“空いた虹”で、ベテラン勢（エヴェネプール／ファンアールト／ファンデルプール）に次世代が真っ向勝負を挑む構図。デルトロはUAEの次期エース候補、セイシャスは仏の逸材。うちの読者にも刺さる『若さ×登坂力×機材（王道フルエアロ）』の物語で、雨の消耗戦を勝ち切った“強さの質”が本番の鍵になる。",
+        "sources": [
+          {
+            "t": "ProCyclingUK（GPモントリオール）",
+            "u": "https://procyclinguk.com/isaac-del-toro-wins-gp-montreal-2026-ahead-of-paul-seixas-in-world-championships-dress-rehearsal/",
+            "d": "2026-09-13"
+          },
+          {
+            "t": "PezCycling News",
+            "u": "https://pezcyclingnews.com/racing/gp-montreal-2026-isaac-del-toro-wins/",
+            "d": "2026-09-14"
+          }
+        ],
+        "status": "確定＝GP結果（複数メディア）。曖昧＝世界選本番の結果は当然未確定。"
+      }
+    ]
+  },
+  {
     "date": "2026-09-14",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。昨日はダブルで決着——ブエルタはマスが『初グランツール』、カナダはデルトロがセイシャスを競り落として世界選の主役へ。今日はそこから世界選（9/20〜）に物語が続きます。国内は9/1施行の『生活道路30km/h』がXで火種に。",
     "cards": [
