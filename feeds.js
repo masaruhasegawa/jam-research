@@ -1,5 +1,275 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-09-16",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。モントリオール世界選（9/20開幕）ウィークに突入——TTのエヴェネプール『4連覇』挑戦、女子はフェランプレヴォ不在、そしてターリングの物語まで。国内は秋の『買い手市場』とサイコン実勢も添えました。",
+    "cards": [
+      {
+        "id": "20260916-worlds-tt-evenepoel",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-09%2Fremco-evenepoel-6aa7c46174b8a.jpg",
+        "headline": "【🔥今日の一本】世界選TT（9/20開幕）——エヴェネプールが史上初の『4連覇』へ、最大の敵はガンナ。平坦・高速のモントリオールは専門家向き",
+        "layer1": "モントリオール世界選は9/20の個人TTで開幕。ディフェンディング王者エヴェネプールが、世界選TT『4連覇』（キガリ2025まで3連覇）という前人未到の記録に挑む。",
+        "layer2": "コースはサーキット主体の平坦・高速レイアウトで、TTスペシャリスト向き。注目はガンナとの直接対決だが、暫定スタートリスト情報ではエヴェネプールは対ガンナで直近5連勝中と伝えられる（※対戦成績は媒体集計、要確認）。ポガチャル不在で本命混戦のロードとは対照的に、TTは『実力どおり』の一戦になりやすい。",
+        "sources": [
+          {
+            "t": "IDL Procycling（男子TTスタートリスト）",
+            "u": "https://www.idlprocycling.com/cycling/2026-mens-world-time-trial-championships-start-list-evenepoel-and-ganna-see-two-medal-contenders-drop-out",
+            "d": "2026-09-15"
+          },
+          {
+            "t": "CyclingFlash（男子TTプレビュー）",
+            "u": "https://cyclingflash.com/news/2026-world-championships-mens-time-trial-preview-can-evenepoel-make-history-with-four-in-a-row-1",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝TTは9/20開幕・エヴェネプールが前回王者で4連覇挑戦／曖昧＝対ガンナの連勝数は媒体集計（※要裏取り）"
+      },
+      {
+        "id": "20260916-tarling-worlds-absence",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/Z4wtsrchhdoHpfBL7K9Pef-2000-80.jpg",
+        "headline": "【人間ドラマ】ジョシュ・ターリング、世界選を欠場——8月に弟フィンレイ（19）を事故で亡くし、ブエルタも第6で降板していた",
+        "layer1": "TT有力候補だったジョシュ・ターリング（イネオス）が、モントリオール世界選の暫定スタートリストに名前がない。8月14日、ポルトガル一周を走っていた弟フィンレイ（19）が対向車との事故で亡くなっていた。",
+        "layer2": "兄ジョシュは弟の死のわずか1週間後にブエルタへ出走し、初日TTで3位に入るも第6ステージで降板していた。世界選TTの主要メダル候補の一角だっただけに競技面の損失も大きいが、いまは結果より静かに見守りたい話。フィンレイの両親は『これから数日、自転車で走りに出るなら、クリップイン（ペダルにはめる）ときに彼を思ってやってほしい』とメッセージを出している。",
+        "sources": [
+          {
+            "t": "IDL Procycling（男子TTスタートリスト）",
+            "u": "https://www.idlprocycling.com/cycling/2026-mens-world-time-trial-championships-start-list-evenepoel-and-ganna-see-two-medal-contenders-drop-out",
+            "d": "2026-09-15"
+          },
+          {
+            "t": "Cyclingnews（両親のメッセージ）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/if-youre-heading-out-on-your-bike-in-the-next-few-days-give-him-a-thought-as-you-clip-in-finlay-tarlings-parents-issue-public-message-following-sons-death/",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝暫定スタートリストにターリング不在・弟の逝去とブエルタ降板は既報／背景＝本人の公式コメント待ち"
+      },
+      {
+        "id": "20260916-womens-worlds-pfp-out",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2025-09%2Fdemi-vollering-kimberly-le-court.jpg",
+        "headline": "【レース・女子】女子ロードはフェランプレヴォ不在で本命再編——コペッキ／フォレリング／ロンゴボルギーニ、フランスはセリア・ジェリが背負う（9/26）",
+        "layer1": "女子エリート・ロード（9/26）に、2025年にパリ〜ルーベとツール・ファムを制したポリーヌ・フェランプレヴォが出場しない見込み。2026年は本来の走りが戻らず、フランスはセリア・ジェリ（FDJ）がリーダーになる見込み。",
+        "layer2": "累積標高2,570m・8周のマウントロワイヤル周回は消耗戦。フォレリングやロンゴボルギーニのような登れる選手が中心だが、周回の反復はパンチャー型のコペッキも十分に残せる設計。ルクール（ピエナール）やロイセルら『クラシック型』も要警戒で、単純な純クライマーレースにはならない。",
+        "sources": [
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/ferrand-prevot-set-to-miss-montreal-worlds/",
+            "d": "2026-09-09"
+          },
+          {
+            "t": "IDL Procycling（女子スタートリスト）",
+            "u": "https://www.idlprocycling.com/cycling/2026-world-cycling-championships-elite-women-start-list-these-are-demi-vollerings-rivals-in-montreal",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝コース諸元・女子ロードは9/26／曖昧＝フェランプレヴォ欠場は『見込み』報道（※最終エントリー待ち）"
+      },
+      {
+        "id": "20260916-usa-worlds-squad",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://assets.usacycling.org/prod/assets/_1200x630_fit_center-center_82_none/2026-Road-Worlds-1130x600.jpg?mtime=1788215572",
+        "headline": "【レース】米国が世界選メンバーを発表——シモンズを筆頭にヨルゲンソン／マクナルティ／パウレス、TT王者シュミットも招集",
+        "layer1": "USAサイクリングがモントリオール世界選の代表を発表。男子エリート・ロードはクイン・シモンズを軸に、マッテオ・ヨルゲンソン、ブランドン・マクナルティ、ショーン・クイン、ニールソン・パウレスらツール組が名を連ねる。",
+        "layer2": "全カテゴリー計34名の大所帯で、女子は五輪王者クリステン・フォークナーが牽引。北米開催（リッチモンド2015以来10年ぶり）のホームで、パンチの効く周回コースはシモンズやヨルゲンソンの脚質と噛み合う。ポガチャル不在の男子ロードで『集団戦を作れる駒』を揃えた点が読みどころ。発表は9/1だが、9/20開幕に向け各国の陣容がこの一週で出そろう。",
+        "sources": [
+          {
+            "t": "USA Cycling（公式）",
+            "u": "https://usacycling.org/article/usa-cycling-announces-the-2026-uci-road-world-championships-team",
+            "d": "2026-09-01"
+          },
+          {
+            "t": "Velo（Team USA ロースター）",
+            "u": "https://velo.outsideonline.com/road/road-racing/usa-cycling-world-championships-team-2026",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝USA代表は9/1発表・シモンズ／ヨルゲンソン／マクナルティら／曖昧＝ロードのリーダー役は当日の展開次第"
+      },
+      {
+        "id": "20260916-transfers-roglic-lotto",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/xFW6ij5uHfmnQyVLammWqA-1024-80.jpg",
+        "headline": "【移籍・Xでも話題】2027商戦が加熱——ログリッチがロット・インターマルシェ移籍に急接近、モラーノ／アスグリーン／スロックは決定済み",
+        "layer1": "2027年へ向けた移籍市場が本格化。ブエルタ後、プリモシュ・ログリッチ（レッドブル退団）がベルギーのロット・インターマルシェ入りに接近と複数媒体。X上でも『ログリッチ×ロット』の是非が話題に。",
+        "layer2": "すでに確定した主な動きは、モラーノ（UAEを8季で離脱→ロット）、アスグリーン（EF→NSN）、スロック（→バーレーン）、女子ではファンアンローイ（リドル・トレック→キャニオン・スラム、11/1のシクロクロスから始動）。カラパスはEF残留報道で、ロット行きの主役はあくまでログリッチ。ただしログリッチ移籍は交渉・報道段階で正式発表前（※要裏取り）。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ログリッチ×ロット）",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/2027-transfer-drama-heats-up-as-grand-tour-champion-primoz-roglic-reportedly-eyes-switch-to-lotto-intermarche-for-next-season/",
+            "d": "2026-08-12"
+          },
+          {
+            "t": "Cycling Weekly（2027移籍まとめ・更新中）",
+            "u": "https://www.cyclingweekly.com/racing/all-the-pro-cycling-transfers-for-2027",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝モラーノ／アスグリーン／スロック等は決定・ファンアンローイも合意／曖昧＝ログリッチ→ロットは交渉中の報道（※要裏取り）"
+      },
+      {
+        "id": "20260916-worlds-course-attrition",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://oberson.com/cdn/shop/articles/peloton-file-marquage-route-mondiaux-montreal-2026_a3a0356d-0716-4f67-900a-d8f7b119edbb.jpg?v=1787004852&width=1250",
+        "headline": "【トレンド・展望】モントリオール世界選は『消耗戦の周回』——男子273.7km／3,803m、カミリアン・ウード＋ポリテク激坂＋登りゴール、ポガチャル不在で誰が得をするか",
+        "layer1": "世界選のコース像が固まった。男子ロード（9/27）はブロッサール発、サミュエル・ド・シャンプラン橋を渡ってマウントロワイヤル周回を12周、273.7km・獲得3,803m。2.3kmのカミリアン・ウード、激坂コート・ド・ポリテク、アヴェニュー・デュ・パルクへの登りゴールという『古典的で残酷』な設計。",
+        "layer2": "王者ポガチャル欠場で、消耗戦を勝ち切る候補はエヴェネプール／デルトロ／セイシャス／ピドコック／カラパスら。周回の反復でジワジワ削れる『アトリション（消耗）型』なので、単発の登坂力より“何度も踏める脚”と展開勘が効く。北米開催で日本からは朝〜昼に見やすいのも今年の推しどころ。",
+        "sources": [
+          {
+            "t": "Oberson（観戦ガイド）",
+            "u": "https://oberson.com/en/blogs/events/spectator-guide-uci-world-championships-2026",
+            "d": "2026-09"
+          },
+          {
+            "t": "Velo（世界選チートシート）",
+            "u": "https://velo.outsideonline.com/road/road-racing/2026-uci-road-world-championships-guide",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝男子273.7km・3,803m・12周／曖昧＝本命の序列は展開次第"
+      },
+      {
+        "id": "20260916-lightfast-lfx5",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://www.lightfast.cc/cdn/shop/files/1500-1_e523af37-5d0b-4a11-a67e-cb328e7501b9.jpg?v=1767185870",
+        "headline": "【ホイール】中華カーボンの『サブキロ競争』が加速——LightFast新型LF X5はペアで約829gから、T1000カーボンスポーク採用",
+        "layer1": "中華勢の『カーボンスポーク×超軽量』の流れがさらに加速。LightFastのXシリーズ最上位『LF X5』は、ペア約829gからという軽さを公称し、航空宇宙グレードのToray T1000カーボンスポークを採用する。",
+        "layer2": "リムは35/45/50/60mmの前後組み合わせが選べ、外幅34mm・内幅25mmのフックドTLR、対応タイヤは25〜43mm。前日のYOELEO『QianKun CS』、香港Particleの835g級に続く“サブキロ”帯で、大手フラッグシップに半額圏で肉薄する構図は変わらない。ただし公称重量・耐荷重（システム110〜120kg）はメーカー値で、実測・実走の剛性感や耐久は第三者インプレ待ち。うち（CRW/8LIEN/NEPEST）でも『軽さの数字だけで選ばない』案内が刺さる。",
+        "sources": [
+          {
+            "t": "LightFast（公式・LF X5）",
+            "u": "https://www.lightfast.cc/products/lightfast-ultra-light-carbon-spoke-wheelset-lf-x-series-lf-x5-from-829-g-pair",
+            "d": "2026"
+          },
+          {
+            "t": "Cyclists Hub（中華カーボン2026）",
+            "u": "https://www.cyclistshub.com/best-chinese-carbon-wheels/",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝公称約829g〜・T1000カーボンスポーク（公式値）／曖昧＝実測・実走の剛性/耐久は第三者レビュー待ち（※メーカー公称）"
+      },
+      {
+        "id": "20260916-garmin-edge-market",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://specialized-store.jp/otakanomori/wp-content/uploads/sites/21/2026/04/IMG_0825.jpeg",
+        "headline": "【経営メモ・市場】サイコンは『Edge 840 Solar』が価格改定で狙い目化——9月の売れ筋は540、上はEdge 850/1050が併売",
+        "layer1": "2026年9月のサイコン市場は、ガーミンEdge 540が売れ筋上位。上位は在庫でEdge 850（実勢約8.6万円）・Edge 1050（約12.7万円）が併売され、Edge 840 Solarは価格改定で『550より快適・850より安い』絶妙な立ち位置になっている。",
+        "layer2": "経営目線では、①ハイエンド1050は“指名買い”、②ボリュームは540/840帯、③型落ち・改定品が値ごろ感の受け皿、という三層。世界選（データ計測熱が上がる時期）に合わせ、下取り＋サイコン提案はセット化しやすい。中華・ブライトン等の廉価GPSも入口需要を拾うが、地図・ナビ体験でEdge上位が差別化できる点は接客の武器になる。",
+        "sources": [
+          {
+            "t": "価格.com（サイコン人気ランキング）",
+            "u": "https://kakaku.com/bicycle/bike-computer/itemlist.aspx?pdf_ma=2597",
+            "d": "2026-09"
+          },
+          {
+            "t": "Specialized おおたかの森（Edge 840 Solar）",
+            "u": "https://specialized-store.jp/otakanomori/blog/13951/",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝9月売れ筋は540・上位機併売／曖昧＝実勢価格は店舗/在庫で変動"
+      },
+      {
+        "id": "20260916-used-market-autumn",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://pedalism.jp/wp-content/uploads/2026/08/ec_p681.jpg",
+        "headline": "【経営メモ・市場・Xでも話題】秋は『買い手市場』が本番——中古あふれで値引き20〜40%、買取は時間で下落、冬に向け二層化",
+        "layer1": "秋〜冬はロードバイク需要が最も落ちる時期で、在庫を抱えたくない店のセールが集中。ブログやXでも『今が買い時か』論が活発で、セール値引きは20〜40%が目安（20万円の中級で4〜8万、30万円のカーボンで6〜12万安も）と伝えられる。",
+        "layer2": "コロナ購入車の中古あふれで“中古相場は時間とともに下落”が基調。経営の勘所は、①決算（9月末）後の10〜11月に処分の山が来る前提で仕入れ・下取りを調整、②型落ち新車 vs 中古 vs 中華バラ完の三択で客単価と粗利を設計、③下取りは『早いほど高い』を正直に伝えると信頼につながる。買い手には“春に乗り出す前提で秋〜冬に安く仕込む”のが賢い、が定説。",
+        "sources": [
+          {
+            "t": "Pedalism.jp（セール時期）",
+            "u": "https://pedalism.jp/road-bike-sale-timing-when-cheap/",
+            "d": "2026-08"
+          },
+          {
+            "t": "プライシー（ロードバイクセール2026）",
+            "u": "https://www.pricey.jp/web/articles/3501",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝秋〜冬が値引き期・値引き幅20〜40%は一般論／曖昧＝相場・在庫は地域差大（※体感値を含む）"
+      },
+      {
+        "id": "20260916-first-cycle-computer",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://www.garmin.co.jp/minisite/cycling/images/cycling-share-1200x630.jpg",
+        "headline": "【初中級】世界選を見て『自分も測りたく』なったら——初めてのサイコンの選び方3点（GPS/パワー/地図）",
+        "layer1": "プロのデータ観戦が盛り上がる世界選ウィーク。『自分も速度や心拍、パワーを見たい』という初中級者に、最初の一台の選び方を整理した。",
+        "layer2": "外さない3点。①まずはGPS付きで“ログが残る”モデル（走行距離・獲得標高・ルート）。②心拍はチェストベルト or 光学式、パワーは後付けでもOK（最初は必須でない）。③迷ったら地図・ナビの使いやすさで上位機。ガーミンEdge 540/840が定番、廉価ならブライトンや中華GPSも入口に十分。スマホアプリ（Strava等）連携前提で選ぶと後悔しにくい。まずは“完璧より、続けられる一台”を。",
+        "sources": [
+          {
+            "t": "Garmin 日本（サイクリング）",
+            "u": "https://www.garmin.co.jp/minisite/cycling/",
+            "d": "2026"
+          },
+          {
+            "t": "価格.com（サイコンランキング）",
+            "u": "https://kakaku.com/bicycle/bike-computer/ranking_6461/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝機能の考え方は普遍／製品の価格・在庫は変動"
+      },
+      {
+        "id": "20260916-china-wheel-buy-fears",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/01/zakki_C128.jpg",
+        "headline": "【初中級】中華カーボンホイールを『直販で買う前の不安』を解体——保証・初期不良・UCI認証・関税の実際",
+        "layer1": "サブキロのカーボンスポーク中華が続々出るなか、『直販で買って大丈夫?』という初中級の不安に答える回。見るべきは価格や重量だけではない。",
+        "layer2": "実務の勘所4つ。①保証：期間と“送料はどちら持ち”を購入前に確認（往復送料が地味に効く）。②初期不良/振れ：到着後すぐ振れ・センター・スポークテンションをチェックし記録を残す。③UCI認証・重量：レース使用や強度の目安になる（Particle等は認証取得を明記）。④関税・消費税：個人輸入は課税・通関手数料が乗るので“総額”で比較。うち（8LIEN/CRW/NEPEST等）のように国内で相談・調整できる窓口があると、初めての一本は安心度が段違い——という着地が正直で刺さる。",
+        "sources": [
+          {
+            "t": "bike-memo（中華ホイール格付け）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-01"
+          },
+          {
+            "t": "Cyclists Hub（中華カーボン2026）",
+            "u": "https://www.cyclistshub.com/best-chinese-carbon-wheels/",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝確認すべき実務項目は普遍／曖昧＝保証条件・関税はブランド/時期で異なる"
+      }
+    ]
+  },
+  {
     "date": "2026-09-15",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。世界王者ポガチャルの今季終了が確定し、モントリオール世界選（9/20-27）は“空いた虹”を巡る大混戦へ。レースの人間ドラマから、中華カーボンの新型・国内市場の秋商戦までまとめました。",
     "cards": [
