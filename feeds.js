@@ -1,5 +1,280 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-09-17",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。世界選（9/20開幕）ウィーク本番——日曜の女子TTでロイサーが『誕生日連覇』に挑み、ピドコックは前人未到のMTB×ロード二冠へ、ロード本命は22歳デルトロ。機材はコロンバスのカーボン参入で『中華の価格優位』が際立ち、国内は秋の買い手市場とチューブレスの基礎も添えました。",
+    "cards": [
+      {
+        "id": "20260917-worlds-womens-tt",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/www.indeleiderstrui.nl/images/2026-08/marlen-reusser-6a70d57392001.jpg",
+        "headline": "【🔥今日の一本】世界選の幕開けは日曜の女子個人TT——王者ロイサーが『35歳の誕生日』に連覇、ファンフレーリングが挑む",
+        "layer1": "モントリオール世界選（9/20開幕）の初日は男女の個人TT。女子はスイスのマルレーン・ロイサーが本命で、レース当日9/20が本人の35歳の誕生日。直近の個人TTは7戦6勝（残る1つも2位）と別格の安定感。",
+        "layer2": "対抗はオランダのファンフレーリング（昨年キガリでTT銅、ツール・ド・フランス・ファムのTTではロイサーに18秒差の3位）。コースは大きな登りに乏しい平坦寄りで、純パワー型のロイサー向き。ファンフレーリングは登坂力を活かしにくいが『この手のTTでも戦える』と実証済み。※オランダはファンデルブレヘンが調子不良で欠場し、2枚看板が1枚に。",
+        "sources": [
+          {
+            "t": "IDL ProCycling（女子TTスタートリスト）",
+            "u": "https://www.idlprocycling.com/cycling/2026-womens-world-time-trial-championships-start-list-vollering-and-reusser-will-start-but-van-der-breggen-wont",
+            "d": "2026-09-15"
+          },
+          {
+            "t": "Olympics.com（世界選プレビュー）",
+            "u": "https://www.olympics.com/en/news/uci-road-world-championships-2026-evenepoel-vollering-pidcock-watch-live",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝女子エリートTTは9/20・ロイサー本命／ファンデルブレヘン欠場。曖昧＝当日の天候と最終スタートリストの微修正は要確認。"
+      },
+      {
+        "id": "20260917-worlds-mixed-relay",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/www.indeleiderstrui.nl/images/2026-09/remco-evenepoel-6aa7c46174b8a.jpg",
+        "headline": "【レース】新種目枠——世界選『混合リレーTTT』は9/22、40.6km・2周で国別対抗",
+        "layer1": "個人TT（9/20）に続き、9/22には各国の男女混成チーム・タイムトライアル・リレー（混合リレーTTT）が組まれる。距離は40.6km・2周、現地の午前（8:30〜11:15 EDT）に実施。",
+        "layer2": "男子3名＋女子3名がリレー形式で計時を争う短距離・高強度種目。TT強国（スイス・イタリア・ベルギーなど）が有利で、ガンナ／シュミット／レクネスンドら時計巧者が軸になる。日本時間では9/22（火）の夜〜深夜に相当し平日でも追いやすい。ロード本番（男子9/27）前の『前哨』として各国の仕上がりが読める一戦。",
+        "sources": [
+          {
+            "t": "Tourisme Montréal（大会ガイド）",
+            "u": "https://www.mtl.org/en/experience/ultimate-guide-faq-uci",
+            "d": "2026-09"
+          },
+          {
+            "t": "ProCyclingStats（混合リレーTTTスタートリスト）",
+            "u": "https://www.procyclingstats.com/race/world-championship-mixed-relay-ttt/2026/startlist",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝混合リレーTTTは9/22・40.6km／2周。曖昧＝各国の最終メンバーは直前発表、要確認。"
+      },
+      {
+        "id": "20260917-pidcock-double",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/www.indeleiderstrui.nl/images/2026-09/tom-pidcock-2-6a9a85483b475.jpg",
+        "headline": "【人間ドラマ】ピドコックが『前人未到』へ——同一年にMTBとロードの世界王者ダブルを狙う",
+        "layer1": "直近でXCO（MTBクロスカントリー）世界選を制し2度目のMTB世界王者になったトム・ピドコックが、そのままモントリオールのロード世界選（9/27）に挑む。史上、同じ年にロードとMTBの両世界選を制した選手はいない。",
+        "layer2": "モンロワイヤルの周回（1周13.4km・登坂約269m、本番は12周で総距離273.7km・獲得3,803m）はパンチャー向きで、近年のGPモントリオール勝者も登坂型ばかり。ピドコックは9/13のGPモントリオールで本番と同じ周回を『試走』し、そのままカナダ滞在。Veloの本命ランクでも4番手まで浮上した。二冠がかかる。",
+        "sources": [
+          {
+            "t": "IDL ProCycling（ピドコックとモントリオール）",
+            "u": "https://www.idlprocycling.com/cycling/the-montreal-world-championships-circuit-is-perfect-for-tom-pidcock-and-he-knows-it-better-than-anyone",
+            "d": "2026-09-08"
+          },
+          {
+            "t": "Velo（世界選 favourites ランキング）",
+            "u": "https://velo.outsideonline.com/road/road-racing/pogacar-out-re-ranking-the-favorites-for-uci-road-worlds/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝ロード本番は9/27・コース273.7km／3,803m。曖昧＝ピドコックの当日の脚（MTB世界選からの疲労）は未知数。"
+      },
+      {
+        "id": "20260917-worlds-road-deltoro",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-09/the-contenders-for-the-world-championships-6aa8148ff2673.png",
+        "headline": "【レース】ロード本番（9/27）の“現時点の本命”は22歳デルトロ——GPモントリオール覇者がポガチャル不在の虹を狙う",
+        "layer1": "ポガチャル欠場で開いた男子ロード（9/27・273km、ブロサール発→モンロワイヤル12周）は、GPモントリオールを制したイサク・デルトロ（UAE、22歳）が『フォーム上の本命』。エヴェネプール、ファンアールト、ファンデルプール、ピドコック、19歳セイシャスが続く。",
+        "layer2": "決め手は終盤の3連続の登り——カミリアン・ウード（1.6km／7.7%、残り11km）、ポリテク（800m／平均4%・最大10%、残り6km）、パニュエロ（500m／7.5%、残り3km）＋最後の500m／5%。純スプリント力より『登れる脚』が要るレイアウトで、平坦100km→周回の展開。各国はカナダ・クラシックス（ケベック／モントリオール）で調整を終えている。",
+        "sources": [
+          {
+            "t": "Cycling Uptodate（男子ロード プレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/world-championships-montreal-mens-elite-road-race-2026-preview-profile-favourites-predictions",
+            "d": "2026-09-16"
+          },
+          {
+            "t": "ProCyclingUK（男子ロード プレビュー）",
+            "u": "https://procyclinguk.com/uci-road-world-championships-2026-mens-road-race-preview-evenepoel-del-toro-seixas-van-aert-and-pidcock-lead-montreal-battle/",
+            "d": "2026-09-16"
+          }
+        ],
+        "status": "確定＝コース詳細と favourite 層。曖昧＝本命は“現時点”で、当日の展開次第で総入れ替えの余地。"
+      },
+      {
+        "id": "20260917-remco-form-x",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://chan-bike.com/wp-content/uploads/2026/09/moko0407_Dramatic_realistic_road_racing_scene_2026_Grand_Prix_31c6ecd6-5de8-4a0e-8f44-bd26871dae39_2.png",
+        "headline": "【トレンド・Xで話題】『レムコ不調』説の真相——GPモントリオール5位は“ただの一日”か",
+        "layer1": "X（旧Twitter）では『エヴェネプールが世界選前に失速?』の声が拡散。きっかけは9/14のGPモントリオールでデルトロ・セイシャスに敗れて5位、レース中に他選手へ抗議する一幕もあったこと。",
+        "layer2": "裏取りすると、本人は『今日は本当に良い日ではなかった』と冷静に認めつつ『世界選まではまだ2週間ある』と発言。高地トレーニング明けの疲労が影響した可能性が指摘され、TTと当日の周回コースは別物。TT（9/20）ではなお最有力の一方、ロード（9/27）は『登れる本命』デルトロら次世代の勢いが上回る局面も——という読みが妥当。※Xの『終わった』論は勇み足、要冷静。",
+        "sources": [
+          {
+            "t": "ロードバイクはやめられない（GPモントリオール分析）",
+            "u": "https://chan-bike.com/is-remco-angry-a-crushing-defeat-at-the-hands-of-del-toro-and-seishas",
+            "d": "2026-09-14"
+          },
+          {
+            "t": "Cycling Uptodate（世界選 contenders）",
+            "u": "https://cyclinguptodate.com/cycling/world-championships-montreal-mens-elite-road-race-2026-preview-profile-favourites-predictions",
+            "d": "2026-09-16"
+          }
+        ],
+        "status": "曖昧＝“不調か調整途中か”は本番待ち。確定＝本人が不出来を認めた事実と、本番まで2週間の猶予発言。"
+      },
+      {
+        "id": "20260917-roglic-lotto",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039343-232.jpg?width=832&height=468&format=jpg&crop=2000%2C1125%2C0%2C104",
+        "headline": "【移籍・Xでも話題】ログリッチの去就は“世界選後”へ持ち越し——ロット移籍説にも本人は明言避ける",
+        "layer1": "ブエルタ総合2位（マスに+2:15）のプリモシュ・ログリッチ（36、レッドブル）が、2027年のロット・インターマルシェ移籍説について明言を避けた。『一日ずつ』を繰り返し、当面は世界選（モントリオール）と欧州選（スロベニア）に集中する構え。",
+        "layer2": "ロット側は関心を認めつつ『他チームも狙っている』（GMファンデワウワー）と牽制、ルフェーヴルは“年齢”を挙げ慎重論。裏を返せば争奪が過熱している証拠。ブエルタ2位を『出走確定が遅く直前落車もあった中では実質的な勝利』と本人は総括、カナダは初上陸で前向き。決着は今オフの2027大商戦（約200人が契約流動）の目玉として持ち越しへ。",
+        "sources": [
+          {
+            "t": "Domestique Cycling（ログリッチ去就）",
+            "u": "https://www.domestiquecycling.com/en/news/now-i-will-enjoy-the-worlds-roglic-coy-on-future-despite-vuelta-podium-finish/",
+            "d": "2026-09-13"
+          },
+          {
+            "t": "Cyclingnews（移籍ドラマ）",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/2027-transfer-drama-heats-up-as-grand-tour-champion-primoz-roglic-reportedly-eyes-switch-to-lotto-intermarche-for-next-season/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "曖昧＝移籍先は未確定（ロット最有力だが未署名）。確定＝レッドブルを2026限りで退団の見込み。"
+      },
+      {
+        "id": "20260917-columbus-wheels",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.sanity.io/images/iocd9e4k/production/ad8460cbf7a6f854599a083b6e54df4cbac555d2-1920x1280.jpg?w=1920&auto=format&q=80&fit=max",
+        "headline": "【ホイール】老舗コロンバスが“カーボンホイール”に新規参入（9/2発表）——最上位スピリット50は1,249g・€3,999、うちの中華の価格優位が際立つ",
+        "layer1": "鋼管の名門コロンバスが9/2、カーボンホイール4種を一挙発表。フラッグシップのSpirit 50は1,249g・€3,999、ほかCento 50/62（1,440〜1,470g・€1,599）、Gara 50（1,315g・€2,399、DT Swiss 240ハブ）。全機23mm内幅／30mm外幅で太タイヤ最適化。",
+        "layer2": "“プレミアム最軽量＝1,249gで€3,999（約70万円）”という基準が引かれた意味は大きい。中華カーボンスポーク勢は同等〜より軽い重量を半額圏以下で出す——例：FARSPORTS 2026 EVO Sは45mmで1,150g・$1,559〜（58.5mmのS6でも1,280g、3.8mmブレードカーボンスポーク）。『軽さ×剛性』の土俵で価格差が3倍級になる構図が、うちの直販カーボンの説得材料になる。※中華側は公称値ベース、実測・振れ取り精度は店で裏取り推奨。",
+        "sources": [
+          {
+            "t": "Velora Cycling（コロンバス発表）",
+            "u": "https://veloracycling.com/tech/columbus-carbon-road-wheels-launch-2026",
+            "d": "2026-09-02"
+          },
+          {
+            "t": "BikeRadar（コロンバス4種）",
+            "u": "https://www.bikeradar.com/news/columbus-cento-gara-spirit-wheels",
+            "d": "2026-09-02"
+          },
+          {
+            "t": "Panda Podium（FARSPORTS 2026 EVO S・製品）",
+            "u": "https://www.pandapodium.cc/product/farsports-2026-evo-s-series-carbon-spokes-wheelset/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝コロンバス4種のスペック・価格。曖昧＝中華側は公称重量、実測とアフターは要確認。"
+      },
+      {
+        "id": "20260917-colnago-pogi-campaign",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cyclejapan.club/wp-content/uploads/2026/09/Tour-de-France_CP2_00-scaled.jpg",
+        "headline": "【経営メモ・市場】コルナゴ『ツール5勝記念』第2弾（9/11〜）——アンケートでポガチャルA2ポスター、全国70店超で秋の来店動機に",
+        "layer1": "コルナゴ（アキボウ）が、ポガチャルのツール総合5勝を記念する『TOUR DE FRANCE 2026 CHAMPION CAMPAIGN』第2弾を9/11から実施。参加店でアンケートに答えるとA2ポスター（42×59.4cm）をその場で進呈、無くなり次第終了。全国70店超が対象。",
+        "layer2": "経営の目線では“無料ノベルティで来店・接点をつくる”王道施策。秋は決算・型落ち処分と重なり客足が動く時期で、こうしたメーカー主導キャンペーンは小規模店でも便乗しやすい。うちは主役ブランドが違っても、『話題のポスター』を入口に中華カーボンの試乗・相談へ橋渡しする導線を作れる。※在庫・実施可否は店ごとに差、要確認。",
+        "sources": [
+          {
+            "t": "サイクルジャパン（コルナゴ第2弾）",
+            "u": "https://cyclejapan.club/colnago-pogi-tdf-5th-time-chapmpion-campaign",
+            "d": "2026-09-08"
+          },
+          {
+            "t": "DreamNews（アキボウ プレスリリース）",
+            "u": "https://www.dreamnews.jp/press/0000361854",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝第2弾は9/11開始・A2ポスター進呈・70店超。曖昧＝配布終了時期は在庫次第。"
+      },
+      {
+        "id": "20260917-buyers-market-calendar",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://pricey-prod-owned-media.s3.ap-northeast-1.amazonaws.com/hub-page-main-visual-images/article_3501.webp",
+        "headline": "【経営メモ・市場】“買い手市場”の底は『10〜11月』——2027モデル発表で値引き開始、型落ちは20〜40%引きへ",
+        "layer1": "国内の購入ガイド（最終更新9/15）は、いまが『2027モデル発表で値引き開始段階』で、本番は10〜11月の型落ち処分＝20〜40%引き、年末年始は在庫処分で半額近くも、と整理。3月末・9月末は決算セールも重なる。",
+        "layer2": "店側の読みは二段構え——①9月末の中間決算で在庫圧縮の一波、②10〜11月に2027モデル切替の型落ち処分が本格化。人気サイズは初日に消えるため、客には『狙いのサイズは早めに』と助言しつつ、うちは新車の値引き合戦の外側＝中華カーボンの新品・保証付きの相対的お得感で戦うのが定石。※2026年秋の各社セール率・対象はこれから告知、要ウォッチ。",
+        "sources": [
+          {
+            "t": "プライシー（ロードバイク セール時期ガイド）",
+            "u": "https://www.pricey.jp/web/articles/3501",
+            "d": "2026-09-15"
+          }
+        ],
+        "status": "確定＝値引きの季節設計（10〜11月が底）。曖昧＝2026年秋の各社セール率・対象は未告知、要確認。"
+      },
+      {
+        "id": "20260917-tubeless-basics",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cyclogpedia.com/wp-content/uploads/2025/12/tubeless-tire-bead-seating-mastery-guide.jpg.jpg",
+        "headline": "【初中級】チューブレスの不安を解体——“空気圧・シーラント・バルブ”の外さない3点",
+        "layer1": "中華カーボン×チューブレス化の相談が増える季節。初心者がつまずく核は3つ——(1)適正空気圧、(2)シーラント管理、(3)バルブ／テープの消耗。ここを押さえれば過度な不安は要らない。",
+        "layer2": "(1)低圧はクッション・グリップで有利だが下げ過ぎはリム打ちパンクの元。体重・タイヤ幅から適正を出す。(2)直径2〜3mm程度の小穴はシーラントが自己修復（そのまま走って帰れる場合も）だが、3mm超は塞ぎ切れず出先で要チューブ。(3)チューブレステープは1〜2年で交換、シーラント・バルブも消耗品。バルブは『指で締まるところまで』が正解で、締め過ぎるとゴムベースが変形して逆に漏れる。",
+        "sources": [
+          {
+            "t": "cyclogpedia（チューブレス基礎）",
+            "u": "https://cyclogpedia.com/tubeless-bidoage/",
+            "d": "2025-12"
+          },
+          {
+            "t": "IRC 井上ゴム（チューブレス サポート）",
+            "u": "https://ircbike.jp/support/tl-feature/",
+            "d": "2025-12"
+          }
+        ],
+        "status": "確定＝一般的な運用の定石（普遍ネタ）。曖昧＝適正空気圧は個体差、実走で微調整。"
+      },
+      {
+        "id": "20260917-china-carbon-choose",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://www.cyclistshub.com/wp-content/uploads/2024/10/Farsports-C5-review.jpg",
+        "headline": "【初中級】“プレミアムは€3,999”の時代に——初めての中華カーボンで外さない選び方3点",
+        "layer1": "コロンバスの新型が最上位1,249gで€3,999（約70万円）という基準を引いた今、初心者の現実解は『半額圏以下の中華カーボンスポーク世代』。ただし直販は当たり外れの不安がつきもの。",
+        "layer2": "外さない3点——(1)UCI認証と実測重量の開示（例：FARSPORTS 2026 EVO Sは45mm=1,150g／58.5mm=1,280g・$1,559〜、3.8mmブレードカーボンスポーク）、(2)ハブ／ベアリングと保証・補修部品の入手性（受注生産は納期5〜10日など事前確認）、(3)カーボンスポークは“折れたら街の店で直せない”ため、初期不良対応と代理店／実店舗サポートの有無。スペック表の軽さだけで決めず、アフターまで見るのがコツ。",
+        "sources": [
+          {
+            "t": "Panda Podium（FARSPORTS 2026 EVO S・製品）",
+            "u": "https://www.pandapodium.cc/product/farsports-2026-evo-s-series-carbon-spokes-wheelset/",
+            "d": "2026-09"
+          },
+          {
+            "t": "Cyclist's Hub（中華カーボン2026 まとめ）",
+            "u": "https://www.cyclistshub.com/best-chinese-carbon-wheels/",
+            "d": "2026-09"
+          },
+          {
+            "t": "Velora Cycling（コロンバス・比較用）",
+            "u": "https://veloracycling.com/tech/columbus-carbon-road-wheels-launch-2026",
+            "d": "2026-09-02"
+          }
+        ],
+        "status": "確定＝選び方の骨子。曖昧＝中華は公称重量ベース、実測・振れ精度・保証は個別確認。"
+      }
+    ]
+  },
+  {
     "date": "2026-09-16",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。モントリオール世界選（9/20開幕）ウィークに突入——TTのエヴェネプール『4連覇』挑戦、女子はフェランプレヴォ不在、そしてターリングの物語まで。国内は秋の『買い手市場』とサイコン実勢も添えました。",
     "cards": [
