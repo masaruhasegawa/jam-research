@@ -1,5 +1,280 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-09-18",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。世界選モントリオールはいよいよ日曜9/20のTTで開幕——エヴェネプールが史上初の『4連覇』へ、対抗馬は病気・故障で目減り。ロードは9/27、ポガチャル不在で本命が割れています。機材は新型デュラエースホイールが昨日9/17に国内発売、旧型は特価へ。今日も鮮度優先でいきます。",
+    "cards": [
+      {
+        "id": "20260918-me-itt-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Remco_Evenepoel_WC_2022.jpg/500px-Remco_Evenepoel_WC_2022.jpg",
+        "headline": "【🔥今日の一本】世界選ITTは日曜9/20開幕——エヴェネプールが史上初の『4連覇』へ、対抗はガンナ／キュング。表彰台候補は病気・故障で目減り",
+        "layer1": "モントリオール世界選は9/20の女子・男子エリート個人TT（39.2km・獲得220m）で開幕。男子は3連覇中のエヴェネプールが史上初の『4連覇』に王手で、今季のTTは3戦3勝と無敗。",
+        "layer2": "コースは平坦基調で『巡航速度』勝負＝TT専門家向き。最大の敵はガンナ（2023年に僅か12秒差、24年チューリッヒで6秒差）とキュング、ビエリら。ただ表彰台候補は目減り——ジェイ・バインはブエルタで体調を崩し欠場、ジョシュ・ターリングは弟の急逝で回避、地元デレク・ジー＝ウェストもGPモントリオール落車の肋骨負傷でTTを回避した。ベルギーはエヴェネプール＋セガート＋ヘレゴーツの3枠。",
+        "sources": [
+          {
+            "t": "IDL ProCycling（ME-ITTスタートリスト）",
+            "u": "https://www.idlprocycling.com/cycling/2026-mens-world-time-trial-championships-start-list-evenepoel-and-ganna-see-two-medal-contenders-drop-out",
+            "d": "2026-09-15"
+          },
+          {
+            "t": "Domestique（ITTプレビュー）",
+            "u": "https://www.domestiquecycling.com/en/news/world-championships-itt-preview-evenepoel-chases-a-fourth-straight-title-in-montreal/",
+            "d": "2026-09-17"
+          }
+        ],
+        "status": "確定＝ITTは9/20（現地12:45／日本時間9/21未明）・39.2km。曖昧＝優勝者は当然未定、TTでも一発の番狂わせはありうる。"
+      },
+      {
+        "id": "20260918-we-rr-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Demi_Vollering_-_2025_European_road_championship_podium_-_Guilherand-Granges.jpg/500px-Demi_Vollering_-_2025_European_road_championship_podium_-_Guilherand-Granges.jpg",
+        "headline": "【レース・女子】女子エリート・ロードは9/26——フォレリング／コペッキ／ロンゴボルギーニが本命、地元は昨年女王バジエールが連覇挑戦",
+        "layer1": "女子エリート・ロードレースは9/26（土）、180.4km・獲得2,570m。モンロワイヤル周回（カミリアン・ウード坂＋ポリテク激坂＋登りゴール）を8周する『登り勝負』のコース。",
+        "layer2": "名前が並ぶのはフォレリング、2023・24世界王者コペッキ、ロンゴボルギーニ、ニェウィアドマ、ロイサー。地元カナダは昨年キガリで衝撃の初制覇を遂げた『ディフェンディングチャンピオン』マドレーヌ・バジエールが本国で連覇に挑む——最終登りでの一撃が武器だ。登坂力がそのまま結果に出るタフなレイアウトで、パンチャー＆クライマー混成の展開になりやすい。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（女子RRスタートリスト）",
+            "u": "https://cyclinguptodate.com/cycling/startlist-world-championships-2026-elite-womens-road-race-riders-demi-vollering-lotte-kopecky-elisa-longo-borghini-kasia-niewiadoma-marlen-reusser-and-more",
+            "d": "2026-09-17"
+          },
+          {
+            "t": "Velo（Road Worlds Cheat Sheet）",
+            "u": "https://velo.outsideonline.com/road/road-racing/2026-uci-road-world-championships-guide/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝9/26開催・コース。曖昧＝本命が多数で、当日の脚と展開次第。"
+      },
+      {
+        "id": "20260918-me-rr-open",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/MSR2026-06_MVDP.jpg/500px-MSR2026-06_MVDP.jpg",
+        "headline": "【トレンド・展望】ポガチャル不在の『虹』は大混戦——本命はレムコ／デルトロ／ピドコック、ファンデルプールは“登り過多”説",
+        "layer1": "男子エリート・ロードは9/27（日）、約273km・獲得3,720m超。連覇中のポガチャルがブエルタ落車で今季終了・欠場となり、優勝候補が総入れ替えになった。",
+        "layer2": "専門メディアの本命上位はエヴェネプール＞デルトロ＞ピドコック、続いてファンアールト／ファンデルプール／セイシャス／マクナルティ。ファンデルプールはGPモントリオールの実走偵察を欠き、レムコも『積み上がる獲得標高は重すぎるかも』と示唆——ただ6時間超の長丁場では“距離が武器に化ける”のがMvdPの持ち味で、評価は割れる。カミリアン・ウード坂の反復で消耗戦は必至だ。",
+        "sources": [
+          {
+            "t": "ProCyclingUK（男子RRプレビュー）",
+            "u": "https://procyclinguk.com/uci-road-world-championships-2026-mens-road-race-preview-evenepoel-del-toro-seixas-van-aert-and-pidcock-lead-montreal-battle/",
+            "d": "2026-09-16"
+          },
+          {
+            "t": "CyclingUpToDate（男子RRスタートリスト）",
+            "u": "https://cyclinguptodate.com/cycling/startlist-world-championships-2026-elite-mens-road-race-riders-remco-evenepoel-wout-van-aert-mathieu-van-der-poel-isaac-del-toro-tom-pidcock-paul-seixas-and-more",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝9/27開催・コース。曖昧＝本命が割れる混戦、MvdPの調子は不透明。"
+      },
+      {
+        "id": "20260918-canada-home-hopes",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/MikeWoods_2015TOA.jpg/500px-MikeWoods_2015TOA.jpg",
+        "headline": "【人間ドラマ】地元カナダの二つの物語——マイケル・ウッズが『引退撤回』で凱旋、デレク・ジーは肋骨負傷でも日曜を諦めず",
+        "layer1": "母国開催の世界選に向け、ロードを引退しグラベルへ転じていた38歳マイケル・ウッズが代表選出で『現役復帰』。エースのデレク・ジー＝ウェストはGPモントリオールで残り40kmに落車、肋骨を痛めTTを回避した。",
+        "layer2": "ウッズは元・長距離ランナーからの転向組で、ツール区間勝利＆2018年世界選ロード銀という実績を持つ“遅咲き”。本国モントリオールの登坂コースは彼の18番＝一発の魅力があり、キャリア最後の大舞台になる。ジーは肋骨の状態と相談しつつ『地元の大観衆の前で、最高の状態でスタートラインに立つ』ことに全力——TT回避もロード（9/27）出走に望みをつなぐ。カナダ代表はウッズ／ジー＝ウェスト／ウール／コーテら6名。",
+        "sources": [
+          {
+            "t": "Canadian Cycling Magazine（男子代表発表）",
+            "u": "https://cyclingmagazine.ca/sections/news/canadian-mens-team-announced-for-2026-road-worlds-in-montreal/",
+            "d": "2026-09"
+          },
+          {
+            "t": "CyclingFlash（ジー、リレー/TT回避）",
+            "u": "https://cyclingflash.com/news/home-rider-derek-gee-skips-the-world-championship-mixed-relay-and-time-trial-but-still-hopes-to-race-the-road-race",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝ウッズの代表選出・ジーのTT回避。曖昧＝ジーのロード出走可否は肋骨次第（要続報）。※一部は本人談ベース。"
+      },
+      {
+        "id": "20260918-shimano-wh-r9370",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/07/Shimano-Dura-Ace-WH-R9370-July-2026-1024x683.jpg",
+        "headline": "【ホイール】新型デュラエース『WH-R9370』が国内発売開始（9/17）——ブランド初カーボンスポーク、C50が159g減の1,302g・前後定価431,713円",
+        "layer1": "シマノの次世代デュラエース・ホイール『WH-R9370』が9/17（木）、オールラウンドのC50から国内発売。ブランド初のカーボンスポーク採用で最大220gの軽量化、シクロワイアード等が実走レビューを掲載し、全国14店で試乗会も始まった。",
+        "layer2": "ラインは C36=1,170g／C50=1,302g（前モデル比159g減）／C60=1,609g（同220g減）、内幅23mm・28〜30mm最適化、48km/hで最大2.7W低抵抗。カップ＆コーン軸受を継続し回転抵抗30%減を主張。価格はC50-TLで前198,847円＋後232,866円＝前後431,713円（税込）。——ここが商機：中華カーボンスポーク勢（Particleの835g、YOELEO QianKun、LightFast等）は“同等軽量×半額圏”。うちのハイエンド中華は『新デュラのおよそ4割の価格で1,300g級』と説明でき、価格優位が一段と鮮明になる。",
+        "sources": [
+          {
+            "t": "シクロワイアード（WH-R9370-C50インプレ）",
+            "u": "https://www.cyclowired.jp/news/node/393173",
+            "d": "2026-09-17"
+          },
+          {
+            "t": "Y's Road店舗ブログ（C50入荷/試乗）",
+            "u": "https://ysroad.co.jp/fukuokatenjin/2026/09/17/231835",
+            "d": "2026-09-17"
+          },
+          {
+            "t": "road.cc（Dura-Ace新ホイール）",
+            "u": "https://road.cc/tech-news/shimano-launches-lighter-more-aero-dura-ace-wheels",
+            "d": "2026-07-29"
+          }
+        ],
+        "status": "確定＝9/17発売・価格・公称重量。曖昧＝実測重量や体感は今後のインプレ待ち。"
+      },
+      {
+        "id": "20260918-dura-ace-r9300-leak",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://pub-f154438dceef491ba243fbee53912d51.r2.dev/2026/07/682846-DURA-ACE-WH-R9370-Series_All-wheels_Horizontal_1920x1080px-a38595-original-1781853537.jpg",
+        "headline": "【パーツ・Xでも議論】新デュラエース13速『R9300』の追加リーク——ダイレクトマウント＋新パワメ、なお公式は沈黙",
+        "layer1": "ブエルタで実戦投入された新型デュラエース『R9300』の追加リーク画像が9/11に浮上。13速・ダイレクトマウント式チェーンリング・親指ボタン・刷新パワーメーター・新型充電コネクタが読み取れると報じられた。",
+        "layer2": "確定に近いのはセミワイヤレス堅持（変速レバーは無線／ディレイラーは有線）と13速化・ダイレクトマウント。正式名称・価格・発売日、そして“手持ち12速ホイールとの互換（フリーボディ）”は未発表のまま。ここがXの論点で、DTスイスに新フリーボディの観測もあり『今12速で新調すると、13速では使えなくなるのでは』という不安が拡散している。発表は2026年後半〜2027年前半説が有力。シマノは“噂・未発表製品にはコメントしない”の一点張り。",
+        "sources": [
+          {
+            "t": "Bike News Mag（R9300追加リーク）",
+            "u": "https://bikenewsmag.com/2026/09/11/shimano-dura-ace-r9300-leak-points-to-13-speed-direct-mount-chainrings-and-a-new-power-meter/",
+            "d": "2026-09-11"
+          },
+          {
+            "t": "the5krunner（R9300スポット）",
+            "u": "https://the5krunner.com/2026/08/23/dura-ace-r9300-13-speed-spotted/",
+            "d": "2026-08-23"
+          }
+        ],
+        "status": "確定＝13速・ダイレクトマウント・セミワイヤレスの方向。曖昧＝互換/価格/時期は未発表（※リーク段階、要続報）。"
+      },
+      {
+        "id": "20260918-old-durace-clearance",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/07/Shimano-Dura-Ace-WH-R9370-July-2026-1024x683.jpg",
+        "headline": "【経営メモ・市場】新デュラホイール上陸で『旧型が大量特価』——旧C50が定価43万→27万円台の実例、秋の在庫入れ替えが本番",
+        "layer1": "WH-R9370の発売（9/17）に合わせ、量販店で旧デュラエース・ホイール（WH-R9270系）の処分特価が加速。旧C50が定価431,713円→276,000円前後という実売例も出ている。",
+        "layer2": "経営目線の要点：①秋は“新型発表→旧型処分”の型落ち二層化が最も進む時期で、10〜11月にかけ値引きは深くなる。②シマノは8/1に価格改定（値上げ）済み＝旧在庫の“相対的お得感”がさらに際立つ。③客の財布は限られる——高価な新デュラを押すより『旧デュラ特価 か 中華カーボンスポーク（半額圏）』の二択提示が刺さる。うちは後者で“同軽量・保証付き・即納”を武器にできる。値引き合戦に飲まれず、粗利の取れる中華ハイエンドへ自然に誘導したい。",
+        "sources": [
+          {
+            "t": "Y's Road店舗ブログ（旧デュラ特価）",
+            "u": "https://ysroad.co.jp/nagoya/2026/08/17/196237",
+            "d": "2026-08-17"
+          },
+          {
+            "t": "シマノ《公式》価格改定のお知らせ（8/1〜）",
+            "u": "https://shop-jp.shimano.com/blogs/news/price_update",
+            "d": "2026-08-01"
+          }
+        ],
+        "status": "確定＝旧型処分特価は進行中・8/1値上げ。曖昧＝個別価格は店舗/時期で変動。"
+      },
+      {
+        "id": "20260918-13soku-buy-hesitation",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/05/2026-Hunt-4AM-Limitless-Steel-Spoke-riding-1024x683.jpeg",
+        "headline": "【経営メモ・市場・Xで話題】13速リークで『今組むと即・型落ち』の買い控えムード——中華の“相対お得感”が受け皿に",
+        "layer1": "新デュラ13速R9300のリークが続き、Xでは『今12速フルで新調すると数ヶ月で型落ち＆ホイール非互換かも』という買い控えの声。秋の買い手市場（2027モデル発表→値引き）とも重なっている。",
+        "layer2": "経営インパクト：①ハイエンド12速コンポ/ホイールの“新品定価売り”は当面鈍る前提で在庫は軽めに。②迷う客の受け皿は『中華カーボン（ホイール/フレーム）＋現行12速を賢く』——13速の互換不安が、現行フリーボディ対応の中華ホイールを選ぶ後押しになりうる。③“買い替え動機は変速段数よりパワメ精度”という声もあり、乗り換えを急がせない誠実な説明が信頼を生む。うちは『今は無理に最上位を買わず、13速の全貌が出るまで中華ハイエンドで賢く待つ』提案で、顧客満足と粗利を両立できる。",
+        "sources": [
+          {
+            "t": "Bike News Mag（R9300リーク）",
+            "u": "https://bikenewsmag.com/2026/09/11/shimano-dura-ace-r9300-leak-points-to-13-speed-direct-mount-chainrings-and-a-new-power-meter/",
+            "d": "2026-09-11"
+          },
+          {
+            "t": "サイクルリサーチャー（R9300の噂考察）",
+            "u": "https://cycleresearcher.com/r9300-shimano_new_component/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "曖昧＝“買い控え”は定性観測（※Xで話題、要裏取り）。確定＝13速リークの存在・8/1値上げ・秋の値引き局面。"
+      },
+      {
+        "id": "20260918-12v13-buy-timing",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://pub-f154438dceef491ba243fbee53912d51.r2.dev/2026/07/682846-DURA-ACE-WH-R9370-Series_All-wheels_Horizontal_1920x1080px-a38595-original-1781853537.jpg",
+        "headline": "【初中級】『12速で今組むか、13速R9300を待つか』——外さない判断3点",
+        "layer1": "新デュラ13速のリークで、初中級者に多い悩みが再燃：今ハイエンドで組むべきか、待つべきか。",
+        "layer2": "外さない3点：①“待ち”の代償を見る——R9300は正式発表すら未（有力説で2026後半〜27前半）、発売後も供給・価格が落ち着くまで半年〜1年。待つほど自転車に乗れない時間が増える。②互換不安の実像——13速で新フリーボディなら“手持ち12速ホイールが使えなくなる”懸念は現実的。だが現行12速（アルテグラ/105含む）は当面現役で部品も潤沢、いま組んでも数年は戦える。③賢い中間解——フレーム/ホイールに投資し、コンポは現行12速 か 中華電動で“今”走り出す。ホイールは中華カーボンスポーク（現行フリーボディ対応・軽量・半額圏）が費用対効果◎。『段数』より『今乗れる楽しさ』を優先するのが失敗しない。",
+        "sources": [
+          {
+            "t": "Bike News Mag（R9300リーク）",
+            "u": "https://bikenewsmag.com/2026/09/11/shimano-dura-ace-r9300-leak-points-to-13-speed-direct-mount-chainrings-and-a-new-power-meter/",
+            "d": "2026-09-11"
+          },
+          {
+            "t": "サイクルリサーチャー（R9300考察）",
+            "u": "https://cycleresearcher.com/r9300-shimano_new_component/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝現行12速は当面現役。曖昧＝R9300の時期/互換は未確定（※リーク段階）。"
+      },
+      {
+        "id": "20260918-low-pressure-standard",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/05/2026-Hunt-4AM-Limitless-Steel-Spoke-riding-1024x683.jpeg",
+        "headline": "【初中級】『空気圧は高いほど速い』はもう古い——ワイド化×チューブレス×フックレスで“低圧が新常識”",
+        "layer1": "「7bar・8barが当たり前」だったロードの空気圧は、28〜30Cのワイドタイヤ、チューブレス、リムのワイド化＆フックレス普及で、はっきり“低圧寄り”へ標準が移った。",
+        "layer2": "外さない3点：①低圧のメリット＝路面の凹凸を吸収するぶん“ある閾値以下”はむしろ速く、乗り心地とグリップも向上。適正は体重・タイヤ幅で変わる（例：70kg級＋28Cチューブレスで前4.5〜5.0/後5.0〜5.5bar目安、必ず自分で微調整）。②フックレスの落とし穴＝対応タイヤ限定＆“最大空気圧の上限”が低い。中華カーボン（フックレスが多い）を選ぶなら『対応タイヤ表と上限空気圧』を必ず確認。③チューブレスは低圧でもリム打ちパンクしにくいのが利点だが、シーラント管理は必須。数字を鵜呑みにせず“自分の体重・幅・路面”で詰めるのが正解。",
+        "sources": [
+          {
+            "t": "サイクルショップブログ（適正空気圧）",
+            "u": "https://cycleshopendo.com/shop/260914_tirepressure.html",
+            "d": "2026-09-14"
+          },
+          {
+            "t": "Bicycle Club（7barは高すぎ検証）",
+            "u": "https://www.funq.jp/bicycle-club/article/675507/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝低圧化のトレンド・フックレスの制約。曖昧＝適正値は個人差が大きい（目安は要自己調整）。"
+      },
+      {
+        "id": "20260918-transfers-2027",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Felix_Gall_2025.jpg/500px-Felix_Gall_2025.jpg",
+        "headline": "【移籍・トレンド】2027商戦が大詰め——ガルがリドル・トレックへ、20歳AJオーガストがピナレロQ36.5、モラーノはロットへ",
+        "layer1": "世界選ウィークの裏で2027シーズンの移籍が続々確定。クライマーのフェリックス・ガルがリドル・トレックへ、スプリンターのモラーノがUAEを8季で離れロット・インターマルシェへ、20歳AJオーガストがイネオス系からピナレロQ36.5へ。",
+        "layer2": "潮流は“若手の抜擢”と“ベテランの最後の移籍”が同居。ガルはGC強化を狙うリドル・トレック行きで、チーム内の序列が焦点。アスグリーンはNSN、スロックはバーレーンと決定済み、ログリッチのロット移籍説は世界選後へ持ち越し。“オフに約200人が動く”大商戦で、機材（バイク/コンポ供給）も来季こう変わる、という視点でショップは棚とインプレを更新したい。",
+        "sources": [
+          {
+            "t": "Cycling Weekly（2027移籍まとめ）",
+            "u": "https://www.cyclingweekly.com/racing/all-the-pro-cycling-transfers-for-2027",
+            "d": "2026-09"
+          },
+          {
+            "t": "IDL ProCycling（確定移籍一覧）",
+            "u": "https://www.idlprocycling.com/cycling/cycling-transfers-20262027-every-confirmed-move-so-far",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝ガル/モラーノ/オーガスト等の移籍。曖昧＝ログリッチ等一部は未確定（※交渉段階）。"
+      }
+    ]
+  },
+  {
     "date": "2026-09-17",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。世界選（9/20開幕）ウィーク本番——日曜の女子TTでロイサーが『誕生日連覇』に挑み、ピドコックは前人未到のMTB×ロード二冠へ、ロード本命は22歳デルトロ。機材はコロンバスのカーボン参入で『中華の価格優位』が際立ち、国内は秋の買い手市場とチューブレスの基礎も添えました。",
     "cards": [
