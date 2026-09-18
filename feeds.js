@@ -1,5 +1,256 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-09-19",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。今日の主役はシマノ——ロード用ペダルを23年ぶりに刷新した新規格『SPD-SLR』が9/17発表、旧SPD-SLと互換なしで店頭は早くも買い替え論争に。そして明日9/20、モントリオール世界選の個人TTがついに開幕。エヴェネプールが史上初の男子TT『4連覇』へ挑みます。",
+    "cards": [
+      {
+        "id": "20260919-shimano-spd-slr",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/7oNgNyPjtTHMvmZWVQ5PYN-2560-80.jpg",
+        "headline": "【🔥今日の一本・パーツ】シマノが『SPD-SLR』発表——ロード用ペダルを23年ぶり全面刷新、スタック-2.3mm・着脱角10.5°、旧SPD-SLと互換なし",
+        "layer1": "9/17、シマノがシューズ・ペダル・クリートを一体開発した新ロードシステム『SPD-SLR』を発表。デュラエースPD-R9300(ペア227g・定価4万1,787円〜)とアルテグラPD-R8200(2万6,131円〜)、新S-PHYREシューズ、クリート4種を同時展開。既存SPD-SLとの互換性はない。",
+        "layer2": "先回り——「何が変わる?」。①低スタック:靴とペダル軸の距離を2.3mm短縮＝より直接的な踏力伝達。②着脱角(クリップイン角)を15.5°→10.5°に狭め、はめる動作が速く確実に。③クリートは固定CL-SL100(赤/フロート0°)・CL-SL110(黄/6°)・CL-SL120(青/2°)・前後調整CL-SL130(灰)の4種、青は71→55gと最大22%軽量。要注意は互換性——新クリートは旧ペダルに、旧クリートは新ペダルに付かない。そして『なぜ今か』:13速デュラエースR9300の実物が夏のブエルタで実戦投入されており、ペダル・シューズ刷新はその新世代エコシステムの地固めと読める(R9300自体は公式未発表・※要裏取り)。",
+        "sources": [
+          {
+            "t": "cyclowired",
+            "u": "https://www.cyclowired.jp/news/node/393383",
+            "d": "2026-09-17"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/pedals/shimano-releases-new-spd-slr-pedal-and-cleat-system-in-first-shift-from-spd-sl-in-20-years/",
+            "d": "2026-09-17"
+          },
+          {
+            "t": "マイナビニュース",
+            "u": "https://news.mynavi.jp/article/20260917-4978171/",
+            "d": "2026-09-17"
+          }
+        ],
+        "status": "確定＝SPD-SLR発表・仕様・価格・旧SPD-SLと互換なし(シマノ公式/主要媒体)。曖昧＝R9300 13速との同時展開戦略は推測、公式は未発表※要裏取り。"
+      },
+      {
+        "id": "20260919-worlds-itt-men",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/biHbJgWBRRbThEUHoApnRT-2560-80.jpg",
+        "headline": "【レース・世界選TT】男子個人TTは日曜9/20開幕——エヴェネプールが史上初『4連覇』へ、最大の敵はガンナ。39.2km・登り220mの高速コース",
+        "layer1": "モントリオール世界選は9/20の男女個人TTで開幕。男子は61人が出走、39.2km/獲得220m。エヴェネプールが3連覇中で、勝てば男子TT『4連覇』は史上初(通算4勝でカンチェラーラ／T.マルティンに並ぶ)。",
+        "layer2": "先回り——決着点は最後の『400m・6.1%』の上り。中間はほぼ平坦の高速レイアウトで、対抗最有力はガンナ(2023年12秒差・2024年6秒差の僅差負け)。エヴェネプールは今季TT3戦3勝(バレンシア／UAE／ツール)。観戦の目安(JST換算):女子は現地9:00＝22:00頃、男子は現地12:45＝翌1:45頃と、北米開催で夜〜未明が見やすい。平坦高速はスペシャリスト向きで番狂わせは少ない見込み。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/remco-evenepoel-filippo-ganna-and-the-rest-analysing-the-contenders-for-the-elite-mens-time-trial-at-the-world-championships/",
+            "d": "2026-09-18"
+          },
+          {
+            "t": "Domestique",
+            "u": "https://www.domestiquecycling.com/en/news/world-championships-itt-preview-evenepoel-chases-a-fourth-straight-title-in-montreal/",
+            "d": "2026-09-18"
+          }
+        ],
+        "status": "確定＝日程・距離・出走人数・エヴェネプールの記録挑戦・過去のガンナとの差。曖昧＝勝敗予想。JST時刻は現地時間からの概算換算。"
+      },
+      {
+        "id": "20260919-usa-sheehan",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/D5pmRExMFwzuBfiiXqN4cj-2000-80.jpg",
+        "headline": "【人間ドラマ・Xでも話題】米国が土壇場の選手交代——パウレスが病気で世界選ロード欠場、『勝ってる選手を外すな』とXで漏らしたシーハンが代役に",
+        "layer1": "9/18、米国はニールソン・パウレスが病気で世界選ロード(9/27)を欠場し、代役にNSNプロサイクリングのライリー・シーハン(26)を招集と発表した。",
+        "layer2": "ドラマの核——シーハンは当初のメンバー発表で落選し、Xで『勝ってる選手を外すなよ…』と不満を投稿していた当人。今季はワロニー一周＆ツアー・オブ・チェコ区間勝利、フィラデルフィア・クラシック4位と好調で、皮肉にも土壇場で虹の舞台への切符を掴んだ。X発の不満→まさかの繰り上げ選出、という筋書きが刺さる。裏取り:交代・病気理由・シーハンの過去のX投稿はサイクリングウィークリー／ドメスティークが報道。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/road-world-championships/neilson-powless-to-miss-worlds-riley-sheehan-steps-in-as-his-replacement",
+            "d": "2026-09-18"
+          },
+          {
+            "t": "Domestique",
+            "u": "https://www.domestiquecycling.com/en/news/usa-forced-into-late-worlds-change-after-neilson-powless-withdrawal/",
+            "d": "2026-09-18"
+          }
+        ],
+        "status": "確定＝パウレス欠場(病気)・シーハン招集・過去のX投稿(主要媒体報道)。曖昧＝本人の心境は報道ベース。"
+      },
+      {
+        "id": "20260919-market-spdsl-switch",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/09/Shimano-introduces-SPD-SLR-clipless-pedal-system-Sept-2026.jpg",
+        "headline": "【経営メモ・市場・Xで話題】SPD-SLR登場で『手持ちのクリート・ペダル資産が型落ち?』——互換なしで買い替え論争、店頭は2規格併売へ",
+        "layer1": "SPD-SLRが旧SPD-SLと非互換のため、日本のローディーの間で『今のペダル・クリート・シューズはどうなる』の声。ワイズロード各店はPD-R9300入荷を告知しつつ『SPD-SLRクリートと従来SPD-SLペダルは互換なし』と注意喚起している(9/18)。",
+        "layer2": "ショップ視点——当面はSPD-SLも併売継続で、既存ユーザーが即困ることはない(ペダル・クリートの供給は続く)。ただし新規購入・買い替え層には『どちらの規格で組むか』の説明が必須に。経営メモ:①消耗品クリート(4種)の在庫を新旧両方持つ必要が出る、②新S-PHYREの新ラストは試着提案が来店動機になる、③『まだSPD-SLで十分』の見極めを丁寧に示せる店が信頼を得る。焦って旧規格を全否定せず、旧型の値ごろ在庫と新規格の性能を両にらみで売るのが得策。",
+        "sources": [
+          {
+            "t": "Y's Road 新宿(入荷告知)",
+            "u": "https://ysroad.co.jp/shinjuku/2026/09/18/213566",
+            "d": "2026-09-18"
+          },
+          {
+            "t": "Y's Road 大阪(入荷告知)",
+            "u": "https://ysroad.co.jp/osaka/2026/09/18/266838",
+            "d": "2026-09-18"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/pedals/shimano-releases-new-spd-slr-pedal-and-cleat-system-in-first-shift-from-spd-sl-in-20-years/",
+            "d": "2026-09-17"
+          }
+        ],
+        "status": "確定＝互換性なし・国内店頭入荷・注意喚起。曖昧＝買い替え論争の『規模』はXの体感ベース※要裏取り。"
+      },
+      {
+        "id": "20260919-beginner-binding",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://news.mynavi.jp/article/20260917-4978171/ogp_images/ogp.jpg",
+        "headline": "【初中級】『SPD-SLはもう終わり?』——新SPD-SLR登場でも慌てない、ビンディング選びの外さない3点",
+        "layer1": "シマノの新SPD-SLRを受け、『今持ってる／これから買うビンディングはどうすべき』と不安な初中級者向けに、慌てないための判断を整理する。",
+        "layer2": "外さない3点。①SPD-SLは併売継続——既存ユーザーはクリート・ペダルの供給が続くので今すぐ買い替え不要。②新規で始めるなら——SPD-SLRは『新シューズ＋新クリート＋新ペダル』の3点セットで本領を発揮。旧シューズに新ペダルなどの単品混在は非互換に注意。③迷ったら今はSPD-SLでも十分——20年以上の実績で対応シューズも安く豊富。フロート角(赤0°/黄6°/青2°)は膝の遊びの好みで選ぶ考え方で、ここは新旧共通。初回は『固定力より着脱のしやすさ』を優先すると立ちゴケを防げる。",
+        "sources": [
+          {
+            "t": "マイナビニュース",
+            "u": "https://news.mynavi.jp/article/20260917-4978171/",
+            "d": "2026-09-17"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/pedals/shimano-releases-new-spd-slr-pedal-and-cleat-system-in-first-shift-from-spd-sl-in-20-years/",
+            "d": "2026-09-17"
+          }
+        ],
+        "status": "確定＝併売継続・3点セット設計・フロート角の考え方。曖昧＝足やペダルの相性は試着推奨。"
+      },
+      {
+        "id": "20260919-worlds-storylines",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00037191-219.jpg?width=2400&height=1260&quality=75&crop=2000,1050,0,141",
+        "headline": "【トレンド・展望】ポガチャル不在で虹は大混戦——TTはレムコ4連覇に注目、混合リレー(9/22)は王者オーストラリアが『主力欠け』で連覇に黄信号",
+        "layer1": "9/20のTTから9/27男子ロードまで続く世界選週。ディフェンディング王者ポガチャルはブエルタ落車で今季終了・不在、男子ロードはレムコ／ファンデルプール／ファンアールト／デルトロ／セイシャスの『5つ星』が乱立する。",
+        "layer2": "先回り——見どころは3つ。①TT:レムコが史上初の男子TT4連覇に加え『TT・ロード2冠』も狙う。②混合リレーTTT(9/22・40.6km):2連覇中の豪州がジェイ・ヴァインの病欠・チャップマンの辞退・プラップ非選出で王座メンバーが崩れ、仏／伊(ガンナ＋グアッツィーニ)／スイスが台頭。③男子ロード(9/27・273.7km/3,803m/12周):モンロワイヤルの激坂を12回登る消耗戦で平坦スペシャリストは残れない。ポガ不在の今年は『近年で最も読めない』世界選との評。",
+        "sources": [
+          {
+            "t": "Domestique(見どころ特集)",
+            "u": "https://www.domestiquecycling.com/en/news/storylines-to-watch-at-the-montreal-2026-world-championships-from-evenepoel-to-vollering/",
+            "d": "2026-09-18"
+          },
+          {
+            "t": "ProCyclingUK(混合リレー)",
+            "u": "https://procyclinguk.com/world-championships-2026-mixed-relay-explained-format-route-teams-and-contenders/",
+            "d": "2026-09-16"
+          }
+        ],
+        "status": "確定＝日程・ポガ不在・豪州の主力欠け・コース諸元。曖昧＝各種目の勝敗予想。"
+      },
+      {
+        "id": "20260919-tt-wheels-deep",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2025/Historial-images/CORVOS_00036940-089.jpg?width=2400&height=1260&quality=75&crop=1198,629,0,85",
+        "headline": "【ホイール・機材読み】世界選TT(9/20)は『ディープ×ディスク』の独壇場——平坦39.2kmでエアロが物を言う、うちの中華ディープの狙い目",
+        "layer1": "世界選個人TTは登り220mだけの平坦高速コース(39.2km)。トップTT勢は後輪ディスク＋前輪の超ディープというフルエアロ仕様で臨むのが定石になる。",
+        "layer2": "先回り——なぜ平坦TTでディープ／ディスクか:高速域(50km/h前後)では空気抵抗が支配的で、リム高が深いほど整流効果が大きい。ただし横風時の操作性とのトレードオフで、当日の風がセッティングを左右する。ホビー層への着地:フルディスクは非現実的でも、前後50〜60mmの中華カーボンディープなら『TTっぽい速さ』を数万円台で体感できる。うちの取扱(8LIEN／CRW／FARSPORTSなど)の深リムは、平坦・巡航重視やトライアスロン入門にちょうど良い価格帯。世界選を見て『速いホイールが欲しい』となった客の受け皿になる。",
+        "sources": [
+          {
+            "t": "Cyclingnews(男子TTプレビュー)",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/remco-evenepoel-filippo-ganna-and-the-rest-analysing-the-contenders-for-the-elite-mens-time-trial-at-the-world-championships/",
+            "d": "2026-09-18"
+          },
+          {
+            "t": "Domestique(TTプレビュー)",
+            "u": "https://www.domestiquecycling.com/en/news/world-championships-itt-preview-evenepoel-chases-a-fourth-straight-title-in-montreal/",
+            "d": "2026-09-18"
+          }
+        ],
+        "status": "確定＝コース諸元・平坦TTのエアロ機材の一般論。曖昧＝各選手の当日セッティングは未確定。中華ディープの推奨は編集判断。"
+      },
+      {
+        "id": "20260919-market-sphyre",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/jEDihrMkYD3sLQrDv9qqgL-1920-80.jpg",
+        "headline": "【経営メモ・市場】新S-PHYRE『SH-RC910』も同時発売——新ラスト＋カーボンホローコアで、シューズ買い替え＆試着来店の秋需要",
+        "layer1": "SPD-SLRと同時に、フラッグシップシューズ新S-PHYRE SH-RC910が登場。新設計ミッドソール『カーボンホローコア』、ねじれを抑えるカーボンヒールカップ、通気改良、新ラスト『DYNALAST 2.0』を採用する。",
+        "layer2": "ショップ経営の視点——シューズは『試着必須』の商材で、新ラスト採用は既存S-PHYREユーザーにも『足型が合うか試したい』動機を生む＝来店フックになる。①新規格の性能は新シューズ前提なので、SPD-SLR訴求とシューズ販売はセットで提案する。②旧S-PHYREや対応シューズはSPD-SL併売で在庫消化を続けつつ、上位客に新型の試着導線を引く。③秋は決算・型落ち処分と重なるので、シューズを『新型フル価格』と『旧型値ごろ』の二層で見せると客単価と在庫回転を両取りできる。",
+        "sources": [
+          {
+            "t": "Cycling Weekly(SPD-SLR/S-PHYRE)",
+            "u": "https://www.cyclingweekly.com/products/shimano-introduces-spd-slr-with-a-new-low-stack-pedal-cleat-and-shoe-system",
+            "d": "2026-09-17"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/pedals/shimano-releases-new-spd-slr-pedal-and-cleat-system-in-first-shift-from-spd-sl-in-20-years/",
+            "d": "2026-09-17"
+          }
+        ],
+        "status": "確定＝新S-PHYRE仕様・SPD-SLRと同時発売。曖昧＝国内の買い替え需要規模はこれから※要裏取り。"
+      },
+      {
+        "id": "20260919-worlds-itt-women",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039219-167.jpg?width=2400&height=1260&quality=75&crop=2000,1050,0,84",
+        "headline": "【レース・女子TT】女子個人TTも9/20開幕——王者ロイサーが平坦コースで連覇本命、フォレリング＆ベックステッドが挑む",
+        "layer1": "女子エリート個人TT(53人・39.2km)は男子と同日9/20に開催。昨年ルワンダで登り主体のコースを制した王者マルレン・ロイサーが、今年の平坦高速コースで連覇本命に立つ。",
+        "layer2": "先回り——なぜロイサー本命か:昨年は不利な登坂コースでも勝ち、今年の平坦39.2km/220mは彼女の巡航型に理想的。対抗はゾーイ・ベックステッドとデミ・フォレリング。今季ツール・ド・フランス・ファムのTTではロイサーがフォレリングに18秒、ベックステッドに20秒差で先着しており、平坦での地力差がそのまま出れば連覇が濃厚。地元開催で表彰台候補は病気・故障の影響も少なく、実力どおりの決着が見込まれる。",
+        "sources": [
+          {
+            "t": "Domestique(女子TTプレビュー)",
+            "u": "https://www.domestiquecycling.com/en/news/2026-world-championships-itt-womens-preview-can-reusser-defend-her-title/",
+            "d": "2026-09-18"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/marlen-reusser-or-demi-vollering-can-anyone-challenge-the-two-favourites-in-the-world-championships-elite-womens-time-trial/",
+            "d": "2026-09-18"
+          }
+        ],
+        "status": "確定＝日程・距離・出走人数・ロイサーの位置づけ・TdFFでのタイム差。曖昧＝勝敗予想。"
+      },
+      {
+        "id": "20260919-beginner-chinese-deep",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://innertop.com/wp-content/uploads/2018/10/chinesecarbonwheels.png",
+        "headline": "【初中級】世界選TTの『ディープ』に憧れたら——初めての中華カーボン・ディープで外さない選び方3点",
+        "layer1": "世界選TTのエアロホイールを見て『深いリムに乗ってみたい』となった初中級者向けに、初めての中華カーボン・ディープで失敗しない要点を整理する。",
+        "layer2": "外さない3点。①リム高は40〜50mmから——60mm超は横風でハンドルを取られやすく、初めては40〜50mmが扱いやすく速さも体感できる。②内幅とタイヤの相性——近年の中華ディープは内幅21〜23mmが主流で、28Cチューブレスと組めば低圧・快適・転がり良好。フックレスは指定空気圧の上限(多くは5bar前後)を必ず守る。③保証・実測重量・対応ブレーキを確認——直販でも初期不良対応や実測重量を公表するブランドを選ぶ。うちの取扱なら価格と保証のバランスで相談を。『プレミアムは€3,999』の時代に、半額圏で同等スペックが狙える。",
+        "sources": [
+          {
+            "t": "Cyclingnews(世界選TTプレビュー/きっかけ)",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/remco-evenepoel-filippo-ganna-and-the-rest-analysing-the-contenders-for-the-elite-mens-time-trial-at-the-world-championships/",
+            "d": "2026-09-18"
+          }
+        ],
+        "status": "確定＝ディープの一般的な選び方・フックレスの空気圧注意。曖昧＝ブランド個別スペックは購入前に要確認。選び方は編集の一般解説。"
+      }
+    ]
+  },
+  {
     "date": "2026-09-18",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。世界選モントリオールはいよいよ日曜9/20のTTで開幕——エヴェネプールが史上初の『4連覇』へ、対抗馬は病気・故障で目減り。ロードは9/27、ポガチャル不在で本命が割れています。機材は新型デュラエースホイールが昨日9/17に国内発売、旧型は特価へ。今日も鮮度優先でいきます。",
     "cards": [
