@@ -1,5 +1,284 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-09-20",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。今日はいよいよ世界選手権モントリオールの個人TTが本日開幕——エヴェネプールが史上初の男子TT『4連覇』へ、平坦39.2kmの高速コースはガンナ有利との声も。機材面ではシマノ新型『SPD-SLR』の実走レビューが海外で出そろい、『実測は軽くない・クリート前後調整がほぼ不可』と評価が割れています。",
+    "cards": [
+      {
+        "id": "20260920-worlds-itt-men",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/biHbJgWBRRbThEUHoApnRT-2560-80.jpg",
+        "headline": "【🔥今日の一本・レース】世界選 男子個人TTは本日決戦——エヴェネプールが史上初『4連覇』へ、最大の敵はガンナ。39.2km・登り220mの高速コース",
+        "layer1": "世界選手権モントリオールは本日9/20、男女エリートの個人TTで開幕。男子はエヴェネプール（ベルギー）が過去3連覇中で、勝てば男子TT史上初の『4連覇』。今季はバレンシア・UAEツアー・ツール・ド・フランスとITT3戦3勝で乗り込む。",
+        "layer2": "先回り——「本当にレムコで堅いのか」。コースは39.2kmで2022年以降『最短』、獲得標高わずか220mで『歴代屈指の平坦・高速』。セントローレンス川沿いのサーキット・ジル・ヴィルヌーヴを含む往復路は持続エアロパワーが物を言うレイアウトで、Cyclingnewsは『220mしか登らないコースでは、ガンナが最も明白な脅威』と分析。今季ジロの42km個人TTを約2分差で制したガンナ、キュング、若手セーデルクヴィストらが対抗。ゴール前は約400m・6.1%の登りで、ここで差がひっくり返る可能性も残る。",
+        "sources": [
+          {
+            "t": "Cyclingnews（コンテンダー分析）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/remco-evenepoel-filippo-ganna-and-the-rest-analysing-the-contenders-for-the-elite-mens-time-trial-at-the-world-championships/",
+            "d": "2026-09-18"
+          },
+          {
+            "t": "Rouleur（TTプレビュー）",
+            "u": "https://www.rouleur.cc/racing/world-championships-2026-mens-time-trial-preview-montreal",
+            "d": "2026-09-18"
+          }
+        ],
+        "status": "確定＝本日9/20開幕・39.2km/220m・レムコ今季ITT3戦3勝。曖昧＝勝者は本稿執筆時点で未確定（レースはモントリオール午後スタート＝日本時間9/21未明）。"
+      },
+      {
+        "id": "20260920-worlds-itt-women",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.brujulabike.com/media/198275/conversions/a84c57e3-d8cb-4010-a956-f4919e681a9e-1240.jpg",
+        "headline": "【レース・女子】女子個人TTも本日開幕——王者ロイサー（リューサー）が平坦コースで連覇本命、19歳バックステッドがエリート世界選デビュー",
+        "layer1": "女子エリート個人TTも本日9/20実施。昨年の覇者マーレン・ロイサー（スイス）が連覇本命で、今季はツール・ド・スイス・ウィメンとツール・ド・フランス・ファムでITTを制して好調。対抗は同スイス2位のゾーイ・バックステッド、返り咲きを狙う前回銅のデミ・フォレリング。",
+        "layer2": "先回り——「バックステッドって誰」。父は元プロで2004年パリ〜ルーベ覇者マグナス・バックステッド。娘のゾーイ（19）は今季ツール・ド・スイスでロイサーに次ぐ2位に入り、今回が『エリート世界選デビュー』の大器。平坦高速コースはパワー型に向き、若手の台頭が起きやすい舞台。フォレリングは登り主体のレースで真価を発揮する選手だけに、この平坦TTでどこまで詰められるかが見どころ。",
+        "sources": [
+          {
+            "t": "Domestique（TTスタートリスト）",
+            "u": "https://www.domestiquecycling.com/en/news/2026-worlds-itts-startlist-evenepoel-and-reusser-lead-the-fields-in-montreal/",
+            "d": "2026-09-18"
+          },
+          {
+            "t": "Brujula Bike（TTプレビュー）",
+            "u": "https://en.brujulabike.com/2026-time-trial-world-championships-route-schedule-free-links-to-watch-and-favourites-for-this-sunday-in-montreal/",
+            "d": "2026-09-18"
+          }
+        ],
+        "status": "確定＝本日9/20実施・ロイサー連覇本命・バックステッドがエリート世界選デビュー。曖昧＝勝者は執筆時点で未確定。"
+      },
+      {
+        "id": "20260920-spdslr-review",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/a2e8aca4-c0e3-4ec6-8fbf-911d83221edc/thumbnails/e70daec1-2803-4f06-aa09-a76e59b1cac0.jpg?appId=32337f2f-7841-4ef6-a233-d1f001580530&platform=WEB&w=1200",
+        "headline": "【パーツ・続報】シマノ『SPD-SLR』実走レビュー出そろう——低スタックの一体感は好評、だが『実測は軽くない・クリート前後調整ほぼ不可』の妥協も",
+        "layer1": "9/17発表の新ロードペダル『SPD-SLR』について、BikeRadar・road.cc・GPLamaら海外メディアの実走レビューが一斉公開。低スタック（-2.3mm）による『地面との一体感』と着脱の軽さは高評価だが、重量とクリート調整幅で辛口の指摘が出ている。",
+        "layer2": "先回り——「結局、乗り換える価値は?」。①重量：クリート＋金具はシマノ公称で71g→55gに軽量化だが、BikeRadar実測ではペダル単体228.3g・システム合計283.3gで旧デュラエースPD-R9100より『ほぼ変わらない〜わずかに重い』。②最大の妥協：クリートの『前後（fore-aft）調整幅がほぼ廃止』され、ポジションは新S-PHYREシューズ側で合わせる前提。手持ちシューズだと理想位置に置けない恐れ。③旧SPD-SLとは非互換。『踏み心地は良い、でも自分でセッティングを詰める人ほど要注意』が総括。",
+        "sources": [
+          {
+            "t": "BikeRadar（PD-R9300 レビュー）",
+            "u": "https://www.bikeradar.com/reviews/components/pedals/shimano-dura-ace-pd-r9300-spd-slr-pedals",
+            "d": "2026-09-17"
+          },
+          {
+            "t": "GPLama（互換性検証）",
+            "u": "https://gplama.com/2026/09/17/shimanos-new-spd-slr-pedals-are-a-compatibility-nightmare/",
+            "d": "2026-09-17"
+          }
+        ],
+        "status": "確定＝各社レビュー公開・BikeRadar実測283.3g・前後調整幅ほぼ廃止。曖昧＝体感の良否は個人差、シューズ適合は要試着。"
+      },
+      {
+        "id": "20260920-spdslr-x-debate",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://blog.cbnanashi.net/wp-content/uploads/2026/09/t2-1.jpg",
+        "headline": "【経営メモ・市場・Xでも議論】『SPD-SLRに乗り換える?』海外掲示板が沸騰——“SPD-SLの特許切れでコピー品対策説”も、日本のローディーも様子見",
+        "layer1": "SPD-SLRの『旧SPD-SLと非互換』を巡り、海外フォーラム（Reddit/Weight Weenies等）とXで『高い金を出して総入れ替えする価値があるか』の論争が過熱。日本語メディアCBNもこの掲示板の空気を紹介し、コメントは様子見・懐疑が優勢。",
+        "layer2": "先回り——「なぜ今、互換を切ったのか」。掲示板で有力な見立ては『SPD-SLの特許が切れ、市場に安価なコピークリート／ペダルが出始めた。だから新規格SPD-SLRで“純正しか使えない”世界に囲い直した』という商業的な読み。真偽は公式未言及で断定はできない（※要裏取り）。経営的含意＝当面は買い替え特需より“様子見”が主流。店としては『無理に勧めない・既存SPD-SLも普通に使える』と伝えるのが信頼につながる。中華ペダル/クリートの互換問題（コピー品）は今後の相談増ポイント。",
+        "sources": [
+          {
+            "t": "CBN Blog（海外掲示板の反応）",
+            "u": "https://blog.cbnanashi.net/2026/09/27972",
+            "d": "2026-09"
+          },
+          {
+            "t": "cyclowired（SPD-SLR発表・価格）",
+            "u": "https://www.cyclowired.jp/news/node/393383",
+            "d": "2026-09-17"
+          }
+        ],
+        "status": "確定＝互換なし・掲示板/Xで論争。曖昧＝『特許切れコピー品対策説』は掲示板の推測で公式未確認＝※要裏取り。"
+      },
+      {
+        "id": "20260920-spdslr-shop",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://ysroad.co.jp/hiroshima/wp-content/uploads/2026/09/img_4799.jpg",
+        "headline": "【経営メモ・市場】SPD-SLRが早くも店頭入荷（9/18〜）——現場は『2規格併売』体制へ、旧SPD-SL在庫と試着導線をどう組むか",
+        "layer1": "ワイズロード各店など専門店が9/18〜19にSPD-SLR関連（ペダル・シューズ・クリート）の入荷を告知。当面はSPD-SLと併売となり、店頭は『新旧2規格をどう見せ、どう在庫を回すか』という実務フェーズに入った。",
+        "layer2": "先回り——「うち（ショップ）はどう構えるか」。①在庫：旧SPD-SLは非互換ゆえ即・不良在庫化はしないが、新規客の主流が徐々にSPD-SLRへ移る前提で発注を絞る。②試着導線：SPD-SLRはクリート前後調整が乏しく“シューズ側で合わせる”設計＝『試着必須』。ここは実店舗の強み（EC直販の中華・海外品では詰めにくい）で、来店動機に変えられる。③価格：デュラPD-R9300ペア227g・4万円台〜、アルテグラPD-R8200・2万6千円台〜。まずはアルテ級の“体験用”試し履きから提案するのが現実的。",
+        "sources": [
+          {
+            "t": "Y's Road フジグラン広島（入荷告知）",
+            "u": "https://ysroad.co.jp/hiroshima/2026/09/19/260545",
+            "d": "2026-09-19"
+          },
+          {
+            "t": "Y's Road 池袋本館（入荷告知）",
+            "u": "https://ysroad.co.jp/ikebukuro/2026/09/18/170376",
+            "d": "2026-09-18"
+          }
+        ],
+        "status": "確定＝9/18〜店頭入荷・2規格併売・SPD-SLRは試着前提。曖昧＝各店在庫・価格は店舗差あり。"
+      },
+      {
+        "id": "20260920-canyon-tt-fork",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/70cda0d2-8d7b-4ae3-ad35-721449e16eaa/thumbnails/8975540f-01de-437d-be2f-8494069e4351.jpg?appId=32337f2f-7841-4ef6-a233-d1f001580530&platform=WEB&w=1200",
+        "headline": "【トレンド・機材リーク】キャノンデール…ならぬキャニオンの未発表TTバイクがWorlds前に激写——『ワイドスタンス＋デュアルクラウンフォーク』で前言撤回",
+        "layer1": "世界選TTを前に、キャニオンの未発表『スピードマックス』新型が現地で撮影された。特徴は左右に張り出した“ワイドスタンス”と、英国チームのHope HB.Tを思わせる『デュアルクラウン（二段支持）フォーク』。TTバイクのフォーク設計トレンドが動いている。",
+        "layer2": "先回り——「何がそんなに意外か」。キャニオンは2023年のSpeedmax CFR Track発表時、ワイドフォークを『必要性が見出せない』と明確に否定し、“細いフォーク＋広いシートステー”路線を採っていた。今回の激写はその『前言撤回』にあたり、UCIが認めた新レギュレーション下でエアロの最適解が“ワイド＆二段支持”へ振れつつある兆候。市販時期・数値は非公表（※要裏取り）だが、次世代エアロの方向性を読む材料として面白い。",
+        "sources": [
+          {
+            "t": "BikeRadar（未発表Canyon TTバイク）",
+            "u": "https://www.bikeradar.com/news/unreleased-canyon-speedmax-tt-bike-montreal",
+            "d": "2026-09-18"
+          }
+        ],
+        "status": "確定＝Worlds前に未発表車が激写・ワイド/デュアルクラウン・過去は否定していた。曖昧＝正式スペック/発売時期は未発表＝※要裏取り。"
+      },
+      {
+        "id": "20260920-worlds-deep-wheels",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png",
+        "headline": "【ホイール・機材読み】本日のWorlds TTは『ディープ×ディスク』の独壇場——平坦39.2kmでエアロが全て、うちの中華ディープの狙い目",
+        "layer1": "獲得標高わずか220mの本日TTは、持続エアロパワーがタイムを決める“ディープリム×ディスクホイール”向きのコース。ガンナ／キュングら大柄パワー型が有利とされる理由もここにある。観戦後は『自分もディープが欲しく』なる人が増える、店にとって好機の一日。",
+        "layer2": "先回り——「初めてのディープ、中華でどこまで戦えるか」。海外レビューでは中華カーボンが“アエロ番長”を安価に成立させており、たとえばTukus Bluefin C88NEO（88mmの純アエロモンスター）やElitewheels Edge（50mm・約1350g）などが名前が挙がる。西側完成車が約8,500ドル級のところ、中華ディープなら大幅に安い。着地：平坦・向かい風の少ないルート主体なら50〜60mm、平坦番長狙いなら80mm超。うちの取り扱い（8LIEN/CRW/FARSPORTS等）で“世界選っぽいディープ”を現物提案できる。数値は各社公称ゆえ実測は要確認。",
+        "sources": [
+          {
+            "t": "Cyclingnews（TTコンテンダー/コース分析）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/remco-evenepoel-filippo-ganna-and-the-rest-analysing-the-contenders-for-the-elite-mens-time-trial-at-the-world-championships/",
+            "d": "2026-09-18"
+          },
+          {
+            "t": "Velofanatics（2026中華カーボン比較）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝本日TTは平坦高速でディープ向き。曖昧＝中華各モデルの重量/エアロは公称値、実測・使用感は個体/条件差あり＝要裏取り。"
+      },
+      {
+        "id": "20260920-gravel-worlds",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://substackcdn.com/image/fetch/$s_!qZHo!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73acc9c8-0f7d-484b-b8d4-b6d15b68825d_602x451.jpeg",
+        "headline": "【トレンド・グラベル】世界選はロードだけじゃない——グラベル世界選（10/10-11・豪ナナップ）へ最終予選ラッシュ、競技グラベルが拡大局面",
+        "layer1": "9/18時点のグラベルニュースまとめによると、今週末はスペイン・エストニア・カリフォルニアの3戦でUCIグラベル世界選（10/10-11・西豪ナナップ）の出場権争い。最終予選は9/26フランスのピレネー・カタランヌ。競技としてのグラベルが年々拡大している。",
+        "layer2": "先回り——「なぜロード乗りが気にすべきか」。ナナップのコースは獲得標高3,000m超・8割以上が未舗装のアップダウンで、“ロードの延長”ではなく専門性が要る領域に。UCIグラベルワールドシリーズは2026年で第5シーズン、新設14戦を加え計45戦へ拡大。国内でもグラベル/オールロード需要は初中級の“2台目・遊びの一台”として伸びており、太タイヤ・チューブレス・ワイドリムの相談導線として押さえておきたいトレンド。",
+        "sources": [
+          {
+            "t": "Beyond Tarmac（今週のグラベルニュース）",
+            "u": "https://beyondtarmac.substack.com/p/this-weeks-gravel-news-18-september",
+            "d": "2026-09-18"
+          }
+        ],
+        "status": "確定＝グラベル世界選10/10-11ナナップ・今週末3予選・最終予選9/26・WS45戦へ拡大。曖昧＝各予選の細部は主催発表を要確認。"
+      },
+      {
+        "id": "20260920-aero-myth",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/biHbJgWBRRbThEUHoApnRT-2560-80.jpg",
+        "headline": "【初中級】本日のWorlds TTを見て『エアロに憧れた』ら——“エアロ＝平坦番長で登りは重い”は本当か、外さない3点",
+        "layer1": "平坦39.2kmの本日TTは、まさにエアロ機材（ディープホイール・エアロフレーム・TTポジション）が主役の舞台。だが初中級の定番の不安が『エアロは平坦は速いけど、登りや街乗りでは重くて損では?』。ここを分解する。",
+        "layer2": "先回り——外さない3点。①重量差より“空気抵抗差”が効く速度域：概ね時速25km以上で巡航する人ほどエアロの恩恵大。登り一辺倒でなく“平坦・向かい風・下ハン巡航”が多いなら、多少の重量増はお釣りが来る。②ホイールは万能を狙うなら40〜50mm：登坂もこなしつつエアロも取れる“全部乗せ”ゾーン。80mm超は横風と発進の重さを許容できる人向け。③ポジションが最大のエアロ：機材より“前傾と肘幅”のほうが空気抵抗への効きは大きい。まずフィッティング、その次に機材——という順番が失敗しない。中華ディープなら低コストで“50mm入門”から試せる。",
+        "sources": [
+          {
+            "t": "Cyclingnews（平坦コースはエアロ持続力が鍵）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/remco-evenepoel-filippo-ganna-and-the-rest-analysing-the-contenders-for-the-elite-mens-time-trial-at-the-world-championships/",
+            "d": "2026-09-18"
+          }
+        ],
+        "status": "確定＝本日TTは平坦高速でエアロが有利。曖昧＝“何km/hで効くか”は体重/出力/コースで変わる一般論、個別は要フィッティング。"
+      },
+      {
+        "id": "20260920-price-plateau",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://www.cyclowired.jp/sites/default/files/images_title/news/2026/09/HVShimano-Ultegra-PD-R8200-SPR-SLR-Pedal-Studio-Shots-1-2a723a.jpg",
+        "headline": "【経営メモ・市場】新SPD-SLRは“高止まり相場”の象徴——デュラ4万円台ペダル、8月のシマノ値上げと重なり『中華の相対お得感』が受け皿に",
+        "layer1": "SPD-SLRのデュラエースPD-R9300はペア4万円台〜、アルテグラでも2万6千円台〜。シマノは2026年8月1日にも国内価格改定（ペダル等が値上げ）を実施済みで、純正機材の“高止まり”が続く。新規格の登場はその流れをさらに印象づけた。",
+        "layer2": "先回り——「店の売り方はどう変わるか」。純正の値上げが続くほど、相対的に光るのが①中華カーボン・中華電動（の“お得感”）と、②旧世代の型落ち処分。SPD-SLRのように“互換を切る新規格”が出ると、旧SPD-SL資産を持つ層は買い控えに傾きやすい＝『今すぐ全交換』より『壊れたら/組み替え時に検討』が現実解。経営的には、高単価の新規格は“指名買い・試着来店”の入口に使いつつ、値ごろ需要は中華・型落ちで受けて二層で回すのが手堅い。",
+        "sources": [
+          {
+            "t": "cyclowired（SPD-SLR発表・価格）",
+            "u": "https://www.cyclowired.jp/news/node/393383",
+            "d": "2026-09-17"
+          },
+          {
+            "t": "SHIMANO公式（価格改定 2026-08-01〜）",
+            "u": "https://shop-jp.shimano.com/blogs/news/price_update",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝SPD-SLR価格・8/1価格改定は実施済み。曖昧＝“中華が受け皿”は市場傾向の読みで、店ごとの客層により差。"
+      },
+      {
+        "id": "20260920-deltoro-seixas",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.brujulabike.com/media/198275/conversions/a84c57e3-d8cb-4010-a956-f4919e681a9e-1240.jpg",
+        "headline": "【レース・人間ドラマ】世界選の“新世代”はTTから始まる——GPモントリオール覇者・22歳デルトロ、19歳セイシャスの物語",
+        "layer1": "本日のTTには次代を担う若手も出走。フランスの19歳ポール・セイシャスはイツリア個人TT優勝・ツールTT4位・2025年ツール・ド・ラヴニールでITT2勝の“計時の申し子”。ただ本人が輝くのは登りで、今日の平坦は本領ではない。メキシコの22歳イサク・デルトロは9/13にGPモントリオール史上最年少優勝を飾ったばかり。",
+        "layer2": "先回り——「なぜ今この2人か」。世界選ロード（9/27）の周回コースは、この若手2人が主役だったGPモントリオールと道が大きく重なる。つまり“予行演習で勝った/競った選手”がそのまま虹（世界王者）の最有力候補。デルトロは本人もロード本番を最優先と明言し、TTは調整の位置づけ。セイシャスは平坦TTでは分が悪くとも、9/27の登坂含みでは表彰台圏。ポガチャル不在の世界選で、TT→ロードと続く一週間は“新世代の戴冠”を見届ける物語になりうる。",
+        "sources": [
+          {
+            "t": "FloBikes（デルトロとは何者か）",
+            "u": "https://www.flobikes.com/articles/16184388-who-is-isaac-del-toro-2026-uci-road-worlds",
+            "d": "2026-09-18"
+          },
+          {
+            "t": "Cyclingnews（TTコンテンダー分析）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/remco-evenepoel-filippo-ganna-and-the-rest-analysing-the-contenders-for-the-elite-mens-time-trial-at-the-world-championships/",
+            "d": "2026-09-18"
+          }
+        ],
+        "status": "確定＝デルトロ9/13GPモントリオール最年少V・セイシャスの計時実績・両者Worlds出走。曖昧＝順位予想は執筆時点の見立て。"
+      },
+      {
+        "id": "20260920-worlds-watch",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/biHbJgWBRRbThEUHoApnRT-2560-80.jpg",
+        "headline": "【初中級・観戦】世界選モントリオール（9/20-27）を10倍楽しむ——本日TT開幕、男子ロードは9/27、北米開催で“朝〜昼”に見やすい",
+        "layer1": "世界選手権モントリオールは本日9/20の個人TTで開幕し、9/27の男子エリート・ロードまで一週間。カナダ（東部時間・UTC-4）開催のため、レースは日本時間の“朝〜昼”に見やすいのが今年の観戦メリット。",
+        "layer2": "先回り——「初めてでも楽しむコツ」。①TTは“自分との戦い”＝1分間隔でスタートし、区間タイム（スプリット）で誰が速いかを追うと面白い。優勝候補は最後にスタートするので、終盤まで見どころが続く。②機材の見本市：本日のTTはディープホイール・エアロヘルメット・TTバイクのショールーム。“自分もこういうの欲しい”を店で相談する良い入口。③クライマックスは9/27ロード：ポガチャル不在で大混戦、GPモントリオールで勝った若手デルトロらが主役候補。TT→ロードと見ていくと“力関係”が分かって二度おいしい。",
+        "sources": [
+          {
+            "t": "BikeRadar（世界選 日程・コース）",
+            "u": "https://www.bikeradar.com/news/uci-road-world-championships-2026-schedule-and-routes",
+            "d": "2026-09"
+          },
+          {
+            "t": "Cyclingnews（世界選ハブ）",
+            "u": "https://www.cyclingnews.com/uci-road-world-championships/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝9/20 TT開幕・9/27ロード・北米開催で日本時間の朝〜昼。曖昧＝各種目の正確な日本時間は当日編成で前後しうる。"
+      }
+    ]
+  },
+  {
     "date": "2026-09-19",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。今日の主役はシマノ——ロード用ペダルを23年ぶりに刷新した新規格『SPD-SLR』が9/17発表、旧SPD-SLと互換なしで店頭は早くも買い替え論争に。そして明日9/20、モントリオール世界選の個人TTがついに開幕。エヴェネプールが史上初の男子TT『4連覇』へ挑みます。",
     "cards": [
