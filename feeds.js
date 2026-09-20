@@ -1,5 +1,309 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-09-21",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。モントリオール世界選が開幕、レムコが史上初のTT『4連覇』で号砲、女子は35歳ロイサーが誕生日連覇。機材と中華の追い風もまとめました。",
+    "cards": [
+      {
+        "id": "20260921-worlds-itt-men-result",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/CORVOS_00039376-122.jpg?width=832&height=468&format=jpg&crop=6527%2C3672%2C0%2C339",
+        "headline": "【🔥今日の一本・レース】世界選 男子個人TT、レムコが史上初の『4連覇』——44分53秒でガンナに57秒差、19歳セイシャスが銅で表彰台",
+        "layer1": "モントリオール世界選が9/20開幕。男子エリート個人TT（39.2km）はレムコ・エヴェネプールが44:53で圧勝、2位ガンナに57秒差、3位は19歳ポール・セイシャス（仏）。エヴェネプールは4年連続のTT世界王者。",
+        "layer2": "『4連覇』の歴史的重み——ロンゴ／カンチェラーラ／T.マルティンに並ぶ通算4勝だが、『4年連続』は男子で史上初。金メダル候補だったスウェーデンのJ.セーデルクヴィストは終盤に落車し5位、4位はマクナルティ（米）。平坦高速コースで“TTスペシャリスト有利”の下馬評どおりの決着。虹（ロード）は9/27（日本時間9/28）で、ここからが本番。",
+        "sources": [
+          {
+            "t": "Cyclingnews（速報詳報）",
+            "u": "https://www.cyclingnews.com/pro-cycling/record-breaking-remco-evenepoel-makes-it-four-in-a-row-with-blistering-time-trial-performance-in-montreal/",
+            "d": "2026-09-20"
+          },
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/peerless-evenepoel-cruises-to-fourth-straight-worlds-time-trial/",
+            "d": "2026-09-20"
+          },
+          {
+            "t": "ProCyclingUK",
+            "u": "https://procyclinguk.com/remco-evenepoel-crushes-2026-world-championships-time-trial-as-ganna-seixas-complete-montreal-podium/",
+            "d": "2026-09-20"
+          }
+        ],
+        "status": "確定＝優勝レムコ44:53／2位ガンナ+57秒／3位セイシャス+1:13、セーデルクヴィスト落車で5位（複数一次メディア一致）。"
+      },
+      {
+        "id": "20260921-worlds-itt-women-result",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://media.zenfs.com/en/flosports_articles_736/28a3bbf1461838d373005e34f22080d6.jpg",
+        "headline": "【レース・女子】女子個人TTはロイサーが『35歳の誕生日』に連覇——19歳バックステッドに40秒差、コッホが銅、ボレリングは8位",
+        "layer1": "女子エリート個人TT（39.2km）は王者マルレン・ロイサー（スイス）が連覇。誕生日当日に、2位ゾーイ・バックステッド（英・19歳）へ40秒差をつけ虹を守った。3位はフランツィスカ・コッホ（独）。",
+        "layer2": "レース展開の綾——バックステッドは第1・第2中間計測で最速だったが、ロイサーは後半で一気に逆転。“若さの立ち上がり vs 王者の後半失速しない強さ”が出た。総合系のデミ・ボレリングは8位（+1:49）でTTは専門家に譲る形。女子TTも平坦パワー勝負のコース適性がそのまま順位に反映。",
+        "sources": [
+          {
+            "t": "Yahoo Sports（FloBikes）",
+            "u": "https://sports.yahoo.com/articles/won-women-elite-individual-time-170616461.html",
+            "d": "2026-09-20"
+          },
+          {
+            "t": "PEZ Cycling News",
+            "u": "https://pezcyclingnews.com/racing/world-championships26-reusser-rules-the-clock-in-montreal/",
+            "d": "2026-09-20"
+          },
+          {
+            "t": "CBC Sports",
+            "u": "https://www.cbc.ca/sports/olympics/summer/cycling/road/uci-road-cycling-montreal-world-championships-recap-day-1-9.7351265",
+            "d": "2026-09-20"
+          }
+        ],
+        "status": "確定＝金ロイサー／銀バックステッド（+40秒）／銅コッホ、ボレリング8位（複数一次メディア一致）。"
+      },
+      {
+        "id": "20260921-seixas-19-bronze",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/754ff3c/2147483647/strip/true/crop/4354x2449+0+225/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd7%2F8e%2F31f186c64088b6ac4ab3c1551160%2F2296277677.jpg",
+        "headline": "【レース・人間ドラマ】19歳セイシャス、初のエリート世界選メダル——ツール最年少表彰台に続く『新世代の到来』を虹の初日に刻む",
+        "layer1": "男子TTで銅を獲ったのはフランスのポール・セイシャス、まだ19歳。今夏のツール・ド・フランスで史上最年少の総合表彰台に立ったばかりの逸材が、エリート世界選でも早くもメダルへ。",
+        "layer2": "なぜ心が動くか——TTは経験と体格がものを言う種目で、10代が表彰台に絡むのは稀。デルトロ（22）と並ぶ“ポスト・ポガチャル世代”の筆頭格が、平坦TTという最も総合力の要る舞台で結果を出した意味は大きい。9/27のロードでも大本命の一角。マサルのショート向けに『新世代の物語』は刺さる王道ネタ。",
+        "sources": [
+          {
+            "t": "NBC Sports",
+            "u": "https://www.nbcsports.com/olympics/news/remco-evenepoel-world-championships-time-trial-road-cycling-2026",
+            "d": "2026-09-20"
+          },
+          {
+            "t": "ProCyclingUK",
+            "u": "https://procyclinguk.com/remco-evenepoel-crushes-2026-world-championships-time-trial-as-ganna-seixas-complete-montreal-podium/",
+            "d": "2026-09-20"
+          }
+        ],
+        "status": "確定＝セイシャス19歳で銅、今夏ツール最年少表彰台の続報（一次メディア一致）。"
+      },
+      {
+        "id": "20260921-mixed-relay-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2025/Worlds/CORVOS_00038397-039.jpg?width=832&height=468&format=jpg&crop=6000%2C3375%2C0%2C312",
+        "headline": "【レース】次は9/22『混合リレーTTT』——40.6km・男女各3人、2連覇オーストラリアは主力欠けで王座に黄信号",
+        "layer1": "世界選2日目の目玉は9/22（火）の混合リレー・チームTT。1国6人（男3・女3）で男子が前半、女子が後半を走り合算タイムで争う、40.6km・登り約290mの新しめの種目。",
+        "layer2": "混戦の理由——2連覇中の豪州は、キガリ優勝メンバーをそのまま組めない（ヴァインが病気、チャップマンは個人事情で不選出、プラップも不在）。仏・スイス・伊にチャンスが広がり、週前半で最もオープンなレースに。個人TTで見えた各国TT力（レムコのベルギー、ロイサーのスイス、ガンナのイタリア）がそのまま伏線になる。",
+        "sources": [
+          {
+            "t": "ProCyclingUK（形式・展望）",
+            "u": "https://procyclinguk.com/world-championships-2026-mixed-relay-explained-format-route-teams-and-contenders/",
+            "d": "2026-09-16"
+          },
+          {
+            "t": "Domestique Cycling（全日程）",
+            "u": "https://www.domestiquecycling.com/en/features/the-full-schedule-for-the-2026-uci-road-world-championships/",
+            "d": "2026-09-20"
+          }
+        ],
+        "status": "確定＝9/22開催・40.6km・豪州が主力欠けの2連覇挑戦。優勝予想は曖昧＝要当日。"
+      },
+      {
+        "id": "20260921-gravel-worlds-nannup",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://i0.wp.com/granfondodailynews.com/wp-content/uploads/2026/03/img_0197.jpg?fit=816%2C459&ssl=1",
+        "headline": "【トレンド・グラベル】グラベル世界選は10/10-11、豪ナナップで『欧州外・初開催』——予選は史上最多45戦超、競技グラベルが世界に拡大",
+        "layer1": "ロード世界選と並行して盛り上がるグラベル世界選（UCI）は、10/10-11に西オーストラリア州ナナップで開催。5年の歴史で初めて欧州の外に出る。エリート男子140.7km／女子123.1km。",
+        "layer2": "“ブーム”から“世界競技”へ——2026年の予選（Gravel World Series）は世界で45戦超と過去最多で、各年代の上位25%に出場権。競技化が進む＝専用機材（ワイドタイヤ・エアロ×悪路対応ホイール）の需要が読める。日本のローディーにも“次はグラベル”の入口として提案しやすいトレンド。",
+        "sources": [
+          {
+            "t": "GranFondo Daily News（コース詳細）",
+            "u": "https://granfondodailynews.com/2026/09/09/complete-guide-course-details-for-2026-uci-gravel-world-championships/",
+            "d": "2026-09-09"
+          },
+          {
+            "t": "Perth is OK!（開催情報）",
+            "u": "https://perthisok.com/event/2026-uci-gravel-world-championships-nannup/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝10/10-11ナナップ・欧州外初開催・予選45戦超。"
+      },
+      {
+        "id": "20260921-remco-tt-machine",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://escapecollective.com/content/images/2026/07/new-Specialized-Shiv-time-trial-bike-Remco-Evenepoel-team-time-trial-tech-2026--70-1.jpg",
+        "headline": "【パーツ・機材読み】TT4連覇を支えた新型スペシャライズド『Shiv TT』——シートチューブが後輪に密着、Rovalの新TTホイール＋26mmタイヤ",
+        "layer1": "圧勝したエヴェネプールの機材は、今夏ツールで初投入された新型スペシャライズドShiv TT。シートチューブが後輪に密着して隙間を詰め、ステー後方まで伸びる最新のエアロ処理。ホイールはRovalの新型TT、タイヤはS-Works Turbo Cottonの26mm。",
+        "layer2": "うちの中華エアロにどう着地させるか——勝ち機材の共通項は『前後の隙間を詰める』『幅は太めでも転がりと空力の両立』。フレームは真似できなくても、①ディープ×ディスク（or ディープ後輪）の組み合わせ、②25〜28mmのワイド低圧チューブレス、③ケーブル完全内装で“隙間を消す”——この3点は中華ディープ＋うちの組み方で十分に寄せられる。平坦番長を作るなら答えはここ。",
+        "sources": [
+          {
+            "t": "Cycling Weekly（決勝詳報）",
+            "u": "https://www.cyclingweekly.com/road-world-championships/remco-evenepoel-crushes-world-championships-elite-mens-time-trial-in-montreal-to-win-his-fourth-consecutive-title",
+            "d": "2026-09-20"
+          },
+          {
+            "t": "Escape Collective（新Shivギャラリー）",
+            "u": "https://escapecollective.com/gallery-evenepoels-new-specialized-shiv-tt/",
+            "d": "2026-07-05"
+          }
+        ],
+        "status": "確定＝新型Shiv TT＋Roval新TTホイール＋26mm Turbo Cotton（機材ギャラリーで確認）。フレーム市販時期は未定＝曖昧。"
+      },
+      {
+        "id": "20260921-cn-carbon-spoke-retail",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://winspace.jp/cdn/shop/files/1120f79ad9841724bcb5e84f418b9b62.jpg?v=1788312532&width=1200",
+        "headline": "【ホイール】中華カーボンスポーク軽量化が“店頭の標準オプション”に——ワイズで納車のWINSPACE M6が、ホイール替えで約1,580g→1,400g台",
+        "layer1": "大手ワイズロードが9/19に紹介したWINSPACE M6の納車例では、標準から『UNAAS PRO SE』カーボンスポークホイールへ換装し、約1,580g→1,400g台へ約180gの軽量化。中華カーボンのカーボンスポーク化が、専門店の“定番アップグレード”として定着してきた。",
+        "layer2": "実測と狙い目——完成車を買ってすぐ足回りだけ替える流れは、体感差が大きく費用対効果が高い（回転部の軽量化は登り・加速で効く）。うちが扱う中華カーボンスポーク勢（8LIEN／CRW／YOELEO系）も同じ土俵で、“完成車＋ホイール差し替え”提案は客単価と満足度を両立できる。デュラの新カーボンスポーク（R9370）が43万円級な今、相対的な価格優位は明確。",
+        "sources": [
+          {
+            "t": "Y's Road 池袋本館（納車・換装例）",
+            "u": "https://ysroad.co.jp/ikebukuro/2026/09/19/170426",
+            "d": "2026-09-19"
+          },
+          {
+            "t": "WINSPACE JAPAN 公式",
+            "u": "https://winspace.jp/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝ワイズが9/19に約1,580g→1,400g台のホイール換装例を掲載。実測はショップ提示値＝個体差あり。"
+      },
+      {
+        "id": "20260921-autumn-clearance",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://store-eirin-jp.com/cdn/shop/collections/roadbike_sale.jpg?v=1777283234",
+        "headline": "【経営メモ・市場】秋の『在庫処分セール』が本格化——各店で完成車20〜40%OFFの実例、型落ち処分のヤマは9月末決算→10〜11月",
+        "layer1": "9月に入り、各サイクルショップで2026モデルの在庫処分セールが本格化。完成車の値引き目安は20〜40%OFFで、人気ブランドでも最大40%級の事例が出ている。処分の本ヤマは9月末決算後の10〜11月。",
+        "layer2": "経営に効く読み——旧モデルは“持つだけでコスト＋新型の置き場を塞ぐ”ため、値引きは仕方なく出る。ここで大手が値を崩すと、中間価格帯の完成車が最も食われる。うちの勝ち筋は『完成車の実売下限では戦わず、中華バラ完＋ホイール/カスタムの付加価値と工賃』へ寄せること。買い手にとっては“新車の型落ち vs 中華バラ完”の比較が今いちばんお得を出しやすい局面。",
+        "sources": [
+          {
+            "t": "eirin（ロードバイク在庫セール）",
+            "u": "https://store-eirin-jp.com/collections/roadbike-clearance-sale",
+            "d": "2026-09"
+          },
+          {
+            "t": "プライシー（セール時期の解説）",
+            "u": "https://www.pricey.jp/web/articles/3501",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝秋は在庫処分期・完成車20〜40%OFFが相場。個別値引き率は店舗・車種で変動＝曖昧。"
+      },
+      {
+        "id": "20260921-cn-brand-retail-expand",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://www.cyclowired.jp/sites/default/files/images_title/news/2026/08/RET-M5%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9_9339-%EF%BD%BF%EF%BD%BD%EF%BD%B1%EF%BD%B4-2.jpg",
+        "headline": "【経営メモ・市場】中華ブランドが“大手専門店の正規棚”へ——ワイズがWINSPACEを継続納車、『併売か競合か』の判断が迫る",
+        "layer1": "かつて直販中心だった中華カーボン大手が、ワイズロードなど大手専門店の正規取扱・納車として定着。WINSPACEは新型エントリーM5（C5後継）も投入し、価格破壊のラインナップで棚を広げている。",
+        "layer2": "専門店に効く含意——中華の“怪しい”イメージは薄れ、大手が正規で売る＝信頼の裏書きが進む。個人店にとっては『同じ土俵で価格勝負に巻き込まれるリスク』と『中華を扱って裾野を取り込む好機』の両面。うちは正規大手が触れないニッチ（8LIEN／CRW/GOOSYNN/NEPESTの組み・アフター・カスタム）で差別化するのが現実解。中華取扱いは“競合”ではなく“来店動機の入口”に位置づけたい。",
+        "sources": [
+          {
+            "t": "Y's Road 池袋本館（WINSPACE納車）",
+            "u": "https://ysroad.co.jp/ikebukuro/2026/09/19/170426",
+            "d": "2026-09-19"
+          },
+          {
+            "t": "cyclowired（WINSPACE M5発表）",
+            "u": "https://www.cyclowired.jp/news/node/393113",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝大手専門店が中華ブランドを正規で継続販売。市場影響の解釈はリサの経営読み＝要検証。"
+      },
+      {
+        "id": "20260921-cn-carbon-rank-shift",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://img.my-best.com/contents/c903b6c1dffd94734de85a3d7f30a9ff.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=96fc9f5f3888d301d45a1aa867f6e02f",
+        "headline": "【トレンド・市場】“中華カーボンは賢い選択肢”へ評価が完全転換——9月のホイールランキングで中華勢が上位常連、記事ネタとしてPVが伸びる",
+        "layer1": "2026年9月版のカーボンホイールおすすめ記事・ランキングでは、WINSPACE／YOELEO／Farsports／Elitewheels／ICANといった中華勢が上位常連に。『怪しいパーツ』から『賢い選択肢』へ、日本語メディアの語り口が完全に変わった。",
+        "layer2": "なぜ“今”PVが伸びるか——大手カーボンが30〜40万円に達し、“同等性能を半額圏で”という比較記事が検索・SNSで刺さり続けている。マサルのブログ/ショートでは『格付け（用途別の当たりブランド）』『大手 vs 中華の実測比較』が鉄板ネタ。ランキングは主観混じりなので、うちの実店舗インプレ（振れ取り・耐久・アフター）を足すと一次情報として差別化できる。",
+        "sources": [
+          {
+            "t": "mybest（2026年9月ランキング）",
+            "u": "https://my-best.com/21017",
+            "d": "2026-09"
+          },
+          {
+            "t": "bike-memo（中華ホイール格付け）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-04"
+          }
+        ],
+        "status": "確定＝9月ランキングで中華勢が上位。個々の順位は媒体の主観含む＝参考値。"
+      },
+      {
+        "id": "20260921-blue-ticket-after",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://www.roadbike-expert.com/wp-content/uploads/2026/06/aozappu_ogp.png",
+        "headline": "【初中級・Xでも話題】自転車『青切符』4月施行の“その後”——「歩きやすくなった」「もっと厳しく」賛否、ロードは“速度違反”に要注意",
+        "layer1": "16歳以上の自転車違反に反則金（青切符・約3,000〜12,000円／対象113種類）を科す制度が2026年4月に施行。数カ月が経ち、SNSでは「歩きやすくなった」「取り締まりを厳しく」「走りやすい環境を」と賛否の反響が続いている。",
+        "layer2": "ロード乗りが実際に気をつける点——ヒヤリの多い『信号無視・一時不停止・スマホ』に加え、ロードは速度が出るぶん『速度違反』に該当しやすいのが盲点。9/1施行の“生活道路30km/h”とも重なり、幹線を外れた抜け道での流し方は要注意。初中級には「青切符=脅し」ではなく『止まる所で止まる／歩道は徐行』の基本徹底が最良の対策、と落ち着いて伝えたい。",
+        "sources": [
+          {
+            "t": "Yahoo!ニュース（バイクのニュース・その後）",
+            "u": "https://news.yahoo.co.jp/articles/cef6962cb690da41c6c1b4f83e53240a085279b2",
+            "d": "2026-09"
+          },
+          {
+            "t": "CYCLING ROAD（青切符2026ガイド）",
+            "u": "https://www.roadbike-expert.com/bicycle-blue-ticket-2026-guide/",
+            "d": "2026-06"
+          }
+        ],
+        "status": "確定＝4月施行・反則金3,000〜12,000円・113種類。SNS反響は※Xほか各所で賛否、体感ベース＝要裏取り。"
+      },
+      {
+        "id": "20260921-first-cn-deep-worlds",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://i0.wp.com/granfondodailynews.com/wp-content/uploads/2026/03/img_0197.jpg?fit=816%2C459&ssl=1",
+        "headline": "【初中級】世界選TTの『ディープ×ディスク』に憧れたら——初めての中華ディープで“見た目倒れ”にしない選び方3点",
+        "layer1": "レムコの圧勝を見て「ディープホイールが速そう」と思った人向け。ただしTTの平坦超高速と、日常のロードでは最適解が違う。初めての中華ディープで外さない3点＝①リムハイト、②幅と対応タイヤ、③フックド/フックレスの見極め。",
+        "layer2": "先回りの答え——①ハイトは常用なら40〜50mmが扱いやすい（60mm超は横風と登りで玄人向け）。②内幅21〜23mmの新世代＋28mmチューブレスが“低圧で速い”今の主流、リムの対応幅表記を必ず確認。③フックレスは指定空気圧の上限が低い（多くは〜72.5psi前後）ので、対応タイヤと空気圧管理が前提。中華でも大手（8LIEN／CRW/YOELEO系）は認証・保証・振れ取り対応が整ってきた——“安いから”ではなく“用途に合うから”で選べば見た目倒れにならない。",
+        "sources": [
+          {
+            "t": "mybest（カーボンホイール選び）",
+            "u": "https://my-best.com/21017",
+            "d": "2026-09"
+          },
+          {
+            "t": "ICANJP（中華ホイール購入ガイド）",
+            "u": "https://icanjp.com/en/blogs/news/chinese-carbon-wheels",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝ハイト/内幅/フックレス空気圧の基本。フックレス上限値は製品で異なる＝各社スペック要確認。"
+      }
+    ]
+  },
+  {
     "date": "2026-09-20",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。今日はいよいよ世界選手権モントリオールの個人TTが本日開幕——エヴェネプールが史上初の男子TT『4連覇』へ、平坦39.2kmの高速コースはガンナ有利との声も。機材面ではシマノ新型『SPD-SLR』の実走レビューが海外で出そろい、『実測は軽くない・クリート前後調整がほぼ不可』と評価が割れています。",
     "cards": [
