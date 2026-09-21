@@ -1,5 +1,246 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-09-22",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。モントリオール世界選はTT週が本日の『混合リレーTTT』で締め、19歳セイシャスら“新世代”がTTの主役に躍り出ました。国内は9/1施行の生活道路『30km/h』＋青切符が刺さります。",
+    "cards": [
+      {
+        "id": "20260922-worlds-mixed-relay-ttt",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://procyclinguk.com/wp-content/uploads/2024/09/Mixed-relay-still-struggling-to-capture-the-imagination-at-World-Championships-jpg.avif",
+        "headline": "【🔥今日の一本・レース】世界選『混合リレーTTT』本日9/22決戦——40.6km・獲得290m、王者オーストラリアは主力3人欠けで『3連覇』に黄信号",
+        "layer1": "モントリオール世界選、本日（現地火曜9/22）は混合リレーTTT。各国 男女3人ずつ計6人・40.6km・登坂290m。発走8:30EDT＝日本時間22日夜に結果が出る。",
+        "layer2": "2連覇の豪はヴァイン（病気）・チャップマン（辞退）・プラップ不在で昨年王者の布陣を組めず。対抗はガンナ擁するイタリア、バランス型のフランス（昨年2位）、2022-23連覇のスイス、24年銀のドイツ。距離はエリートITT（39.2km）に近いが、コーナー多い集団TTで別物の難しさ。",
+        "sources": [
+          {
+            "t": "ProCyclingUK（混合リレー解説）",
+            "u": "https://procyclinguk.com/world-championships-2026-mixed-relay-explained-format-route-teams-and-contenders/",
+            "d": "2026-09-16"
+          },
+          {
+            "t": "BikeRadar（世界選スケジュール）",
+            "u": "https://www.bikeradar.com/news/uci-road-world-championships-2026-schedule-and-routes",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝日程・距離・欠場選手／曖昧＝順位結果は本日夜（JST）に判明"
+      },
+      {
+        "id": "20260922-u23-women-itt",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://d2p6e6u75xmxt8.cloudfront.net/2/2026/09/Marlen-Reusser-ITT-profimedia-1136812246.webp",
+        "headline": "【レース・新世代】U23女子個人TT、豪ウィルソン=ハフェンデンが金——蘭フィンケに28秒差、白フィアストラーテが銅",
+        "layer1": "9/21のU23女子ITT（20.3km）はオーストラリアのフェリシティ・ウィルソン=ハフェンデンが優勝。銀は蘭ニーンケ・フィンケ（+28秒）、銅は白ルカ・フィアストラーテ（+45秒）。",
+        "layer2": "エリートでレムコ／ロイサーが貫禄を見せた同じ週に、U23でも新世代が台頭。豪の女子TT育成の厚みを示す結果で、来季以降のワールドツアー移籍が注目される。※日本勢の順位は集計中で要確認。",
+        "sources": [
+          {
+            "t": "Wikipedia（2026 UCI Road World Championships）",
+            "u": "https://en.wikipedia.org/wiki/2026_UCI_Road_World_Championships",
+            "d": "2026-09-21"
+          },
+          {
+            "t": "IDL Procycling（U23女子TTプレビュー）",
+            "u": "https://www.idlprocycling.com/cycling/2026-world-time-trial-championships-womens-u23-start-times-and-favourites-for-mondays-race",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝表彰台3人／曖昧＝日本勢成績は集計中（要確認）"
+      },
+      {
+        "id": "20260922-ben-wiggins-u23",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://d2p6e6u75xmxt8.cloudfront.net/2/2026/09/Remco-Evenepoel-ITT-profimedia-1136900794-CVR.webp",
+        "headline": "【レース・人間ドラマ】ブラッドリーの息子ベン・ウィギンス、世界選U23TTに挑む——『名前の重圧』を越えて自らの虹へ",
+        "layer1": "9/21のU23男子ITT（31.3km）に、ツール総合＆五輪王者ブラッドリー・ウィギンスの息子ベン・ウィギンス（英）が出走。優勝候補の一角として注目を集めた。",
+        "layer2": "本命は昨年から評価急騰のスペイン、エクトル・アルバレス。ウィギンスJr.は父の名を背負う世代の主役格で、TTを武器にプロ入り前から話題に。※最終順位は集計中で、本稿は出走時点の展望。結果は要裏取り。",
+        "sources": [
+          {
+            "t": "IDL Procycling（U23男子TTプレビュー）",
+            "u": "https://www.idlprocycling.com/cycling/2026-world-time-trial-championships-mens-u23-preview-wiggins-jr-attempts-to-live-up-to-the-name",
+            "d": "2026-09"
+          },
+          {
+            "t": "Cycling Up To Date（U23男子TTスタートリスト）",
+            "u": "https://cyclinguptodate.com/cycling/start-times-order-world-championships-2026-montreal-mens-u23-time-trial-2026",
+            "d": "2026-09"
+          }
+        ],
+        "status": "※Xでも注目、要裏取り＝U23男子TTの確定順位を待つ（出走時点の展望）"
+      },
+      {
+        "id": "20260922-new-gen-tt-specialists",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://procyclinguk.com/wp-content/uploads/2024/09/Mixed-relay-still-struggling-to-capture-the-imagination-at-World-Championships-jpg.avif",
+        "headline": "【トレンド】“新世代TTスペシャリスト”のうねり——19歳セイシャス銅、豪ウィルソン=ハフェンデン金、TTの主役が一気に若返る",
+        "layer1": "今大会のTT週は、エリート銅の19歳セイシャス（仏）、U23女王ウィルソン=ハフェンデン（豪）ら10代・20代前半が続々表彰台。TTの勢力図が世代交代局面に入った。",
+        "layer2": "セイシャスは「いつか1位を狙える」と語り、仏勢10年ぶりのエリートTT表彰台。エアロポジション最適化と若手の機材投資が進み、『TT＝ベテランの領域』という常識が崩れつつある。ショート・記事で“物語”が拾いやすいテーマ。",
+        "sources": [
+          {
+            "t": "We Love Cycling（レムコ＆ロイサーTT優勝）",
+            "u": "https://www.welovecycling.com/wide/2026/09/21/remco-evenepoel-and-marlen-reusser-win-itt-world-championships/",
+            "d": "2026-09-21"
+          },
+          {
+            "t": "Domestique（セイシャス銅・談話）",
+            "u": "https://www.domestiquecycling.com/en/news/maybe-one-day-i-can-aim-for-first-paul-seixas-stuns-with-worlds-time-trial-bronze/",
+            "d": "2026-09-20"
+          }
+        ],
+        "status": "確定＝各表彰台と選手コメント"
+      },
+      {
+        "id": "20260922-dura-ace-r9300-directmount",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cycleresearcher.com/wp-content/uploads/2026/08/image_262110e2.jpg",
+        "headline": "【パーツ】新デュラエース『R9300』続報——ダイレクトマウント式チェーンリング＋新パワメ、13速で“新フリーボディ規格”説",
+        "layer1": "ブエルタで目撃された13速デュラエースR9300。9月の追加リークでクランクがダイレクトマウント化（スパイダー分離）＝歯数交換が容易に。新型パワーメーター内蔵も示唆された。",
+        "layer2": "フリーボディは従来HG／マイクロスプラインと異なる新規格『ASL13R』の噂で、既存ホイールとの互換に懸念。セミワイヤレス（リアディレイラーは有線）は継続、充電端子は新形状か。公式発表・価格・発売時期はいずれも未確定。※要裏取り。",
+        "sources": [
+          {
+            "t": "Bike News Mag（R9300ダイレクトマウント/新パワメ）",
+            "u": "https://bikenewsmag.com/2026/09/11/shimano-dura-ace-r9300-leak-points-to-13-speed-direct-mount-chainrings-and-a-new-power-meter/",
+            "d": "2026-09-11"
+          },
+          {
+            "t": "サイクルリサーチャー（R9300噂まとめ）",
+            "u": "https://cycleresearcher.com/r9300-shimano_new_component/",
+            "d": "2026-09-04"
+          }
+        ],
+        "status": "確定＝リーク画像は複数／曖昧＝仕様・時期はすべて未公式（※要裏取り）"
+      },
+      {
+        "id": "20260922-ttt-deep-disc-wheels",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://d2p6e6u75xmxt8.cloudfront.net/2/2026/09/Remco-Evenepoel-ITT-profimedia-1136900794-CVR.webp",
+        "headline": "【ホイール・機材読み】本日のTTTも『ディープ×ディスク』一色——40.6km高速コースでエアロが全て、うちの中華ディープの狙い目",
+        "layer1": "エリートITT同様、本日の混合リレーTTT（40.6km・登坂290m）もディープリム＋リアディスクが定石。平坦基調でエアロ効率が順位を分ける。",
+        "layer2": "プロは50〜65mmディープを前後で使い分けるが、ホビーユーザーは50mm前後1本で日常もこなせる。中華カーボンディープ（8LIEN／CRW／GOOSYNN 等）は同スペックを国内定価の数分の一で提供でき、“世界選の見た目”を現実的な予算で。",
+        "sources": [
+          {
+            "t": "ProCyclingUK（混合リレー・コース解説）",
+            "u": "https://procyclinguk.com/world-championships-2026-mixed-relay-explained-format-route-teams-and-contenders/",
+            "d": "2026-09-16"
+          },
+          {
+            "t": "BikeRadar（世界選スケジュール）",
+            "u": "https://www.bikeradar.com/news/uci-road-world-championships-2026-schedule-and-routes",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝TT機材の傾向（ディープ×ディスク）"
+      },
+      {
+        "id": "20260922-autumn-clearance-sale",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://www.cw-fins.com/wp-content/uploads/2026/09/97224-51_AETHOS-COMP-DUNEWHT-METSPR_HERO-800x445.jpeg",
+        "headline": "【経営メモ・市場】秋の在庫処分・決算セールが本格化——完成車20〜30%OFFの実例続々（マドンSL6が72万→54万など）",
+        "layer1": "各地の専門店で9月の在庫処分セールが加速。新潟のショップ実例では、トレック・マドンSL6が72万→54万（25%OFF）、メリダ・スクルトゥーラ6000が48.4万→36.3万（25%OFF）などが並ぶ。",
+        "layer2": "型落ち処分のヤマは9月末決算→10〜11月。支払い方法で値引率が変わる（現金・振込が厚い）店も。新デュラ／新型コンポ登場で『今組むと即・型落ち』懸念が旧型特価を後押しし、相対的に中華の割安感も際立つ局面。",
+        "sources": [
+          {
+            "t": "サイクルワークスFin's（9月セール在庫）",
+            "u": "https://www.cw-fins.com/107110",
+            "d": "2026-09-11"
+          }
+        ],
+        "status": "確定＝店頭のセール実例（価格・割引率）"
+      },
+      {
+        "id": "20260922-china-carbon-ranking",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bikenewsmag.com/wp-content/uploads/2024/08/newspaper-001-1024x547.jpg",
+        "headline": "【経営メモ・市場】9月の中華カーボンホイール格付けが更新——WINSPACE/YOELEO/Elitewheels上位、“5万円〜”帯がボリューム化",
+        "layer1": "国内の比較・ランキング記事（9/21更新）で中華カーボンが上位を席巻。WINSPACE（カーボンスポーク・15〜20万）を頂点に、YOELEO、Elitewheels（1,300g切り・5〜10万）、Farsports、ICAN（Amazon・4〜6万）が定番化。",
+        "layer2": "ランキングのPVが伸びる＝“買う前に比べたい”需要の証拠で記事ネタに最適。店としては、エントリー客の初カーボン相談を中華ワイドリム（28-30C対応）に着地させると、フィッティング・整備の来店動線も作れる。※各社スペックは製品ページで要確認。",
+        "sources": [
+          {
+            "t": "mybest（カーボンホイール人気ランキング・2026年9月）",
+            "u": "https://my-best.com/21017",
+            "d": "2026-09-21"
+          },
+          {
+            "t": "bike-memo（中華カーボン格付け）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-01"
+          }
+        ],
+        "status": "確定＝ランキング掲載／曖昧＝各社の重量・価格は個別に要確認"
+      },
+      {
+        "id": "20260922-30kmh-seikatsudoro",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://kuruma-news.jp/wp-content/uploads/2027/04/20260408_koisayten_000.jpg?v=1775632909",
+        "headline": "【初中級・Xでも話題】生活道路の法定速度が9/1から『30km/h』に——ロードは“うっかり速度超過”に要注意、SNSは賛否沸騰",
+        "layer1": "9/1施行、センターラインのない生活道路は標識が無くても法定30km/h。X（旧Twitter）では埼玉県警の告知動画に「マジでわからん」「二輪も自転車も取り締まれ」など反応が噴出した。",
+        "layer2": "ロードは平地巡航で容易に30km/hを超える。自転車も車両として原則対象で、青切符（4/1施行・16歳以上）と併せ“住宅街の抜け道”は減速必須。30km/hは致死率が急落する境界（WHO資料）という設計思想。※対象道路の線引きは現場で曖昧、個別判定は要確認。",
+        "sources": [
+          {
+            "t": "乗りものニュース（30km/h化・SNS反応）",
+            "u": "https://trafficnews.jp/post/705115",
+            "d": "2026-09-03"
+          },
+          {
+            "t": "デンソーテン Offseg（生活道路30km/h解説）",
+            "u": "https://www.denso-ten.com/jp/offseg/column/post052/",
+            "d": "2026-08-31"
+          }
+        ],
+        "status": "確定＝施行日・速度・青切符／曖昧＝対象道路の個別判定（※要確認）"
+      },
+      {
+        "id": "20260922-worlds-roadrace-outlook",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://d2p6e6u75xmxt8.cloudfront.net/2/2026/09/Marlen-Reusser-ITT-profimedia-1136812246.webp",
+        "headline": "【トレンド・展望】世界選はTT週が閉幕、ここからロードへ——女子9/26・男子9/27（273.7km）、ポガチャル不在の“虹”は大混戦",
+        "layer1": "モントリオール世界選はTT／リレーweek終了後、9/24からロードレースへ。女子エリートは9/26（180.4km）、男子エリートは9/27（273.7km）が最終日。",
+        "layer2": "男子はポガチャル不在で本命不在の混戦、レムコ／デルトロ／ピドコックらが軸。北米開催で日本は“朝〜昼”に観戦しやすい。起伏あるモントリオール市街周回はパンチャー有利とみられる。",
+        "sources": [
+          {
+            "t": "BikeRadar（世界選スケジュール・全種目）",
+            "u": "https://www.bikeradar.com/news/uci-road-world-championships-2026-schedule-and-routes",
+            "d": "2026-09"
+          },
+          {
+            "t": "Wikipedia（2026 UCI Road World Championships）",
+            "u": "https://en.wikipedia.org/wiki/2026_UCI_Road_World_Championships",
+            "d": "2026-09-21"
+          }
+        ],
+        "status": "確定＝日程・距離／曖昧＝優勝候補は展望"
+      }
+    ]
+  },
+  {
     "date": "2026-09-21",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。モントリオール世界選が開幕、レムコが史上初のTT『4連覇』で号砲、女子は35歳ロイサーが誕生日連覇。機材と中華の追い風もまとめました。",
     "cards": [
