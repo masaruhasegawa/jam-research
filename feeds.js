@@ -1,5 +1,299 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-09-23",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。世界選は昨夜『混合リレーTTT』でイタリアが初優勝、ガンナがレムコへの雪辱を果たしました。ここからU23（9/24-25）→エリート・ロード（女子9/26・男子9/27）へ。国内は秋の決算セールが本番です。",
+    "cards": [
+      {
+        "id": "20260923-worlds-mixed-relay-italy",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/ctGt4ukQR7Wqeb3CDoD53i-2560-80.jpg",
+        "headline": "【🔥今日の一本・レース】世界選『混合リレーTTT』はイタリアが初優勝——ガンナがレムコへの雪辱、仏に8秒差／連覇の豪は主力欠けで4位に転落",
+        "layer1": "現地9/22の混合リレーTTT（40.6km・男女各3人）はイタリアが51分32秒で金。銀フランス（+8.59秒）、銅スイス（+19.86秒）。2連覇中のオーストラリアは終盤に遅れ4位（+40.48秒）に沈んだ。",
+        "layer2": "イタリアはガンナ／カッタネオ／ソブレロの男子3人が20.3km中継地点を24分23秒の最速で通過し土台を作り、グアッツィーニ／ロンゴボルギーニ／トリンカコロネルの女子3人が仕上げた。個人TTでレムコに57秒差の銀だったガンナが、団体で『チームの勝利』として虹を掴んだ形。スイスはキュングのパンクからの銅で意地を見せた。",
+        "sources": [
+          {
+            "t": "PEZ Cycling（Italy wins mixed relay）",
+            "u": "https://pezcyclingnews.com/racing/italy-wins-2026-worlds-mixed-relay-montreal/",
+            "d": "2026-09-22"
+          },
+          {
+            "t": "Cyclingnews（Italy power to mixed relay victory）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/road-world-championships-italy-power-to-mixed-relay-ttt-victory-with-huge-rides-from-ganna-longo-borghini-and-co/",
+            "d": "2026-09-22"
+          },
+          {
+            "t": "Cycling Up To Date（結果・タイム）",
+            "u": "https://cyclinguptodate.com/cycling/results-world-championships-2026-mixed-relay-ttt-filippo-ganna-avenges-evenepoel-defeat-as-italy-power-to-dramatic-team-victory-in-montreal",
+            "d": "2026-09-22"
+          }
+        ],
+        "status": "確定＝優勝国・表彰台・タイム差・豪4位（複数ソース一致）"
+      },
+      {
+        "id": "20260923-u23-road-races-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/10f81bbc-386d-45fa-b412-cc9c47ae862e/thumbnails/7d16f157-c16f-4af6-8a30-97792aac11ca.jpg?appId=32337f2f-7841-4ef6-a233-d1f001580530&platform=WEB&w=1200",
+        "headline": "【レース・展望】TT週が終わり、いよいよロード開幕——U23女子9/24（134km）・U23男子9/25（174km）、モントリオールの周回は登坂びっしり",
+        "layer1": "世界選はここからロードレース週へ。9/24にU23女子（134km・獲得2,690m）、9/25にU23男子（174.2km・獲得3,497m）。いずれも起伏の激しいモンレアル周回で行われ、純粋な登坂力とレース勘が問われる。",
+        "layer2": "コースは距離のわりに獲得標高が大きく、平坦スプリンターより『登れるパンチャー』向き。TT週で台頭した新世代（19歳セイシャス、豪ウィルソン=ハフェンデンら）がロードでも主役を張れるかが見どころ。日本勢の出走・成績は現地進行で要確認。エリートは女子9/26（180.4km）、男子9/27（273.7km・3,803m）と続く。",
+        "sources": [
+          {
+            "t": "Domestique（世界選フル日程・距離・獲得）",
+            "u": "https://www.domestiquecycling.com/en/features/the-full-schedule-for-the-2026-uci-road-world-championships/",
+            "d": "2026-09"
+          },
+          {
+            "t": "BikeRadar（Worlds schedule & routes）",
+            "u": "https://www.bikeradar.com/news/uci-road-world-championships-2026-schedule-and-routes",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝日程・距離・獲得標高／曖昧＝日本勢の出走・順位は現地進行で要確認"
+      },
+      {
+        "id": "20260923-longo-borghini-emotion",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/vP6HdR4ekopN2KnKG26QjP-2000-80.jpg",
+        "headline": "【レース・人間ドラマ】イタリア悲願の混合リレー初制覇——ベテラン、ロンゴボルギーニが涙、『6人で掴んだ虹』の物語",
+        "layer1": "この種目、イタリアはこれまで表彰台止まり（2024年は3位）。昨夜の勝利は混合リレーでの初の世界王座で、男女6人が一つの虹を分かち合う『チームの金』として大きな感動を呼んだ。",
+        "layer2": "牽引の中心となったロンゴボルギーニはツール・ド・フランス・ファムやジロを制してきた女子の顔。個人種目の栄光とはまた別の、『国の代表として仲間と勝つ』達成感が滲んだ。混合リレーは男女が対等に貢献する数少ない種目で、女子選手の価値が見える舞台としても意義が大きい。マサルの動画では『結果』より『なぜ泣いたか』が刺さる一本。",
+        "sources": [
+          {
+            "t": "Cyclingnews（Emotions run high as Italy deliver first gold）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/emotions-run-high-as-italians-deliver-first-world-championship-gold-in-mixed-relay/",
+            "d": "2026-09-22"
+          }
+        ],
+        "status": "確定＝イタリア初制覇・出場選手／曖昧＝個々のコメント詳細は各報で表現差あり"
+      },
+      {
+        "id": "20260923-gravel-worlds-nannup",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://ucigravelworldseries.com/wp-content/uploads/sites/195/2026/04/N16_3108991.jpg",
+        "headline": "【トレンド・グラベル】次の世界選は10/10-11、豪ナナップで『欧州外・初開催』——男子140.7km/獲得3,625mの超級コースが公開",
+        "layer1": "ロード世界選の次は、グラベル世界選（第5回）。10/10（土）に女子123.1km・獲得3,100m、10/11（日）に男子140.7km・獲得3,625mが西オーストラリアのナナップで開催される。イタリア→ベルギー→オランダと続いた大会が、初めてヨーロッパを離れる。",
+        "layer2": "コースは2018年から続く地元レース『SEVEN』がベースで、8割超がグラベル。容赦ないアップダウンとテクニカルな未舗装区間が続き、パワーより総合的な耐久力とバイクコントロールが問われる。競技グラベルの世界拡大局面で、機材（太タイヤ・軽量オールロード）の関心も国内で高まる。うちの中華カーボンでもグラベル対応リムの引き合いが増えそう。",
+        "sources": [
+          {
+            "t": "UCI Gravel World Series（コース公開）",
+            "u": "https://ucigravelworldseries.com/en/uci-reveals-courses-for-the-2026-uci-gravel-world-championships-in-nannup-western-australia/",
+            "d": "2026-04-15"
+          },
+          {
+            "t": "Wikipedia（2026 UCI Gravel World Championships）",
+            "u": "https://en.wikipedia.org/wiki/2026_UCI_Gravel_World_Championships",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝日程・距離・獲得標高・欧州外初開催"
+      },
+      {
+        "id": "20260923-transfer-ben-turner",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/ApW8cFfbqjuowG8MrWaxNc-2100-80.jpg",
+        "headline": "【移籍・トレンド】2027商戦が加速——ベン・ターナーがイネオスを離れスーダル・クイックステップへ3年契約、市場は『200人超がフリー』の大乱戦",
+        "layer1": "クラシックとスプリントの両輪となれる英国人ベン・ターナーが、5年在籍したネットカンパニー・イネオスを離れ、2027年からスーダル・クイックステップへ（2029年末までの3年契約）。同チームの2027年に向けた補強はトイテンベルク、ミレージに続く3人目。",
+        "layer2": "背景には、8/1解禁ルール撤廃で移籍発表が前倒し・分散していること、そして2026-27シーズンに『200人以上のワールドツアー選手が契約満了』という異例の流動性がある。カラパス、ヒンドレー、ログリッチ、デ・リエらの去就も焦点。チーム勢力図＝翌年の完成車ブランド露出にも直結するので、店の売れ筋予測にも効く。",
+        "sources": [
+          {
+            "t": "Cyclingnews（Ben Turner signing）",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/soudal-quickstep-bolster-sprint-and-classics-squads-with-ben-turner-signing/",
+            "d": "2026-09-16"
+          },
+          {
+            "t": "Soudal Quick-Step（公式発表）",
+            "u": "https://soudal-quickstepteam.com/en/news/ben-turner-joins-soudal-quick-step",
+            "d": "2026-09-16"
+          },
+          {
+            "t": "Velo（移籍市場・200人フリー）",
+            "u": "https://velo.outsideonline.com/news/cycling-transfer-market-2026-27/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝ターナー移籍・契約年数・前所属（公式一致）／曖昧＝他選手の去就は交渉中"
+      },
+      {
+        "id": "20260923-remco-itt-tech-57s",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://bikenewsmag.com/wp-content/uploads/2026/09/2026World-Championships-ITT-Remco-Evenepoel.jpg",
+        "headline": "【パーツ・機材読み／Xでも話題】『レムコ、ガンナに57秒差』の衝撃——なぜここまで開いた? 区間タイム分析で見えた“勝ち方”",
+        "layer1": "9/20の個人TT（39.2km）でエヴェネプールが44分53秒、2位ガンナに57秒差。過去の対決（23年12秒・24年6秒差）から一気に開き、SNSでも『開きすぎ』と騒然。Xでの驚きが入口だが、中身は数字で裏取りできる。",
+        "layer2": "区間分析では、差が最も広がったのは第2区間で、ここでレムコが大半のマージンを稼いだ。第3の高速巡航区間ではライバルも追い、最後の登りで再び突き放す展開。要因は『ペース配分の巧みさ・どこで攻めるかの判断・出力・世界クラスのエアロポジション』の総合力とされる。機材（低スタックの一体ポジション、専用TTバイク＋ディープ）は“主役”ではなく、それを活かす体とペーシングが勝敗を分けたという読み。",
+        "sources": [
+          {
+            "t": "Bike News Mag（区間タイム比較分析）",
+            "u": "https://bikenewsmag.com/2026/09/21/remcos-incredible-ride-by-the-numbers-comparing-his-split-times-with-ganna-and-other-rivals-in-the-worlds-itt/",
+            "d": "2026-09-21"
+          },
+          {
+            "t": "cyclowired（男子エリートTT 4連覇）",
+            "u": "https://www.cyclowired.jp/news/node/393425",
+            "d": "2026-09-21"
+          }
+        ],
+        "status": "確定＝タイム差・4連覇・区間の傾向／曖昧＝各区間の秒数内訳は媒体で表現差"
+      },
+      {
+        "id": "20260923-china-lightweight-allround",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://assets.st-note.com/production/uploads/images/158129471/rectangle_large_type_2_8ed72cf6d4f25cb20754ed90002e0d8c.jpeg?width=1280",
+        "headline": "【ホイール・機材読み】TTは『ディープ』でも、9/27ロード（3,803m）は別物——登りゴールで効くのは軽量オールラウンド、中華のミドルハイトが狙い目",
+        "layer1": "世界選TTはディープ×ディスク一色だったが、9/27エリート男子ロードは273.7km・獲得3,803mの消耗戦で登りゴール。ここで効くのは50mm超のディープではなく、35〜45mmの軽量オールラウンド。『TTに憧れて即ディープ』は登り主体のコースだと裏目に出る。",
+        "layer2": "中華勢はまさにこの帯が主戦場。例えばYOELEOの50mmでも実測1,320g級・10%クーポン適用で14万円台と、大手の1/2〜1/3。35〜45mmのカーボンスポークモデルなら1,300g前後で登り・平坦のバランスが良く、ホビーの1本目に最適。うちの取扱（8LIEN/CRW/GOOSYNN/NEPEST）でも“ミドルハイト＝万能”を軸に薦めると外れが少ない。",
+        "sources": [
+          {
+            "t": "コンポ・DE・リング（YOELEO 50mm 1320g 実測レビュー）",
+            "u": "https://note.com/compo_de_ring/n/n70d7ea9057b1",
+            "d": "2024-10-16"
+          },
+          {
+            "t": "Domestique（男子エリートRR 273.7km/3,803m）",
+            "u": "https://www.domestiquecycling.com/en/features/the-full-schedule-for-the-2026-uci-road-world-championships/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝RRコース諸元・中華のミドルハイト帯／曖昧＝YOELEO実測値は個体差あり（レビュー1件）"
+      },
+      {
+        "id": "20260923-market-ys-autumn-sale",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://ysroad.co.jp/kyoto/wp-content/uploads/2025/12/img_24351.jpg",
+        "headline": "【経営メモ・市場】秋の決算セールが本格化——ワイズ京都でキャノンデール『シナプス』が88万→60.5万（31%OFF）の実例",
+        "layer1": "9月中間決算に向け各店の値引きが本格化。ワイズロード京都は9/14告知の秋キャンペーンで、キャノンデールのエンデュランス車『シナプス カーボン3 スマートセンス』を88万円→60.5万円（約31%OFF）に。ワイズ全体でもアウトレット最大90%OFF・スポーツ車最大35%OFFが継続中。",
+        "layer2": "狙いは中間決算（多くが3月・9月末）での在庫圧縮と節税。型落ち処分のヤマは9月末→10〜11月で、2027モデル発表と重なるほど値引き幅が伸びる。マサルとしては“競合の目玉価格”を把握しつつ、うちは値引き合戦に乗らず『中華ホイール＋整備＋アフター』の総額メリットで差別化するのが得策。",
+        "sources": [
+          {
+            "t": "Y’s Road 京都店（秋キャンペーン告知）",
+            "u": "https://ysroad.co.jp/kyoto/2026/09/14/163026",
+            "d": "2026-09-14"
+          }
+        ],
+        "status": "確定＝告知日・対象車の値引き例／曖昧＝在庫・価格は店舗と時期で変動"
+      },
+      {
+        "id": "20260923-market-buyers-timing",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bike-plus.com/cdn/shop/collections/autumn-sale-2026-top.webp?v=1789370653",
+        "headline": "【経営メモ・市場】『秋の買い手市場』はどこが底か——各社オータムセール（〜11月末）が並走、2027モデル切替で型落ちが動く",
+        "layer1": "BIKE+は9/18〜11/29のオータムセールで対象車最大30%OFF、他社も秋セールを相次いで開始。コロナ特需の反動で供給過多・値崩れが続く市場では、『いつが底か』の読みが仕入れと売価の生命線になっている。",
+        "layer2": "経験則では、9月末決算で第一波、2027モデル発表が出そろう10〜11月で型落ちの値引きが本番、というのが底のパターン。うちの立場では、①型落ち完成車は“薄利でも回転”で在庫を持ち越さない、②新品は値引きより中華ホイール等のアップグレード提案で客単価を上げる、の二段構えが有効。中古あふれで買取相場は時間とともに下落する点も客に正直に伝えたい。",
+        "sources": [
+          {
+            "t": "BIKE PLUS（オータムセール2026・期間と割引）",
+            "u": "https://bike-plus.com/collections/autumn-sale-2026",
+            "d": "2026-09"
+          },
+          {
+            "t": "プライシー（ロードバイクの安い時期）",
+            "u": "https://www.pricey.jp/web/articles/3501",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝BIKE+の期間・割引率／曖昧＝“底”の時期は一般則（各店で差）"
+      },
+      {
+        "id": "20260923-beginner-gravel-entry",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/4b41c7b8-67c6-40e0-876a-f4571de53d29/thumbnails/8375456c-aa57-4329-aa9c-39f2e766fe8f.jpeg?appId=32337f2f-7841-4ef6-a233-d1f001580530&platform=WEB&w=1200",
+        "headline": "【初中級】グラベル世界選（10/10-11）を見て気になったら——ロードとの違い＆『最初の1台』で外さない3点",
+        "layer1": "競技グラベルが世界選で盛り上がる中、『未舗装も走れる1台』への関心が国内でも上昇。ロード一辺倒だった人がグラベルに触れる入口として、違いと選び方を整理する。",
+        "layer2": "外さない3点＝①タイヤクリアランス（40C以上入るか。太タイヤ＝低圧＝安定と快適の要）、②ギア比（フロント1×やワイドスプロケで激坂も足つき）、③ホイール（フックレス対応・チューブレスが前提、中華カーボンのグラベル用リムはコスパ良好）。ロードとの最大差は“空気圧を大きく下げて路面に食わせる”設計思想。まずは手持ちロードに35〜38Cを試すだけでも世界が変わる。",
+        "sources": [
+          {
+            "t": "BikeRadar（Best gravel bikes 買い方ガイド）",
+            "u": "https://www.bikeradar.com/advice/buyers-guides/best-gravel-bikes",
+            "d": "2026-09"
+          },
+          {
+            "t": "UCI Gravel World Series（世界選が入口）",
+            "u": "https://ucigravelworldseries.com/en/uci-reveals-courses-for-the-2026-uci-gravel-world-championships-in-nannup-western-australia/",
+            "d": "2026-04-15"
+          }
+        ],
+        "status": "確定＝選び方の一般則／普遍ネタを世界選をきっかけに提示"
+      },
+      {
+        "id": "20260923-elite-men-rr-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/09/road-worlds.jpg",
+        "headline": "【レース・展望】TT週を終え、本命は誰へ——エリート男子ロード9/27は273.7km・3,803mの消耗戦、ポガチャル不在の『虹』は大混戦",
+        "layer1": "世界選のクライマックス、エリート男子ロードは9/27。ブエルタ落車で今季を終えたポガチャル不在で、優勝候補が読みにくい大混戦に。カミリアン坂＋ポリテク激坂を含む周回で、登れる総合系とパンチャーが争う。",
+        "layer2": "TT週の勢いを見ると、レムコはロードでも一角。加えてGPモントリオール覇者・22歳デルトロ、19歳セイシャスら新世代、ファンデルプールやペデルセンら実力者が浮上。273.7km・獲得3,803mの消耗戦は“最後まで足を残せた者”が虹を着る。女子ロードは前日9/26（180.4km）。",
+        "sources": [
+          {
+            "t": "Velo（2026 Road Worlds 完全ガイド）",
+            "u": "https://velo.outsideonline.com/road/road-racing/2026-uci-road-world-championships-guide/",
+            "d": "2026-09"
+          },
+          {
+            "t": "Domestique（男子RR 273.7km/3,803m）",
+            "u": "https://www.domestiquecycling.com/en/features/the-full-schedule-for-the-2026-uci-road-world-championships/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝日程・距離・獲得・ポガチャル不在／曖昧＝優勝候補は各媒体で見解差"
+      },
+      {
+        "id": "20260923-womens-transfer-million",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/06/hindley-gall-groves.jpg",
+        "headline": "【トレンド・市場／Xでも話題】女子ロードに『初の100万ドル契約』時代——移籍バブルが女子にも波及、競技の価値が上がる",
+        "layer1": "2026-27の移籍市場は男子で200人超がフリーの大乱戦だが、女子側でも『史上初の年俸100万ドル級契約』が話題に。ニエヴィアドマ=フィニー、バルサモ、ダイガートら大物の去就が注目され、女子の待遇改善が加速している。",
+        "layer2": "背景は放映・スポンサー拡大と、混合リレー（昨夜イタリア初優勝）のように女子の貢献が“見える”種目の定着。ホビー市場でも女子ローディー・女性向け完成車/ウェアの需要が伸びており、店としては女子客の裾野拡大＝新しい購買層として無視できない。数字（具体額）は媒体差があり※要裏取り、傾向は確か。",
+        "sources": [
+          {
+            "t": "Velo（移籍市場・女子初の100万ドル）",
+            "u": "https://velo.outsideonline.com/news/cycling-transfer-market-2026-27/",
+            "d": "2026-09"
+          },
+          {
+            "t": "Cyclingnews（2027移籍まとめ）",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/cycling-transfers-all-the-latest-news-and-announcements-for-the-2027-season/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "曖昧＝具体的な契約額は媒体で差（※要裏取り）／確定＝女子待遇改善の潮流"
+      }
+    ]
+  },
+  {
     "date": "2026-09-22",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。モントリオール世界選はTT週が本日の『混合リレーTTT』で締め、19歳セイシャスら“新世代”がTTの主役に躍り出ました。国内は9/1施行の生活道路『30km/h』＋青切符が刺さります。",
     "cards": [
