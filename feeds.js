@@ -1,5 +1,339 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-09-24",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。世界選はいよいよロード本番——本日9/24はU23女子＆ジュニア男子、田中麗奈・水谷彩奈の日本勢も出走します。エリートは女子9/26・男子9/27（ポガチャル不在の『空位の虹』）。2027移籍バブル、Dura-Ace13速の互換不安、国内の中華ホイール事情もまとめました。",
+    "cards": [
+      {
+        "id": "20260924-u23women-rr",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://www.cyclowired.jp/sites/default/files/images_title/news/2026/09/CORVOS_00039380-033.jpeg",
+        "headline": "【🔥今日の一本・レース】U23女子ロードレース本日9/24開幕（約134km）——TT女王バックステッド不在で『新王者は総取り』、オスティスとファーガソンが軸",
+        "layer1": "モントリオール世界選はTT週を終え、本日からロード本番。U23女子ロードレース（9/24・約134km）は、昨年U23TT女王のバックステッドがエリートに専念したため、若い実力者が横一線で虹を争う『開いたレース』になった。",
+        "layer2": "有力はスペインのパウラ・オスティス（Movistar）と英キャット・ファーガソン——ともにこの世代で頭ひとつ抜けた登坂力を持つ。周回はカミリアン＝ウード（2.3km・平均6.2％）など短い登りの反復で、平坦スプリンターには残りにくいレイアウト。純粋なスプリント決着より『登れる選手の抜け出し』になりやすい。レースはモントリオール現地9/24午前＝日本時間9/24の夜（22時前後〜）に決着する見込み。",
+        "sources": [
+          {
+            "t": "Cyclingnews（バックステッドはエリート出場、U23は大混戦）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/zoe-backstedt-opts-to-compete-in-the-elite-ranks-leaving-the-under-23-womens-time-trial-world-title-wide-open-and-the-list-of-contenders-is-long/",
+            "d": "2026-09"
+          },
+          {
+            "t": "Olympics.com 全結果・スケジュール",
+            "u": "https://www.olympics.com/en/news/uci-road-world-championships-2026-all-winners-full-results",
+            "d": "2026-09"
+          },
+          {
+            "t": "Wikipedia 2026 UCI Road World Championships（日程）",
+            "u": "https://en.wikipedia.org/wiki/2026_UCI_Road_World_Championships",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝9/24にU23女子ロード実施・バックステッドはU23不出場／曖昧＝距離約134kmは前日展望準拠、優勝候補は展望段階。結果は本日夜（JST）判明。※日本勢は別カード。"
+      },
+      {
+        "id": "20260924-pogacar-out-menrr",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039344-102.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C141",
+        "headline": "【レース・人間ドラマ】ポガチャル不在の『空位の虹』——ブエルタ第8ステージ落車で鎖骨骨折→シーズン終了手術、エリート男子9/27（273.4km）は大混戦",
+        "layer1": "世界王者ポガチャルは、ブエルタ・ア・エスパーニャ第8ステージの落車で鎖骨を骨折して救急搬送され、最終的にシーズンを終える手術に至った。絶対王者を欠き、9/27のエリート男子ロード（273.4km・獲得3,803m）は『空位の虹』を巡る大混戦になる。",
+        "layer2": "現状の本命はGPモントリオール覇者の22歳イサク・デルトロ。ただし母国メキシコ代表はUAEのような手厚いアシストを組めず、『個の勝負』を強いられる。対抗はヴァンアールト、レムコ、ファンデルプール、19歳セイシャス、ピドコック。勝負を分ける1.6km・平均7.7％の登りを12回——反復で先着型を削り、決着は最終盤の抜け出しへ向かう公算。",
+        "sources": [
+          {
+            "t": "Rouleur エリート男子ロード展望",
+            "u": "https://www.rouleur.cc/racing/world-championships-2026-elite-mens-road-race-preview",
+            "d": "2026-09"
+          },
+          {
+            "t": "Cyclinguptodate 男子ロード展望・優勝候補",
+            "u": "https://cyclinguptodate.com/cycling/world-championships-montreal-mens-elite-road-race-2026-preview-profile-favourites-predictions-evenepoel-van-der-poel-del-toro-seixas-pidcock-and-van-aert-lead-wide-open-battle-for-the-rainbow-jersey",
+            "d": "2026-09"
+          },
+          {
+            "t": "Domestique（ポガチャル不在でも見どころ）",
+            "u": "https://www.domestiquecycling.com/en/news/no-pogacar-but-plenty-of-intrigue-as-world-championships-return-to-montreal/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝ポガチャル欠場（ブエルタ落車→鎖骨骨折→シーズン終了手術）・コース273.4km/3,803m・登り12回／曖昧＝優勝候補は展望段階。"
+      },
+      {
+        "id": "20260924-elite-women-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://www.cyclowired.jp/sites/default/files/images_title/news/2026/09/CORVOS_00039363-053.jpeg",
+        "headline": "【レース・展望】エリート女子ロードは9/26（180km・2,502m）——本命フォレリング、TT女王ロイサーが今季ツールで18秒先着の因縁で立ちはだかる",
+        "layer1": "エリート女子ロードレースは9/26（180km・獲得2,502m）。ブロサール発、13.4km周回を約8周半し、カミリアン＝ウードやポリテクニーク（最大11％）をこなす消耗戦。絶対的本命はデミ・フォレリング（オランダ）。",
+        "layer2": "最大の対抗はTT連覇のマルレン・ロイサー（スイス）。今季ツール・ド・フランス・ファムでフォレリングに18秒差で先着した実績があり、TT週の勢いをそのまま持ち込む。ほかニエウィアドマ、ロンゴボルギーニ、パウラ・ブラジ、そしてエリートTTで銀の18歳ゾーイ・バックステッドも台風の目。地元カナダ勢の一発も警戒だ。",
+        "sources": [
+          {
+            "t": "cyclowired 個人TT／ロード展望",
+            "u": "https://www.cyclowired.jp/news/node/393422",
+            "d": "2026-09-19"
+          },
+          {
+            "t": "FloBikes 女子エリート注目選手",
+            "u": "https://www.flobikes.com/articles/16187961-who-to-watch-in-the-women-elite-road-race-at-2026-uci-road-worlds",
+            "d": "2026-09"
+          },
+          {
+            "t": "Cyclingnews（ロイサーがツールでフォレリング＆バックステッドに先着）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/zoe-backstedt-opts-to-compete-in-the-elite-ranks-leaving-the-under-23-womens-time-trial-world-title-wide-open-and-the-list-of-contenders-is-long/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝9/26実施・180km/2,502m・ロイサーが今季ツールで対フォレリング18秒先着／曖昧＝優勝候補は展望段階。細部（周回数）は媒体差あり。"
+      },
+      {
+        "id": "20260924-japan-riders",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://www.cyclowired.jp/sites/default/files/images_title/news/2026/09/CORVOS_00039386-209.jpeg",
+        "headline": "【レース・日本勢】田中麗奈・水谷彩奈が本日U23女子ロードに出走——混合リレー『初出場』15位から、モントリオールで新世代が世界に挑む",
+        "layer1": "本日のU23女子ロードレースに、日本からは田中麗奈（IGNTZONE、JBCF女子ランキング首位）と水谷彩奈（HPCJC-ブリヂストンアンカー／日本体育大学）が出走。両者はU23個人TTで田中46位・水谷49位と、世界の壁をすでに体感している。",
+        "layer2": "日本は今大会に計10名（ジュニア男子3・ジュニア女子1・U23男子2・U23女子2・エリート2）を派遣、エリートは橋川丈と阿部花梨。9/22の混合リレーTTTには『初出場』し15位——記録より、世界の同じ舞台に立った経験値が財産だ。ロードは集団戦でTTより番狂わせの余地があり、位置取り次第で見せ場も十分ある。",
+        "sources": [
+          {
+            "t": "cyclowired U23女子TT結果（田中46位・水谷49位）",
+            "u": "https://www.cyclowired.jp/news/node/393436",
+            "d": "2026-09-21"
+          },
+          {
+            "t": "cyclowired 混合リレー（日本は初出場15位）",
+            "u": "https://www.cyclowired.jp/news/node/393440",
+            "d": "2026-09-22"
+          },
+          {
+            "t": "cyclowired 日本代表選手団発表",
+            "u": "https://www.cyclowired.jp/news/node/393269",
+            "d": "2026-09-01"
+          }
+        ],
+        "status": "確定＝出走選手・派遣人数・混合リレー15位・U23TT順位／曖昧＝本日のロード結果は夜（JST）判明。"
+      },
+      {
+        "id": "20260924-transfers-2027",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/QT76wzZWu3rRRhGqUnoTKn-1024-80.jpg",
+        "headline": "【トレンド・移籍】2027市場が過熱——ログリッチにロット移籍説、モラーノ・アスグリーン・スロックら続々、『200人超フリー』の大乱戦",
+        "layer1": "世界選の裏で2027シーズンの移籍が加速。36歳プリモシュ・ログリッチがレッドブルを離れロット・インターマルシェへ、という驚きの噂が浮上している。モラーノ（→ロット）、アスグリーン（→NSN）、リアム・スロック（→バーレーン）ら実力者も動く。",
+        "layer2": "今オフは200人超のワールドツアー選手が契約満了を迎える『大乱戦』。ステインハウザーがレッドブルへ、19歳AJオーガストがピナレロ-Q36.5へ。9/23に触れたベン・ターナー（→スーダル・クイックステップ）に続き、若手の引き抜き合戦が本格化している。うちの商材への直接の波及は薄いが、『誰がどの機材陣営へ動くか』は来季の勢力図＝店頭トークの鮮度に効く。",
+        "sources": [
+          {
+            "t": "Cyclingnews 2027移籍まとめ",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/cycling-transfers-all-the-latest-news-and-announcements-for-the-2027-season/",
+            "d": "2026-09"
+          },
+          {
+            "t": "Cycling Weekly 2027移籍一覧",
+            "u": "https://www.cyclingweekly.com/racing/all-the-pro-cycling-transfers-for-2027",
+            "d": "2026-09"
+          },
+          {
+            "t": "Cyclist 移籍噂（ログリッチ→ロット等）",
+            "u": "https://www.cyclist.co.uk/news/cycling-transfer-rumours",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝満了200人超・確定移籍（モラーノ/アスグリーン/オーガスト等）／曖昧＝ログリッチ→ロットは噂段階（※要裏取り）。"
+      },
+      {
+        "id": "20260924-decathlon-women",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/06/hindley-gall-groves.jpg",
+        "headline": "【トレンド・女子拡大】デカトロンが2027に女子プロチーム新設——10人枠すでに充足、女子ロードの『器』が一段と広がる",
+        "layer1": "フランスの大手デカトロン（Decathlon CMA CGM）が2027年に女子プロチームを立ち上げ、すでに10名のロースターを固めたと報じられた。女子ロードの受け皿（チーム数・予算）が拡大局面に入っている。",
+        "layer2": "背景には女子界の『バブル』——選手の市場価値の上昇と、9/23に触れた『女子初の100万ドル契約』時代の到来。チームが増えれば走る場が増え、若手の受け皿と競技レベルがさらに底上げされる。日本の女子ローディー人口や女子向け商品の裾野にも、中長期で追い風になり得る構造変化だ。",
+        "sources": [
+          {
+            "t": "Velo 2026-27移籍市場（女子初の100万ドル・デカトロン女子チーム）",
+            "u": "https://velo.outsideonline.com/news/cycling-transfer-market-2026-27/",
+            "d": "2026-09"
+          },
+          {
+            "t": "Cyclingnews 2027移籍まとめ",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/cycling-transfers-all-the-latest-news-and-announcements-for-the-2027-season/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝デカトロン女子チーム2027新設・10人枠充足の報／曖昧＝ロースター詳細・体制は今後。"
+      },
+      {
+        "id": "20260924-duraace-r9300-compat",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/09/Shimano-Dura-Ace-9300-13-speed-leaked-pictures-Sept-2026-1.jpg",
+        "headline": "【パーツ・機材読み／Xでも話題】新デュラエース『R9300』13速化で『新フリーボディ』説——「手持ちホイールは型落ち?」と互換不安が広がる",
+        "layer1": "9月にブエルタで実車が激写され、無線認証申請の画像も流出した13速の新デュラエース『R9300』。ダイレクトマウント・チェーンリングと新型パワメ、セミワイヤレス継続が判明したが、いま焦点になっているのは『13速化でカセット／フリーボディ規格が変わるのか』という互換問題だ。",
+        "layer2": "13速はスプロケット1枚ぶんの幅が要り、『新フリーボディ』が必要になる可能性が指摘される——事実なら手持ちホイールがそのままでは使えない懸念が出る。ただし現時点はすべて『リーク段階』で、シマノ未発表、発売は2026年末〜2027年との噂。Xでは「買い替えは様子見」「いまは12速の在庫が狙い目」との声も。店頭は『いま勧める12速をどう位置づけるか』の整理が要る局面。",
+        "sources": [
+          {
+            "t": "road.cc R9300 リーク画像（新シフター/RD/パワメ）",
+            "u": "https://road.cc/tech-news/shimano-dura-ace-9300-13-speed-leaked-pictures-reveal-new-shifters-rear-derailleur-and-power-meter-for-upcoming-groupset",
+            "d": "2026-09"
+          },
+          {
+            "t": "the5krunner（セミワイヤレス継続の分析）",
+            "u": "https://the5krunner.com/2026/08/23/dura-ace-r9300-13-speed-spotted/",
+            "d": "2026-08-23"
+          },
+          {
+            "t": "Rydecruz（13速の互換・フリーボディ考察）",
+            "u": "https://rydecruz.com/blogs/pedal-press/shimano-13-speed-compatibility-will-r9300-work-with-your-current-wheels-and-freehub",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝13速・ダイレクトマウント・セミワイヤレスの流出仕様／曖昧＝新フリーボディ規格・発売時期はリーク／噂段階（※要裏取り）。"
+      },
+      {
+        "id": "20260924-climbing-wheels",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-09%2Fthe-contenders-for-the-world-championships-6aa8148ff2673.png",
+        "headline": "【ホイール・機材読み】モントリオールは『登り12回』の消耗戦——TTのディープから一転、効くのは軽量オールラウンド、中華ミドルハイトの狙い目",
+        "layer1": "TT週は『ディープ×ディスク』一色だったが、ロード本番の周回は短い登りの反復（男子は1.6km・7.7％を12回）。ここで効くのはエアロ番長のディープではなく、登り返しで脚を残せる軽量オールラウンドだ。",
+        "layer2": "目安は40〜50mmハイトで前後1,400g前後。中華カーボン勢はこの『ミドルハイト×軽量』帯が最も得意で、大手の1/3〜1/2の価格で1,300〜1,400g台が狙える。うちの8LIEN／CRW／GOOSYNNのミドルハイトは、まさに『登れるオールラウンド』を欲しがる層への提案にはまる。ディープは平坦・TT用と割り切り、『用途で2セット』の売り方も現実的だ。",
+        "sources": [
+          {
+            "t": "Rouleur 男子ロード展望（登り12回のコース）",
+            "u": "https://www.rouleur.cc/racing/world-championships-2026-elite-mens-road-race-preview",
+            "d": "2026-09"
+          },
+          {
+            "t": "Cyclinguptodate 男子ロード展望",
+            "u": "https://cyclinguptodate.com/cycling/world-championships-montreal-mens-elite-road-race-2026-preview-profile-favourites-predictions-evenepoel-van-der-poel-del-toro-seixas-pidcock-and-van-aert-lead-wide-open-battle-for-the-rainbow-jersey",
+            "d": "2026-09"
+          },
+          {
+            "t": "マイベスト カーボンホイール人気ランキング【2026年9月】",
+            "u": "https://my-best.com/21017",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝コースは登坂反復・男子は登り12回／機材論は一般的セオリー（重量・ハイトの数値は目安）。"
+      },
+      {
+        "id": "20260924-china-mainstream",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://img.my-best.com/contents/c903b6c1dffd94734de85a3d7f30a9ff.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=96fc9f5f3888d301d45a1aa867f6e02f",
+        "headline": "【経営メモ・市場】中華カーボンが『総合』ホイールランキングの常連に（マイベスト2026年9月）——もう『中華枠』ではなく通常比較の土俵へ",
+        "layer1": "大手比較メディアのカーボンホイール人気ランキング【2026年9月】で、中華系ブランドが『中華枠』としてではなく、大手と並ぶ通常のおすすめとして上位に定着。品質評価の転換が数字に表れている。",
+        "layer2": "中華最高峰はカーボンスポークを採用して反応性が高く、日本のプロチームやYouTuberも実使用——大手の1/3〜1/2の価格で重量・剛性・空力が遜色ないレベルに達した、というのが現在の共通認識だ。経営目線では『中華か大手か』の二択訴求はもう古い。用途・保証・アフターで差別化し、店として『中華を安心して選ばせる』導線（振れ取り・初期不良対応・試乗）を価値にする局面に入っている。",
+        "sources": [
+          {
+            "t": "マイベスト カーボンホイール人気ランキング【2026年9月】",
+            "u": "https://my-best.com/21017",
+            "d": "2026-09"
+          },
+          {
+            "t": "bike-memo 中華カーボンホイール格付け（背景）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-01"
+          }
+        ],
+        "status": "確定＝9月ランキングで中華勢が上位定着／曖昧＝ブランド別の順位は媒体差あり。"
+      },
+      {
+        "id": "20260924-autumn-sale-data",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://ysroad.co.jp/ueno/wp-content/uploads/2026/09/new01.jpg",
+        "headline": "【経営メモ・市場】秋商戦の『実データ』——価格.com値下げランキングとY's秋キャンペーンで見る、いま動いている完成車と底値の見極め",
+        "layer1": "型落ち処分のヤマ（9月末決算→10〜11月）に向け、完成車は20〜30％OFFが並走。価格.comの『値下げランキング』はいま実際に下がっているモデルがリアルタイムで見え、Y's Roadは秋のサイクリングキャンペーンを開催中だ。",
+        "layer2": "狙い目は『スペック同等で年式違いだけ』の在庫。Y'sは『完成車の価格差は実はホイールで大きい』と訴求しており、ここが中華ホイールのアップグレード提案と噛み合う。経営メモとしては、他店の値下げ実額を価格.comで日次ウォッチしつつ、うちは『本体は競争力価格＋ホイール差し替えで満足度』の組み合わせ売りで粗利を守るのが定石だ。",
+        "sources": [
+          {
+            "t": "価格.com ロードバイク 値下げランキング（ライブ）",
+            "u": "https://kakaku.com/bicycle/road-bicycle/ranking_6420/pricedown/",
+            "d": "2026-09"
+          },
+          {
+            "t": "Y's Road 上野 秋のサイクリングキャンペーン",
+            "u": "https://ysroad.co.jp/ueno/2026/09/09/147911",
+            "d": "2026-09-09"
+          },
+          {
+            "t": "プライシー ロードバイクのセール時期（背景）",
+            "u": "https://www.pricey.jp/web/articles/3501",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝秋の値下げ進行・Y'sキャンペーン開催中／曖昧＝底値のタイミングは店・モデル差（一般に9末決算〜11月がヤマ）。"
+      },
+      {
+        "id": "20260924-first-china-wheel",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C163.jpg",
+        "headline": "【初中級】初めての中華カーボンホイール——『軽い＝速い』ではない、外さない選び方3点（空力・横風・カーボンスポーク）",
+        "layer1": "世界選のホイールに憧れて『初めての中華カーボン』を検討する人へ。スペック表の軽さだけで選ぶと、実走で『思ったほど速くない／横風で怖い』に陥りがち。押さえるべきは3点だ。",
+        "layer2": "①用途で高さを選ぶ——平坦・巡航ならエアロの効く50mm前後、登り主体なら35〜45mmの軽量オールラウンド。②横風耐性——風洞データや実測レビューがあるブランドを優先（軽量偏重は横風でハンドルを取られやすい）。③カーボンスポーク——反応は鋭いが、テンション管理と初期振れに当たり外れがあるので『振れ取り・初期不良対応をしてくれる店で買う』のが安全。数値の裏（空力・信頼性）まで見れば失敗しにくい。",
+        "sources": [
+          {
+            "t": "マイベスト カーボンホイール人気ランキング【2026年9月】",
+            "u": "https://my-best.com/21017",
+            "d": "2026-09"
+          },
+          {
+            "t": "bike-memo 中華カーボンおすすめ（背景）",
+            "u": "https://bike-memo.com/cycle_260202_carbon-wheels/",
+            "d": "2026-02"
+          }
+        ],
+        "status": "一般的セオリー＋直近ランキングを踏まえた選び方（重量・ハイトの数値は目安）。"
+      },
+      {
+        "id": "20260924-climbing-basics",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/09/road-worlds.jpg",
+        "headline": "【初中級】今日の『登り12回』コースに憧れたら——ヒルクライムが速くなる3つの効き（体重・ギア比・軽量ホイール）",
+        "layer1": "世界選は短い登りの反復で勝負が決まる。『自分も登りを速く』と思ったら、闇雲に高い機材へ行く前に、効きの大きい順に手をつけるのが正解だ。",
+        "layer2": "①体重——登りは対重量パワーが物を言う。装備込み1kg減はどんな機材より確実に効く。②ギア比——脚を守るのは軽いギア。フロント／リアのワイド化（例：34T×30-34T）で『回して登る』を可能に。③軽量ホイール——回転部の軽量化は登り返しの再加速で体感が大きく、費用対効果は中華の軽量オールラウンドが高い。この順番を守れば、少ない出費で確実に登りは軽くなる。",
+        "sources": [
+          {
+            "t": "Velo 2026 Road Worlds ガイド（コース概要）",
+            "u": "https://velo.outsideonline.com/road/road-racing/2026-uci-road-world-championships-guide/",
+            "d": "2026-09"
+          },
+          {
+            "t": "Rouleur 男子ロード展望（登り反復のコース）",
+            "u": "https://www.rouleur.cc/racing/world-championships-2026-elite-mens-road-race-preview",
+            "d": "2026-09"
+          }
+        ],
+        "status": "一般的セオリー（数値は目安・裏取り済みの一般論）。"
+      }
+    ]
+  },
+  {
     "date": "2026-09-23",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。世界選は昨夜『混合リレーTTT』でイタリアが初優勝、ガンナがレムコへの雪辱を果たしました。ここからU23（9/24-25）→エリート・ロード（女子9/26・男子9/27）へ。国内は秋の決算セールが本番です。",
     "cards": [
