@@ -1,5 +1,285 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-09-25",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。モントリオール世界選はロード本番——昨9/24のU23女子はチラドニョバが『キガリ銀の雪辱』で金、本日9/25はU23男子（新藤・山里が出走）、明日9/26エリート女子、あさって9/27はベルギーが『レムコ＆VAダブル主将』で虹を狙います。2027移籍はガル→リドル・トレック、TPUチューブ『新常識』化、中華最軽量ホイール、そして国内は秋の決算セールと業界『清算』の実像もまとめました。",
+    "cards": [
+      {
+        "id": "20260925-u23women-result",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://procyclinguk.com/wp-content/uploads/2026/09/divUCI-Road-World-Championships-Viktoria-Chladonova-beats-Isabella-Holmgren-to-wins-under-23-womens-titlediv.jpg",
+        "headline": "【🔥今日の一本・レース／人間ドラマ】U23女子ロードはチラドニョバ（スロバキア）が金——地元ホルムグレンを振り切り『キガリ銀の雪辱』、モース3位",
+        "layer1": "昨9/24のU23女子ロード（モントリオール・134km／マウントロイヤル10周・登り約2,690m）は、スロバキアの19歳ビクトリア・チラドニョバが優勝。残り30km付近の抜け出しで地元カナダのイザベラ・ホルムグレンと2人になり、最後まで振り切って虹を掴んだ。",
+        "layer2": "泣かせどころは『雪辱』の一語。チラドニョバは昨2025年キガリ世界選U23で銀（2位）、その1年後に金へ一段のぼった。ホルムグレンは残り12kmでモース（3位・+33秒）を切り離すほど強かったが、ホームの大歓声の中であと一歩届かず銀——タイム差はゼロ（同タイム）で、勝敗を分けたのは脚力よりスプリントの間合いだった。マウントロイヤルの短い急坂の反復が『登れてキレる選手』をあぶり出す構図は、本日9/25のU23男子・明日以降のエリートにもそのまま効いてくる。",
+        "sources": [
+          {
+            "t": "ProCyclingUK（チラドニョバ優勝）",
+            "u": "https://procyclinguk.com/viktoria-chladonova-wins-2026-womens-u23-road-world-championships-montreal/",
+            "d": "2026-09-24"
+          },
+          {
+            "t": "olympics.com（世界選 全種目リザルト）",
+            "u": "https://www.olympics.com/en/news/uci-road-world-championships-2026-all-winners-full-results",
+            "d": "2026-09-24"
+          }
+        ],
+        "status": "確定＝優勝チラドニョバ／2位ホルムグレン（同タイム）／3位モース（+33秒）。距離134km・約2,690m昇。曖昧＝細部の残り距離は各報で数km前後の幅あり。"
+      },
+      {
+        "id": "20260925-u23men-preview-jp",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/CORVOS_00039350-314.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C141",
+        "headline": "【レース・日本勢】本日9/25はU23男子ロード（174.2km・3,497m）——日本の新藤大翔・山里一心が出走、本命はスパルフェルとファン・ケルクホーフェ",
+        "layer1": "本日9/25、U23男子ロードレースがマウントロイヤル13周・174.2km（獲得3,497m）で行われる。日本からは新藤大翔（ブリヂストン・アンカー／立教大）と山里一心（シマノレーシング）が出走。仏スパルフェルと白ファン・ケルクホーフェが軸と見られている。",
+        "layer2": "先回りの読み——コースは1周にカミリアン＝ウードとポリテクニークの2つの登り、フィニッシュもパルク通りの上り。純スプリンターは残れず、『登れるパンチャー』の抜け出し決着になりやすい。仏アオバン・スパルフェルはGPワロニー（1.Pro）を勝った直後で今季通して安定、優勝候補筆頭。日本勢は9/21のU23個人TTで新藤42位・山里52位——TTは平坦向きで持ち味が出づらかったが、登坂主体の本日は展開次第でアグレッシブに動ける。日本時間では9/25の夜〜深夜に決着の見込み。",
+        "sources": [
+          {
+            "t": "Domestique（U23男子ロード注目選手）",
+            "u": "https://www.domestiquecycling.com/en/news/who-are-the-riders-to-watch-in-the-mens-u23-road-race-at-the-world-championships/",
+            "d": "2026-09-23"
+          },
+          {
+            "t": "シクロワイアード（U23男子TT・新藤42位/山里52位）",
+            "u": "https://www.cyclowired.jp/news/node/393434",
+            "d": "2026-09-21"
+          },
+          {
+            "t": "日本自転車競技連盟（派遣選手団）",
+            "u": "https://jcf.or.jp/news-84241/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝距離174.2km・3,497m昇、日本はU23男子2名（新藤・山里）出走、TTは新藤42位/山里52位。曖昧＝優勝候補は各メディアの見立て（スパルフェル/ファン・ケルクホーフェ）。"
+      },
+      {
+        "id": "20260925-elite-men-belgium",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2025-09%2Fremco-evenepoel-68d9709f7041d.jpg",
+        "headline": "【レース・展望／人間ドラマ】9/27エリート男子はベルギーが『レムコ＆ファンアールト ダブル主将』を公言——ポガチャル不在の虹は273.7km・3,803mの総力戦",
+        "layer1": "9/27のエリート男子ロード（273.7km・登り3,803m／マウントロイヤル12周）へ、ベルギーのパウエルス監督がエヴェネプールとファンアールトの『2枚看板・共同エース』体制を明言。ポガチャル欠場で、レムコ／VA／ファンデルプール／デルトロ／セイシャスの『5強』が空位の虹を争う。",
+        "layer2": "妙味は『2エースのジレンマ』。誰を残すか決め打ちしないぶん、他国からは的を絞りにくい反面、終盤で味方同士が牽制し合うリスクも背負う——強豪ゆえの贅沢な悩みだ。蘭はファンデルプールを軸に、20歳デルトロ（GPモントリオール覇者）と19歳セイシャス（今季ツール最年少表彰台）ら新世代も台頭。273.7kmという今季屈指の距離と3,803mの累積で、脚だけでなく『チーム戦術と我慢比べ』が勝敗を分ける一戦になる。日本時間では9/27夜〜9/28未明の決着見込み。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（エリート男子スタートリスト/展望）",
+            "u": "https://cyclinguptodate.com/cycling/startlist-world-championships-2026-elite-mens-road-race-riders-remco-evenepoel-wout-van-aert-mathieu-van-der-poel-isaac-del-toro-tom-pidcock-paul-seixas-and-more",
+            "d": "2026-09-24"
+          },
+          {
+            "t": "Rouleur（エリート男子ロード・プレビュー）",
+            "u": "https://www.rouleur.cc/racing/world-championships-2026-elite-mens-road-race-preview",
+            "d": "2026-09-23"
+          }
+        ],
+        "status": "確定＝距離273.7km・3,803m昇、ポガチャル欠場、ベルギーはレムコ＆VAの共同エース（監督公言）。曖昧＝優勝予想は各社の見立て。"
+      },
+      {
+        "id": "20260925-elite-women-vallieres",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039222-235.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C141",
+        "headline": "【レース・人間ドラマ】明日9/26エリート女子ロード（180.4km・8周）——本命フォレリング、地元ヴァリエールが『キガリ番狂わせ女王』としてホーム連覇に挑む",
+        "layer1": "明日9/26のエリート女子ロードは180.4km・マウントロイヤル8周。今季ジロ＆ツールを制したデミ・フォレリングが最有力だが、昨2025キガリで大番狂わせの金を掴んだ地元カナダのマグドレーヌ・ヴァリエールが、ホームの大観衆の前で連覇に挑む。",
+        "layer2": "物語の芯は『番狂わせは二度あるか』。ヴァリエールは昨年、優勝候補ではない立場から抜け出して虹を掴んだ——だから今年は『追われる立場』でホームを走る難しさがある。対するフォレリングは登坂力・展開読み・勝負根性の三拍子が揃う正真正銘の本命で、蘭はピーテルセやマルクスも擁して層が厚い。ロンゴボルギーニ、ニェウィアドマ、ロイサー（TT女王）も虎視眈々。反復する急坂は独走かつ少人数決着になりやすく、キガリ同様『混沌』が女王を生む余地は残る。",
+        "sources": [
+          {
+            "t": "Domestique（エリート女子ロード・プレビュー）",
+            "u": "https://www.domestiquecycling.com/en/news/2026-world-championships-elite-womens-road-race-preview-can-vollering-extend-2026-masterclass/",
+            "d": "2026-09-24"
+          },
+          {
+            "t": "Rouleur（エリート女子ロード・プレビュー）",
+            "u": "https://www.rouleur.cc/racing/world-championships-2026-elite-womens-road-race-preview",
+            "d": "2026-09-23"
+          }
+        ],
+        "status": "確定＝距離180.4km・8周、フォレリング本命、地元ヴァリエールが前年女王として出走。曖昧＝累積標高は報により約2,500m前後で記載差。"
+      },
+      {
+        "id": "20260925-transfers-2027",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/06/hindley-gall-groves.jpg",
+        "headline": "【トレンド・移籍】2027市場に大物続々——ガル＆ミュールベルガーがリドル・トレックへ、シュタインハウザーはレッドブル、フリゴはUAE、ログリッチにロット説",
+        "layer1": "2027年移籍がさらに動いた。リドル・トレックがデカトロンからフェリックス・ガル（今季ジロ＆ブエルタ表彰台）とミュールベルガーを獲得。レッドブル＝ボーラはEFのシュタインハウザーを補強、伊クライマーのフリゴはUAEへ2年契約。プリモシュ・ログリッチのロット・インテルマルシェ移籍説も浮上している。",
+        "layer2": "先回りで読む地殻変動——今オフは『200人超がフリー』の大乱戦で、グランドツール級の総合系が中堅チームへ流れる玉突きが起きている。ガルの移籍でデカトロンは総合の柱を失い、リドル・トレックは山岳に厚みを足した。ログリッチのロット説が本当なら、ベテラン総合系の『最後の一稼ぎ＋若手育成のメンター』という新しい受け皿ができる。日本のファン目線では、移籍のたびに『どのバイク・どのコンポで走るか』が変わるので、機材トレンド（13速・エアロ・ホイール銘柄）の追い風にもなる。ログリッチ関連は現時点で報道ベースの観測——確定はチーム公式待ち。",
+        "sources": [
+          {
+            "t": "Cycling Weekly（2027移籍まとめ）",
+            "u": "https://www.cyclingweekly.com/racing/all-the-pro-cycling-transfers-for-2027",
+            "d": "2026-09-24"
+          },
+          {
+            "t": "Velo（移籍市場2026-27）",
+            "u": "https://velo.outsideonline.com/news/cycling-transfer-market-2026-27/",
+            "d": "2026-09-22"
+          },
+          {
+            "t": "Cyclist（ログリッチ→ロット説ほか）",
+            "u": "https://www.cyclist.co.uk/news/cycling-transfer-rumours",
+            "d": "2026-09-23"
+          }
+        ],
+        "status": "確定＝ガル&ミュールベルガー→リドル・トレック、シュタインハウザー→レッドブル、フリゴ→UAE。曖昧＝ログリッチ→ロットは報道ベースの観測（※要裏取り、公式未発表）。"
+      },
+      {
+        "id": "20260925-tpu-tube",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2025/10/road-bike-predictions-trends-2026.jpg",
+        "headline": "【パーツ・機材読み】2026は『TPUチューブが新常識』へ——チューブレス派すら乗り換え検討、軽量・耐パンク・転がり改善の三拍子",
+        "layer1": "海外メディアの2026トレンド予測で繰り返し挙がるのが『TPU（熱可塑性ポリウレタン）チューブ』の主流化。従来ブチルより軽く、耐パンク性が高く、転がり抵抗も改善——チューブレス愛用者まで『TPUチューブ+クリンチャー』回帰を検討する流れが出ている。",
+        "layer2": "先回りの深掘り——TPUの利点は(1)重量が1本あたり数十g軽い(2)コンパクトで携行予備が嵩張らない(3)転がり抵抗がラテックス並みに低い、の3点。一方の弱点は(1)価格が高め(2)一部は熱に弱くリムブレーキ長時間下りで不安(3)バルブ根元の耐久にばらつき——なので『ディスクブレーキ車＋信頼できる銘柄』が前提になる。チューブレスの『シーラント管理・ビード上げの手間・出先の対処』に疲れた層には、TPUチューブが現実的な折衷案。中華カーボン（フックレス多め）とも相性を確認のうえ、対応タイヤ幅と空気圧上限を守れば、手軽に軽量化と乗り味改善を両取りできる。",
+        "sources": [
+          {
+            "t": "Velo（2026ロードトレンド予測）",
+            "u": "https://velo.outsideonline.com/road/road-culture/7-road-bike-trends-2026/",
+            "d": "2026-09"
+          },
+          {
+            "t": "Velo（フランデレン機材・チューブ動向）",
+            "u": "https://velo.outsideonline.com/road/road-gear/tour-of-flanders-tech-gallery-2026/",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝TPUチューブの主流化はメディアのトレンド予測として複数で一致。曖昧＝『チューブレス派の乗り換え』は傾向論で、数字の裏取りは銘柄ごとに要確認。"
+      },
+      {
+        "id": "20260925-china-lightest-wheel",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png",
+        "headline": "【ホイール・機材読み】中華カーボンの最前線——ELITEWHEELS DRIVE IIが50mmで1,322g、YOELEO NxT SL2は『コスパ王』、もう格付けは通常比較の土俵",
+        "layer1": "2026年の中華カーボンホイール比較で、ELITEWHEELS DRIVE IIが50mmディスクで実測級1,322gと『中華最軽量クラス』に。剛性・レスポンスと横風安定も評価され、YOELEO NxT SL2は価格・重量・組み精度・乗り味のバランスで『コスパ王』の座を維持している。",
+        "layer2": "先回りで読む狙い目——ワールズのマウントロイヤルのような登坂反復コースに憧れる層には、ディープより『ミドルハイト×軽量』が効く。DRIVE IIの1,322gは登り・加速で体感が出る一方、超軽量は横風での神経質さと表裏一体なので、平地巡航が多い人はハイト40〜50mmの汎用性が正解。うちの取り扱い帯（8LIEN/CRW/GOOSYNN/NEPEST/FARSPORTS/PARTICLE）で言えば、『軽さ一点狙い』より用途に合ったハイトとリム内幅（ワイドタイヤ対応）で選ぶのが失敗しないコツ。重量値はメーカー公称と実測でズレることがあるので、店頭では実測を添えて説明したい。",
+        "sources": [
+          {
+            "t": "VeloFanatics（2026中華カーボン最良）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026"
+          },
+          {
+            "t": "CyclistsHub（中華カーボン実測テスト2026）",
+            "u": "https://www.cyclistshub.com/best-chinese-carbon-wheels/",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝DRIVE IIが1,322g級・YOELEO NxT SL2がコスパ上位はレビュー各所で一致。曖昧＝重量は仕様・実測で差、購入時は実測確認を推奨。"
+      },
+      {
+        "id": "20260925-market-industry-shakeout",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.image.st-hatena.com/image/scale/85c648441a55083dad826637685ebf1d5ded9378/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcyclekaigyou%2F20260125%2F20260125133221.png",
+        "headline": "【経営メモ・市場／Xでも議論】『ロードバイク・バブルの清算』が続く2026——閉店・撤退と値下げ地獄、参入価格が15〜20万→30〜40万に上昇",
+        "layer1": "国内では在庫過剰から始まった値下げが常態化し、閉店・撤退が相次ぐ『清算』局面が続いている。エントリー価格が2015〜20年の15〜20万円から2023〜26年に30〜40万円へ上がり、『気軽な趣味から富裕層の道楽へ』という構造変化が、SNS（X）でも繰り返し論争になっている。",
+        "layer2": "オーナー視点で先回りする——値下げの常態化はブランド価値を毀損し、『定価で売れない→薄利→在庫回転で延命』の悪循環を生む。だからこそ、うちのような専門店は『価格勝負』ではなく(1)フィッティング・整備・アフターの体験価値(2)中華カーボンなど高コスパ機材で『総額を抑えて満足度を上げる』提案(3)型落ち・決算セールの底値を見極めて仕入れ、で戦うのが筋。参入価格の上昇は逆に、10万円台の完成車＋中華ホイール/コンポで『同じ満足を安く』という提案の追い風でもある。※特定店の閉店・撤退の具体名は個人ブログ発の情報が混じるため、断定せず一次確認のうえ扱う。",
+        "sources": [
+          {
+            "t": "元・自転車屋開業ブログ（バブル崩壊の記録）",
+            "u": "https://kyomu-cycle.hatenablog.com/entry/2026/01/25/133239",
+            "d": "2026-01-25"
+          },
+          {
+            "t": "サイクリング評論家 平本雅典（閉店ラッシュ）",
+            "u": "https://cycling-hiramoto.blog.jp/archives/32897022.html",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝値下げ常態化・参入価格上昇・閉店増加の『傾向』は複数の業界筋で一致。曖昧＝個別店の倒産/撤退の具体名は個人ブログ発が多く、※要裏取り。"
+      },
+      {
+        "id": "20260925-market-autumn-sale",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C164.jpg",
+        "headline": "【経営メモ・市場】秋の決算セールが最需要期——9月末は『底値の山』、型落ちは20〜40%OFF、2027モデル切替で在庫が動く",
+        "layer1": "9月末は多くの店の決算期にあたり、在庫圧縮のため人気ブランドが特価で出やすい『底値の山』。型落ち完成車は新品・保証付きで定価比20〜40%OFFの実例が並び、2027モデルへの切替で旧年式が本格的に動く時期に入った。",
+        "layer2": "先回りで読む買い時と仕入れ——型落ちは『フレーム・コンポはほぼ同じでカラー違いだけ』のケースが多く、年式にこだわらなければ2〜3万円安く同等性能が手に入る。買い手には『人気サイズはセール初日に消える』ので事前に車種・サイズを絞る助言を。オーナー視点では、決算セールは(1)処分の底で仕入れる好機(2)完成車＋ホイール/コンポ同時提案で単価と満足度を上げる好機、の二役。中華カーボンホイールをセット提案すれば、型落ち完成車の『あと一歩の軽量化・見た目』を安価に足せて、値引き合戦に巻き込まれずに差別化できる。",
+        "sources": [
+          {
+            "t": "bike-memo（2026値下げ・高コスパ新興）",
+            "u": "https://bike-memo.com/cycle_260204_roadbike/",
+            "d": "2026-02"
+          },
+          {
+            "t": "プライシー（ロードバイクの安い時期2026）",
+            "u": "https://www.pricey.jp/web/articles/3501",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝9月末決算セールが最需要期・型落ち20〜40%OFFは各所で一致。曖昧＝割引率は店・車種で幅、具体額は店頭確認。"
+      },
+      {
+        "id": "20260925-beginner-first-bike-sale",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C163.jpg",
+        "headline": "【初中級】決算セールで『初めての1台』を買うなら——値引き額より外さない3点（サイズ／型落ちの中身／総額の考え方）",
+        "layer1": "秋の決算セールは初めてのロードバイクを買う好機だが、『安いから』で飛びつくと後悔しがち。外さないコツは(1)まずサイズ、(2)型落ちの『中身』を見る、(3)車体だけでなく総額で考える——の3点に尽きる。",
+        "layer2": "先回りで具体化——(1)サイズは最優先。合わないフレームは値引き額以上に楽しさを削る。人気サイズは初日に売れるので事前に適正サイズを把握しておく。(2)型落ちは『フレーム・コンポがほぼ同じでカラー違いだけ』なら賢い買い物。逆にブレーキがリム式のみ・重い鉄下駄ホイール、なら『安さの理由』を理解して買う。(3)総額思考——ペダル・シューズ・ヘルメット・鍵・保険で数万円が乗る。ここで完成車を少し抑え、ホイールを中華カーボン（10万円前後〜）に載せ替えれば『総額を抑えつつ体感が最も変わる一点』に予算を寄せられる。青切符時代（生活道路30km/h等）に備え、初めてこそ整備とフィッティングをしてくれる店で買うのが結局いちばん安い。",
+        "sources": [
+          {
+            "t": "プライシー（ロードバイクの安い時期・型落ち活用）",
+            "u": "https://www.pricey.jp/web/articles/3501",
+            "d": "2026"
+          },
+          {
+            "t": "bike-memo（2026値下げ・初心者向け）",
+            "u": "https://bike-memo.com/cycle_260204_roadbike/",
+            "d": "2026-02"
+          }
+        ],
+        "status": "確定＝サイズ最優先・型落ちの中身確認・総額思考は普遍の鉄則。曖昧＝中華ホイール価格帯は銘柄で幅（目安10万円前後〜）。"
+      },
+      {
+        "id": "20260925-beginner-china-yoeleo-winspace",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://www.cyclistshub.com/wp-content/uploads/2021/05/YOELEO-vs.-Winspace.jpg",
+        "headline": "【初中級】初めての中華カーボンホイール、『YOELEO と WINSPACE どっち?』——価格帯と用途で選ぶ、外さない考え方",
+        "layer1": "中華カーボン入門でよく迷うのが『YOELEO と WINSPACE のどちらか』。ざっくり言えば、YOELEOは価格・コスパ重視で最初の一本に選ばれやすく、WINSPACEはブランド認知と仕上げ・剛性で一段上の満足を狙う立ち位置。用途と予算で選ぶのが正解だ。",
+        "layer2": "先回りで整理——(1)予算最優先で『まず中華カーボンを体感したい』ならYOELEO（NxT SL2などコスパ上位）。(2)見た目・ブランド・剛性感まで欲しい、正規店の納車実績が安心、ならWINSPACE。(3)ハイトは登り多めなら40mm前後、平地巡航が多いなら50mm前後、迷えば汎用の45〜50mm。(4)リム内幅は今どきの28c前後ワイドタイヤに合うものを。フックレスなら対応タイヤ・空気圧上限を必ず守る。どちらも『中華枠』ではなく通常比較の土俵に上がったブランドで、外れを引くリスクは以前よりずっと小さい。うちの取り扱い（8LIEN/CRW/GOOSYNN/NEPEST等）でも、同じ考え方——『安さ一点』でなく用途・ハイト・内幅で選ぶ——が失敗しない王道。",
+        "sources": [
+          {
+            "t": "CyclistsHub（YOELEO vs Winspace 2026）",
+            "u": "https://www.cyclistshub.com/yoeleo-vs-winspace/",
+            "d": "2026"
+          },
+          {
+            "t": "bike-memo（2026中華カーボン格付け）",
+            "u": "https://bike-memo.com/cycle_260202_carbon-wheels/",
+            "d": "2026-02"
+          }
+        ],
+        "status": "確定＝両ブランドの立ち位置（YOELEO=コスパ/WINSPACE=ブランド・仕上げ）はレビュー各所で一致。曖昧＝モデル別の優劣は用途次第、実測重量は要確認。"
+      }
+    ]
+  },
+  {
     "date": "2026-09-24",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。世界選はいよいよロード本番——本日9/24はU23女子＆ジュニア男子、田中麗奈・水谷彩奈の日本勢も出走します。エリートは女子9/26・男子9/27（ポガチャル不在の『空位の虹』）。2027移籍バブル、Dura-Ace13速の互換不安、国内の中華ホイール事情もまとめました。",
     "cards": [
