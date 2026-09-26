@@ -1,5 +1,289 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-09-27",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。いよいよ本日9/27は男子エリートの『空位の虹』決戦、そして昨日はフォレリングがついに悲願の初虹。レース4本＋グラベル世界選・中華機材・値上げの波まで、鮮度最優先で底まで潜りました。",
+    "cards": [
+      {
+        "id": "20260927-vollering-rainbow",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/MAM5hc3AzpqiBh7faUKxVh-2560-80.jpg",
+        "headline": "【🔥今日の一本・レース／人間ドラマ】フォレリングが『悲願の初レインボー』——最終周デュエルでニーワイアドマを競り落とし、ロンゴボルギーニ銅",
+        "layer1": "9/26モントリオールの女子エリートロード（180.1km）で、デミ・フォレリング（蘭）がキャリア初のロード世界王者に。最後はカタジナ・ニーワイアドマ（ポーランド）との一騎打ちのスプリントを制した。",
+        "layer2": "表彰台は①フォレリング 4:45:09／②ニーワイアドマ 同タイム／③ロンゴボルギーニ +4秒（4位ロイサー・5位ベルテ）。ニーワイアドマは早駆けスプリントの終盤に脚が攣り、横並びからフォレリングが差し切った。ツール総合女王でありながら世界選の虹だけは何度も逃してきたフォレリングが、ついに手にした一枚——『万年惜敗』の物語がここで完結した、というのが刺さる角度。数字は複数媒体で一致（確定）。",
+        "sources": [
+          {
+            "t": "Cyclingnews（詳報）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/uci-road-world-championships-demi-vollering-outsprints-kasia-niewiadoma-phinney-to-first-world-title-in-womens-elite-road-race-after-gripping-final-lap-duel/",
+            "d": "2026-09-26"
+          },
+          {
+            "t": "ProCyclingUK（結果・タイム）",
+            "u": "https://procyclinguk.com/demi-vollering-wins-the-2026-world-championships/",
+            "d": "2026-09-26"
+          },
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/racing/demi-vollering-sprints-to-victory-in-world-championships-womens-road-race-thriller-around-montreal",
+            "d": "2026-09-26"
+          }
+        ],
+        "status": "確定＝優勝フォレリング・2位ニーワイアドマ・3位ロンゴボルギーニ、タイム差は複数媒体一致。"
+      },
+      {
+        "id": "20260927-men-rr-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/8PkTJPKGrgqMM2cQxQMqxX-1600-80.png",
+        "headline": "【レース・本日決戦／展望】男子エリートは本日9/27『空位の虹』——ポガチャル不在で十数人に勝機、273.7km・3,803mの総力戦",
+        "layer1": "世界選最終日、男子エリートロードは本日決戦（273.7km・獲得3,803m、モンロワイヤル周回12周）。連覇王者ポガチャルがブエルタ落車で不在のため、優勝候補が一気に広がった。",
+        "layer2": "本命群はレムコ（2022王者・今大会TT4連覇）、ファンデルプール（2023王者）、ファンアールト、そして2週間前に同コースのGPモントリオールを制したデルトロ（メキシコ）と、そこで2位だった19歳セイシャス（仏）。ピドコック・シモンズらパンチャーも圏内。ベルギーは『レムコ＆ファンアールトの二枚看板』を公言、レムコは「守りに入ったら自分を許せない」と攻めを明言。カギはカミリアン・ウード（約2.3km・6.2%）とポリテク激坂（11%超）を12回こなす消耗戦で、誰が最後の登りゴールに脚を残すか。J SPORTSは日本時間21:50〜生中継。",
+        "sources": [
+          {
+            "t": "Cyclingnews（候補分析）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/a-wide-open-face-off-between-evenepoel-del-toro-seixas-van-der-poel-and-more-for-the-rainbow-jersey-analysing-the-world-championships-elite-mens-road-race-contenders/",
+            "d": "2026-09-26"
+          },
+          {
+            "t": "Domestique（プレビュー）",
+            "u": "https://www.domestiquecycling.com/en/features/2026-world-championships-elite-mens-road-race-preview-who-will-seize-pogacars-throne/",
+            "d": "2026-09-26"
+          },
+          {
+            "t": "J SPORTS（放送）",
+            "u": "https://www.jsports.co.jp/program_guide/12/08/111847_4283635/",
+            "d": "2026-09-27"
+          }
+        ],
+        "status": "確定＝コース273.7km/3,803m・本日開催・ポガチャル不在。展望＝本命は十数人で流動的。"
+      },
+      {
+        "id": "20260927-japan-hashikawa",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://kinan.racing/wp/wp-content/uploads/2026/06/20260628_NCRR_E_084-1.jpg",
+        "headline": "【レース・日本勢／人間ドラマ】日本唯一のエリート男子・橋川丈が本日『空位の虹』に挑む——ベルギー生まれ、全日本10位から世界へ",
+        "layer1": "本日9/27の男子エリートロードに、日本からは橋川丈（キナンサイクリングチーム）が単騎で出走。エリート女子には阿部花梨も派遣され、昨日のロードで世界に挑んだ。",
+        "layer2": "橋川はベルギー生まれのバックボーンを持ち、6月の全日本ロードで10位・個人TTで2位、8月にはトルコのUCI1.2レースで3位表彰台。世界のトップと273.7km・3,803mを走り切ること自体が大きな挑戦で、完走・生き残りがまず目標になる。新藤大翔・山里一心はU23（9/25ロードで世界の壁に挑戦済み）で、エリート枠とは別。単騎の日本人がワールドクラスの消耗戦でどこまで食らいつくか——結果速報よりも『世界に一人で立つ』という角度で追いたい。",
+        "sources": [
+          {
+            "t": "cyclowired（日本代表発表）",
+            "u": "https://www.cyclowired.jp/news/node/393269",
+            "d": "2026-09"
+          },
+          {
+            "t": "日本自転車競技連盟（派遣選手団）",
+            "u": "https://jcf.or.jp/news-84241/",
+            "d": "2026-09"
+          },
+          {
+            "t": "KINAN Racing（戦績）",
+            "u": "https://kinan.racing/report/1943/",
+            "d": "2026-06-28"
+          }
+        ],
+        "status": "確定＝橋川丈がエリート男子ロードに出走・キナン所属・全日本10位。※本日の結果は要追記。"
+      },
+      {
+        "id": "20260927-spain-teamcar",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://chan-bike.com/wp-content/uploads/2026/09/moko0407_A_dramatic_photorealistic_road_cycling_scene_at_the__63f1d5ce-08ea-48e9-9f53-e60c63fcc48a_1.png",
+        "headline": "【レース・波紋／Xでも話題】スペインのチームカーが世界選コースを『まるでラリー』——監督に大会除外＋1000CHFの罰金",
+        "layer1": "9/25の男子ジュニアロードで、スペイン代表監督が運転するチームカーがコースを猛スピードで疾走。段差で4輪が浮いたように見える映像がSNSで拡散し、審判団は監督に1,000スイスフランの罰金と2026世界選からの除外を科した。",
+        "layer2": "Xで『危険すぎる』と拡散したのが入口だが、裏取りできる一次情報として、運転者はスペイン・ジュニア代表監督（エレウテリオ・アングイタ・イノホサス）で、処分は競技車両の走行規則違反によるもの、と報じられている。皮肉にも当のジュニア男子ロードはスペインのベンハミン・ノバルが個人TTに続く金メダル。選手の快挙とチーム運営の不祥事が同じ日に同居した——安全運行はレース運営の根幹という角度で、記事・ショート化しやすい話題。",
+        "sources": [
+          {
+            "t": "ロードバイクはやめられない",
+            "u": "https://chan-bike.com/a-spanish-team-car-races-at-breakneck-speed-along-the-world-championship-circuit",
+            "d": "2026-09-26"
+          }
+        ],
+        "status": "確定＝監督除外＋1000CHF罰金・ジュニア男子はノバル金。※原映像はX発、処分は競技団発表で裏取り済み。"
+      },
+      {
+        "id": "20260927-winspace-gravel-wheels",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://winspace.jp/cdn/shop/articles/Image_20260720232200_2919_11_66d99dd2-4c54-4294-be86-be4ce2cca0c0.jpg?v=1789627175&width=1200",
+        "headline": "【ホイール・新製品】WINSPACEがグラベル専用『Lún GRYPER 2／GRAPID 2』を投入（9/17）——グラベル世界選需要にピタリ照準",
+        "layer1": "中華カーボンの雄WINSPACEが、9/17にグラベル向けカーボンホイール2モデル『Lún GRYPER 2』『GRAPID 2』を発表。ロード用ディープに続き、専用グラベルまでラインを広げた。",
+        "layer2": "公式ニュース上では詳細スペック（重量・リム内幅・価格）はまだ限定的で、ここは要続報（曖昧）。狙いは明確で、10/10-11の欧州外初開催グラベル世界選（豪ナナップ）に向けて世界的にグラベル熱が高まるこのタイミングに合わせた投入。中華勢が『ロードのコスパ枠』から『グラベル・TT・完成車まで揃う総合ブランド』へ動いている証左で、うち（8LIEN/CRW/GOOSYNN等）でもグラベル用途の問い合わせ増を見込むべき一手。",
+        "sources": [
+          {
+            "t": "WINSPACE JAPAN 公式",
+            "u": "https://winspace.jp/",
+            "d": "2026-09-17"
+          }
+        ],
+        "status": "確定＝グラベル2モデルを9/17発表。※重量・内幅・価格は公式詳細待ち（要裏取り）。"
+      },
+      {
+        "id": "20260927-gravel-worlds-nannup",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://ucigravelworldseries.com/wp-content/uploads/sites/195/2026/04/N16_3108991.jpg",
+        "headline": "【トレンド・グラベル】グラベル世界選は10/10-11、豪ナナップで『欧州外・初開催』——男子140.7km／3,625mの超級、別府史之も魅力を発信",
+        "layer1": "ロード世界選が本日で幕を閉じると、次の世界の主役はグラベル。10/10-11に西オーストラリア・ナナップで、史上初の欧州外グラベル世界選が開催される。",
+        "layer2": "コースは女子123.1km／男子140.7km（獲得3,625m）で、80%以上がグラベル。会場はパースから車で約3時間半、ブラックウッド川とカリの森に囲まれた町で、2022年からUCIグラベルワールドシリーズ公式戦の地。日本では別府史之がこの大会の魅力を発信しており、国内のグラベル人気を後押しする追い風になりそう。『レース＝ロードだけ』ではない多様化が、機材（グラベルホイール・太タイヤ・1x化）の需要を静かに広げている、という角度。",
+        "sources": [
+          {
+            "t": "UCI Gravel World Series（コース発表）",
+            "u": "https://ucigravelworldseries.com/en/uci-reveals-courses-for-the-2026-uci-gravel-world-championships-in-nannup-western-australia/",
+            "d": "2026-09"
+          },
+          {
+            "t": "Yahoo!ニュース（別府史之）",
+            "u": "https://news.yahoo.co.jp/articles/1d96edf92242c18492923dab7d80b2fab680c957",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝10/10-11・豪ナナップ・欧州外初・男子140.7km/3,625m。"
+      },
+      {
+        "id": "20260927-china-full-range",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C163.jpg",
+        "headline": "【パーツ・機材読み】中華カーボンが『TT一体コックピット・完成車』まで拡張——WINSPACEが9月に新製品を連発、もう“ホイール屋”ではない",
+        "layer1": "WINSPACEはこの9月だけで、グラベルホイール（9/17）に加え、TT・トライアスロン向けの『HYPER TTコックピット』（9/17）、TT5完成車へのLún HYPER 3追加（9/16）を相次いで発表。中華勢の守備範囲が一気に広がった。",
+        "layer2": "かつて中華カーボンは『安いホイールの選択肢』だったが、いまは一体型エアロコックピット・TT完成車・グラベル専用と、大手と同じ土俵の“フルレンジ”に踏み込んでいる。裏を返せば、価格だけでなく設計・空力の作り込みで勝負する段階に入ったということ。うちの取扱い（8LIEN/CRW/GOOSYNN/NEPEST/FARSPORTS/PARTICLE）でも、『ホイールついでにコックピットやハンドル周りも中華で』という相談が今後増える見立て。TTコックピット等の詳細スペックは公式続報待ち（曖昧）。",
+        "sources": [
+          {
+            "t": "WINSPACE JAPAN 公式（NEWS）",
+            "u": "https://winspace.jp/",
+            "d": "2026-09-17"
+          }
+        ],
+        "status": "確定＝TTコックピット/TT5完成車/グラベルを9月に連発。※各詳細スペックは公式続報待ち。"
+      },
+      {
+        "id": "20260927-market-2027-priceup",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://static.giant-bicycles.com/Images/Giant/giant-share-image-default-2023.jpg",
+        "headline": "【経営メモ・市場】2027は『値上げの波』——GIANTが9/1に8車種を価格改定、TREKも実例、参入価格の上振れ続く",
+        "layer1": "2027モデルの発表とともに、大手の価格改定（値上げ）が並走。GIANTは2027継続販売の完成車8車種を9/1より希望小売価格改定（8/31までの注文分は現行価格）と告知した。",
+        "layer2": "TREKでもDomane AL 4 Gen 4が21.9万→22.9万円など値上げ実例が出ており、『型落ち処分（決算セール）で下がる相場』と『新モデルの上振れ相場』の二層化がいっそう鮮明。エントリーの参入価格が実質30〜40万に寄っていく流れは変わらず、店頭では“いま買うなら型落ち一択か、値上げ前の駆け込みか”という接客が効く局面。値上げ幅の全車種明細は各社告知待ち（曖昧）。うちの中華カーボンは、この『大手値上げ』の受け皿として相対お得感がさらに立つ。",
+        "sources": [
+          {
+            "t": "Giant Bicycles Japan（2027価格改定）",
+            "u": "https://www.giant-bicycles.com/jp/news/bike-gear-2027/30870",
+            "d": "2026-09"
+          },
+          {
+            "t": "ちばサイクル（TREK 2027値上げ情報）",
+            "u": "https://chibacycle.com/blog/index.php?category=sp&store=concept&p=5799",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝GIANT 8車種9/1改定・TREK値上げ実例あり。※全車種の値上げ幅明細は各社告知待ち。"
+      },
+      {
+        "id": "20260927-market-pinarello-affordable",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://kuruma-news.jp/wp-content/uploads/2027/09/20260909_pinarello_01.jpg?v=1788927396",
+        "headline": "【経営メモ・市場】大手が『手頃カーボン』で反攻——ピナレロが新Fシリーズ2027に手頃価格モデルを設定",
+        "layer1": "老舗ピナレロが新レーシングロード『F』シリーズの2027モデルを発表。カーボンフレームながら“手頃価格”モデルも設定し、多彩なラインナップで裾野を広げにきた。",
+        "layer2": "値上げの一方で、大手が“エントリー寄りのカーボン”を強化する動きが同時進行しているのが今の市場の妙。狙いは、中華カーボンや台湾勢が押さえてきた『そこそこ良いカーボンを手頃に』という価格帯を、ブランド力で取り返すこと。ショップ視点では、①大手の手頃カーボン ②中華直販カーボン ③型落ち上位モデル——の三つ巴で客の予算が奪い合いになる。うちは“完成車の絶対価格”ではなく“ホイール投資で体感を変える”提案で差別化するのが得策。ピナレロFの具体価格・重量は正式発表待ち（曖昧）。",
+        "sources": [
+          {
+            "t": "くるまのニュース（ピナレロF 2027）",
+            "u": "https://kuruma-news.jp/post/1110572",
+            "d": "2026-09-09"
+          }
+        ],
+        "status": "確定＝Fシリーズ2027に手頃カーボン設定。※価格・重量の詳細は正式発表待ち（要裏取り）。"
+      },
+      {
+        "id": "20260927-beginner-first-gravel",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://ucigravelworldseries.com/wp-content/uploads/sites/195/2026/04/N16_3108991.jpg",
+        "headline": "【初中級】グラベル世界選（10/10-11）を見て気になったら——『初めてのグラベルバイク』とロードとの違い、外さない3点",
+        "layer1": "世界選がグラベルへ移り、SNSでも『グラベル始めたい』の声が増える時期。ロード一台目とは選ぶ軸が変わるので、最初の一台で外さない要点を整理する。",
+        "layer2": "①タイヤクリアランス（40mm以上入るか＝走れる路面の幅が決まる）／②ジオメトリー（ロードより長めホイールベースで安定、でも“レース寄り”か“ツーリング寄り”かで別物）／③ギア比と1x/2x（未舗装の登りは軽いギアが正義、悩んだら1xがシンプル）。ロードとの最大の違いは『太タイヤ×低圧で不整地を丸める』設計思想で、ここを外すと“ただ重いロード”になる。中華カーボンのグラベルホイール（今日のWINSPACE等）も選択肢に入ってきたので、まずは用途（通勤兼用か、林道ロングか、レースか）を言語化してから相談を。",
+        "sources": [
+          {
+            "t": "UCI Gravel World Series（大会情報）",
+            "u": "https://ucigravelworldseries.com/en/uci-reveals-courses-for-the-2026-uci-gravel-world-championships-in-nannup-western-australia/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝選定3点は一般的な設計原則。用途の言語化が最初の一歩。"
+      },
+      {
+        "id": "20260927-beginner-watch-guide",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/8PkTJPKGrgqMM2cQxQMqxX-1600-80.png",
+        "headline": "【初中級・観戦】本日の男子ロード『空位の虹』を10倍楽しむ——見どころ3つと、北米開催で見やすい時間帯",
+        "layer1": "本日9/27の男子エリートロードは、王者ポガチャル不在で優勝候補が十数人という近年まれな大混戦。初中級が観ても面白い『見どころ』を3つに絞る。",
+        "layer2": "①周回コースの登り＝13.4km周回を12回、カミリアン・ウードとポリテク激坂（11%超）で毎周ふるいにかけられる＝『誰が最後まで脚を残すか』を追うと展開が読める／②国別の駆け引き＝ベルギー（レムコ＆ファンアールト）vs 単独エースの国、集団を誰が牽引するか／③新旧の物語＝2週間前に同コースを制した21歳デルトロと19歳セイシャスら“新世代”が、ファンデルプールら実績組を食えるか。北米開催で日本時間の夜（J SPORTSは21:50〜生中継予定）に見やすいのも今大会の利点。結果は明朝のタイムラインで追記する。",
+        "sources": [
+          {
+            "t": "Cyclingnews（候補分析）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/a-wide-open-face-off-between-evenepoel-del-toro-seixas-van-der-poel-and-more-for-the-rainbow-jersey-analysing-the-world-championships-elite-mens-road-race-contenders/",
+            "d": "2026-09-26"
+          },
+          {
+            "t": "J SPORTS（放送時間）",
+            "u": "https://www.jsports.co.jp/program_guide/12/08/111847_4283635/",
+            "d": "2026-09-27"
+          }
+        ],
+        "status": "確定＝本日開催・混戦・日本時間夜に生中継予定。見どころは観戦の一般解。"
+      },
+      {
+        "id": "20260927-transfers-2027",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039128-048.jpg?width=2400&height=1260&quality=75&crop=6000%2C3150%2C0%2C425",
+        "headline": "【トレンド・移籍】2027商戦は『大詰めの週』——世界選が終われば発表ラッシュ、リドル・トレックが補強を積み上げ",
+        "layer1": "世界選（本日閉幕）を境に、2027シーズンへの移籍発表が加速する。すでに最初の大型移籍は確定し、複数の大物ディールが最終調整に入っている。",
+        "layer2": "各国の情報を突き合わせると、リドル・トレックが着実に戦力を積み上げているのが今オフの目立った動き。世界選の結果が“最後の品定め”となり、活躍した選手の値が跳ね上がる／伸び悩んだ選手が動く、という力学が働く。日本のローディーもXで『どのチームがどう変わるか』を熱心に追う時期で、注目選手の去就は記事・ショートの定番ネタ。個別の確定移籍先は各チーム正式発表で順次裏取りする（一部は交渉中で曖昧）。",
+        "sources": [
+          {
+            "t": "Domestique（2026/27移籍まとめ）",
+            "u": "https://www.domestiquecycling.com/en/features/the-2026-2027-transfer-overview/",
+            "d": "2026-09"
+          },
+          {
+            "t": "cyclowired（移籍情報）",
+            "u": "https://www.cyclowired.jp/tag/term/1163",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝世界選後に発表ラッシュ・リドルトレック補強。※個別移籍先は各チーム正式発表で裏取り（交渉中は曖昧）。"
+      }
+    ]
+  },
+  {
     "date": "2026-09-26",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。モントリオール世界選はいよいよ大詰め——昨9/25のU23男子はアシュリン・バリーが『19歳の誕生日に30km独走』で金、そして本日9/26はエリート女子ロード（180.4km・8周）が決戦、明日9/27はポガチャル不在の『空位の虹』をエリート男子が争います。日本勢・新藤／山里の挑戦、グラベル熱（キャニオン新グレイル）、中華カーボンの新顔、そして国内は秋の決算セール『底値の山』と青切符半年の実像までまとめました。",
     "cards": [
