@@ -1,5 +1,304 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-09-28",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。昨日9/27の男子エリートは大波乱——本命が総崩れするなか、米国のブランドン・マクナルティが『32kmの独走』で逃げ切り、なんと33年ぶりの星条旗の虹。世界選が閉幕し、季節はイタリアの秋クラシックへ。レース＋移籍ラッシュ＋国内市場まで、鮮度最優先で底まで潜りました。",
+    "cards": [
+      {
+        "id": "20260928-mcnulty-rainbow",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/jtsiiEWyar6Ntf8WjzrJNW-2560-80.jpg",
+        "headline": "【🔥今日の一本・レース／人間ドラマ】マクナルティが『33年ぶりの星条旗の虹』——残り32kmの独走を逃げ切り、米国に33年ぶりのロード世界王者",
+        "layer1": "9/27モントリオールの男子エリートロード（273.7km）で、ブランドン・マクナルティ（米・28歳）がキャリア初のロード世界王者に。エリート集団から残り約32km（20マイル）で単独で抜け出し、最後まで守り切った。",
+        "layer2": "表彰台は①マクナルティ／②マイケル・マシューズ（豪）+13秒／③ファンデルプール（蘭）。米国男子のロード世界王者はランス・アームストロング（1993年）以来『33年ぶり』で、歴代でもグレッグ・レモン（1983・89）、アームストロング（1993）に続く3人目という重みがある。TTスペシャリストと見られてきたマクナルティが、本命総崩れの大混戦で『逃げ切り』という最も難しい勝ち方をやってのけた——ここが刺さる角度。優勝タイム・差は複数媒体で一致（確定）。",
+        "sources": [
+          {
+            "t": "NBC Sports（結果・33年の意味）",
+            "u": "https://www.nbcsports.com/olympics/news/brandon-mcnulty-world-championships-road-race-2026",
+            "d": "2026-09-27"
+          },
+          {
+            "t": "CyclingUpToDate（詳報・タイム）",
+            "u": "https://cyclinguptodate.com/cycling/live-2026-world-championships-elite-mens-road-race-evenepoel-van-der-poel-van-aert-pidcock-del-toro-and-seixas-battle-for-the-rainbow-jersey",
+            "d": "2026-09-27"
+          },
+          {
+            "t": "Cyclingnews（ライブ／American takes title after 32km solo）",
+            "u": "https://www.cyclingnews.com/pro-cycling/live/road-world-championships-2026-elite-mens-road-race-live-who-will-be-pogacars-successor-the-battle-for-the-rainbow-jersey-ignites-in-montreal/",
+            "d": "2026-09-27"
+          }
+        ],
+        "status": "確定＝優勝マクナルティ・2位マシューズ（+13秒）・3位ファンデルプール、33年ぶりの米国王者は複数媒体一致。"
+      },
+      {
+        "id": "20260928-favorites-collapse",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-09%2Fcaptura-de-ecra-2026-09-27-202821-6ab96e6410a7c.png",
+        "headline": "【レース・人間ドラマ】本命が獲れなかった虹——レムコ・デルトロ・ピドコックが届かず、35歳マシューズが『分裂した追走』から銀",
+        "layer1": "前評判の主役だったエヴェネプール、デルトロ、ピドコック、ファンアールト、19歳セイシャスらはいずれも表彰台に届かず。追走勢が『誰が引くか』で足並みを乱すうち、逃げるマクナルティが差を守り切った。",
+        "layer2": "ファンデルプールですら銅が精一杯。その混戦から抜け出したのが、ベテラン35歳のマイケル・マシューズ——分裂した追走の中から一気に浮上して銀をつかんだ。『十数人に勝機』と言われた超オープンな一戦は、逆に“決め手を欠く”展開になり、脚より頭（協調の失敗）が勝敗を分けた。ポガチャル不在の穴は誰も埋められず、代わりに『逃げ切り』が刺さった、という構図。表彰台順は確定、4位以下の細かな順位は媒体により差があり要確認。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（本命勢の失速・追走の停滞）",
+            "u": "https://cyclinguptodate.com/cycling/live-2026-world-championships-elite-mens-road-race-evenepoel-van-der-poel-van-aert-pidcock-del-toro-and-seixas-battle-for-the-rainbow-jersey",
+            "d": "2026-09-27"
+          },
+          {
+            "t": "Cyclingnews（レース展開ライブ）",
+            "u": "https://www.cyclingnews.com/pro-cycling/live/road-world-championships-2026-elite-mens-road-race-live-who-will-be-pogacars-successor-the-battle-for-the-rainbow-jersey-ignites-in-montreal/",
+            "d": "2026-09-27"
+          }
+        ],
+        "status": "確定＝表彰台（マクナルティ・マシューズ・ファンデルプール）。※4位以下の順位は媒体差あり、要裏取り。"
+      },
+      {
+        "id": "20260928-lombardia-autumn",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/SgADNE4s3sfYECFu2YKPij-1500-80.png",
+        "headline": "【レース・次戦／季節の締め】世界選が閉幕、舞台はイタリアの秋へ——『落葉のクラシック』ロンバルディアは10/10、今年はポガチャル不在＆新フィナーレ",
+        "layer1": "世界選が終わり、2026シーズンは最終章のイタリア秋クラシックへ。ジロ・デ・ミラ（10/3）を皮切りに、コッパ・アゴスティーニ（10/4）・コッパ・ベルノッキ（10/5）・トレ・ヴァッリ・ヴァレジネ（10/6）・グラン・ピエモンテ（10/8）、そして締めのイル・ロンバルディア（10/10）。",
+        "layer2": "ロンバルディアはベルガモ発コモ着の239km・獲得4,600m・9つの登り。名物マドンナ・デル・ギザッロを越えたあと、今年はコモ旧市街のサン・フェルモ・デッラ・バッタリア（2.7km・7.2%）を『2回』通す新周回フィナーレに、激坂チヴィリオ（4.2km・9.7%）を挟む登坂決戦。連覇してきたポガチャルはブエルタ落車の負傷で今季全休が確定しており、こちらも『空位の落葉』。世界選で燃え尽きなかった登坂型・パンチャーに大チャンス。日程・コースは複数媒体で一致（確定）。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ロンバルディア新コース）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/il-lombardia-2026-route-to-include-double-ascent-of-crunch-san-fermo-della-battaglia-climb/",
+            "d": "2026-09-24"
+          },
+          {
+            "t": "Domestique（ポガ不在・新フィナーレ）",
+            "u": "https://www.domestiquecycling.com/en/news/no-pogacar-a-circuit-finale-and-a-team-presentation-whats-new-at-il-lombardia-in-2026/",
+            "d": "2026-09-24"
+          }
+        ],
+        "status": "確定＝ロンバルディア10/10・239km/4,600m・サン・フェルモ2回、秋クラシック日程。ポガチャルは今季全休。"
+      },
+      {
+        "id": "20260928-transfer-rush",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/wkjAMsthJBdovBD2YoLmmK-1024-80.jpg",
+        "headline": "【トレンド・移籍／Xでも話題】世界選が終わり『発表解禁ラッシュ』へ——グローブスがチューダー、ヒンドレーがヴィスマ、200人超がフリーの大乱戦",
+        "layer1": "8/1に交渉が解禁された2027シーズンの移籍市場は、世界選の閉幕を合図に発表が一段と加速。確定済みでは、豪スプリンターのケーデン・グローブスがワールドツアーを離れてチューダー・プロサイクリングへ、ジェイ・ヒンドレーがレッドブルを出てヴィスマ・リースアバイクへ。",
+        "layer2": "今オフは『200人超がフリー』とも言われる大乱戦で、女子でも“初の100万ドル契約”時代に入り市場全体が過熱。X（旧Twitter）や各メディアではログリッチのロット移籍説も再燃しているが、本人が明言を避けており出所は噂レベル——『※要裏取り』。世界選の結果（マクナルティ優勝など）で株を上げた選手の契約更改・条件交渉にも波及する“発表の秋”。確定移籍は媒体一致、噂は峻別して扱う。",
+        "sources": [
+          {
+            "t": "Cyclingnews（2027移籍トラッカー）",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/cycling-transfers-all-the-latest-news-and-announcements-for-the-2027-season/",
+            "d": "2026-09-26"
+          },
+          {
+            "t": "Cycling Weekly（2027移籍・グローブスら）",
+            "u": "https://www.cyclingweekly.com/racing/all-the-pro-cycling-transfers-for-2027",
+            "d": "2026-09-25"
+          },
+          {
+            "t": "Velo（200人超フリー・女子100万ドル）",
+            "u": "https://velo.outsideonline.com/news/cycling-transfer-market-2026-27/",
+            "d": "2026-09-20"
+          }
+        ],
+        "status": "確定＝グローブス→チューダー、ヒンドレー→ヴィスマ。※ログリッチ→ロットは噂、要裏取り。"
+      },
+      {
+        "id": "20260928-china-wheel-worlds",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/01/zakki_C128.jpg",
+        "headline": "【ホイール・機材読み】モントリオールで効いたのは『ディープ』ではなく軽量オールラウンド——登り12回の消耗戦は中華ミドルハイトの狙い目",
+        "layer1": "昨日の男子ロードは登坂を12回こなす消耗戦で、勝負を決めたのはTTのようなディープリムではなく“登れて回せる”軽量オールラウンド。同じ傾向は10/10ロンバルディアなどの秋クラシックにも当てはまる。",
+        "layer2": "国内の2026格付け（マイベスト等）でも中華カーボンは上位に定着し、もはや『中華枠』ではなく通常比較の土俵。狙い目は40〜50mmハイトでカーボンスポーク、実測1,300〜1,400g台のミドルハイト——登りで置いていかれず、平坦でも失速しにくい“万能型”。うちの取扱（8LIEN／CRW／GOOSYNN／NEPEST／YOELEO等）ならこの帯が主戦場で、『世界選で映えたのは軽量オールラウンド』は接客のそのまま殺し文句になる。数字はブランド公称ベース、実測は個体差ありで要確認。",
+        "sources": [
+          {
+            "t": "Cyclingnews（モントリオールは登坂反復の消耗戦）",
+            "u": "https://www.cyclingnews.com/pro-cycling/live/road-world-championships-2026-elite-mens-road-race-live-who-will-be-pogacars-successor-the-battle-for-the-rainbow-jersey-ignites-in-montreal/",
+            "d": "2026-09-27"
+          },
+          {
+            "t": "bike-memo（2026中華カーボン格付け）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-01-18"
+          }
+        ],
+        "status": "確定＝コースは登坂反復の消耗戦（媒体一致）。中華の重量・性能はランキング支持＋公称ベース、実測は要確認。"
+      },
+      {
+        "id": "20260928-beginner-breakaway",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/09/mcnulty-worlds.jpg",
+        "headline": "【初中級】マクナルティの『32km独走』に学ぶ——なぜ逃げは決まったのか、アマがマネできること・できないこと",
+        "layer1": "世界王者マクナルティは残り32kmで単独に。プロでも滅多に決まらない“ロング逃げ切り”が成立した裏側を、初中級ライドに落とし込む。",
+        "layer2": "①逃げが残る条件＝追走の『協調の失敗』。誰も引きたがらない時に差は縮まらない——グループライドでも“交代しないと前は行かせる”は同じ。②プロは閾値（FTP付近）を淡々と刻む一定ペース。初中級が独走を試すなら、飛ばし過ぎず“ちょい上”を我慢する練習が近道。③向かい風・開けた区間は独走の敵。風向きを読んで、風下や登りで仕掛けるのがセオリー。マネできないのは絶対出力そのものだが、『ペース管理と駆け引き』は誰でも学べる——ここが今日の観戦のオイシイところ。",
+        "sources": [
+          {
+            "t": "Velo（マクナルティの走り・USの布陣）",
+            "u": "https://velo.outsideonline.com/road/road-racing/brandon-mcnulty-team-usa-worlds-outsider/",
+            "d": "2026-09-24"
+          },
+          {
+            "t": "NBC Sports（残り20マイルからの独走）",
+            "u": "https://www.nbcsports.com/olympics/news/brandon-mcnulty-world-championships-road-race-2026",
+            "d": "2026-09-27"
+          }
+        ],
+        "status": "確定＝残り約32km独走・追走停滞で逃げ切り（媒体一致）。練習法は一般論。"
+      },
+      {
+        "id": "20260928-beginner-climbing",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2025/Men/UAE-Emirates-XRG/CORVOS_00038442-212.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C141",
+        "headline": "【初中級】秋のイタリアは『登り勝負』——チヴィリオ9.7%に憧れたら、ヒルクライムが速くなる3つの効きどころ",
+        "layer1": "これから続くイタリア秋クラシックは、ギザッロやチヴィリオ（4.2km・9.7%）など激坂が主役。テレビで登坂に痺れたら、自分のヒルクライムを底上げする番。",
+        "layer2": "効くのはこの3点。①パワーウェイトレシオ＝分子（出力）だけでなく分母（体重）。装備込みで1kg減れば同じ坂が体感で軽くなる。②ギア比＝『足りないギアで無理に踏む』が失速の元。34×32Tや34×34Tなど“もう一枚軽い”を用意しておくと最後まで回せる。③軽量ホイール＝反復する短い坂の“踏み直し”で効く。回転重量が軽いと加速の立ち上がりが速く、垂れにくい。まずは無理なくできる①体重管理と②ギア比から。数字は一般論、体感差は個人による。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ロンバルディアのチヴィリオ等の登坂）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/il-lombardia-2026-route-to-include-double-ascent-of-crunch-san-fermo-della-battaglia-climb/",
+            "d": "2026-09-24"
+          }
+        ],
+        "status": "確定＝コースの登坂勾配（媒体記載）。トレーニング内容は一般論。"
+      },
+      {
+        "id": "20260928-market-kessan-sale",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://pedalism.jp/wp-content/uploads/2026/08/ec_p681.jpg",
+        "headline": "【経営メモ・市場】9月末＝中間決算セールのピーク——型落ち20〜40%OFFの『底値の山』、2027モデル切替で在庫が一気に動く",
+        "layer1": "9月末は多くの店の中間決算。在庫圧縮・節税を狙って型落ち完成車のセールが本格化し、20〜40%OFFの実例が並ぶ。値引きの山は例年8〜10月の旧モデル処分期。",
+        "layer2": "買い手目線では、30万円級カーボンなら6〜12万円安が現実的レンジ。マサル視点（経営）で押さえるべきは3点：①2027モデルの切替で“棚を空けたい”今が最も値が動く＝仕入れ・下取りの回転を上げる好機。②大手のセール実例（価格.com値下げランキング、ワイズ等のオータムセール）を毎週ウォッチして相場の底を把握。③値引き競争に巻き込まれず『中華カーボンで参入価格を下げつつ利幅を確保』が差別化。安売り記事は入口、着地はうちの提案力。数字は各店実例・過去傾向ベースで、対象・在庫は流動的。",
+        "sources": [
+          {
+            "t": "Pedalism（ロードバイクの安い時期・9月末決算）",
+            "u": "https://pedalism.jp/road-bike-sale-timing-when-cheap/",
+            "d": "2026-08-20"
+          },
+          {
+            "t": "プライシー（2026セール時期・値引き幅）",
+            "u": "https://www.pricey.jp/web/articles/3501",
+            "d": "2026-09-01"
+          }
+        ],
+        "status": "曖昧＝値引き幅・時期は一般傾向と過去実例。個別の対象車種・在庫は要現認。"
+      },
+      {
+        "id": "20260928-market-price-china",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C163.jpg",
+        "headline": "【経営メモ・市場／Xでも議論】値上げの波で『相対お得感』——大手はメーカー希望価格を改定、中華カーボンが受け皿に",
+        "layer1": "GIANTが9/1に2027継続車8車種を価格改定（値上げ）、シマノも8/1にコンポを値上げ済み。完成車の参入価格は上振れが続き、エントリーでも30〜40万円が珍しくない“価格の二極化”。",
+        "layer2": "これで効くのが中華カーボンの『相対お得感』——大手が上げるほど、据え置きの中華が割安に見える構図。X（旧Twitter）でも“今から高い12速を新品で組む意味”や“中華で十分”という議論が続く。マサル視点では、①大手値上げのニュースは中華提案の追い風＝価格表を横に並べて見せると刺さる、②ただし『安かろう』批判をかわすため保証・初期調整・アフターをセットで語る、が肝。値上げ幅・対象はメーカー公式で確認済み、相場感は流動的。",
+        "sources": [
+          {
+            "t": "Giant Japan（2027継続販売＆価格改定）",
+            "u": "https://www.giant-bicycles.com/jp/news/bike-gear-2027/30870",
+            "d": "2026-09-01"
+          },
+          {
+            "t": "シマノ（2026/8/1 価格改定）",
+            "u": "https://shop-jp.shimano.com/blogs/news/price_update",
+            "d": "2026-08-01"
+          },
+          {
+            "t": "bike-memo（2026値下げ・中華コスパ）",
+            "u": "https://bike-memo.com/cycle_260204_roadbike/",
+            "d": "2026-02-04"
+          }
+        ],
+        "status": "確定＝GIANT9/1・シマノ8/1の価格改定は公式。中華の“相対お得感”は市場観察、相場は流動的。"
+      },
+      {
+        "id": "20260928-market-winspace-m5",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/08/WINSPACE-M5_1.jpg",
+        "headline": "【経営メモ・市場】WINSPACEが『最も手頃な新型M5』を9月デリバリー——中華が“完成車の入口”を広げる動き",
+        "layer1": "ウィンスペースがブランドで最も手頃なエントリーロード『M5』を投入し、2026年9月頃からデリバリー予定。T700/T800/M40混成カーボン＋フル内装のエアロ設計で、上位M6（電動105・ホイールまでカーボンで50万円切りの実績）の下を固める。",
+        "layer2": "中華勢がホイール・パーツから『完成車の入口』まで裾野を広げてきた象徴。マサル視点では、M6が“50万円切りの完成車”で話題化したのに続き、M5は更に手頃な価格帯で新規層を取りにくる格好——大手のエントリー値上げと真逆の動きで、店頭の比較提案では強い対抗軸になる。ただし正規流通・保証・補修部品の体制はブランド差が大きいので、取扱・併売の判断は供給と在庫の安定を要確認。価格・スペックの細部は流通確定後に再チェック推奨。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ（WINSPACE M5 発表・9月デリバリー）",
+            "u": "https://www.cyclesports.jp/news/new-product/166759/",
+            "d": "2026-08-25"
+          },
+          {
+            "t": "WINSPACE JAPAN（M5 製品ページ）",
+            "u": "https://winspace.jp/blogs/news/m5",
+            "d": "2026-08-25"
+          }
+        ],
+        "status": "曖昧＝M5の投入と9月デリバリーは媒体記載。国内価格・在庫の細部は流通確定後に要確認。"
+      },
+      {
+        "id": "20260928-gravel-worlds-preview",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://ucigravelworldseries.com/wp-content/uploads/sites/195/2026/04/N16_3108991.jpg",
+        "headline": "【トレンド・グラベル】次の虹は『あと2週間』——グラベル世界選10/10-11、豪ナナップで欧州外・初開催",
+        "layer1": "ロード世界選が終われば、次の虹はグラベル。10/10-11、西オーストラリアの小さな町ナナップで第5回グラベル世界選が『欧州外で初』開催される。",
+        "layer2": "コースは男子140.7km／女子123.1km、80%以上がグラベルで短く鋭い登りが連続し、獲得標高は3,000m超。’24王者ファンデルプールら実力者の参戦が見どころで、ロード勢がオフに“もう一枚の虹”を狙う流れが定着してきた。競技グラベルの世界的拡大は、うちの店でも『グラベル完成車・太タイヤ・チューブレス』の相談が増える追い風。日程・コースはUCI公表で確定、最終エントリーは直前まで流動的。",
+        "sources": [
+          {
+            "t": "Cyclingnews（グラベル世界選2026）",
+            "u": "https://www.cyclingnews.com/uci-gravel-world-championships/",
+            "d": "2026-09-22"
+          },
+          {
+            "t": "UCI Gravel World Series（ナナップ・コース公表）",
+            "u": "https://ucigravelworldseries.com/en/uci-reveals-courses-for-the-2026-uci-gravel-world-championships-in-nannup-western-australia/",
+            "d": "2026-04-15"
+          }
+        ],
+        "status": "確定＝10/10-11ナナップ・欧州外初・男子140.7km/3,000m超。エントリーは流動的、要確認。"
+      },
+      {
+        "id": "20260928-beginner-china-wheel-pick",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C164.jpg",
+        "headline": "【初中級】世界選を見て『いいホイールが欲しい』と思ったら——初めての中華カーボン、外さない3点",
+        "layer1": "レースの登坂に痺れて“軽くて速いホイール”が欲しくなった初中級向け。いまや格付けで上位常連の中華カーボンを、最初の一本で失敗しない選び方に落とし込む。",
+        "layer2": "外さない3点。①『軽さ＝速い』ではない——普段が平坦基調なら空力（35〜50mmハイト）、坂と横風が多いなら軽量・低めを。用途で最適が変わる。②横風対策＝リムハイトが高いほど強風で煽られる。初めてなら50mm前後が扱いやすい妥協点。③スポーク＆保証＝カーボンスポークは軽快だが、破損時の入手性・国内保証・初期振れ取りまで含めて店を選ぶ。“安さ”だけで海外通販に飛ばず、調整とアフターを含めた総額で考えるのが結局いちばん得。数字は一般的な目安で、体感は個人差あり。",
+        "sources": [
+          {
+            "t": "bike-memo（2026中華カーボンおすすめ・選び方）",
+            "u": "https://bike-memo.com/cycle_260202_carbon-wheels/",
+            "d": "2026-02-02"
+          }
+        ],
+        "status": "曖昧＝選び方は一般論・目安。個別モデルの適性は用途と体格で要相談。"
+      }
+    ]
+  },
+  {
     "date": "2026-09-27",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。いよいよ本日9/27は男子エリートの『空位の虹』決戦、そして昨日はフォレリングがついに悲願の初虹。レース4本＋グラベル世界選・中華機材・値上げの波まで、鮮度最優先で底まで潜りました。",
     "cards": [
