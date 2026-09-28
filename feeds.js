@@ -1,5 +1,319 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-09-29",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。世界選は終わっても余韻が続いています——マクナルティの逃げを『誰が本気で追わなかったのか』論争がX含めて過熱、機材はシマノがついに『カーボンスポーク純正化』。今日は“レース後の火種”と“機材の潮目”を厚めに。",
+    "cards": [
+      {
+        "id": "20260929-deltoro-controversy",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/eYGxs7J3RqRUJt8gPqjeoF-2560-80.jpg",
+        "headline": "【🔥今日の一本・レース／Xでも論争】マクナルティの逃げは『追走が本気で追わなかった』——ピドコック＆マシューズが“国境を越えたチーム協調”を名指し、デルトロに疑いの目",
+        "layer1": "9/27の男子エリートを32km独走で制したマクナルティ（米）について、追走で敗れたピドコックとマシューズが『追走がまとまらなかったのは一部が“国境を越えて”協調したから』と公然と苦言。焦点は、マクナルティと同じUAEに所属しながらメキシコ代表で走ったデルトロ。",
+        "layer2": "ピドコックはユーロスポーツに『あの向かい風で差を作るのは難しかった。マクナルティが飛び出した後、マッテオ（トレンティン）は強烈に効いていたし、デルトロも“同じチーム”だ』と語り、デルトロが最終周で明らかにマクナルティのために動いた、と示唆。マシューズも会見で『何人かが少し一緒に走っていた。国境を越えた協調がなければ捕まえられていた』。ただしエスケープ・コレクティブの検証では、デルトロが“意図的にサボった”と断定できるほどの映像的根拠は乏しく、集団の相互不信＋向かい風で追走が空中分解した面も大きい——という冷静な見立て。断定はできないが、UCIの『国籍代表なのにトレードチームの利害が透ける』という構造問題が改めて露呈した、が確定線。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ピドコックのデルトロ発言）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/del-toro-was-obviously-working-for-mcnulty-in-the-end-tom-pidcock-gives-insight-into-tactical-headache-of-the-chasing-group-at-world-championships/",
+            "d": "2026-09-28"
+          },
+          {
+            "t": "road.cc ライブブログ（マシューズ発言）",
+            "u": "https://road.cc/news/cycling-live-blog-28-september-2026",
+            "d": "2026-09-28"
+          },
+          {
+            "t": "Escape Collective（“本当にそうか”検証）",
+            "u": "https://escapecollective.com/pidcock-says-del-toro-was-obviously-working-for-mcnulty-in-montreal-but-is-that-actually-true/",
+            "d": "2026-09-28"
+          }
+        ],
+        "status": "確定＝ピドコック・マシューズが協調不足を公言／デルトロとマクナルティはUAEの同僚。曖昧＝デルトロが意図的にアシストしたかは映像的に断定不可（※Xで話題、要冷静解釈）。"
+      },
+      {
+        "id": "20260929-mvdp-season-end",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://chan-bike.com/wp-content/uploads/2026/09/moko0407_Mathieu_van_der_Poel_at_the_2026_UCI_Road_World_Cham_15994c60-1654-4086-b81e-b0e419fd18de_0.png",
+        "headline": "【レース・人間ドラマ】ファンデルプールが銅で『すべて出し切った』——2026シーズンを世界選で締め、ポガチャルは負傷欠場からマクナルティへ『モントリオールの王』と祝福",
+        "layer1": "世界選ロードで3位のファンデルプールは、レース後『出し切った、後悔はない』と語りシーズンを終了。優勝したマクナルティには、ブエルタ落車で欠場したポガチャルがInstagramで『The King of Montreal. Proud of you』と、同僚（UAE）としての祝福を寄せた。",
+        "layer2": "MvdPは終盤の登坂で何度も動いたが、マクナルティの独走を消しきれず銅。『勝ちに行った上での3位』という納得感が語り口ににじむ。一方ポガチャルの祝福は“政治的”にも読める——デルトロ協調疑惑（本日の🔥）と合わせると、UAEという1トレードチームが虹に多層的に絡んだ構図が浮かぶ。マクナルティの金髪は『ポガのマネ』と本人も認めており、キャラの物語性も高い。ショート化するなら『敗者の潔さ＋王者の祝福』の対比が刺さる。",
+        "sources": [
+          {
+            "t": "ロードバイクはやめられない（MvdPシーズン終了）",
+            "u": "https://chan-bike.com/mathieu-van-der-poel-gives-it-his-all-as-the-season-comes-to-a-close",
+            "d": "2026-09-28"
+          },
+          {
+            "t": "ロードバイクはやめられない（ポガチャルの祝福）",
+            "u": "https://chan-bike.com/pogacar-congratulates-mcnulty",
+            "d": "2026-09-28"
+          }
+        ],
+        "status": "確定＝MvdP銅・シーズン終了コメント／ポガチャルのSNS祝福。人間ドラマ枠。"
+      },
+      {
+        "id": "20260929-lombardia-favourites",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2025/Men/UAE-Emirates-XRG/CORVOS_00038442-212.jpg?width=832&height=468&format=jpg&crop=2000%2C1125%2C0%2C104",
+        "headline": "【レース・次戦／本命読み】『落葉のクラシック』ロンバルディア10/10は本命不在の一戦——ポガチャル欠場で、2年連続2位のレムコと“GPモントリオール覇者”デルトロが軸",
+        "layer1": "今季最後のモニュメント、第120回イル・ロンバルディアは10/10開催。5連覇のポガチャルがブエルタ落車で欠場するため、優勝候補は大きく開く。最有力は2024・2025と2年連続2位のレムコ（レッドブル）、対抗に9/13のGPモントリオールを制したデルトロ（UAE、昨年ロンバルディア5位）。",
+        "layer2": "ポガ不在＝『レムコが“ようやく獲れる”のか、次世代が食うのか』が今年の物語。デルトロは世界選のマクナルティ協調疑惑（本日の🔥）で名が挙がったばかりで、UAEは主役級を複数投入できる強み。加えて今年はコース終盤に周回フィナーレが新設され、逃げ切りより“集団の絞り込み”に寄る可能性。スタートリストは未確定だが、登坂連続＋秋の冷えで、軽量オールラウンド機材が効く舞台——中華ミドルハイトの見せ場という点でもマサル的に絡めやすい。",
+        "sources": [
+          {
+            "t": "Domestique（ポガ不在・新フィナーレ解説）",
+            "u": "https://www.domestiquecycling.com/en/news/no-pogacar-a-circuit-finale-and-a-team-presentation-whats-new-at-il-lombardia-in-2026/",
+            "d": "2026-09"
+          },
+          {
+            "t": "Domestique（ロンバルディア2026スタートリスト）",
+            "u": "https://www.domestiquecycling.com/en/cycling-races/il-lombardia/2026/startlist/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝10/10開催・ポガ欠場・周回フィナーレ新設。曖昧＝出走メンバーは未確定（暫定の本命読み）。"
+      },
+      {
+        "id": "20260929-shimano-r9370-carbonspoke",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://bikebiz.com/wp-content/uploads/682846-DURA-ACE-WH-R9370-Series_All-wheels_Horizontal_1920x1080px-a38595-original-1781853537.jpg",
+        "headline": "【パーツ・機材読み】シマノが『初のカーボンスポーク』デュラエース WH-R9370を国内投入（9/17〜）——C50で159g・C60で最大220g軽量化、C36は1,172g",
+        "layer1": "デュラエースの新型ホイール WH-R9370が、まずオールラウンドのC50から9/17に国内発売。シマノとして初のカーボンスポークを採用し、旧R9270比でC50は159g、C60は最大220g軽量化。ラインは軽量C36（約1,172g）／C50／C60に、TT向けC99前輪＋ディスク後輪が加わる。",
+        "layer2": "スポークは断面2種——スーパーエアロ5.2×0.8mm／エアロ4.0×1.1mm。ハブは伝統のカップ＆コーン継続で、ベアリングカップ交換可という“長く使える”思想。48km/h・30Cで旧型比最大2.7W省エネ（シマノ公称）。注目は『次期コンポR9300の布石』説——専用フリーボディの気配があり、9/24に話題化した“デュラ13速化＝手持ちホイール型落ち?”の互換不安を再燃させている（※新コンポ自体は未発表、要裏取り）。とはいえ、王者シマノが“カーボンスポーク＝もはや標準”と認めたことの意味は大きい（→本日のホイール枠へ）。",
+        "sources": [
+          {
+            "t": "Y's Road新橋（C50入荷・国内発売）",
+            "u": "https://ysroad.co.jp/shimbashi/2026/09/18/115724",
+            "d": "2026-09-18"
+          },
+          {
+            "t": "cyclowired（全5モデル・カーボンスポーク詳報）",
+            "u": "https://www.cyclowired.jp/news/node/393008",
+            "d": "2026-07-29"
+          },
+          {
+            "t": "Bicycle Club/funq（最大220g軽量化）",
+            "u": "https://www.funq.jp/bicycle-club/article/1079789/",
+            "d": "2026-07-28"
+          }
+        ],
+        "status": "確定＝カーボンスポーク採用・軽量化数値・国内9/17発売。曖昧＝“次期R9300/13速の布石”は観測（※要裏取り）。"
+      },
+      {
+        "id": "20260929-carbonspoke-china-ahead",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/01/zakki_C128.jpg",
+        "headline": "【ホイール・機材読み】カーボンスポークが『純正の標準』に来た——中華は数年先行、もう“格付け”は同じ土俵の話",
+        "layer1": "シマノのデュラ純正カーボンスポーク採用（9/17）で、ハイエンドは一気にカーボンスポークが“当たり前”へ。ところが中華勢（ELITEWHEELS・CRW・YOELEO・WINSPACEなど）はすでに数年前からカーボンスポークで50mm/1,300g級を量産しており、技術の主戦場では“先行”していた側だ。",
+        "layer2": "ポイントは『純正が追いついた＝中華の設計が異端でなくなった』こと。ELITEWHEELS DRIVE IIは50mmで約1,322g、YOELEOやWINSPACEもカーボンスポーク＋ワイド内幅で“エアロ×軽量×横風安定”を両立。純正が数十万円で出す仕様を、中華は数分の一で出す構図が鮮明になった。注意点は『カーボンスポークは折れたら本数在庫・専用ニップルが要る＝サポート網が命』——だからマサルのように国内で面倒を見られる店の価値が上がる。“安いから中華”ではなく“同じ土俵で選ぶ”時代、が本線。",
+        "sources": [
+          {
+            "t": "Y's Road新橋（純正カーボンスポーク投入）",
+            "u": "https://ysroad.co.jp/shimbashi/2026/09/18/115724",
+            "d": "2026-09-18"
+          },
+          {
+            "t": "bike-memo（2026中華カーボン格付け）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-01-18"
+          },
+          {
+            "t": "VeloFanatics（Best Chinese Carbon Wheels 2026）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝純正がカーボンスポーク採用／中華は先行量産。うちの製品（中華カーボン）に自然着地する機材論。"
+      },
+      {
+        "id": "20260929-van-empel-comeback",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/btKvquGxY6aH823PrLYCk6-2500-80.jpg",
+        "headline": "【トレンド・移籍／人間ドラマ】ファン・エンペルが電撃復帰——メンタル休養から即戦力でFDJ United-Suezへ、CX女王がロードにも軸足",
+        "layer1": "モチベーション低下で2025年12月から競技を離れていたCX世界女王フェム・ファン・エンペル（蘭）が、FDJ United-Suezに“即時加入”で復帰を発表。ヴィスマとの契約を解除し2026年は無所属だったが、2027年に向け『もう一度、楽しむために』戻る。",
+        "layer2": "注目は移籍そのものより“復帰の文脈”。トップ選手の燃え尽き・メンタルヘルスが公然と語られ、チームがそれを受け入れる器を用意する時代になった。FDJ Unitedはアニャ・グロスマン、ケイト・コートニーら複数ディシプリン（ロード/CX/MTB）の受け皿を志向しており、ファン・エンペルの合流でその路線が加速。女子ロードは“契約バブル＋多才選手の争奪”が続いており、市場の器が一段と広がった、が確定線。人間ドラマとしても『休んで、選び直して、戻る』は刺さる。",
+        "sources": [
+          {
+            "t": "Cyclingnews（本人コメント・復帰の背景）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-want-to-enjoy-it-fem-van-empel-to-restart-racing-career-with-fdj-united-suez-after-mental-health-break/",
+            "d": "2026-09-17"
+          },
+          {
+            "t": "Escape Collective（即時加入の一報）",
+            "u": "https://escapecollective.com/fem-van-empel-joins-fdj-united-suez-with-immediate-effect/",
+            "d": "2026-09-17"
+          }
+        ],
+        "status": "確定＝FDJ United-Suezへ復帰・即時加入。人間ドラマ×女子拡大の移籍。"
+      },
+      {
+        "id": "20260929-market-price-shimano-china",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://www.grumpy.jp/cdn/shop/articles/dura-ace-wh-r9370-lineup_93bf515e-59ab-4d27-8256-dceea797fe20.jpg?v=1785381399",
+        "headline": "【経営メモ・市場】純正ホイールが『前後で約43万円』の時代——C50はフロント198,847円／リア232,866円、中華カーボンの“受け皿”はさらに広がる",
+        "layer1": "新デュラC50の国内価格はフロント198,847円・リア232,866円（税込）、セットで約43万円。C99やディスク後輪はさらに上。純正ハイエンドの価格帯が明確に一段上がったことで、10万円台のカーボンホイールを出す中華勢との“価格差”が誰の目にも見える形になった。",
+        "layer2": "経営目線での要点は3つ。①純正が43万なら『同性能クラスの中華カーボンスポークが10〜15万』の割安感は説明しやすい＝接客の武器。②ただし顧客は“純正の安心”に価格を払う層も残る＝二極化を前提に品揃えを。③カーボンスポークは補修に専用部品・本数在庫が要るので、中華を売るなら『折れた時に直せる店』であることが差別化になる（純正は代理店網、中華は店の実力）。値上げの波（2027モデルで各社改定）と重なり、参入価格の上振れは続く見込み。うちのポジション（面倒を見られる中華カーボン店）はむしろ追い風、が本線。",
+        "sources": [
+          {
+            "t": "Y's Road新橋（国内価格・C50入荷）",
+            "u": "https://ysroad.co.jp/shimbashi/2026/09/18/115724",
+            "d": "2026-09-18"
+          },
+          {
+            "t": "Grumpy（R9370の仕様・価格解説）",
+            "u": "https://www.grumpy.jp/blogs/blog/dura-ace-wh-r9370",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝C50国内価格（前198,847円/後232,866円）。経営に効く価格動向・二極化の読み。"
+      },
+      {
+        "id": "20260929-market-worlds-buzz",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bikenewsmag.com/wp-content/uploads/2026/09/2026World-Championships-men-elite-roadrace.jpg",
+        "headline": "【経営メモ・市場／Xでも話題】マクナルティの逆転劇で国内Xも沸騰——“観戦熱”を秋商戦の来店・買い替えに繋ぐ月末",
+        "layer1": "ポガチャル不在の世界選をマクナルティが32km独走で制した一戦は、日本のローディーの間でもYahooリアルタイム検索の『バズまとめ』に載るほど盛り上がり、『ファン歓喜』の反応が拡散。9月末＝中間決算セールのピークと重なり、観戦で高まった機材熱を店頭に呼び込みやすいタイミングになっている。",
+        "layer2": "経営メモとして。①世界選・グラベル世界選（10/10-11）と“見る”イベントが連続する秋は、 SNSで盛り上がった直後が来店の波＝レース直後のショート/POPが効く。②盛り上がりの中身は『逃げ・独走の格好よさ』＝“軽量オールラウンド機材”の物語に着地させやすい（→ロンバルディアも同傾向）。③一方で“バズ＝噂”も混ざるので、店頭トークは一次情報（結果・公式）ベースで。裏取りできない過熱ネタは盛らない。数字（視聴・PV）はまとめサイト経由の間接情報なので断定はしない（※Xで話題、実数は要裏取り）。",
+        "sources": [
+          {
+            "t": "Yahoo!リアルタイム検索（バズまとめ）",
+            "u": "https://search.yahoo.co.jp/realtime/search/matome/d81b666e279d4dfd9f8297fc1eab2f86-1790537700",
+            "d": "2026-09-28"
+          },
+          {
+            "t": "Bike News Mag（マクナルティ優勝詳報）",
+            "u": "https://bikenewsmag.com/2026/09/28/brandon-mcnulty-wins-2026-world-championships-roadrace/",
+            "d": "2026-09-28"
+          },
+          {
+            "t": "cyclesports.jp（男子エリート結果）",
+            "u": "https://www.cyclesports.jp/news/race/169378/",
+            "d": "2026-09-28"
+          }
+        ],
+        "status": "確定＝国内でも話題化・9月末決算ピーク。曖昧＝バズの規模・実数（※Xで話題、要裏取り）。"
+      },
+      {
+        "id": "20260929-beginner-carbonspoke",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.funq.jp/contents/uploads/2026/07/28000440/DURA-ACE-WH-R9370-Series-All-Wheels-Horizontal-1920x1080px-A38595.jpg",
+        "headline": "【初中級】『カーボンスポーク』って結局なにが良いの?——純正も中華も採用の今、押さえる3点（軽さ・エアロ・剛性）",
+        "layer1": "シマノ純正までカーボンスポーク化した今、初中級の疑問は『金属スポークと何が違う?』。ざっくり言うと、同じ強度でより軽く、断面を扁平にできて空力が良く、しなり方を設計できる——の3つが利点。",
+        "layer2": "先回りで深掘り。①軽さ＝スポークは外周に近く“回転の重さ”に効くので、数十gでも体感が出やすい（特に登り・加速）。②エアロ＝扁平カーボンは金属丸スポークより空気の乱れが少なく、深リムと相性が良い。③剛性＝硬いだけでなく“縦にしなって横に強い”設計ができ、乗り味に効く。注意点は現実的な話——(a)折れると専用スポーク＋ニップルが必要で、汎用の金属スポークのようにどこでも直せない、(b)だから“補修部品を持てる／取り寄せられる店”で買うのが安心、(c)中華カーボンスポークは価格が純正の数分の一だが、初期振れ取り・増し締めなど組みの丁寧さで寿命が変わる。『安さ』より『直せる体制ごと選ぶ』が外さないコツ。",
+        "sources": [
+          {
+            "t": "Bicycle Club/funq（カーボンスポークの狙い）",
+            "u": "https://www.funq.jp/bicycle-club/article/1079789/",
+            "d": "2026-07-28"
+          },
+          {
+            "t": "cyclowired（スポーク断面・構造）",
+            "u": "https://www.cyclowired.jp/news/node/393008",
+            "d": "2026-07-29"
+          }
+        ],
+        "status": "確定＝カーボンスポークの利点/注意。初中級の“今の疑問”に、うちの中華カーボン×サポートで着地。"
+      },
+      {
+        "id": "20260929-beginner-chase-psychology",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/09/sprintcyclingagency_9225645_1_2000px.jpg",
+        "headline": "【初中級・観戦の理屈】なぜ追走はまとまらず逃げが決まる?——マクナルティ独走に学ぶ“集団のジレンマ”、週末のグループライドにも効く",
+        "layer1": "『追走の方が人数も多いのに、なぜ逃げを捕まえられないのか』——世界選のマクナルティ独走がまさにそれ。答えは“誰も損をしたくない心理”。前を引く人は風を受けて消耗し、後ろで休む人が有利になるため、みんなが引くのを渋って追走が失速する。",
+        "layer2": "先回りで深掘り。①これは『共有地の悲劇』と同じ構造で、各自が合理的に“引かない”を選ぶと集団全体は遅くなる。②世界選では、勝ち筋を持つ人や“同僚を勝たせたい人”が本気で引かない事情も重なった（本日の🔥参照）。③初中級が使える教訓——(a)グループライドで速い集団を作りたいなら『交代（ローテ）のルールを先に決める』、(b)逃げたいなら“追走がまとまる前”＝向かい風・登り・全員が疲れる局面を狙う、(c)ソロで粘るには一定ペースで踏み続ける方が、上げ下げより速い（マクナルティの独走がまさに一定出力）。観戦がそのまま自分の走りのヒントになる、が本線。",
+        "sources": [
+          {
+            "t": "cyclesports.jp（マクナルティ独走の詳報）",
+            "u": "https://www.cyclesports.jp/news/race/169378/",
+            "d": "2026-09-28"
+          },
+          {
+            "t": "Escape Collective（追走が空中分解した力学）",
+            "u": "https://escapecollective.com/pidcock-says-del-toro-was-obviously-working-for-mcnulty-in-montreal-but-is-that-actually-true/",
+            "d": "2026-09-28"
+          }
+        ],
+        "status": "確定＝独走が決まる集団力学の一般論。観戦→自分の走りへ橋渡しする初中級ネタ。"
+      },
+      {
+        "id": "20260929-trend-racing-changed",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://chan-bike.com/wp-content/uploads/2026/09/moko0407_After_the_2026_UCI_Road_World_Championships_in_Montr_91d65419-887a-4dc2-8652-31bc20b95456_1.png",
+        "headline": "【トレンド・総括】『32km独走』がもう“普通”になった時代——世界選が映した“攻撃の早期化”、機材と練習も追いつく",
+        "layer1": "世界選を振り返る各所の総括で共通するのは『残り32kmの独走が、もはや驚くほど長距離のアタックとは見なされない』という感覚。ポガチャル世代以降、レースは“終盤まで温存”から“早く仕掛けて押し切る”に構造転換した、という読みが定着しつつある。",
+        "layer2": "先回りで深掘り。なぜ早い攻撃が成立するのか——①パワーメーター＋高地・栄養の科学化で“何分・何Wなら独走が持つか”を選手が精緻に把握、②エアロ機材（深リム・一体コックピット・軽量ホイール）で単独巡航の空力損失が縮小、③無線・集団のマーク合いで“誰も引かない”局面が生まれやすく、思い切った先行が刺さる（本日の初中級枠の力学）。裏を返せば、観る側も“最後のスプリント待ち”から“中盤の抜け出しを見逃さない”見方に変わっている。機材トレンド（カーボンスポーク・軽量オールラウンド）とレース戦術は地続き、が本線。断定的な「時代論」は解釈なので、確定は“独走が増えた/早くなった”という傾向まで。",
+        "sources": [
+          {
+            "t": "road.cc ライブブログ（“32km独走はもう長くない”）",
+            "u": "https://road.cc/news/cycling-live-blog-28-september-2026",
+            "d": "2026-09-28"
+          },
+          {
+            "t": "10 conclusions from the Worlds elite men's road race",
+            "u": "https://dnlbenson.substack.com/p/10-conclusions-from-the-worlds-elite",
+            "d": "2026-09-28"
+          }
+        ],
+        "status": "確定＝“攻撃の早期化”の傾向。解釈部分は時代論として提示（断定しない）。"
+      },
+      {
+        "id": "20260929-trend-transfer-postworlds",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-09%2Fguillaume-martin-6aabb60cca28a.jpg",
+        "headline": "【トレンド・移籍続報】世界選が終わり“発表解禁”が本格化——女子も大きく動き、クーイはデカトロンで新たな軸に",
+        "layer1": "虹が決まり、各チームの2027補強が続々オフィシャルに。女子ではアルレニス・シエラ（キューバ）がモビスターを離れリドル・トレックへ、モビスターはミレイア・ベニートを獲得、SD Worx-ProtimeはPicnic PostNLからバルビエリを補強。男子はデカトロンがスプリンターのクーイを中心にチームを再編、と“世界選後の駒動き”が加速している。",
+        "layer2": "先回りで整理。①女子市場は“100万ドル契約時代”に入り、実力者の移動が男子並みにニュースになる規模へ（本日のファン・エンペル復帰も同じ潮流）。②スプリンター争奪——デカトロンのクーイ獲得のように、“エースのために列車ごと組む”動きが目立つ。③まだ“200人超がフリー”とされる大乱戦で、世界選での好走が最後の売り込みになった選手も多い。断定できるのは公式発表済みの移籍まで（下記ソースの確定分）。噂止まりの名前（ログリッチのロット説など）は“観測”として扱い、盛らない。",
+        "sources": [
+          {
+            "t": "idlprocycling（2026/2027確定移籍まとめ）",
+            "u": "https://www.idlprocycling.com/cycling/cycling-transfers-20262027-every-confirmed-move-so-far",
+            "d": "2026-09"
+          },
+          {
+            "t": "Cyclingnews（2027移籍・最新の発表）",
+            "u": "https://www.cyclingnews.com/features/cycling-transfers-all-the-latest-news-and-announcements-for-the-2027-season/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝公式発表済みの移籍（シエラ→リドル等）。曖昧＝噂段階の名前は“観測”として明記（※要裏取り）。"
+      }
+    ]
+  },
+  {
     "date": "2026-09-28",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。昨日9/27の男子エリートは大波乱——本命が総崩れするなか、米国のブランドン・マクナルティが『32kmの独走』で逃げ切り、なんと33年ぶりの星条旗の虹。世界選が閉幕し、季節はイタリアの秋クラシックへ。レース＋移籍ラッシュ＋国内市場まで、鮮度最優先で底まで潜りました。",
     "cards": [
