@@ -1,177 +1,161 @@
 {
-  "date": "2026-09-30",
-  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。世界選が閉じ、舞台は『秋のイタリア』へ——新王者マクナルティはレインボーをジロ・デッレミリアでお披露目、ロンバルディア（10/10）で締めます。裏では移籍解禁ラッシュが本格化（女子はニーワイアドマがLidl-Trekへ電撃）、機材はピドコックが世界選で“社外ホイール”に履き替え、シマノは純正カーボンスポークに『壊れても安心』制度。今日は“レース後の潮目”と“ホイールの商機”を厚めに。",
+  "date": "2026-10-01",
+  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。世界選が閉じ、舞台は『欧州選手権（10/2〜7リュブリャナ）』と“秋のイタリア”へ——王者マクナルティは10/3から虹デビュー、国内はジャパンカップ発表、機材は大手が軽量×低価格で中華の主戦場に降りてきました。",
   "cards": [
     {
-      "id": "20260930-mcnulty-rainbow-debut",
-      "genre": "race",
-      "genreLabel": "RACE",
-      "genreJa": "レース",
-      "hot": true,
+      "id": "20261001-euro-champs-ljubljana",
+      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": true,
+      "image": "https://procyclinguk.com/wp-content/uploads/2025/10/divA-long-solo-Never-say-never-Tadej-Pogacar-wont-rule-out-repeat-trademark-lone-breakaway-in-upcoming-European-Road-Championshipsdiv-1.jpg",
+      "headline": "【🔥今日の一本・レース／人間ドラマ】欧州選手権が10/2開幕、男子ロードは10/4リュブリャナ——王者ポガチャルは負傷で『母国の虹』を防衛できず、スロベニアはログリッチに託す",
+      "layer1": "モントリオール世界選から1週間、次の大舞台は10/2〜7スロベニア・リュブリャナの欧州選手権。男子エリートロードは10/4（日）12:30発走、196.3km・獲得2,571m、コングレス広場スタート。",
+      "layer2": "終盤はモジャンツァ（Možjanca 約2.1km・平均10.2%・最大15.8%）を5回上り、決着は残り14km——実力者しか残れない登坂反復コース。昨年王者ポガチャルはブエルタ落車（鎖骨骨折＋C7頸椎）で母国防衛を断念し、スロベニアはログリッチ／オムルゼルへ。本命は『昨年2位の雪辱』を狙うレムコ・エヴェネプール、伏兵にチッコーネ、ヴァチェク、ペデルセン、グレゴワール。欧州選は2016年創設以来まだ『連覇者ゼロ』。",
+      "sources": [
+        { "t": "IDLProCycling（男子プレビュー）", "u": "https://www.idlprocycling.com/cycling/2026-european-cycling-championships-elite-men-preview-no-pogacar-in-slovenia-but-plenty-of-favourites-with-a-point-to-prove", "d": "2026-09-30" },
+        { "t": "ProCyclingUK（スタートリスト）", "u": "https://procyclinguk.com/european-road-championships-2026-start-lists-pogacar-named-despite-injury-as-major-stars-miss-slovenia-vollering-starts-as-favourite/", "d": "2026-09-22" },
+        { "t": "Visit Ljubljana（大会公式情報）", "u": "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana/uec-road-european-championships", "d": "2026-09" }
+      ],
+      "status": "確定＝会期10/2-7・男子ロード10/4 12:30・196.3km／ポガチャル欠場。曖昧＝優勝は展開次第。"
+    },
+    {
+      "id": "20261001-japancup-startlist",
+      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
+      "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/09/2609japancup1.jpg",
+      "headline": "【レース・国内／Xでも話題】宇都宮ジャパンカップ10/16-18に世界のスターが集結——ヒーリー、マシューズ、新城幸也ら、全19チーム発表",
+      "layer1": "国内最大のワンデー『宇都宮ジャパンカップ』は10/16(金)チーム紹介・17(土)クリテリウム・18(日)ロードレース。UCIワールドチームを含む全19チームが出場。",
+      "layer2": "ワールドチームはEF、バーレーン、リドル・トレック、ロット、ジェイコら。海外勢はベン・ヒーリー、マイケル・マシューズら、日本勢は新城幸也（37歳）ら国内コンチネンタル7チームが参戦。名物『古賀志林道』の激坂反復で総合力が問われる一戦で、毎年Xで観戦熱が沸騰＝秋商戦の来店・買い替え動機に直結する。※スター選手の最終エントリーは開催前に変動あり。",
+      "sources": [
+        { "t": "サイクルスポーツ（出場選手発表）", "u": "https://www.cyclesports.jp/news/race/168905/", "d": "2026-09" },
+        { "t": "シクロワイアード（出場チーム発表）", "u": "https://www.cyclowired.jp/news/node/392825", "d": "2026-09" }
+      ],
+      "status": "確定＝日程・チーム枠（全19）。曖昧＝個々の最終出走選手は要確認。"
+    },
+    {
+      "id": "20261001-strava-ai-kom",
+      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
+      "image": "https://cdn.mos.cms.futurecdn.net/c2shkYXabmwnFwFLLuWcQ6-2560-80.jpg",
+      "headline": "【トレンド・データ／Xでも論争】『StravaのAIが俺のKOMを奪った』——不正検出強化でリーダーボードから数百万件を除外、賛否が沸騰",
+      "layer1": "Stravaが機械学習でeバイク・車両乗車の不正ライドを検出し、リーダーボードから大量除外。road.cc(9/30)には『AIにKOM連続記録を止められた』との悲鳴が届いた。",
+      "layer2": "除外はeバイク疑い約230万件＋車両乗車疑い約160万件、代わりに正当な約29.3万人がトップ10へ『復帰』。自己申告制から“人＋AIの確認”へ移行し、KOM剥奪の誤検出懸念も残る。実力で自己ベストを削る派には朗報、ゆるくKOMを集める派には逆風——『記録の正しさ』論争は日本のローディーにも刺さるテーマ。",
+      "sources": [
+        { "t": "Cycling Weekly（230万件除外）", "u": "https://www.cyclingweekly.com/news/strava-removes-2-3-million-rides-from-leaderboards-in-clampdown-on-cheats", "d": "2026-09" },
+        { "t": "road.cc ライブブログ", "u": "https://road.cc/news/cycling-live-blog-30-september-2026", "d": "2026-09-30" }
+      ],
+      "status": "確定＝除外・復帰の数字は複数媒体で一致。曖昧＝個別の誤検出は個人差あり。"
+    },
+    {
+      "id": "20261001-tudor-groves-denz",
+      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
+      "image": "https://domestique-cycling.b-cdn.net/production/2026/Live/TUD26-Signing_NicoDenz_KadenGroves.jpg?width=2400&height=1260&quality=75&crop=1920%2C1008%2C0%2C36",
+      "headline": "【トレンド・移籍】チューダーが『二枚看板』を電撃補強——グローブス＋デンツをW獲得、GT区間13勝の実力者でワールドツアー昇格へ照準",
+      "layer1": "プロチームのチューダーが2027へ、豪スプリンターのケーデン・グローブスと独オールラウンダーのニコ・デンツを同時発表（9/23）。ともに3年契約。",
+      "layer2": "2人合計でグランツール区間13勝（グローブス10＝三大GT制覇、デンツはジロ3勝）。グローブスはツールでの区間＆グリーン狙いを明言。女子でもケルバオル（TdFF区間勝者）がEF→SDワークス・プロタイムへ。世界選後の『発表解禁』で市場は一気に加速し、上位昇格を狙う中堅チームの補強が過熱している。※ワールドツアー昇格はUCIポイント次第。",
+      "sources": [
+        { "t": "Domestique（W獲得）", "u": "https://www.domestiquecycling.com/en/news/tudor-add-groves-and-denz-for-2027-as-recruitment-drive-gathers-pace/", "d": "2026-09-23" },
+        { "t": "Cycling Up To Date", "u": "https://cyclinguptodate.com/cycling/official-tudor-strike-in-the-transfer-market-with-double-signing-of-proven-grand-tour-winners-boasting-13-stage-victories-between-them", "d": "2026-09-23" }
+      ],
+      "status": "確定＝両者3年契約・9/23発表・ケルバオルの移籍。曖昧＝昇格は未確定。"
+    },
+    {
+      "id": "20261001-winspace-m5-colors",
+      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
+      "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/08/WINSPACE-M5_1.jpg",
+      "headline": "【経営メモ・市場】ウィンスペース最廉価『M5』に新色2色（9/25）——完成車28.8万円〜、中華が“完成車の入口”をさらに広げる",
+      "layer1": "WINSPACEがエントリーロード『M5』に新色『Horizon Blue（角度で白→青のグラデ）』『Midnight Violet（黒地に深紫）』を追加（9/25）。105 BASEで税込28.8万円〜。",
+      "layer2": "M5はC5後継で、T47・UDH対応・完全内装・700×32Cと“今どき”仕様を廉価帯に落とし込んだ。中華はホイールだけでなく完成車の入口まで降りてきており、参入価格が30〜40万に上振れした国産・大手入門機の受け皿になり得る。うち（8LIEN/CRW等）でも『最初の1台は中華で』という相談が増える文脈——見せ方は“総額と装備の納得感”で作る。",
+      "sources": [
+        { "t": "WINSPACE JAPAN（M5・新色告知）", "u": "https://winspace.jp/blogs/news/m5", "d": "2026-09-25" },
+        { "t": "サイクルスポーツ（M5発表）", "u": "https://www.cyclesports.jp/news/new-product/166759/", "d": "2026-08" }
+      ],
+      "status": "確定＝価格28.8万円〜・新色2色・主要仕様。曖昧＝納期は個体差。"
+    },
+    {
+      "id": "20261001-mcnulty-italy-block",
+      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
       "image": "https://cdn.mos.cms.futurecdn.net/CkkEKX6eXZDaqGpyDYmLxe-1200-80.jpg",
-      "headline": "【🔥今日の一本・レース／人間ドラマ】新王者マクナルティ、レインボーお披露目は『ジロ・デッレミリア』——秋のイタリアを転戦し10/10ロンバルディアで締める",
-      "layer1": "9/27にモントリオールで米国に33年ぶりの世界王者をもたらしたマクナルティ（28）が、虹のジャージのお披露目をイタリアの『ジロ・デッレミリア』（サンルカの激坂フィニッシュ）に決定。以後も秋のクラシックを転戦し、10/10ロンバルディアで今季を締める。",
-      "layer2": "実はマクナルティ、イタリアのクラシックはほぼ未経験で、ロンバルディア出走は2021年以来（当時はUAEの“同僚”ポガチャルの優勝の陰で65位）。得意は晩夏のCROレース（2024・2025で連覇）。その男が世界王者として、本命ポガチャル不在の『空位の秋』に虹を着て乗り込む構図だ。断定できるのはEmilia起点→Lombardia締めの日程まで。間にどの秋クラシックへ出るかは未確定で、レインボーは今後1年間、世界選ロードで着用義務がある“1年の主役”の証。",
+      "headline": "【レース・人間ドラマ】新王者マクナルティ、10/3ジロ・デッレミリアで『虹ジャージ初戦』——エミリア→トレ・ヴァッリ→ロンバルディアの“イタリア秋”を丸ごと転戦",
+      "layer1": "世界王者ブランドン・マクナルティ（米）が10/3のジロ・デッレミリアで虹ジャージ初レース。『エミリアからロンバルディアまでイタリアの塊をほぼ全部走る。虹で始められるのは特別』と本人。",
+      "layer2": "予定はエミリア(10/3)→トレ・ヴァッリ・ヴァレジーネ(10/6)→ロンバルディア(10/10)、さらにヴェネト勢も。エミリアは名物サン・ルカ反復が勝負どころで、対抗はピドコック、ペリッツァーリ、デル・トロら。33年ぶりの米国男子ロード世界王者が“虹の重み”を背負う秋——欧州選と同週のため、最終出走は調整含み。",
       "sources": [
-        { "t": "Cyclingnews（マクナルティ、Emiliaでレインボー披露）", "u": "https://www.cyclingnews.com/pro-cycling/racing/new-world-champion-brandon-mcnulty-to-debut-rainbow-jersey-at-giro-dell-emilia/", "d": "2026-09-29" },
-        { "t": "Cyclingnews（Il Lombardia 2026）", "u": "https://www.cyclingnews.com/pro-cycling/races/il-lombardia-2026/", "d": "2026-09" }
+        { "t": "Cyclingnews（虹デビュー）", "u": "https://www.cyclingnews.com/pro-cycling/racing/new-world-champion-brandon-mcnulty-to-debut-rainbow-jersey-at-giro-dell-emilia/", "d": "2026-09" },
+        { "t": "Cycling Up To Date", "u": "https://cyclinguptodate.com/cycling/world-champion-brandon-mcnulty-set-for-rainbow-jersey-debut-at-giro-dellemilia", "d": "2026-09-29" }
       ],
-      "status": "確定＝マクナルティがEmiliaでレインボー披露、10/10ロンバルディアに出走予定。曖昧＝間の秋クラシックの具体的な出走は未定。"
+      "status": "確定＝エミリア10/3出走・転戦計画・本人コメント。曖昧＝各レースの最終エントリー。"
     },
     {
-      "id": "20260930-gravel-worlds-nannup-10days",
-      "genre": "race",
-      "genreLabel": "RACE",
-      "genreJa": "レース",
-      "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/JBLS4vmHH6tPaNekwbJTAH-1500-80.jpg",
-      "headline": "【レース・続報／グラベル】次の虹まで“あと10日”——グラベル世界選10/10-11、豪ナナップで『欧州外・初開催』、二刀流勢の去就が焦点",
-      "layer1": "ロード世界選（モントリオール）が終わり、次はグラベル世界選が10/10-11に豪ナナップで開催。イタリア→ベルギー→オランダと続いた大会は、今回が『欧州外・初』の歴史的な一戦。男子140.7km・女子123.1km、8割超がグラベルで獲得3,000m超のアップダウン。",
-      "layer2": "舞台はカリ／ジャラの巨木林。コースはUCIグラベルシリーズの名物『SEVEN』が母体だ。焦点は、ロードとCXの両王者マチュー・ファンデルプール（2024グラベル世界王者）ら“二刀流”勢の去就——ただしロード世界選から中2週間、南半球への長距離移動もあり、欧州トップの本気参戦は読みにくい。裏を返せば、地元豪＆グラベル専門勢に大きな勝機がある“番狂わせの起きやすい虹”。",
+      "id": "20261001-columbus-spirit50",
+      "genre": "wheel", "genreLabel": "WHEEL", "genreJa": "ホイール", "hot": false,
+      "image": "https://cdn.sanity.io/images/iocd9e4k/production/ad8460cbf7a6f854599a083b6e54df4cbac555d2-1920x1280.jpg?rect=0,139,1920,1003&w=1200&h=627&q=75&fit=crop&auto=format",
+      "headline": "【ホイール・新製品／機材読み】コロンバスが初のカーボンホイール『Spirit 50』を投入（9月）——1,249g・€3,999、あえて“フックド”で安全側に振る",
+      "layer1": "老舗コロンバスが自社初のカーボンロードホイール群を9月に発表。フラッグシップ『Spirit 50』は50mmハイトで1,249gの軽量、価格€3,999。",
+      "layer2": "注目は“フックド（フック有り）”を選んだ点——高圧やタイヤ選択の自由を優先し、フックレス勢とは逆の判断。軽量×高価格の頂点争いに老舗まで参入し、中華カーボンが握ってきた『軽さ×価格』の物差しは、いよいよ大手・老舗との“通常比較”の土俵に乗った。うちの提案でも『同じ50mm・1,300g級で価格はどうか』が説得材料になる。",
       "sources": [
-        { "t": "Cyclingnews（2026 UCI Gravel World Championships）", "u": "https://www.cyclingnews.com/pro-cycling/racing/uci-gravel-world-championships-2026/", "d": "2026-09" },
-        { "t": "Wikipedia（2026 UCI Gravel World Championships）", "u": "https://en.wikipedia.org/wiki/2026_UCI_Gravel_World_Championships", "d": "2026-09" }
+        { "t": "Velo Racing（Columbus発表）", "u": "https://veloracycling.com/tech/columbus-carbon-road-wheels-launch-2026", "d": "2026-09" }
       ],
-      "status": "確定＝10/10-11ナナップ・欧州外初開催、距離/獲得標高。曖昧＝エリートの最終出走者リストは未確定。"
+      "status": "確定＝Spirit50の重量1,249g・€3,999・フックド・9月発表。曖昧＝実測値と国内供給時期。"
     },
     {
-      "id": "20260930-pidcock-partington-wheels",
-      "genre": "wheel",
-      "genreLabel": "WHEEL",
-      "genreJa": "ホイール",
-      "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/NpdbJJc7G3mMX2oXgsk2i8-2560-80.jpg",
-      "headline": "【ホイール・機材読み／Xでも話題】ピドコックが世界選で“社外ホイール”に履き替え——所属のZipp→豪Partington、ロゴも隠さず",
-      "layer1": "ロード世界選で、ピドコック（英）が所属ピナレロ・Q36.5のスポンサーZippではなく、豪ブランド『Partington』のR-Seriesホイールに履き替えて出走。ロゴも隠さず、機材好きの間でざわついた。",
-      "layer2": "世界選は『国の代表＝トレードチームの機材でなくてもよい』のが建前で、かつては選手が自腹でLightweightを買って使うのが定番だった。近年は角が立つのを避けて純正据え置きが主流だったが、ピドコックは1秒でも速い機材を“探しに行った”。ここで効くのは、プロですらアフターマーケットの軽量・エアロ社外カーボンに価値を認めるという事実——うち（中華カーボン）が狙う土俵はまさにここ。性能差の実数は非公表だが、『純正が最速とは限らない』という空気は追い風だ。",
+      "id": "20261001-zipp-404s-sub1000",
+      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
+      "image": "https://cdn.road.cc/wp-content/uploads/2026/06/2026-Zipp-404-S-action-two-riders-1024x683.jpeg",
+      "headline": "【経営メモ・市場】ジップ『404 S』が1,000ポンド割れで登場——大手が“価格”で反攻、中華カーボンの『安さ』優位が揺らぐ",
+      "layer1": "ジップが新型『404 S』を発表——50mmハイトのカーボンで『クラス最高のエアロ』をうたい、1,000ポンド（約19万円）を切る戦略価格。",
+      "layer2": "これまで中華カーボンの武器は『大手の半額級で同性能』だったが、ジップやコロンバス等の大手・老舗が“軽量×低価格”の主戦場に降りてきた。値ごろ帯の競争が激化すれば、中華は『価格』だけでなく『サポート・実測・保証』で差を示す局面に。逆に言えば、店頭で“身近な相談・組み換え・アフター”を持てる店には追い風——うちの価値は数字だけではない。",
       "sources": [
-        { "t": "Cyclingnews（Pidcock ditches trade team wheels for Partington）", "u": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/tom-pidcock-ditches-trade-team-wheels-in-favour-of-upgrade-at-road-world-championships/", "d": "2026-09-29" }
+        { "t": "road.cc（Zipp 404 S）", "u": "https://road.cc/tech-news/zipp-launches-new-404-s-carbon-road-wheels-promising-industry-leading-aero-performance-for-under-1000", "d": "2026-09" }
       ],
-      "status": "確定＝ピドコックがPartington R-Seriesを世界選で使用。曖昧＝Zipp比の性能差の実数は非公表。"
+      "status": "確定＝404 Sが50mm・1,000ポンド割れで投入。曖昧＝国内価格・在庫は流通次第。"
     },
     {
-      "id": "20260930-shimano-crash-replacement",
-      "genre": "parts",
-      "genreLabel": "PARTS",
-      "genreJa": "パーツ",
-      "hot": false,
-      "image": "https://cdn.funq.jp/contents/uploads/2026/07/28000440/DURA-ACE-WH-R9370-Series-All-Wheels-Horizontal-1920x1080px-A38595.jpg",
-      "headline": "【パーツ・機材読み】シマノが新デュラ『WH-R9370』にクラッシュ制度——3年内・事故破損を全国の店で30%OFF買い替え可、カーボンスポーク不安を先回り",
-      "layer1": "シマノが、初のカーボンスポークを採用した新型デュラエース『WH-R9370』にクラッシュ・リプレイスメント制度を開始。購入後3年以内・事故で破損したホイールを、プレミアム店に限らず全国の取扱店で希望小売価格の30%OFFで買い替えできる。",
-      "layer2": "狙いは明白——『カーボンスポークは折れたら高いのでは』という不安を制度で先回りして潰し、乗り換えを後押しする。スポークはカーボンスポーク大手VONOAとの共同専用設計（ロード3機種は幅4.0×厚1.1mmエアロ、C99は幅5.2×厚0.8mmスーパーエアロ）。前作R9270比で最大220g軽量（C36:180g／C50:159g／C60:220g）。純正が“安心”まで用意してきた＝もう格付けは中華と同じ土俵の話。",
+      "id": "20261001-beginner-repeat-climbs",
+      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
+      "image": "https://soon.ismcdn.jp/mwimgs/d/9/1200wm/img_d91bed74d59a403aea623686153663cc3301299.jpg",
+      "headline": "【初中級・観戦の理屈】欧州選の『激坂5回』やジャパンカップ古賀志に憧れたら——短い坂を何度も上って垂れない3つの効きどころ",
+      "layer1": "欧州選（モジャンツァ約2km・最大15.8%を5回）も宇都宮の古賀志林道も“短い激坂の反復”。プロが最後まで垂れないのは才能だけではなく、消耗の作り方が違う。",
+      "layer2": "アマが真似できる3点——①入りを抑える（1本目で追い込むと後半で脚が終わる。心拍ではなく“会話できる少し上”で入る）。②体重×ギア比（軽量化とワイドギアは激坂反復で一番効く。フロント/リアの歯数で“回して上る”余地を作る）。③下り・平坦での回復（坂の間で無理に踏まず脚を戻す）。週末のグループライドの反復坂でそのまま練習になる。",
       "sources": [
-        { "t": "cyclowired（WH-R9370クラッシュリプレイスメント開始）", "u": "https://www.cyclowired.jp/news/node/393402", "d": "2026-09" },
-        { "t": "Bicycle Club（WH-R9370 発表・仕様）", "u": "https://www.funq.jp/bicycle-club/article/1079789/", "d": "2026-07-29" }
+        { "t": "IDLProCycling（コース詳細）", "u": "https://www.idlprocycling.com/cycling/2026-european-cycling-championships-elite-men-preview-no-pogacar-in-slovenia-but-plenty-of-favourites-with-a-point-to-prove", "d": "2026-09-30" },
+        { "t": "下野新聞（ジャパンカップ）", "u": "https://www.shimotsuke.co.jp/articles/-/1423139", "d": "2026-09" }
       ],
-      "status": "確定＝制度開始・3年内30%OFF・全国店対応・専用カーボンスポーク。曖昧＝適用条件の細目は店舗確認。"
+      "status": "確定＝両コースの激坂反復プロフィール。曖昧＝トレーニングは一般論、個人差あり。"
     },
     {
-      "id": "20260930-niewiadoma-lidltrek",
-      "genre": "trend",
-      "genreLabel": "TREND",
-      "genreJa": "トレンド",
-      "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/SnrroKV8MAu8qKnduRM94K-1200-80.jpg",
-      "headline": "【トレンド・移籍／人間ドラマ】女子の大型移籍——ニーワイアドマが9年のCanyon-SRAMを離れLidl-Trekへ、2年契約でツール制覇に再挑戦",
-      "layer1": "9/29、女子の目玉移籍が確定。カチシャ・ニーワイアドマ=フィニー（ポーランド）が9年在籍のCanyon-SRAMを離れ、2027年からLidl-Trekへ。まず2年契約（2028年末まで）で、チームのGC総大将としてツール・ド・フランス制覇に再挑戦する。",
-      "layer2": "今季は自身最高クラス——世界選ロード2位、ツール・ド・フランス・ファムでマイヨジョーヌ着用＆総合2位、モンヴァントゥ制覇。『キャリア最良の年に、居心地の良いチームを敢えて出る』決断だ。32歳、残された時間を意識し『2位を勝ちに変える賭け』に出た格好。潤沢なLidl-Trekで“唯一の看板”ではなくなる環境が吉と出るかは、今季躍進を支えたコーチ（ファンフルーテンの元コーチ）が帯同するかが鍵と見られる。断定できるのは契約年数と役割まで。",
+      "id": "20261001-autumn-clearance-data",
+      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
+      "image": "https://bike-plus.com/cdn/shop/articles/autumn-sale-2026-blogtop.webp?v=1789705039",
+      "headline": "【経営メモ・市場】秋の決算・型落ちセールが本格化——大手は最大30%OFF、『定価は高止まり・実売は下落』の二極化がデータで見える",
+      "layer1": "9月末〜秋は決算＆2027モデル切替の最需要期。バイクプラスは9/18〜11/29に対象トレックを最大30%OFF、価格.comの値下げランキングも型落ち完成車が上位を占める。",
+      "layer2": "2026市場の骨格は『メーカー希望価格は改定（値上げ）で高止まり、店頭実売は20〜30%引き＆型落ち大幅割引で下落』の二極化。買い手は“いつ・どの型落ちを・総額いくらで”で得を作れる。うち視点では、①在庫は決算期に一気に動く＝仕入れ・展示の入替タイミング、②値引き競争に飲まれず『サイズ適合・型落ちの中身・総額提案』で差別化、が効く。",
       "sources": [
-        { "t": "Cyclingnews（Niewiadoma-Phinney to Lidl-Trek）", "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/kasia-niewiadoma-phinney-the-headline-addition-to-the-expanded-lidl-trek-womens-team-roster/", "d": "2026-09-29" }
+        { "t": "Bike Plus（オータムセール2026）", "u": "https://bike-plus.com/blogs/news/autumn-sale-2026", "d": "2026-09" },
+        { "t": "価格.com（値下げランキング）", "u": "https://kakaku.com/bicycle/road-bicycle/ranking_6420/pricedown/", "d": "2026-09" }
       ],
-      "status": "確定＝Lidl-Trekへ2年契約（〜2028末）、GCリーダー。曖昧＝コーチ帯同は未確定。"
+      "status": "確定＝30%OFF実施・時期。曖昧＝対象・在庫は店舗と時期で変動。"
     },
     {
-      "id": "20260930-meeus-lidltrek-sprint",
-      "genre": "trend",
-      "genreLabel": "TREND",
-      "genreJa": "トレンド",
-      "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/Hrt9xbjxre7hpYJGoxA36U-1024-80.jpg",
-      "headline": "【トレンド・移籍】Lidl-Trekがスプリント陣も刷新——メーウスがRed Bullから加入、ミランの“発射台”に、ヴァルシャイトは引退",
-      "layer1": "Lidl-Trekのロスター強化が続く。ヨルディ・メーウス（28、Red Bull-Bora）が来年1月から加入し、スプリント王ジョナタン・ミランのリードアウト/第2の矢に。今季限りで引退するヴァルシャイト（独）との入れ替わりだ。",
-      "layer2": "メーウスは2023年ツール最終日シャンゼリゼでフィリプセンやグローネウェーゲンを下した『最も格の高い』スプリント勝者。通算19勝で、今季もブリュッセル・サイクリング・クラシック等4勝。ミラン＋メーウスで『発射台と大砲』を揃えるLidl-Trekは、ニーワイアドマ加入と併せ2027年の超大型ロスター化が鮮明になった。世界選が終わり、発表解禁のラッシュが本格化している。",
+      "id": "20261001-beginner-china-carbon-choice",
+      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
+      "image": "https://bike-memo.com/wp-content/uploads/2026/01/zakki_C128.jpg",
+      "headline": "【初中級】大手が『1,000ポンド割れ』で攻めてきた今、初めての中華カーボンホイールを外さない3点",
+      "layer1": "ジップやコロンバス等が軽量×低価格で参入し、値ごろ帯のカーボンホイールは選択肢が急増。『安いから中華』だけで選ぶと後悔しやすい局面になった。",
+      "layer2": "外さない3点——①軽さより“空力・横風・実測重量”（公称と実測のズレをレビューで確認）。②リムがフック有無どちらか＋対応タイヤと『最大空気圧』（フックレスは上限厳守が絶対）。③サポート・保証・スポーク供給（折れた時に部品と対応が続くか）。うち（8LIEN/CRW/GOOSYNN等）なら現物・組み換え・アフターまで相談できるのが数字以外の価値。",
       "sources": [
-        { "t": "Cyclingnews（Meeus to Lidl-Trek）", "u": "https://www.cyclingnews.com/pro-cycling/transfers/jordi-meeus-to-leave-red-bull-bora-hansgrohe-for-a-different-role-at-lidl-trek/", "d": "2026-09-29" }
+        { "t": "バイクメモ（中華カーボン格付け2026）", "u": "https://bike-memo.com/cycle_260118_carbon-wheels/", "d": "2026-01" },
+        { "t": "road.cc（Zipp 404 Sの価格）", "u": "https://road.cc/tech-news/zipp-launches-new-404-s-carbon-road-wheels-promising-industry-leading-aero-performance-for-under-1000", "d": "2026-09" }
       ],
-      "status": "確定＝メーウスがLidl-Trek加入、ヴァルシャイト引退。曖昧＝リードアウトの序列は未確定。"
+      "status": "確定＝選び方の原則・大手の値ごろ帯参入。曖昧＝各製品の優劣は用途次第。"
     },
     {
-      "id": "20260930-eritrea-worlds-visa",
-      "genre": "trend",
-      "genreLabel": "TREND",
-      "genreJa": "トレンド",
-      "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/UiMEk6rLumkoVyyQ4WmmTU-2000-80.jpg",
-      "headline": "【トレンド・人間ドラマ】世界選の“影の物語”——エリトリアが『ビザ問題』で主力2人欠場＋キット不備で罰金、グルマイ率いる強豪が満身創痍",
-      "layer1": "モントリオール世界選で、エリトリア代表が『ビザ問題』で主力2人（ゲブレイグザビエル、テスファツィオン）を欠場。さらにキット不備で重い罰金を科され、エースのビニアム・グルマイを擁する強豪が満身創痍で走った。",
-      "layer2": "グルマイは『あの2人の強力なパワーハウスがビザを取れず走れなかった』とユーロスポーツに明かした。ビザ却下の理由は不明で、Cyclingnewsはエリトリア連盟やUCIに取材中。北米開催・代表活動の華やかさの裏で、アフリカ勢が制度と渡航の壁に阻まれる構造がまた露呈した。機材や脚力の前に『土俵に立つこと自体の難しさ』——世界選が残した、光の当たらない現実だ。",
+      "id": "20261001-euro-champs-women",
+      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
+      "image": "https://domestique-cycling.b-cdn.net/production/2025/Historial-images/CORVOS_00037191-354.jpg?width=2400&height=1260&quality=75&crop=3576%2C1878%2C0%2C253",
+      "headline": "【レース・女子／人間ドラマ】女子欧州選もリュブリャナで開催——フォレリング本命、ヴィーベス＆ピーテルセが激坂で挑む",
+      "layer1": "10/2〜7の欧州選手権は女子エリートロードも会期内に開催。世界選（モントリオール）を制したばかりの勢いを、本命フォレリングが欧州でも狙う。",
+      "layer2": "モジャンツァ反復の登坂コースは、スプリンターのヴィーベスには厳しく、オールラウンダー＆クライマー有利。ピーテルセらパンチャーが本命フォレリングにどう挑むかが見どころ。女子ロードは移籍市場（ケルバオル→SDワークス等）と合わせて“器の拡大”が続き、観る側にも新しい主役が増えている。※女子ロードの正確な実施日は会期内で要確認。",
       "sources": [
-        { "t": "Cyclingnews（Eritrea fines and visa issues at Worlds）", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/mismatched-kit-and-visa-issues-lead-to-heavy-fines-and-depleted-line-ups-for-eritrea-at-world-championships/", "d": "2026-09-29" }
+        { "t": "ProCyclingUK（スタートリスト・女子本命）", "u": "https://procyclinguk.com/european-road-championships-2026-start-lists-pogacar-named-despite-injury-as-major-stars-miss-slovenia-vollering-starts-as-favourite/", "d": "2026-09-22" },
+        { "t": "Domestique（大会プレビュー）", "u": "https://www.domestiquecycling.com/en/news/a-pogacar-and-roglic-homecoming-2026-uec-european-road-championships-set-for-slovenia/", "d": "2026-09" }
       ],
-      "status": "確定＝2選手がビザで欠場、キット不備で罰金。曖昧＝ビザ却下の原因は不明（取材中）。"
-    },
-    {
-      "id": "20260930-market-ys-autumn-terms",
-      "genre": "market",
-      "genreLabel": "MARKET",
-      "genreJa": "国内市場",
-      "hot": false,
-      "image": "https://ysroad.co.jp/kyoto/wp-content/uploads/2025/12/img_24351.jpg",
-      "headline": "【経営メモ・市場】ワイズ『秋キャンペーン』の売り方——単純値下げより“無金利12回＋学生囲い込み”で総額の魅力を作る",
-      "layer1": "ワイズロードの『秋のサイクリングキャンペーン』が継続中（9/3開始）。完成車・ホイール・フレームを期間限定特価に、最大12回まで無金利ローン、学生特典（用品8点同時購入で対象5%OFF＋平日受取で1,000pt）まで用意する。9/14のワイズ京都は『推し車体の大幅プライスダウン』を個別に打ち出した。",
-      "layer2": "経営メモとして効くのは“値引きの見せ方”だ。単純値下げより、無金利・ポイント還元・学生囲い込みで『総額の魅力』を作るのが大手の手口。決算処分と秋商戦を接続し、2027モデル切替で型落ちが動く月末に来店動機を束ねている。うちのような個店が価格だけで殴り合っても消耗する——“総額と条件（工賃込み・アフター・受取特典）”で差別化する設計が要る。",
-      "sources": [
-        { "t": "Y's Road 京都店（推し車体プライスダウン）", "u": "https://ysroad.co.jp/kyoto/2026/09/14/163026", "d": "2026-09-14" },
-        { "t": "サイクルジャパン（ワイズ2026秋キャンペーン）", "u": "https://cyclejapan.club/ysroad-2026fall-campaign/", "d": "2026-09" }
-      ],
-      "status": "確定＝秋キャンペーン継続・無金利12回・学生特典。曖昧＝対象在庫は店舗差。"
-    },
-    {
-      "id": "20260930-market-mybest-wheel-ranking",
-      "genre": "market",
-      "genreLabel": "MARKET",
-      "genreJa": "国内市場",
-      "hot": false,
-      "image": "https://img.my-best.com/contents/c903b6c1dffd94734de85a3d7f30a9ff.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=96fc9f5f3888d301d45a1aa867f6e02f",
-      "headline": "【経営メモ・市場】『マイベスト』9月版ホイール格付けが更新——中華カーボンが“通常比較”の常連、もう中華枠ではない",
-      "layer1": "国内比較メディア『マイベスト』のロード用カーボンホイールおすすめランキング2026年9月版が更新。軽量・高速・高剛性のオールラウンダーが上位を占め、中華カーボンが“通常比較”の常連として並ぶ。価格.comの9月ホイール人気ランキングでも実売が動いている。",
-      "layer2": "経営の勘所は『日本の買い手が今どのホイールを“比較”しているか』。中華は『ひと昔前とはまったく違う丁寧な作り』と評価され、もう“中華枠”という別扱いではない。片方で純正はクラッシュ制度まで用意して守りを固める（本日の別カード）——つまり土俵は同じで、勝負は“説明と安心”に移った。うちの8LIEN/CRW/GOOSYNN等も、この比較表に載る前提で『実測重量・保証・スポーク補修』まで語れる接客が要る。",
-      "sources": [
-        { "t": "マイベスト（カーボンホイール人気ランキング2026年9月）", "u": "https://my-best.com/21017", "d": "2026-09" },
-        { "t": "価格.com（自転車用ホイール人気ランキング 2026年9月）", "u": "https://kakaku.com/ranking/bicycle/0009_0002/0034/", "d": "2026-09" }
-      ],
-      "status": "確定＝9月版格付けで中華が上位常連。曖昧＝評価軸で順位は変動、絶対序列ではない。"
-    },
-    {
-      "id": "20260930-beginner-tubeless-lowpressure",
-      "genre": "beginner",
-      "genreLabel": "BEGINNER",
-      "genreJa": "初中級",
-      "hot": false,
-      "image": "https://img.my-best.com/contents/ac766dd1873752cad7d7732fbdf7a1b0.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=89278c8f94e33b7f8e2d87b7dfd9e868",
-      "headline": "【初中級／Xでも話題】『チューブレス＋低圧』が新常識——“7bar常識”はもう古い、でもフックレスは“上限厳守”が絶対",
-      "layer1": "25→28Cの幅広化、ワイドリム、フックレスの普及で、かつて“7barが常識”だったロードの空気圧がぐっと下がった。適正圧の話がXやブログで再燃し、マイベストの2026年9月版チューブレスタイヤ格付けも更新されている。",
-      "layer2": "先回りの答え：低圧化の狙いは接地・快適・転がりの最適化だが、フックレスリムだけは『メーカー指定の上限圧の厳守』が絶対（超えるとビードが外れる危険）。最適圧は体重・タイヤ幅・リム内幅で変わり、28Cチューブレスなら“昔より1〜2bar低い”が目安。初中級の安全手順は『まずリム/タイヤの指定上限を確認→そこから下げて自分の最適を詰める』。“みんなが低圧だから”で下限を攻めすぎるとリム打ち・ヨレの原因になる。",
-      "sources": [
-        { "t": "マイベスト（チューブレスタイヤ人気ランキング2026年9月）", "u": "https://my-best.com/16956", "d": "2026-09" }
-      ],
-      "status": "確定＝低圧＋チューブレスが主流化、9月版格付け更新。曖昧＝最適圧は体重/リムで個別、フックレスは上限厳守。"
-    },
-    {
-      "id": "20260930-beginner-carbon-spoke-worry",
-      "genre": "beginner",
-      "genreLabel": "BEGINNER",
-      "genreJa": "初中級",
-      "hot": false,
-      "image": "https://www.grumpy.jp/cdn/shop/articles/dura-ace-wh-r9370-lineup_93bf515e-59ab-4d27-8256-dceea797fe20.jpg?v=1785381399",
-      "headline": "【初中級】『カーボンスポークって折れたら終わり?』——純正も中華も採用の今、怖がらず選ぶ3点",
-      "layer1": "純正（新デュラR9370）も中華も採用が進むカーボンスポーク。初中級の一番の不安は『ぶつけて折れたら高いのでは?』だ。今日シマノが“クラッシュ制度30%OFF”を出したのは、その不安への一つの答えでもある。",
-      "layer2": "押さえる3点。①利点＝軽さ・エアロ・横剛性（横のヨレが減り、スプリントや下りで安心）。②弱点とされる“ぶつけ”への弱さは、実際にはメーカーが補修・制度で担保する方向（純正はVONOA共同設計＋3年内30%OFF）。③中華を選ぶなら“交換スポークの入手性・国内サポート”を買う前に必ず確認。『折れる前提でも直せるか』で選べば怖くない——見るべきは強度の噂より、壊れた後の“戻し方”だ。",
-      "sources": [
-        { "t": "cyclowired（WH-R9370クラッシュリプレイスメント開始）", "u": "https://www.cyclowired.jp/news/node/393402", "d": "2026-09" },
-        { "t": "Grumpy（新デュラR9370は何が変わった・カーボンスポーク解説）", "u": "https://www.grumpy.jp/blogs/blog/dura-ace-wh-r9370", "d": "2026-09" }
-      ],
-      "status": "確定＝純正はカーボンスポーク＋3年内30%OFF制度。曖昧＝中華各社のスポーク補修体制はブランド毎に個別確認が必要。"
+      "status": "確定＝会期10/2-7内で女子ロード開催・フォレリング本命。曖昧＝女子ロースの正確な日付は要確認。"
     }
   ]
 }
