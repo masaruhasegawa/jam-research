@@ -1,161 +1,137 @@
 {
-  "date": "2026-10-01",
-  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。世界選が閉じ、舞台は『欧州選手権（10/2〜7リュブリャナ）』と“秋のイタリア”へ——王者マクナルティは10/3から虹デビュー、国内はジャパンカップ発表、機材は大手が軽量×低価格で中華の主戦場に降りてきました。",
+  "date": "2026-10-02",
+  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。舞台は『秋のイタリア＆欧州選』——新王者マクナルティは明日10/3エミリアで虹デビュー、本日10/2はリュブリャナ欧州選が開幕。機材はWTBがグラベルカーボン、国内はウィンスペースがTT完成車まで。経営メモは『欧州で整備士10.5万人不足』——人の育成と工賃設計が次の競争力です。",
   "cards": [
     {
-      "id": "20261001-euro-champs-ljubljana",
+      "id": "20261002-emilia-mcnulty",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": true,
-      "image": "https://procyclinguk.com/wp-content/uploads/2025/10/divA-long-solo-Never-say-never-Tadej-Pogacar-wont-rule-out-repeat-trademark-lone-breakaway-in-upcoming-European-Road-Championshipsdiv-1.jpg",
-      "headline": "【🔥今日の一本・レース／人間ドラマ】欧州選手権が10/2開幕、男子ロードは10/4リュブリャナ——王者ポガチャルは負傷で『母国の虹』を防衛できず、スロベニアはログリッチに託す",
-      "layer1": "モントリオール世界選から1週間、次の大舞台は10/2〜7スロベニア・リュブリャナの欧州選手権。男子エリートロードは10/4（日）12:30発走、196.3km・獲得2,571m、コングレス広場スタート。",
-      "layer2": "終盤はモジャンツァ（Možjanca 約2.1km・平均10.2%・最大15.8%）を5回上り、決着は残り14km——実力者しか残れない登坂反復コース。昨年王者ポガチャルはブエルタ落車（鎖骨骨折＋C7頸椎）で母国防衛を断念し、スロベニアはログリッチ／オムルゼルへ。本命は『昨年2位の雪辱』を狙うレムコ・エヴェネプール、伏兵にチッコーネ、ヴァチェク、ペデルセン、グレゴワール。欧州選は2016年創設以来まだ『連覇者ゼロ』。",
+      "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039418-202.jpg?width=832&height=468&format=jpg&crop=2000%2C1125%2C0%2C104",
+      "headline": "【🔥今日の一本・レース／人間ドラマ】新王者マクナルティ、明日10/3ジロ・デッレミリアで『虹デビュー』——だが本命は地元を知り尽くすピドコック、UAEは昨年覇者デルトロで連覇も狙う",
+      "layer1": "世界王者ブランドン・マクナルティが、虹ジャージの初レースを明日10/3のジロ・デッレミリア（伊）に決めた。本人は「エミリアから始めて、ロンバルディアまでイタリアの一連をほぼ走る。虹で始められるのは特別」と語る。",
+      "layer2": "ただ下馬評の最上位はマクナルティではない。プレビュー各紙はトム・ピドコック（ピナレロQ36.5）を本命に挙げ、昨年覇者のチームメイト、イサク・デルトロ（UAE）、新鋭ペリッツァーリらが続く構図。サンルカの壁（約2km・平均10%）を5回上る超級で、虹は『的』になる——UAEはマクナルティを看板に立てつつ、実質はデルトロで勝ちに行く二段構え。同日開催の欧州選と主力が割れる点も展開を読みにくくする。",
       "sources": [
-        { "t": "IDLProCycling（男子プレビュー）", "u": "https://www.idlprocycling.com/cycling/2026-european-cycling-championships-elite-men-preview-no-pogacar-in-slovenia-but-plenty-of-favourites-with-a-point-to-prove", "d": "2026-09-30" },
-        { "t": "ProCyclingUK（スタートリスト）", "u": "https://procyclinguk.com/european-road-championships-2026-start-lists-pogacar-named-despite-injury-as-major-stars-miss-slovenia-vollering-starts-as-favourite/", "d": "2026-09-22" },
-        { "t": "Visit Ljubljana（大会公式情報）", "u": "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana/uec-road-european-championships", "d": "2026-09" }
+        { "t": "Domestique（虹デビュー）", "u": "https://www.domestiquecycling.com/en/news/new-world-champion-brandon-mcnulty-to-debut-rainbow-jersey-in-italy/", "d": "2026-09-29" },
+        { "t": "CyclingFlash（プレビュー・ピドコック本命）", "u": "https://cyclingflash.com/news/preview-giro-dellemilia-pidcock-the-top-favorite-as-mcnulty-debuts-in-the-rainbow-jersey", "d": "2026-09-30" },
+        { "t": "UAE Team Emirates公式", "u": "https://www.uaeteamemirates.com/brandon-mcnulty-set-make-debut-rainbow-jersey-uae-team-emirates-xrg/", "d": "2026-09-29" }
       ],
-      "status": "確定＝会期10/2-7・男子ロード10/4 12:30・196.3km／ポガチャル欠場。曖昧＝優勝は展開次第。"
+      "status": "確定＝開催10/3・マクナルティ出走・UAEは豪華布陣。曖昧＝勝者予想（ピドコック本命は各紙の見立て、結果は未定）"
     },
     {
-      "id": "20261001-japancup-startlist",
+      "id": "20261002-euro-champs-open",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/09/2609japancup1.jpg",
-      "headline": "【レース・国内／Xでも話題】宇都宮ジャパンカップ10/16-18に世界のスターが集結——ヒーリー、マシューズ、新城幸也ら、全19チーム発表",
-      "layer1": "国内最大のワンデー『宇都宮ジャパンカップ』は10/16(金)チーム紹介・17(土)クリテリウム・18(日)ロードレース。UCIワールドチームを含む全19チームが出場。",
-      "layer2": "ワールドチームはEF、バーレーン、リドル・トレック、ロット、ジェイコら。海外勢はベン・ヒーリー、マイケル・マシューズら、日本勢は新城幸也（37歳）ら国内コンチネンタル7チームが参戦。名物『古賀志林道』の激坂反復で総合力が問われる一戦で、毎年Xで観戦熱が沸騰＝秋商戦の来店・買い替え動機に直結する。※スター選手の最終エントリーは開催前に変動あり。",
+      "image": "https://cdn.mos.cms.futurecdn.net/ux6rHJPRtfdgue6wpADD8H-2560-80.jpg",
+      "headline": "【レース・欧州選／今週末決戦】リュブリャナ欧州選が本日10/2開幕——男子ロードは10/4、ポガチャル不在の母国はログリッチに託し、ヴォラリング＆レムコも集結",
+      "layer1": "UECロード欧州選手権が本日10/2にスロベニア・リュブリャナで開幕（〜10/7）。週末が山場——女子エリート・ロードが土曜、男子エリート・ロードが日曜10/4、個人TTと混合リレーは大会後半に組まれる。",
+      "layer2": "母国開催のはずのポガチャルはブエルタでの鎖骨骨折で欠場。スロベニアはプリモシュ・ログリッチに託す。男子はレムコ・エヴェネプール、女子はデミ・ヴォラリングら各国エースが激坂フィニッシュのコースに集う。欧州選は同日のジロ・デッレミリアと主力を奪い合う形で、どの国がロードにエースを回すかが土日の勢力図を決める。",
       "sources": [
-        { "t": "サイクルスポーツ（出場選手発表）", "u": "https://www.cyclesports.jp/news/race/168905/", "d": "2026-09" },
-        { "t": "シクロワイアード（出場チーム発表）", "u": "https://www.cyclowired.jp/news/node/392825", "d": "2026-09" }
+        { "t": "Cyclingnews（視聴ガイド・日程）", "u": "https://www.cyclingnews.com/cycling-culture/streaming/how-to-watch-uec-road-european-championships-2026/", "d": "2026-10-01" },
+        { "t": "Wikipedia（2026 European Road Championships）", "u": "https://en.wikipedia.org/wiki/2026_European_Road_Championships", "d": "2026-10-01" }
       ],
-      "status": "確定＝日程・チーム枠（全19）。曖昧＝個々の最終出走選手は要確認。"
+      "status": "確定＝10/2開幕・男子ロード10/4・ポガチャル欠場。曖昧＝各種目の最終スタートリストは直前変動あり"
     },
     {
-      "id": "20261001-strava-ai-kom",
+      "id": "20261002-bruttomesso-doping",
       "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/c2shkYXabmwnFwFLLuWcQ6-2560-80.jpg",
-      "headline": "【トレンド・データ／Xでも論争】『StravaのAIが俺のKOMを奪った』——不正検出強化でリーダーボードから数百万件を除外、賛否が沸騰",
-      "layer1": "Stravaが機械学習でeバイク・車両乗車の不正ライドを検出し、リーダーボードから大量除外。road.cc(9/30)には『AIにKOM連続記録を止められた』との悲鳴が届いた。",
-      "layer2": "除外はeバイク疑い約230万件＋車両乗車疑い約160万件、代わりに正当な約29.3万人がトップ10へ『復帰』。自己申告制から“人＋AIの確認”へ移行し、KOM剥奪の誤検出懸念も残る。実力で自己ベストを削る派には朗報、ゆるくKOMを集める派には逆風——『記録の正しさ』論争は日本のローディーにも刺さるテーマ。",
+      "image": "https://cdn.mos.cms.futurecdn.net/hx9CUzM2tng5sUM6sGUWXX-2560-80.jpg",
+      "headline": "【トレンド・ドーピング】バーレーンの22歳スプリンター、ブルットメッソが暫定資格停止——伊反ドーピング機関が『使用または使用の企て』、チームも自ら活動停止に",
+      "layer1": "バーレーン・ヴィクトリアスの22歳、アルベルト・ブルットメッソが、イタリア反ドーピング審判所から暫定的な資格停止処分を受けた。反ドーピング規程2.1・2.2条（禁止物質の『存在』および『使用または使用の企て』）違反とされる。",
+      "layer2": "具体的な物質・経緯は当局から公表されていない。チームは『全面的に支援する』としつつ、結論が出るまで本人を全活動から外した。契約は2027年まで。彼はプロ初勝利こそないが2024年ツアー・オブ・广西で頭角を現した若手。※現時点は『暫定停止』＝有罪確定ではなく、処分内容は捜査結果次第で確定する点に注意。",
       "sources": [
-        { "t": "Cycling Weekly（230万件除外）", "u": "https://www.cyclingweekly.com/news/strava-removes-2-3-million-rides-from-leaderboards-in-clampdown-on-cheats", "d": "2026-09" },
-        { "t": "road.cc ライブブログ", "u": "https://road.cc/news/cycling-live-blog-30-september-2026", "d": "2026-09-30" }
+        { "t": "Cyclingnews（暫定停止）", "u": "https://www.cyclingnews.com/pro-cycling/doping/bahrain-victorious-sprinter-provisionally-suspended-by-italian-anti-doping-authority/", "d": "2026-09-30" },
+        { "t": "Domestique（続報）", "u": "https://www.domestiquecycling.com/en/news/bahrains-alberto-bruttomesso-suspended-for-anti-doping-offence/", "d": "2026-10-01" }
       ],
-      "status": "確定＝除外・復帰の数字は複数媒体で一致。曖昧＝個別の誤検出は個人差あり。"
+      "status": "確定＝暫定資格停止・チームが活動停止。曖昧＝違反物質と最終処分は未確定（捜査中）"
     },
     {
-      "id": "20261001-tudor-groves-denz",
-      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://domestique-cycling.b-cdn.net/production/2026/Live/TUD26-Signing_NicoDenz_KadenGroves.jpg?width=2400&height=1260&quality=75&crop=1920%2C1008%2C0%2C36",
-      "headline": "【トレンド・移籍】チューダーが『二枚看板』を電撃補強——グローブス＋デンツをW獲得、GT区間13勝の実力者でワールドツアー昇格へ照準",
-      "layer1": "プロチームのチューダーが2027へ、豪スプリンターのケーデン・グローブスと独オールラウンダーのニコ・デンツを同時発表（9/23）。ともに3年契約。",
-      "layer2": "2人合計でグランツール区間13勝（グローブス10＝三大GT制覇、デンツはジロ3勝）。グローブスはツールでの区間＆グリーン狙いを明言。女子でもケルバオル（TdFF区間勝者）がEF→SDワークス・プロタイムへ。世界選後の『発表解禁』で市場は一気に加速し、上位昇格を狙う中堅チームの補強が過熱している。※ワールドツアー昇格はUCIポイント次第。",
-      "sources": [
-        { "t": "Domestique（W獲得）", "u": "https://www.domestiquecycling.com/en/news/tudor-add-groves-and-denz-for-2027-as-recruitment-drive-gathers-pace/", "d": "2026-09-23" },
-        { "t": "Cycling Up To Date", "u": "https://cyclinguptodate.com/cycling/official-tudor-strike-in-the-transfer-market-with-double-signing-of-proven-grand-tour-winners-boasting-13-stage-victories-between-them", "d": "2026-09-23" }
-      ],
-      "status": "確定＝両者3年契約・9/23発表・ケルバオルの移籍。曖昧＝昇格は未確定。"
-    },
-    {
-      "id": "20261001-winspace-m5-colors",
-      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/08/WINSPACE-M5_1.jpg",
-      "headline": "【経営メモ・市場】ウィンスペース最廉価『M5』に新色2色（9/25）——完成車28.8万円〜、中華が“完成車の入口”をさらに広げる",
-      "layer1": "WINSPACEがエントリーロード『M5』に新色『Horizon Blue（角度で白→青のグラデ）』『Midnight Violet（黒地に深紫）』を追加（9/25）。105 BASEで税込28.8万円〜。",
-      "layer2": "M5はC5後継で、T47・UDH対応・完全内装・700×32Cと“今どき”仕様を廉価帯に落とし込んだ。中華はホイールだけでなく完成車の入口まで降りてきており、参入価格が30〜40万に上振れした国産・大手入門機の受け皿になり得る。うち（8LIEN/CRW等）でも『最初の1台は中華で』という相談が増える文脈——見せ方は“総額と装備の納得感”で作る。",
-      "sources": [
-        { "t": "WINSPACE JAPAN（M5・新色告知）", "u": "https://winspace.jp/blogs/news/m5", "d": "2026-09-25" },
-        { "t": "サイクルスポーツ（M5発表）", "u": "https://www.cyclesports.jp/news/new-product/166759/", "d": "2026-08" }
-      ],
-      "status": "確定＝価格28.8万円〜・新色2色・主要仕様。曖昧＝納期は個体差。"
-    },
-    {
-      "id": "20261001-mcnulty-italy-block",
+      "id": "20261002-izagirre-sevilla",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/CkkEKX6eXZDaqGpyDYmLxe-1200-80.jpg",
-      "headline": "【レース・人間ドラマ】新王者マクナルティ、10/3ジロ・デッレミリアで『虹ジャージ初戦』——エミリア→トレ・ヴァッリ→ロンバルディアの“イタリア秋”を丸ごと転戦",
-      "layer1": "世界王者ブランドン・マクナルティ（米）が10/3のジロ・デッレミリアで虹ジャージ初レース。『エミリアからロンバルディアまでイタリアの塊をほぼ全部走る。虹で始められるのは特別』と本人。",
-      "layer2": "予定はエミリア(10/3)→トレ・ヴァッリ・ヴァレジーネ(10/6)→ロンバルディア(10/10)、さらにヴェネト勢も。エミリアは名物サン・ルカ反復が勝負どころで、対抗はピドコック、ペリッツァーリ、デル・トロら。33年ぶりの米国男子ロード世界王者が“虹の重み”を背負う秋——欧州選と同週のため、最終出走は調整含み。",
+      "image": "https://cdn.mos.cms.futurecdn.net/QkkYFfWRRNGpDe4KvqfM8H-1024-80.jpg",
+      "headline": "【レース・人間ドラマ】秋の対照的な2つの引き際——イサギレ37歳は引退レースのロンバルディアを練習落車の手首骨折で断念、かたやセビリアは50歳の誕生日に『29季目』契約",
+      "layer1": "コフィディスのイオン・イサギレ（37）が、自宅バスク近郊の練習中に落車し左手首を骨折。最後の花道に予定していた10/10ロンバルディアを含む今季残りを全欠場、そのまま引退に。一方、オスカル・セビリアは50歳の誕生日にメデジン-EPMと2027年契約を更新、プロ29季目へ。",
+      "layer2": "イサギレは3GTすべてで区間勝利を持つオールラウンダー。今季はメモリアル・パンターニを制覇——皮肉にもその勝利が『知らぬ間の最後の1勝（通算20勝）』になった。対するセビリアは2001年ブエルタ表彰台から四半世紀、ドーピング明けの2011年以降は南米コンチネンタルで走り続け、海南島やサンファンで今も勝つ。『どう終えるか』は選べない選手と、終えない選手——引き際の二面を同じ週が見せた。",
       "sources": [
-        { "t": "Cyclingnews（虹デビュー）", "u": "https://www.cyclingnews.com/pro-cycling/racing/new-world-champion-brandon-mcnulty-to-debut-rainbow-jersey-at-giro-dell-emilia/", "d": "2026-09" },
-        { "t": "Cycling Up To Date", "u": "https://cyclinguptodate.com/cycling/world-champion-brandon-mcnulty-set-for-rainbow-jersey-debut-at-giro-dellemilia", "d": "2026-09-29" }
+        { "t": "Escape Collective（イサギレ骨折）", "u": "https://escapecollective.com/broken-wrist-spoils-izagirres-plans-for-il-lombardia-retirement-party/", "d": "2026-09-30" },
+        { "t": "Cyclingnews（セビリア50歳で契約）", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/on-his-50th-birthday-oscar-sevilla-signs-up-for-another-year-as-a-pro-cyclist/", "d": "2026-09-30" }
       ],
-      "status": "確定＝エミリア10/3出走・転戦計画・本人コメント。曖昧＝各レースの最終エントリー。"
+      "status": "確定＝イサギレ骨折で引退・セビリア50歳で契約更新。曖昧＝イサギレの復帰可能性は本人も明言せず"
     },
     {
-      "id": "20261001-columbus-spirit50",
+      "id": "20261002-wtb-cgr",
       "genre": "wheel", "genreLabel": "WHEEL", "genreJa": "ホイール", "hot": false,
-      "image": "https://cdn.sanity.io/images/iocd9e4k/production/ad8460cbf7a6f854599a083b6e54df4cbac555d2-1920x1280.jpg?rect=0,139,1920,1003&w=1200&h=627&q=75&fit=crop&auto=format",
-      "headline": "【ホイール・新製品／機材読み】コロンバスが初のカーボンホイール『Spirit 50』を投入（9月）——1,249g・€3,999、あえて“フックド”で安全側に振る",
-      "layer1": "老舗コロンバスが自社初のカーボンロードホイール群を9月に発表。フラッグシップ『Spirit 50』は50mmハイトで1,249gの軽量、価格€3,999。",
-      "layer2": "注目は“フックド（フック有り）”を選んだ点——高圧やタイヤ選択の自由を優先し、フックレス勢とは逆の判断。軽量×高価格の頂点争いに老舗まで参入し、中華カーボンが握ってきた『軽さ×価格』の物差しは、いよいよ大手・老舗との“通常比較”の土俵に乗った。うちの提案でも『同じ50mm・1,300g級で価格はどうか』が説得材料になる。",
+      "image": "https://i0.wp.com/www.bikeworldnews.com/wp-content/uploads/2026/09/SCC00180-Large.jpeg?resize=800%2C533&ssl=1",
+      "headline": "【ホイール・新製品／グラベル】WTBが初の自社カーボン・グラベルホイール『CGR i28』——40mm深・内寸28mm、45〜54mmタイヤ最適化でグラベル世界選(10/10-11)需要に照準",
+      "layer1": "タイヤで知られるWTBが、カーボン・グラベルホイール『CGR i28』を発表（9/29）。リムは40mm深・内寸28mmで、45〜54mm幅のグラベルタイヤを想定。前644g／後729g（XDR/MicroSpline）、前後セットで1,800ドル。",
+      "layer2": "あえて超ワイド化せず内寸28mmに留めたのは『安定性と理想的なタイヤ断面の両立』が狙い。ハブはワールドカップ実績のFrequency 7X＋Enduroベアリングで負荷耐性を従来比38%引き上げ、DLCコートのラチェットで低フリクションと防塵を両立。フリーハブはSRAM XDR／シマノMicroSpline 12S／HG 11Sの3対応。豪ナナップのグラベル世界選(10/10-11)直前という投入タイミングも商機を意識したもの。",
       "sources": [
-        { "t": "Velo Racing（Columbus発表）", "u": "https://veloracycling.com/tech/columbus-carbon-road-wheels-launch-2026", "d": "2026-09" }
+        { "t": "Bike World News", "u": "https://www.bikeworldnews.com/2026/09/29/wtb-adds-all-new-carbon-gravel-wheel-after-aero-tires/", "d": "2026-09-29" }
       ],
-      "status": "確定＝Spirit50の重量1,249g・€3,999・フックド・9月発表。曖昧＝実測値と国内供給時期。"
+      "status": "確定＝スペック・価格・9/29発表。曖昧＝国内取扱・入荷時期は未定"
     },
     {
-      "id": "20261001-zipp-404s-sub1000",
+      "id": "20261002-mechanic-shortage",
       "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://cdn.road.cc/wp-content/uploads/2026/06/2026-Zipp-404-S-action-two-riders-1024x683.jpeg",
-      "headline": "【経営メモ・市場】ジップ『404 S』が1,000ポンド割れで登場——大手が“価格”で反攻、中華カーボンの『安さ』優位が揺らぐ",
-      "layer1": "ジップが新型『404 S』を発表——50mmハイトのカーボンで『クラス最高のエアロ』をうたい、1,000ポンド（約19万円）を切る戦略価格。",
-      "layer2": "これまで中華カーボンの武器は『大手の半額級で同性能』だったが、ジップやコロンバス等の大手・老舗が“軽量×低価格”の主戦場に降りてきた。値ごろ帯の競争が激化すれば、中華は『価格』だけでなく『サポート・実測・保証』で差を示す局面に。逆に言えば、店頭で“身近な相談・組み換え・アフター”を持てる店には追い風——うちの価値は数字だけではない。",
+      "image": "https://cdn.road.cc/wp-content/uploads/roadcc/shimano-mechanic-and-broken-crankset-june-2025-1024x683.jpg",
+      "headline": "【経営メモ・市場】欧州は『2032年までに整備士が10.5万人不足』——サービス待ちで1.2億人が乗る頻度を減らし、760万人が乗るのをやめた、という調査",
+      "layer1": "NextGen Mechanics／ECIの新報告（ブリュッセルのサミットで公表）が、欧州の自転車産業は2032年までに約10.5万人の整備士が追加で必要＝現在約17.5万人の6割増、と試算。今すでに4.5万人不足という。シマノの『State of the Nation 2026』調査（回答2.5万人）では、整備が受けられず1.21億人が乗る頻度を減らし、760万人が乗るのをやめた、と出た。",
+      "layer2": "原因は低賃金・長時間・高度化する技術——熟練者がより待遇の良い他業種へ流出する『churn』。これは対岸の火事ではない。電動化・コンポの複雑化（セミワイヤレス、油圧、カーボンスポーク）で整備難度は日本でも上昇中。『売って終わり』ではなく、整備で囲い込み・工賃を正当に取り、無資格の町場修理に客が流れる前に受け皿になる店が強い。人の採用・育成と工賃設計そのものが、これからの競争力になる。",
       "sources": [
-        { "t": "road.cc（Zipp 404 S）", "u": "https://road.cc/tech-news/zipp-launches-new-404-s-carbon-road-wheels-promising-industry-leading-aero-performance-for-under-1000", "d": "2026-09" }
+        { "t": "road.cc（10.5万人不足）", "u": "https://road.cc/news/105000-more-bike-mechanics-are-needed-in-europe-by-2032-and-the-shortfall-is-already-changing-how-people-travel", "d": "2026-10-01" },
+        { "t": "BikeBiz", "u": "https://bikebiz.com/europe-needs-105000-more-bike-mechanics-by-2032/", "d": "2026-10-01" }
       ],
-      "status": "確定＝404 Sが50mm・1,000ポンド割れで投入。曖昧＝国内価格・在庫は流通次第。"
+      "status": "確定＝報告書の数値・調査規模。曖昧＝日本の整備士需給は別途（本調査は欧州対象）"
     },
     {
-      "id": "20261001-beginner-repeat-climbs",
-      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "https://soon.ismcdn.jp/mwimgs/d/9/1200wm/img_d91bed74d59a403aea623686153663cc3301299.jpg",
-      "headline": "【初中級・観戦の理屈】欧州選の『激坂5回』やジャパンカップ古賀志に憧れたら——短い坂を何度も上って垂れない3つの効きどころ",
-      "layer1": "欧州選（モジャンツァ約2km・最大15.8%を5回）も宇都宮の古賀志林道も“短い激坂の反復”。プロが最後まで垂れないのは才能だけではなく、消耗の作り方が違う。",
-      "layer2": "アマが真似できる3点——①入りを抑える（1本目で追い込むと後半で脚が終わる。心拍ではなく“会話できる少し上”で入る）。②体重×ギア比（軽量化とワイドギアは激坂反復で一番効く。フロント/リアの歯数で“回して上る”余地を作る）。③下り・平坦での回復（坂の間で無理に踏まず脚を戻す）。週末のグループライドの反復坂でそのまま練習になる。",
-      "sources": [
-        { "t": "IDLProCycling（コース詳細）", "u": "https://www.idlprocycling.com/cycling/2026-european-cycling-championships-elite-men-preview-no-pogacar-in-slovenia-but-plenty-of-favourites-with-a-point-to-prove", "d": "2026-09-30" },
-        { "t": "下野新聞（ジャパンカップ）", "u": "https://www.shimotsuke.co.jp/articles/-/1423139", "d": "2026-09" }
-      ],
-      "status": "確定＝両コースの激坂反復プロフィール。曖昧＝トレーニングは一般論、個人差あり。"
-    },
-    {
-      "id": "20261001-autumn-clearance-data",
+      "id": "20261002-winspace-m6tt",
       "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://bike-plus.com/cdn/shop/articles/autumn-sale-2026-blogtop.webp?v=1789705039",
-      "headline": "【経営メモ・市場】秋の決算・型落ちセールが本格化——大手は最大30%OFF、『定価は高止まり・実売は下落』の二極化がデータで見える",
-      "layer1": "9月末〜秋は決算＆2027モデル切替の最需要期。バイクプラスは9/18〜11/29に対象トレックを最大30%OFF、価格.comの値下げランキングも型落ち完成車が上位を占める。",
-      "layer2": "2026市場の骨格は『メーカー希望価格は改定（値上げ）で高止まり、店頭実売は20〜30%引き＆型落ち大幅割引で下落』の二極化。買い手は“いつ・どの型落ちを・総額いくらで”で得を作れる。うち視点では、①在庫は決算期に一気に動く＝仕入れ・展示の入替タイミング、②値引き競争に飲まれず『サイズ適合・型落ちの中身・総額提案』で差別化、が効く。",
+      "image": "https://www.winspace.cc/cdn/shop/files/M6_Frame_Blacktail_Yellow.webp?v=1785373856",
+      "headline": "【経営メモ・市場】ウィンスペースがM6ベースのTT完成車『M6TT』を国内投入——64.8万円、専用コックピット＆L-TWOO電動TT、中華が『TTの受け皿』まで広げる",
+      "layer1": "うちの取扱系列でもあるウィンスペースが、エアロロードM6をベースにしたTT/トライアスロン完成車『M6TT』を国内展開。専用の『HYPER TTコックピット』（モノポストベースバー＋カーボンエクステンション）を備え、税込64.8万円。NUSANTARA Editionも設定。",
+      "layer2": "構成はM6カーボンフレーム＋L-TWOO eRX電動(2×12)＋eRX-TT電動シフター＋油圧ディスク＋シマノ105スプロケ＋700×28C。コックピット単体はM6 TTシートポストとのセットで税込12.8万円。中華カーボンが『ホイール→エアロロード→一体コックピット→TT完成車』と守備範囲を広げ、これまで大手の独壇場だったTT/トライアスロンの『入口価格』を一気に引き下げてきた。TTは客単価が高くカスタム相談も生まれやすい——完成車で入口を作り、ポジション出し・コックピット提案で付加価値を取れる領域。",
       "sources": [
-        { "t": "Bike Plus（オータムセール2026）", "u": "https://bike-plus.com/blogs/news/autumn-sale-2026", "d": "2026-09" },
-        { "t": "価格.com（値下げランキング）", "u": "https://kakaku.com/bicycle/road-bicycle/ranking_6420/pricedown/", "d": "2026-09" }
+        { "t": "Cyclowired（M6TT新製品情報）", "u": "https://www.cyclowired.jp/news/node/393415", "d": "2026-09-30" },
+        { "t": "Cyclesports（M6インプレ・基礎情報）", "u": "https://www.cyclesports.jp/news/new-product/155003/", "d": "2026-03-24" }
       ],
-      "status": "確定＝30%OFF実施・時期。曖昧＝対象・在庫は店舗と時期で変動。"
+      "status": "確定＝M6TT完成車の構成・価格。曖昧＝納期は約2ヶ月のセミカスタム（店頭在庫前提ではない）"
     },
     {
-      "id": "20261001-beginner-china-carbon-choice",
+      "id": "20261002-30kmh-aokippu",
       "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "https://bike-memo.com/wp-content/uploads/2026/01/zakki_C128.jpg",
-      "headline": "【初中級】大手が『1,000ポンド割れ』で攻めてきた今、初めての中華カーボンホイールを外さない3点",
-      "layer1": "ジップやコロンバス等が軽量×低価格で参入し、値ごろ帯のカーボンホイールは選択肢が急増。『安いから中華』だけで選ぶと後悔しやすい局面になった。",
-      "layer2": "外さない3点——①軽さより“空力・横風・実測重量”（公称と実測のズレをレビューで確認）。②リムがフック有無どちらか＋対応タイヤと『最大空気圧』（フックレスは上限厳守が絶対）。③サポート・保証・スポーク供給（折れた時に部品と対応が続くか）。うち（8LIEN/CRW/GOOSYNN等）なら現物・組み換え・アフターまで相談できるのが数字以外の価値。",
+      "image": "https://coki.jp/wp-content/uploads/2026/08/hoteisokudohikisage.jpg",
+      "headline": "【初中級・ルール／Xでも議論】9/1から『生活道路は法定30km/h』がスタート——標識なしでも適用、ロードは関係ある? 青切符半年とあわせてXでも賛否",
+      "layer1": "2026年9月1日施行で、中央線等のない『生活道路』の法定速度が原則30km/hに引き下げられた（標識がなくても一定条件の道で適用）。4月の自転車『青切符』導入と並び、Xでは『取り締まりばかりでインフラは?』と賛否が続いている。",
+      "layer2": "この30km/h規制の直接の主対象は自動車だが、狙いは歩行者・自転車の保護——衝突速度が30km/hを超えると歩行者の致死率が急上昇する科学的根拠に基づく。ロード乗りには、生活道路で後方車の速度が下がる＝相対的に走りやすくなる面と、青切符（16歳以上対象、ながらスマホ等）で自分も取り締まり対象という両面がある。※施行済みの確定事実。『ロードも一律30km/h』ではなく、自転車への適用は道路種別・標識次第で変わる点は要注意。店頭ではライト・ベル・反射材など安全装備の需要が静かに伸びる局面。",
       "sources": [
-        { "t": "バイクメモ（中華カーボン格付け2026）", "u": "https://bike-memo.com/cycle_260118_carbon-wheels/", "d": "2026-01" },
-        { "t": "road.cc（Zipp 404 Sの価格）", "u": "https://road.cc/tech-news/zipp-launches-new-404-s-carbon-road-wheels-promising-industry-leading-aero-performance-for-under-1000", "d": "2026-09" }
+        { "t": "coki（生活道路30km/h解説）", "u": "https://coki.jp/article/column/91748/", "d": "2026-08-31" },
+        { "t": "警視庁（自転車青切符）", "u": "https://www.keishicho.metro.tokyo.lg.jp/kotsu/jikoboshi/bicycle/cycle_kaisei.html", "d": "2026-09-01" },
+        { "t": "JAF（30km/h解説）", "u": "https://jaf-training.jp/column/raw/30km-living-area-road/", "d": "2026-08-01" }
       ],
-      "status": "確定＝選び方の原則・大手の値ごろ帯参入。曖昧＝各製品の優劣は用途次第。"
+      "status": "確定＝9/1施行・青切符は4月導入済み。曖昧＝自転車への適用解釈は道路・標識ごとに異なる（一律ではない）"
     },
     {
-      "id": "20261001-euro-champs-women",
+      "id": "20261002-lombardia-route",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://domestique-cycling.b-cdn.net/production/2025/Historial-images/CORVOS_00037191-354.jpg?width=2400&height=1260&quality=75&crop=3576%2C1878%2C0%2C253",
-      "headline": "【レース・女子／人間ドラマ】女子欧州選もリュブリャナで開催——フォレリング本命、ヴィーベス＆ピーテルセが激坂で挑む",
-      "layer1": "10/2〜7の欧州選手権は女子エリートロードも会期内に開催。世界選（モントリオール）を制したばかりの勢いを、本命フォレリングが欧州でも狙う。",
-      "layer2": "モジャンツァ反復の登坂コースは、スプリンターのヴィーベスには厳しく、オールラウンダー＆クライマー有利。ピーテルセらパンチャーが本命フォレリングにどう挑むかが見どころ。女子ロードは移籍市場（ケルバオル→SDワークス等）と合わせて“器の拡大”が続き、観る側にも新しい主役が増えている。※女子ロードの正確な実施日は会期内で要確認。",
+      "image": "https://cdn.mos.cms.futurecdn.net/SgADNE4s3sfYECFu2YKPij-1500-80.png",
+      "headline": "【レース・コース読み】『落葉のクラシック』ロンバルディア10/10が様変わり——ベルガモで初のチーム紹介、コモ周回でサンフェルモを2回、ポガチャル不在の本命はレムコ",
+      "layer1": "今季の第5モニュメント、ロンバルディア（10/10・239km/獲得4,600m）がコース刷新。フィナーレはコモ周回となり、サンフェルモ・デッラ・バッタリアを2度通過（残り28km＋最後の登り）、最後は5.2kmの下りでフィニッシュ。スタート地ベルガモでは他モニュメントに倣い、大会前のチーム紹介を新設する。",
+      "layer2": "5連覇中のポガチャルはブエルタの鎖骨骨折で欠場。本命は2年連続2位のレムコ・エヴェネプール、そしてGPモントリオール覇者イサク・デルトロ、新星ポール・セイシャス、エンリク・マスら。『勝者が読みにくい開かれた一戦』で、新しい周回フィナーレが終盤の仕掛けどころをどう変えるかが見どころ。※コースは主催発表ベース、当日の展開は未知数。",
       "sources": [
-        { "t": "ProCyclingUK（スタートリスト・女子本命）", "u": "https://procyclinguk.com/european-road-championships-2026-start-lists-pogacar-named-despite-injury-as-major-stars-miss-slovenia-vollering-starts-as-favourite/", "d": "2026-09-22" },
-        { "t": "Domestique（大会プレビュー）", "u": "https://www.domestiquecycling.com/en/news/a-pogacar-and-roglic-homecoming-2026-uec-european-road-championships-set-for-slovenia/", "d": "2026-09" }
+        { "t": "Cyclingnews（新コース・サンフェルモ2回）", "u": "https://www.cyclingnews.com/pro-cycling/racing/il-lombardia-2026-route-to-include-double-ascent-of-crunch-san-fermo-della-battaglia-climb/", "d": "2026-09-24" },
+        { "t": "Domestique（新フィナーレ・本命）", "u": "https://www.domestiquecycling.com/en/news/no-pogacar-a-circuit-finale-and-a-team-presentation-whats-new-at-il-lombardia-in-2026/", "d": "2026-09-24" }
       ],
-      "status": "確定＝会期10/2-7内で女子ロード開催・フォレリング本命。曖昧＝女子ロースの正確な日付は要確認。"
+      "status": "確定＝新コース・日程10/10・ポガチャル欠場。曖昧＝勝者予想（本命レムコは各紙の見立て）"
+    },
+    {
+      "id": "20261002-ruggins-atlas",
+      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
+      "image": "https://cdn.mos.cms.futurecdn.net/JWDuSecfosed5aaHRMBPtj-2400-80.jpg",
+      "headline": "【トレンド・人間ドラマ】『人は75日で世界を一周できるか』——10代で歩けなくなった医師サラ・ラギンズが、男子の世界一周最速記録更新に挑むProject ATLASを始動",
+      "layer1": "ウルトラ耐久のサラ・ラギンズ（カナダ出身の医師）が、自転車世界一周の最速記録更新を狙う『Project ATLAS』を発表。現記録から3日短縮、29,000kmを『75日』で——1日平均約400km。2027年5月4日にノバスコシアのペギーズ・コーブを出発予定。",
+      "layer2": "彼女は10代で病により一時歩行不能になった過去を持ち、わずか3年前に本格的にバイクを始めた異色の経歴。ジョン・オ・グローツ↔ランズエンド往復（2,700km）で総合世界記録を打ち立てた実績から、今度は『国→大陸→世界』へと射程を広げる。速報性のレースとは別軸で、マサルのショート/記事の『心が動く物語』枠に効く一本。※記録挑戦は2027年、現時点は計画発表の段階。",
+      "sources": [
+        { "t": "Cycling Weekly", "u": "https://www.cyclingweekly.com/news/first-we-took-a-country-then-a-continent-now-its-the-world-sarah-ruggins-got-on-her-bike-three-years-ago-now-shes-setting-sights-on-beating-the-mens-round-the-world-record", "d": "2026-10-01" },
+        { "t": "Project ATLAS 公式", "u": "https://www.projectatlas2027.com/", "d": "2026-10-01" }
+      ],
+      "status": "確定＝計画発表・2027/5/4出発予定・目標75日。曖昧＝挑戦の成否は未来の話（現時点は宣言）"
     }
   ]
 }
