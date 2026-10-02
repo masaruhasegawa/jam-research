@@ -1,5 +1,294 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-03",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。本日は欧州選・女子エリートとジロ・デッレミリアの『ダブル決戦デー』、裏では中華の全部入り完成車が価格の天井を押し下げています。",
+    "cards": [
+      {
+        "id": "20261003-alvarez-u23euro",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/MNGANqKE8QcUwtmSW2apLm-2560-80.jpg",
+        "headline": "【🔥今日の一本・レース／人間ドラマ】世界選『銀』の19歳アルバレス、6日後に欧州U23を“逆襲”の独走制覇——最終登坂で捕まるも、下りで差し返す",
+        "layer1": "10/2リュブリャナの欧州選U23ロード（141.8km）で、スペインの19歳エクトル・アルバレス（リドル・トレック育成）が独走で金。先週モントリオール世界選U23で『銀』（王者は米バリー）に泣いた雪辱を、わずか6日で果たした。",
+        "layer2": "残り34.7kmで単独先行→最後のモジャンツァ激坂（3回登る）で独ボックに一度は捕まるも、ポーランド勢の動きに乗って下りで再び抜け出し、2位ヤツコヴィアクに20秒差。『捕まってから下りで差し返す』勝ち方は22歳以下とは思えない格。銅はベルギーのドリーセン。世界選の悔しさを最短で金に変えた一本。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/uec-european-championships-hector-alvarez-solos-to-victory-in-under-23-mens-road-race/",
+            "d": "2026-10-02"
+          },
+          {
+            "t": "Cyclingflash",
+            "u": "https://cyclingflash.com/news/2026-european-championships-hector-alvarez-wins-spain-the-u23-european-title-bronze-for-belgian-niels-driesen",
+            "d": "2026-10-02"
+          }
+        ],
+        "status": "確定＝アルバレス金・2位と20秒差・銅ドリーセン／曖昧＝なし"
+      },
+      {
+        "id": "20261003-euro-women-rr",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2025/European-Championships/CORVOS_00038433-156.jpg?width=2400&height=1260&quality=75&crop=4436%2C2329%2C0%2C314",
+        "headline": "【レース・女子／本日10/3決戦】世界女王フォレリング、『虹』を着て激坂の欧州選へ——1週間で世界選→欧州選の連戦、連覇に挑む",
+        "layer1": "本日10/3、リュブリャナで欧州選・女子エリートロード（130km）。先週モントリオール世界選を制したデミ・フォレリングが、昨年獲った欧州王座の防衛に挑む。レインボージャージでの初戦となる。",
+        "layer2": "周回（22.1km・獲得367m）にモジャンツァの激坂が組み込まれ、最後の5kmだけが平坦＝『登って抜け出せば逃げ切れる』コース。世界選で8秒以内に並んだニーワイアドマ、ロンゴボルギーニらがそのまま再戦、スタートリストにはヴィーベスやピーテルセの名も。フォレリングは今季ジロ・ツール・世界選を総取り、触れるもの全てが金の状態。",
+        "sources": [
+          {
+            "t": "Domestique（女子プレビュー）",
+            "u": "https://www.domestiquecycling.com/en/features/2026-euros-womens-elite-road-race-preview-can-anyone-stop-demi-vollering/",
+            "d": "2026-10-01"
+          },
+          {
+            "t": "CyclingUpToDate（スタートリスト）",
+            "u": "https://cyclinguptodate.com/cycling/startlist-european-championships-womens-elite-road-race-2026-riders-demi-vollering-katarzyna-niewiadoma-lorena-wiebes-elisa-longo-borghini-marlen-reusser",
+            "d": "2026-10-01"
+          }
+        ],
+        "status": "確定＝10/3開催・130km・フォレリング本命／曖昧＝勝者は本日夕方（未確定）"
+      },
+      {
+        "id": "20261003-emilia",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039163-283.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C142",
+        "headline": "【レース・本日10/3決戦】ジロ・デッレミリア、サンルカを『5回』——新王者マクナルティ虹デビュー vs 2年連続2位ピドコックの“借り”",
+        "layer1": "本日10/3、フェラーラ→ボローニャの197.9km（獲得2,339m）でジロ・デッレミリア。ラスト、勾配最大20%のサンルカ（約2km）を5回登る激坂決戦。新世界王者マクナルティ（UAE）が『虹ジャージ』でのロードデビューを迎える。",
+        "layer2": "本命は過去2年連続2位のピドコック（Pinarello Q36.5）——世界選でも好調、この地形は望むところ。対するマクナルティは『登坂力＋展開を読む目』が武器。表彰台候補にL.マルティネス（25年3位）、ヨルゲンセン、アレンスマン。秋イタリア三連戦（エミリア→トレ・ヴァッリ10/6→ロンバルディア10/10）の開幕戦で、ポガチャル不在の“秋の主役”争いが始まる。",
+        "sources": [
+          {
+            "t": "Domestique（プレビュー）",
+            "u": "https://www.domestiquecycling.com/en/news/2026-giro-dellemilia-preview-is-pidcock-the-man-to-beat-as-mcnulty-debuts-rainbow/",
+            "d": "2026-10-02"
+          },
+          {
+            "t": "ProCyclingStats",
+            "u": "https://www.procyclingstats.com/race/giro-dell-emilia/2026/results",
+            "d": "2026-10-03"
+          }
+        ],
+        "status": "確定＝10/3開催・サンルカ5回・197.9km／曖昧＝勝者未定"
+      },
+      {
+        "id": "20261003-benoot-border",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/CORVOS_00039417-183.jpg?width=2400&height=1260&quality=75&crop=5740%2C3014%2C0%2C406",
+        "headline": "【トレンド・人間ドラマ／SNSでも話題】ブノート&ヘルマンス、世界選前に“アメリカ国境”で数時間拘束——自転車でもESTA必要、Strava名は『メキシコが見えた』",
+        "layer1": "世界選の舞台裏話。ベルギー代表のブノートとヘルマンスが、モントリオール近郊ブロモンからの練習ライドで誤って米国境へ到達。ESTA未取得で止められ、数時間の拘束と書類記入のうえ引き返す羽目に。チームメイトのセガルトがポッドキャストで暴露した。",
+        "layer2": "『自転車で越えてもESTAは要る』という盲点。身元取り違えなどの最悪は回避して準備に復帰し、本番はブノート25位・ヘルマンスDNF。ブノートはこのライドをStravaに『Mexico was in sight（メキシコが見えた）』と自虐的に命名してアップ、これがSNSで拡散した＝“バズの痕跡”はこのネーミング。海外遠征あるあるの小ネタだが、入国書類の油断は誰にでも起きる。",
+        "sources": [
+          {
+            "t": "Domestique",
+            "u": "https://www.domestiquecycling.com/en/news/benoot-and-hermans-held-for-hours-at-us-border-after-training-ride-takes-unexpected-turn/",
+            "d": "2026-10-01"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/belgian-racers-avoided-world-championships-disaster-in-run-in-at-us-border-alec-segaert-reveals/",
+            "d": "2026-10-01"
+          }
+        ],
+        "status": "確定＝国境で拘束・ESTA未取得・Strava名／曖昧＝拘束は『数時間』（正確な時間は不明）"
+      },
+      {
+        "id": "20261003-das-hutchinson",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://procyclinguk.com/wp-content/uploads/2025/06/Tiffany-Keep-2025-Tour-of-Britain-Stage-2-SWPix.com_.jpg",
+        "headline": "【トレンド・市場／女子の光と影】英女子の名門『DAS-Hutchinson』が2026年限りで解散——「コスト急騰で維持不能」、器は広がるのに足元は脆い",
+        "layer1": "英国で最も成功した女子UCIコンチネンタルの一つDAS-Hutchinsonが、2026年末で現行チームとしての活動を終える。「UCIコンチ水準のコスト上昇に、いまのモデルでは耐えられない」として、下部の育成クラブTeam OnFormへ縮小すると発表した。",
+        "layer2": "女子ロードは『表面は好況、足元は脆い』の典型。英国の女子UCIコンチは2024年の6チームから来季は3へ半減。運営費は2014年比で最大700%増との指摘もある。デカトロンが女子プロチーム新設（9/24既報）と“器”は広がる一方で、成績は十分でも資金で消える中堅——二極化が女子でも進む。日本の市場・育成を考えるうえでも他人事ではない。",
+        "sources": [
+          {
+            "t": "ProCyclingUK",
+            "u": "https://procyclinguk.com/das-hutchinson-close-end-2026-british-womens-cycling/",
+            "d": "2026-10-01"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/we-play-with-money-we-dont-have-womens-cycling-is-booming-but-not-everyone-can-keep-up/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝2026末で解散・OnFormへ縮小・英コンチ6→3／曖昧＝費用700%増は団体の試算"
+      },
+      {
+        "id": "20261003-pirelli-pzero-slr",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/t2MyR26TAkxEWWtxGykfUB-2560-80.jpg",
+        "headline": "【パーツ・機材読み】ピレリ新『P Zero Race SL-R』——プロが数ヶ月使ってきたレースタイヤが市販化、転がり抵抗“10%減”・新ケーシング",
+        "layer1": "ピレリがレース用チューブレスレディ『P Zero Race SL-R』を9月に発売（28/30mm、32mmは10月追加）。新しいLiteCore 120TPIケーシングで転がり抵抗を従来比約10%低減、しなやかさ・グリップ・快適性も高めたと主張する。",
+        "layer2": "この秋はタイヤが豊作——ヴィットリアはRideArmorに42mm（480g、チューブレス/チューブ両対応）、コンチネンタルはGrand Prixにあえて“チューブ用”32mm（340g、チューブレス版395gより軽い）を追加。『チューブレス一辺倒』ではなく用途で選ぶ時代に戻りつつある。ただし転がり10%減等はいずれもメーカー公称、実走・実測レビューはこれから（※要裏取り）。",
+        "sources": [
+          {
+            "t": "Cyclingnews（Pirelli）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/pirelli-launches-the-new-race-tyres-that-the-pros-have-been-using-for-months/",
+            "d": "2026-09"
+          },
+          {
+            "t": "Cycling Weekly（Continental）",
+            "u": "https://www.cyclingweekly.com/products/are-inner-tubes-back-continental-upsizes-its-tube-type-grand-prix-tyre-to-match-tubeless-range",
+            "d": "2026-09"
+          },
+          {
+            "t": "BikeRadar（Vittoria）",
+            "u": "https://www.bikeradar.com/news/vittoria-ridearmor-42mm-road-bike-tyre",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝9月発売・各社新タイヤ投入／曖昧＝転がり10%減・各重量はメーカー公称（実測待ち）"
+      },
+      {
+        "id": "20261003-yoeleo-nxt-sl2",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://stat.ameba.jp/user_images/20240901/18/guell-bicycle/ab/af/j/o1600106715481448464.jpg?cax=1280-720",
+        "headline": "【ホイール・新製品／中華カーボン】YOELEO新型『NxT SL2』系が10/7順次発送——“コスパ王”が世代更新、国内ランキング常連ブランドの最新形",
+        "layer1": "中華カーボンの定番YOELEOが、新世代『NxT SL2』系（SAT C35 DB PRO／C50 DB PRO ほか）を投入。国内は10/7より順次発送予定とアナウンスされている。TÜV認証・空力重視で、国内の格付けでも“コスパ王”として上位常連だ。",
+        "layer2": "2026の中華カーボンはもはや『中華枠』ではなく通常比較の土俵（マイベスト等で上位常連）。ELITEWHEELSのDriveが50mmで1,300g切り・5〜10万円台と競り合い、YOELEOは軽さ＋空力＋価格で対抗する構図。純正（デュラC50が前後約43万円＝9/29既報）との価格差が“受け皿”を広げ続ける。※最新SL2の実測重量は未公開につき要確認。",
+        "sources": [
+          {
+            "t": "YOELEO Japan 公式",
+            "u": "https://www.yoeleojapanshop.com/",
+            "d": "2026-10"
+          },
+          {
+            "t": "bike-memo（中華カーボン格付け2026）",
+            "u": "https://bike-memo.com/cycle_260202_carbon-wheels/",
+            "d": "2026-02"
+          }
+        ],
+        "status": "確定＝NxT SL2系を投入・10/7順次発送／曖昧＝SL2の実測重量は未確認"
+      },
+      {
+        "id": "20261003-shimano-earnings",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://media.image.infoseek.co.jp/isnews/photos/spa/spa_20261001_02187803_0.jpg",
+        "headline": "【経営メモ・市場】“世界3大メーカー”シマノに異変——円安の追い風のはずが「売上微減」、業界の体温計が映す需要の正常化",
+        "layer1": "週刊SPA!（10/1配信）が、自転車部品で世界的シェアを握るシマノの“異変”を取り上げた。通常なら円安は輸出企業の追い風のはずが、足元は「売上微減」という謎に迫る内容。",
+        "layer2": "シマノは業界の『体温計』——ここが鈍るのは、コロナ特需の反動と世界的な在庫調整が続いているサイン。店頭で感じる『型落ち値下げ・在庫潤沢』の裏返しで、メーカー出荷はむしろ絞られている局面と読める。マサル目線では“仕入れは買い手市場だが、最終需要の回復は緩やか”という前提で在庫を組むのが安全。※四半期の正確な数値は決算原典で要確認。",
+        "sources": [
+          {
+            "t": "週刊SPA!／Infoseekニュース",
+            "u": "https://news.infoseek.co.jp/article/spa_20261001_02187803",
+            "d": "2026-10-01"
+          }
+        ],
+        "status": "曖昧＝「売上微減」は記事の指摘。四半期の正確な数値・要因は決算原典で要裏取り"
+      },
+      {
+        "id": "20261003-xlab-ad7",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/10/2610xlab-1.jpg",
+        "headline": "【経営メモ・市場／SNSでも反応】中華X-LABの完成車『AD7』が50万6000円で“全部入り”——105 Di2＋カーボンホイール＋パワメ、価格の常識を押し下げる",
+        "layer1": "サイクルスポーツ（10/1）が、中国ブランドX-LABの新型ロード『AD7』を紹介。シマノ105 Di2・カーボンホイール・パワーメーターまで搭載して、完成車価格50万6000円という設定だ。",
+        "layer2": "『電動＋カーボンホイール＋パワメで50万』は、国産・欧州ブランドの同等構成（70〜100万級）を大きく下回る。中華はホイール単体→完成車→“全部入り完成車”へと段を上げ、参入価格の天井を押し下げ続ける。SNSでも『この値段で完成車?』という反応が出る価格感。ショップ目線では価格勝負は分が悪い分、フィッティング・保証・アフターで差を作る領域だと割り切るのが現実的。※重量等スペック詳細は要確認。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ",
+            "u": "https://www.cyclesports.jp/news/new-product/169593/",
+            "d": "2026-10-01"
+          }
+        ],
+        "status": "確定＝完成車50万6000円・105 Di2・カーボン・パワメ付（媒体発表）／曖昧＝重量・納期は要確認"
+      },
+      {
+        "id": "20261003-autumn-sale",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://pricey-prod-owned-media.s3.ap-northeast-1.amazonaws.com/hub-page-main-visual-images/article_3501.webp",
+        "headline": "【経営メモ・市場】10〜11月はモデル入れ替えの“底値の山”——オータムフェアで型落ち20〜40%OFF、実売は下落・定価は高止まりの二極化",
+        "layer1": "各社が翌年モデルを発表する10〜11月は、旧モデルの在庫処分が重なり年内最大の値引き期。ワイズロードのオータムフェアでも、ビアンキC-SPORT2 DISCが29%OFFなど実例が出ており、型落ちは20〜40%OFFが標準的だ。",
+        "layer2": "ポイントは『定価は高止まり・実売は下落』の二極化——メーカーは2027で値上げ改定を進める一方、店頭の型落ちは大きく下がる。買い手には絶好期だが、人気サイズ・人気色は早期に枯れるのも毎年同じ。ショップ目線では“値引き額”より総額（本体＋必要装備＋保証）で見せ、2027新型への橋渡しとして在庫回転を作る月。",
+        "sources": [
+          {
+            "t": "Pricey（セール時期まとめ2026）",
+            "u": "https://www.pricey.jp/web/articles/3501",
+            "d": "2026-10"
+          },
+          {
+            "t": "ワイズロード オンライン（値下げ対象）",
+            "u": "https://online.ysroad.co.jp/shop/l/l-pricedown-01/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝10〜11月が最大値引き期・型落ち20〜40%OFF（実例あり）／曖昧＝値引率は店舗・車種で変動"
+      },
+      {
+        "id": "20261003-beginner-allin-vs-upgrade",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://journal.buychari.com/wp-content/uploads/2026/08/2026-latest-road-bikes-ogp.jpg",
+        "headline": "【初中級】中華の『全部入り50万』が出た今——初めての1台は“完成車で全部入り”か“型落ち＋ホイール投資”か",
+        "layer1": "X-LABのように電動・カーボン・パワメ込み50万の完成車が登場し、一方で秋は型落ちが20〜40%OFF。初めての1台で『全部入り完成車』と『型落ち＋後からホイール投資』、どちらが得かは目的で変わる。",
+        "layer2": "考え方は3点。①いちばん体感が変わるのは“ホイール”——後から中華カーボン（10万前後）に替える前提なら、本体は型落り105機で十分。②パワメは“続ける確信”が出てから足しても遅くない（後付け可）。③全部入り完成車は手間ゼロで乗り出せる反面、サイズ・ポジションが合わなければ全部ムダ——結局は『試乗とフィッティングができる店で、合うサイズを選ぶ』が最優先。価格表だけで決めないこと。",
+        "sources": [
+          {
+            "t": "buychari JOURNAL（2026 買いなロードバイク）",
+            "u": "https://journal.buychari.com/2026-latest-road-bikes/",
+            "d": "2026-08"
+          },
+          {
+            "t": "サイクルスポーツ（X-LAB AD7）",
+            "u": "https://www.cyclesports.jp/news/new-product/169593/",
+            "d": "2026-10-01"
+          }
+        ],
+        "status": "確定＝完成車50万級・型落ち値引きの両方が存在／曖昧＝『得』は用途・体格で変わる（一般論）"
+      },
+      {
+        "id": "20261003-beginner-tyre-choice",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/t2MyR26TAkxEWWtxGykfUB-2560-80.jpg",
+        "headline": "【初中級・機材の理屈】新型レースタイヤが続々の秋——初めてのタイヤ選び、“太さ・チューブレス可否・用途”の3点で外さない",
+        "layer1": "ピレリP Zero Race SL-R、ヴィットリアRideArmor 42mm、コンチのチューブ用GP32mmなど、この秋はレース〜耐久まで新タイヤが豊作。選択肢が増えた今こそ、初中級は“何を基準に選ぶか”を押さえたい。",
+        "layer2": "外さない3点。①太さ——今どきは28〜32Cが主流、同じ空気圧なら太い方が快適で転がりも不利になりにくい（まずリム内寸と車体クリアランスを確認）。②チューブレス可否——レディ化は快適・耐パンクに効くが、ビード上げやシーラント管理の手間あり。不安ならまずクリンチャー＋軽量チューブ（TPU）でも十分速い。③用途——レースなら軽量レース系、通勤・ロングなら耐パンク系。『プロが使う最速』より『自分の道と頻度に合う1本』が正解。",
+        "sources": [
+          {
+            "t": "Cyclingnews（Pirelli P Zero Race SL-R）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/pirelli-launches-the-new-race-tyres-that-the-pros-have-been-using-for-months/",
+            "d": "2026-09"
+          },
+          {
+            "t": "BikeRadar（Vittoria RideArmor 42mm）",
+            "u": "https://www.bikeradar.com/news/vittoria-ridearmor-42mm-road-bike-tyre",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝秋に新タイヤ多数／曖昧＝最適解は用途・体格・路面で変わる（一般論）"
+      }
+    ]
+  },
+  {
     "date": "2026-10-02",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。舞台は『秋のイタリア＆欧州選』——新王者マクナルティは明日10/3エミリアで虹デビュー、本日10/2はリュブリャナ欧州選が開幕。機材はWTBがグラベルカーボン、国内はウィンスペースがTT完成車まで。経営メモは『欧州で整備士10.5万人不足』——人の育成と工賃設計が次の競争力です。",
     "cards": [
