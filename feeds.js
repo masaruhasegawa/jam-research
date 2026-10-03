@@ -1,5 +1,246 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-04",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。本日はリュブリャナの『母国の虹なき』欧州選・男子ロード決戦——レムコ本命、母国はログリッチに託す。昨日はフォレリングが虹を着て独走連覇、エミリアはピガンツォーリが新王者マクナルティの鼻を明かしました。裏では中華のワイドリムと国内の『ロードバイク離れ』論が同時進行です。",
+    "cards": [
+      {
+        "id": "20261004-euro-men-rr",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039394-058.jpg?width=832&height=468&format=jpg&crop=2000%2C1125%2C0%2C104",
+        "headline": "【🔥今日の一本・レース】本日10/4、欧州選・男子エリート決戦——『母国の虹』を守れぬポガチャル不在、本命レムコ vs 母国のログリッチ、激坂5回の総力戦",
+        "layer1": "本日10/4リュブリャナで欧州選・男子エリートロード（196.3km・獲得2,571m／大会最長）。昨季王者ポガチャルは鎖骨・椎骨骨折で欠場し、母国スロベニアはログリッチに託す。レムコ・エヴェネプールが最大本命。",
+        "layer2": "勝負は22.1kmの周回を5周、1周ごとに上るモジャンツァ（2.1km・平均10.2%・最大15.8%）。ここで『4年連続TT世界王者』レムコが独走に持ち込めるか、イタリアがチッコーネを軸に数で崩すかが焦点。他にペデルセン、アユソ、グレゴワール、ヒルシ、ヴァセク、シャッハマンら十数人に勝機。ProCyclingUKの予想本線はレムコ→チッコーネ→ログリッチ。決着は日本時間の深夜〜未明。",
+        "sources": [
+          {
+            "t": "Domestique（全日程）",
+            "u": "https://www.domestiquecycling.com/en/news/the-full-schedule-for-the-2026-uec-european-road-championships/",
+            "d": "2026-10-03"
+          },
+          {
+            "t": "ProCyclingUK（展望）",
+            "u": "https://procyclinguk.com/2026-european-championships-mens-road-race-preview/",
+            "d": "2026-10-02"
+          }
+        ],
+        "status": "確定＝10/4開催・196.3km/2,571m・モジャンツァ最大15.8%を5周・ポガチャル欠場／曖昧＝勝者は未定（本稿は展望）"
+      },
+      {
+        "id": "20261004-euro-women-vollering",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039438-083.jpg?width=832&height=468&format=jpg&crop=2000%2C1125%2C0%2C104",
+        "headline": "【レース・女子／人間ドラマ】フォレリングが『虹を着て』独走で欧州連覇——14.6km手前のモジャンツァで単騎、ニーワイアドマは最終1kmで落車",
+        "layer1": "昨日10/3、リュブリャナの欧州選・女子エリートロード（130km）で、世界女王デミ・フォレリングが最後のモジャンツァ残り14.6kmから独走し、3時間10分33秒で連覇。虹ジャージ初戦をいきなり勝利で飾った。",
+        "layer2": "2位はオランダのパク・ピーテルセ（＋5秒）でオランダ1-2、3位はスイスのマルレン・ロイサー。先週モントリオール世界選で共闘したニーワイアドマ＝フィニーは最終1kmで落車し表彰台を逃した。『まるでポガチャル』と評される完全単騎の勝ち方で、本人は『本当に黄金の年』。マサル的には“虹を着た翌週にまた勝つ”という連戦の強さが刺さる一本。",
+        "sources": [
+          {
+            "t": "Domestique",
+            "u": "https://www.domestiquecycling.com/en/news/vollering-delivers-flawless-rainbow-jersey-debut-to-defend-european-title/",
+            "d": "2026-10-03"
+          },
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/results-european-championships-womens-elite-road-race-demi-vollering-takes-triumphant-solo-win",
+            "d": "2026-10-03"
+          }
+        ],
+        "status": "確定＝フォレリング優勝・2位ピーテルセ+5秒・3位ロイサー・ニーワイアドマ最終1km落車／曖昧＝なし"
+      },
+      {
+        "id": "20261004-emilia-piganzoli",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039435-198.jpg?width=832&height=468&format=jpg&crop=2000%2C1125%2C0%2C104",
+        "headline": "【レース・続報】ジロ・デッレミリア、ピガンツォーリが『人生を変える』独走勝利——ピドコック3年連続2位、新王者マクナルティの虹デビューは29秒遅れの現実",
+        "layer1": "昨日10/3のジロ・デッレミリア（フェラーラ〜ボローニャ197.9km、サンルカ5回）は、ヴィスマのダヴィデ・ピガンツォーリがテクニカルな下りで残り約5kmから抜け出し独走勝利。2位ピドコック（約3秒差）、3位オンリー。",
+        "layer2": "前々日に予告した通り、世界王者マクナルティが虹ジャージで初戦に臨んだが、第2集団で29秒遅れ（アレンスマン、フィン、ストーラーら）に沈み、虹は“的”になるという通説を地で行く結果に。ヴィスマが数的優位でレースを支配し、イタリア人の若手ピガンツォーリが地元で殊勲。ピドコックは“サンルカの男”らしく3年連続2位と、あと一歩が続く。",
+        "sources": [
+          {
+            "t": "Domestique",
+            "u": "https://www.domestiquecycling.com/en/news/piganzoli-wins-thrilling-edition-of-giro-dellemilia-with-late-surge/",
+            "d": "2026-10-03"
+          },
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/results-giro-dellemilia-2026-visma-dominate-as-piganzoli-takes-career-changing-victory-pidcock-and-onley-on-the-podium",
+            "d": "2026-10-03"
+          }
+        ],
+        "status": "確定＝ピガンツォーリ優勝・ピドコック2位(約3秒)・オンリー3位・マクナルティ+29秒／曖昧＝勝利差は媒体で3秒〜9秒の表記揺れ"
+      },
+      {
+        "id": "20261004-trevalli-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/8PkTJPKGrgqMM2cQxQMqxX-1600-80.png",
+        "headline": "【レース・次戦】イタリアの秋はまだ続く——10/6トレ・ヴァッリ・ヴァレジーネ、レムコ＆ピドコックが『ロンバルディア前哨』で激突",
+        "layer1": "欧州選のあとは、再びイタリアのクラシック。10/6（火）トレ・ヴァッリ・ヴァレジーネ（ブスト・アルシツィオ〜ヴァレーゼ約198km）は、トリッティコ・ロンバルドの一戦でロンバルディア（10月中旬）の重要な前哨戦。",
+        "layer2": "ワールドツアー外ながら毎年スターが集う。本線はレムコ・エヴェネプールとピドコック（ピナレロQ36.5を牽引）、ここに虹のマクナルティ、ヨルゲンソン、カラパス、オンリー、アユソ、シモンズらが名を連ねる。エミリア→トレ・ヴァッリ→ロンバルディアと“秋の丘陵クラシック”が連続するので、調子の見極めどころ。マサルのショート素材としても、同じ顔ぶれの連戦は物語を作りやすい。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（展望）",
+            "u": "https://cyclinguptodate.com/cycling/tre-valli-varesine-2026-preview-profile-favourites-predictions-evenepoel-pidcock-and-mcnulty-amongst-main-favourites",
+            "d": "2026-10-03"
+          }
+        ],
+        "status": "確定＝10/6開催・ブスト〜ヴァレーゼ約198km・ロンバルディア前哨／曖昧＝勝者は未定（展望）"
+      },
+      {
+        "id": "20261004-winspace-hyper3",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://winspace.com.au/cdn/shop/files/IMG_62872-resized1500.png?v=1735249980&width=1946",
+        "headline": "【ホイール・中華／機材読み】ウィンスペースが完成車TT5に『ワイドリムのLún HYPER 3』をオプション追加——中華が“完成車＋良ホイール”をワンストップ化",
+        "layer1": "9/28、ウィンスペースがエアロ完成車『TT5』のホイールオプションにワイドリムの最新『Lún HYPER 3』を追加（cyclowired新製品）。中華勢が“車体だけでなく上位ホイールまで一括で”という売り方を強めている。",
+        "layer2": "HYPER 3は内寸23.0mm／外寸28.4mm、対応タイヤ25〜47mmと幅広く、チタンラチェット＋NBSセラミックベアリングを採用。公称重量はD45（45mm）で約1,383g（±25g）、D67で約1,450g、D33で約1,249g。cyclistshubの実測ではD45が1,364gと公称に近い。価格は海外D45で約US$1,499（セール、定価$1,699）。『完成車に最初から良いホイールが付く』流れは、後からホイール投資を促す国内ショップには逆風にも商機にもなる——どのグレードを“入口”に置くかの設計がカギ。",
+        "sources": [
+          {
+            "t": "cyclowired（新製品）",
+            "u": "https://www.cyclowired.jp/news",
+            "d": "2026-09-28"
+          },
+          {
+            "t": "Cyclists Hub（HYPER 3実測レビュー）",
+            "u": "https://www.cyclistshub.com/lun-hyper-3-review/",
+            "d": "2026-09"
+          },
+          {
+            "t": "Winspace（製品ページ・価格）",
+            "u": "https://winspace.com.au/products/lun-hyper-3-wheelset-67mm",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝TT5にHYPER 3追加(9/28)・内寸23/外寸28.4mm・25〜47mm対応・チタンラチェット／曖昧＝国内価格は未確認（海外価格のみ）"
+      },
+      {
+        "id": "20261004-mybest-tubeless",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2021/11/2021-continental-gp5000s-tr-fitted-main0.jpg",
+        "headline": "【経営メモ・市場】国内『チューブレスタイヤ格付け』が10/2更新——1位コンチGP5000 S TR、2位は国産IRC、評価軸は“転がり＋耐久”",
+        "layer1": "国内PVの大きいmybestのチューブレスタイヤ比較が10/2に更新。1位はコンチネンタル『Grand Prix 5000 S TR』、2位に国産IRC『JETTY PLUS』、3位ヴィットリア『Corsa N.EXT』。秋のタイヤ入れ替え需要の“今の正解”が見える。",
+        "layer2": "1位GP5000 S TRは3層サイドで耐久と低転がりを両立、海外レビューでも“最良の総合タイヤ”の定番評価。2位IRC JETTY PLUSは前作比で転がり−10%・グリップ+22%を謳う国産で、価格と入手性で国内は推しやすい。3位Corsa N.EXTはグラフェン＋シリカ。マサル視点では、欧州ブランドがレース最上位を押さえ、国産が“コスパ×在庫”で戦う構図が明確——店頭の“初めてのチューブレス”は国産上位で握り、上級にコンチを重ねる二段構えが刺さる。",
+        "sources": [
+          {
+            "t": "mybest（チューブレスタイヤ比較・10/2更新）",
+            "u": "https://my-best.com/16956",
+            "d": "2026-10-02"
+          },
+          {
+            "t": "road.cc（GP5000 S TRレビュー）",
+            "u": "https://road.cc/content/review/continental-grand-prix-5000-s-tr-287997",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝mybest10/2更新・1位GP5000 S TR/2位IRC JETTY PLUS/3位Corsa N.EXT／曖昧＝順位は媒体の評価基準に依存"
+      },
+      {
+        "id": "20261004-garmin-varia820",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://escapecollective.com/content/images/2026/02/Varia-RearVue-820_2.jpg",
+        "headline": "【パーツ・安全／経営メモ】新型後方レーダー『ガーミン Varia RearVue 820』が国内でも話題——60GHz化で車種を判別、青切符時代の“安全用品需要”に効く",
+        "layer1": "10/1のcyclowired新製品で、ガーミンの新型リアビューレーダー『Varia RearVue 820』が国内紹介。レーダーを24→60GHz化し、接近車を『トラック／車／バイク』まで判別、検知175m・視野220度に拡張。",
+        "layer2": "昼フラッシュ100lm・最長約30時間、重量90g、USB-C、ブレーキ時に専用点滅する“ブレーキライト”機能も。価格はUS$299.99。グローバルの発表自体は2026年2月だが、国内メディアが改めて取り上げるのは、青切符施行から半年で“安全用品・ルール順守”へ需要が静かにシフトしている文脈と重なる。マサルのショップ経営的には、本体値引き競争より『レーダー・ライト・ヘルメット』など安全アクセサリーの提案が利益率と来店理由を作る——“ロードは危ない”という世間の空気を逆手に取る売り方。",
+        "sources": [
+          {
+            "t": "cyclowired（新製品・国内紹介）",
+            "u": "https://www.cyclowired.jp/news",
+            "d": "2026-10-01"
+          },
+          {
+            "t": "Escape Collective（発表詳細）",
+            "u": "https://escapecollective.com/garmin-announces-new-varia-rearvue-820-rear-radar/",
+            "d": "2026-02-03"
+          }
+        ],
+        "status": "確定＝60GHz化・車種判別・検知175m/視野220度・$299.99／曖昧＝国内価格と発売時期は要確認（本体発表は2月）"
+      },
+      {
+        "id": "20261004-roadbike-banare",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/01/zakki_C112.jpg",
+        "headline": "【経営メモ・市場／Xでも話題】秋商戦の裏で語られる『ロードバイク離れ』——価格高騰・維持費・“マウント疲れ”、受け皿は中華と中古",
+        "layer1": "10〜11月は型落ちが20〜40%OFFになる底値の季節だが、SNSやブログでは『ロードバイク離れ』の議論が続く。数年前に15〜20万円だった初心者域が高騰し、中級スペックが100万円超も珍しくない、という価格論が軸。",
+        "layer2": "離れの理由として挙がるのは、①価格高騰、②油圧ブレーキ・電動変速の整備コスト増、③SNSの“より高い機材・速いタイム”マウント文化への疲れ、④コロナ特需の反動・中古価格の崩壊。経営目線では、ここは悲観より“打ち手”の問題——(a)中華カーボンを正規の受け皿として堂々と置く、(b)整備・フィッティング・中古買取で“乗り続ける人”の単価を取る、(c)安全用品で初心者の不安に応える。『値下げ合戦の川下』ではなく『乗り続ける理由を売る』店が残る。※価格・需要の構造は裏取り済み、個別の“炎上事例”は要裏取り。",
+        "sources": [
+          {
+            "t": "bike-memo（ロードバイク離れの理由）",
+            "u": "https://bike-memo.com/cycle_260114_environment/",
+            "d": "2026-01-14"
+          },
+          {
+            "t": "元・自転車屋開業ブログ（バブル崩壊論）",
+            "u": "https://kyomu-cycle.hatenablog.com/entry/2026/01/25/133239",
+            "d": "2026-01-25"
+          }
+        ],
+        "status": "確定＝10〜11月は型落ち20〜40%OFF・価格高騰の構造／曖昧＝“離れ”の規模は論者により差、具体的な炎上は※要裏取り"
+      },
+      {
+        "id": "20261004-beginner-rainbow",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039418-202.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C141",
+        "headline": "【初中級・観戦の理屈】マクナルティもフォレリングも着ている『虹ジャージ』って何?——世界王者だけが1年着る“動く称号”の見方",
+        "layer1": "この秋はマクナルティ（男子）とフォレリング（女子）が“虹”を着て走っている。虹ジャージ（レインボージャージ）は、その種目の世界選手権を制した選手だけが、次の世界選まで約1年間、その種目のレースで着る特別なジャージ。",
+        "layer2": "ポイント3つ。①種目ごと（ロード／TT／グラベル／CXなど）に別々の虹があり、ロードの虹はロードレースでしか着ない。②任期は約1年、翌年の世界選で“脱ぐ”。③王者でなくなった後も、襟と袖に虹の縁取りを“生涯”入れられる。だから観戦では『虹＝今の世界王者』と一目で分かり、同時に“的”にもなる——昨日のエミリアでマクナルティが29秒遅れたように、周囲が意識して潰しにかかる。初めてプロレースを見るなら、まず虹を探すと主役がすぐ掴める。",
+        "sources": [
+          {
+            "t": "Domestique（マクナルティ虹デビュー）",
+            "u": "https://www.domestiquecycling.com/en/news/new-world-champion-brandon-mcnulty-to-debut-rainbow-jersey-in-italy/",
+            "d": "2026-09-29"
+          }
+        ],
+        "status": "確定＝虹は世界王者が種目別に約1年着用・引退後も縁取り可／曖昧＝なし（観戦知識）"
+      },
+      {
+        "id": "20261004-beginner-widerim",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2021/12/20211220_SB_5DSR_MG_4880-45acd59.jpg?w=1200",
+        "headline": "【初中級・機材の理屈】『ワイドリム時代』に初めての中華カーボンを選ぶなら——内寸23mmにはタイヤ何mm?の考え方",
+        "layer1": "今の中華カーボン（例：ウィンスペースHYPER 3）は内寸23mmが標準級で、対応タイヤも25〜47mmと幅広い。『細いほど速い』は昔の話で、ワイドリム×やや太タイヤが転がり・乗り心地・エアロの新常識になりつつある。",
+        "layer2": "外さない3点。①内寸23mm級なら実装タイヤは28〜32mmが扱いやすい最適域（表示28cが実測で太く出る＝低圧で快適・接地良好）。②チューブレス可否と“フックド／フックレス”を必ず確認——フックレスは適合タイヤと『最高空気圧の厳守』が絶対（上限超過はビード外れの危険）。③空気圧は体重・タイヤ幅・路面で決める。リム内寸が広いほど同じタイヤが太く＝低圧側に振れる。初めての1本は“内寸→適正タイヤ幅→適正空気圧”の順で詰めれば、中華でも純正でも失敗しない。",
+        "sources": [
+          {
+            "t": "Cyclists Hub（HYPER 3仕様）",
+            "u": "https://www.cyclistshub.com/lun-hyper-3-review/",
+            "d": "2026-09"
+          },
+          {
+            "t": "mybest（チューブレスタイヤ・10/2更新）",
+            "u": "https://my-best.com/16956",
+            "d": "2026-10-02"
+          }
+        ],
+        "status": "確定＝HYPER 3は内寸23mm/25〜47mm対応・フックレスは上限空気圧厳守／曖昧＝最適タイヤ幅は体重・用途で前後する目安"
+      }
+    ]
+  },
+  {
     "date": "2026-10-03",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。本日は欧州選・女子エリートとジロ・デッレミリアの『ダブル決戦デー』、裏では中華の全部入り完成車が価格の天井を押し下げています。",
     "cards": [
