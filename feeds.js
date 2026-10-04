@@ -1,5 +1,285 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-05",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。レムコが落車とバイク投げを越えて欧州王者——『4冠×2種目』を史上初で完成させた朝です。今週はロンバルディア＆グラベル世界選（10/10-11）の大一番が控えます。",
+    "cards": [
+      {
+        "id": "20261005-euro-remco",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/ZMuUWVJevBGQAbjgrmcZyN-1024-80.jpg",
+        "headline": "【🔥今日の一本・レース／人間ドラマ】レムコが落車とバイク投げを越えて欧州王者——残り38kmで落ちても諦めず、チッコーネとの写真判定を『タイヤ一本』で制す",
+        "layer1": "10/4リュブリャナの欧州選・男子エリートロードは、レムコ・エヴェネプールがジュリオ・チッコーネとの一騎打ちを写真判定で制して優勝。残り約38kmの登り頂上でアタック直後に落車しながら復帰し、最後はバイク投げで『タイヤ一本分』先着した。",
+        "layer2": "ここが先回りの深掘り——これでレムコは『国内・欧州・世界・五輪』の4タイトルを、ロードと個人TTの『両種目』で獲った史上初（男女通じて）のライダーになった。欧州TTは19歳だった2019年が最初の1枚、今年はTTを捨ててロードに賭け、最後のピースを埋めた形。最終コーナーはチッコーネが先に抜け出し『負けた』ように見えたが、4時間超の末のバイク投げで逆転——確定。ポガチャル不在の秋、「持っていき方」まで含めて完成度が違った。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/uec-european-championships-remco-evenepoel-snatches-photo-finish-victory-in-the-elite-mens-race-after-two-man-sprint/",
+            "d": "2026-10-04"
+          },
+          {
+            "t": "Velora Cycling",
+            "u": "https://veloracycling.com/news/remco-evenepoel-european-road-title",
+            "d": "2026-10-04"
+          },
+          {
+            "t": "Domestique",
+            "u": "https://www.domestiquecycling.com/en/news/evenepoel-overcomes-crash-to-pip-ciccone-to-european-title-at-the-last/",
+            "d": "2026-10-04"
+          }
+        ],
+        "status": "確定＝レムコ優勝・写真判定・史上初の『両種目で4冠』（複数メディア一致）。SNSでも騒然だが結果は公式で裏取り済み。"
+      },
+      {
+        "id": "20261005-lombardia-trittico",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/zDpZpnrYGUAzTrTSnKJ53R-1024-80.jpg",
+        "headline": "【レース・次戦／本命読み】『落葉のクラシック』ロンバルディア10/10へ——今日10/5コッパ・ベルノッキ＆明日10/6トレ・ヴァッリの平日連戦が前哨、本命はレムコ",
+        "layer1": "イタリアの秋の平日レース『トリッティコ・ロンバルド』が進行中——10/5コッパ・ベルノッキ、10/6トレ・ヴァッリ・ヴァレジーネ（マクナルティ、レムコ、ピドコック、チッコーネ、マスら集結）を挟み、10/10に今季最後のモニュメント、イル・ロンバルディアを迎える。",
+        "layer2": "先回りの深掘り——今年のロンバルディアは120回目で、ベルガモ発→コモ着の239km・獲得4,600m、フィナーレは『サンフェルモ・デッラ・バッタリア』を2回回る新コース。最後の登坂頂上はゴール5.3km手前。ポガチャル（ブエルタで鎖骨骨折＋椎骨骨折）は6連覇に来られず、2年連続2位のレムコが本命。対抗はGPモントリオール覇者デルトロ、19歳セイシャス、マス。「本命不在」ではなく「レムコが本命の、開いた一戦」が実態。",
+        "sources": [
+          {
+            "t": "tuttobiciweb",
+            "u": "https://www.tuttobiciweb.it/article/2026/10/02/1790959347/ciclismo-tre-valli-varesine-professionisti-campioni-del-mondo-varese",
+            "d": "2026-10-02"
+          },
+          {
+            "t": "Cyclingnews (Il Lombardia 2026)",
+            "u": "https://www.cyclingnews.com/pro-cycling/races/il-lombardia-2026/",
+            "d": "2026-10-04"
+          },
+          {
+            "t": "Cyclingflash (Coppa Bernocchi 2026)",
+            "u": "https://cyclingflash.com/race/coppa-bernocchi-2026",
+            "d": "2026-10-05"
+          }
+        ],
+        "status": "確定＝日程・新コース・ポガチャル不在（複数メディア）。本命予想は見立て。10/5・10/6の結果は未発（これから）。"
+      },
+      {
+        "id": "20261005-vos-gravel",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/ojuqhMiy5nTbHHBMWZm3xU-2000-80.jpg",
+        "headline": "【トレンド・人間ドラマ／グラベル】グラベル世界選は10/10-11、豪ナナップで『欧州外・初開催』——39歳フォス、4種目制覇の生ける伝説が『2勝目』に挑む",
+        "layer1": "次の虹はグラベル。10/10-11、西オーストラリアのナナップでUCIグラベル世界選。女子10/10は123.1km・獲得3,100m、8割超が未舗装の登坂コース。39歳マリアンヌ・フォスが出場し、グラベル世界選『史上初の2勝目』を狙うと公言している。",
+        "layer2": "深掘り——フォスは2024年にグラベル世界王者（＝ロード・CX・トラック・グラベルの『4種目』で虹）、2025年は2位。通算世界タイトルは14（ロード3・CX8・トラック2・グラベル1）という異次元の経歴。ディフェンディングはフェルメルシュ（男子）とウィーベス（女子）。欧州外初開催で、南半球の春の気候×テクニカルな未舗装が鍵。「おじさんの遊び」だったグラベルが、トップ選手の二刀流参戦で一気に競技化している流れが背景にある。",
+        "sources": [
+          {
+            "t": "Cyclingnews (Vos)",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/im-dreaming-of-something-beautiful-marianne-vos-heads-to-uci-gravel-world-championships-in-australia-in-bid-to-reclaim-rainbow-stripes/",
+            "d": "2026-10"
+          },
+          {
+            "t": "Cyclingnews (Gravel Worlds hub)",
+            "u": "https://www.cyclingnews.com/uci-gravel-world-championships/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝日程・コース・フォス出場（Cyclingnews）。優勝予想は見立て。勝負はこれから。"
+      },
+      {
+        "id": "20261005-transfers-2027",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/EU5ARnHKcE9NpHikonskrn-2560-80.jpg",
+        "headline": "【トレンド・移籍／人間ドラマ】世界選後の『発表解禁』続く——36歳ランダが古巣エウスカルテルへ帰郷、マドゥアスはコフィディス、シュミットはピナレロQ36.5",
+        "layer1": "2027シーズンへ移籍発表が続々。山岳巧者ミケル・ランダ（36）がスーダル・クイックステップを離れ、プロ生活を始めた古巣エウスカルテル・エウスカディに復帰。ほかマドゥアス→コフィディス、シュミット→ピナレロQ36.5、英ドノヴァン→ヴィスマなど。",
+        "layer2": "深掘り——今オフは『200人超がフリー』の大乱戦で、世界選（9/28）閉幕を合図に発表が一気に解禁。ランダは2大GT表彰台の実力者で、キャリアを始めたバスクの地元チームへ「帰る」物語性が刺さる。リドル・トレックは7人補強と最も動いた陣営。注意：フリー選手の去就は交渉段階も多く、「確定」は各チームの公式発表ベースで見るのが安全。",
+        "sources": [
+          {
+            "t": "Cycling Weekly (2027 transfers)",
+            "u": "https://www.cyclingweekly.com/racing/all-the-pro-cycling-transfers-for-2027",
+            "d": "2026-10-04"
+          },
+          {
+            "t": "CyclingUpToDate (Lidl-Trek)",
+            "u": "https://cyclinguptodate.com/cycling/huge-signings-early-retirements-contract-breakings-and-a-steal-from-ineos-lidl-treks-explosive-transfer-window",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝各選手の移籍（各メディア／チーム発表）。『200人超フリー』は市場規模の目安。"
+      },
+      {
+        "id": "20261005-dura-ace-13s",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/vJGKrkBmGJAaie8KPrXyuK-1920-80.jpg",
+        "headline": "【パーツ・機材読み】新デュラ13速『R9300』、市販は『2027へ後ろ倒し』説——MvdPが世界選で実戦投入も、今季最後のレースはロンバルディア",
+        "layer1": "シマノの新型デュラエース（13速・R9300想定）は、9/27世界選でファンデルプールがプロト投入、ブエルタでも目撃と実戦段階にある。だが今季エリート男子の最後のレースがロンバルディア（10/10）のため、正式な市販発表は『早くて2027年初頭』との見方が強まっている。",
+        "layer2": "深掘り——半ワイヤレス構成は維持、クランクはアルミ、シフトボタンを刷新、という流れ。9月には初の『9300番台』ホイールWH-R9370（カーボンスポーク）が先行発売済みで、シマノは番手を世代に紐づけるため『本体も近い』のは確か。ただし公式はノーコメント。初中級への含意＝『今ホイールを替えても13速移行で即型落ち、とは限らない』が、互換（フリーボディ規格）の情報が出るまでは高額ホイールの衝動買いは一拍おくのが賢い。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/news/mathieu-van-der-poel-rides-13-speed-dura-ace-prototype-at-uci-world-championships",
+            "d": "2026-09-24"
+          },
+          {
+            "t": "the5krunner",
+            "u": "https://the5krunner.com/2026/08/23/dura-ace-r9300-13-speed-spotted/",
+            "d": "2026-08-23"
+          }
+        ],
+        "status": "確定＝WH-R9370先行発売・プロト実戦投入。市販時期は『※未発表・見立て』。"
+      },
+      {
+        "id": "20261005-china-wheel",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://assets.st-note.com/production/uploads/images/247033867/rectangle_large_type_2_b560fc4ea904e4343efa7a2a0b111f59.jpeg?fit=bounds&quality=85&width=1280",
+        "headline": "【ホイール・中華／機材読み】中華カーボンの最新は『軽さ×ワイドリム×カーボンスポーク』で純正と同じ土俵——QianKun CS50が1,185g、Elitewheels DRIVE IIは1,300g級",
+        "layer1": "国内レビューで新興中華の実測が続々。独自路線のQianKun『CS50』は50mm・実測1,185g（リムテープ／バルブ除く、T1000系カーボン）、Elitewheels『DRIVE II 50D/51D』は1,300g±30g・内寸23mm／外寸31mmで28-30cタイヤ最適化。",
+        "layer2": "深掘り——いまの中華上位は(1)軽量化（1,200〜1,300g級）、(2)内寸23mm前後のワイドリム、(3)カーボンスポーク——の三点が『標準装備』に寄り、純正デュラ（WH-R9370もカーボンスポーク）と同じ設計思想へ到達している。つまり『中華だから』の割引は要らず、用途（登り＝軽量ミドル、平坦＝ディープ）とタイヤ幅で選ぶ時代。注意：実測重量は個体差や計測条件で±し、公称との差や、フックレスなら上限空気圧の厳守が購入前の確認点。",
+        "sources": [
+          {
+            "t": "note／コンポ・DE・リング（QianKun）",
+            "u": "https://note.com/compo_de_ring/n/na3da1885e4fa",
+            "d": "2026-09"
+          },
+          {
+            "t": "Elitewheels 公式",
+            "u": "https://jp.elite-wheels.com/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝各実測／公称値（レビュー・公式）。数値は『※個体差・計測条件に依存』。"
+      },
+      {
+        "id": "20261005-price-2027",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://www.1jyo.com/wp/wp-content/uploads/2026/06/4d575f174b97c1f460b7b8afdef35ace.jpg",
+        "headline": "【経営メモ・市場】大手の『2027モデル＆価格改定』が出そろう秋——ジャイアントが継続車種を価格改定、トレックも2027で改定、値上げの波は止まらず",
+        "layer1": "大手の2027年モデル／価格改定情報が秋に出そろってきた。ジャイアントは『2027継続販売モデルの価格改定』を告知、トレックも2027モデルで新色追加＋一部価格改定。背景にシマノの2026価格改定とブリヂストンの改定（5/1〜）がある。",
+        "layer2": "経営メモ——構図は『新型・継続ともに定価は高止まり（むしろ値上げ）、一方で型落ち実売は下落』の二極化が一段と鮮明。参入価格はカーボン完成車で30〜40万が常態化。店としては(1)型落ち在庫で「総額の魅力」を作る、(2)値上げ前の「駆け込み」を接客トークに乗せる、(3)中華完成車（X-LAB AD7＝50万で全部入り等）の下押しをどう受けるか——が秋の判断軸になる。",
+        "sources": [
+          {
+            "t": "GIANT 公式（2027価格改定）",
+            "u": "https://www.giant-bicycles.com/jp/news/bike-gear-2027/30870",
+            "d": "2026-10"
+          },
+          {
+            "t": "1jyo（TREK 2027モデル／価格改定）",
+            "u": "https://www.1jyo.com/news/?p=104588",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝各社の改定告知（公式／販売店）。市場解釈は経営向けの見立て。"
+      },
+      {
+        "id": "20261005-autumn-bottom",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bike-plus.com/cdn/shop/collections/autumn-sale-2026-top.webp?v=1789370653",
+        "headline": "【経営メモ・市場】10月は『型落ち底値の山』——各店オータムセールが最大30%OFF（〜11/29の例）、価格.comも10月版ランキングが更新",
+        "layer1": "秋の型落ちセールが最盛期。バイクプラスはオータムセールを9/18〜11/29に開催、対象最大30%OFF。価格.comのロードバイク人気／値下げランキングも10月版に更新され、いま動いている完成車が数字で見える。",
+        "layer2": "経営メモ——10〜11月はモデル入れ替えで型落ちが最も動く『底値の山』。狙いは(1)前年モデルの在庫一掃、(2)無金利ローン・学生囲い込みなど「総額の見せ方」、(3)値下げは価格そのものより『この一台が買い』の理由付けで差がつく。買い手には「値引き額より中身（型落ちの素性・サイズ・用途）」を外さない接客を。注意：表示価格は時点差が大きいので、商談時に各店の最新価格を確認するのが前提。",
+        "sources": [
+          {
+            "t": "バイクプラス（オータムセール2026）",
+            "u": "https://bike-plus.com/collections/autumn-sale-2026",
+            "d": "2026-10"
+          },
+          {
+            "t": "価格.com（ロードバイク 10月ランキング）",
+            "u": "https://kakaku.com/bicycle/road-bicycle/ranking_6420/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝セール期間／割引率（各店告知）。ランキングは時点で更新。"
+      },
+      {
+        "id": "20261005-photofinish",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.sanity.io/images/iocd9e4k/production/2fa7562fafe9178f60d28a6d8ac6d4d8f853b6c2-1920x1280.jpg?w=1200&h=627&q=75&fit=crop&auto=format",
+        "headline": "【初中級・観戦の理屈】『写真判定』と『バイク投げ』は何が決め手？——レムコの欧州選勝利で話題、ゴールは前輪の先端で決まる",
+        "layer1": "欧州選でレムコがチッコーネを写真判定で下した——この『写真判定（フォトフィニッシュ）』と最後の『バイク投げ（スロー）』、初中級にはわかりにくい決着の理屈を先回りで整理する。",
+        "layer2": "深掘り——順位は『前輪タイヤの最前点がフィニッシュ線に触れた瞬間』で判定される。体やハンドルではなく前輪。だから最後にサドルを引いて車体だけを前に投げるバイクスローが有効で、数cm＝タイヤ一本分で金銀が入れ替わる。審判はライン上の高速ラインスキャンカメラ（1秒に数千本の縦スリット画像）で合成し、肉眼では不可能な差を確定させる。グループライドの『市町村境ダッシュ』でも同じ理屈——最後まで車体を前に、が効く。",
+        "sources": [
+          {
+            "t": "Velora Cycling（bike throw）",
+            "u": "https://veloracycling.com/news/remco-evenepoel-european-road-title",
+            "d": "2026-10-04"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/uec-european-championships-remco-evenepoel-snatches-photo-finish-victory-in-the-elite-mens-race-after-two-man-sprint/",
+            "d": "2026-10-04"
+          }
+        ],
+        "status": "確定＝判定方式（UCIの一般ルール）とレムコの決着（複数メディア）。"
+      },
+      {
+        "id": "20261005-china-vs-big",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/02/zakki_C164.jpg",
+        "headline": "【初中級／Xでも論争】大手が値上げを続け中華が『全部入り50万』で攻める今——初めての1台は『大手の型落ち』か『中華完成車』か",
+        "layer1": "大手は2027へ値上げ基調、かたや中華は105 Di2＋カーボンホイール＋パワメ込みの完成車を50万円級で投入——SNSでも『初めてなら大手か中華か』の論争が続く。初中級が外さない考え方を先回りで。",
+        "layer2": "深掘り——結論は『目的で割り切る』。(1)安心と下取り・保証・フィッティングを買うなら大手の型落ち（秋は20〜40%OFFが狙える）。(2)同じ予算で一段上のスペックを取るなら中華完成車だが、初期整備・保証窓口・補修パーツの供給を店に確認できるかが肝。(3)どちらでも『サイズが命』——フレームサイズとポジションが合わなければ高くても遅い・痛い。ホイールやタイヤは後から替えられるが、フレームサイズは替えられない。中華の品質は『怪しいパーツ』から『賢い選択肢』へ評価が転換済みだが、買った後の面倒を誰が見るかまでセットで考えるのが失敗しないコツ。",
+        "sources": [
+          {
+            "t": "bike-memo（大手価格改定と高コスパ新興）",
+            "u": "https://bike-memo.com/cycle_260204_roadbike/",
+            "d": "2026"
+          },
+          {
+            "t": "GIANT 公式（2027価格改定）",
+            "u": "https://www.giant-bicycles.com/jp/news/bike-gear-2027/30870",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝大手の値上げ基調・中華完成車の価格（各公式／メディア）。どちらが上かは用途次第、断定しない。"
+      },
+      {
+        "id": "20261005-japancup",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/09/2609japancup1.jpg",
+        "headline": "【レース・国内／人間ドラマ】宇都宮ジャパンカップは『あと2週間』（10/17-18）——来日スターにヒーリー＆マシューズ、41歳・新城幸也が母国の古賀志へ",
+        "layer1": "国内最大のワンデー、SUBARU presents 2026宇都宮ジャパンカップは10/17（クリテリウム）・10/18（ロードレース、古賀志林道）。来日スターにベン・ヒーリー、マイケル・マシューズ、クイン・シモンズ、ブイトラゴ、シュミットら、全19チームが集結する。",
+        "layer2": "深掘り——日本勢ではソリューションテック・NIPPO・ラーリの新城幸也（41）が出場予定で、海外で長く戦ったベテランが母国の激坂・古賀志に帰ってくる物語が今年も軸。地元アステモ宇都宮ブリッツェンら国内コンチネンタルも多数参戦。経営メモ的には、ロンバルディアや世界選で高まった観戦熱を、この国内ビッグレースの来店・試乗・買い替えにどう繋ぐかが10月後半の商機。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ（出場選手発表）",
+            "u": "https://www.cyclesports.jp/news/race/168905/",
+            "d": "2026-09-30"
+          },
+          {
+            "t": "ジャパンカップ公式",
+            "u": "https://www.japancup.gr.jp/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝日程・主要エントリー（公式／サイクルスポーツ）。最終スタートリストは直前に変動しうる。"
+      }
+    ]
+  },
+  {
     "date": "2026-10-04",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。本日はリュブリャナの『母国の虹なき』欧州選・男子ロード決戦——レムコ本命、母国はログリッチに託す。昨日はフォレリングが虹を着て独走連覇、エミリアはピガンツォーリが新王者マクナルティの鼻を明かしました。裏では中華のワイドリムと国内の『ロードバイク離れ』論が同時進行です。",
     "cards": [
