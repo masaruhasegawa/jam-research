@@ -1,5 +1,324 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-06",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。秋のイタリア・クラシック週間が本番です——昨日ベルノッキ、本日トレ・ヴァッリ、週末はロンバルディア＆グラベル世界選。移籍はガンナ電撃説でXが騒然（※要裏取り）。",
+    "cards": [
+      {
+        "id": "20261006-bernocchi",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://procyclinguk.com/wp-content/uploads/2026/10/Noa-Isidore-sprints-to-Coppa-Bernocchi-victory-to-claim-another-Italian-win-for-Decathlon-CMA-CGM.jpg",
+        "headline": "【🔥今日の一本・レース】秋のイタリア開幕戦コッパ・ベルノッキを21歳ノア・イジドールが制す——混戦スプリントでダティを差し、3位は『不正スプリント』で降格",
+        "layer1": "10/5のコッパ・ベルノッキ（イタリア・1.Pro）は、デカトロンの21歳ノア・イジドールがレニャーノの混戦スプリントを制して優勝。先に仕掛けたトンマーゾ・ダティを最後の数mで差し切った。",
+        "layer2": "ここが先回りの深掘り——3位でゴールしたマライン・ファンデンベルフは『不正スプリント（進路変更）』で降格され、オルルイス・アウラルが繰り上げで表彰台に。イジドールはチームの若手で、今季イタリアのクラシックで勝ち星を積む存在。スター不在でも『秋のイタリア・クラシック週間』（ベルノッキ→本日トレ・ヴァッリ→10/10ロンバルディア）の幕開けを、若手の台頭が彩った形。",
+        "sources": [
+          {
+            "t": "ProCyclingUK",
+            "u": "https://procyclinguk.com/noa-isidore-wins-2026-coppa-bernocchi/",
+            "d": "2026-10-05"
+          },
+          {
+            "t": "Velo101",
+            "u": "https://www.velo101.com/courses/coppa-bernocchi/noa-isidore-remporte-la-coppa-bernocchi-2026/",
+            "d": "2026-10-05"
+          },
+          {
+            "t": "ProCyclingStats",
+            "u": "https://www.procyclingstats.com/race/coppa-bernocchi-2026-result/results/results",
+            "d": "2026-10-05"
+          }
+        ],
+        "status": "確定＝イジドール優勝・ファンデンベルフ降格（ProCyclingUK報）。"
+      },
+      {
+        "id": "20261006-trevalli",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-04%2Ftom-pidcock-69e8d4d529381.jpg",
+        "headline": "【レース・本日10/6決戦】トレ・ヴァッリ・ヴァレジーネはロンバルディア最終前哨——欧州王者レムコ、ピドコック、世界王者マクナルティが『モニュメント級』の顔ぶれ",
+        "layer1": "本日10/6、イタリア・ヴァレーゼでトレ・ヴァッリ・ヴァレジーネ（1.Pro・172人出走予定）。ワールドツアー外ながら、欧州選から中2日のレムコ・エヴェネプール、トム・ピドコック、世界王者ブランドン・マクナルティらが集結、10/10ロンバルディアの最終調整レースになる。",
+        "layer2": "ここが先回りの深掘り——レムコはペリッツァーリ、リポヴィッツ、ヒンドレーら強力アシストを得て、ゴール100km手前から独りで背負わずに済む布陣。ジロ・デッレミリア覇者ピガンツォーリ、ベン・トゥレット、ヨルゲンソンらも出走予定で、『本命不在』のロンバルディアを占う試金石。※結果はレース後（日本時間の夜〜深夜）に確定。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（プレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/tre-valli-varesine-2026-preview-profile-favourites-predictions-evenepoel-pidcock-and-mcnulty-headline-monument-level-battle",
+            "d": "2026-10-05"
+          },
+          {
+            "t": "ProCyclingStats（スタートリスト）",
+            "u": "https://www.procyclingstats.com/race/tre-valli-varesine/2026/startlist",
+            "d": "2026-10-05"
+          },
+          {
+            "t": "IDLProCycling",
+            "u": "https://www.idlprocycling.com/cycling/tre-valli-varesine-2026-preview-two-champion-jerseys-evenepoel-pidcock-and-mcnulty-warm-up-for-lombardy",
+            "d": "2026-10-05"
+          }
+        ],
+        "status": "曖昧＝本日開催・出走は暫定（結果はレース後に判明）。"
+      },
+      {
+        "id": "20261006-lombardia",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2025-10%2Fremco-evenepoel-tadej-pogacar-michael-storer-68ee4041976d7.jpg",
+        "headline": "【レース・次戦／本命読み更新】ロンバルディア10/10は『5年ぶりに本命不在』——ポガチャル欠場で、セイシャス・ピドコック・チッコーネ・ピガンツォーリらが群雄割拠",
+        "layer1": "『落葉のクラシック』第120回ロンバルディアは10/10、ベルガモ→コモの239km・獲得4,600m。5連覇のポガチャルがブエルタでの鎖骨・椎骨骨折で欠場し、5年ぶりに勝者が替わる一戦になる。",
+        "layer2": "ここが先回りの深掘り——終盤28kmにサンフェルモ（残27.1km）→チヴィリオ（残16.7km）→サンフェルモ（残5.2km）の3連続登坂を詰め込み、休ませない設計。現地プレビューの本命はポール・セイシャス、ピドコック、チッコーネ、ヨルゲンソン、エミリア覇者ピガンツォーリ、デルトロら。2年連続2位のレムコも軸だが、近年の山岳クラシックで本調子に見えず『確実』ではない、との見立て。",
+        "sources": [
+          {
+            "t": "ProCyclingUK（コースガイド）",
+            "u": "https://procyclinguk.com/il-lombardia-2026-route-guide-ghisallo-civiglio-and-double-san-fermo-finale/",
+            "d": "2026-09-25"
+          },
+          {
+            "t": "CyclingUpToDate（プレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/il-lombardia-2026-preview-profile-favourites-predictions-who-will-win-after-5-years-of-tadej-pogacar-dominance",
+            "d": "2026-10-05"
+          },
+          {
+            "t": "Il Lombardia 公式",
+            "u": "https://www.ilombardia.it/en/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝10/10開催・ポガチャル欠場／曖昧＝本命は割れる。"
+      },
+      {
+        "id": "20261006-gravelworlds-men",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/3wJVEsixz2uxkQrn7Sc2Zm-1200-80.jpg",
+        "headline": "【トレンド・グラベル／人間ドラマ】グラベル世界選は今週末10/10-11、豪ナナップで『欧州外・初開催』——男子は10/11、連覇狙うフェルメルシュと去就不透明のファンデルプール",
+        "layer1": "UCIグラベル世界選が10/10（女子）・10/11（男子）、西オーストラリアのナナップで初の欧州外開催。男子エリートは140.7km・獲得3,713m、80%以上がグラベルの『過去最もグラベル寄り』のコースになる。",
+        "layer2": "ここが先回りの深掘り——昨年王者はフロリアン・フェルメルシュ（白）で、連覇なるかが焦点。2024年覇者ファンデルプールの出場可否は現地報道でも『不明』のまま＝遠征距離もあり去就が注目される。女子は39歳フォス（4種目制覇の伝説）が2勝目を狙う。ロードからの転向組が集うグラベルは、機材（ワイドタイヤ・1x・サスの是非）でも見どころが多い。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/uci-gravel-world-championships/",
+            "d": "2026-10-05"
+          },
+          {
+            "t": "Shire of Nannup 公式",
+            "u": "https://www.nannup.wa.gov.au/events/uci-gravel-world-championships-nannup/436",
+            "d": "2026-10"
+          },
+          {
+            "t": "Cyclingstage（出場者）",
+            "u": "https://www.cyclingstage.com/gravel-world-championships-2026/riders-gravel-race-nannup-australia-2026/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝10/10-11開催・コース／曖昧＝VdP出場は未確定（※要裏取り）。"
+      },
+      {
+        "id": "20261006-ganna",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-05%2Ffilippo-ganna-6a05e1625b58d.jpg",
+        "headline": "【トレンド・移籍／Xでも話題】『ガンナがイネオスを1年前倒しで退団、2027リドル・トレックへ』——伊ガゼッタ報道で騒然、ただし登録枠は満杯で未確定",
+        "layer1": "伊ガゼッタ・デロ・スポルト（10/3報）が、TT世界王者フィリッポ・ガンナが契約を1年残してネットカンパニー・イネオスを離れ、2027年からリドル・トレック入りを交渉中と報道。Xでも真偽を巡って騒然となった。",
+        "layer2": "ここが先回りの深掘り——実現すればトラックの盟友ミラン＆コンソンニと同チームに。ただし現時点では『交渉段階』で確定ではなく、リドル・トレックは2027年の登録枠がすでに30人（UCI上限）で満杯という大きな障害がある。ガンナの契約は本来2027年末まで。盛らずに言えば、公式発表はまだ＝あくまで報道ベース。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/big-ineos-surprise-transfer-filippo-ganna-could-leave-team-lidl-trek-in-talks-to-sign-italian-leader-from-2027-in-surprise-move",
+            "d": "2026-10-03"
+          },
+          {
+            "t": "Escape Collective",
+            "u": "https://escapecollective.com/ganna-linked-to-early-move-to-lidl-trek-from-2027/",
+            "d": "2026-10-03"
+          },
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/another-major-lidl-move-in-the-making-ganna-linked-for-2027-despite-ineos-contract/",
+            "d": "2026-10-03"
+          }
+        ],
+        "status": "未確定＝報道ベース（※Xで話題、要裏取り）。"
+      },
+      {
+        "id": "20261006-ranking-jp",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://img.my-best.com/contents/11a1657d2cabf762f0ee33dc04e884b3.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop",
+        "headline": "【経営メモ・市場】国内ロードバイク人気ランキング『2026年10月版』が更新——今の売れ筋は“値上げ下のコスパ・型落ち”に客の目",
+        "layer1": "大手比較メディア『マイベスト』のロードバイクおすすめランキングが10月版に更新。値上げが続く環境で、ユーザーの検討はエントリー〜ミドルの『コスパ・型落ち』に寄っている。",
+        "layer2": "ここが先回りの深掘り（経営視点）——ランキングの顔ぶれから読めるのは、①新車定価が上がるほど『型落ち在庫』と『中華完成車』の相対的な割安感が効く、②秋は2027モデル発表で旧モデルの値引き原資が生まれる、の2点。来店客が『この価格で何が買えるか』で選ぶ今、店頭は“同価格帯の比較提案”が決め手。うちの中華カーボン（完成車・ホイール単体）は、この『同価格で一段上のグレード』の受け皿に自然に乗る。",
+        "sources": [
+          {
+            "t": "マイベスト（ロードバイク人気ランキング2026年10月）",
+            "u": "https://my-best.com/21173",
+            "d": "2026-10"
+          },
+          {
+            "t": "buychari JOURNAL（2026注目株）",
+            "u": "https://journal.buychari.com/2026-latest-road-bikes/",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝10月版更新／経営メモ＝提案設計のヒント。"
+      },
+      {
+        "id": "20261006-pearlizumi-fw",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.funq.jp/contents/uploads/2026/10/02231934/3200-BL_image.jpg",
+        "headline": "【経営メモ・市場／秋冬商戦】パールイズミが秋冬『サーモ ジャージ』を発売——“ウェア更新需要”は秋の来店動機、客単価の柱に",
+        "layer1": "パールイズミが2026秋冬の裏起毛『サーモ ジャージ』を発売。ストレッチを改良した『サーモドレス®ネオ』採用で、ベーシック／レース／ワイド／レディースの各フィット、新色フロスティ・バター・ダークネービーを追加。15℃対応帯の定番モデル。",
+        "layer2": "ここが先回りの深掘り（経営視点）——秋冬ウェアは『気温が下がる＝買い替えが顕在化する』季節性が強く、車体より回転が速く利幅も取りやすい。10〜11月の来店客に“今日持ち帰れる”アパレル・グローブ・ソックスを束ねると客単価が上がる。『冬も乗ってもらう』提案は、来季の整備・買い替えにもつながる布石になる。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ",
+            "u": "https://www.cyclesports.jp/news/new-product/169806/",
+            "d": "2026-10"
+          },
+          {
+            "t": "PEARL iZUMi（FUNQ）",
+            "u": "https://www.funq.jp/bicycle-club/article/1091715/",
+            "d": "2026-10-03"
+          },
+          {
+            "t": "ワイズロード京都（入荷）",
+            "u": "https://ysroad.co.jp/kyoto/2026/09/23/163525",
+            "d": "2026-09-23"
+          }
+        ],
+        "status": "確定＝10月発売。"
+      },
+      {
+        "id": "20261006-mvdp-cx",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/HW5pMpVuhNLp7TDVZjC5aT-1024-80.jpg",
+        "headline": "【トレンド・人間ドラマ】ファンデルプール『2026ロードは終了』——シクロクロス参戦も不透明、1月の第一子誕生が去就の鍵",
+        "layer1": "世界選（モントリオール）で銅のファンデルプールが、2026ロードシーズンの終了を表明。冬の主戦場シクロクロスへの参戦は『不透明』とされ、現地メディアが去就を注視している。",
+        "layer2": "ここが先回りの深掘り——不透明の理由の一つが、パートナーのロクサーヌ・ベルテルスが1月に第一子を出産予定で、ちょうどシクロクロスの最盛期と重なること。CXでは史上最多の『エリート8冠』がかかる一方、家庭を優先する可能性もある。『どこまで走るか』は、冬のレース中継・観戦の目玉を左右する話題。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/will-we-see-mathieu-van-der-poel-again-in-2026-worlds-bronze-medallist-declares-his-road-season-is-over-with-doubts-over-cyclo-cross-campaign/",
+            "d": "2026-09-28"
+          }
+        ],
+        "status": "曖昧＝CX参戦は本人・チーム未確定。"
+      },
+      {
+        "id": "20261006-mywhoosh-favero",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/mJS5smANCPNxfWKaDwBvxM-1100-80.jpg",
+        "headline": "【パーツ・機材／Xでも論争】インドア『MyWhoosh』が賞金レースにファベロ製パワメ(約789ドル)を事実上必須化——“公平性 vs 出費”で物議",
+        "layer1": "インドア競技プラットフォームのMyWhooshが、賞金のかかるレースで新型ファベロ（Assioma）パワーメーターの使用を事実上の必須とし、満たさないと賞金対象外になると発表（10/4から運用、検証は10月中）。",
+        "layer2": "ここが先回りの深掘り——狙いは『計測の統一による出力詐称の排除＝公平性』。一方で約789ドルの追加出費を競技者に強いる形で、Xでは『敷居が上がる』『プロ化しすぎ』と賛否が割れた。日本のZwift／インドア勢にも無関係ではなく、冬に向けたインドア機材（スマートトレーナー・両側計測ペダル）の相談が増える時期の“効く”ネタ。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/indoor-cycling-platform-mywhoosh-says-racers-must-buy-a-new-usd789-favero-power-meter-or-be-banned-from-winning-prize-money/",
+            "d": "2026-10-04"
+          }
+        ],
+        "status": "確定＝MyWhooshが必須化を発表／曖昧＝細則は10月中に検証中。"
+      },
+      {
+        "id": "20261006-gravel-beginner",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://store-eirin-jp.com/cdn/shop/articles/Nicasio_1_action-1_3c4df2a8-fca1-42fb-9961-6fed1e51b57b.jpg?v=1775358557",
+        "headline": "【初中級・機材の理屈】グラベル世界選（今週末）を見て憧れたら——初めてのグラベルは『タイヤ・ギア・用途』でロードと分けて考える",
+        "layer1": "グラベル世界選（10/10-11）で“未舗装を走る楽しさ”に火がつく人向け。初めての1台をロードと同じ感覚で選ぶと外す。鍵はタイヤクリアランス・ギア比・使い方の3点。",
+        "layer2": "ここが先回りの深掘り——①タイヤは40mm前後が万能、太いほど安定するがフレームのクリアランス上限を要確認。②ギアは1x（フロント1枚）が主流でトラブルが少なく、激坂用に軽いギアを用意。③通勤・ロング・砂利林道で最適解が変わる＝『舗装8割なら太めスリック』『ダート多めならブロックタイヤ』。ロードの“速さ”より“どこでも行ける安心”を買う感覚で選ぶと失敗しない。中華系にもグラベルの選択肢は増えている。",
+        "sources": [
+          {
+            "t": "えいりんショップ（2026エントリーグラベル検証）",
+            "u": "https://store-eirin-jp.com/blogs/collection/2026-entry-gravel-ai-review",
+            "d": "2026"
+          },
+          {
+            "t": "Cyclingnews（グラベル世界選＝きっかけ）",
+            "u": "https://www.cyclingnews.com/uci-gravel-world-championships/",
+            "d": "2026-10-05"
+          },
+          {
+            "t": "chari-go（グラベル選び）",
+            "u": "https://chari-go.com/roadbike-gravelroad/",
+            "d": "2026"
+          }
+        ],
+        "status": "普遍（初中級）＝グラベル世界選を起点に。"
+      },
+      {
+        "id": "20261006-chinese-wheel-beginner",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://img.my-best.com/contents/fb968deb8250884a85f5b7cf3c1ee4f5.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop",
+        "headline": "【初中級・機材の理屈】純正ホイールが前後40万円超の今、初めての中華カーボンを外さない3点——『個体差・保証・振れ取り対応』",
+        "layer1": "国内の格付けでも中華カーボンは“通常比較”の常連になり、もう特別枠ではない。ただ初めてだと『安いけど大丈夫？』が不安。外さない鍵は、品質管理・保証・メンテ体制の3点。",
+        "layer2": "ここが先回りの深掘り——①個体差＝TUV等の認証やメーカーの検品体制が明示されたブランドを選ぶ（YOELEO・Elitewheels・Winspace・Farsports等は情報開示が進む）。②保証＝クラッシュリプレイスやスポーク供給の有無を確認（カーボンスポークは専用部品）。③振れ取り＝近所の店で見てもらえるか＝“買って終わり”にしない。価格だけでなく『買った後』で選ぶと後悔しにくい。",
+        "sources": [
+          {
+            "t": "マイベスト（ディスクブレーキ用ホイール格付け）",
+            "u": "https://my-best.com/21018",
+            "d": "2026"
+          },
+          {
+            "t": "bike-memo（2026中華カーボン格付け）",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026"
+          }
+        ],
+        "status": "普遍（初中級）＝買い方の指針。"
+      },
+      {
+        "id": "20261006-classic-watch",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/zDpZpnrYGUAzTrTSnKJ53R-1024-80.jpg",
+        "headline": "【初中級・観戦の理屈】『本命不在』のクラシックはなぜ面白い？——ロンバルディア（10/10）を10倍楽しむ、終盤3連続登坂の読み方",
+        "layer1": "ポガチャル5連覇が途切れ、今年のロンバルディアは『勝者が読めない』。実はこういう年こそ観戦は面白い。鍵は終盤28kmの3連続登坂（サンフェルモ→チヴィリオ→サンフェルモ）。",
+        "layer2": "ここが先回りの深掘り——“絶対王者”がいると展開は一本調子になりがちだが、本命不在だと複数チームが別々に動く＝アタック合戦になりやすい。見るべきは①誰が最後の登りまで“脚を残す”か、②下り〜平坦で“誰と誰が協調するか”。先週のベルノッキ降格劇のように、ゴール前の進路取りも勝敗を分ける。結果速報だけでなく『心が動く瞬間』を探すと、週末が長く楽しめる。",
+        "sources": [
+          {
+            "t": "ProCyclingUK（コースガイド）",
+            "u": "https://procyclinguk.com/il-lombardia-2026-route-guide-ghisallo-civiglio-and-double-san-fermo-finale/",
+            "d": "2026-09-25"
+          },
+          {
+            "t": "Cyclingnews（Il Lombardia 2026）",
+            "u": "https://www.cyclingnews.com/pro-cycling/races/il-lombardia-2026/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "普遍（観戦）＝ロンバルディアを起点に。"
+      }
+    ]
+  },
+  {
     "date": "2026-10-05",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。レムコが落車とバイク投げを越えて欧州王者——『4冠×2種目』を史上初で完成させた朝です。今週はロンバルディア＆グラベル世界選（10/10-11）の大一番が控えます。",
     "cards": [
