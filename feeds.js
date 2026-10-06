@@ -1,5 +1,269 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-07",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。秋のイタリア三連戦（ベルノッキ→本日の主役はトレ・ヴァッリ）が決着し、20歳ウィダルが『プロ初勝利』でピドコックを再び退けました。週末は10/10ロンバルディア＆10/10-11グラベル世界選（豪ナナップ）の二本立て。移籍・引退のドラマも動いています。",
+    "cards": [
+      {
+        "id": "20261007-trevalli-widar",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039453-214.jpg?width=832&height=468&format=jpg&crop=2000%2C1125%2C0%2C104",
+        "headline": "【🔥今日の一本・レース／人間ドラマ】トレ・ヴァッリを20歳ウィダルが『プロ初勝利』——ピドコックの仕掛けに乗り、最後の登りスプリントで本人とヨルゲンソンを差す",
+        "layer1": "10/6のトレ・ヴァッリ・ヴァレジーネ（伊・1.Pro／ロンバルディア前哨）は、ロット・インテルマルシェの20歳ヤルノ・ウィダルがプロ初勝利。残り15kmでピドコックが仕掛けてできた3人の抜け出しを、登りフィニッシュのスプリントで制した。2位ピドコック、3位ヨルゲンソン、4位シモンズは3秒差。",
+        "layer2": "先回りの深掘り——ピドコックはジロ・デッレミリア（10/3）に続き『また2位』。モニュメント前の好調は本物だが、勝ち切れない展開が続く。ウィダルの勝因は本人談で『後方から助走をつけて発射した。自分の20秒のもがきは強いから、遠くから行く必要があると分かっていた』。新デュラ13速勢や世界王者マクナルティが集団を牽く中、若手がベテランの罠を逆手に取った一本。前哨3連戦（ベルノッキ=イジドール／トレ・ヴァッリ=ウィダル）が出揃い、舞台は10/10ロンバルディアへ。",
+        "sources": [
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/widar-jumps-pidcock-and-jorgenson-for-first-pro-victory-at-tre-valli-varesine/",
+            "d": "2026-10-06"
+          },
+          {
+            "t": "ProCyclingStats",
+            "u": "https://www.procyclingstats.com/race/tre-valli-varesine/2026/result",
+            "d": "2026-10-06"
+          }
+        ],
+        "status": "確定＝ウィダル優勝・ピドコック2位・ヨルゲンソン3位（Domestique報）。"
+      },
+      {
+        "id": "20261007-trevalli-women-gasparrini",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://procyclinguk.com/wp-content/uploads/2026/10/divTre-Valli-Varesine-Womens-Race-Eleonora-Gasparrini-wins-after-last-gasp-breakaway-catchdiv.avif",
+        "headline": "【レース・女子／10/6決着】トレ・ヴァッリ女子はガスパリーニが今季初勝利——UAEが二枚使いで仕掛け、最後の登りで抜け出しを飲み込む",
+        "layer1": "女子トレ・ヴァッリ・ヴァレジーネ（10/6）は、UAEチーム・リマドのエレオノーラ・ガスパリーニが今季初勝利。終盤に飛び出した2人を最後の登りで集団が吸収し、縮小した先頭からガスパリーニがサラ・ファンダム（ヴィスマ）、ノエミ・リュエグ（EF）を抑えた。",
+        "layer2": "先回りの深掘り——UAEは残り33kmでペルシコ、残り2km手前でスウィンケルスが動く『二段構え』で主導権を握り、最後は展開を作ってガスパリーニで仕留めた。昨年の勝負を分けた連覇女王ロンゴボルギーニと2位ヴォラリングが揃って不在で、勝機は広い集団に開けていた——その混戦をチーム力で制した形。登りフィニッシュで決まったのは男子と同じで、週末のクラシック観戦の見どころを先取りする結果。",
+        "sources": [
+          {
+            "t": "ProCyclingUK",
+            "u": "https://procyclinguk.com/eleonora-gasparrini-wins-2026-tre-valli-varesine-women-after-catching-break-late/",
+            "d": "2026-10-06"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tre-valli-varesine-womens-race-eleonora-gasparrini-wins-after-last-gasp-breakaway-catch/",
+            "d": "2026-10-06"
+          }
+        ],
+        "status": "確定＝ガスパリーニ優勝・ファンダム2位・リュエグ3位、ロンゴボルギーニ＆ヴォラリング不在（ProCyclingUK報）。"
+      },
+      {
+        "id": "20261007-lombardia-update",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://pixidia.com/wp-content/uploads/2026/09/il-lombardia-2026-featured-1024x682.jpg",
+        "headline": "【レース・本命読み更新／10/10決戦】前哨3連戦が出揃い、ロンバルディアは『レムコ本命・群雄割拠』——5度王者ポガチャル不在、本人は固定ローラーで2027へ",
+        "layer1": "最後のモニュメント、第120回ロンバルディア（10/10・ベルガモ→コモ、239km）へ。前哨の秋イタリア3連戦（ベルノッキ=イジドール／エミリア=ピガンツォーリ／トレ・ヴァッリ=ウィダル）が終わり、本命は2年連続2位のレムコ・エヴェネプール。アユソ、ログリッチ、ピドコック、チッコーネが追う構図。",
+        "layer2": "先回りの深掘り——なぜ『本命不在（ポガチャル欠場）』か。8/30ブエルタの落車で鎖骨骨折・頚椎C7・脳震盪を負い今季絶望、現在は『固定ローラーに戻れたのが嬉しい。少しずつ積み上げている』と2027へ再始動。コースは2022年以来のコモ周回で、残り28kmからサンフェルモを登り、周回でチヴィリオ→再度サンフェルモ。前哨で『また2位』のピドコックの好調、登りで強いレムコ、イタリアの地元カード・チッコーネ——誰が虹不在の秋を締めるか。※スタートリストは最終調整中で各名は『有力』段階。",
+        "sources": [
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/no-pogacar-a-circuit-finale-and-a-team-presentation-whats-new-at-il-lombardia-in-2026/",
+            "d": "2026-09"
+          },
+          {
+            "t": "Cyclingnews（コース）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/il-lombardia-2026-route-to-include-double-ascent-of-crunch-san-fermo-della-battaglia-climb/",
+            "d": "2026-09"
+          },
+          {
+            "t": "EssentiallySports（ポガ近況）",
+            "u": "https://www.essentiallysports.com/olympic-news-cycling-five-time-tour-de-france-winner-sends-encouraging-update-seventeen-days-after-devastating-vuelta-crash/",
+            "d": "2026-09-17"
+          }
+        ],
+        "status": "確定＝10/10開催・ポガチャル欠場。曖昧＝本命・スタートリストは有力段階（更新：前哨3連戦が10/6で終了）。"
+      },
+      {
+        "id": "20261007-gravel-worlds-nannup",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://ucigravelworldseries.com/wp-content/uploads/sites/195/2026/04/N16_3108991.jpg",
+        "headline": "【トレンド・グラベル／今週末10/10-11】グラベル世界選は豪ナナップで『欧州外・初開催』——未舗装80%は過去最高、連覇狙うフェルメルシュ、タイヤは57mm時代の初の世界選",
+        "layer1": "第5回UCIグラベル世界選は10/10-11、西豪州ナナップ。イタリア・ベルギー・オランダに続く『欧州外・初』。女子は10/10（123.1km・3,100m）、男子は10/11（140.7km・3,625m）。主催者は『未舗装80%以上＝選手権史上最高比率』を掲げる。",
+        "layer2": "先回りの深掘り——ここが機材の分岐点。連覇を狙うフェルメルシュ（ベルギー）は2025年を40mmタイヤで制したが、2027年型レースバイクは57-58mmまでクリア。ナナップの長い未舗装と連続する登り（5-8%を1-3km）は『太いタイヤ×荒れ地エアロ』に向き、タイヤ選択が勝負を分ける初の世界選になりそう。顔ぶれはビアーズ、スウェンソン、シュミット、39歳フォス（女子）らが確定、ファンデルポールと女子2025王者ウィーベスの出場は流動的。マサルのショート素材としては『なぜ57mm?』の機材深掘りが伸びどころ。",
+        "sources": [
+          {
+            "t": "bike-room（プレビュー）",
+            "u": "https://bike-room.com/blogs/news/gravel-worlds-2026-nannup-preview",
+            "d": "2026-09-25"
+          },
+          {
+            "t": "UCI Gravel World Series（コース）",
+            "u": "https://ucigravelworldseries.com/en/uci-reveals-courses-for-the-2026-uci-gravel-world-championships-in-nannup-western-australia/",
+            "d": "2026-04-15"
+          }
+        ],
+        "status": "確定＝10/10-11ナナップ開催・コース距離/未舗装80%。曖昧＝MvdP/ウィーベスの出場は流動的。"
+      },
+      {
+        "id": "20261007-realini-lidltrek",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/2019_Citadelcross_Namur_91.jpg/250px-2019_Citadelcross_Namur_91.jpg",
+        "headline": "【トレンド・移籍／人間ドラマ】リドル・トレックと登坂の名手レアリーニが『1年前倒し』で契約解消——25歳、2027満了を待たず年内で別れ",
+        "layer1": "リドル・トレックと伊のガイア・レアリーニが、2027年末までの契約を1年前倒しして2026年末で円満解消することで合意。女子屈指のクライマーが移籍市場に出る格好。",
+        "layer2": "先回りの深掘り——レアリーニは2023年にジロ・ドンネとブエルタ・フェメニーナでいずれも総合3位、グランツール級の登りで名を上げた逸材。チーム側はスプリント／クラシック路線（ミラン発射台やニーワイアドマ獲得＝ツール総合狙い）に舵を切っており、登坂特化型との役割のズレが背景とみられる。行き先は未発表だが、女子の総合系チームにとっては即戦力。世界選後に続く『発表解禁』の流れの一つで、Xでも女子移籍として話題。※移籍先は未確定。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/lidl-trek-and-gaia-realini-agree-to-end-contract-a-year-early/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝2026年末での契約解消合意（Cyclingnews報）。曖昧＝移籍先は未発表（※要続報）。"
+      },
+      {
+        "id": "20261007-quintana-retire",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Nairo_Quintana_with_fans%2C_2019_Paris-Nice_%28cropped%29.jpg/250px-Nairo_Quintana_with_fans%2C_2019_Paris-Nice_%28cropped%29.jpg",
+        "headline": "【トレンド・人間ドラマ】ナイロ・キンタナが現役に幕——『14年前に勝ったジロ・デッレミリア』（10/3）で、グランツール2勝の名クライマーが16年のキャリアを締める",
+        "layer1": "コロンビアの名クライマー、ナイロ・キンタナ（Movistar時代の象徴）が、10/3のジロ・デッレミリアを最後に現役引退。2012年に同レースで勝って名を上げた『原点』での幕引きだった。",
+        "layer2": "先回りの深掘り——キンタナは2014年ジロ・デ・イタリア、2016年ブエルタ総合優勝、ツール総合2位2回（2013・2015）。小柄な体から繰り出す山岳の加速で、ポガチャル／ログリッチ以前の『登りの主役』だった世代の象徴。秋のイタリアは引き際の舞台でもあり、イサギレ（37歳・練習落車で引退レース断念）、セビリア（50歳で29季目契約）らと並び、世代交代と円熟の対比が濃い。マサル的には『心が動く背景』を拾えるショート向き素材。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/14-years-after-winning-giro-dell-emilia-nairo-quintana-to-call-time-on-racing-career-at-italian-classic-on-october-3/",
+            "d": "2026-10-03"
+          }
+        ],
+        "status": "確定＝10/3ジロ・デッレミリアで引退（Cyclingnews報）・主要戦績。"
+      },
+      {
+        "id": "20261007-aokippu-2147",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://kuruma-news.jp/wp-content/uploads/2027/05/20260528_aokiltupu.jpg",
+        "headline": "【経営メモ・市場／Xで賛否】自転車『青切符』初月の交付は2147件——警察庁が公表、Xでは『少なすぎ』『インフラ先だろ』と論争が継続",
+        "layer1": "4月に始まった自転車の交通反則通告制度（青切符）について、警察庁が制度初月（2026年4月分）の交付2,147件を公表。内訳は交差点不停止が約4割、ながらスマホ約33%、信号無視約14%。反則金はスマホ1.2万円など5,000〜1.2万円。",
+        "layer2": "先回りの深掘り——経営に効く読み。Xでは『バンバン取り締まって』『まだ危険運転が多い』という強化論と、『専用レーンが先』というインフラ論、ながらスマホ厳罰化要求が入り混じり、取り締まりは継続中で話題が途切れない。店頭的には、ライト・ベル・反射材・ヘルメットなど『保安部品の需要』と、来店時のルール啓発（イヤホン5,000円・傘差し5,000円・2人乗り3,000円）が接客の糸口。買うのは日本の人なので、罰則の正確な金額を即答できる体制が信頼につながる。",
+        "sources": [
+          {
+            "t": "くるまのニュース",
+            "u": "https://kuruma-news.jp/post/1065966",
+            "d": "2026-06-01"
+          }
+        ],
+        "status": "確定＝初月交付2,147件・内訳・反則金（警察庁公表→くるまのニュース報）。曖昧＝集計は4月分（6月発表）で、取り締まり・Xの賛否は現在も継続中。"
+      },
+      {
+        "id": "20261007-shimano-ogte",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://images2.giant-bicycles.com/yqs0qh0ai2mboz9ug2oh/preview.jpg",
+        "headline": "【経営メモ・市場】大手の『供給・価格』が苦しい秋——シマノは営業益ほぼ半減＆関税で約1%値上げ、WorldTourは約半数がSRAMに",
+        "layer1": "業界の体温計シマノは、関税・原材料高で2026年の営業利益が前年同期比ほぼ半減、8月に部品を約1%値上げと警告。欧州は駆け込み需要後の在庫調整が続き、米国は関税で完成車の陸揚げコストが上昇。メリダも2026年第1四半期の売上が前年比約27%減と、調整局面が鮮明。",
+        "layer2": "先回りの深掘り——経営に効く読み。競合SRAMがWorldTourの約半数のチームに載るまで存在感を増し、値上げ連鎖の中で『大手の供給＝高止まり』が続く。だからこそ、同等性能で前後15〜20万円台の中華カーボンが『受け皿』として伸びる構図は変わらない。店としては(1)型落ち・在庫の出口戦略、(2)値上げ前後の価格根拠を客に説明できる準備、(3)中華×大手の『適材適所』提案——この3点が秋冬の利益を左右する。※数字は各社の2026年中間期ベース。",
+        "sources": [
+          {
+            "t": "biketips（シマノ決算）",
+            "u": "https://biketips.com/shimano-2026-sales-drop-operating-income-tariffs/",
+            "d": "2026-09"
+          },
+          {
+            "t": "BicycleRetailer（値上げ警告）",
+            "u": "https://bicycleretailer.com/international/2026/07/28/shimano-warns-1-price-increases-august",
+            "d": "2026-07-28"
+          }
+        ],
+        "status": "確定＝シマノ営業益ほぼ半減・8月約1%値上げ・SRAMがWorldTour約半数（biketips/BicycleRetailer報）。曖昧＝メリダ-27%はQ1ベース。"
+      },
+      {
+        "id": "20261007-chinacarbon-ranking",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png",
+        "headline": "【ホイール・中華／機材読み】2026年の中華カーボン序列が固まる——Tukus・Winspace・YOELEO・Elitewheelsが上位、『カーボンスポーク×ワイド×軽量』が標準",
+        "layer1": "2026年版の中華カーボン評価では、Tukus Bluefin C88NEO（88mm・約1,680g＝エアロ特化）、Winspace Lún MEGA D45（45mm・約1,390g）、Lún Hyper Light（38/45mm・約1,270g＝登り）、YOELEO SAT C60 DB PRO（60mm・約1,490g）、Elitewheels Drive Helix（50mm・約1,360g）などが上位。",
+        "layer2": "先回りの深掘り——もはや『安いから中華』ではなく、純正と同じ土俵（カーボンスポーク・ワイドリム・1,300g前後）で語られる段階。純正デュラC50が前後で約43万円という現実の『受け皿』として、国内でも格付けの常連になった。マサルの取扱（8LIEN/CRW/GOOSYNN/NEPEST/FARSPORTS/PARTICLE）に重ねると、客への説明軸は『深さ×重量×内寸』の3点で十分戦える。週末のグラベル世界選に合わせ、グラベル向けカーボンスポーク（Elitewheels Drive G系など）も話題を取りに行ける。※序列は2026年通年の評価で、数値は公称。",
+        "sources": [
+          {
+            "t": "velofanatics（2026ランキング）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026-05-30"
+          }
+        ],
+        "status": "曖昧＝重量は公称値・ランキングは媒体評価（2026年通年ベース、要実測確認）。"
+      },
+      {
+        "id": "20261007-beg-uphill-sprint",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039453-214.jpg?width=832&height=468&format=jpg&crop=2000%2C1125%2C0%2C104",
+        "headline": "【初中級・走りの理屈】男女とも『登りスプリント』で決着——ちぎれず、最後に差す人は何が違う? 3つの効きどころ",
+        "layer1": "10/6のトレ・ヴァッリは男子（ウィダル）も女子（ガスパリーニ）も、平坦スプリントではなく『登りフィニッシュの踏み合い』で決着。短い登りの最後にもう一段上げられるかどうかが明暗を分けた。",
+        "layer2": "先回りの深掘り——アマが週末のグループライドで使える3点。(1)『早がけしない』——ウィダルは後方から助走をつけて最後に発射した。登りスプリントは失速が大きいので、仕掛けは思うより遅く。(2)『垂れない脚を残す』——登りに入る前の位置取り（5〜10番手）で無駄踏みを避ける。(3)『ケイデンスを落としすぎない』——重すぎるギアで固まると加速できない。ロンバルディアもグラベル世界選も登り勝負——観戦の『なぜあの人が勝ったか』が、自分の走りのヒントになる。",
+        "sources": [
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/widar-jumps-pidcock-and-jorgenson-for-first-pro-victory-at-tre-valli-varesine/",
+            "d": "2026-10-06"
+          }
+        ],
+        "status": "確定＝両レースとも登りフィニッシュで決着（当日報）。走り方は一般的なセオリー。"
+      },
+      {
+        "id": "20261007-parts-gravel-clearance",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://ucigravelworldseries.com/wp-content/uploads/sites/195/2026/04/N16_3108991.jpg",
+        "headline": "【パーツ・機材読み／グラベル】プロは40mm→57mmへ『太タイヤ競争』——週末の世界選が映す、グラベルバイクの設計転換",
+        "layer1": "今週末のグラベル世界選（ナナップ）を境に、グラベルバイクの『タイヤクリアランス』が焦点に。王者フェルメルシュは2025年を40mmで制したが、2027年型フレームは57-58mmまで対応へと広がっている。",
+        "layer2": "先回りの深掘り——なぜ太くなるのか。(1)未舗装80%の荒れ地では、太く低圧のほうが転がり・グリップ・快適性で有利な場面が増える。(2)ワイドリム（内寸25mm級）＋カーボンスポークが普及し、太タイヤを軽く・安定して支えられるようになった。(3)エアロも『荒れ地での実効速度』で設計し直されている。初中級の実務的な注意は『自分のフレーム/フォークは何mmまで入るか（泥づまりの余裕込み）』を必ず確認すること——太ければ良いのではなく、クリアランスと用途の一致が肝。中華勢（Elitewheels/Winspace等）もグラベル向けカーボンスポークを揃えてきた。※57-58mm対応は2027年型の潮流で、現行は車種差が大きい。",
+        "sources": [
+          {
+            "t": "bike-room（世界選プレビュー）",
+            "u": "https://bike-room.com/blogs/news/gravel-worlds-2026-nannup-preview",
+            "d": "2026-09-25"
+          }
+        ],
+        "status": "確定＝未舗装80%・2025年は40mmで優勝（プレビュー報）。曖昧＝57-58mm対応は2027年型の潮流（車種差あり・要個別確認）。"
+      },
+      {
+        "id": "20261007-beg-classic-tactics",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://pixidia.com/wp-content/uploads/2026/09/il-lombardia-2026-featured-1024x682.jpg",
+        "headline": "【初中級・観戦の理屈】週末のロンバルディアを10倍楽しむ——『ワンデー・クラシック』はステージレースと何が違う?",
+        "layer1": "10/10ロンバルディアは『落葉のクラシック』と呼ばれる1日完結のモニュメント。3週間かけて総合を争うグランツール（ジロ/ツール/ブエルタ）とは、見るべきポイントが根本的に違う。",
+        "layer2": "先回りの深掘り——初中級が押さえる3点。(1)『貯金が効かない』——タイム差を積む競技ではなく、その日ゴールに最初に着いた者が勝ち。だから終盤の登り（チヴィリオ→サンフェルモ）での一発勝負が全て。(2)『エースの温存も一度きり』——翌日がないので、消耗を恐れず攻める。前哨で『また2位』のピドコックのように、仕掛けても勝ち切れないのがワンデーの残酷さ。(3)『前哨の勝者＝本命ではない』——前哨のウィダル（20歳初勝利）は強さの証だが、239kmのモニュメントは格と経験がものを言い、本命はレムコ。この『なぜ心が動くか』を知ると観戦が一気に面白くなる。",
+        "sources": [
+          {
+            "t": "Domestique Cycling（ロンバルディア）",
+            "u": "https://www.domestiquecycling.com/en/news/no-pogacar-a-circuit-finale-and-a-team-presentation-whats-new-at-il-lombardia-in-2026/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝10/10開催・コース。観戦の読み方は一般的な解説。"
+      }
+    ]
+  },
+  {
     "date": "2026-10-06",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。秋のイタリア・クラシック週間が本番です——昨日ベルノッキ、本日トレ・ヴァッリ、週末はロンバルディア＆グラベル世界選。移籍はガンナ電撃説でXが騒然（※要裏取り）。",
     "cards": [
