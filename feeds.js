@@ -1,5 +1,241 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-08",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。今週末は10/10ロンバルディア＆グラベル世界選のダブルヘッダー、そして10/7はポガチャル不在の母国でログリッチが『虹』ならぬ欧州王者に。秋の勢力図と機材ルールが同時に動いています。",
+    "cards": [
+      {
+        "id": "20261008-lombardia-startlist",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/SgADNE4s3sfYECFu2YKPij-1500-80.png",
+        "headline": "【🔥今日の一本・レース／今週末10/10決戦】ロンバルディア出走リスト固まる——ポガチャル不在でUAEは『デルトロ＆マクナルティ』二枚看板、本命レムコ、新フィナーレはサンフェルモ2回＋チヴィリオ",
+        "layer1": "季節最後のモニュメント、第120回ロンバルディアは10/10ベルガモ→コモ。5連覇のポガチャルは8月ブエルタ落車で年内終了＝欠場、出走リストが出そろった。",
+        "layer2": "新フィナーレはコモ周回約22km——旧市街の『サンフェルモ』(2.7km/7.2%)を越えて一度フィニッシュ線を通過し、難関『チヴィリオ』(4.2km/9.7%)を上ってから再びサンフェルモ、下り約5kmでゴール。手前には『ギザッロ』(8.6km/9〜14%・残り61km)。UAEはデルトロ＋世界王者マクナルティ＋アダム・イェーツらで層が厚く、対するはレムコ(レッドブル)、20歳セイシャス、ピドコック、地元チッコーネ。『本命不在』というより『群雄割拠』。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（出走リスト）",
+            "u": "https://cyclinguptodate.com/cycling/startlist-il-lombardia-2026-riders-evenepoel-del-toro-seixas-pidcock-mcnulty-jorgenson-mas-martinez-and-more",
+            "d": "2026-10-07"
+          },
+          {
+            "t": "Cyclingnews（コース/新フィナーレ）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/il-lombardia-2026-route-to-include-double-ascent-of-crunch-san-fermo-della-battaglia-climb/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝10/10開催・ポガチャル欠場・サンフェルモ2回の新フィナーレ／曖昧＝最終出走は前日まで変動（暫定リスト・媒体により人数差）"
+      },
+      {
+        "id": "20261008-roglic-euro-itt",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-10%2Fcaptura-de-ecra-2026-10-07-162447-6ac6644b7bcb1.png",
+        "headline": "【レース・人間ドラマ／10/7決着】ログリッチが『母国で初の欧州王者』——ポガチャル不在のスロベニアをTTで救う、36歳が21.8kmを28分16秒",
+        "layer1": "10/7リュブリャナの欧州選手権・男子エリート個人TTで、プリモシュ・ログリッチが28:16.061、2位アルミライユに7.13秒差をつけ『初の欧州タイトル』。",
+        "layer2": "スロベニアは負傷のポガチャル（8月ブエルタ落車で年内終了）抜きで母国開催を迎え、重圧は36歳ログリッチへ。3位はデコンブル(+29秒)、僅差でヴァン・ウィルダー4位、キュング5位。ロードは10/4にレムコが制しており、スロベニアはTTで『地元の意地』を見せた。長年GTで勝ってきた名手が“欧州の虹”だけ持っていなかった、という物語の決着でもある。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（ITT結果）",
+            "u": "https://cyclinguptodate.com/cycling/results-european-championships-2026-elite-mens-time-trial-primoz-roglic-does-it-slovenian-legend-wins-first-european-title-on-home-roads",
+            "d": "2026-10-07"
+          }
+        ],
+        "status": "確定＝ログリッチ優勝・7.13秒差・初欧州TTタイトル／曖昧＝コース距離の表記差（21.8 vs 22.1km）。※公式UEC確定値待ち"
+      },
+      {
+        "id": "20261008-gravel-worlds-men",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/vczz4mjRzZDWb9GT2aYWy3-2000-80.jpg",
+        "headline": "【レース・グラベル／今週末10/11本番】グラベル世界選、豪ナナップで『欧州外・初開催』——連覇狙うフェルメルシュ、男子は140.7km・3,625m、未舗装80%超の総力戦",
+        "layer1": "UCIグラベル世界選は10/10-11、西豪州ナナップで史上初の欧州外開催。男子エリートは10/11(日)140.7km・獲得3,625m。",
+        "layer2": "昨年王者フェルメルシュ（2025はコルナゴG4-X・40mmタイヤで優勝）が連覇に挑む。コースはUCIシリーズ戦『SEVEN Gravel Race』と同じで80%超が未舗装、最後の頂上はゴール3.5km手前——『大きなタイム差が出る』展開を関係者も予想。ファンデルプールの出走は噂レベルで未確定、確認できる強豪はビアーズ、スウェンソン、シュミットら。",
+        "sources": [
+          {
+            "t": "Cyclingnews（フェルメルシュ連覇）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/i-expect-a-very-hard-race-with-big-time-gaps-a-uci-gravel-world-championships-title-defence-for-florian-vermeersch-in-nannup/",
+            "d": "2026-10"
+          },
+          {
+            "t": "Escape Collective（欧州外初）",
+            "u": "https://escapecollective.com/marianne-vos-confirmed-for-gravel-worlds-in-australia/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝10/11開催・欧州外初・フェルメルシュ連覇挑戦・未舗装80%超／曖昧＝ファンデルプール出走（※Xでも噂、要裏取り）"
+      },
+      {
+        "id": "20261008-gravel-worlds-vos",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://bicyclingaustralia.com.au/wp-content/uploads/2025/07/20250727TDFFAZ2-156-scaled.jpg",
+        "headline": "【トレンド・グラベル／人間ドラマ】ヴォスが『史上初の2度目グラベル虹』に挑む——女子は10/10・123.1km、昨年マーストリヒトでウィベスにスプリント負けの雪辱戦",
+        "layer1": "女子エリートは10/10(土)123.1km・獲得3,100m。14回の世界王者マリアンヌ・ヴォスが、史上初の『グラベル世界選2勝目』を狙う。",
+        "layer2": "ヴォスは2024年の初代女王→2025年はマーストリヒトでウィベスにスプリントで敗れ2位（3位ペルシコ）。この種目はまだ誰も複数回勝っておらず、ヴォスが『最初の2冠』になれるか。今年の豪ナナップ参戦は表明済み、ゴメス=ビジャファニェらも出走予定。2025女王ウィベスが豪州まで来て防衛するかは未確定で、来れば“スプリント対パンチャー”の再戦になる。",
+        "sources": [
+          {
+            "t": "Cyclingnews（歴代王者）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/uci-gravel-world-championships-winners-from-the-first-four-editions/",
+            "d": "2026-10"
+          },
+          {
+            "t": "tour-magazin（2025女子結果）",
+            "u": "https://www.tour-magazin.de/en/professional-cycling/day-race/gravel-world-championship-2025-women-wiebes-sprints-into-the-rainbow-jersey/",
+            "d": "2025-10"
+          }
+        ],
+        "status": "確定＝ヴォス参戦・2024初代女王・2025は2位／曖昧＝ウィベス出走可否と最終startlist（※要裏取り）"
+      },
+      {
+        "id": "20261008-enve-ses67pro",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/8jYGRCTEksXJEMY32TkBjc-2560-80.jpg",
+        "headline": "【ホイール・新製品／機材読み】エンヴェがポガチャルの『勝ちホイール』SES 6.7 Proを正式発売——UCIの“リム65mm上限”で59/65mmに再設計、1,495g・約70万円",
+        "layer1": "エンヴェが2026シーズンを通じ実戦投入してきたSES 6.7 Proを正式発売（10/2頃）。ポガチャルがミラノ〜サンレモやストラーデ・ビアンケを勝ったホイール。",
+        "layer2": "旧型は前60/後66mmだったが、2026/1/1施行のUCI『リム深さ最大65mm』規制に対応し、前59mm/後65mmへ。内寸はどちらも22.5mm（28mmタイヤ最適・チューブレス専用）、重量1,495g（バルブ・テープ込）、価格は£4,000/$3,750/€4,600（約70万円前後）。空力はサイモン・スマート、UAEと共同開発で、ハブは60g軽量化。『プロの決戦機材がそのまま市販化』の典型。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/enve-officially-releases-tadej-pogacars-monument-winning-wheelset/",
+            "d": "2026-10-02"
+          },
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/enve-ses-6-7-pro-wheels-tadej-pogacar",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝発売・前59/後65mm・内寸22.5mm・1,495g・£4,000/$3,750/€4,600／曖昧＝なし"
+      },
+      {
+        "id": "20261008-uci-rim-65mm",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/ead6a207-9ac0-4083-aab7-34a963096fd9/thumbnails/5b0739c0-728f-4474-a5d3-cca5505014c1.jpg?appId=32337f2f-7841-4ef6-a233-d1f001580530&platform=WEB&w=1200",
+        "headline": "【パーツ・機材読み】2026年の“隠れた主役”は『リム深さ65mm上限』ルール——エンヴェも各社も深リムを作り替え、“とにかく深く”の時代が終わる",
+        "layer1": "UCIは2026/1/1から車輪のリム深さを最大65mmに制限。これがプロ機材のディープリム競争に歯止めをかけている。",
+        "layer2": "実例がエンヴェSES 6.7 Pro——旧型の前60/後66mmは後輪が規制超過になり、前59/後65mmへ再設計された。各社も“UCI適合の最深”を狙ってリム形状を見直す流れ。狙いは安全（横風・ハンドリング）と行き過ぎたエアロ競争の抑制。ホビーには直接の規制適用はないが、『深ければ速い』の単純化が見直され、内寸ワイド化×中深（40〜50mm）が主流化する追い風になっている。",
+        "sources": [
+          {
+            "t": "BikeRadar（65mmルール言及）",
+            "u": "https://www.bikeradar.com/news/enve-ses-6-7-pro-wheels-tadej-pogacar",
+            "d": "2026-10"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/enve-officially-releases-tadej-pogacars-monument-winning-wheelset/",
+            "d": "2026-10-02"
+          }
+        ],
+        "status": "確定＝65mm上限は2026/1/1施行・エンヴェが再設計／曖昧＝各社の個別対応は順次（※全ブランド横断の裏取りは継続）"
+      },
+      {
+        "id": "20261008-market-premium-chinese",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png",
+        "headline": "【経営メモ・市場】大手ホイールが『約70万円』のプレミアム帯へ——UCIルール改定も重なり買い替え機運、受け皿はWinspace/Elitewheels/YOELEO",
+        "layer1": "エンヴェの新フラッグシップが£4,000/€4,600（約70万円前後）。純正・大手の高級ホイールは年々プレミアム化し、65mmルール対応という“買い替え理由”も加わった。",
+        "layer2": "経営メモ——客の財布は二極化。『最新大手ホイールに数十万』の層と、『同等スペックを中華カーボンで』の層。2026年の中華まとめでもWinspace・Elitewheels・YOELEO・Farsports等が設計・試験・コスパで信頼を獲得し“もう中華枠ではない”評価が定着。店頭は『大手の保証・乗り味』と『中華のコスパ』を並べて見せ、ルール改定や世代更新を“買い替え動機”として接客の軸に据えるのが効く。",
+        "sources": [
+          {
+            "t": "BikeRadar（大手価格）",
+            "u": "https://www.bikeradar.com/news/enve-ses-6-7-pro-wheels-tadej-pogacar",
+            "d": "2026-10"
+          },
+          {
+            "t": "Velofanatics（2026中華まとめ）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝大手の価格帯・中華の評価上昇／曖昧＝国内実売価格は為替・入荷で変動（※個別価格は要裏取り）"
+      },
+      {
+        "id": "20261008-market-x-winker",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://lovecyclist.me/wp-content/uploads/2026/08/gear-and-topics-summer2026_ogp.jpeg",
+        "headline": "【経営メモ・市場／Xで論争】『ロードにウインカー・ミラー義務化を』の声がXで拡大——青切符時代の“安全用品需要”を来店動機に変える",
+        "layer1": "10/6-7にかけ、Xで自転車の危険走行・マナー論争が再燃。カーブでの急接近動画をきっかけに『ウインカー・ブレーキランプ・ミラーの装備義務化』『速度20km/h制限を』といった声が拡散した。",
+        "layer2": "自転車側は『法律どおりの位置取りだった』と反論し、双方が対立。法制化は決まっておらず“SNS上の提案”段階だが、4月の青切符導入以降『安全・視認性』への関心は確実に高い。経営メモ——後方レーダー、大光量リア/フロントライト、ミラー、反射ウェアは“今だから売れる”安全用品。論争を煽らず『身を守る実装』として接客に落とすのが得策で、青切符の話題とセットで提案すると刺さる。",
+        "sources": [
+          {
+            "t": "Yahoo!リアルタイム検索（バズまとめ）",
+            "u": "https://search.yahoo.co.jp/realtime/search/matome/0267bd409e434b7282b97eae4376c71b-1791343800",
+            "d": "2026-10-07"
+          },
+          {
+            "t": "LOVE CYCLIST（話題整理）",
+            "u": "https://lovecyclist.me/summer2026-topics/",
+            "d": "2026-08"
+          }
+        ],
+        "status": "曖昧＝義務化は提案段階・個別動画/発言は未確認（※Xで話題、要裏取り）／確定＝関心の高まりと論争の存在"
+      },
+      {
+        "id": "20261008-beginner-climb-sequence",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/R29LbPbATDrqzsc8TEGrsd-852-80.png",
+        "headline": "【初中級・観戦＆走りの理屈】ロンバルディア終盤の『登り連打』を読む——ギザッロ→チヴィリオ→サンフェルモ、垂れずに最後へ残す3つ",
+        "layer1": "10/10ロンバルディアは終盤にギザッロ(8.6km)、チヴィリオ(4.2km/9.7%)、サンフェルモ(2.7km/7.2%)×2が連続。短い急坂が勝負を決める。",
+        "layer2": "週末のグループライドにも効く3つ——①最初の長い登り（ギザッロ）は“踏み過ぎない”、心拍を上限手前で管理。②下りと平坦で必ず回復（補給・ケイデンスを戻す）。③最後の短い急坂（サンフェルモ級）でだけ出し切る。“垂れる人”はたいてい序盤で使い切っている。プロの攻撃が早いのは回復力が別次元だから——アマは『最後に残す』が正解。",
+        "sources": [
+          {
+            "t": "Cyclingnews（コース/勾配）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/il-lombardia-2026-route-to-include-double-ascent-of-crunch-san-fermo-della-battaglia-climb/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝コースの登り配置・勾配／理屈＝一般的なペース配分・回復の原則"
+      },
+      {
+        "id": "20261008-beginner-rim-depth",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://pricey-prod-owned-media.s3.ap-northeast-1.amazonaws.com/hub-page-main-visual-images/article_3501.webp",
+        "headline": "【初中級・機材の理屈】『リム深さ65mm』ってホビーに関係ある?——初めてのホイールは“深さより内寸と用途”、中華を選ぶなら3点",
+        "layer1": "プロ機材で話題のUCI65mm上限は“レース規制”で、ホビーのホイールに直接は関係ない。でも『深い＝速い』の思い込みは初心者ほど危ない。",
+        "layer2": "深リム（60mm〜）は平坦エアロは効くが横風とハンドリングで扱いづらい。初めての1本は35〜50mmの中深が無難——登り・横風・街乗りまで万能にこなす。内寸は23mm前後が今の主流で、28〜30mmタイヤと好相性。中華カーボンを選ぶなら『①個体差の当たり外れ ②国内保証・問い合わせ対応 ③振れ取り/スポーク供給』の3点を外さないこと。",
+        "sources": [
+          {
+            "t": "BikeRadar（65mmルール）",
+            "u": "https://www.bikeradar.com/news/enve-ses-6-7-pro-wheels-tadej-pogacar",
+            "d": "2026-10"
+          },
+          {
+            "t": "Velofanatics（2026中華まとめ）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝65mmはレース規制・内寸23mmが主流／理屈＝初心者向けの一般指針"
+      }
+    ]
+  },
+  {
     "date": "2026-10-07",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。秋のイタリア三連戦（ベルノッキ→本日の主役はトレ・ヴァッリ）が決着し、20歳ウィダルが『プロ初勝利』でピドコックを再び退けました。週末は10/10ロンバルディア＆10/10-11グラベル世界選（豪ナナップ）の二本立て。移籍・引退のドラマも動いています。",
     "cards": [
