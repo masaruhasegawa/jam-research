@@ -1,5 +1,285 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-09",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。今週末は『グラベル世界選→ロンバルディア』、来週はジャパンカップ——10月は3週連続のお祭りです。ポガチャル不在で6年ぶりの新王者が確定、前哨ではゴドンが勝ち、モレマは引退レースへ。機材はジャイアントの“自己発電ペダル”特許が熱いです。",
+    "cards": [
+      {
+        "id": "20261009-lombardia-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2025-10%2Fremco-evenepoel-tadej-pogacar-michael-storer-68ee4041976d7.jpg",
+        "headline": "【🔥今日の一本・レース／今週末10/10決戦】イル・ロンバルディア、ポガチャル不在で『6年ぶりに新王者確定』——本命レムコ＆デルトロが5つ星、唯一の元優勝者モレマは引退レース、239km・獲得4800m",
+        "layer1": "今季最後のモニュメント「落ち葉のクラシック」は10/10（土）、ベルガモ→コモの239km・獲得4800m（第120回）。5連覇のポガチャルがブエルタ落車の負傷で欠場し、2026年は『必ず新しい勝者』が生まれる一戦になる。",
+        "layer2": "Escape Collectiveの5つ星採点は欧州王者レムコ・エヴェネプール（2年連続2位）とデルトロが満点、次いでセイシャス＆ピドコック（4つ星）、チッコーネ／世界王者マクナルティ（初モニュメント）／ヒーリーが3つ星。ただしデルトロはモントリオール世界選後の『膝痛＋時差ボケ』を抱えると報じられ本調子かは不透明。出走は全18ワールドチーム＋7プロチームの計25チーム。",
+        "sources": [
+          {
+            "t": "Escape Collective（プレビュー）",
+            "u": "https://escapecollective.com/2026-il-lombardia-preview/",
+            "d": "2026-10-07"
+          },
+          {
+            "t": "Cyclinguptodate（プレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/il-lombardia-2026-preview-profile-favourites-predictions-who-will-win-after-5-years-of-tadej-pogacar-dominance",
+            "d": "2026-10"
+          },
+          {
+            "t": "Velo（チートシート）",
+            "u": "https://velo.outsideonline.com/road/road-racing/il-lombardia-2026-cheat-sheet-route-favorites-how-to-watch/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝10/10開催・ポガチャル欠場・239km/4800m・25チーム／曖昧＝勝者予想（レムコ本命も不確実）、デルトロの体調は※要観察（プレビュー段階の報道）"
+      },
+      {
+        "id": "20261009-gran-piemonte",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-09%2Fnlb-207012088-6aa7b1011f06e.jpg",
+        "headline": "【レース／10/8決着】前哨グラン・ピエモンテはゴドンが『スプリント』で優勝——連覇狙うデルトロ＆フィッシャー=ブラックの逃げを残り1.5kmで吸収",
+        "layer1": "ロンバルディア2日前の前哨、第110回グラン・ピエモンテ（アスティ→ブラ、185km）は10/8、ドリアン・ゴドン（ネットカンパニー・イネオス＝旧イネオス）がブラでのスプリントを制した。",
+        "layer2": "昨年覇者デルトロ（UAE）はフィン・フィッシャー=ブラックと終盤に抜け出したが、残り1.5kmで集団に飲み込まれ、パンチャー向きの登り基調ゴールでゴドンが差し切った。デルトロはこの消耗を抱えたまま10/10ロンバルディアへ向かう。",
+        "sources": [
+          {
+            "t": "Domestique Cycling（結果）",
+            "u": "https://www.domestiquecycling.com/en/cycling-races/gran-piemonte/2026/",
+            "d": "2026-10-08"
+          },
+          {
+            "t": "Cyclinguptodate（プレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/gran-piemonte-2026-preview-profile-favourites-predictions",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝10/8・ゴドン優勝・デルトロら逃げを残り1.5kmで吸収／曖昧＝トップ5の正確な順位は媒体で未確定、※詳細リザルトは要確認"
+      },
+      {
+        "id": "20261009-mollema-farewell",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://www.tuttobiciweb.it/article/1770124029/photo-social.jpg?552523780",
+        "headline": "【レース・人間ドラマ／10/10が最後】39歳モレマ、現役ラストレースはロンバルディア——出走者で『唯一の元優勝者』、2019年に初モニュメントを掴んだ地で幕を閉じる",
+        "layer1": "リドル・トレックのバウケ・モレマ（39）が今季限りで引退。最後のレースに選んだのは、2019年に自身初のモニュメント制覇を果たしたイル・ロンバルディア（10/10）だ。",
+        "layer2": "モレマは2026年2月に引退を表明し「体力的にも精神的にも年々きつくなった」と語っていた。今年の出走スタートリストで『過去のロンバルディア優勝者』は彼ただ一人。2019年は243kmを制し、11回目の挑戦でモニュメント初勝利を掴んだ——その思い出の地で、年末に40歳を迎える前に区切りをつける。",
+        "sources": [
+          {
+            "t": "Tuttobiciweb（引退表明）",
+            "u": "https://www.tuttobiciweb.it/article/2026/02/03/1770124029/mollema-lidl-trek-retirement?lang=en",
+            "d": "2026-02-03"
+          },
+          {
+            "t": "Domestique Cycling（スタートリスト）",
+            "u": "https://www.domestiquecycling.com/en/cycling-races/gran-piemonte/2026/",
+            "d": "2026-10-08"
+          }
+        ],
+        "status": "確定＝今季引退・ラストはロンバルディア・唯一の元優勝者・2019年覇者／曖昧＝（結果は10/10）"
+      },
+      {
+        "id": "20261009-gravel-worlds-nannup",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-10%2Fmarianne-vos-2-6ac4a9e43a56f.jpg",
+        "headline": "【トレンド・グラベル／今週末本番】グラベル世界選、豪ナナップで『欧州外・初開催』——女子10/10はフォスが本命級、男子10/11は王者フェルメルシュ防衛、ただしWT勢は実質3人だけ",
+        "layer1": "UCIグラベル世界選が10/10（女子）・10/11（男子）、西豪州ナナップで史上初めて欧州の外で開催される。未舗装率は過去最高の80%超だ。",
+        "layer2": "女子（約125.6km・獲得3,179m）は2024年女王マリアンヌ・フォス（蘭）が本命級、昨年女王ヴィーベスは不参加で混戦。男子（140.7km・獲得3,625m）は王者フェルメルシュがUAEから『自費参加』で連覇に挑むが、長距離遠征が響きワールドツアー勢はデウルフ（デカトロン）とスウィフト（イネオス）を含め実質3人のみ。地元豪州やグラベル専業勢の存在感が増す一戦になる。",
+        "sources": [
+          {
+            "t": "IDL ProCycling（出走分析）",
+            "u": "https://www.idlprocycling.com/gravel/2026-gravel-world-championships-participants-marianne-vos-in-the-womens-race-only-3-worldtour-riders-in-the-mens-race",
+            "d": "2026-10-07"
+          },
+          {
+            "t": "Cyclingnews（コース）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/uci-gravel-world-championships-2026-route/",
+            "d": "2026-10"
+          },
+          {
+            "t": "Rouleur（プレビュー）",
+            "u": "https://www.rouleur.cc/racing/gravel-world-championships-2026-preview",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝欧州外初・未舗装80%超・コース距離／曖昧＝最終出走は暫定、女子/男子の開催日は媒体により10-11日で揺れ（※要最終確認）"
+      },
+      {
+        "id": "20261009-giant-selfcharge-pedal",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/cTkpESVjhTxDsdgbM6Dba3-1920-80.jpg",
+        "headline": "【パーツ・機材リーク／10月】ジャイアントが『自己発電パワーメーターペダル』を特許出願——漕ぐだけで充電、電池交換・充電ケーブルから解放",
+        "layer1": "ジャイアントが米国で「自己発電式パワーメーター」ペダルの特許を出願した（2026年10月初旬報道）。ペダリングで内部の発電機を回し、センサー駆動と蓄電を同時にまかなう仕組みだ。",
+        "layer2": "現行パワメの弱点は、コイン電池の交換（防水の穴になりやすい）や充電式の『取り外して充電』の手間。ジャイアントは出願書で「電池の交換・取り外しはライダーに不便」と主張する。ただし特許＝製品化ではなく、発売時期は不明。シマノも過去にペダル用の圧電発電を出願しており、各社が“電池レス化”を狙う流れが見える。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/products/frequently-changing-or-removing-the-battery-is-inconvenient-to-the-rider-giant-bicycles-files-patent-for-self-charging-power-meter",
+            "d": "2026-10"
+          },
+          {
+            "t": "Yahoo Sports",
+            "u": "https://sports.yahoo.com/articles/giant-bicycles-files-patent-self-094723558.html",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝特許出願の事実と仕組み／曖昧＝製品化・発売時期は未定（※要続報）"
+      },
+      {
+        "id": "20261009-aokippu-danger-x",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i7Arjbp83UXbL2m0nf5umlhIG0sJB53oUJr--HnuTQ3lVpmjgnOOX_eAawfSO6f6LySfSwX85zf1T-8y7v4yLdzsZ_n3x-XFRUXAkMIrtWmpypKsP9QjR75_FwwW3ENKK5n3dA_LU_lGciyebwz0OviP-aPrUs9iHFcYJK0hlVenr96WaEspcuG3iIJsTghzChbG_atYjzcCcUgU50PzpHySwmbuiOSxJKUSRh1srcHwg==",
+        "headline": "【経営メモ・市場／Xで論争】『自転車の危険運転』議論がまた再燃——車道すり抜け・後方確認不足の動画が拡散、青切符時代の“安全装備需要”を来店動機に",
+        "layer1": "10/7前後、Xとまとめサイトで「ロードバイクの危険運転」をめぐる論争が再燃。車道でのすり抜け・後方確認不足・歩道横断などのマナー批判と、車側の幅寄せ動画（道志みち等）が相互に拡散した。",
+        "layer2": "背景には2026年4月に始まった自転車の青切符（16歳以上・約113種の違反に反則金、導入1か月で2,147件・最多は一時停止違反）。X発の“炎上”は出所・規模が玉石混交で断定は禁物だが、店側の実利は明確＝ミラー・後方レーダー・ウインカー型テール・ヘルメットといった『安全装備』の提案が来店・客単価に直結する。煽らず「安全に楽しむための装備」として自然に並べたい。",
+        "sources": [
+          {
+            "t": "Yahoo!リアルタイム検索（バズまとめ）",
+            "u": "https://search.yahoo.co.jp/realtime/search/matome/0267bd409e434b7282b97eae4376c71b-1791343800",
+            "d": "2026-10-07"
+          },
+          {
+            "t": "JAF Mate（青切符 導入1か月データ）",
+            "u": "https://jafmate.jp/car/traffic_topics_20260520_1199203.html",
+            "d": "2026-05"
+          }
+        ],
+        "status": "※Xで話題・一部要裏取り（個別動画の真偽・炎上規模は未確認）／確定＝青切符制度と初月2,147件（警察庁公表）"
+      },
+      {
+        "id": "20261009-used-market-shift",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://journal.buychari.com/wp-content/uploads/2024/05/DSC_0202-%E3%82%A2%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81-3.jpg",
+        "headline": "【経営メモ・市場】新品高止まりで『中古シフト』が鮮明——10〜11月の型落ちと重なり在庫が動く、買取は新品の10〜40%、店の武器は“整備・保証つき”",
+        "layer1": "2026年版の解説では、定価は高止まりの一方で実売は下落し、在庫が潤沢化して型落ちの値下がりが顕著に。『断然中古が狙い目』とする特集も増え、新品の受け皿として中古市場が拡大している。",
+        "layer2": "定価が下がらない理由は原材料高・円安・物流費で『定価高止まり×実売下落』の二極化。中古買取は状態次第で新品の10〜40%が目安で、新モデル発表で現行が型落ち化すると査定が一気に下がる（＝売るなら早め）。中古の台頭はショップには脅威でもあり商機でもある——『初期整備・振れ取り・保証つき』で売る安心感が、安い個人売買や中華完成車“全部入り”に対する差別化の核になる。",
+        "sources": [
+          {
+            "t": "サトユキブログ（2026年版・価格下落）",
+            "u": "https://satoyukiblog.com/2026/03/09/2026-road-bike-prices-are-they-actually-dropping/",
+            "d": "2026-03"
+          },
+          {
+            "t": "buychari JOURNAL（中古が狙い目）",
+            "u": "https://journal.buychari.com/how-to-buy-a-road-bike-cheaply/",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝二極化の構図・10-11月が値引き期・買取の目安／曖昧＝値引き率/買取率は店・車種で幅あり（構造トレンドで単発ニュースではない）"
+      },
+      {
+        "id": "20261009-october-race-season",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://bikenewsmag.com/wp-content/uploads/2026/10/pepperminting-benches-560435.jpg",
+        "headline": "【トレンド・観戦ガイド】10月は『3週連続トップレース』の当たり月——グラベル世界選（今週末）→ロンバルディア（10/10）→ジャパンカップ（10/17-18）を一気見",
+        "layer1": "国内メディアも「10月はUCIロードの季節」と特集。今週末のグラベル世界選＆ロンバルディアに続き、来週は宇都宮ジャパンカップ（10/17-18）と、見逃せないレースが3週続く。",
+        "layer2": "流れで見ると面白い：グラベル世界選（豪・未舗装80%超）→落ち葉のクラシック・ロンバルディア（ポガチャル不在で新王者）→ジャパンカップ（ヒーリー、シモンズ、マシューズ、新城ら来日、古賀志の激坂）。季節の節目は機材も入れ替わる時期で、観戦熱は来店・買い替えの最良の動機づけ。店頭POPやSNSで“今夜はこのレース”と一言出すだけでも話題になる。",
+        "sources": [
+          {
+            "t": "CYCLE JAPAN（10月のUCIレース）",
+            "u": "https://cyclejapan.club/japan-uci-races-2026oct",
+            "d": "2026-10"
+          },
+          {
+            "t": "BikeNewMag（終盤6レース）",
+            "u": "https://bikenewsmag.com/2026/10/06/six-races-to-watch-before-the-end-of-2026/",
+            "d": "2026-10-06"
+          }
+        ],
+        "status": "確定＝3週連続の日程・来日選手（ジャパンカップは既報）／曖昧＝各レースの結果は今後"
+      },
+      {
+        "id": "20261009-beginner-classic-watch",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/10/GettyImages-2240431569.jpg",
+        "headline": "【初中級・観戦の理屈】『落ち葉のクラシック』を10倍楽しむ——誰が勝つ? パンチャーとクライマーの見分け方、終盤の登りで何が起きるか",
+        "layer1": "週末のロンバルディア（10/10）はステージレースと違い『一日で全てが決まる』ワンデー・モニュメント。獲得4,800mの大半が序盤に集中し、勝負は終盤の登りに持ち越される。",
+        "layer2": "見どころは脚質の違い。純粋クライマーは長い登りで、パンチャー（短い急坂で爆発する選手）は終盤の“登りスプリント”で強い。ロンバルディアは中盤に大きな登り、フィナーレに短く急な坂が連続する設計なので、『長い登りで絞り、最後の急坂で差す』選手が有利。観戦時は「誰が何kmで動くか」を追うと展開が読める。自分のライドでも、短い坂の反復は“最後に残す”練習になる。",
+        "sources": [
+          {
+            "t": "Velo（チートシート）",
+            "u": "https://velo.outsideonline.com/road/road-racing/il-lombardia-2026-cheat-sheet-route-favorites-how-to-watch/",
+            "d": "2026-10"
+          },
+          {
+            "t": "Escape Collective（プレビュー）",
+            "u": "https://escapecollective.com/2026-il-lombardia-preview/",
+            "d": "2026-10-07"
+          }
+        ],
+        "status": "確定＝ワンデーの構造・終盤勝負の一般原則／曖昧＝（勝者は結果待ち）"
+      },
+      {
+        "id": "20261009-wheel-lombardia-allround",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://assets.st-note.com/production/uploads/images/194484961/rectangle_large_type_2_64023c79e77c594dbd9d74f91fb19fb6.jpeg?fit=bounds&quality=85&width=1280",
+        "headline": "【ホイール・機材読み】ロンバルディアで効くのは『深リム』より軽量オールラウンド——登り主体の消耗戦、中華ミドルハイト（40〜50mm）が狙い目",
+        "layer1": "獲得4,800mを登り基調で消耗するロンバルディアのような一日では、超深リムのエアロより『軽くて登れるオールラウンド』が効く。",
+        "layer2": "平坦高速のエアロ番長（60mm超）は登りで重く、何度も登り返す展開では脚に来る。40〜50mmのミドルハイトなら登坂の軽さと下り・平坦のエアロを両立。ここは中華カーボンが最も得意な価格帯で、エリートホイールDrive II（1,300g級・内寸を21→23mmへワイド化）やワイドリム×カーボンスポーク世代が“純正と同じ土俵”に並ぶ。初めての1本も、用途が『登りもある普段使い』なら深さより軽さと内寸で選ぶのが外さないコツ。",
+        "sources": [
+          {
+            "t": "note（Elitewheels Drive II 実測）",
+            "u": "https://note.com/compo_de_ring/n/n4128a16bc4a8",
+            "d": "2026"
+          },
+          {
+            "t": "Cyclists Hub（中華カーボン比較2026）",
+            "u": "https://www.cyclistshub.com/best-chinese-carbon-wheels/",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝脚質/コースと深さの一般原則・Drive IIの仕様／曖昧＝プロの実使用機材は選手ごと（※個別は要確認）"
+      },
+      {
+        "id": "20261009-beginner-powermeter",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/5325d15f-ec1e-4901-aa3b-67b63bfef7ec/thumbnails/34676117-7e1c-4e72-bb3f-54742aac5f8c.jpeg?appId=32337f2f-7841-4ef6-a233-d1f001580530&platform=WEB&w=1200",
+        "headline": "【初中級・機材の理屈】ジャイアントの『自己発電ペダル』特許で話題——パワーメーターって初中級に要る? 最初の一台での優先順位",
+        "layer1": "ジャイアントの“漕いで充電”ペダル特許（10月報道）や、賞金レースMyWhooshでのパワメ事実上必須化（9月）で、「初中級もパワメ要る?」の声が増えている。",
+        "layer2": "結論は『目的次第』。(1) ただ楽しく走る→不要、心拍計で十分。(2) ヒルクライムやロング、インドアで“数値で”強くなりたい→あると効く（ペースを一定に保て、垂れにくい）。入門は片側計測のペダル/クランクが手頃。注意点は電池運用（コイン電池交換 or 充電）の手間で、まさにそこを各社が“電池レス化”で潰そうとしている段階。最初の一台なら、まず正しいサイズ・タイヤ・ポジションにお金を使い、パワメは“伸ばしたくなってから”で遅くない。",
+        "sources": [
+          {
+            "t": "Cycling Weekly（ジャイアント特許）",
+            "u": "https://www.cyclingweekly.com/products/frequently-changing-or-removing-the-battery-is-inconvenient-to-the-rider-giant-bicycles-files-patent-for-self-charging-power-meter",
+            "d": "2026-10"
+          },
+          {
+            "t": "BikeRadar（パワメ ガイド）",
+            "u": "https://www.bikeradar.com/advice/buyers-guides/best-power-meters",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝話題の出来事・パワメの基本原則／曖昧＝製品化時期は未定、各人の要否は目的次第"
+      }
+    ]
+  },
+  {
     "date": "2026-10-08",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。今週末は10/10ロンバルディア＆グラベル世界選のダブルヘッダー、そして10/7はポガチャル不在の母国でログリッチが『虹』ならぬ欧州王者に。秋の勢力図と機材ルールが同時に動いています。",
     "cards": [
