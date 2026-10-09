@@ -1,5 +1,217 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-10",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。本日はついにロンバルディア決戦——ポガチャル不在で『6年ぶり新王者』が生まれます。豪グラベル世界選も本日女子スタート、地元クロムウェルの引退レース。移籍はベロキのINEOS入りで2027市場が動き出し、ログリッチはTudorが本命に。国内は『安全用品』と『中古の売り時』を経営メモで。",
+    "cards": [
+      {
+        "id": "20261010-lombardia-raceday",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://escapecollective.com/content/images/2026/10/revlombard.jpeg",
+        "headline": "【🔥今日の一本・レース／本日10/10決戦】イル・ロンバルディア、ついに決着の日——ポガチャル不在で『6年ぶり新王者』確定、本命はデルトロ＆新鋭セイシャスに上昇、デルトロは『膝痛おして』出走",
+        "layer1": "今季最後のモニュメント「落ち葉のクラシック」は本日10/10、ベルガモ→コモの239km・獲得4600m（第120回）。5連覇のポガチャルがブエルタ負傷で欠場し、2026年は必ず『新しい勝者』が生まれる。",
+        "layer2": "Cyclinguptodate（10/9）の最新採点はデルトロと仏の新鋭セイシャスが最上位の3つ星、レムコ／チッコーネ／ピドコック／ヨルゲンソンが2つ星。デルトロはモントリオール世界選後の膝痛を抱えつつUAEで出走し、アユーソも急遽追加された。ただしEscape Collective（10/7）はレムコ＆デルトロを満点5つ星とし、媒体で本命評価が割れる＝それだけ『本命不在の大混戦』ということ。",
+        "sources": [
+          {
+            "t": "Cyclinguptodate（プレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/il-lombardia-2026-preview-profile-favourites-predictions-who-will-win-after-5-years-of-tadej-pogacar-dominance",
+            "d": "2026-10-09"
+          },
+          {
+            "t": "Escape Collective（プレビュー）",
+            "u": "https://escapecollective.com/2026-il-lombardia-preview/",
+            "d": "2026-10-07"
+          }
+        ],
+        "status": "確定＝本日10/10開催・ポガチャル欠場・239km/4600m・新王者確定／曖昧＝勝者予想は媒体で割れる（デルトロ・セイシャス vs レムコ）、デルトロの膝は※要観察"
+      },
+      {
+        "id": "20261010-gravel-worlds-women",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.todomountainbike.net/images/articles/2026/favoritos-campeonato-mundo-gravel-2026.jpg",
+        "headline": "【レース・グラベル／本日10/10女子決戦】グラベル世界選、豪ナナップで『欧州外・初開催』——女子125.6km・未舗装84%、連覇ヴィーベスに『2度目の虹』ヴォス、地元クロムウェルは引退レース",
+        "layer1": "UCIグラベル世界選が初めて欧州を離れ、西豪ナナップで開催。女子エリートは本日10/10・125.6km／獲得3179m、84%が未舗装。男子は明日10/11・144km／3713m（85%未舗装）。",
+        "layer2": "本命は昨年女王のヴィーベスと、2度目のグラベル虹を狙うヴォス。地元勢ではナナップの『SEVEN』を3度制したクロムウェルが、この一戦を最後に『引退』、世界シリーズ4勝のフレインも。コースは1〜3km・勾配5〜8%の登りが延々と連打する消耗戦で、最後の頂上はゴール3.5km手前＝垂れずに最後まで残せるかの勝負。",
+        "sources": [
+          {
+            "t": "Bicycling Australia（ガイド）",
+            "u": "https://bicyclingaustralia.com.au/news/uci-gravel-world-championships-your-guide-to-nannup/",
+            "d": "2026-10-08"
+          },
+          {
+            "t": "Cyclingstage（大会情報）",
+            "u": "https://www.cyclingstage.com/gravel-world-championships-2026/",
+            "d": "2026-10"
+          },
+          {
+            "t": "Todomountainbike（プレビュー）",
+            "u": "https://www.todomountainbike.net/en/2026-gravel-world-championships-leave-europe-nannup-will-decide-rainbow-jerseys-more-than-10000-feet-climbing",
+            "d": "2026-10-07"
+          }
+        ],
+        "status": "確定＝本日女子開催・125.6km/3179m/未舗装84%・欧州外初開催・クロムウェル引退／曖昧＝勝者（ヴィーベス・ヴォスら本命も混戦）"
+      },
+      {
+        "id": "20261010-transfers-2027-open",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/watermark:Picture%3A%20Sirotti/width:1920/height:1280/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-08/vueltaaespana2026-markelbeloki-6a8825e01c9a1.jpg@webp",
+        "headline": "【トレンド・移籍／Xでも話題】2027年の移籍市場が本格始動——INEOSが『冬の初補強』にEFの21歳ベロキ、ウェルスフォードはジェイコへ、シェフィールドはUno-Xと『4年契約』",
+        "layer1": "世界選が終わり移籍の発表解禁ラッシュ。INEOSは冬の初補強として、EFエデュケーションの21歳スペイン人クライマー、マルケル・ベロキを獲得した（10/9）。",
+        "layer2": "同じ日に、サム・ウェルスフォードはRed Bullとの契約を破棄してジェイコ・アルウラーへ。マグヌス・シェフィールドはUno-Xと2030年までの4年契約（10/8）、ProチームのMBH Bankはロータ＆バッティステッラをWorldTourから獲得と報じられる。有望株と中堅の玉突きが一気に動き出した。※ベロキ以外の一部は報道段階で未発表。",
+        "sources": [
+          {
+            "t": "Cyclinguptodate（ベロキ移籍）",
+            "u": "https://cyclinguptodate.com/cycling/ineos-confirm-first-transfer-of-its-winter-period-spanish-climber-from-ef-education-easypost-joins-british-team",
+            "d": "2026-10-09"
+          },
+          {
+            "t": "BikeNewsMag（移籍まとめ）",
+            "u": "https://bikenewsmag.com/2026/10/08/magnus-sheffield-joins-uno-x-on-four-year-deal-through-2030-embracing-his-norwegian-roots/",
+            "d": "2026-10-08"
+          }
+        ],
+        "status": "確定＝ベロキのINEOS移籍（公式）／曖昧＝シェフィールド・MBHなど一部は報道ベース※要裏取り"
+      },
+      {
+        "id": "20261010-roglic-tudor",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/Red-Bull-Bora-hansgrohe/CORVOS_00039061-064.jpg?width=832&height=468&format=jpg&crop=8256%2C4644%2C0%2C430",
+        "headline": "【トレンド・移籍・人間ドラマ／Xで騒然】36歳ログリッチの2027、『Tudorが本命』に急浮上——アラフィリップ引退でエース不在、ロット＆ピナレロと三つ巴",
+        "layer1": "去就が長引くログリッチ（グランツール通算5勝）の2027シーズン、スイスのTudor Pro Cyclingが本命に浮上と報じられた。",
+        "layer2": "Tudorは9月にアラフィリップが契約を1年残して引退し、エースが不在に。もう一人の候補だったチッコーネがピナレロQ36.5へ接近したことで、ログリッチが最有力候補に押し上げられた格好。元々はロット・アンテルマルシェが有力で、本人もブエルタ前に交渉を認めていた。※すべて報道・噂の段階で、本人の決定も公式発表もまだ。",
+        "sources": [
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/primoz-roglic-future-takes-new-twist-as-2027-decision-nears/",
+            "d": "2026-10-03"
+          }
+        ],
+        "status": "曖昧＝すべて報道・噂段階（本命Tudorも未確定・本人未発表）※要裏取り"
+      },
+      {
+        "id": "20261010-vanrysel-decathlon",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/10/2026-van-rysel-rcr-xc-hero.png",
+        "headline": "【経営メモ・市場／機材最前線】デカトロンの『Van Rysel』がMTB参入、32インチ×Zippで『15.5W節約』を主張——『全部入り×低価格』の価格破壊がジャンルを越えて拡大",
+        "layer1": "デカトロンの自社ブランドVan Ryselが、XCマウンテンバイク『RCR-XC』で新規参入（10/8）。32インチホイール＋Zippの深リムで、35km/h時に15.5Wの空力節約を公称した。",
+        "layer2": "29インチ比で230g軽量、ワンピースのバー一体ステム、ヴィットリア製タイヤ。市販は来年で『競合より安い可能性』と明言＝デカトロン得意の価格破壊。トレック・スコットも32インチ試作を出すなど『より大径＋エアロ』が最前線になっている。経営目線では、大手の低価格攻勢が中華の『安さ』優位を揺らす構図を、ロード以外のジャンルでも意識しておきたい。※数値はメーカー公称、市販価格・時期は未定。",
+        "sources": [
+          {
+            "t": "road.cc（テックニュース）",
+            "u": "https://road.cc/offroad/tech-news/van-rysel-enters-the-mountain-bike-market-and-yep-the-rcr-xc-features-32-inch-wheels",
+            "d": "2026-10-08"
+          }
+        ],
+        "status": "確定＝RCR-XC発表・32インチ・公称15.5W節約／曖昧＝価格・発売時期は未定、効果は公称値"
+      },
+      {
+        "id": "20261010-helmet-safety-demand",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/10/20260725TDF1035_A.S.O.-Thomas-Maheux-1024x683.jpg",
+        "headline": "【経営メモ・市場／安全用品】ファンバーレが練習中に車と衝突、婚約者PFPが『ヘルメットが命を救った』——日本のヘルメット努力義務＋青切符で『安全用品』を来店動機に",
+        "layer1": "ダイレン・ファンバーレ（Visma）が10/7、オランダ・ティエルで練習中に車と接触。手首骨折＋頭部打撲を負ったが、CTで頭蓋・脊椎に損傷はなし。婚約者のポーリーヌ・フェランプレヴォが「ヘルメットが命を救った」とSNSに投稿した（road.cc 10/8）。",
+        "layer2": "日本は2023年4月から全年齢でヘルメット着用が努力義務、2026年は自転車の青切符運用も重なり、安全意識は高まっている。ヘルメット更新・テールライト・後方レーダーは『事故を自分事に感じた今』が売り時＝来店動機・客単価の柱にできる。※事故の詳しい経緯は非公表で、ヘルメット効果を強調する論調には慎重な声もある（過度に煽らない）。",
+        "sources": [
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/news/van-baarle-helmet-injury",
+            "d": "2026-10-08"
+          }
+        ],
+        "status": "確定＝事故とPFPの発言・CT異常なし／曖昧＝事故の詳細経緯は非公表"
+      },
+      {
+        "id": "20261010-chinese-light-wheels",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png",
+        "headline": "【ホイール・機材読み】本日のロンバルディアは『深リムより軽量オールラウンド』が効く——中華カーボンも1,270g級が標準、Winspace Lún・YOELEO・Elitewheelsの現在地",
+        "layer1": "登り主体の消耗戦ロンバルディア（本日）で効くのは、超深リムより軽量のミドルハイト。中華カーボンもいまこの土俵で純正に迫っている。",
+        "layer2": "専門レビュー（velofanatics）の序列では、Winspace Lún Hyper Light（38/45mm・カーボンスポーク・約1,270g）が登坂志向、Lún MEGA D45（45mm・約1,390g）がオールラウンド1位、YOELEO SAT C60（60mm・約1,490g）が高速向け、Elitewheels Drive Helix（50mm・約1,360g）が万能とされる。『軽さ×ワイド内寸×カーボンスポーク』はもう中華の標準で、うちの8LIEN／CRW／GOOSYNNを薦める時も『深さより軽さ・内寸・用途』で選ぶのが正解。※重量は各社・レビューの公称で個体差あり。",
+        "sources": [
+          {
+            "t": "Escape Collective（本番の性質）",
+            "u": "https://escapecollective.com/2026-il-lombardia-preview/",
+            "d": "2026-10-07"
+          },
+          {
+            "t": "Velofanatics（中華カーボン序列）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026-05"
+          }
+        ],
+        "status": "確定＝本日は登坂主体で軽量オールラウンドが有利／曖昧＝各ホイール重量は公称・レビュー値（※要実測）、序列レビューは商業的関係の明示あり"
+      },
+      {
+        "id": "20261010-lombardia-watch-guide",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://escapecollective.com/content/images/2026/10/3BX1IdRrFJfA0CBDBAA5_240926-015329.png",
+        "headline": "【初中級・観戦の理屈】本日の『落ち葉のクラシック』を10倍楽しむ——ベルガモ→コモ239km、終盤の『登り連打』で誰が・どこで決まるか",
+        "layer1": "本日10/10のロンバルディアは、1日で終わるワンデー・クラシック。ステージレースと違って『今日の脚』がすべてで、終盤の登りで一気に勝負が決まる。",
+        "layer2": "コモ周回でサンフェルモ（2回）やチヴィリオなど短い急坂が連打され、垂れずに最後の登りスプリントまで残せた数人の争いになる。見どころは①誰が最後の登りで仕掛けるか②下りのテクニック③『本命不在』ゆえの読み合い。今週末は本日ロンバルディア＋豪グラベル世界選と、タイプの違う2レースを見比べられるのも面白い。",
+        "sources": [
+          {
+            "t": "Escape Collective（コース・展望）",
+            "u": "https://escapecollective.com/2026-il-lombardia-preview/",
+            "d": "2026-10-07"
+          },
+          {
+            "t": "Cyclinguptodate（プレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/il-lombardia-2026-preview-profile-favourites-predictions-who-will-win-after-5-years-of-tadej-pogacar-dominance",
+            "d": "2026-10-09"
+          }
+        ],
+        "status": "確定＝本日開催・終盤に短い急坂が連打／曖昧＝勝負所は展開次第"
+      },
+      {
+        "id": "20261010-used-bike-autumn",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://charistock.jp/wp-content/uploads/2026/01/aaf9e5ae-5e43-4975-b836-18123801cf0e-1024x683.png",
+        "headline": "【経営メモ・市場／国内】秋は中古が『売り時』で買取額が上振れ——査定例は最高46.7万円・キャニオン36.5万円（9/30〜10/5）、『下取り』を新車商談の入口に",
+        "layer1": "国内の買取比較サイトのデータでは、秋（9〜10月）のサイクリングシーズンで中古需要が増加。直近の査定例（2026/9/30〜10/5）は最高46.7万円、キャニオンで36.5万円など、良質車は高値がついている。",
+        "layer2": "新品が高止まりする今、客は『手持ちを高く売って差額で乗り換え』に動く。店としては買取・下取りを前面に出し、整備・保証つきの中古や型落ちと組み合わせれば、値上げ局面でも乗り換え商談に繋げられる。消費者側の『中古シフト』を、店側は『下取り×乗り換え』の設計で受けるのがコツ。※買取額は車種・状態で大きく振れる、査定例は一例。",
+        "sources": [
+          {
+            "t": "ヒカカク（買取相場）",
+            "u": "https://hikakaku.com/category/all-category/road-bike/",
+            "d": "2026-10-05"
+          },
+          {
+            "t": "charistock（買取まとめ2026）",
+            "u": "https://charistock.jp/matome/2026-roadbike/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝秋は中古需要増・査定例の数字／曖昧＝相場は業者・個体で幅、査定例はあくまで一例"
+      }
+    ]
+  },
+  {
     "date": "2026-10-09",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。今週末は『グラベル世界選→ロンバルディア』、来週はジャパンカップ——10月は3週連続のお祭りです。ポガチャル不在で6年ぶりの新王者が確定、前哨ではゴドンが勝ち、モレマは引退レースへ。機材はジャイアントの“自己発電ペダル”特許が熱いです。",
     "cards": [
