@@ -1,5 +1,334 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-11",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。昨日のロンバルディアは『20歳セイシャスが史上最年少で初モニュメント』——ポガチャル不在の穴から仏の新星が飛び出しました。グラベル世界選は女子フォスが2度目の虹、男子は本日決戦。今季最後の大ワンデー『パリ〜トゥール』も本日です。移籍はチッコーネがリドルを飛び出しピドコックの元へ、ログリッチは引退を匂わせ。国内は『安全用品需要』『型落ち底値』『中華の買い手基準』を経営メモで。",
+    "cards": [
+      {
+        "id": "20261011-lombardia-seixas",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://pezcyclingnews.com/wp-content/uploads/2026/10/lombardia26-seixas-solo-1200.jpg",
+        "headline": "【🔥今日の一本・レース／10/10決着】イル・ロンバルディア、20歳ポール・セイシャスが『史上最年少』で初モニュメント——残り19kmチヴィリオで独走、マス＋48秒・チッコーネ3位",
+        "layer1": "今季最後のモニュメント『落ち葉のクラシック』（第120回・ベルガモ→コモ239km）は、Decathlon-CMA CGMの20歳セイシャスがチヴィリオの登りで単騎抜け出し、そのまま独走でコモへ。5連覇していたポガチャルが負傷欠場で生まれた『6年ぶりの新王者』は、フランスの新星だった。",
+        "layer2": "2位はエンリク・マスで＋48秒、3位は地元イタリアのジュリオ・チッコーネ（約＋1分）。セイシャスは『このレース史上最年少優勝』で、男子モニュメント全体でも歴代4番目の若さと報じられる。前日・前々日のブロックで本命候補に挙げていた上がり調子の若手が、そのまま戴冠した形。確定しているのは優勝者と表彰台の順。タイム差は媒体により端数が異なるので『約』で把握を。",
+        "sources": [
+          {
+            "t": "PezCyclingNews",
+            "u": "https://pezcyclingnews.com/racing/il-lombardia-2026-paul-seixas-wins/",
+            "d": "2026-10-10"
+          },
+          {
+            "t": "Cyclingnews（Race report）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/il-lombardia-paul-seixas-puts-in-stunning-solo-ride-to-claim-first-monument/",
+            "d": "2026-10-10"
+          },
+          {
+            "t": "FloBikes（結果）",
+            "u": "https://www.flobikes.com/articles/16237173-who-won-il-lombardia-2026-results-here",
+            "d": "2026-10-10"
+          }
+        ],
+        "status": "確定＝優勝セイシャス・2位マス（約＋48秒）・3位チッコーネ／開催は10/10（土）・239km。曖昧＝正確なタイム差は媒体差あり、『史上最年少』は複数媒体表記で1次リザルト確認が望ましい。"
+      },
+      {
+        "id": "20261011-gravel-worlds",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/ZyE9qz6ynNWV5qvKXSACBj-2400-80.jpg",
+        "headline": "【レース・グラベル／女子10/10決着・男子は本日10/11】グラベル世界選、フォスが『2度目の虹』——残り4kmで独走、クローザーは終盤落車も2位、地元クロムウェルは現役ラストで8位",
+        "layer1": "豪ナナップの泥コースで行われた女子エリートは、マリアンヌ・フォス（蘭）が残り4km手前で仕掛けて優勝、2度目のグラベル世界王者に。追ったローザ・クローザー（独）はゴール前で落車するも乗り直して2位（＋27秒）、3位はハルトッホ（蘭・＋2:15）。男子エリートは本日10/11に実施される。",
+        "layer2": "地元オーストラリアのティファニー・クロムウェルは序盤から積極的に動き8位でフィニッシュ——これが『現役最後のレース』だった。男子は連覇していたフェルメルシュが今年は不在で、ここでも新王者が生まれる構図。欧州外・初開催の世界選は泥×未舗装の消耗戦になり、『脚より機材選択とライン取り』が明暗を分けた。本日の男子結果は未確定。",
+        "sources": [
+          {
+            "t": "Cyclingnews（女子ライブ）",
+            "u": "https://www.cyclingnews.com/pro-cycling/live/uci-gravel-world-championships-2026-elite-women-live-star-names-descend-on-nannup-australia-to-battle-for-rainbows/",
+            "d": "2026-10-10"
+          },
+          {
+            "t": "Velo（Outside）",
+            "u": "https://velo.outsideonline.com/gravel/gravel-racing/marianne-vos-gravel-world-championships-2026-results/",
+            "d": "2026-10-10"
+          },
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/gravel/marianne-vos-wins-gravel-world-championships-as-rosa-kloser-crashes",
+            "d": "2026-10-10"
+          }
+        ],
+        "status": "確定＝女子フォス優勝・クローザー2位（＋27秒）・ハルトッホ3位・クロムウェル8位で引退／男子は本日10/11開催（結果は未確定）。"
+      },
+      {
+        "id": "20261011-paris-tours",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-07%2Ftourdefrance2026-jasperphilipsen-2-6a61006434bc3.jpg",
+        "headline": "【レース／本日10/11決戦】パリ〜トゥール、今季『最後の大ワンデー』——シャルトル→トゥール216.5km、ぶどう畑の未舗装10セクター、連覇狙うトレンティン",
+        "layer1": "ロンバルディアの翌日に行われるパリ〜トゥールは、シーズンを締める最後のビッグクラシック。216.5km（シャルトル→トゥール）に未舗装10セクター計約11kmを織り込み、ぶどう畑の丘で決着する『スプリンター泣かせの地形』だ。",
+        "layer2": "昨年覇者はマッテオ・トレンティン（Tudor）。集団スプリント候補にフィリプセン・メルリール・デ・リー・ゴドン・ラポルト・ヴェーレンスコル、逃げ／攻撃型にグレゴワール・ハーゲネス・シーハンらの名前。未舗装区間で集団が割れると『純スプリンターより、登れて踏めるパンチャー』へ展開が傾きやすい。モニュメント翌日で脚の残量も鍵になる。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（プレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/paris-tours-2026-preview-profile-favourites-predictions-who-wins-the-final-big-classic-of-the-year",
+            "d": "2026-10-09"
+          },
+          {
+            "t": "idlprocycling（プレビュー）",
+            "u": "https://www.idlprocycling.com/cycling/paris-tours-2026-preview-sprinters-take-on-a-gravel-battle-among-the-vineyards",
+            "d": "2026-10-08"
+          }
+        ],
+        "status": "確定＝本日10/11開催・216.5km・未舗装10セクター（計約11km）・連覇狙いトレンティン／本命は展開次第（結果は未確定）。出走リストは直前変更あり。"
+      },
+      {
+        "id": "20261011-transfers-ciccone-roglic",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-09%2Fgiulio-ciccone-6abcd01dc177f.jpg",
+        "headline": "【トレンド・移籍／人間ドラマ・Xで騒然】チッコーネが2029年までの契約を破棄、ピドコックのPinarello-Q36.5へ——ロンバルディアが古巣最後、ログリッチは『引退』を匂わせ",
+        "layer1": "ロンバルディア3位のチッコーネが、2029年まで残っていたリドル・トレックとの契約を正式に解除。報道ではピドコックの率いるPinarello-Q36.5と合意とされ（チームの正式発表はまだ）、ロンバルディアが『古巣での最後のレース』だった。玉突きで、空く枠にガンナ移籍の観測も出ている。",
+        "layer2": "同じ移籍窓ではベロキ（→INEOS）、ウェルスフォード（→ジェイコ）、ヘイター（→Pinarello-Q36.5）、シェフィールド（→Uno-X）が動く。さらに36歳ログリッチが『次に何をするかまだ合意していない』と語り、引退の可能性までちらつかせた。『契約途中破棄』『大物の去就』はXでも賛否が割れる話題で、2027年の勢力図が一気に動き出している。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（契約解除）",
+            "u": "https://cyclinguptodate.com/cycling/too-many-fish-in-the-pond-giulio-ciccone-officially-breaks-contract-with-lidl-trek-following-change-in-priorities",
+            "d": "2026-10-09"
+          },
+          {
+            "t": "idlprocycling（Q36.5合意報道／ガンナ）",
+            "u": "https://www.idlprocycling.com/cycling/giulio-ciccone-agrees-pinarello-q365-deal-despite-lidl-trek-contract-opening-the-door-for-ganna",
+            "d": "2026-10-09"
+          },
+          {
+            "t": "Cyclist（ログリッチ引退示唆ほか）",
+            "u": "https://www.cyclist.co.uk/news/cycling-transfer-rumours",
+            "d": "2026-10-10"
+          }
+        ],
+        "status": "確定＝チッコーネのリドル契約解除・ロンバルディアが古巣最後。曖昧＝Pinarello-Q36.5入りはチーム未発表、ガンナ移籍・ログリッチ去就は本人も未確定。※要裏取り。"
+      },
+      {
+        "id": "20261011-seixas-phenomenon",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/bR4LcV4WJFdZbkWwgZCHmL-2400-80.jpg",
+        "headline": "【トレンド・人間ドラマ／選手の物語】『ポスト・ポガチャル』の顔が決まった——昨季ピノが『レムコとポガチャルの間』と評した20歳が、1年でモニュメント王者へ",
+        "layer1": "ロンバルディア制覇で、セイシャスは一気に『次世代クラシックの主役』になった。結果速報の裏にあるのは、わずか1年での急成長の物語。何がそんなに特別なのか——数字で辿ると、その異常さが見える。",
+        "layer2": "昨季のロンバルディアは7位、当時19歳で『約100年ぶりのモニュメント最年少トップ10』。今季はフレーシュ・ワロンヌを19歳210日で制して同レース史上最年少優勝、そして今回ついにモニュメント初制覇。元仏王者ピノは『ポガチャル以来の現象。同い年ならポガチャルより強いかも』とまで語っていた。ポガチャル・エヴェネプールが築いた『超早熟の時代』に、フランスからも本物が現れた形で、国内のXでも『この若いの誰』と名前が広がりつつある。※将来評価は各者コメントベース、Xの反応は継続観測。",
+        "sources": [
+          {
+            "t": "tuttobiciweb（新しい顔特集）",
+            "u": "https://www.tuttobiciweb.it/article/2025/10/18/1760774394/cycling-paul-seixas-emerging-talents-france?lang=en",
+            "d": "2025-10-18"
+          },
+          {
+            "t": "inkl（ピノの賛辞）",
+            "u": "https://www.inkl.com/news/he-s-already-between-remco-and-pogacar-at-the-same-age-france-s-most-recent-il-lombardia-winner-thibaut-pinot-pays-tribute-to-rising-local-star-paul-seixas",
+            "d": "2026-10-10"
+          }
+        ],
+        "status": "確定＝経歴（昨季7位・フレーシュ最年少優勝・今回初モニュメント）。曖昧＝将来評価は他者コメント、X拡散は要継続観測。"
+      },
+      {
+        "id": "20261011-gravel-wheels-tech",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-10%2Fval-kloser-vos-6ac9dd6f9b5f2-6ac9df2e434c6.jpg",
+        "headline": "【ホイール・機材読み／グラベル世界選】ナナップの泥が教える『ワイドリム×チューブレス×低圧』——中華グラベルも内寸25〜30mmが標準に",
+        "layer1": "本日男子が走るグラベル世界選は、女子が泥の消耗戦になった通り『機材選択が結果を分ける』コース。脚自慢より、転がり・グリップ・パンク耐性を両立する〈幅広リム＋チューブレス＋適正低圧〉の設計が効く。",
+        "layer2": "いまのグラベル用ホイールはロード用（内寸21〜23mm）より広い内寸25〜30mmが主流で、40〜50mm級の太タイヤを低圧でも安定して支える。中華勢（ElitewheelsのDrive G45やWinspace系）もT700カーボン・ワイドリムで同じ土俵に乗ってきており、『純正でなくても戦える』のがグラベルの現実。ロード用50mm深リムをそのまま持ち込むと泥と突き上げで不利になりやすい。空気圧は体重・路面で1本ずつ詰めるのが最短の速さ。うちのグラベル対応ホイールの相談にもそのまま繋がる話。",
+        "sources": [
+          {
+            "t": "idlprocycling（グラベル世界選）",
+            "u": "https://www.idlprocycling.com/gravel/2026-womens-gravel-world-championships-heres-whats-happened-so-far-in-australia",
+            "d": "2026-10-10"
+          },
+          {
+            "t": "ctyeh（グラベルホイール解説・日本語）",
+            "u": "https://ctyeh.com/articles/531?lang=ja",
+            "d": "2026-06"
+          },
+          {
+            "t": "Velofanatics（中華カーボン2026）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝グラベルは幅広リム＋チューブレスが主流・内寸25〜30mmが標準／中華の仕様は各社公称（軽さ・剛性は個体差あり、実測ベースで確認を）。"
+      },
+      {
+        "id": "20261011-paristours-tires",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/d623b0e7-a879-4f0b-829a-6c98172e105c/thumbnails/64ac3105-1e31-4a40-9072-025085deedbd.jpg?appId=32337f2f-7841-4ef6-a233-d1f001580530&platform=WEB&w=1200",
+        "headline": "【パーツ・機材読み】ロードのクラシックも『タイヤの太さ』で戦う時代——パリ〜トゥールの未舗装10セクターが示す、28→32c＋チューブレス",
+        "layer1": "本日のパリ〜トゥールは未舗装10セクター（計約11km）を含む『半グラベル化』したクラシック。純ロードバイクでも、ここをパンクせず速く抜けるためにタイヤの選び方が勝敗を左右する。",
+        "layer2": "近年のプロは、こうした荒れたワンデーで28c→30〜32cへ太くし、チューブレス＋ややインサートで低圧×耐パンクを両立させる傾向。太くすると接地が増えてグリップと快適性が上がり、ワイドリム（内寸23mm前後）なら空力ペナルティも小さい。ホビーでも『荒れた路面を走るなら細く高圧より、1サイズ太く＋適正低圧』が転がりでもパンクでも有利——という理屈は、未舗装を見据えた機材選びにそのまま使える。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（パリ〜トゥール地形）",
+            "u": "https://cyclinguptodate.com/cycling/paris-tours-2026-preview-profile-favourites-predictions-who-wins-the-final-big-classic-of-the-year",
+            "d": "2026-10-09"
+          },
+          {
+            "t": "BikeRadar（ロードタイヤ解説）",
+            "u": "https://www.bikeradar.com/advice/buyers-guides/best-road-bike-tyres",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝パリ〜トゥールは未舗装10セクター・プロは荒れたワンデーでタイヤを太くする傾向／最適幅・空気圧は体重と路面で変わる一般論。"
+      },
+      {
+        "id": "20261011-monument-watch",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://d2779tscntxxsw.cloudfront.net/6aca63be157f6.png",
+        "headline": "【初中級・観戦の理屈】本日で今季のクラシックが全終了——そもそも『モニュメント』って何？ 1年の締めくくりを10倍楽しむ",
+        "layer1": "昨日のロンバルディアと本日のパリ〜トゥールで、2026年のワンデークラシックは幕引き。ニュースで『モニュメント』『今季最後の大ワンデー』と聞いても、何がそんなに特別なのか——を押さえると観戦がぐっと面白くなる。",
+        "layer2": "モニュメントは年5つだけの『格別の1日レース』＝ミラノ〜サンレモ／ロンドリ（旧フランドル）／パリ〜ルーベ／リエージュ／ロンバルディア。ステージレース（数日間の総合）と違い、その日に強い者が全てを取る一発勝負で、だから若手の大仕事も起きやすい（今回20歳セイシャスのように）。終盤の登りや未舗装でふるいにかけ、誰が『最後まで脚を残したか』で決まる。結果速報だけでなく『どこで勝負が動いたか』を追うのが、ワンデー観戦の醍醐味。",
+        "sources": [
+          {
+            "t": "FloBikes（ロンバルディア結果）",
+            "u": "https://www.flobikes.com/articles/16237173-who-won-il-lombardia-2026-results-here",
+            "d": "2026-10-10"
+          },
+          {
+            "t": "CyclingUpToDate（パリ〜トゥール＝最後の大ワンデー）",
+            "u": "https://cyclinguptodate.com/cycling/paris-tours-2026-preview-profile-favourites-predictions-who-wins-the-final-big-classic-of-the-year",
+            "d": "2026-10-09"
+          }
+        ],
+        "status": "確定＝モニュメントは年5レース・本日パリ〜トゥールで今季ワンデー終了・ロンバルディアは20歳が優勝。"
+      },
+      {
+        "id": "20261011-tire-pressure",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/06/2026-Zipp-404-S-action-two-riders-1024x683.jpeg",
+        "headline": "【初中級・走りの理屈】泥と雨の世界選を見て——『空気圧』を少し下げるだけで、グリップもパンク耐性も変わる",
+        "layer1": "グラベル世界選が泥の消耗戦になったように、路面が荒れたり濡れたりするほど『空気圧』の正解は下がる。プロが低圧を攻めるのには、ちゃんと理由がある。",
+        "layer2": "タイヤは潰れて路面に馴染むほど接地が増え、グリップと乗り心地が上がる。逆に高圧すぎると小石や段差で跳ねてむしろ遅く、リム打ちパンクも増える。目安は『体重・タイヤ幅・チューブレスか』で変わり、同じ25cでも体重60kgと80kgで適正は大きく違う。まずは手持ちの指定範囲内で0.3〜0.5barずつ下げて、跳ねずに転がる点を探すのが安全。濡れ・荒れ路面はさらに少し下げる——これだけで『速くて疲れにくくてパンクしにくい』に近づく。チューブレスなら低圧の恩恵が一段大きい。",
+        "sources": [
+          {
+            "t": "Cyclingnews（グラベル世界選・路面）",
+            "u": "https://www.cyclingnews.com/pro-cycling/live/uci-gravel-world-championships-2026-elite-women-live-star-names-descend-on-nannup-australia-to-battle-for-rainbows/",
+            "d": "2026-10-10"
+          },
+          {
+            "t": "BikeRadar（ロードタイヤ解説）",
+            "u": "https://www.bikeradar.com/advice/buyers-guides/best-road-bike-tyres",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝低圧化でグリップ・快適性・耐リム打ちが上がる一般論／適正値は体重・幅・方式で変わるので指定範囲内で微調整を。"
+      },
+      {
+        "id": "20261011-x-danger-manner",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://kuruma-news.jp/wp-content/uploads/2027/03/24521963_m.jpg?v=1774493171",
+        "headline": "【経営メモ・市場／Xで論争】自転車の『危険運転・逆走』議論がまた再燃——青切符時代、『安全用品』を来店動機に変える",
+        "layer1": "10月上旬のXやまとめで、自転車の車道すり抜け・後方確認不足・一方通行の逆走といったマナー議論が再び拡散。明確な一件の炎上というより、『危ない走り』への批判が継続的に積み上がっている状態だ。",
+        "layer2": "背景には2026年4月に始まった自転車の青切符（交通反則通告制度、16歳以上対象）がある。信号無視・一時不停止・右側通行・無灯火などが対象で、ながらスマホは反則金1万2000円と最も高い。店としては、この空気を『批判』で終わらせず——後方レーダー・前後ライト・ミラー・ドラレコといった安全用品の提案に繋げる来店動機に変えられる。『罰則が怖いから』ではなく『安全に長く乗るため』の文脈で勧めるのが客単価にも効く。※Xの具体的投稿・規模までは裏取り未。",
+        "sources": [
+          {
+            "t": "Yahoo!リアルタイム検索まとめ（危険運転議論）",
+            "u": "https://search.yahoo.co.jp/realtime/search/matome/0267bd409e434b7282b97eae4376c71b-1791343800",
+            "d": "2026-10-07"
+          },
+          {
+            "t": "Yahoo!リアルタイム検索まとめ（逆走）",
+            "u": "https://search.yahoo.co.jp/realtime/search/matome/3fdbcc663ff0483687a1a04672ebe186-1791504600",
+            "d": "2026-10-09"
+          },
+          {
+            "t": "くるまのニュース（取り締まり厳格化）",
+            "u": "https://kuruma-news.jp/post/1036995",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝青切符は2026/4開始・対象違反と反則金の例／曖昧＝『炎上』はまとめ由来でX投稿の規模は要裏取り。※Xで話題、要裏取り。"
+      },
+      {
+        "id": "20261011-used-clearance",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://pedalism.jp/wp-content/uploads/2026/08/ec_p681.jpg",
+        "headline": "【経営メモ・市場】10〜11月は『型落ち底値』の山——値引き15〜30%が標準、一部は最大40%OFF、客は『新型高止まり』で型落ちに目",
+        "layer1": "新型の発表で旧モデルが型落ちする10〜11月は、1年で最も値引きが大きくなりやすい時期。各メディアも『モデル入替セールが狙い目』と揃って指摘し、実店舗のクリアランスが動く季節に入っている。",
+        "layer2": "値引き幅は定価の15〜30%が標準線で、ブランドやサイズ在庫次第では最大40%OFF（GIANT・MERIDA等の例）や、2026年モデルのTrek Emonda SL5が20%引きで並ぶ事例も。新品の高止まりが続くなか、客の目は『型落ち・コスパ』に向かっている。店側の武器は値段そのものより『人気サイズ・色は先に売り切れる』『整備込みで安心して長く乗れる』という提案。型落ちは状態確認とサイズ確保が早い者勝ちで、来店の背中を押しやすい。",
+        "sources": [
+          {
+            "t": "Pedalism.jp（セール時期2026年版）",
+            "u": "https://pedalism.jp/road-bike-sale-timing-when-cheap/",
+            "d": "2026-08"
+          },
+          {
+            "t": "pricey.jp（セールはいつ）",
+            "u": "https://www.pricey.jp/web/articles/3501",
+            "d": "2026"
+          },
+          {
+            "t": "BIKE PLUS（在庫処分セール・最大40%OFF）",
+            "u": "https://bike-plus.com/collections/bike-clearance-sale",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝10〜11月が型落ち値引きの最大期・値引き15〜30%が標準／曖昧＝個別の在庫・価格はショップ・時期で変動（掲載例の最新性は要確認）。"
+      },
+      {
+        "id": "20261011-china-buyer-standard",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png",
+        "headline": "【経営メモ・市場／競合】大手ホイールが『プレミアム帯』へ上がるほど、中華カーボンが『買い手の基準』になる——客が店に求める説明も変わる",
+        "layer1": "純正・大手カーボンがハイエンドで価格を上げ続ける一方、中華カーボンは実走テスト記事でも『技術的に大きく前進、価格性能比で存在感を増す』と評価される段階に。客の比較軸が『大手か中華か』で動くほど、店の説明責任も変わってくる。",
+        "layer2": "買い手が気にするのは、もう『安さ』だけではない。レビューの指摘通り、どのブランドでもスポーク・ハブの不良は一定割合で出るし、『絶賛だけのレビュー』はむしろ警戒材料。だからこそ店側が担うべきは——個体差の初期チェック、保証と振れ取り対応、適正トルクと運用の説明。うちが扱う8LIEN・CRW・GOOSYNN・NEPEST・FARSPORTS・PARTICLEは、まさにこの『価格で中華、安心で店』を両立させる提案で差がつく領域。価格勝負ではなく『買った後の面倒を見る』を前面に。",
+        "sources": [
+          {
+            "t": "Velofanatics（中華カーボン2026・実走評価）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026"
+          },
+          {
+            "t": "Cyclists Hub（中華カーボンの品質・注意点）",
+            "u": "https://www.cyclistshub.com/?p=17851",
+            "d": "2026"
+          },
+          {
+            "t": "ctyeh（中華カーボン比較・日本語）",
+            "u": "https://ctyeh.com/articles/588?lang=ja",
+            "d": "2026"
+          }
+        ],
+        "status": "曖昧＝市場トレンドの読み（経営メモ）。中華の進歩・品質注意点は各媒体評価ベースで、個別モデルの性能は実測・保証条件で要確認。"
+      }
+    ]
+  },
+  {
     "date": "2026-10-10",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。本日はついにロンバルディア決戦——ポガチャル不在で『6年ぶり新王者』が生まれます。豪グラベル世界選も本日女子スタート、地元クロムウェルの引退レース。移籍はベロキのINEOS入りで2027市場が動き出し、ログリッチはTudorが本命に。国内は『安全用品』と『中古の売り時』を経営メモで。",
     "cards": [
