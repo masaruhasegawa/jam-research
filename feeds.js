@@ -1,5 +1,256 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-12",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。昨日でクラシックは全終了——グラベル世界選・男子は26歳クラリスが王者フェルメルシュを食う『まさか』、パリ〜トゥールはヴィスマの新鋭ハーゲネスがトレンティンの4勝目を阻みました。今季最後のWTツアー・オブ・広西は本日開幕、そして今週末は『ジャパンカップ』に豪華メンバー来日。経営メモはシマノ決算(10/27)・13速移行期の在庫戦略・オフ入り前メンテを。",
+    "cards": [
+      {
+        "id": "20261012-gravelworlds-klaris",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1920/height:1280/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-10/huvjw5vwgaawp-h-1-6acb3a9d66867.jpg@webp",
+        "headline": "【🔥今日の一本・レース／10/11決着】グラベル世界選・男子、26歳マグヌス・バク・クラリスが『まさかの優勝』——4人スプリントで王者フェルメルシュを撃破、豪ナナップ",
+        "layer1": "欧州外で初開催のグラベル世界選（豪ナナップ、男子143.7km・獲得3,713m・未舗装85%）は、デンマークのグラベル専門マグヌス・バク・クラリスが最後の4人スプリントを制して初の虹。連覇を狙った王者フロリアン・フェルメルシュ（ベルギー）は2位、コナー・スウィフト（英）が3位。",
+        "layer2": "終盤はデンマークのヴュルツ・シュミットが執拗にペースを上げて集団を絞り、テクニカルな下りで本人が落車しながらも復帰。ゴール前はスウィフトが先に踏み出したが、クラリスが最後の数mで差した。1位は4時間9分5秒、2〜4位（フェルメルシュ・スウィフト・ヴュルツ・シュミット）は同タイム、5位フォスは＋7秒。『本命不在』ではなく、専門家が世界王者を食った正真正銘の番狂わせだった。",
+        "sources": [
+          {
+            "t": "Cyclinguptodate",
+            "u": "https://cyclinguptodate.com/gravel/results-uci-gravel-world-championships-2026-magnus-bak-klaris-upsets-florian-vermeersch-and-connor-swift-after-late-crash-drama",
+            "d": "2026-10-11"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/gravel-world-championships-magnus-bak-klaris-sprints-to-huge-victory-in-thrilling-elite-mens-race/",
+            "d": "2026-10-11"
+          },
+          {
+            "t": "Granfondoguide",
+            "u": "https://www.granfondoguide.com/RaceDashboard/UCIGravelWorldSeries/1/9402/2026-uci-gravel-world-championships-results-magnus-bak-klaris-shocks-favourites",
+            "d": "2026-10-11"
+          }
+        ],
+        "status": "確定＝優勝クラリス・2位フェルメルシュ・3位スウィフト（複数メディア一致、タイム4:09:05）"
+      },
+      {
+        "id": "20261012-paristours-hagenes",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.cyclingstage.com/images/riders/per-strand-hagenes-pt-2026.jpg",
+        "headline": "【レース・人間ドラマ／10/11決着】パリ〜トゥール、ヴィスマの新鋭ハーゲネスが初制覇——残りのぶどう畑未舗装で抜け出し、連覇＆単独最多4勝を狙うトレンティンを阻む",
+        "layer1": "今季最後の大ワンデー（第120回、シャルトル→トゥール・未舗装セクター）は、ヴィスマ・リースアバイクのペール・ストランド・ハーゲネス（ノルウェー）が逃げ切り勝利。2位ヤスパー・スタイベン＋2秒、3位クリストフ・ラポルトは同秒。連覇と単独最多4勝を狙ったマッテオ・トレンティンは届かなかった。",
+        "layer2": "この日はヴィスマのベテラン、ヨス・ファン・エムデンが『現役最後のレース』に選んだ舞台でもあった。かつてパリ〜トゥール・エスポワール（U23版）を勝っていたハーゲネスが、本家でもその素養を結果に変え、ベテランの引退と若手の勝利が重なる1日に。未舗装を得意にする選手が『トゥールの石畳＝クラシックの太タイヤ時代』を体現した格好。※展開の細部は結果速報ベース、公式確定は主催発表で。",
+        "sources": [
+          {
+            "t": "Cyclingstage（リザルト）",
+            "u": "https://www.cyclingstage.com/paris-tours-2026/results-pt-2026/",
+            "d": "2026-10-11"
+          },
+          {
+            "t": "IDLProCycling（プレビュー）",
+            "u": "https://www.idlprocycling.com/cycling/paris-tours-2026-preview-sprinters-take-on-a-gravel-battle-among-the-vineyards",
+            "d": "2026-10-09"
+          },
+          {
+            "t": "Team Visma | Lease a Bike",
+            "u": "https://www.teamvismaleaseabike.com/race-preview/news/van-emden-ends-professional-career-at-paris-tours-hagenes-ends-u23-period-to-become-pro/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝優勝ハーゲネス・2位スタイベン・3位ラポルト（cyclingstage）／ファン・エムデン引退も同レース"
+      },
+      {
+        "id": "20261012-guangxi-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/watermark:Copyright%3A%20Pinarello%20Q36.5%20Pro%20Cycling%20Team/width:1920/height:1280/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-09/tom-pidcock-wins-gp-industria-artigianato-2026-6a9d90ee4dd85.jpg@webp",
+        "headline": "【レース／本日10/13開幕】ツアー・オブ・広西、今季『最後のワールドツアー』——ピドコック本命、アユソ・コーイ・マニエも、6日間・最終日は登頂フィニッシュ",
+        "layer1": "1月のツアー・ダウンアンダーで始まった2026年ワールドツアーは、中国・広西の6ステージ（10/13〜18）で締めくくり。第1ステージは平坦、3〜6日目は起伏で、最終第6ステージはノンラの登頂フィニッシュ。総合本命はピナレロのトム・ピドコック、対抗にユアン・アユソらが挙がる。",
+        "layer2": "スプリントはパウル・マニエ（前年のステージ勝者）とオラフ・コーイの対決が軸。昨年の総合覇者はポール・ダブル（ジェイコ）。欧州の大レースが出そろった後の『今季の締め』で、ピドコックが自身初のWTステージレース総合を狙えるか、来季2027の勢力図を占う実戦の場でもある。スタートリストは10/8時点の暫定。",
+        "sources": [
+          {
+            "t": "Cyclinguptodate（プレビュー）",
+            "u": "https://cyclinguptodate.com/cycling/tour-of-guangxi-2026-previews-profiles-favourites-predictions-can-tom-pidcock-take-his-first-ever-world-tour-stage-race-win",
+            "d": "2026-10-07"
+          },
+          {
+            "t": "Cyclinguptodate（スタートリスト）",
+            "u": "https://cyclinguptodate.com/cycling/startlist-tour-of-guangxi-2026-riders-pidcock-ayuso-narvaez-kooij-magnier-jakobsen-and-more",
+            "d": "2026-10-08"
+          },
+          {
+            "t": "Wikipedia（2026 UCI World Tour）",
+            "u": "https://en.wikipedia.org/wiki/2026_UCI_World_Tour",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝日程/コース・今季最終WT／暫定スタートリスト（10/8時点、変更あり）"
+      },
+      {
+        "id": "20261012-japancup-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://www.japancup.gr.jp/wp/wp-content/themes/japancup/images/main-visual-2026-d.png",
+        "headline": "【レース・国内／今週末10/18】ジャパンカップ、宇都宮に『豪華メンバー来日』——昨年女王マルティネス連覇挑戦、ヒーリー／ジェオヘガン・ハート／マシューズら、WT5＋プロ5の10チーム",
+        "layer1": "国内最大級のUCIレース、宇都宮・森林公園周回（1周10.3km）のロードレースは10/18（日）。16日(金)チームプレゼン（オリオンスクエア）、17日(土)大通りクリテリウム、18日(日)が本番。出場は20チーム120名、うちUCIワールドチーム5＋プロチーム5。",
+        "layer2": "注目は昨年優勝で今夏ツール総合5位のレニー・マルティネス（バーレーン）、ツール区間勝利＆世界選銅のベン・ヒーリー（EF）、ジロ総合覇者タオ・ジェオヘガン・ハート（リドル・トレック）、手首の重傷から復活し今年の世界選銀のベテラン・スプリンター マシューズ（ジェイコ）。遅れての補強でポッツォヴィーヴォ＆鎌田晃輝（ソリューションテック・ニッポ）も加わった。無料で生観戦でき、豪華な来日にXでも盛り上がる——『見て始める』国内の入口。出場は変更の可能性あり。",
+        "sources": [
+          {
+            "t": "ジャパンカップ公式",
+            "u": "https://www.japancup.gr.jp/en/",
+            "d": "2026-10"
+          },
+          {
+            "t": "Tour Magazin",
+            "u": "https://www.tour-magazin.de/en/professional-cycling/races/utsunomiya-japan-cup-road-race-60157/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝日程/体制・主な出場予定（公式・暫定、変更可能性あり）"
+      },
+      {
+        "id": "20261012-pinarello-superteam",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/W8JqWy9bUpdcDA7af9XYpN-2560-80.jpg",
+        "headline": "【トレンド・移籍／2027市場加速】ピドコックのピナレロQ36.5が『補強ラッシュ』——ヘイターが9人目、ソウダルから加入しスーパーチーム化",
+        "layer1": "2027シーズンへ、トム・ピドコックを核に据えるピナレロQ36.5が動いている。英国のオールラウンダー、イーサン・ヘイター（ソウダル・クイックステップ）が加入し、チームにとって2027『9人目』の補強と報じられた。ロスターは26名規模へ。",
+        "layer2": "同チームは先に（昨日のブロックで触れた）2029年まで契約のあったチッコーネを引き抜いた件でも騒然となったばかり。ピドコック＋チッコーネ＋ヘイターと『顔』を並べ、クラシックから起伏の総合まで狙える布陣へ厚みを増す。2027市場全体も、ウェルスフォードのジェイコ移籍など玉突きで加速中。※関連の一部は正式発表前の報道を含み、続報待ち。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ヘイター加入）",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/pinarello-q36-5-confirm-ninth-rider-signing-for-2027-as-ethan-hayter-joins-from-soudal-quickstep/",
+            "d": "2026-10"
+          },
+          {
+            "t": "Cyclingweekly（2027移籍）",
+            "u": "https://www.cyclingweekly.com/racing/all-the-pro-cycling-transfers-for-2027",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝ヘイター加入（チーム発表）／曖昧＝チッコーネら関連の続報は要確認"
+      },
+      {
+        "id": "20261012-shimano-q3",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://biketips.com/wp-content/uploads/2026/04/pexels-31764055-51540.jpg",
+        "headline": "【経営メモ・市場／競合動向】シマノ『7〜9月期決算は10/27』——関税で米需要が冷え、営業益は前年の約半分、円安と値上げのはざま",
+        "layer1": "業界の体温計シマノは、2026年7〜9月期（第3四半期）決算を10/27に発表予定。すでに1〜3月期は営業益が前年同期の約半分に落ち込んでおり、米国の関税政策が需要を冷やしていると会社側は説明していた。",
+        "layer2": "経営メモとして：原材料・輸送費の高騰を背景に、シマノは2026年5月にペダル/シューズ/ヘルメット等を約3〜5%、さらに8月にも部品を小幅（約1%）値上げすると予告してきた。店側は『新品高止まり×円安』の環境で、仕入れ値・売価・在庫の持ち方の判断が重要に。10/27の数字は秋冬の仕入れ計画を読む材料になる。記事化不要の経営情報として押さえておきたい。",
+        "sources": [
+          {
+            "t": "BikeTips（業績・関税）",
+            "u": "https://biketips.com/shimano-2026-sales-drop-operating-income-tariffs/",
+            "d": "2026"
+          },
+          {
+            "t": "Bicycle Retailer（約1%値上げ予告）",
+            "u": "https://bicycleretailer.com/international/2026/07/28/shimano-warns-1-price-increases-august",
+            "d": "2026-07-28"
+          }
+        ],
+        "status": "確定＝決算発表予定10/27・直近の値上げ/業績基調（数値は各社報道ベース）"
+      },
+      {
+        "id": "20261012-shimano-13s-stock",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/vJGKrkBmGJAaie8KPrXyuK-1920-80.jpg",
+        "headline": "【経営メモ・市場／機材最前線】シマノ『13速デュラエース(R9300)』が2027に迫る——現行11/12速の『買い時』をどう伝えるか",
+        "layer1": "未発表ながら、13速の新型デュラエース（通称R9300）はヴエルタや世界選でプロが実戦投入し、ファンデルプールもモントリオール世界選で使用と目撃が相次ぐ。正式発表・市販は2027とみる見方が強い。",
+        "layer2": "経営メモ：13速は専用フリーボディなど互換性の壁が予想され、出た直後は高価・品薄になりがち。移行期のいまは『完成された現行11/12速こそ、むしろ安定して買える時期』という訴求が効く。半ワイヤレス構成は維持の見込みで、現行ユーザーの『すぐ陳腐化するのでは』という不安に先回りして答えると、来店の納得感につながる。※すべてリーク段階で仕様は未確定（※要裏取り）。",
+        "sources": [
+          {
+            "t": "Cycling Weekly（世界選で目撃）",
+            "u": "https://www.cyclingweekly.com/news/mathieu-van-der-poel-rides-13-speed-dura-ace-prototype-at-uci-world-championships",
+            "d": "2026-09"
+          },
+          {
+            "t": "the5krunner（R9300リーク）",
+            "u": "https://the5krunner.com/2026/08/23/dura-ace-r9300-13-speed-spotted/",
+            "d": "2026-08-23"
+          }
+        ],
+        "status": "曖昧＝全てリーク・未発表（※要裏取り）／確定＝複数の実戦目撃"
+      },
+      {
+        "id": "20261012-offseason-maintenance",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://biketips.com/wp-content/uploads/2023/02/How-To-Clean-A-Bike-Chain.jpg",
+        "headline": "【初中級・走りの理屈】レースも国内シーズンも終盤——『オフ入り前のひと手間』で、来季の一台目が長持ちする",
+        "layer1": "欧州ロードはパリ〜トゥールで実質閉幕、国内もジャパンカップが節目。走行距離が落ちるこの時期こそ、洗車・チェーン注油・保管の見直しで、機材寿命とフィーリングに差が出る。",
+        "layer2": "先回りの要点：①チェーンは『汚れを落としてから』注油——汚れの上から挿すと逆に摩耗を早める。②洗車後は水を飛ばして各部を乾かし、注油は1リンクずつ回して余分を拭き取る。③長期保管はタイヤの空気を適正〜やや高めに入れ直し、直射日光と高温多湿を避ける。チューブレスはこの機にシーラント量も確認を。高価な新型を追うより、いまある一台を整える方が費用対効果は高い。",
+        "sources": [
+          {
+            "t": "BikeTips（チェーン清掃の基本）",
+            "u": "https://biketips.com/how-to-clean-a-bike-chain/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝一般的なメンテ手順（普遍ネタ・季節の節目を起点に）"
+      },
+      {
+        "id": "20261012-youngsters-year",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://pezcyclingnews.com/wp-content/uploads/2026/10/lombardia26-seixas-solo-1200.jpg",
+        "headline": "【トレンド・人間ドラマ】2026は『若手ブレイクの年』で締めくくり——20歳セイシャスの初モニュメントに、26歳クラリス・新星ハーゲネスが続く",
+        "layer1": "今季の終盤は20代前半の台頭が象徴的だった。10/10のロンバルディアは20歳ポール・セイシャスが史上最年少で初モニュメント、翌10/11はグラベル世界選で26歳クラリスが王者を食い、パリ〜トゥールではヴィスマの新鋭ハーゲネスが勝った。",
+        "layer2": "『ポスト黄金世代』の顔ぶれがはっきりしてきた。渦中のセイシャスは移籍観測が過熱したが、本人が『契約は2027年まで、デカトロンに残る』と明言して沈静化。ポガチャル不在でも物語が途切れないことを、この秋のレースが示した。マサルさんのショート/記事なら『誰が次のスターか』の切り口が刺さりそう。※セイシャス残留の発表時期は要続報。",
+        "sources": [
+          {
+            "t": "Cyclingnews（セイシャス残留）",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/paul-seixas-draws-a-line-under-intense-transfer-speculation-with-confirmation-he-will-remain-with-decathlon-cma-in-2027/",
+            "d": "2026-10"
+          },
+          {
+            "t": "PEZ Cycling（ロンバルディア）",
+            "u": "https://pezcyclingnews.com/",
+            "d": "2026-10-10"
+          }
+        ],
+        "status": "確定＝各レース結果（10/10-11）／曖昧＝セイシャス残留の発表時期は要確認"
+      },
+      {
+        "id": "20261012-japancup-retail",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://www.japancup.gr.jp/wp/wp-content/themes/japancup/images/main-visual-2026-d.png",
+        "headline": "【経営メモ・市場／国内】ジャパンカップ(10/18)の『無料生観戦』は秋の集客装置——来日スターを見た人が、店の入口になる",
+        "layer1": "宇都宮のジャパンカップは、トップ選手を『無料で生観戦』できる国内屈指のイベント。10/18の本番に加え、16日のチームプレゼン、17日の大通りクリテリウムと、週末を通して街が自転車一色になる。",
+        "layer2": "経営メモ：大画面のレース観戦と違い、生の速さ・音・集団は『自分もやってみたい』を強く喚起する。マサルさんの店なら、観戦前後の『初めての一台』相談、ジャパンカップ連動の試乗・点検フェア、観戦ウェアや防寒小物の提案が刺さる時期。レース結果をその日のうちにショート化できれば、来店導線もつくれる。費用対効果の高い『秋のイベント連動』を仕込む好機。",
+        "sources": [
+          {
+            "t": "ジャパンカップ公式",
+            "u": "https://www.japancup.gr.jp/en/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝開催日程・無料観戦（公式）／施策は提案"
+      }
+    ]
+  },
+  {
     "date": "2026-10-11",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。昨日のロンバルディアは『20歳セイシャスが史上最年少で初モニュメント』——ポガチャル不在の穴から仏の新星が飛び出しました。グラベル世界選は女子フォスが2度目の虹、男子は本日決戦。今季最後の大ワンデー『パリ〜トゥール』も本日です。移籍はチッコーネがリドルを飛び出しピドコックの元へ、ログリッチは引退を匂わせ。国内は『安全用品需要』『型落ち底値』『中華の買い手基準』を経営メモで。",
     "cards": [
