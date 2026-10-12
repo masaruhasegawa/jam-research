@@ -1,5 +1,250 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-13",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。今季最後のワールドツアー『ツアー・オブ・広西』が本日開幕、一方で欧州はロンバルディア後の“余韻と事件”が盛りだくさん——モートンの165年ぶり記録、選手の安全スト、コモ市長の自転車締め出しまで、人間ドラマと市場ネタを厚めに集めました。",
+    "cards": [
+      {
+        "id": "20261013-guangxi-st1",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cyclingmole.com/wp-content/uploads/2026/10/Screenshot-2026-10-11-at-08.35.16.png",
+        "headline": "【🔥今日の一本・レース／本日10/13開幕】ツアー・オブ・広西、今季『最後のワールドツアー』が中国で幕開け——初日は平坦149km・猛暑35℃の集団スプリント、クーイ vs マニエの一騎打ち",
+        "layer1": "今季最後のWTステージレースが本日10/13開幕。第1ステージは崇左(チョンズオ)発着149kmの完全平坦で、ほぼ確実に集団スプリント決着。",
+        "layer2": "ブックメーカーの本命は『クーイ(デカトロン)＝6/5』、最大の対抗がマニエ(スーダル)で、事実上の一騎打ちという下馬評。ヤコブセン・パウレス・ソレルらも復帰。フィニッシュは残り2.4kmの右コーナーを抜けて1.1kmの直線、気温は約35℃と暑熱が隠れたカギ。総合争いはピドコック(ピナレロQ36.5)とヤルノ・ウィダル(ロット)が二枚看板で、今大会は新設の山岳ステージと最終日ノンラ登頂フィニッシュで決まる6日間。アユソも総合を狙う。",
+        "sources": [
+          {
+            "t": "Cycling Mole（Stage1プレビュー）",
+            "u": "https://cyclingmole.com/2026/10/12/2026-tour-of-guangxi-stage-1-preview/",
+            "d": "2026-10-12"
+          },
+          {
+            "t": "IDL Pro Cycling（大会プレビュー）",
+            "u": "https://www.idlprocycling.com/cycling/2026-tour-of-guangxi-preview-pidcock-vs-widar-on-a-new-mountain-stage-plus-a-decisive-finale-on-nongla",
+            "d": "2026-10-12"
+          }
+        ],
+        "status": "確定＝本日開幕・初日平坦149km・クーイ本命/曖昧＝ステージ結果は未確定（本稿は展望）"
+      },
+      {
+        "id": "20261013-morton-ponyexpress",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/10/The-Pony-Express-D7-Karter-M-84-1024x763.jpg",
+        "headline": "【レース・人間ドラマ／10/11達成】ラクラン・モートンが『165年ぶり』にポニー・エクスプレス記録を更新——3,217kmを6日21時間15分、EFラストランで旧記録を19時間45分短縮",
+        "layer1": "EFのモートンが、1861年に騎馬の飛脚が打ち立てた米大陸横断・郵便路の最速記録を破った。",
+        "layer2": "ミズーリ州セントジョセフ→カリフォルニア州サクラメントの3,217kmを『6日21時間15分』で走破し、10/11夜23:19に到着。1861年に若い飛脚たちがリンカーン就任演説を運んだ旧記録（7日17時間）を19時間45分も短縮した。彼はこれを『EFでの最後のゼッケン』と位置づけ、2027年にチームを離れる予定。本人いわく『終わってほしくない気持ちがなかったのが、むしろ奇妙だった』。グランツールとは別軸の“超耐久”が、いまロードの人気コンテンツに。",
+        "sources": [
+          {
+            "t": "road.cc（ライブブログ 10/12）",
+            "u": "https://road.cc/news/cycling-live-blog-12-october-2026",
+            "d": "2026-10-12"
+          },
+          {
+            "t": "Escape Collective（事前解説）",
+            "u": "https://escapecollective.com/lachlan-morton-is-racing-the-pony-express-will-leave-ef-in-2027/",
+            "d": "2026-10-02"
+          }
+        ],
+        "status": "確定＝記録更新・タイム・区間・EF離脱/曖昧＝2027の移籍先は未発表"
+      },
+      {
+        "id": "20261013-lombardia-safety-protest",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/10/AL107069-1024x682.jpg",
+        "headline": "【トレンド・安全／10/11】ロンバルディア発走で選手が『抗議ストップ』——ヒーリー＆ピドコック主導で約15分遅延、相次ぐコース内の車両侵入とターリング選手の死を受けて",
+        "layer1": "今季最後のモニュメント、ロンバルディアのベルガモ発走で、選手たちが安全を訴えて約15分スタートを遅らせる異例の抗議を行った。",
+        "layer2": "イタリアのワンデー4戦のうち3戦でコースに車両が侵入（トレ・ヴァッリではピドコックのチームメイト2人に観客が突っ込んだ）。背景にはヴォルタ・ア・ポルトガルでバン運転手にはねられ亡くなったフィンレイ・ターリング選手の死がある。レムコがマイクで『人が死に続けるのを許してはいけない』と訴え、ピドコックはUCIに『コースに車がいるなんて冗談だ』と怒り。主催者グエルチレーナは『抗議は正当だが、やり方はもっと良くできた』。選手会CPAは今回は不関与で、現場主導だった点も注目。",
+        "sources": [
+          {
+            "t": "road.cc（ライブブログ 10/12）",
+            "u": "https://road.cc/news/cycling-live-blog-12-october-2026",
+            "d": "2026-10-12"
+          }
+        ],
+        "status": "確定＝抗議と約15分の遅延・背景/曖昧＝UCI・主催側の再発防止策は未定"
+      },
+      {
+        "id": "20261013-como-bikeban-plates",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/10/GMA03887-1024x683.jpg",
+        "headline": "【経営メモ・市場／Xで物議】ロンバルディア王者が『自転車を街から締め出した市長』と記念撮影——コモ市長がナンバープレート・保険義務化を主張、日本の青切符時代に重なる論点",
+        "layer1": "ロンバルディア優勝の20歳セイシャスが、レース後にコモ市長アレッサンドロ・ラピネーゼと記念撮影。だがこの市長は2か月前にコモ旧市街から『全自転車』を締め出した人物で、X上で賛否が噴出。",
+        "layer2": "ラピネーゼは夏にeバイクに衝突されたのを機に、道交法で電動と非電動を区別できないとして“全自転車”を歴史地区から禁止。さらに自転車へのナンバープレート・保険の義務化も提唱し『スクーターに義務で自転車に無しは狂気だ』と主張した。SNSでは市長を『idiot』と罵る声も。▶経営メモ：日本でも青切符（4月開始）や自転車保険の義務化が各地で進行中。規制強化は“敵”ではなく“売り場”——ライト・保険・反射材などの安全用品を来店動機・客単価の柱に変える好機として捉えたい。",
+        "sources": [
+          {
+            "t": "road.cc（ライブブログ 10/12）",
+            "u": "https://road.cc/news/cycling-live-blog-12-october-2026",
+            "d": "2026-10-12"
+          }
+        ],
+        "status": "確定＝市長の禁止令と提言・セイシャスとの撮影/曖昧＝『idiot』はSNSの反応（※Xで話題）・プレート/保険の制度化は未定"
+      },
+      {
+        "id": "20261013-seixas-post-pogacar",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/10/GMA03282-1-1024x683.jpg",
+        "headline": "【レース・人間ドラマ／ポスト・ポガチャル】20歳セイシャスが『史上最年少モニュメント王者』として一気に主役へ——2位マスに1分超の圧勝、周囲は早くもポガチャル級と評価",
+        "layer1": "ロンバルディアを制した20歳セイシャスは、同レース史上最年少の優勝者。フィニッシュで1分以内に残ったのはエンリク・マスだけという圧勝だった。",
+        "layer2": "ポガチャル不在で“6年ぶり新王者”が確定したこの秋を象徴する存在に。元選手ヒンカピーやブリュイネールが『次のポガチャル』と比較し、本人も“ペロトンで最強になりたい”と強気を語ったと報じられる。ヒーリーも『ポガチャルがいないとレースは一変する。皆が勝てると思って走るから予測不能だ』と述べ、“若手ブレイクの年”の空気を後押し。契約は2027年までデカトロンと見られ、2028年の去就がファンの間で早くも話題。",
+        "sources": [
+          {
+            "t": "road.cc（ライブブログ 10/12）",
+            "u": "https://road.cc/news/cycling-live-blog-12-october-2026",
+            "d": "2026-10-12"
+          }
+        ],
+        "status": "確定＝最年少優勝・タイム差・周囲の比較/曖昧＝本人の“最強になりたい”発言と将来の移籍は報道ベース（※要裏取り）"
+      },
+      {
+        "id": "20261013-china-carbon-deeprims",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png",
+        "headline": "【ホイール・機材読み／広西スプリント起点】平坦・高速域で効く『ディープ×ワイド』——2026中華カーボンの現在地、Winspace・Elitewheels・Tukus・YOELEO",
+        "layer1": "広西の初日は猛暑×完全平坦の高速スプリント。こういう日に効くのは深リムのエアロホイール。中華カーボンでも“深さ×ワイド×軽さ”が標準になった。",
+        "layer2": "2026年の中華カーボン比較では、登り/オールラウンドはWinspace Lún Hyper Light（約1,270g・前38/後45mm・カーボンスポーク）が筆頭。平坦・高速向けはYOELEO SAT C60系（約1,490g・60mm）、Tukus Bluefin C88NEO（約1,680g・88mm・内寸23mm）、ProX C68などが狙い目で、“コスパ最強”にTukusを挙げる声も。内寸は19〜23mmが主流で、合うタイヤは28c前後。※各社スペックは媒体集計で、表と本文で数値が食い違う箇所もあるため、購入前にメーカー公称値を要確認。",
+        "sources": [
+          {
+            "t": "Cycling Mole（広西Stage1・高速平坦の裏付け）",
+            "u": "https://cyclingmole.com/2026/10/12/2026-tour-of-guangxi-stage-1-preview/",
+            "d": "2026-10-12"
+          },
+          {
+            "t": "VeloFanatics（2026中華ホイール比較・補足）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026-05"
+          }
+        ],
+        "status": "確定＝各モデルの公称スペック（媒体集計）/曖昧＝実測差・表記揺れは要確認（※要裏取り）"
+      },
+      {
+        "id": "20261013-bridgestone-concept",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://getnavi.jp/wp-content/uploads/2026/10/20261008_jitensha_000.jpg",
+        "headline": "【経営メモ・市場／国内】ブリヂストンサイクルが『未来の2台』を公開——子ども2人乗せ3輪のCONCEPT 3と、名作復活の『NEOCOT EVO RNC9』、東京ベイバイシクル2026で",
+        "layer1": "ブリヂストンサイクルが10/10〜11の『東京ベイ バイシクル2026』（有明）で、将来の価値を提案する2台のコンセプトバイクを一般公開した。",
+        "layer2": "1台はCONCEPT 3＝後輪にベンチシートで子ども2人を乗せる3輪。雨よけ・日よけの大型カバー、子どもの首元に冷風を送る冷却機構、サイド/ハイマウントの灯火など安全装備を満載。もう1台はNEOCOT EVO RNC9＝2021年に消えたクロモリNEOCOTの成形技術を復活させ、RP9（ディスクロード）由来のエアロ・カーボンモノコック・ディスク・UDH対応へ進化させた1台。いずれも市販予定はなし。▶経営メモ：国内最大手の“実験”は親子・安全・猛暑対策という国内需要の向かう先を映す。店頭の話題づくりに使える。",
+        "sources": [
+          {
+            "t": "GetNavi web",
+            "u": "https://getnavi.jp/mobility/1116987/",
+            "d": "2026-10-09"
+          }
+        ],
+        "status": "確定＝公開内容・イベント日程/曖昧＝市販は未定（予定なし）"
+      },
+      {
+        "id": "20261013-longride-kihon",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/10/The-Pony-Express-D7-Karter-M-168-1024x874.jpg",
+        "headline": "【初中級・走りの理屈／モートン起点】3,217kmの超人に憧れたら——『普通のロード』でロングライドを安全に伸ばす3点",
+        "layer1": "モートンの記録走に心が動いたら、まずは普段のロードで“距離を伸ばす”ところから。鍵は特別な装備より段取りにある。",
+        "layer2": "①補給＝1時間あたり糖質40〜60g＋水分をこまめに（“お腹が空く前・喉が渇く前”が鉄則）。②パンク対応＝予備チューブ／CO2か携帯ポンプ／タイヤレバーの3点を必ず携行し、出発前に一度だけでも“外して戻す”練習を。③ペース＝序盤は『鼻で呼吸できる』強度に抑え、登りで無理をしない。この3つで初めての100kmは驚くほど楽になる。広西のように暑い日は、塩分補給と日陰での小休止も忘れずに。",
+        "sources": [
+          {
+            "t": "Escape Collective（モートン挑戦の背景）",
+            "u": "https://escapecollective.com/lachlan-morton-is-racing-the-pony-express-will-leave-ef-in-2027/",
+            "d": "2026-10-02"
+          },
+          {
+            "t": "road.cc（記録達成 10/12）",
+            "u": "https://road.cc/news/cycling-live-blog-12-october-2026",
+            "d": "2026-10-12"
+          }
+        ],
+        "status": "確定＝一般的な定石/曖昧＝必要量は個人差あり（体調を最優先）"
+      },
+      {
+        "id": "20261013-roglic-future",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/watermark:Picture%3A%20Sirotti/width:1920/height:1280/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-10/primoz-roglic-6ac7676c65d6c.jpg@webp",
+        "headline": "【トレンド・人間ドラマ／10/8・Xでも話題】ログリッチが『引退』を匂わせ続ける——欧州王者ジャージを『家で着るだけかも』、レッドブル離脱は確定・去就はツダー有力",
+        "layer1": "36歳ログリッチが2027年の去就を巡り『次に何をするか、まだ合意できていない』と語り、引退の可能性も否定しない。",
+        "layer2": "レッドブル・ボーラからの離脱は本人・チームとも確定済み。移籍先はロット・アンテルマルシェとツダー・プロサイクリングが有力で、直近報道ではツダーが合意に近いとされる。欧州TTを制した直後に『このジャージは家で着るだけになるかも』と冗談めかしつつ『バイクでも着たい』とも。家族優先でブエルタ防衛を回避した経緯もあり、引退か“最後の大きな挑戦”（2027ツール?）かで揺れている。",
+        "sources": [
+          {
+            "t": "Cycling Up To Date",
+            "u": "https://cyclinguptodate.com/cycling/we-havent-reached-an-agreement-yet-on-what-ill-do-next-primoz-roglic-hints-at-surprise-retirement-as-he-provides-transfer-update",
+            "d": "2026-10-08"
+          },
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/roglic-reportedly-puts-2027-decision-on-hold-until-after-world-championships/",
+            "d": "2026-10-02"
+          }
+        ],
+        "status": "確定＝レッドブル離脱・本人の発言/曖昧＝移籍先・引退は未確定（※要裏取り）"
+      },
+      {
+        "id": "20261013-shimano-13s",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://thetriathlete.co.uk/wp-content/uploads/2026/08/post-3694-featured.jpg",
+        "headline": "【パーツ・機材最前線／10/7更新】新デュラ『R9300』13速、MvdPが世界選で試走か——8月ブエルタで目撃、2×13・“セミワイヤレス継続”の見方",
+        "layer1": "未発表の新型デュラエース（R9300とみられる）が、8月のブエルタでAlpecinの機材に目撃され、さらにMvdPがモントリオール世界選で13速プロトタイプを走らせたと報じられた。",
+        "layer2": "現行R9200（12速）からの自然進化で、カセットは13速化。完全ワイヤレスには“しない”見方が有力で、無線シフター＋リアメカは中央バッテリーに有線のセミワイヤレスDi2を継続（SRAM AXSの完全無線とは対照的）。公式発表・価格・名称はいずれも未確定で、業界の読みは『2026年後半〜2027年半ば』。▶初中級向け補足：いま慌てて待つ必要は薄い。現行11/12速は当面サポートが続き、“今ある完成車”の価値は揺らがない——と伝えるのが誠実。",
+        "sources": [
+          {
+            "t": "The Triathlete（R9300まとめ・10/7更新）",
+            "u": "https://thetriathlete.co.uk/equipment/shimano-dura-ace-r9300-13-speed-groupset-everything-we-know/",
+            "d": "2026-10-07"
+          }
+        ],
+        "status": "確定＝目撃情報・セミワイヤレス継続の観測/曖昧＝未発表（spotted段階）、2×13は本記事では断定不可（※要裏取り）"
+      },
+      {
+        "id": "20261013-veneto-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/09/Elite-Mens-Road-Race_mcnulty22_world-championships_2026-1024x732.jpg",
+        "headline": "【レース・次戦／10/14】イタリアの秋はまだ続く——ジロ・デル・ヴェネト、ヴェローナ発ヴィチェンツァ着168km、世界王者マクナルティが主役格、名物モンテ・ベリコを6回",
+        "layer1": "広西と並行して、欧州では10/14にジロ・デル・ヴェネト。ヴェローナ→ヴィチェンツァ168kmで、最後はモンテ・ベリコ登りでの決着。",
+        "layer2": "コースは1.1km・平均7.5%のモンテ・ベリコを“6回”通過し、最後の600mは勾配10%超。パンチャー/登坂系スプリンターの戦場で、ゴドン（23年）やストロング（24年）が勝ち、昨年はデルトロが制した。注目は虹ジャージの世界王者マクナルティを擁するUAEで、エントリーにはヘアシ・マシューズ・トレンティン・ヨハネセン・コスネフロイらの名も（暫定）。同じ朝に女子ヴェネトも開催。",
+        "sources": [
+          {
+            "t": "Cyclingflash（プレビュー）",
+            "u": "https://cyclingflash.com/news/with-the-world-champion-as-the-star-attraction-what-you-need-to-know-about-the-2026-giro-del-veneto",
+            "d": "2026-10"
+          },
+          {
+            "t": "ProCyclingStats（暫定スタートリスト）",
+            "u": "https://www.procyclingstats.com/race/giro-del-veneto-2026-result/startlist",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝日程・コース・モンテ・ベリコ6回/曖昧＝出走は暫定リスト（※要裏取り）"
+      }
+    ]
+  },
+  {
     "date": "2026-10-12",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。昨日でクラシックは全終了——グラベル世界選・男子は26歳クラリスが王者フェルメルシュを食う『まさか』、パリ〜トゥールはヴィスマの新鋭ハーゲネスがトレンティンの4勝目を阻みました。今季最後のWTツアー・オブ・広西は本日開幕、そして今週末は『ジャパンカップ』に豪華メンバー来日。経営メモはシマノ決算(10/27)・13速移行期の在庫戦略・オフ入り前メンテを。",
     "cards": [
