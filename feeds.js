@@ -1,5 +1,256 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-14",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。今季最後のワールドツアー『広西』が開幕し、伊の秋クラシック『ヴェネト』は本日決戦、そして泥の季節（シクロクロス）も見えてきました。新鮮どころを質優先で揃えています。",
+    "cards": [
+      {
+        "id": "20261014-guangxi-st1-magnier",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/6LK93FAdoPnc7EMm9yWVS4-2560-80.png",
+        "headline": "【🔥今日の一本・レース／10/13開幕】ツアー・オブ・広西・初日はマニエが『今季13勝目』で完勝——広西で直近7戦6勝、ガビリアの最多勝記録に並ぶ、クーイは最終スプリントで接触し失速",
+        "layer1": "今季『最後のワールドツアー』ツアー・オブ・広西（中国・6日間）が10/13開幕。平坦149kmの集団スプリントをソウダル・クイックステップの22歳ポール・マニエが制し、今季13勝目。広西では直近7ステージ中6勝と相性抜群で、ガビリアが持つ本レース最多ステージ勝記録に並んだ。",
+        "layer2": "先回り——『クーイに何が起きた?』。最大のライバル、デカトロンのオラフ・クーイは発射態勢に入ったがマニエと『接触したように見え』スプリントを中断、トップ10外に沈んだ。表彰台2・3位はウェルスフォードとカンター、総合首位もマニエ。『本日10/14の第2ステージ』は崇左→靖西179kmの起伏区間で、総合本命ピドコック（ピナレロQ36.5）と初出場アユソ（UAE）のGC争いが始まる——平坦続きの中で最初の『ふるい』になる。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-of-guangxi-paul-magnier-scorches-to-victory-on-stage-1-to-make-it-six-wins-from-past-seven-stages-of-the-worldtour-race-in-china/",
+            "d": "2026-10-13"
+          },
+          {
+            "t": "Domestique",
+            "u": "https://www.domestiquecycling.com/en/news/six-wins-in-seven-stages-paul-magniers-remarkable-tour-of-guangxi-streak-continues-in-2026-opener/",
+            "d": "2026-10-13"
+          },
+          {
+            "t": "tour-magazin（第2S・総合）",
+            "u": "https://www.tour-magazin.de/en/professional-cycling/latest-news/tour-of-guangxi-magnier-is-chasing-another-sprint-festival-pidcock-the-overall-victory/",
+            "d": "2026-10-13"
+          }
+        ],
+        "status": "確定＝マニエ優勝・総合首位・今季13勝／曖昧＝クーイとの接触と降格審議の有無は『Xでも物議・要裏取り』。"
+      },
+      {
+        "id": "20261014-giro-del-veneto",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://www.tuttobiciweb.it/article/1787868454/photo-social.jpg?1472277612",
+        "headline": "【レース・本日10/14】伊の秋クラシック『ジロ・デル・ヴェネト』——世界王者マクナルティが虹ジャージで主役格、名物モンテ・ベリコの上りで決着",
+        "layer1": "イタリアの秋のワンデー、第89回ジロ・デル・ヴェネトが本日10/14開催。ヴィチェンツァ発着でコッリ・ベリチを周回し、フィニッシュは聖堂へ続く登り『モンテ・ベリコ』の中腹。世界王者ブランドン・マクナルティ（UAE）が虹ジャージ組の主役格として出走予定。",
+        "layer2": "先回り——『なぜ今これを見る?』。ロンバルディア（20歳セイシャス勝利）で今季モニュメントは終わったが、伊の秋クラシックはまだ続く。マクナルティは10/18ヴェネト・クラシックも予定し、世界選後の『虹ジャージ戦線』の締めくくり。登坂主体の消耗戦＝深リムより軽量オールラウンドが効く展開で、中華カーボンなら40〜50mmミドルハイトが狙い目。女子版（ヴェネト・ウーマン）も併催予定だが、昨季は10/15開催のため本年の確定日は公式要確認。",
+        "sources": [
+          {
+            "t": "tuttobiciweb（モンテ・ベリコ）",
+            "u": "https://www.tuttobiciweb.it/article/2026/08/28/1787868454/giro-del-veneto-cycling-colli-berici-veneto-classic-italian-classics?lang=en",
+            "d": "2026-08-28"
+          },
+          {
+            "t": "Giro del Veneto 公式",
+            "u": "https://girodelveneto.com/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝本日10/14開催・モンテ・ベリコ上りで決着・マクナルティ出走予定／曖昧＝女子版の正確な開催日は要確認。"
+      },
+      {
+        "id": "20261014-bernal-retirement-doubt",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/07/GOD-TDF26-STG18-8881-scaled.jpg",
+        "headline": "【レース・人間ドラマ／10/8】2019ツール覇者ベルナルが『引退を思案』か——ネットカンパニー・イネオスから契約オファー、転落と復活の先にある迷い",
+        "layer1": "road.ccのライブブログ（10/8）が、2019年ツール覇者エガン・ベルナル（29・コロンビア）が引退を検討中との報道を伝えた。一方で古巣ネットカンパニー・イネオスからは契約オファーがあるとも。2022年の重大落車（頸椎・大腿骨骨折など）からの復活途上での迷い。",
+        "layer2": "先回り——『今季は別れが続く』。10/9にはロット・インテルマルシェの24歳オリンスが、パニック障害などを公表しプロ2年で引退を表明。20歳セイシャスら新世代が一気に台頭する一方、前世代の名手が静かに去っていく。ベルナルの去就は『報道段階・本人未発表』だが、22歳でツールを制した天才が『続けるか否か』で揺れる物語は、結果速報よりも人の心を動かす——ショートやブログの人間ドラマの芯になる題材。",
+        "sources": [
+          {
+            "t": "road.cc（ライブブログ）",
+            "u": "https://road.cc/news/cycling-live-blog-8-october-2026",
+            "d": "2026-10-08"
+          },
+          {
+            "t": "CyclingUpToDate（オリンス引退）",
+            "u": "https://cyclinguptodate.com/cycling/pello-bilbao-announces-his-retirement-from-professional-cycling-at-the-end-of-2026",
+            "d": "2026-10-09"
+          }
+        ],
+        "status": "曖昧＝ベルナルの引退は『報道段階・本人未発表』、オファーも未確定（※要裏取り）／確定＝若手オリンスの引退表明。"
+      },
+      {
+        "id": "20261014-cx-winter-open",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-10%2Fwout-van-aert-2-6abe0a7621bf6.jpg",
+        "headline": "【トレンド・冬の開幕】泥のシーズン（シクロクロス）が目前——ファンアールトは『参戦確定』、ピドコックは見送り、ファンデルプールは第一子で去就不透明",
+        "layer1": "ロードが秋で区切りを迎え、シクロクロス2026-27シーズンが目前。ワウト・ファンアールトは今冬の参戦を明言。一方トム・ピドコックは近年CXから遠ざかり今冬も見送りの見込み、マチュー・ファンデルプール（MvdP）は去就不透明。初のUCIワールドカップはオストラヴァ（11/27）から。",
+        "layer2": "先回り——『なぜMvdPは迷う?』。MvdPは世界選を今季最後と公言済みで、パートナーの出産が1月（CX世界選オステンドと同月）に重なる。『CXは一番好きだが年々消耗が大きい』とも語る。三強（MvdP・ファンアールト・ピドコック）が泥で激突する日が来るかは依然未定。日本でも『冬はCX観戦』が定着しつつあり、オフに向けた機材・ウェア提案（太タイヤ・泥対応・保温）の切り口にもなる。",
+        "sources": [
+          {
+            "t": "IDL ProCycling（ファンアールト）",
+            "u": "https://www.idlprocycling.com/cyclo-cross/there-are-questions-surrounding-van-der-poel-but-we-will-definitely-see-wout-van-aert-back-in-cyclocross-this-winter",
+            "d": "2026-10"
+          },
+          {
+            "t": "IDL ProCycling（26-27カレンダー）",
+            "u": "https://www.idlprocycling.com/cyclo-cross/20262027-cyclocross-calendar-calendars-are-ready-lets-race",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝ファンアールト参戦明言・初WCは11/27オストラヴァ／曖昧＝MvdPの参戦は未定、ピドコックは見送り見込み。"
+      },
+      {
+        "id": "20261014-ultegra-13s",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://pub-f154438dceef491ba243fbee53912d51.r2.dev/2026/06/677547-Shimano_RT-CL750_Kfickling_2026_010-4ea9a5-original-1780035740.jpg",
+        "headline": "【パーツ・機材最前線／10/13】新デュラに続き『アルテグラ13速』も2027へ接近——噂が再燃、現行11/12速の『買い時』をどう伝えるか",
+        "layer1": "伊チクロンラインが10/13、次期シマノ・アルテグラ13速（2027想定）の噂が『いよいよ近づいている』と報道。先行する新デュラエースR9300（13速）に続き、普及帯のアルテグラにも13速化の波が及ぶ見立て——ただし現時点で公式発表・詳細スペックはなく、あくまで噂段階。",
+        "layer2": "先回り——『初中級は待つべき?』。13速化は『2×13・セミワイヤレス継続』の見方が主流で、焦点は互換性（スプロケ・ホイールのフリー）とフレーム対応。恩恵は大半のホビーライダーには小さい。むしろ今は型落ち11/12速が大幅値引きされる好機。『新型を待つ』より『今の型落ちで乗り出し、将来必要なら載せ替え』が現実解——と伝えるのが、縮小市場で信頼を積むショップの誠実な接客。",
+        "sources": [
+          {
+            "t": "Cyclonline（シマノ最新）",
+            "u": "https://www.cyclonline.com/51-shimano-news-review-test",
+            "d": "2026-10-13"
+          }
+        ],
+        "status": "曖昧＝アルテグラ13速は『噂段階・未発表』、投入時期とスペックは未確定。"
+      },
+      {
+        "id": "20261014-magene-china-pm",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://rbs.ta36.com/wp-content/uploads/2023/11/PES-P505-1024x831-1.jpg",
+        "headline": "【経営メモ・市場／機材】中華パワーメーターが『実測でアシオマ級』——Mageneが4〜6万円で精度評価、低価格シフトの受け皿に",
+        "layer1": "中華ブランドMageneのパワーメーター（スパイダー型P515、両側ペダル型とデータ一致との2026年レビュー）が評価を集める。日本語ブログでも廉価なP505（約4万円）がアシオマDUO・Saris H3と平均1%台の差と報告され、『コスパ最強』評が定着しつつある。",
+        "layer2": "先回り——『経営的に何を意味するか』。新品ロードが高止まりし市場が縮小する中、客の支出は『低価格×必要十分』へ明確にシフト。パワメは以前の10万円超から3〜6万円の中華で『入門の壁』が下がった。Mageneは数ワット高めに出る傾向の指摘もあるが、トレーニング指標としては実用十分。うちの中華カーボン（8LIEN／CRW／GOOSYNN等）と同じ『性能は十分・価格は半分』の文脈で、客の基準そのものが中華へ移っている——その流れを言葉にできることが接客の武器になる。",
+        "sources": [
+          {
+            "t": "Zelpio（P515レビュー）",
+            "u": "https://www.zelpio.com/ja/blog/magene-pes-p515-power-meter-crankset-review/",
+            "d": "2026-09"
+          },
+          {
+            "t": "RBS（P505比較）",
+            "u": "https://rbs.ta36.com/?p=61869",
+            "d": "2024-01"
+          },
+          {
+            "t": "note（P505レビュー）",
+            "u": "https://note.com/hakumai_megami/n/n00e6614855e6",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝中華パワメの実測精度は複数が高評価／曖昧＝個体差・ファーム更新での挙動は要確認。"
+      },
+      {
+        "id": "20261014-jp-market-shrink",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://president.ismcdn.jp/mwimgs/0/6/1200wm/img_0660a33420a28663b24c51f3c1290c681252929.jpg",
+        "headline": "【経営メモ・市場／国内】『縮小市場×型落ち期』の秋——台数は3年で約200万台減、シュッピンは自転車撤退、10〜11月の型落ちは20〜40%OFFが標準",
+        "layer1": "国内自転車市場は金額こそ横ばいでも台数は減少基調（2020年718万台→2023年508万台）。中古買取大手シュッピンは2026年3月で自転車事業を終了。そこへ毎年恒例の『10〜11月＝型落ち底値』期（値引き20〜40%OFF）が重なる秋。",
+        "layer2": "先回り——『専門店はどう戦うか』。ブーム終息で台数で稼ぐ時代は終わり、残る道は（1）型落ち在庫を『整備・保証つき』で丁寧に回す、（2）多店舗チェーンではなく専門店は『目利きと技術』で単価と信頼を取る、の二択に収れん。客が『新型高止まり』を嫌い型落ち・中古に目を向ける今は、下取りを新車商談の入口にし、浮いた予算を中華ホイール等のアップグレードへ誘導するのが現実的な一手。",
+        "sources": [
+          {
+            "t": "PRESIDENT（シュッピン撤退・市場縮小）",
+            "u": "https://president.jp/articles/-/81117",
+            "d": "2025"
+          },
+          {
+            "t": "pricey.jp（型落ちの買い時）",
+            "u": "https://pricey.jp/web/articles/3501",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝台数減・シュッピン撤退・型落ち期の値引き傾向／曖昧＝2026年の個別店舗動向と割引率は店舗差が大きい。"
+      },
+      {
+        "id": "20261014-hook-vs-hookless",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://enve.com/cdn/shop/files/SES_4.5-Pro-Tadej_front_angle_e87bd949-ae81-4324-9380-57b058c3271a.jpg?v=1751547788",
+        "headline": "【ホイール・機材読み／ENVE起点】完全フックレスの『揺り戻し』——ENVEがPROラインで『0.5mmの微フック』採用、中華を選ぶならフック/フックレスをどう見るか",
+        "layer1": "ポガチャルらと開発したENVEの新PROライン（SES 6.7 Proが直近発売、廉価な4.5 Proも）は、ワイドなフックレス形状から材料を削り『0.5mmの小さなフック』を残す設計。完全フックレス一辺倒への揺り戻しが機材界のトレンドになりつつある。",
+        "layer2": "先回り——『初中級・中華選びにどう効く?』。フックレスはワイド・軽量・低圧向きだがタイヤ嵌合の管理がシビアで、適合タイヤと空気圧上限（多くは約5bar／72.5psi）を守らないと外れる不安が残る。微フック回帰は安全マージンを足す動き。中華カーボン（Winspace／Elitewheels／YOELEO等）を選ぶなら、(1)フック有無とメーカー推奨タイヤ・上限空気圧、(2)内寸（21mm前後が今の標準）、(3)チューブレス運用の可否、の3点を必ず確認。『ディープかどうか』より先に見るべき点。",
+        "sources": [
+          {
+            "t": "ENVE（SES 4.5 Pro）",
+            "u": "https://enve.com/products/ses-4-5-pro",
+            "d": "2026-10"
+          },
+          {
+            "t": "Velofanatics（中華カーボン現在地）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026-05"
+          }
+        ],
+        "status": "確定＝ENVE PROラインが微フック設計を採用／曖昧＝各中華ブランドのフック仕様・適合は製品ごと要確認。"
+      },
+      {
+        "id": "20261014-tubeless-pressure",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://www.bepal.net/wp-content/uploads/2021/03/20210321-_R000098-4.jpg",
+        "headline": "【初中級・走りの理屈】グラベル世界選の『低圧』に憧れたら——チューブレス初心者が必ずつまずく『3つの失敗』",
+        "layer1": "プロは太タイヤ×低圧でグリップとパンク耐性を両立（週末のグラベル世界選でも実証）。真似して空気圧を下げたい初中級が増えるが、チューブレスは入口で必ずつまずく3点がある。",
+        "layer2": "先回り——『3失敗と対策』。(1)放置エア漏れ＝数日乗らないとシーラントが固まり抜ける→定期的に回す・バルブコア増し締め、(2)上限/下限の無視＝下げ過ぎてリム打ち・タイヤ外れ→メーカー推奨の下限と上限（フックレスは特に厳守）を確認し『現状から5psiずつ』下げる、(3)シーラント切れ＝3〜4か月で乾く→定期補充・交換。『低圧＝正義』ではなく、体重・リム内寸・路面で『ちょうどいい』を探すのがセッティングの真髄。まず専用ポンプ・シーラント・予備バルブを揃えてから挑むのが安全。",
+        "sources": [
+          {
+            "t": "BE-PAL（チューブレス解説）",
+            "u": "https://www.bepal.net/bike/147122",
+            "d": "2024"
+          },
+          {
+            "t": "road.cc（チューブレス懐疑論）",
+            "u": "https://road.cc/?p=29069",
+            "d": "2024"
+          }
+        ],
+        "status": "普遍ネタ（グラベル世界選10/10-11の低圧運用をきっかけに）。数値は一般的目安で、実値はタイヤ・リムの指定を優先。"
+      },
+      {
+        "id": "20261014-first-powermeter",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://www.zelpio.com/generated/product-images/magene-pes-p515-power-meter-crankset-review.webp",
+        "headline": "【初中級・機材の理屈】『最初のパワーメーターは中華で十分?』——MyWhooshの事実上必須化で再燃、優先順位と選び方",
+        "layer1": "インドアのMyWhooshが賞金レースで実パワーメーターを事実上必須化（約789ドルのファベロ製など）し、『公平性 vs 出費』が議論に。中華Mageneが『実測アシオマ級』と評価される今、初中級の『最初の一台』にパワメは要るのか——が改めて話題に。",
+        "layer2": "先回り——『優先順位』。屋外で楽しむだけなら必須ではない（心拍計でも十分）。だが(1)Zwift等でレース・計測をする、(2)FTPベースで計画的に伸ばしたい、なら費用対効果は高い。選ぶなら片側計測の廉価中華（3〜4万円）から入り、左右差が気になれば両側へ。精度は『絶対値』より『同じ機材で比べられる再現性』が大事＝中華でも実用十分。ただし優先順位としては、まず『ちゃんと整備された車体＋適正空気圧＋シューズ・ペダル』が先で、パワメはその次。",
+        "sources": [
+          {
+            "t": "Zelpio（Magene P515）",
+            "u": "https://www.zelpio.com/ja/blog/magene-pes-p515-power-meter-crankset-review/",
+            "d": "2026-09"
+          },
+          {
+            "t": "note（P505レビュー）",
+            "u": "https://note.com/aoma_siki/n/ne60f8c33dab0",
+            "d": "2026"
+          }
+        ],
+        "status": "普遍ネタ。中華パワメの精度評価は複数あるが、個体差・ファーム更新は要確認。"
+      }
+    ]
+  },
+  {
     "date": "2026-10-13",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。今季最後のワールドツアー『ツアー・オブ・広西』が本日開幕、一方で欧州はロンバルディア後の“余韻と事件”が盛りだくさん——モートンの165年ぶり記録、選手の安全スト、コモ市長の自転車締め出しまで、人間ドラマと市場ネタを厚めに集めました。",
     "cards": [
