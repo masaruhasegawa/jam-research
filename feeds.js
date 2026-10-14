@@ -1,5 +1,275 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-15",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。広西は『番狂わせ』で動き、本日は第3ステージ。週末はジャパンカップ、店頭には新型ハイエンドが続々です。",
+    "cards": [
+      {
+        "id": "20261015-guangxi-st2-st3",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/width:1920/height:1280/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-10/frits-biesterbos.jpg@webp",
+        "headline": "【🔥今日の一本・レース／10/14-15】ツアー・オブ・広西・第2ステージは『番狂わせ』——ピクニックのビーステルボスがマニエを差して今季WT初勝利、本日10/15は最長の第3Sジンシー→バマ212km",
+        "layer1": "今季最後のワールドツアー、広西の第2S（179.7km・獲得1818m）は22歳フリッツ・ビーステルボス（ピクニック・ポストNL）が、連勝を狙うマニエとコーイを競り落としてチーム今季WT初勝利。マニエはリーダージャージを維持。本日10/15の第3Sはジンシー→バマ約212kmで今大会最長、残り1時間に2.7km・平均4.7%＋800m・5%の上りが待つ。",
+        "layer2": "広西はスプリンター天国だが、第3Sは『純粋な集団スプリントか、パンチャーの飛び出しか』で予想が割れる。総合は最終日10/18のノンラ登頂で決まる見込みで、ここは通過点の色が濃い。本日の有力は昨年同ステージ覇者マニエ、グローヴス、コーイ。※第3Sは本日開催のため結果は未確定。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate（第2S結果）",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-of-guangxi-2026-stage-2-frits-biesterbos-stuns-paul-magnier-to-take-picnics-first-world-tour-win-of-the-year",
+            "d": "2026-10-14"
+          },
+          {
+            "t": "IDL ProCycling（第3Sプレビュー）",
+            "u": "https://www.idlprocycling.com/cycling/2026-tour-of-guangxi-preview-pidcock-vs-widar-on-a-new-mountain-stage-plus-a-decisive-finale-on-nongla",
+            "d": "2026-10-13"
+          },
+          {
+            "t": "ProCyclingStats（第2S）",
+            "u": "https://www.procyclingstats.com/race/tour-of-guangxi-2026-stage-2/results/results",
+            "d": "2026-10-14"
+          }
+        ],
+        "status": "確定＝第2Sビーステルボス優勝・マニエ総合首位（10/14）／曖昧＝第3Sは本日開催・結果未確定"
+      },
+      {
+        "id": "20261015-giro-veneto-covi",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/watermark:Screenshot%3A%20Eurosport/width:1920/height:1280/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-10/alessandro-covi-wins-the-2026-giro-del-veneto-6acf91e7c39c6.jpg@webp",
+        "headline": "【レース・人間ドラマ／10/14決着】ジロ・デル・ヴェネト、アレッサンドロ・コヴィが『今季初勝利』——モンテ・ベリコの上りスプリントで、虹のマクナルティ擁するUAEの包囲を破る",
+        "layer1": "伊の秋クラシック、ヴェローナ→ヴィチェンツァ167km（モンテ・ベリコを5回）は、コヴィ（ジェイコ・アルウラ）が最終登坂の残り300mで抜け出し、シャーミグ（ウノＸ）とコスヌフロワ（UAE）を抑えて今季初勝利。トップ10にイタリア勢4人が並んだ。",
+        "layer2": "UAEは世界王者マクナルティを軸にリードアウトを組んだが、勝ったのは『元UAE』のコヴィ。けがと不振に苦しんだ一年の末の1勝で、虹ジャージのチーム力を個の一撃が上回った構図だ。前年覇者デル・トロに続くヴェネト覇者の列に名を刻んだ。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/giro-del-veneto-alessandro-covi-pulls-off-first-win-of-2026-with-well-timed-sprint/",
+            "d": "2026-10-14"
+          },
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/results-giro-del-veneto-2026-alessandro-covi-denies-charmig-and-cosnefroy-to-take-uphill-sprint-despite-mcnultys-uae-lead-out",
+            "d": "2026-10-14"
+          }
+        ],
+        "status": "確定＝コヴィ優勝・2位シャーミグ・3位コスヌフロワ（10/14）"
+      },
+      {
+        "id": "20261015-japan-cup-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.www.race24.asia/w1200/q100/f_jpg/article-images/2026-03-19/50986cb0-6026-415f-837c-aaee95a53151.png",
+        "headline": "【レース・国内／今週末10/18決戦】ジャパンカップ宇都宮、昨年女王レニー・マルティネスが連覇挑戦——シモンズ、シュミット、ボダンら来日、WT6チームが集結",
+        "layer1": "アジア最高格の1dayレース（森林公園・1周10.3km）が10/18に開催。2025年覇者レニー・マルティネス（バーレーン）が連覇を狙い、スタートリストにはクイン・シモンズ、マウロ・シュミット、アレクシ・ボダンら。バーレーン／EF／リドル・トレック／ロット／ジェイコ／チューダーらWT勢＋国内チームが顔を揃える。",
+        "layer2": "周回の名物『古賀志林道』の激坂が勝負どころで、パンチャー型クライマーが抜け出す定番。来日スターの無料生観戦は、秋の地域集客＝『店の入口』にもなる一日だ。※最終スタートリストは直前変更あり（主催者が更新中）。",
+        "sources": [
+          {
+            "t": "ジャパンカップ公式",
+            "u": "https://www.japancup.gr.jp/en/",
+            "d": "2026-10"
+          },
+          {
+            "t": "ProCyclingStats（スタートリスト）",
+            "u": "https://www.procyclingstats.com/race/japan-cup/2026/startlist",
+            "d": "2026-10-14"
+          },
+          {
+            "t": "Cyclingnews（Japan Cup）",
+            "u": "https://www.cyclingnews.com/japan-cup/races",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝開催10/18・2025覇者マルティネス参戦／曖昧＝最終出走者は直前変更の可能性（※要裏取り）"
+      },
+      {
+        "id": "20261015-derosa-merak",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/10/merak26_01.jpg",
+        "headline": "【パーツ・新型／Xで賛否・10/13国内発表】デローザが新型『メラク』を公開——700gフレーム・完全再設計、だが伝統の『ハートマーク』がヘッドチューブから消えた",
+        "layer1": "デローザの新型メラクが国内メディアで紹介（10/13）。無塗装480サイズでフレーム700g・フォーク280gの軽量フルカーボンで、高弾性T1100とM40Jが繊維の7割超。Classic／Dynamic／Raceの3グラフィック、クリアランス最大34c、T47・UDH・フル内装に対応する。",
+        "layer2": "話題の中心は性能より『顔』——創業家の象徴だったハートのロゴがヘッドチューブから外れ、レトロフューチャー路線に振れた。SNSでは『デローザらしさが薄れた』と賛否が割れる。グローバル初公開は8/31で、今回は国内展開のタイミングだ。※完成車は仕様で6.9〜7.1kg、国内価格は未発表。",
+        "sources": [
+          {
+            "t": "cyclesports.jp",
+            "u": "https://www.cyclesports.jp/news/new-product/170200/",
+            "d": "2026-10-13"
+          },
+          {
+            "t": "Giro d'Italia（グローバル発表）",
+            "u": "https://www.giroditalia.it/en/news/de-rosa-unveils-the-new-merak-where-lightness-meets-stability/",
+            "d": "2026-08-31"
+          }
+        ],
+        "status": "確定＝フレーム700g・ハートロゴ無し・3グラフィック／曖昧＝国内価格未発表（※要裏取り）"
+      },
+      {
+        "id": "20261015-colnago-g5x",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/576qNpECZKCGyebtVddhri-2560-80.jpg",
+        "headline": "【パーツ・新型グラベル／10/7発表】コルナゴが第3世代グラベル『G5-X』——53mmタイヤ対応＋フレーム内収納、SRAM XPLRの3モデル",
+        "layer1": "コルナゴのレース志向グラベル新型G5-Xが10/7発表。トラカ200やアンバウンド200など4レースを開発の下敷きにし、ジオメトリを刷新（BBドロップ増・ホイールベース延長）。タイヤクリアランスは先代G4-Xから8mm拡大の53mm、ダウンチューブに工具・チューブ・CO2が入る内蔵収納、シートポストは丸形27.2mmに。",
+        "layer2": "構成はSRAM XPLR AXSの3種（Rival／Force／Red）。価格は情報源で差があり、Red級は約1万ドル／€9,200前後、Force級は£6,300前後の報道（※地域・国内は要確認）。『ロードの数値をそのまま借りられない』とコルナゴが言う通り、グラベルは専用設計で詰める時代に入った。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/bikes/gravel/you-cant-simply-borrow-road-metrics-colnago-launches-new-g5-x-gravel-bike/",
+            "d": "2026-10-07"
+          },
+          {
+            "t": "cyclowired",
+            "u": "https://www.cyclowired.jp/",
+            "d": "2026-10-10"
+          },
+          {
+            "t": "Cycling Weekly（ファーストライド）",
+            "u": "https://www.cyclingweekly.com/products/fast-yet-capable-colnago-rethinks-its-gravel-bike-with-the-release-of-the-g5-x-and-weve-ridden-it-ahead-of-its-launch",
+            "d": "2026-10-07"
+          }
+        ],
+        "status": "確定＝53mm対応・内蔵収納・XPLR 3モデル（10/7）／曖昧＝価格は地域差・国内未確定（※要裏取り）"
+      },
+      {
+        "id": "20261015-shimano-wh9370-vs-china",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://media.delius-klasing.de/dpr_auto,fl_progressive,f_jpg,c_fill,g_face:center,h_675,w_1200/q_auto:eco/tour/682846-dura-ace-wh-r9370-series-all-wheels-horizontal-1920x1080px-a38595-original-1781853537-2_c04877b394fc6543826d141c68c6fc30",
+        "headline": "【経営メモ・市場／競合】シマノ新デュラエース・ホイール『WH-R9370』がこの秋店頭へ——カーボンスポーク化、中華カーボンの価格優位をどう説明するか",
+        "layer1": "シマノの新世代デュラエース・ホイール（C36／C50／C60＋TTのC99）が供給期に。全モデルがカーボンスポーク化し、C36は先代比約178g軽量、内寸23mmで28〜30c最適、48km/hで最大2.7W低減（いずれもメーカー公称）。発表は夏、国内の本格供給はこの秋から。",
+        "layer2": "大手が最上位をさらに引き上げるほど、客の『基準』は価格で中華カーボンに寄る。うちの8LIEN／CRW／YOELEO等も内寸・カーボンスポーク・軽量は同じレンジにあり、差は『ブランド保証・供給・サポート』。説明の軸をそこに置けば、新デュラの横でも中華は選ばれる。※公称値は実測で裏取りを。",
+        "sources": [
+          {
+            "t": "Tour Magazin",
+            "u": "https://www.tour-magazin.de/en/buying-advice/components/impellers/shimano-unveils-the-dura-ace-wh-r9370-wheelsets/",
+            "d": "2026-07"
+          },
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/shimano-dura-ace-r9370-wheels",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝新デュラ・ホイールはカーボンスポーク化・この秋供給／※性能は夏発表のメーカー公称値"
+      },
+      {
+        "id": "20261015-transfers-2027",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/BeqSRtAgGQv26oXLCwLUKW-2560-80.jpg",
+        "headline": "【トレンド・移籍／人間ドラマ・Xでも話題】2027年の争奪が過熱——36歳ランダが古巣エウスカルテル復帰、カハルラルの若手がピナレロへ、UAEの逸材がリドル・トレックへ",
+        "layer1": "2027シーズンのロースターが続々。36歳ミケル・ランダがソウダルを離れ、プロのキャリアを始めた古巣エウスカルテル・エウスカディへ復帰（2〜2年リードの報）。UAEのイゴル・アリエタがリドル・トレックへ、カハルラルのベルウィック＆カステリョンがピナレロQ36.5へ、との報道も続く。",
+        "layer2": "構図は『完成形のUAE／ヴィスマが若手を買い集め、育成系が主力を抜かれる』。ランダの復帰は、2011〜13年に走り財団再建にも関わった地元バスクへの『帰郷』物語でもある。※アリエタ・カハルラル勢やヒンドレーのヴィスマ移籍は代理人筋の報道段階で、公式確認は未（※要裏取り）。",
+        "sources": [
+          {
+            "t": "Cyclingnews（2027移籍まとめ）",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/cycling-transfers-all-the-latest-news-and-announcements-for-the-2027-season/",
+            "d": "2026-10-14"
+          },
+          {
+            "t": "Cycling Weekly（移籍まとめ）",
+            "u": "https://www.cyclingweekly.com/racing/all-the-pro-cycling-transfers-for-2027",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝ランダ→エウスカルテル（各社報道）／曖昧＝アリエタ・カハルラル勢・ヒンドレーは※Xで話題、要裏取り"
+      },
+      {
+        "id": "20261015-kataochi-bonus",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.pricey.jp/owned-media/hub-page-main-visual-images/article_3501.webp",
+        "headline": "【経営メモ・市場／国内】10〜11月は『型落ち底値』の本番——値引き20〜40%が標準、冬ボーナス期は入門特価、客は『新型高止まり』で型落ちへ",
+        "layer1": "国内の値引きカレンダーでは、モデル入れ替えの10〜11月は型落ちが20〜40%引きになりやすく、年末年始は在庫処分で半額級も出る。7月・12月のボーナス期は入門モデルの特価が出やすい、と指摘される。",
+        "layer2": "今季は新型ハイエンド（デローザ・メラク、コルナゴG5-X等）が相次ぎ『新型高止まり』感が強い。だからこそ型落ち＋整備・保証つきの提案が刺さる。狙いは『ボーナス前の取り置き・予約』で在庫を動かし、下取りを新車商談の入口にすること。※実売価格は各店で要確認。",
+        "sources": [
+          {
+            "t": "pricey.jp（自転車セール時期）",
+            "u": "https://pricey.jp/web/articles/3501",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝10〜11月型落ち20〜40%・年末は更に下げ（一般的傾向）／※実売は各店要確認"
+      },
+      {
+        "id": "20261015-autumn-layering",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/10/173_image2.jpg",
+        "headline": "【初中級・走りの理屈／10/12新作起点】朝が冷える季節の『レイヤリング』——パールイズミが15℃対応の秋冬アンダーを刷新、重ね着の考え方",
+        "layer1": "パールイズミが15℃対応の薄手秋冬アンダー『ウォームフィットドライアンダー』をリニューアル発売（10/12）。朝晩が冷える今まず効くのは、高いアウターより『汗を素早く逃がすベースレイヤー』の見直しだ。",
+        "layer2": "秋冬のコツは『重ねて脱ぐ』——①汗抜けのアンダー②保温の中間③風を切るシェルの3層。登りで暑く下りで冷える日本の秋は、前を開けて調整できるジャージ＋アーム／ニーウォーマーが入口。綿のインナーは汗で冷えるのでNG。",
+        "sources": [
+          {
+            "t": "cyclesports.jp",
+            "u": "https://www.cyclesports.jp/news/new-product/170133/",
+            "d": "2026-10-12"
+          }
+        ],
+        "status": "確定＝パールイズミ新作は15℃対応・10/12発売／レイヤリングは普遍の考え方"
+      },
+      {
+        "id": "20261015-first-bike-kataochi",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://static2.giroditalia.it/wp-content/uploads/2026/08/GxNuSQNvEFxeI7jbjuBr_310826-025038.png?v=20260831145038",
+        "headline": "【初中級・機材の理屈】『最初の1台は型落ちで十分?』——値引き期のいま、新型高止まりの中で後悔しない選び方",
+        "layer1": "10〜11月の型落ちセール期は初心者の買い時。だが『型落ち＝型遅れで損』ではない。1〜2年前のミドルグレードは、いまの新型とフレーム性能差はわずかで、価格は20〜40%安いことが多い。",
+        "layer2": "見るべきは『年式』より、①サイズが合うか②油圧ディスク＆スルーアクスルか③12速など現行規格で将来の部品入手に困らないか。逆に避けたいのは、旧い機械式・クイックリリースだけの在庫。中華カーボンホイールへの換装前提なら、完成車は型落ちで浮かせて脚（ホイール）に回すのも賢い手だ。",
+        "sources": [
+          {
+            "t": "pricey.jp（自転車セール時期）",
+            "u": "https://pricey.jp/web/articles/3501",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝選ぶ軸はサイズ・ディスク/スルーアクスル・現行規格／型落ちの価格差は一般的傾向"
+      },
+      {
+        "id": "20261015-autumn-accessories",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/10/mattoneweb_01.jpg",
+        "headline": "【トレンド・新製品／10/14】秋は小物の『新製品ラッシュ』——シリカがBOA採用の可変容量サドルバッグを投入、軽量・使い勝手の競争が加速",
+        "layer1": "新車シーズンに合わせ、小物の新製品が続々登場。シリカはBOAダイヤルで容量を絞り込める超コンパクトな可変型サドルバッグを発表（10/14）。トピークは東レ製カーボンで18gのボトルケージを出すなど、各社が『軽量×使い勝手』を競っている。",
+        "layer2": "フレームやホイールほど目立たないが、サドルバッグ・ケージ・ウェアの刷新は『客単価を上げる入口』。特にBOA可変バッグは、積載を増減したいロングライド派に刺さる。年末ギフト需要とも重なり、ショーケースの回転が効く時期だ。",
+        "sources": [
+          {
+            "t": "cyclesports.jp（シリカ）",
+            "u": "https://www.cyclesports.jp/news/new-product/170235/",
+            "d": "2026-10-14"
+          },
+          {
+            "t": "cyclesports.jp（トピーク）",
+            "u": "https://www.cyclesports.jp/news/new-product/",
+            "d": "2026-10-07"
+          }
+        ],
+        "status": "確定＝シリカBOA可変サドルバッグ発表（10/14）・トピーク18gケージ（10/07）"
+      }
+    ]
+  },
+  {
     "date": "2026-10-14",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。今季最後のワールドツアー『広西』が開幕し、伊の秋クラシック『ヴェネト』は本日決戦、そして泥の季節（シクロクロス）も見えてきました。新鮮どころを質優先で揃えています。",
     "cards": [
