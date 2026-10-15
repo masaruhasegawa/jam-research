@@ -1,5 +1,284 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-16",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。広西は本日『山岳の第4ステージ』、週末はジャパンカップですが昨年王者マルティネスが体調不良で欠場。ガナのリドル・トレック電撃移籍、ENVEの新型ホイール、そして来週はパリで2027ツール発表です。",
+    "cards": [
+      {
+        "id": "20261016-guangxi-st3-st4",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/CiBmvmWoAyLWCQPUnvsrMi-2560-80.jpg",
+        "headline": "【🔥今日の一本・レース／10/15決着・本日10/16第4S】ツアー・オブ・広西・第3ステージはミラン・フレティンが勝利——好位置のマニエが『クリート外れ』で失速、ビースターボスを差す。本日は最長の山岳・第4Sバマ→天峨165.7km",
+        "layer1": "今季最後のワールドツアー・ステージレース、広西の第3S（ジンシー→バマ212km）は、コフィディスのミラン・フレティンがフリッツ・ビースターボスを差して勝利。初日マニエ→2日目ビースターボスと続いた流れを崩した一戦。",
+        "layer2": "勝敗を分けたのは『クリート外れ』。最終スプリントで絶好位置につけたパウル・マニエが踏み込んだ瞬間に足がペダルから外れて失速、空いたスペースをフレティンが突いた。ファビオ・ヤコブセンは4位で「4位でも小さな勝利に感じる」と復調の手応え。本日10/16の第4Sバマ→天峨(165.7km)は今大会初の本格山岳で、頂上フィニッシュは無いが起伏が総合を動かす可能性。総合の大勢は最終日10/18の天峨→ノンラ(頂上3.1km・平均6.3%)で決まる見込み。",
+        "sources": [
+          {
+            "t": "Cyclingnews（第3S速報）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-of-guangxi-milan-fretin-pips-biesterbos-to-stage-3-victory-after-well-placed-paul-magnier-unclips-during-sprint/",
+            "d": "2026-10-15"
+          },
+          {
+            "t": "Cyclingnews（ヤコブセン）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/fourth-place-almost-feels-like-a-small-victory-fabio-jakobsen-starts-to-bounce-back-in-guangxi/",
+            "d": "2026-10-15"
+          },
+          {
+            "t": "ProCycling UK（全6S ルートガイド）",
+            "u": "https://procyclinguk.com/tour-of-guangxi-2026-route-guide/",
+            "d": "2026-09-30"
+          }
+        ],
+        "status": "確定＝第3Sはフレティン勝利・マニエのクリート外れ・ヤコブセン4位。曖昧＝第4Sは本日の結果待ち、総合首位は要確認。"
+      },
+      {
+        "id": "20261016-japancup-withdrawals",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.sanity.io/images/iocd9e4k/production/624207f317378c4a42f4aeaf82998fd3f287e75d-1091x727.jpg?rect=0,79,1091,570&w=1200&h=627&q=75&fit=crop&auto=format",
+        "headline": "【レース・国内／10/15発表】ジャパンカップ宇都宮、昨年王者レニー・マルティネスが『体調不良で欠場』——ゲイガン・ハートも負傷欠場、本日10/16はチーム発表、17日クリテ・18日本戦",
+        "layer1": "今週末10/18のジャパンカップ（宇都宮・森林公園）で、連覇が期待された昨年優勝のレニー・マルティネス（バーレーン・ヴィクトリアス）が体調不良のため欠場と発表。さらにテイオ・ゲイガン・ハートがレース中の負傷、ストーラー／ファッブロもチーム都合で欠場し、来日メンバーに変動。",
+        "layer2": "大会は10/16（金）オリオンスクエアでのチーム発表、10/17（土）大通りクリテリウム、10/18（日）森林公園の本戦ロードレース（1周10.3km）という3日構成。バーレーンは新パートナーのビアンキ（セレステ復活）の最新レースモデルで来日。主役級が相次いで抜けたぶん出走リストは本日以降も動く見込みで、最終スタートリストは翌日公開予定。",
+        "sources": [
+          {
+            "t": "ジャパンカップ公式（欠場告知 news/4022）",
+            "u": "https://www.japancup.gr.jp/news/4022/",
+            "d": "2026-10-15"
+          },
+          {
+            "t": "ジャパンカップ公式（大会トップ）",
+            "u": "https://www.japancup.gr.jp/",
+            "d": "2026-10-16"
+          }
+        ],
+        "status": "確定＝マルティネス体調不良・ゲイガン・ハート負傷・ストーラー/ファッブロ欠場、日程は3日構成。曖昧＝最終スタートリストは本日以降確定。"
+      },
+      {
+        "id": "20261016-ganna-lidltrek",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/9kHuhuA9LSaLw3UkVM4ZSi-2000-80.jpg",
+        "headline": "【トレンド・移籍／人間ドラマ・Xで騒然・10/13発表】ガナが『契約1年残してイネオス電撃退団』、リドル・トレックへ3年契約——8年在籍の古巣を離れ2029年まで、イネオスは2027年ロースターが16人に",
+        "layer1": "フィリッポ・ガナ（10度のグランツール区間勝利）が、ネットカンパニー・イネオスとの契約を1年残して退団し、リドル・トレックと2029年末までの3年契約を締結。発表は10/13で、X（旧Twitter）でも「電撃」と騒然に。",
+        "layer2": "早期退団は3者合意が要る異例の形。リドルはクラシック強化の狙いで、ガナは同チーム8人目の2027年補強（指揮官もグエルチレナからA.シュレクへ交代期）。一方イネオスは発表時点で退団を公式に認めておらず、2027年ロースターがわずか16人という台所事情が露呈。チッコーネ退団で空いた枠にガナが入る構図との見方もあり、強豪再編が年末へ加速。",
+        "sources": [
+          {
+            "t": "Cyclingnews（移籍）",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/filippo-ganna-makes-early-exit-from-netcompany-ineos-to-move-to-lidl-trek/",
+            "d": "2026-10-13"
+          },
+          {
+            "t": "Escape Collective",
+            "u": "https://escapecollective.com/ganna-signs-with-lidl-trek-terminating-netcompany-ineos-contract/",
+            "d": "2026-10-13"
+          }
+        ],
+        "status": "確定＝3年契約・2029年末まで・イネオスは2027年16人。曖昧＝退団理由の詳細とチッコーネ枠との直接関係は各社の見立て（※一部要裏取り）。"
+      },
+      {
+        "id": "20261016-tdf2027-presentation",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/3KH857CLD44sjfxPkic323-2000-80.jpg",
+        "headline": "【トレンド・業界／10/13-15】来週10/22パリで『2027ツール・ド・フランス』発表——最終日モンマルトルは『除外』の報道、黄色いジャージはカステリが33年ぶり復帰",
+        "layer1": "2027年ツールのルート発表が10/22にパリで行われる。2025・26と最終日を沸かせたモンマルトルの激坂は、2027年は「外れる」方向との報道。同じ発表の場で、ASO各レースのジャージを供給する新パートナーとして、カステリが33年ぶりに黄色いジャージへ復帰する。",
+        "layer2": "カステリはサンティーニに代わり2027年から6年、ツール／ツール・ド・フランス・ファム含むASOの全27レースのクラシフィケーション・ジャージを担当。1989〜94年（レモン／インドゥライン期）以来の復帰で、名物の「サソリ」ロゴが黄ジャージに戻る。黄ジャージのデザインは10/22に公開、緑・水玉・白は後日。ジロ主催のRCSはカステリ供給を終える見込み。モンマルトル除外は現時点で『報道ベース』で、正式ルートは22日の発表待ち。",
+        "sources": [
+          {
+            "t": "Cyclingnews（モンマルトル除外報道）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-reportedly-set-to-swerve-montmartre-climb-on-final-stage-of-2027-route-despite-drama-of-past-two-years/",
+            "d": "2026-10-15"
+          },
+          {
+            "t": "Cyclingnews（カステリ黄ジャージ復帰）",
+            "u": "https://www.cyclingnews.com/pro-cycling/scorpion-logo-returns-to-yellow-jersey-after-33-years-as-castelli-becomes-new-kit-partner-for-tour-de-france-and-other-aso-races/",
+            "d": "2026-10-13"
+          }
+        ],
+        "status": "確定＝ルート発表は10/22・カステリ6年契約で2027復帰。曖昧＝モンマルトル除外は報道ベース（※22日の正式発表で要確認）。"
+      },
+      {
+        "id": "20261016-enve-ses67pro",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/8jYGRCTEksXJEMY32TkBjc-2560-80.jpg",
+        "headline": "【ホイール・新型／10/1発売】ENVEがポガチャルの『2026年勝ちまくりホイール』SES 6.7 Proを正式発売——UCI新リム規制(65mm)に合わせ前59/後65mmへ再設計、1495g・3,750ドル",
+        "layer1": "ENVEが最深・最エアロのSESプロ『SES 6.7 Pro』を10/1に正式発売。前59mm・後65mmリム、内幅22.5mm、ペア1495g（リムテープ・バルブ込）、チューブレス専用。価格は前1,700＋後2,050＝3,750ドル。",
+        "layer2": "再設計の理由は1月導入のUCIリム深さ規制。旧6.7は後輪66mmで『1mm』規制超過となり競技使用不可に→前59/後65mmのクリーンシート設計で合法化。ポガチャルがミラノ〜サンレモ、ストラーデ・ビアンケ、ブエルタなど2026年にWT10勝超を挙げたホイールの市販版。新Innerdrive Proハブ（60g軽量化・セラミックベアリング・5年保証）。約57万円という価格は、裏を返せば同等スペックを10万円台で狙える中華カーボン（8LIEN/CRW/FARSPORTS等）の価格優位をくっきりさせる。",
+        "sources": [
+          {
+            "t": "Cyclingnews（正式発売）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/enve-officially-releases-tadej-pogacars-monument-winning-wheelset/",
+            "d": "2026-10-01"
+          },
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/enve-ses-6-7-pro-wheels-tadej-pogacar",
+            "d": "2026-10-01"
+          }
+        ],
+        "status": "確定＝スペック・価格・発売日・UCI規制対応。曖昧＝実測重量と国内実売円価格は代理店次第。"
+      },
+      {
+        "id": "20261016-mcnulty-colnago-y1rs",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/YuRSzikQHR26kNuToqNjvA-2560-80.jpg",
+        "headline": "【パーツ・プロ機材／10/3エミリア初出】世界王者マクナルティの『虹のコルナゴY1Rs』——黒地にラメ＆星条旗の星、男子王者3年連続でコルナゴ",
+        "layer1": "世界王者ブランドン・マクナルティ（UAE）の新チャンピオンバイク、コルナゴY1Rsが公開。光沢ブラックのカーボン地に「細かなラメ」を効かせ、虹ストライプのカラーブロック。10/3のジロ・デル・エミリアでデビュー。",
+        "layer2": "男子世界王者がコルナゴに乗るのは3年連続（ポガチャルから継承）。ラメは星条旗の『星』を表現、ヘッドセットカバーに世界選制覇の日付やカエデの葉などのイースターエッグ。この特別塗装は「市販しない」とコルナゴ。マクナルティは9/27モントリオールで優勝し、米国勢のエリート男子ロード世界王者は1993年以来。",
+        "sources": [
+          {
+            "t": "Cyclingnews（プロバイク）",
+            "u": "https://www.cyclingnews.com/bikes/pro-bikes/brandon-mcnultys-new-world-champions-bike-is-glittery-fun-and-carries-the-torch-from-tadej-pogacars-reign/",
+            "d": "2026-10-03"
+          },
+          {
+            "t": "BikeRadar",
+            "u": "https://bikeradar.com/news/brandon-mcnulty-world-champion-colnago-y1rs",
+            "d": "2026-10-03"
+          }
+        ],
+        "status": "確定＝塗装・3年連続コルナゴ・市販なし・9/27世界王者。曖昧＝記事公開日は推定（デビューは10/3エミリア）。"
+      },
+      {
+        "id": "20261016-rim-depth-guide",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/8jYGRCTEksXJEMY32TkBjc-2560-80.jpg",
+        "headline": "【初中級・機材の理屈／ENVE・UCI規制起点】深リムは速い? 横風は? 『リムハイト35/50/65mm』の選び方——中華カーボンで試すなら",
+        "layer1": "ENVEが規制対応で前59/後65mmへ…というニュースを機に、初めての1本で迷う『リムの深さ』を整理。35mm級＝軽さ・登坂・横風安定、50mm級＝万能、60mm超＝平坦高速・TT向きで横風に弱い。",
+        "layer2": "UCIが2026年に競技リム深さの上限を設けたのは「深すぎる＝速いが扱いにくい」の裏返し。ホビーなら50mm前後が最も潰しが効く万能解で、まず1本ならここ。横風の強い河川敷・海沿いが主戦場なら35〜45mmが安心。中華カーボン（8LIEN/CRW/GOOSYNN等）は同じ深さを10万円台から選べるので、『深さで用途を決めてからブランドを選ぶ』のが失敗しない順番。フックレス/フックやチューブレス対応、内幅（最近は21〜23mm）も合わせて確認を。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ENVE・きっかけ）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/enve-officially-releases-tadej-pogacars-monument-winning-wheelset/",
+            "d": "2026-10-01"
+          }
+        ],
+        "status": "確定＝深さ別の一般的傾向・UCI規制の存在。曖昧＝最適値は体重・脚質・コースで変わる（一般論）。"
+      },
+      {
+        "id": "20261016-japancup-watching",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "",
+        "headline": "【初中級・観戦の理屈／今週末10/18】ジャパンカップを『10倍楽しむ』——古賀志林道の激坂で待つ、無料で世界クラスを生で見る秋",
+        "layer1": "今週末のジャパンカップは、宇都宮・森林公園の1周10.3kmを多数周回する本戦（10/18）に加え、前日のクリテ（10/17）も見どころ。沿道観戦は基本無料で、世界トップ選手を間近で見られる貴重な機会。",
+        "layer2": "コースの核心は名物の激坂『古賀志林道』。ここで何度も脚を削り合い、周回ごとに人数が絞られていくのが見どころ。初めてなら、(1)上りの頂点付近（選手の表情と失速が分かる）(2)下り後のテクニカルコーナー(3)フィニッシュ、のどれかに陣取るのが鉄板。主役級の欠場はあっても、ワールドツアー勢のスピード感は現地でこそ伝わる。公共交通機関推奨、混雑必至なので早めの場所取りを。",
+        "sources": [
+          {
+            "t": "ジャパンカップ公式（大会トップ）",
+            "u": "https://www.japancup.gr.jp/",
+            "d": "2026-10-16"
+          }
+        ],
+        "status": "確定＝日程・コース・無料観戦。曖昧＝周回数・交通規制の詳細は公式で最終確認。"
+      },
+      {
+        "id": "20261016-premium-vs-china",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png",
+        "headline": "【経営メモ・市場／競合・ENVE$3,750起点】大手がプレミアム帯へ上がるほど、中華カーボンが『客の基準』になる——完成車高騰の秋、店頭でどう説明するか",
+        "layer1": "ENVEの新フラッグシップが約57万円（3,750ドル）で発売。大手ホイールがプレミアム帯へ上がるほど、同等スペックを10万円台で出す中華カーボンが、客にとっての「価格の物差し」になる。",
+        "layer2": "経営メモとして。完成車価格の高騰で国内販売は伸び悩み、客は『新型高止まり』に敏感。ここで中華（8LIEN/CRW/GOOSYNN/FARSPORTS/PARTICLE）を扱う強みは、(1)価格差の理由を自分の言葉で説明できる（リム成形・ハブ・スポーク・保証の差）(2)「安かろう」でなく用途で勧められること。大手の値上げニュースは逆風ではなく、『基準を提示できる店』の商機。客には“ブランド料”と“性能差”を切り分けて見せると納得感が出る。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ENVE価格）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/enve-officially-releases-tadej-pogacars-monument-winning-wheelset/",
+            "d": "2026-10-01"
+          },
+          {
+            "t": "VeloFanatics（中華ホイール2026）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2025-12"
+          }
+        ],
+        "status": "確定＝ENVE価格。曖昧＝「客の基準化」は店頭傾向の読み（経営メモ・一般論）。"
+      },
+      {
+        "id": "20261016-japancup-business",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.sanity.io/images/iocd9e4k/production/624207f317378c4a42f4aeaf82998fd3f287e75d-1091x727.jpg?rect=0,79,1091,570&w=1200&h=627&q=75&fit=crop&auto=format",
+        "headline": "【経営メモ・市場／国内・集客】ジャパンカップは秋『最大級の無料集客装置』——主役級が欠場しても、『現地で見る価値』をどう売るか",
+        "layer1": "10/18のジャパンカップは、基本無料で世界クラスを生観戦できる秋最大級の集客イベント。昨年王者マルティネスら主役級の欠場でSNSには落胆の声もあるが、来場動機づくりは店にとって好機。",
+        "layer2": "経営メモとして。『レースを見た人が、店の入口になる』構造は変わらない。欠場で目玉が減った年こそ、店側の付加価値（観戦ガイド配布、古賀志林道のおすすめ観戦スポット、現地での試乗・補給・メンテ相談）で“体験”を上乗せすると差がつく。来場者の多くは入門〜中級で、『生で見た憧れ』が最初の1台・買い替えの背中を押す。SNSの落胆を拾って“それでも見る価値”を言語化できると来店トークに直結する。",
+        "sources": [
+          {
+            "t": "ジャパンカップ公式（欠場告知）",
+            "u": "https://www.japancup.gr.jp/news/4022/",
+            "d": "2026-10-15"
+          }
+        ],
+        "status": "確定＝無料観戦・欠場の事実。曖昧＝SNS反応の規模と集客効果は定性的（経営メモ）。"
+      },
+      {
+        "id": "20261016-picnic-postnl-probe",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/6wGtUwosUi9BwAyMPX2tSf-2560-80.png",
+        "headline": "【トレンド・チーム統治／10/15】ピクニック・ポストNLが『独立調査』に着手——“恐怖の文化”を告発する詳報、関係者の「独裁になっていた」という声を受けて",
+        "layer1": "ワールドチームのピクニック・ポストNL（旧DSM系）が、チーム内の“恐怖の文化（culture of fear）”を告発する詳細な報道を受け、独立した調査に着手したと報じられた。報道中には「独裁になっていた（It became a dictatorship）」という強い表現も。",
+        "layer2": "同チームは今週、広西でビースターボス（第2S勝者）やヤコブセンを走らせている現役の有力チーム。今回の件は選手・スタッフの労働環境／マネジメント体質への問いで、独立調査の結論が出るまでは『告発の内容・対象者・具体的な時期』は確定情報として扱わないのが安全。近年プロチームの“ハラスメント／過度な管理”問題が相次いで表面化しており、その流れの一つ。※関係者名や個別の証言内容は要裏取り。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/it-became-a-dictatorship-extensive-report-on-alleged-culture-of-fear-leads-picnic-postnl-to-launch-independent-investigation/",
+            "d": "2026-10-15"
+          }
+        ],
+        "status": "確定＝独立調査に着手・“恐怖の文化”を告発する報道が発端。曖昧＝告発の詳細・対象者は調査待ち（※要裏取り）。"
+      },
+      {
+        "id": "20261016-quintana-retirement",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2025-10%2Fnairoquintana-68ea8dd33ba24.jpg",
+        "headline": "【レース・人間ドラマ／10/3引退】ナイロ・キンタナが『ジロ・デル・エミリアで現役に幕』——プロトンが自転車を掲げ花道、デビューイヤーに勝った同じレースで",
+        "layer1": "2014年ジロ・2016年ブエルタを制したコロンビアの名クライマー、ナイロ・キンタナが10/3のジロ・デル・エミリアで現役を終えた。スタート前、全選手が自転車を掲げて敬意を示す花道で見送られた。",
+        "layer2": "引退会見では「ワット数は落ちていないが、心理的な疲れがある」と率直に語った。当初はブエルタでの引退を望むも選出されず、世界選を経て、デビューイヤー（2012年ムービスター初年に勝った）と同じエミリアを最後の舞台に選んだ。2010年ツール・ド・ラヴニール優勝でプロ入りし、通算53勝。パワーより『物語』で心を動かす選手——マサルの好む“人間ドラマ”の典型で、記事・ショートの素材として今が旬。",
+        "sources": [
+          {
+            "t": "Escape Collective（最後のレース告知）",
+            "u": "https://escapecollective.com/quintana-to-end-career-at-giro-dellemilia/",
+            "d": "2026-09"
+          },
+          {
+            "t": "Cycling Up To Date（引退会見）",
+            "u": "https://cyclinguptodate.com/cycling/retiring-at-my-peak-would-have-been-an-act-of-ego-nairo-quintana-ready-for-the-final-race-of-his-career",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝10/3エミリアで引退・通算53勝・2014ジロ/2016ブエルタ。曖昧＝『14年か17年か』は数え方で各社差。"
+      }
+    ]
+  },
+  {
     "date": "2026-10-15",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。広西は『番狂わせ』で動き、本日は第3ステージ。週末はジャパンカップ、店頭には新型ハイエンドが続々です。",
     "cards": [
