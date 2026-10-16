@@ -1,5 +1,334 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-17",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。広西はマニエが大会最多7勝目で青ジャージ奪還、本日第5S・明日が最終決戦。上海ではミランが『海面レベルで3分59秒突破』の追い抜き世界新。宇都宮は本日クリテ・明日本戦、カラパスはEF破棄でNSNへ電撃移籍、来週10/22はパリで2027ツール発表です。",
+    "cards": [
+      {
+        "id": "20261017-guangxi-st4-st5",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039486-121.jpg",
+        "headline": "【🔥今日の一本・レース／10/16決着・本日10/17第5S】ツアー・オブ・広西・第4ステージはポール・マニエが『大会最多7勝目』の記録更新——ビースターボスから青ジャージ奪還(+10秒)、最終1kmは落車で混乱",
+        "layer1": "今季最後のワールドツアー・ステージレース、広西の第4S（バマ→天峨165.7km）は、スーダル・クイックステップのポール・マニエが優勝。2位ツェース・ボル、3位マックス・カンター。これでマニエは広西通算7勝目となり、同大会の最多ステージ勝利記録を単独で更新した。",
+        "layer2": "マニエはこの勝利で総合首位の青ジャージを前日のリーダー、フリッツ・ビースターボス（ピクニック・ポストNL）から奪還し、その差はわずか10秒。起伏のある『山岳』ステージをスプリンター勢が生き残り、最終1kmの落車で人数が絞られた中を差し切った。残すは本日10/17の第5Sと、総合が最終的に決まる10/18の最終第6S（天峨→ノンラ、頂上フィニッシュ3.1km・平均6.3%）。平坦主体の広西は山が少なくスプリンターがリードを守る構図で、最終日の登りでどこまで動くかが焦点。",
+        "sources": [
+          {
+            "t": "Cyclingnews（第4S速報）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-of-guangxi-paul-magnier-claims-victory-and-the-race-lead-as-sprinters-survive-hilly-stage-4/",
+            "d": "2026-10-16"
+          },
+          {
+            "t": "Domestique（第4S記録更新）",
+            "u": "https://www.domestiquecycling.com/en/news/magnier-takes-record-breaking-victory-on-tour-of-guangxi-stage-4/",
+            "d": "2026-10-16"
+          },
+          {
+            "t": "ProCyclingStats（第4S結果）",
+            "u": "https://www.procyclingstats.com/race/tour-of-guangxi-2026-stage-4/results/results",
+            "d": "2026-10-16"
+          }
+        ],
+        "status": "確定＝第4Sマニエ優勝・広西通算7勝で最多記録更新・青ジャージ奪還(+10秒)・最終1km落車。曖昧＝総合2位以下の詳細gap、第5/6Sは結果待ち。"
+      },
+      {
+        "id": "20261017-milan-pursuit-wr",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cyclingmagazine.ca/wp-content/uploads/2026/10/MilanTrack-1200x675.jpg",
+        "headline": "【レース・人間ドラマ／10/16・Xでも拡散】ヨナタン・ミランが個人追い抜きで『史上初の3分59秒の壁突破』世界新——上海トラック世界選、3分58秒850で金、ツールの緑ジャージがトラックでも頂点",
+        "layer1": "上海で開催中のトラック世界選、男子個人追い抜き（4km）でリドル・トレックのヨナタン・ミランが予選で3分58秒850をマーク。自身が2024年にバレロップで出した旧世界記録3分59秒153を0.303秒更新し、人類で初めて『3分59秒の壁』を破った。そのまま決勝も制し虹ジャージを獲得。",
+        "layer2": "驚きは『海面レベルの上海ベロドローム』で出した点。追い抜きの好記録は空気が薄い高地トラックで出るのが通例で、平地での4分切りは価値が段違い。ミランはツール・ド・フランスでポイント賞（緑ジャージ）を争う一流スプリンターでありながら、ガナに続くイタリアの追い抜き強者でもある『二刀流』。UCI公式Xも『NEW WORLD RECORD』と速報し拡散した。なお決勝の正確なタイムと相手の名前は媒体間で記述が割れており要確認。",
+        "sources": [
+          {
+            "t": "Cycling Weekly（世界新）",
+            "u": "https://www.cyclingweekly.com/racing/jonathan-milan-smashes-individual-pursuit-world-record-at-track-world-championships",
+            "d": "2026-10-16"
+          },
+          {
+            "t": "Canadian Cycling（3:58.850）",
+            "u": "https://cyclingmagazine.ca/sections/news/jonathan-milan-smashes-359-barrier-in-world-record-individual-pursuit/",
+            "d": "2026-10-16"
+          },
+          {
+            "t": "Escape Collective（記録詳細）",
+            "u": "https://escapecollective.com/jonathan-milan-sets-a-new-world-record-in-the-individual-pursuit/",
+            "d": "2026-10-16"
+          },
+          {
+            "t": "UCI Track 公式X（入口）",
+            "u": "https://x.com/UCI_Track/status/2110974998034927640",
+            "d": "2026-10-16"
+          }
+        ],
+        "status": "確定＝予選3分58秒850で世界新・史上初の3分59秒突破・金メダル（上海2026）。曖昧＝決勝タイムと決勝の相手名は報道で不一致＝要確認。"
+      },
+      {
+        "id": "20261017-japancup-startlist",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://www.japancup.gr.jp/wp/wp-content/uploads/2026/08/news0815-main-1-1024x614.png",
+        "headline": "【レース・国内／本日10/17クリテ・明日10/18本戦】ジャパンカップ宇都宮、スタートリスト公開——WT5チーム集結もマルティネス＆ゲイガン・ハート欠場、本日は大通りクリテリウム",
+        "layer1": "今週末の宇都宮・ジャパンカップは10/16にクリテリウム・ロードレースのスタートリストが公開。UCIワールドチーム5（バーレーン・ヴィクトリアス、EFエデュケーション・イージーポスト、リドル・トレック、ロット・アンテルマルシェ、ジェイコ・アルウラ）に、UCIプロチーム5、日本のコンチネンタル勢・ナショナルチームを合わせた全20チーム。本日10/17が大通りクリテリウム、明日10/18が森林公園の本戦。",
+        "layer2": "ただし目玉は目減り。昨年王者レニー・マルティネス（バーレーン）が体調不良、テイオ・ゲイガン・ハートが負傷で、いずれも前日までに欠場と発表され出走リストは流動的。それでもリドル・トレックのクインテン・シモンズら来日スターは残ると報じられ、バーレーンは復活ブランド『ビアンキ（セレステ）』の最新機材で参戦。クリテは選手を間近で見られる無料開催で、本戦前日の『顔見せ』。本戦の勝敗は古賀志林道の激坂周回で決まる。",
+        "sources": [
+          {
+            "t": "ジャパンカップ公式（スタートリスト掲載 news/4075）",
+            "u": "https://www.japancup.gr.jp/news/4075/",
+            "d": "2026-10-16"
+          },
+          {
+            "t": "ジャパンカップ公式（注目選手欠場 news/4022）",
+            "u": "https://www.japancup.gr.jp/news/4022/",
+            "d": "2026-10-15"
+          },
+          {
+            "t": "ジャパンカップ公式（出場20チーム一覧）",
+            "u": "https://www.japancup.gr.jp/teams/",
+            "d": "2026-10-16"
+          }
+        ],
+        "status": "確定＝10/16スタートリスト公開・WT5チーム含む全20チーム・クリテ10/17/本戦10/18・マルティネス＆ゲイガン・ハート欠場。曖昧＝個別の最終出走者は当日まで流動的、シモンズ等の来日は報道ベースで要最終確認。"
+      },
+      {
+        "id": "20261017-carapaz-nsn",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/Zfdx7rVvXZxqoaV4z2A7LD-2560-80.jpg",
+        "headline": "【トレンド・移籍／人間ドラマ・10/16】リチャル・カラパスが『EFとの契約を破棄してNSNへ電撃移籍』——ジロ覇者＆五輪王者が古巣を去り新興チームへ",
+        "layer1": "2019年ジロ・デ・イタリア覇者で東京五輪ロード金のリチャル・カラパス（エクアドル）が、現所属EFエデュケーション・イージーポストとの契約を残して破棄し、新興チーム『NSN』へ移籍すると10/16に報じられた。夏から長く噂されてきた去就がついに決着。",
+        "layer2": "カラパスはEFで『エースとしての自由』を得てブエルタ山岳賞やグランツール区間勝利を重ねてきただけに、円熟期での契約破棄は驚き。背景には好条件が指摘されるが、NSNの資本背景・チーム規模・契約年数の詳細は報道段階で確定情報が乏しく要裏取り（夏時点ではカラパスの移籍先候補の一つとして名が挙がっていた新興勢）。プロ界は今オフ、ランダのエウスカルテル復帰など『2027年版図』の塗り替えが続いており、大物の新興チーム行きはその象徴。",
+        "sources": [
+          {
+            "t": "Cyclingnews（EF契約破棄→NSN）",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/richard-carapaz-breaks-ef-education-easypost-contract-to-sign-for-nsn/",
+            "d": "2026-10-16"
+          },
+          {
+            "t": "Cyclingnews（2027移籍まとめ）",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/cycling-transfers-all-the-latest-news-and-announcements-for-the-2027-season/",
+            "d": "2026-10-16"
+          }
+        ],
+        "status": "確定＝カラパスがEFとの契約を破棄しNSNへ移籍（10/16・Cyclingnews報）。曖昧＝NSNの資本・規模・契約年数は要裏取り。"
+      },
+      {
+        "id": "20261017-urban-worlds-cancelled",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/mRg99fu9YiDY64RBnswdoU-2000-80.jpg",
+        "headline": "【トレンド・業界／10/16】UCIが『アーバン世界選（リヤド）を中止』——開催地サウジ・リヤド空港へのミサイル攻撃を受け、BMXフリースタイルの五輪予選にも波及",
+        "layer1": "UCIは、サウジアラビア・リヤドで11/3開幕予定だったアーバン・サイクリング世界選手権（BMXフリースタイル・トライアル）の中止を10/16に発表。隣国イエメンの武装勢力によるリヤド国際空港へのミサイル・ドローン攻撃で空港が閉鎖され、安全確保が困難になったため。",
+        "layer2": "直前まで『予定通り開催』とされていた中での一転。空港攻撃では駐機中の旅客機が破壊され死傷者も出たと報じられ、複数のナショナルフェデレーションが撤退を検討していた。BMXフリースタイルはロサンゼルス五輪（LA28）の予選ポイントにも関わるため、代替開催の有無が選手の明暗を分ける。UCIが中東をワールドクラスの開催地として重視してきた路線にも影を落とす一件。",
+        "sources": [
+          {
+            "t": "Cyclingnews（中止発表）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/uci-cancels-urban-cycling-world-championships-amid-missile-strikes-on-host-saudi-arabia/",
+            "d": "2026-10-16"
+          },
+          {
+            "t": "Escape Collective（空港攻撃の経緯）",
+            "u": "https://escapecollective.com/a-world-championship-in-the-shadow-of-a-bombed-airport-uci-urban-cycling-bmx-freestyle-riyadh-saudi-arabia/",
+            "d": "2026-10-14"
+          }
+        ],
+        "status": "確定＝UCIがアーバン世界選リヤドの中止を発表（10/16）・原因は空港へのミサイル攻撃。曖昧＝代替開催地・日程、五輪予選の救済措置は未定。"
+      },
+      {
+        "id": "20261017-tdf2027-route",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2025/Tour-de-France/stg21_pogacar-montmartre04_STARTT_TDF_2025.jpg",
+        "headline": "【トレンド・業界／10/15-16・10/22発表】2027ツール・ド・フランスの『全容リーク加速』——英エディンバラ発進、第19ステージはピレネー4連峰の『女王ステージ』、モンマルトルは去就不明",
+        "layer1": "来週10/22にパリで発表される2027ツールの噂が出揃ってきた。グランデパール（開幕3日間）は英国で、第1ステージはエディンバラ→カーライル。7/2開幕・7/25パリ着が既定路線。",
+        "layer2": "先回りして山岳を見ると、最難関は第19ステージのピレネーで、オービスク→ツールマレー→ウルケット・ダンシザン→コル・ド・ポルテの4連続が噂される『女王ステージ』。コル・デュ・グラノンの再登場も候補。初の個人TTは第7ステージ（7/9）でブロワ周辺が有力、TT総距離は増える見込み。注目のモンマルトル周回（ここ2年の名物）は『2027は外れる』という報道もあれば、ASOは『10/22に分かる』とだけ。すべて発表前の噂で、確定は来週。",
+        "sources": [
+          {
+            "t": "Domestique（エディンバラ→パリの噂）",
+            "u": "https://www.domestiquecycling.com/en/news/the-road-from-edinburgh-to-paris-these-are-the-2027-tour-de-france-route-rumours/",
+            "d": "2026-10-15"
+          },
+          {
+            "t": "Cycling Weekly（ポルテ/グラノン再登場）",
+            "u": "https://www.cyclingweekly.com/racing/tour-de-france-2027-route-rumours-col-du-granon-and-col-du-portet-set-to-return",
+            "d": "2026-10-15"
+          },
+          {
+            "t": "IDL Procycling（10/22発表・噂)",
+            "u": "https://www.idlprocycling.com/cycling/2027-tour-de-france-route-to-be-revealed-live-on-october-22-heres-what-the-rumour-mill-says",
+            "d": "2026-10-16"
+          }
+        ],
+        "status": "確定＝10/22パリで発表・英グランデパール・エディンバラ発進。曖昧＝山岳(ポルテ/グラノン)・TT・モンマルトルは全て発表前の噂＝※要裏取り。"
+      },
+      {
+        "id": "20261017-aero-deep-milan",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/udLeJtP448fhu23Hh7XA5Y-2560-80.jpg",
+        "headline": "【ホイール・機材読み／ミラン世界新起点】『海面レベルで3分59秒突破』が示す空力の価値——平地・高速で効くディープリム、中華カーボンで再現する考え方",
+        "layer1": "ミランが平地の上海ベロドロームで追い抜き世界新を出せたのは『空気抵抗をどこまで削れるか』の勝負だから。高速域ほど空力がものを言うのは、トラックもロードの平坦スプリント（広西の連日のゴール）も同じ理屈。",
+        "layer2": "先回りすると、ロードで同じ恩恵を受けるのが『ディープリム（50〜65mm）×ワイド内寸23mm級』。2026年はUCIがリムハイト上限を65mmに規制し、各社『前浅・後深』に最適化してきた。中華カーボン（うちの8LIEN・CRW・GOOSYNN・NEPEST・YOELEO・Particle）も内寸23mm前後・1,400〜1,500g級のエアロが実売15〜25万円で揃い、プロの使う深リムの『考え方』は十分再現できる。弱点の横風だけ浅リムと使い分ければよい。効き始めの目安は巡航30km/h台から。",
+        "sources": [
+          {
+            "t": "Cyclingnews（広西スプリント＝深リムの舞台）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-of-guangxi-paul-magnier-claims-victory-and-the-race-lead-as-sprinters-survive-hilly-stage-4/",
+            "d": "2026-10-16"
+          },
+          {
+            "t": "Cycling Weekly（海面レベルでの世界新の意味）",
+            "u": "https://www.cyclingweekly.com/racing/jonathan-milan-smashes-individual-pursuit-world-record-at-track-world-championships",
+            "d": "2026-10-16"
+          },
+          {
+            "t": "Velofanatics（中華カーボンの銘柄・内寸）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026-05"
+          }
+        ],
+        "status": "確定＝高速域ほど空力が効く・UCIはリム上限65mm規制。曖昧＝『何km/hで何W差』等の数値は条件依存で要実測。"
+      },
+      {
+        "id": "20261017-first-chinese-carbon",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png",
+        "headline": "【初中級・機材の理屈／買い時の秋】『初めての中華カーボンホイール』どう選ぶ？——型落ち底値の秋にこそ、2026年の定番から外さない3点",
+        "layer1": "完成車が高止まりし、10〜11月は型落ちが底値になる秋。『最初のカーボンホイールは中華で十分?』という問いが毎年この時期に増える。結論は『選び方さえ外さなければ十分戦える』。",
+        "layer2": "先回りして実務的な3点。①リムハイト＝平地メインなら45〜50mm、ヒルクライムも含むなら35〜40mmのオールラウンド。②フック/フックレス＝初心者はタイヤ選択が広く空気圧管理もシビアでない『フック付き』が無難。③スポーク＆ハブ＝定評あるSapimスポークと、ベアリング・ラチェットの素性が分かるハブを選ぶ。2026年に名前の挙がる定番はWinspace/Lún、Elitewheels、YOELEOなど。うちはYOELEOに加え8LIEN・CRW・GOOSYNN・NEPEST・Particleを整備・保証付きで扱うので、通販の『当たり外れ』や初期振れ取りの不安を店で潰せるのが差。",
+        "sources": [
+          {
+            "t": "Velofanatics（2026中華カーボン定番）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026-05"
+          },
+          {
+            "t": "ctyeh（Winspace/Yoeleo等の国内目線比較）",
+            "u": "https://ctyeh.com/articles/588?lang=ja",
+            "d": "2026-03"
+          }
+        ],
+        "status": "確定＝選び方の原則（リム高・フック・スポーク/ハブ）。曖昧＝『どの銘柄が最良か』は用途次第。※普遍ネタを秋の買い時を起点に整理。"
+      },
+      {
+        "id": "20261017-shimano-q3",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/Pm6DzMEABQ2rYoesxef9y9-1920-80.jpg",
+        "headline": "【経営メモ・市場／競合・決算シーズン】シマノの四半期決算が10月下旬に——米関税で需要が冷え、円安と値上げのはざま、店はどう構えるか",
+        "layer1": "業界の体温計であるシマノの2026年12月期・第3四半期決算が10月下旬に予定。米国の関税影響で現地需要が鈍り、営業利益は前年から大きく落ちるとの見方。為替は円安で、これが輸入原価と国内売価の双方に効く。",
+        "layer2": "先回りして店目線の論点を3つ。①円安は『海外ブランド完成車・パーツの仕入れ原価』を押し上げ、来季の値上げ観測につながる＝手持ちの型落ち在庫の価値が相対的に上がる。②シマノは次期デュラエース（13速・R9300系）と新型ホイール（カーボンスポークのWH-R9370）を控え、現行11/12速の『買い時』を聞かれる局面が増える。③関税で世界の需要が鈍れば、メーカーは在庫消化へ動き、プレミアム帯の値引き・中華の価格優位がさらに際立つ。決算の数字そのものより、『円安×値上げ×在庫』の三点を接客トークに落とすのが実利。",
+        "sources": [
+          {
+            "t": "Cyclingnews（新型デュラ・ホイール＝次期コンポの布石）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/shimano-launches-brand-new-dura-ace-wheel-range-does-this-mean-a-new-groupset-is-imminent/",
+            "d": "2026-07"
+          },
+          {
+            "t": "BikeRadar（WH-R9370ホイール）",
+            "u": "https://www.bikeradar.com/news/shimano-dura-ace-r9370-wheels",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝円安基調・シマノは13速デュラ＆新型ホイールを控える。曖昧＝決算の正確な発表日（10月下旬・要確認）と営業益の増減幅。※数値は要裏取り。"
+      },
+      {
+        "id": "20261017-typeochi-autumn",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://biketips.com/wp-content/uploads/2026/09/pexels-12203656-49484.jpg",
+        "headline": "【経営メモ・市場／国内・買い時】10〜11月は『型落ち底値』の本番——新型高止まり×円安で、2026年モデルの処分が商機に",
+        "layer1": "国内は10〜11月が型落ち処分の山場。新型完成車が円安で高止まりする一方、現行（2026年）モデルは値引き20〜40%が標準になり、冬ボーナス期には入門グレードの特価も出る。",
+        "layer2": "先回りして店の打ち手。①客の心理は『新型は高い→型落ちで十分』に傾いており、型落ちの説明力が成約を左右する（コンポ世代差・保証・初期整備の価値を言語化）。②2027年モデルのティザー（ドグマ、エートス2など）が出始めると現行の底値感がさらに強まる＝いま在庫を動かす追い風。③下取り・買取は秋に上振れしやすく『下取り→型落ち新車』の提案が入口になる。無理な安売りより、整備・保証・フィッティング込みの『安心の総額』で勝負するのが中小店の生存線。",
+        "sources": [
+          {
+            "t": "BikeTips（2027新型の潮流＝現行が底値化）",
+            "u": "https://biketips.com/biggest-road-bike-launches-2026/",
+            "d": "2026-09"
+          },
+          {
+            "t": "BikeRadar（2026新型の傾向＝小改良中心）",
+            "u": "https://www.bikeradar.com/features/tech/five-biggest-road-bike-launches-of-2026-so-far",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝秋は型落ち処分期・円安で新型高止まり。曖昧＝値引き率(20〜40%)は店・車種で幅、※要裏取り。"
+      },
+      {
+        "id": "20261017-phinney-comeback",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/Z6yUqffZKjfiau26D9saeJ-2560-80.jpg",
+        "headline": "【レース・人間ドラマ／10/16・上海】テイラー・フィニーが『16年ぶりのトラック世界選』——引退から復帰、LA28へ、妻ニェヴィアドマも称賛",
+        "layer1": "元クラシックの名手テイラー・フィニー（米）が、16年ぶりにトラック世界選（上海）へ復帰。かつて個人追い抜きで2009・2010年の世界王者だった舞台に、長い引退生活を経て戻ってきた。",
+        "layer2": "先回りすると、狙いはロサンゼルス五輪（LA28）。ただ個人追い抜きは五輪種目から外れ、復帰は団体追い抜きにかかる。米国の団体追い抜きは予選3分51秒029で18か国中7位、1回戦でフランス（3分49秒619）に敗れ早々に姿を消した。それでも金曜の個人追い抜きでフィニー自身は自己ベストを更新したと報じられ、本人は『戻ってこられて最高』と。妻は女子ロードのカトジナ・ニェヴィアドマで、彼女も『長く見なかった熱量』と夫を称えた。結果以上に『諦めない大人の挑戦』が刺さる一本。",
+        "sources": [
+          {
+            "t": "Cycling Weekly（16年ぶり復帰の内幕）",
+            "u": "https://www.cyclingweekly.com/racing/inside-taylor-phinneys-comeback-16-years-after-his-last-track-world-championships",
+            "d": "2026-10-16"
+          },
+          {
+            "t": "Cyclingnews（団体追い抜き1回戦敗退）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/taylor-phinneys-return-from-retirement-ends-abruptly-at-uci-track-world-championships-as-question-mark-answered-with-mens-team-pursuit-loss-in-first-round/",
+            "d": "2026-10-14"
+          },
+          {
+            "t": "Domestique（上海で米団体追い抜きを牽引）",
+            "u": "https://www.domestiquecycling.com/en/news/it-feels-good-to-be-back-taylor-phinney-leads-usa-mens-team-pursuit-in-shanghai-world-championships/",
+            "d": "2026-10-14"
+          }
+        ],
+        "status": "確定＝16年ぶり復帰・団体追い抜き予選7位で1回戦敗退・LA28狙い。曖昧＝個人追い抜きの自己ベスト更新は報道ベース、正確なタイムは要確認。"
+      },
+      {
+        "id": "20261017-eneco-prize-equal",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/zuXmPAXogAMd7szLhJKFsQ-2560-80.jpg",
+        "headline": "【トレンド・人間ドラマ／10/16・声が制度を動かす】シャルロット・コールの『同じ時間・同じ距離・同じエネルギー』発言で、エネコ・ツアーが賞金を男女同額に是正",
+        "layer1": "女子スプリンターのシャルロット・コール（オランダ）が、同時開催のエネコ・ツアーで賞金が男女で大きく違う点をSNSで指摘。『同じスタート時刻、同じ距離、同じエネルギーなのに、なぜ女子は割引されるのか』と問うた。これを受けて主催者は10/16、賞金を男女同額に是正した。",
+        "layer2": "先回りして数字を見ると、当初は女子総額17,205ユーロに対し男子63,465ユーロ（約27%）。プロローグ優勝賞金も男子1,490ユーロ対女子220ユーロと約7倍差だった。コールは『お金が目的ではなく原則の問題。主催者自身が“対等”を掲げているのだから』と。2026年から旧シマック・レディースツアーがエネコ・ツアー女子として男女同一大会に統合された矢先の出来事で、『選手の一声が即日で制度を動かした』好例。是正後の具体的な新賞金総額は続報待ち。",
+        "sources": [
+          {
+            "t": "Cyclingnews（コールの指摘）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/same-start-time-same-distance-same-energy-charlotte-kool-calls-out-eneco-tour-on-unequal-prize-list/",
+            "d": "2026-10-14"
+          },
+          {
+            "t": "Domestique（男女同一開催の新フォーマット）",
+            "u": "https://www.domestiquecycling.com/en/news/men-and-women-to-start-together-as-eneco-tour-unveils-new-2026-format/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝コールの指摘後、エネコ・ツアーが10/16に賞金を男女同額へ是正。曖昧＝是正後の具体的な新賞金総額は続報待ち。"
+      }
+    ]
+  },
+  {
     "date": "2026-10-16",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。広西は本日『山岳の第4ステージ』、週末はジャパンカップですが昨年王者マルティネスが体調不良で欠場。ガナのリドル・トレック電撃移籍、ENVEの新型ホイール、そして来週はパリで2027ツール発表です。",
     "cards": [
