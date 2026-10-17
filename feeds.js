@@ -1,5 +1,324 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-18",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。本日はジャパンカップ本戦、ツアー・オブ・広西の最終決戦、上海トラック世界選の最終日が重なる『今季の締めくくり』の日曜。昨日のクリテは日本勢がトップ6に3人の快走でした。",
+    "cards": [
+      {
+        "id": "20261018-japancup-crit-result",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://www.japancup.gr.jp/wp/wp-content/uploads/2026/10/unnamed-1024x683.jpg",
+        "headline": "【🔥今日の一本・レース／国内・10/17決着、本戦は本日10/18】ジャパンカップ・クリテリウムは21歳スティアンスンが『ハンドル差』で初優勝——日本勢は岡篤志4位・寺田5位・岡本6位でトップ6に3人、Xでも沸く",
+        "layer1": "10/17の宇都宮・大通りクリテリウムは、大混戦の集団スプリントをチューダーのイェスパー・スティアンスン（ノルウェー・21歳）が制して初勝利。2位ボルゴ（バーレーン）、3位フォルダガー（ジェイコ）。",
+        "layer2": "見どころは日本勢の存在感——地元アステモ宇都宮ブリッツェンの岡篤志が日本人最高の4位、寺田吉騎（チームUKYO）5位、岡本隼（愛三）6位と、トップ6に3人が食い込んだ。優勝タイムは40分07秒で、判定はまさに『ハンドル差』の僅差決着。本戦ロードレースは本日10/18。SNSでも日本勢の健闘が拡散している。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ",
+            "u": "https://www.cyclesports.jp/news/race/170628/",
+            "d": "2026-10-17"
+          },
+          {
+            "t": "ジャパンカップ公式",
+            "u": "https://www.japancup.gr.jp/news/4193/",
+            "d": "2026-10-17"
+          },
+          {
+            "t": "CYCLE JAPAN",
+            "u": "https://cyclejapan.club/2026ujc-criterium-report",
+            "d": "2026-10-17"
+          }
+        ],
+        "status": "確定＝順位・優勝者・優勝タイム（複数媒体一致）／曖昧＝4位以下の個別タイムは未公表"
+      },
+      {
+        "id": "20261018-japancup-roadrace-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://www.cyclowired.jp/sites/default/files/images_title/news/2026/10/Makoto-AYANO2026UJC_op-427.jpg",
+        "headline": "【レース・国内／本日10/18決戦】ジャパンカップ本戦、宇都宮・森林公園の『古賀志林道14周』——ティベーリ、シモンズら集結、アジア最高峰ワンデーの秋",
+        "layer1": "本日10/18午前10時スタート、宇都宮森林公園を中心とするジャパンカップ・サイクルロードレース（UCIプロシリーズ 1.Pro）。1周10.3km×14周＝144.2km、名物『古賀志林道』の激坂を14回越える。",
+        "layer2": "出場リストにはティベーリ、クイン・シモンズら海外勢に加え、昨日クリテで躍動した日本勢も名を連ねる。例年パンチャー〜クライマー型が古賀志の反復で削り合い、終盤に抜け出す展開。下りは安全確保で立入全面禁止だが、山岳賞ポイントの頂上付近は無料で世界クラスを生観戦できる人気スポット。結果は本日夕方以降に確定する。",
+        "sources": [
+          {
+            "t": "シクロワイアード",
+            "u": "https://www.cyclowired.jp/news/node/393618",
+            "d": "2026-10-17"
+          },
+          {
+            "t": "ジャパンカップ公式",
+            "u": "https://www.japancup.gr.jp/en/",
+            "d": "2026-10"
+          },
+          {
+            "t": "tour-magazin（コース）",
+            "u": "https://www.tour-magazin.de/en/professional-cycling/races/utsunomiya-japan-cup-road-race-60157/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝日程・コース・一部出場者／曖昧＝本命は展開次第（※優勝者は本日決着）"
+      },
+      {
+        "id": "20261018-guangxi-final-s6",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cyclingmole.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-12.25.47.png",
+        "headline": "【レース／本日10/18最終決戦】ツアー・オブ・広西・最終第6ステージは『ノングラ登頂フィニッシュ』——10/17のS5はフレティンが勝利、総合はナルバエス首位・ピドコック6秒差の接戦",
+        "layer1": "今季最後のワールドツアー、ツアー・オブ・広西は本日10/18に最終第6ステージ（宜州→ノングラ 166km）。最後は4.2km・平均7.5%（最大16.3%、ラスト1.3kmは平均10%）の登坂フィニッシュで総合が決まる。",
+        "layer2": "10/17の第5ステージは、マニエとビーステルボスが絡む落車の混乱の中でミラン・フレティンがスプリント勝利。総合はボーナス秒を稼いだナルバエスが首位で、ピドコックが6秒差、その他の総合勢が7秒差という大接戦。本日の登りで王者が確定する見込みで、大本命はピドコック、対抗はウィダル・ナルバエス・ヴォークラン、昨年王者ダブルも。",
+        "sources": [
+          {
+            "t": "Cycling Mole（S6プレビュー）",
+            "u": "https://cyclingmole.com/2026/10/17/2026-tour-of-guangxi-stage-6-preview/",
+            "d": "2026-10-17"
+          },
+          {
+            "t": "ProCyclingStats",
+            "u": "https://www.procyclingstats.com/race/tour-of-guangxi-2026-stage-6/results/results",
+            "d": "2026-10"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-of-guangxi-2026/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝S5結果・総合差・最終コース／曖昧＝最終優勝は本日決着"
+      },
+      {
+        "id": "20261018-trackworlds-morris-triple",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/zxsxZ8fpyq2iFsERv4j8WL-1200-80.jpg",
+        "headline": "【レース・人間ドラマ／10/17・上海トラック世界選】アンナ・モリスが『2017年のマディソン導入以降で史上初』の三冠——団抜・オムニアム・マディソンを制覇、英国が金ラッシュ、本日最終日",
+        "layer1": "上海トラック世界選（10/14-18）の10/17、女子マディソンを英国のアンナ・モリス&エリン・ブースマンが制覇。モリスは団体パシュート・オムニアムに続く3種目制覇で、女子マディソン導入（2017年）以降で史上初の快挙に。",
+        "layer2": "同日は女子個人パシュートもミリー・クーゼンス（英）が僚友ジョシー・ナイトを僅差で破り金。英国は金メダルを量産し、ミランの個人追い抜き世界新（3分58秒850）に続く大会の盛り上がり。本日10/18は男子マディソン・男子スプリント・女子ケイリンなど5つの世界タイトルで閉幕する。",
+        "sources": [
+          {
+            "t": "Cyclingnews（Day3）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/track-world-championships-great-britain-adds-two-more-gold-medals-on-day-3/",
+            "d": "2026-10-17"
+          },
+          {
+            "t": "Cycling Weekly（ガイド）",
+            "u": "https://www.cyclingweekly.com/racing/2026-uci-tack-cycling-world-championships-your-complete-guide",
+            "d": "2026-10"
+          },
+          {
+            "t": "Yahoo Sports / CW（Morris）",
+            "u": "https://sports.yahoo.com/articles/im-quite-speechless-anna-morris-132310724.html",
+            "d": "2026-10-17"
+          }
+        ],
+        "status": "確定＝モリス三冠・クーゼンス金（複数媒体）／曖昧＝本日最終日の各種目結果は未定"
+      },
+      {
+        "id": "20261018-young-retirements",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/xPHERfyWYCwk6hjw7UbJu7-2560-80.jpg",
+        "headline": "【トレンド・人間ドラマ／10月中旬】若手の『早すぎる引退』が相次ぐ——22歳フルスマンスは2027年の所属先が見つからず、24歳オリンスは心身の限界、34歳バディラッティも区切り",
+        "layer1": "プロ退団・引退の発表が10月中旬に集中。ベルギーのセネ・フルスマンス（22）は2027年のチームが見つからず10/13に引退を表明、ロット・インテルマルシェのロビン・オリンス（24）は心身の疲弊で現役を終えた。",
+        "layer2": "華やかな移籍市場（ガナのリドル移籍、ピナレロの大型補強ラッシュ）の裏で、契約を得られない若手が静かに去る現実。スイスのクライマー、マッテオ・バディラッティ（34・Q36.5）も8年超のキャリアに幕。プロの『椅子取りゲーム』の厳しさは、ホビー回帰や中古・中華機材が広がる土壌という意味でも示唆的だ。",
+        "sources": [
+          {
+            "t": "Cyclingnews（Hulsmans）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/lotto-intermarche-youngster-announces-retirement-from-racing-after-just-two-years-in-the-peloton/",
+            "d": "2026-10-14"
+          },
+          {
+            "t": "Cyclingnews（transfers）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/transfers/",
+            "d": "2026-10"
+          },
+          {
+            "t": "ProCyclingUK",
+            "u": "https://procyclinguk.com/mens-cycling-transfers-hub/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝各引退（複数媒体）／曖昧＝背景の心情は本人発言ベース"
+      },
+      {
+        "id": "20261018-newmen-32inch",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn-jupiter.metropolis.co.uk/wp-content/uploads/sites/9/2026/10/NEWMEN_STREEM_G1-scaled.webp",
+        "headline": "【パーツ・新型／10/12発表】ニューメンが『初の32インチ』グラベルホイール Streem G.62——リム深62mm・内寸27mm、カーボンスポーク版 約1,810g・1,690ユーロ、まず完成車専用",
+        "layer1": "ドイツのNewmenが32インチ（700cより大径）のグラベル用ホイールセット Streem G.62 を10/12発表。リム深62mm・内寸27mm／外幅47mm、45〜50mmタイヤ対応のフックドビードで、隠しエアロバルブに対応する。",
+        "layer2": "カーボンスポーク版（Vonoa 21本）は700c版＋140gの約1,810g・1,690ユーロ、スチールスポーク版（Sapim CX Ray 24本）は1,760g・1,390ユーロ。当初は単体売りせず完成車装着のみ。Boost規格でスポークのブレーシングアングルを稼ぎ、700cと同等剛性をうたう。実測重量と乗り味はまだ未検証。",
+        "sources": [
+          {
+            "t": "Cyclist",
+            "u": "https://www.cyclist.co.uk/news/newmen-streem-g62-32-inch-gravel-bike-wheelset",
+            "d": "2026-10-12"
+          },
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/offroad/tech-news/newmen-unveils-the-streem-g-62-a-1670g-32-inch-aero-wheelset-but-you-cant-buy-it-yet",
+            "d": "2026-10-12"
+          }
+        ],
+        "status": "確定＝公称スペック・価格・発売形態／曖昧＝実測重量・実走性能は未検証"
+      },
+      {
+        "id": "20261018-32inch-trend",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://media.delius-klasing.de/dpr_auto,fl_progressive,f_jpg,c_fill,g_face:center,h_675,w_1200/q_auto:eco/bike/dsc7599_fb1177af6e7e491bb26c5eea4f5c42f7",
+        "headline": "【トレンド・機材のうねり／大径化】ニューメンの発表で再燃する『32インチ』の波——MTBのコース下見から広がり、シュワルベはほぼ全カテゴリーへ、ロードは当面UCI規則の壁",
+        "layer1": "10/12のニューメン発表を機に、32インチ（700cより大径）ホイールのうねりが改めて注目。2025年にMTBワールドカップの下見走行で広まり、2026年はグラベルへ波及、シュワルベはG-One系の32インチタイヤを投入している。",
+        "layer2": "利点は『よく転がる』『直進安定・エアロ』。一方で既存フレームには装着不可で、フォーク・チェーンステイ・ヘッド角の再設計が必要＝小サイズほど難しく、重量増と部品供給がボトルネック。ロードはUCIのホイール径規則が壁となり当面はグラベル中心。中華勢が追従するかが次の見どころ。",
+        "sources": [
+          {
+            "t": "Cyclist（Newmen）",
+            "u": "https://www.cyclist.co.uk/news/newmen-streem-g62-32-inch-gravel-bike-wheelset",
+            "d": "2026-10-12"
+          },
+          {
+            "t": "BIKE Magazin（物理）",
+            "u": "https://www.bike-magazin.de/en/components/bike-wheels/32-inch-wheels-on-a-gravel-bike-the-physics-don-t-lie/",
+            "d": "2026-03"
+          },
+          {
+            "t": "TOUR Magazin（展示）",
+            "u": "https://www.tour-magazin.de/en/impellers/32-gravel-bikes-wheel-trend-meets-gravel-trend-4-models-at-cyclingworld/",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝各社の動き・物理的な利点／曖昧＝普及時期・ロード展開はUCI規則次第で未確定"
+      },
+      {
+        "id": "20261018-batteryfree-autoshift",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/wsMmGfdLqAipi5QJGxDgMB-2380-80.png",
+        "headline": "【パーツ・機材最前線／10/7】『トリプルは死んでいなかった』——電池不要で“自動変速”する新システムがお披露目、漕ぐ力だけでチェーンラインを切り替え摩擦と摩耗を低減",
+        "layer1": "10/7に、電池を使わず自己完結で“自動変速”する新ドライブトレインのコンセプトが公開。2つのチェーンラインの間でチェーンの動きを制御し、メーカーは摩擦と摩耗の低減をうたう。大径（32インチ）バイク向けの提案として示された。",
+        "layer2": "電動化・無線化が主流になるなかで『電池が要らない変速』という逆張りの発想が面白い。ただし現状はコンセプト〜試作段階で、市販や価格・耐久性は未定（※実機の検証はこれから）。シマノ13速デュラエースの噂が続くタイミングで、“変速の未来像”の幅広さを示す一例として押さえておきたい。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/groupsets/you-thought-the-triple-chainset-was-dead-self-shifting-battery-free-system-for-32-bikes-offers-glimpse-of-the-future/",
+            "d": "2026-10-07"
+          }
+        ],
+        "status": "曖昧＝コンセプト段階。市販時期・価格・耐久性は未発表（※要続報）"
+      },
+      {
+        "id": "20261018-price-hike-autumn",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://journal.buychari.com/wp-content/uploads/2026/08/2026-latest-road-bikes-ogp.jpg",
+        "headline": "【経営メモ・市場／国内・値上げの秋】ブリヂストンサイクルが10/1に『価格改定』——為替・原材料高が理由、完成車の高止まりが続くほど『型落ち底値』が商機に",
+        "layer1": "ブリヂストンサイクルが2026年10月1日からの価格改定を公表。理由に為替変動と原材料費の高騰を挙げる（文面は『価格改定』で値上げか値下げかは明記なし、背景からは値上げ色が濃い）。シマノも関税を背景に約1%の値上げをしている。",
+        "layer2": "新車価格が上がるほど、客の目は『型落ち・在庫処分』へ向かう。10〜11月は型落ち値引き20〜40%が標準で、冬ボーナス期の入門特価も重なる。店としては『新型は高止まり、だが昨年モデルは十分に速い』という説明で、型落ちと中華カーボンを“納得して買える選択肢”として提示できる局面。",
+        "sources": [
+          {
+            "t": "ブリヂストンサイクル（価格改定）",
+            "u": "https://www.bscycle.co.jp/info/2026/12326",
+            "d": "2026-10"
+          },
+          {
+            "t": "buychari JOURNAL",
+            "u": "https://journal.buychari.com/2026-latest-road-bikes/",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝ブリヂストンの価格改定発表／曖昧＝改定幅・値上げ/値下げの別は文面に明記なし（※要個別確認）"
+      },
+      {
+        "id": "20261018-japancup-business",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cyclejapan.club/wp-content/uploads/2026/10/YuichiroHOSODA-20261017-162006-04788.jpg",
+        "headline": "【経営メモ・市場／国内・集客】本日のジャパンカップ本戦は秋『最大級の無料集客装置』——古賀志で世界クラスを見た人を、どう店の入口に変えるか",
+        "layer1": "本日10/18のジャパンカップ本戦は、無料で世界トップ選手を生観戦できる国内屈指のイベント。昨日のクリテでは日本勢がトップ6に3人と話題性も十分で、観戦後にSNSや検索で情報を探す人が増える時期。",
+        "layer2": "観戦で火が付いた『自分も走りたい』層は、まず型落ちの入門ロードや、手の届く中華カーボンから入る。店側は“現地で見た高揚感”を、試乗会・初心者相談・型落ち特価の導線につなげたい。レース当日〜翌週の問い合わせ増を見越し、SNSで観戦レポート＋在庫・入門特価を同時に出すのが効く。",
+        "sources": [
+          {
+            "t": "CYCLE JAPAN（クリテ）",
+            "u": "https://cyclejapan.club/2026ujc-criterium-report",
+            "d": "2026-10-17"
+          },
+          {
+            "t": "ジャパンカップ公式",
+            "u": "https://www.japancup.gr.jp/en/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝本戦日程・無料観戦・クリテの話題性／経営判断は提案"
+      },
+      {
+        "id": "20261018-climb-basics",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://number.ismcdn.jp/mwimgs/4/5/-/img_45fd0f75499a7e83c3ab0a72405456c0180438.jpg",
+        "headline": "【初中級・走りの理屈／本日の2大登坂決着に乗せて】激坂（古賀志林道・ノングラ）で『垂れない』3点——ギア比・一定ペース・体重の使い方",
+        "layer1": "本日はジャパンカップの古賀志林道（14回）も、広西のノングラ（平均7.5%・最大16.3%）も、登りで勝負が決まる。プロの登坂を見て『自分も』と思ったホビーが、まず押さえたい基本を3点で整理する。",
+        "layer2": "①ギア比＝フロント・インナー×リア大ギアに『余白』を残す（34T×32〜34Tなら激坂でも回せる）。②一定ペース＝序盤で突っ込まず心拍を上げ切らない、斜度がきつい所ほど落ち着いて回す。③体重＝サドル前寄りで骨盤を立て、ハンドルを引きつけて脚だけに頼らない。見た目の派手さより『垂れない』ことが、ロングでも効く。",
+        "sources": [
+          {
+            "t": "Number（古賀志・観戦）",
+            "u": "https://number.bunshun.jp/articles/-/832320",
+            "d": "2026-10"
+          },
+          {
+            "t": "Cycling Mole（ノングラ斜度）",
+            "u": "https://cyclingmole.com/2026/10/17/2026-tour-of-guangxi-stage-6-preview/",
+            "d": "2026-10-17"
+          }
+        ],
+        "status": "確定＝両レースのコース斜度／走り方は一般的な基本（個人差あり）"
+      },
+      {
+        "id": "20261018-first-wheel-amid-trends",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png",
+        "headline": "【初中級・機材の理屈／大径化・深リムの時代に】流行に振り回されない『初めてのホイール』——径より“内寸と用途”、中華カーボンで外さない3点",
+        "layer1": "32インチや深リムなど新トレンドが続くが、初中級の最初の1本は『流行』より『自分の用途』で選ぶのが正解。海外レビューでも、いまの中華カーボンは性能・信頼性で大手に肩を並べる評価が定着している。",
+        "layer2": "外さない3点は——①内寸：25c常用なら内寸21mm前後、28〜32cやグラベルなら内寸23〜25mm以上を目安に。②リム深：平地快走なら40〜50mm、ヒルクライムや軽快さ重視なら35〜40mm、横風が不安なら深すぎを避ける。③実績：Winspace・YOELEO・Elitewheels等、第三者の実測レビュー（Hambini／PeakTorque等）がある製品を選ぶ。『深さ・大径』の流行は後からでも追える。",
+        "sources": [
+          {
+            "t": "Velofanatics（2026中華比較）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026"
+          },
+          {
+            "t": "Cyclists Hub",
+            "u": "https://www.cyclistshub.com/chinese-carbon/",
+            "d": "2026"
+          }
+        ],
+        "status": "曖昧＝内寸・リム深の数値は一般的な目安（用途・体重で変わる）。中華評価は海外レビュー媒体ベース"
+      }
+    ]
+  },
+  {
     "date": "2026-10-17",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。広西はマニエが大会最多7勝目で青ジャージ奪還、本日第5S・明日が最終決戦。上海ではミランが『海面レベルで3分59秒突破』の追い抜き世界新。宇都宮は本日クリテ・明日本戦、カラパスはEF破棄でNSNへ電撃移籍、来週10/22はパリで2027ツール発表です。",
     "cards": [
