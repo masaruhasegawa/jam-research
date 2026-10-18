@@ -1,5 +1,325 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-19",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。週末はジャパンカップでシモンズが『初出場初優勝』、広西は20歳ヴィダルがピドコックを下して総合、上海トラック世界選は英国が金ラッシュで閉幕——ロードの主要レースが一区切りです。今週10/22は2027ツールのコース発表。冬と2027シーズンの入口を、売り場の視点でも拾いました。",
+    "cards": [
+      {
+        "id": "20261019-japancup-simmons",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://www.cyclowired.jp/sites/default/files/images_title/news/2026/10/MakotoAYANO2026UJC-1237.jpg",
+        "headline": "【🔥今日の一本・レース／10/18決着】ジャパンカップ本戦、初出場のクイン・シモンズが『ヒーリーとの一騎打ち』を制し優勝——残り30kmで2人逃げ、ベルナルのお膳立て、日本王者・留目がアジア最優秀選手",
+        "layer1": "10/18の宇都宮ジャパンカップ・ロードレース(古賀志林道14周・約144km)は、リドル・トレックのクイン・シモンズ(米)が優勝。終盤にベン・ヒーリー(EF)との2人逃げに持ち込み、最後のスプリントで競り勝った。ベルクムース(ロット)が1分12秒遅れで3位に入った。",
+        "layer2": "シモンズは残り約30kmでヒーリーと抜け出し、最終周の登りで何度振られても食らいつき、最後は「スプリントに自信があった」と直線で差し切った。今季3勝目で、恒例の『キャプテン・アメリカ敬礼』で締め。本人いわく勝因は逃げを作ったジュリアン・ベルナルの働き。日本勢は日本王者・留目夕陽(愛三)が逃げに乗り日本人最高位、アジア最優秀選手賞を獲得。前日のクリテはスティアンスン(チューダー)が制している。",
+        "sources": [
+          {
+            "t": "シクロワイアード",
+            "u": "https://www.cyclowired.jp/news/node/393623",
+            "d": "2026-10-18"
+          },
+          {
+            "t": "サイクルスポーツ",
+            "u": "https://www.cyclesports.jp/news/race/170676/",
+            "d": "2026-10-18"
+          },
+          {
+            "t": "Domestique",
+            "u": "https://www.domestiquecycling.com/en/news/quinn-simmons-celebrates-japan-cup-victory-with-captain-america-salute-after-beating-ben-healy/",
+            "d": "2026-10-18"
+          }
+        ],
+        "status": "確定＝優勝シモンズ・2位ヒーリー・3位ベルクムース(各社一致)。※『キャプテン・アメリカ敬礼』は複数メディアが報道、SNS拡散の規模そのものは定量確認途上。"
+      },
+      {
+        "id": "20261019-guangxi-widar-gc",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-10%2Fjarnowidar-6ad46406e1ef9.jpg",
+        "headline": "【レース・人間ドラマ／10/18最終決着】ツアー・オブ・広西、20歳ヴィダルがノングラ登頂で独走——今季最後のWTでピドコックの総合を奪い、自身初のWT勝利を『2つ同時』に",
+        "layer1": "今季最後のワールドツアー、ツアー・オブ・広西は最終第6ステージ(ノングラ登頂フィニッシュ)で20歳のヤルノ・ヴィダル(ロット)が独走勝利し、そのまま総合も制覇。2位はトム・ピドコック(ピナレロQ36.5)、3位バレ。",
+        "layer2": "ヴィダルはステージも総合もこれが自身初のWT勝利。最終ステージ前はマニエが総合首位だったが、登坂で puncheur 2人が抜け出し勝負を決めた。cyclingnewsは総合2位ピドコックを約9秒差・3位バレを16秒差と伝える(ステージ着差は6秒・10秒)。ピドコックは今冬もシクロクロスを見送ってまで初のWTステージレース総合を狙ったが、7歳下の新鋭に屈した。※女子版は既に廃止、男子大会も存続が不透明との報道。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-of-guangxi-jarno-widar-soars-to-overall-victory-on-closing-queen-stage/",
+            "d": "2026-10-18"
+          },
+          {
+            "t": "Cycling Up To Date",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-of-guangxi-2026-stage-6-jarno-widar-beats-tom-pidcock-to-take-gc-win-on-queen-stage",
+            "d": "2026-10-18"
+          },
+          {
+            "t": "tour-magazin",
+            "u": "https://www.tour-magazin.de/en/professional-cycling/latest-news/tour-of-guangxi-2026-stage-6-youngster-widar-leaves-pidcock-behind-to-claim-the-overall-victory/",
+            "d": "2026-10-18"
+          }
+        ],
+        "status": "確定＝ステージ&総合ヴィダル・2位ピドコック(各社一致)。曖昧＝総合着差は媒体で数値差(9/16秒 vs ステージ6/10秒)あり、要確認。"
+      },
+      {
+        "id": "20261019-track-worlds-final",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/CMvsEKMWekbym6uLGEcZb3-1024-80.jpg",
+        "headline": "【レース／10/18最終日】トラック世界選(上海)閉幕、英国が金ラッシュで総合制圧——ギレスピー(アイルランド)が女子ポイント『2冠目』、男子スプリントはラブレイセン",
+        "layer1": "上海トラック世界選は10/18が最終日。女子ポイントレースはララ・ギレスピー(アイルランド)が金で世界選2つ目のタイトル。男子スプリントはハリー・ラブレイセン(蘭)がホフマン(豪)を僅差で下し優勝。英国が大会を通じて金メダルを量産した。",
+        "layer2": "男子エリミネーションはトイテンベルク(独)、男子マディソンはデンマークが制覇。女子ケイリンは中立選手ロシアのリセンコがフリードリヒ(独)を0.006秒差で退け、フィヌケーン(英)が3位。大会前半では個人追抜でミラン(伊)が世界新、アンナ・モリス(英)が3冠。LA28へ向け各国が地力を示した。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/track-world-championships-lara-gillespie-adds-another-rainbow-jersey-to-her-closet-on-final-day-of-racing/",
+            "d": "2026-10-18"
+          },
+          {
+            "t": "RTÉ",
+            "u": "https://www.rte.ie/sport/cycling/2026/1018/1595837-gillespie-wins-second-world-title-with-gold-in-shanghai/",
+            "d": "2026-10-18"
+          },
+          {
+            "t": "todomountainbike",
+            "u": "https://todomountainbike.net/en/great-britain-takes-control-2026-uci-track-world-championships-anna-morris-claims-third-gold",
+            "d": "2026-10-18"
+          }
+        ],
+        "status": "確定＝最終日の主要種目優勝(各社一致)。曖昧＝最終メダル総数は集計途上、公式確認推奨。"
+      },
+      {
+        "id": "20261019-tdf2027-reveal",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-08%2Ftadej-pogacar-6a85ac6be3cad.jpg",
+        "headline": "【トレンド・業界／今週10/22発表】2027ツール・ド・フランスのコース、いよいよ全容公開——史上初『スコットランド発進』、英3ステージは確定",
+        "layer1": "ASOは2027年ツールの全ルートを10/22(木)11時CEST・パリで発表する。公表済みの英国グラン・デパールは、第1ステージ=エディンバラ→カーライル(184km・ほぼ平坦)、第2=ケズィック→リバプール(223km・5カテゴリ山)、第3=ウェルシュプール→カーディフ(223km・ウェールズの登り8つ、カーフィリ山でフィニッシュ)。",
+        "layer2": "スコットランド発進は史上初。第4ステージ以降は未確定だが、シェルブール発進や、ポガチャルが過去に失速したコル・デュ・グラノン/コル・ド・ラ・ロズの登頂フィニッシュ、クールシュヴェル・ティーニュ・ラ・プラーニュなどが取り沙汰されている。同日に女子ツール2027のコースも発表(プリュドム&ルース)。それ以降は全て噂の段階で、確定は10/22の公式発表待ち。",
+        "sources": [
+          {
+            "t": "IDL Pro Cycling",
+            "u": "https://www.idlprocycling.com/cycling/2027-tour-de-france-route-to-be-revealed-live-on-october-22-heres-what-the-rumour-mill-says",
+            "d": "2026-10-06"
+          },
+          {
+            "t": "cyclingstage",
+            "u": "https://www.cyclingstage.com/tour-de-france-2027-route/",
+            "d": "2026-10"
+          },
+          {
+            "t": "Sortiraparis",
+            "u": "https://www.sortiraparis.com/en/what-to-do-in-paris/sport-wellness/articles/354182-tour-de-france-2027-when-and-how-to-watch-the-route-unveiling",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝発表日10/22・英3ステージ。※4ステージ目以降のコースは全て噂、断定しない。"
+      },
+      {
+        "id": "20261019-cx-season-start",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-10%2Fmichael-vanthourenhout-6acbd41886e12.png",
+        "headline": "【トレンド・冬到来／10/11開幕】泥のシーズンが始動——ファントゥーレンハウトがデンデルモンデの開幕戦を制覇、ワールドカップは11/27オストラヴァ開幕",
+        "layer1": "ロードの主要レースが広西・ジャパンカップで一区切りする中、シクロクロスの2026-27シーズンが始動。10/11の開幕戦デンデルモンデはミカエル・ファントゥーレンハウト(パウエルス・サウゼン)が勝利、女子はルシンダ・ブランド。UCIワールドカップは11/27チェコ・オストラヴァで開幕する。",
+        "layer2": "注目のファンデルプール vs ファンアールトの『ビッグ2』対決は、例年どおり年末年始が主戦場になる見込み。一方ピドコックは今季もシクロクロスを見送り、ロードのWT総合(広西で2位)に専念した。冬は泥と室内トレで走り込む季節——日本のローディーにとっても『来季の一台目を仕込む』時期に入る。",
+        "sources": [
+          {
+            "t": "IDL Pro Cycling",
+            "u": "https://www.idlprocycling.com/cyclo-cross/kamp-helps-ten-dams-cyclocross-team-bomba-join-secure-a-top-ten-finish-right-off-the-bat-in-their-debut-in-dendermonde",
+            "d": "2026-10-11"
+          },
+          {
+            "t": "cyclocross24",
+            "u": "https://cyclocross24.com/standings/uci-world-cup/",
+            "d": "2026-10"
+          },
+          {
+            "t": "UCI CX World Cup",
+            "u": "https://www.ucicyclocrossworldcup.com/en",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝デンデルモンデ開幕戦優勝者・WC開幕地/日程。曖昧＝VdP/VvAの2026-27詳細日程は未発表、年末が主戦場は例年傾向。"
+      },
+      {
+        "id": "20261019-track-watch-guide",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://www.rte.ie/images/002530ff-1600.jpg",
+        "headline": "【初中級・観戦の理屈／トラック世界選に乗せて】『バンクの競技』を10倍楽しむ——固定ギア・種目の違い・なぜ0.006秒で勝敗が決まるのか",
+        "layer1": "上海トラック世界選が盛り上がったが、「種目が多くてわからない」という声は多い。スプリント系(スプリント・ケイリン)と耐久系(ポイント・マディソン・エリミネーション・個人追抜)の2系統を押さえると、一気に見やすくなる。",
+        "layer2": "トラックバイクはブレーキなし・固定ギア(ペダルを止められない)で、だから独特の駆け引きが生まれる。女子ケイリンが0.006秒差で決した今大会のように、勝敗は『空力と位置取り』の紙一重。ロードの深リム・エアロ投資が『なぜ効くか』を体感できるのがトラック。普段ロードに乗る人も、固定ギアの一定ペダリングはオフの脚づくりに効く。",
+        "sources": [
+          {
+            "t": "RTÉ",
+            "u": "https://www.rte.ie/sport/cycling/2026/1018/1595837-gillespie-wins-second-world-title-with-gold-in-shanghai/",
+            "d": "2026-10-18"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/track-world-championships-lara-gillespie-adds-another-rainbow-jersey-to-her-closet-on-final-day-of-racing/",
+            "d": "2026-10-18"
+          },
+          {
+            "t": "Wikipedia(2026 UCI Track)",
+            "u": "https://en.wikipedia.org/wiki/2026_UCI_Track_Cycling_World_Championships",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝種目区分・固定ギアの基礎・今大会の僅差決着。普遍ネタを今大会をきっかけに整理。"
+      },
+      {
+        "id": "20261019-market-japancup-shukyaku",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://www.cyclowired.jp/sites/default/files/images_title/news/2026/10/846206854_1039951665728310_1302745973662795648_n.jpeg",
+        "headline": "【経営メモ・市場／国内・集客】ジャパンカップが終わった『今週』こそ本番——現地とSNSで沸いた熱を、どう店の入口に変えるか",
+        "layer1": "宇都宮ジャパンカップは秋最大級の無料集客イベント。本戦でシモンズの『キャプテン・アメリカ敬礼』、日本勢・留目のアジア最優秀選手賞など、現地でもSNSでも話題が生まれた。沸いた直後の1〜2週間が、来店動機へ変える勝負どころ。",
+        "layer2": "経営の目線では、①『見てきた人』向けに観戦後の雑談フック(あの機材は何か/中華でどう再現するか)を用意、②日本人選手の健闘を起点に『国内で戦う人の装備』提案、③SNSで話題になった画をきっかけに来店→試乗の導線を引く。レース集客は『翌週の棚と声かけ』まで設計して、初めて売上につながる。",
+        "sources": [
+          {
+            "t": "ジャパンカップ公式",
+            "u": "https://www.japancup.gr.jp/news/4193/",
+            "d": "2026-10-18"
+          },
+          {
+            "t": "シクロワイアード(クリテ詳報)",
+            "u": "https://www.cyclowired.jp/news/node/393616",
+            "d": "2026-10-17"
+          },
+          {
+            "t": "Domestique",
+            "u": "https://www.domestiquecycling.com/en/news/quinn-simmons-celebrates-japan-cup-victory-with-captain-america-salute-after-beating-ben-healy/",
+            "d": "2026-10-18"
+          }
+        ],
+        "status": "確定＝イベント実施・話題化は複数ソース。※SNS拡散の規模は定量確認途上(断定せず、経営の打ち手として整理)。"
+      },
+      {
+        "id": "20261019-market-kaidoki-2027",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bike-memo.com/wp-content/uploads/2026/08/zakki_C258.jpg",
+        "headline": "【経営メモ・市場／国内・買い時】2027新型の号砲は今週10/22——『型落ち底値』の本番と、ブリヂストン10/1値上げの二正面",
+        "layer1": "2027ツールのコース発表(10/22)は、各社2027モデル発表シーズンの号砲でもある。新型が出るほど2026モデルは『型落ち』として動き、秋〜冬は値引きの本番。一方でブリヂストンサイクルは10/1に為替・原材料高を理由に価格改定(値上げ)を実施済み。",
+        "layer2": "構図は『新型は高止まり(値上げ)×2026型落ちは底値』。輸入スポーツ車もブーム収束で一部定価を下げた経緯があり、客は『新型高止まり』を嫌って型落ちへ流れやすい。店としては、型落ち完成車の在庫を『今の買い得』として明確に提示しつつ、ホイール等のアップグレード(中華カーボンで差額を活かす)まで一緒に見せると客単価が上がる。",
+        "sources": [
+          {
+            "t": "ブリヂストンサイクル(価格改定告知)",
+            "u": "https://www.bscycle.co.jp/info/2026/12326",
+            "d": "2026-09-25"
+          },
+          {
+            "t": "IDL Pro Cycling(2027ツール)",
+            "u": "https://www.idlprocycling.com/cycling/2027-tour-de-france-route-to-be-revealed-live-on-october-22-heres-what-the-rumour-mill-says",
+            "d": "2026-10-06"
+          },
+          {
+            "t": "日本経済新聞(背景)",
+            "u": "https://www.nikkei.com/article/DGXZQOUB257HL0V21C25A2000000/",
+            "d": "2025-12"
+          }
+        ],
+        "status": "確定＝10/22発表・ブリヂストン10/1値上げ。曖昧＝型落ち値引き率は店舗差、傾向として扱う。※日経記事は2025年の背景情報。"
+      },
+      {
+        "id": "20261019-wheel-china-carbon-now",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://assets.st-note.com/production/uploads/images/194484961/rectangle_large_type_2_64023c79e77c594dbd9d74f91fb19fb6.jpeg?fit=bounds&quality=85&width=1280",
+        "headline": "【ホイール・機材読み／今週の決着に乗せて】登り(ノングラ・古賀志)とスプリントが同じ週に——アマが『1セットで両取り』する中華カーボンの現在地",
+        "layer1": "この週末は広西ノングラの登頂、ジャパンカップ古賀志の登り、そして最後は2人のスプリント決着。『登りも高速平坦も』という欲張りな要求に、いまの中華カーボンはどう応えるか。",
+        "layer2": "万能解は『リム内寸23mm前後・ハイト40〜50mm』。シマノ新デュラエースC50が内寸23mmへ広げ、ENVEもプレミアム帯を押し上げる中、8LIEN・CRW・YOELEO・GOOSYNNなどの中華勢は同等スペックを数分の一の価格で追う。登り重視なら35〜40mm・軽量、平坦志向なら50mm。『径より内寸と用途』で選べば、プロの機材トレンドをアマ予算で再現できる。",
+        "sources": [
+          {
+            "t": "note(Elitewheels Drive II考察)",
+            "u": "https://note.com/compo_de_ring/n/n4128a16bc4a8",
+            "d": "2026-10"
+          },
+          {
+            "t": "サイクルスポーツ(新デュラC50)",
+            "u": "https://www.cyclesports.jp/news/new-product/167270/",
+            "d": "2026-09"
+          },
+          {
+            "t": "Velo Fanatics(China carbon 2026)",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝内寸23mm化のトレンド・用途別ハイトの考え方。※個別ブランドの実測重量は個体差あり、購入前に公式仕様を確認。"
+      },
+      {
+        "id": "20261019-beginner-indoor-start",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://media.delius-klasing.de/dpr_auto,fl_progressive,f_jpg,c_fill,g_face:center,h_675,w_1200/q_auto:eco/tour/696952-tsoz-aug-2026-pr-6-dc85ca-original-1787845104_d5ce65f7f5db0e88628fff72fa274012",
+        "headline": "【初中級・走りの理屈／レースが一区切りした今】オフこそ差がつく『室内トレ入門』——はじめてのスマートトレーナー、失敗しない3点",
+        "layer1": "広西・ジャパンカップでロードの主要レースが一段落。日が短く寒くなるこれからは『室内トレ(スマートトレーナー/ローラー)』の季節。来季の一台目を活かすためにも、冬の脚づくりは今から始めたい。",
+        "layer2": "はじめての3点は、①ダイレクトドライブ式(静か・精度高・スプロケ別途)かホイールオン式(安価)かを住環境で選ぶ、②パワー計測の有無(Zwift等の負荷連動は専用機が快適)、③固定より『実走感』重視ならスマートバイクも選択肢。Zwiftは2026シーズンも機能拡充(Ride V2やWHOOP連携など)が進行中で、初心者向けの導線は整ってきた。まずは週2〜3回・各30〜45分から。",
+        "sources": [
+          {
+            "t": "Cyclingnews(Zwift 2026シーズン)",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/smart-trainers/zwift-unveils-new-smart-bike-rolls-out-a-range-of-new-in-game-features-and-integrates-with-popular-wearable/",
+            "d": "2026-09-09"
+          },
+          {
+            "t": "Rouleur(室内シーズン)",
+            "u": "https://www.rouleur.cc/blogs/the-rouleur-journal/indoor-cycling-season-is-coming-what-s-new-on-zwift-this-winter",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝機材方式の違い・はじめ方の目安。※Zwift個別機能の提供時期はロールアウト中(主役は『季節の入口』としての一般論)。"
+      },
+      {
+        "id": "20261019-pidcock-human-drama",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/Yr8kPbSXrWzQmjAzpg9s8J-2100-80.jpg",
+        "headline": "【トレンド・人間ドラマ／10/18】ピドコックの『届かない秋』——シクロクロスを捨ててまで狙ったWT総合を、20歳に奪われて",
+        "layer1": "広西で総合2位に終わったトム・ピドコック。今季もシクロクロスを見送り、ロードのステージレース総合に賭けたが、最終ノングラで20歳ヴィダルの独走を許し、自身初のWTステージレース総合はまたも『あと一歩』で逃げた。",
+        "layer2": "五輪MTB連覇・クラシックも勝てる万能型でありながら、グランツールやWT総合の『主役』にはまだ手が届かない。新興ピナレロQ36.5移籍で環境は整い、チッコーネら補強も進むが、結果はこれから。ポスト・ポガチャル世代(ヴィダル20・セイシャス20)が台頭するなか、26歳の彼が『何で勝つ選手になるのか』が来季の問い。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-of-guangxi-jarno-widar-soars-to-overall-victory-on-closing-queen-stage/",
+            "d": "2026-10-18"
+          },
+          {
+            "t": "Cycling Up To Date",
+            "u": "https://cyclinguptodate.com/cycling/results-tour-of-guangxi-2026-stage-6-jarno-widar-beats-tom-pidcock-to-take-gc-win-on-queen-stage",
+            "d": "2026-10-18"
+          },
+          {
+            "t": "IDL Pro Cycling(プレビュー)",
+            "u": "https://www.idlprocycling.com/cycling/2026-tour-of-guangxi-preview-pidcock-vs-widar-on-a-new-mountain-stage-plus-a-decisive-finale-on-nongla",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝広西総合2位・CX見送り。※去就や来季方針は分析/推測として明記。"
+      }
+    ]
+  },
+  {
     "date": "2026-10-18",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。本日はジャパンカップ本戦、ツアー・オブ・広西の最終決戦、上海トラック世界選の最終日が重なる『今季の締めくくり』の日曜。昨日のクリテは日本勢がトップ6に3人の快走でした。",
     "cards": [
