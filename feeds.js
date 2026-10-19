@@ -1,5 +1,254 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-20",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。主要レースが一段落し、話題は一気に『2027年』へ動きました。ポガチャルがブエルタ落車の憶測を『全部フェイクニュース』と一蹴して三冠狙いを宣言、2020ジロ覇者ゲオゲガン・ハートはEFへ再起を賭けます。機材はEscapeがタイヤ10本をガチ実測、売り場目線では老舗バッグブランドの閉店と、今月末に決算を控えるシマノの底堅さを拾いました。あさって10/22はいよいよ2027ツールのコース発表です。",
+    "cards": [
+      {
+        "id": "20261020-pogacar-fakenews",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/ygVrGRBJjRrDgBcJvctLjA-2560-80.png",
+        "headline": "【🔥今日の一本・トレンド／10/19・Xの憶測を一蹴】ポガチャル、ブエルタ落車の原因は『大きな岩。あとは全部フェイクニュース』——2026も年間王者のまま、2027は『ツール＋ブエルタ＋世界選』を狙うと明言",
+        "layer1": "8月のブエルタで高速落車し今季を終えたタデイ・ポガチャル。原因をめぐってXでさまざまな憶測が飛び交っていたが、本人がゴルフイベントで『大きな岩だった。あとは全部フェイクニュースだ』と断言した。世界選・欧州選・ロンバルディアを欠場しながら、2026も年間ランキング首位のままシーズンを終える。",
+        "layer2": "回復はほぼ完了し、復帰戦は11/29モナコのチャリティ・クリテリウム(トレンティン夫妻主催)の見込み。『肩が治ってめまいも消えてから本格的に走り出した。例年より1か月早く通常トレを再開した』と。2027の狙いは『世界選＋ツール＋ブエルタ』の組み合わせで、『本当はジロに行きたいが、ブエルタはどこかで獲らないといけない』。今季は出走した5つのワンデーのうち4勝(ストラーデ・ビアンケ／ミラノ〜サンレモ／フランドル／リエージュ)、ツール総合も制覇。ツール・ダウンアンダー復帰の噂もあるが、確定は12月のチーム合宿待ち。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/tadej-pogacar-clarifies-cause-of-season-ending-crash-and-confirms-main-objectives-for-2027/",
+            "d": "2026-10-19"
+          }
+        ],
+        "status": "確定＝本人発言(Cyclingnews)。※復帰戦・2027日程・ダウンアンダー復帰は本人の意向段階で、正式な日程発表は12月。"
+      },
+      {
+        "id": "20261020-auge-paralysis",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/PWQbEZ2afd8zKJTzqJBhPJ-1024-80.jpg",
+        "headline": "【レース・人間ドラマ／10/19・本人のSNS投稿が拡散】ツアー・オブ・ランカウイで重傷のロナン・オジェ、『顔の50%が麻痺』——昏睡・多発骨折から生還、マーヴィン・ゲイに合わせ変顔動画で前を向く22歳",
+        "layer1": "10月初旬のツアー・オブ・ランカウイ(マレーシア)で落車し、1日間の人工昏睡、脛骨・肘・頸椎・肋骨・指・頭蓋骨の多発骨折、肺の損傷を負ったフランスの22歳ロナン・オジェ。週末のSNS投稿で『落車で顔の50%が麻痺した。プロの“変顔師”という新キャリアが待っている』と、マーヴィン・ゲイの曲に合わせ変顔する動画を公開し、拡散した。",
+        "layer2": "右の顔面神経の損傷で、『時間とリハビリで回復するはず。だめなら手術も選択肢。だから楽観的でいる』と本人。事故から2週間半を経てなおマレーシアの病院に入院中だが『もうすぐフランスに戻れる』と。オジェは今季がProTeam初年目(コンチネンタルのCIC-U-NantesからRockets系へ加入)で、6月のルート・ドクシタニーで初のプロ勝利。ランカウイでも序盤2ステージで4位2回と好調だった矢先の落車だった。最初の投稿(10/9)は『いま一番の勝利は、ただ生きていること』。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/a-new-career-as-a-professional-grimacer-awaits-ronan-auge-suffering-facial-paralysis-after-horror-crash-at-tour-de-langkawi/",
+            "d": "2026-10-19"
+          }
+        ],
+        "status": "確定＝本人SNS投稿＋Cyclingnews報道。※顔面神経の最終的な回復可否は未確定(リハビリ経過次第)。"
+      },
+      {
+        "id": "20261020-vanempel-comeback",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://escapecollective.com/content/images/size/w1200/2026/10/hg-cross-meulebeke-van-empel-at-start.jpg",
+        "headline": "【レース・人間ドラマ／10/17】元CX世界女王フェム・ファン・エンペルが『1年の離脱』から復帰——シクロクロス復帰戦で4位、「これまでで一番幸せ」と笑顔でシーズンへ帰還",
+        "layer1": "昨季を最後に約1年間プロシーンを離れていた元シクロクロス世界女王フェム・ファン・エンペル(オランダ)が、10/17にシクロクロスのレースで復帰し、4位でフィニッシュ。順位以上に『これまでで一番幸せ』と、競技に戻れた喜びをにじませた。",
+        "layer2": "泥のシーズンはまだ序盤。本格的なシリーズ戦は、スーペルプレスティージュ初戦が10/25オーファイス、ワールドカップ開幕が11/27オストラヴァと、これからが山場だ。彼女の復帰は、ファンアールトの参戦確定(ピドコックは見送り)と並び『今冬の見どころ』を一つ増やした。女子トップが戻ることで、アルヴァラードやブラントらとの争いが一段と濃くなる。",
+        "sources": [
+          {
+            "t": "Escape Collective",
+            "u": "https://escapecollective.com/im-happier-than-ever-fem-van-empel-4th-in-comeback-race-after-year-off/",
+            "d": "2026-10-17"
+          }
+        ],
+        "status": "確定＝復帰・4位(Escape Collective)。※離脱理由の詳細はここでは割愛、レース名は会場名(ムーレベーケ)ベース。"
+      },
+      {
+        "id": "20261020-lifetime-gp-finale",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/APQXUXcaWTsvpcJK8CA6A4-2034-80.jpg",
+        "headline": "【レース・米グラベル／10/18決着】ライフタイム・グランプリ最終戦、キーガン・スウェンソンとソフィア・ゴメス・ビジャファーニェが『4度目』のシリーズ総合——北米オフロードの最高峰を締めくくる",
+        "layer1": "米国のオフロード／グラベル・シリーズ『ライフタイム・グランプリ』が最終戦で2026シーズンを終え、男子キーガン・スウェンソン、女子ソフィア・ゴメス・ビジャファーニェがそれぞれ4度目のシリーズ総合優勝。ゴメス・ビジャファーニェは137ポイントで、2位ヘイリー・プリーンらを抑えた。",
+        "layer2": "欧州ロードが一区切りした今も、北米ではグラベルが盛り上がりの中心。スウェンソンは『4つの中で一番苦しんで取った総合』とコメントするなど、XCとグラベルを股にかけるオールラウンダー層が年々厚くなっている。日本でもグラベル人気はじわり拡大中——太めタイヤ・ワイドリム・1x化といった潮流は、店頭の『2台目／遊べる1台』提案に直結する。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/fourth-titles-at-life-time-grand-prix-for-keegan-swenson-and-sofia-gomez-villafane-but-the-one-i-had-to-work-the-hardest-for-admits-mens-winner/",
+            "d": "2026-10-18"
+          }
+        ],
+        "status": "確定＝両者4度目の総合・女子ポイント上位(Cyclingnews)。※男子最終ポイント詳細はここでは割愛。"
+      },
+      {
+        "id": "20261020-tgh-ef",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/PiZ87PnEEMNC8goJyn4v4X-2000-80.jpg",
+        "headline": "【トレンド・移籍／10/19・人間ドラマ】2020ジロ覇者タオ・ゲオゲガン・ハートが『EFエデュケーション』へ——リドル・トレックを去り1年契約、「最高だった頃のコンディションを取り戻したい」",
+        "layer1": "10/19、英国のタオ・ゲオゲガン・ハート(2020ジロ・デ・イタリア覇者)が2027年からEFエデュケーション=イージーポストに加入すると発表された。リドル・トレックを離れ、契約は1年とみられる。",
+        "layer2": "スカイで頭角を現し2020年にジロ総合を制するも、2023年ジロで落車・骨折し転落。リドルでの3年はトップ10も稀で、退団は時間の問題だった。CEOヴォーンターズとの『個人的で興味深い会話』を経ての加入で、本人は『“ノスタルジーは毒”と書かれた額入りチケット(エリック・カントナ)を壁に飾っている。前だけを見たい』。ヴォーンターズは『ひどい落車から戻る粘りを持つ逸材。花開くのは2027だと賭けている』と、チームの“隠れた価値を引き出す”哲学との相性に期待を寄せた。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/tao-geoghegan-hart-signs-for-ef-education-easypost-in-bid-to-refind-the-condition-i-had-in-my-best-years/",
+            "d": "2026-10-19"
+          }
+        ],
+        "status": "確定＝加入発表(Cyclingnews／EFリリース)。※契約年数は『1年とみられる』、役割は未確定。"
+      },
+      {
+        "id": "20261020-remco-2027",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/p5UEymftTfNLwT4Nsmfma-2000-80.jpg",
+        "headline": "【トレンド／10/19・来季設計】レムコ・エヴェネプール、レッドブル1年目を総括——世界選とロンバルディアの『最後の1時間』の失速を自己分析、2027はさらに『絞り込む』",
+        "layer1": "レッドブル=ボーラ・ハンスグローエでの初年を終えたエヴェネプールが今季を総括。『長いが総じて美しいシーズン。浮き沈みはあったが浮きが勝った』としつつ、ポガチャル不在で狙えた世界選ロードとロンバルディアでの失速、UAEツアーの不調を『内部で必ず議論する』と認めた。",
+        "layer2": "敗因と見るのは『ここ数週間、最後の1時間で力尽きたこと』。だからオフ入りのはずの先週水曜に7時間超のロングライドを敢行し、早くも修正に着手した。2027はレース数をさらに絞る方針を堅持する(今季もリエージュ=4月からツール=7月まで一切レースをせず批判された)。好スタート(マヨルカ3勝＋バレンシア総合)の一方で、UAEツアーの失速など『ムラ』も残した一年だった。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/remco-evenepoel-identifies-tweaks-for-2027-as-he-assesses-what-went-right-and-wrong-in-first-season-with-red-bull-bora-hansgrohe/",
+            "d": "2026-10-19"
+          }
+        ],
+        "status": "確定＝本人の総括(Cyclingnews)。※2027の具体日程は未発表。"
+      },
+      {
+        "id": "20261020-totalenergies-survival",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/M2AGn7wg5yQ4sC8JCaUpEX-2400-80.jpg",
+        "headline": "【トレンド・業界／10/19】UCIが2027年チーム登録を発表——WTは全チーム揃う見込み、だがトタルエナジーが『存続の瀬戸際』、男子プロチームは2つ減",
+        "layer1": "UCIが10/15締切のチーム登録状況を公表。男女ともWTは全チームが揃う見込みだが、男子ProTeamは2つ減少した。書類未提出で猶予を得た2チームがあり、その一つがフランスの名門トタルエナジー(現在はユニベット系)とみられる。",
+        "layer2": "GMベルノドー曰く『銀行保証は提出済みで倫理・保証要件は満たした。あとは予算の確定だけ』。だが既に9選手が他チームと契約、3人が引退し、残る選手に“不確実な未来”への残留を説得する必要がある。『承認には70%の完成度が必要だが今は50%。10選手の契約とスポンサーの銀行保証がいる。10/31は越えないと自分たちで決めた』。ヴァンデ地方の企業の支援に望みをつなぐ。ほかKern Pharma・Flanders-Baloise・エウスカルテルも未掲載で、もう一つの猶予枠はエウスカルテルの可能性。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/theres-still-hope-for-totalenergies-as-uci-announces-team-registrations-for-2027/",
+            "d": "2026-10-19"
+          }
+        ],
+        "status": "確定＝UCI登録状況とベルノドー発言(Cyclingnews)。※トタルエナジーが猶予2枠の一つかは『とみられる』段階。"
+      },
+      {
+        "id": "20261020-escape-tire-test",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://escapecollective.com/content/images/size/w1200/2026/10/Escape-Collective-Tyre-testing-2026-tyre-leaderboard-23-10-1.jpg",
+        "headline": "【パーツ・機材の理屈／10/19】『どのタイヤを買えばいい?』にデータで答え——人気10本を同一ライダー・同一路面で実測、GP5000基準で『決戦用／普段使いの速い／遅い』の3群に",
+        "layer1": "Escape Collectiveが、人気ロードタイヤ10本を1人のライダー(ロナン・マクラフリン)が同じ道で3気圧ずつ実測した大規模テストを公開(4〜6月に同じ区間を304回・約430km・有効テスト73本)。コンチネンタルGP5000 S TR 28mmを基準に、転がり抵抗で『決戦用』『普段使いの速い』『そんなに速くない』の3群へ分類した。",
+        "layer2": "肝は手法の厳密さ——毎回コントロールタイヤで走行の前後を挟み、信頼区間と誤差まで公表する(『答えだけでなく“計算過程”も見せる』)。含意はシンプルで、『高い=速い』でも『太い=遅い』でもなく、銘柄と空気圧で確かな差が出るということ。マサル的な売り場メモ：決戦用と普段用でタイヤを分ける提案、そして“まず基準タイヤ＋適正空気圧”という処方は、高いホイールより先に客の体感を変えられる(=中華カーボンでも上位勢に迫れる)安くて確実な一手。",
+        "sources": [
+          {
+            "t": "Escape Collective",
+            "u": "https://escapecollective.com/escape-collective-tire-testing-a-simple-guide-to-picking-the-best-road-tire/",
+            "d": "2026-10-19"
+          }
+        ],
+        "status": "確定＝テスト手法と3群の枠組み(Escape Collective)。※個別の順位・銘柄は会員限定記事のため、ここでは枠組みのみ紹介。"
+      },
+      {
+        "id": "20261020-wheel-innerwidth-match",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/PiZ87PnEEMNC8goJyn4v4X-2000-80.jpg",
+        "headline": "【ホイール・機材読み／タイヤ実測の今に乗せて】速さは『リムとタイヤの組み合わせ』で決まる——内寸23mmが新標準の時代、中華カーボンで外さない合わせ方",
+        "layer1": "タイヤ単体の実測が話題になる一方で、速さと乗り心地を実際に左右するのは『リム内寸×タイヤ幅×空気圧』の組み合わせだ。2026年は新型デュラエースWH-R9370やコロンバスら各社が内寸23mmへ広がり、28〜30mmタイヤを前提にした設計が“新標準”になりつつある。",
+        "layer2": "広いリムに細すぎるタイヤを履かせると電球型になって空力も乗り心地も損ない、逆もまた然り。目安は『内寸＋おおむね5〜8mm程度が実測幅』で、内寸21mmなら28c、23mmなら28〜30cが素直。中華カーボン(8LIEN・CRW・GOOSYNN等)を選ぶときも、スペックのリム深だけでなく内寸を必ず確認し、使うタイヤと空気圧まで含めて“セット”で考えると、上位ブランドとの体感差は驚くほど縮まる。フックレスか微フックかも、使うタイヤ側の対応と推奨圧で選ぶのが安全。",
+        "sources": [
+          {
+            "t": "Escape Collective(タイヤ実測)",
+            "u": "https://escapecollective.com/escape-collective-tire-testing-a-simple-guide-to-picking-the-best-road-tire/",
+            "d": "2026-10-19"
+          },
+          {
+            "t": "BikeRadar(Shimano WH-R9370・内寸)",
+            "u": "https://www.bikeradar.com/news/shimano-dura-ace-r9370-wheels",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝内寸23mmへの各社シフトと実測幅の一般則。※個別銘柄の推奨は使うタイヤ・推奨圧の確認前提(※一部は一般的な目安)。"
+      },
+      {
+        "id": "20261020-offseason-beginner",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/ygVrGRBJjRrDgBcJvctLjA-2560-80.png",
+        "headline": "【初中級・走りの理屈／プロのオフに学ぶ】ポガチャルもレムコも『例年より早く』走り出した——シーズンが終わった今、初中級がオフにやると一番得する3つ",
+        "layer1": "シーズンを終えたトップ選手の動きが示唆的だ。ポガチャルは『例年より1か月早く通常トレを再開』、エヴェネプールはオフ入りのはずの先週に7時間超のロングを敢行した。完全にゼロにせず、“土台づくり”に時間を使うのがいまの潮流。初中級も、寒くなるオフこそ差がつく。",
+        "layer2": "やると得する3つ——(1)週1〜2回の『ゆっくり長め(Z2)』で土台づくり。強度より時間、心拍を上げすぎないのがコツ。(2)バイクの点検とタイヤ/チェーンの見直し(※別カードのタイヤ実測の通り、適正空気圧は“無料で速くなる”チューニング)。(3)室内トレーナーの習慣化で、天候に左右されず“量”を確保。プロのように『早く・軽く始めて長く積む』ほうが、春の一台目を気持ちよく走り出せる。無理に追い込むより、続く形を作るのが正解。",
+        "sources": [
+          {
+            "t": "Cyclingnews(ポガチャル)",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/tadej-pogacar-clarifies-cause-of-season-ending-crash-and-confirms-main-objectives-for-2027/",
+            "d": "2026-10-19"
+          },
+          {
+            "t": "Cyclingnews(エヴェネプール)",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/remco-evenepoel-identifies-tweaks-for-2027-as-he-assesses-what-went-right-and-wrong-in-first-season-with-red-bull-bora-hansgrohe/",
+            "d": "2026-10-19"
+          }
+        ],
+        "status": "確定＝両選手のオフの動き(Cyclingnews)。※トレ3点は一般的な初中級向けの指針(個人差あり)。"
+      },
+      {
+        "id": "20261020-routewerks-tariff",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://escapecollective.com/content/images/size/w1200/2026/10/Copy-of-P1450205-2.jpg",
+        "headline": "【経営メモ・市場／競合・業界の下降局面】名作ハンドルバーバッグの『Route Werks』が6年で閉店——関税の急騰・滞留在庫・$130の送料が、模倣品や詐欺より先に会社を倒した",
+        "layer1": "“たわまない”モジュール式ハンドルバーバッグで名を馳せた米Route Werksが、6年で事業を畳む。創業者は閉店の理由を『模倣品や詐欺ではなく、関税の急騰・倉庫で止まった在庫・1個130ドルに達した送料』と、業界の資金繰り問題として赤裸々に語った。",
+        "layer2": "要点は『現金』。小さなチームで複雑なサプライチェーンを回すと製品ラインを広げられず、ラインが狭いと市場での存在感が出ず、存在感が出ないと現金が細る——という“負の円環”。創業者いわく『業界は下降局面で、弱いところから底が抜ける』。マサルへの含意：これは対岸の火事ではない。縮小・在庫過多・コスト高は日本の小売にも効く。だからこそ、過剰に仕入れを広げず“回る品”に集中し、在庫回転と現金を最優先にする——中華カーボンのように“客の基準になりつつある価格帯”を軸に据える戦い方が、下降局面では効く。",
+        "sources": [
+          {
+            "t": "Escape Collective",
+            "u": "https://escapecollective.com/the-tariff-that-killed-route-werks/",
+            "d": "2026-10-16"
+          }
+        ],
+        "status": "確定＝閉店と創業者の説明(Escape Collective)。※関税・送料の具体額は創業者談。会員限定記事。"
+      },
+      {
+        "id": "20261020-shimano-q3-vs-downturn",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/PiZ87PnEEMNC8goJyn4v4X-2000-80.jpg",
+        "headline": "【経営メモ・市場／競合・10/27決算を前に】シマノは通期を『上方修正』で底堅い——業界は下降局面(メリダ四半期▲27%・在庫過多は2027まで)、大手だけが残る秋に店はどう構えるか",
+        "layer1": "シマノの第3四半期決算は10/27発表予定。すでに2026年上期(第2四半期累計)は経常利益が約352億円と事前予想を上回り、通期予想も経常560億円(前期比+19.1%)へ上方修正済み。業界全体が苦しむなか、最大手は底堅さを見せている。",
+        "layer2": "対照的に欧州は在庫過多が2027年まで財務を圧迫する見通しで、メリダは2026年Q1売上が前年比約▲27%、英Frog Bikesは2月に破産手続き(その後買い手)。前カードのRoute Werks閉店も同じ文脈だ。マサルへの含意：『大手と定番は残り、弱い中小から消える』局面。店としては(1)欠品が怖い定番(シマノ等)の供給計画を早めに確認、(2)値下げ合戦に巻き込まれないよう“価格の基準”を自分で示す(=中華カーボンの価格優位を正しく説明)、(3)在庫は薄く・回転重視。10/27の自転車部品セグメントの数字は、来季の仕入れ強弱を測る好材料になる。",
+        "sources": [
+          {
+            "t": "株予報(シマノ決算予定・通期予想)",
+            "u": "https://kabuyoho.jp/report?bcode=7309",
+            "d": "2026-10"
+          },
+          {
+            "t": "Bike Europe(2026市場の慎重な楽観・在庫過多)",
+            "u": "https://www.bike-eu.com/51805/cautious-optimism-in-2026-bike-market",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝シマノ決算日10/27・上期実績・通期上方修正(株予報ほか)。※Q3の自転車部品セグメント詳細は10/27発表後に要確認。メリダ/Frogの数値は報道ベース。"
+      }
+    ]
+  },
+  {
     "date": "2026-10-19",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。週末はジャパンカップでシモンズが『初出場初優勝』、広西は20歳ヴィダルがピドコックを下して総合、上海トラック世界選は英国が金ラッシュで閉幕——ロードの主要レースが一区切りです。今週10/22は2027ツールのコース発表。冬と2027シーズンの入口を、売り場の視点でも拾いました。",
     "cards": [
