@@ -1,5 +1,226 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-21",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ロードは冬支度——移籍とスポンサーの『椅子取り』、そして冒険家モートンの旅立ち。機材は“声で操る”サイコンが来ました。質を優先して厳選しています。",
+    "cards": [
+      {
+        "id": "20261021-morton-leaves-ef",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/iCmue4fAKiGQCcQ6qgvhmK-2560-80.jpg",
+        "headline": "【🔥今日の一本・レース／人間ドラマ・10/20】冒険家ラクラン・モートンが6年のEFを離脱——『もうピンクは着ない、でも走るのはやめない』、次は米ポニー・エクスプレス単独走、その先はパキスタンへ",
+        "layer1": "探検的ロングライドで世界を沸かせてきた豪ラクラン・モートンが、6シーズン在籍したEFエデュケーション・イージーポストを離れると表明。「チームカラーのピンクはもう着ないけど、走るのをやめるわけじゃない」と前を向いた。",
+        "layer2": "離脱後まず挑むのは、米西部の歴史的郵便ルート『ポニー・エクスプレス』の単独走(弟ガスの伴走車つき＝完全無補給ではない)。その先はパキスタン・パプアニューギニア・エクアドルでの遠征も構想中という。勝ち負けの世界から『自分の道を走る』側へ軸足を移す宣言で、Xでも彼らしい決断として静かに拡散した。レースを離れても注目が続く稀有な選手。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/lachlan-morton-set-to-leave-ef-education-easypost/",
+            "d": "2026-10-20"
+          },
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/news/lachlan-morton-reveals-hes-leaving-ef-education",
+            "d": "2026-10-20"
+          }
+        ],
+        "status": "確定＝本人の発言とEF離脱を複数メディアが報道／曖昧＝今後の遠征先・時期は構想段階（本人談）"
+      },
+      {
+        "id": "20261021-covi-giro-del-veneto",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/w6weadubNNGG7oHrTXs4oH-2400-80.jpg",
+        "headline": "【レース・人間ドラマ／10/14】アレッサンドロ・コヴィが『古巣UAE』を出し抜きジロ・デル・ヴェネト優勝——ジェイコ移籍後の意地、丘のスプリントで2026シーズン初勝利",
+        "layer1": "ジェイコ・アルウラのアレッサンドロ・コヴィが、小集団の登りスプリントでシャルミグやコスヌフロワらを抑えてジロ・デル・ヴェネトを制覇。これが2026年の初勝利となった。",
+        "layer2": "皮肉だったのは、ゴール前でUAE(＝コヴィの古巣)が新世界王者マクナルティのために隊列を引いたのに、最後に飛び出して勝ったのが元UAEのコヴィだった点。移籍選手が『見返す』物語は、結果速報以上に心が動く。イタリアの秋の連戦(ジロ・デッレミリア→コッパ・アゴスティーニ→ヴェネト)の、記憶に残る一コマ。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/giro-del-veneto-alessandro-covi-pulls-off-first-win-of-2026-with-well-timed-sprint/",
+            "d": "2026-10-14"
+          }
+        ],
+        "status": "確定＝勝者・展開はレースレポートで裏取り"
+      },
+      {
+        "id": "20261021-soudal-specialized-merida",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/tBFeUExR7HKoGoHFSJPUk8-2001-80.jpg",
+        "headline": "【トレンド・業界／10/20・Xがざわついた】スーダル・クイックステップが『24年のクイックステップ』題名を終了——2027は別名へ、バイクもスペシャライズド→メリダへ、メリダがWTに復帰",
+        "layer1": "ベルギーの名門が、24年続いた『クイックステップ』の冠スポンサー関係を2026年いっぱいで終えると発表。新たな共同タイトルに安全靴ブランドのセーフティ・ジョガーが入り、2027は別名で走る。同時に、機材もスペシャライズド→メリダへ移ると複数メディアが報道。",
+        "layer2": "伏線は、看板だったエヴェネプールがスペシャライズド系のレッドブルへ移ったこと＝関係が冷えた。メリダはバーレーンがビアンキに乗り換えて一度WTを去ったが、わずか1年で復帰する形。しかもメリダはスペシャライズドの株を持ち一部フレームも製造する間柄で、言わば『身内の中での椅子取り』。女子AGインシュランス系も合わせてメリダへ移る見込み。チームは機材の件を明言せず「契約は年末まで、言うことはない」。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/quickstep-to-end-24-year-title-sponsorship-of-soudal-quickstep-team-but-a-replacement-is-lined-up-for-2027/",
+            "d": "2026-10-20"
+          },
+          {
+            "t": "Escape Collective（補足）",
+            "u": "https://escapecollective.com/reports-soudal-quick-step-to-switch-from-specialized-to-merida-in-2027/",
+            "d": "2026-04-17"
+          }
+        ],
+        "status": "確定＝冠スポンサー終了と新名称はチーム発表／曖昧＝バイクのメリダ化はチームが明言を避け、複数メディアの報道段階 ※一部要裏取り"
+      },
+      {
+        "id": "20261021-garmin-edge-1060",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://s34181.pcdn.co/en-US/newsroom/wp-content/uploads/2026/10/Edge-1060_NewsroomImage-1480x975.jpg",
+        "headline": "【パーツ・機材最前線／10/20発表】ガーミンが『声で操作する』初のサイコン Edge 1060——「OK Garmin」でリルートや路面の穴報告、799.99ドル、即日発売",
+        "layer1": "ガーミンがフラッグシップの新型サイクルコンピューター Edge 1060 を発表。「OK Garmin」の呼びかけで音声操作でき、ルート再検索・心拍の確認・路面の穴の報告までを声でこなす。希望小売価格799.99ドルで即日発売。",
+        "layer2": "バッテリーは高負荷で最大20時間、節電モードで最大60時間。前モデル1050より軽量化している。Garmin Messenger連携で音声メッセージの送受信もでき、走行中にスマホを触らせない思想が徹底された。ただし音声認識の精度は走行条件と対応言語に依存すると公式も注記。『声操作が主力サイコンに降りてきた』節目の一台。",
+        "sources": [
+          {
+            "t": "Garmin Newsroom",
+            "u": "https://www.garmin.com/en-US/newsroom/press-release/sports-fitness/new-garmin-edge-1060-cycling-computer-gives-cyclists-hands-free-voice-control/",
+            "d": "2026-10-20"
+          }
+        ],
+        "status": "確定＝価格・機能・発売は公式発表で裏取り"
+      },
+      {
+        "id": "20261021-lippert-veneto-women",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/V27yYMpgQvAkEX5ft4Sbu4-1024-80.jpg",
+        "headline": "【レース・女子／10月・2026締めくくり】リアーネ・リッパートが単独で山頂へ——ヴェネト・ウーメンでソロ勝利、女子ワンデー最終戦を好調で制して越冬",
+        "layer1": "モビスターのリアーネ・リッパートが、ヴェネト・ウーメンで単独の登坂勝利。2026年の女子エリート・ワンデー最終戦を制した。2位はアデゲースト(リドル・トレック)に4秒差。",
+        "layer2": "独走での締めくくりは、クラシック〜グランツールまでこなすオールラウンダーとしての充実ぶりを示す。シーズン最後の一本を『勝って終える』選手は、冬のモチベーションと来季の立ち位置づくりで一歩有利に立つ。女子ロードの秋の幕引き。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/veneto-women-liane-lippert-rounds-out-2026-season-with-solo-summit-victory-in-italy/",
+            "d": "2026-10-19"
+          }
+        ],
+        "status": "確定＝勝者・2位との差はレースレポートで裏取り"
+      },
+      {
+        "id": "20261021-worldtour-squeeze",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039195-049.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C142",
+        "headline": "【経営メモ・市場／業界の収縮・10月】WTの『椅子』が足りない秋——ピクニックの残留は条件付き、トタルエナジーは瀬戸際、2027は男子プロチームが2つ減る見込み",
+        "layer1": "2027年に向けたUCI登録で、チームの資金基準がネックになっている。ピクニックPostNLはProTeam降格報道を否定しつつ「WTとして準備中」、トタルエナジーは存続の瀬戸際、男子プロチームは2つ減る見込みと伝わる。",
+        "layer2": "店への含意——スポンサー離脱やチーム縮小は、自転車ビジネス全体の『コスト増×需要鈍化』の縮図。メーカー側も淘汰が進む局面では、(1)値下げ合戦に巻き込まれず価値(適合・サービス・アフター)で売る、(2)定番と在庫回転の良い品に絞る、が効く。派手な新製品より『確実に売れる筋』を太くしておく秋。記事化不要の経営メモとして。",
+        "sources": [
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/picnic-postnl-rejects-reports-of-a-drop-to-proteam-level/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝ピクニックの降格否定とUCIの資金条件は報道／曖昧＝各チームの最終的な可否は未確定 ※要裏取り（経営判断は自店データと併用）"
+      },
+      {
+        "id": "20261021-tdf-2027-route-reveal",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0702%2Fr875236_1296x729_16%2D9.jpg",
+        "headline": "【トレンド・業界／あす10/22全容公開】2027ツール・ド・フランスのコース、いよいよ発表——史上初『エディンバラ発進』、英国3ステージは確定済み",
+        "layer1": "ASOが2027年ツールの全ルートを、あす10/22にパリで発表(現地11時／日本時間18時ごろ〜、公式サイトで配信)。これまで断片的だった本体の山岳配置が、ついに一枚絵になる。",
+        "layer2": "既出の枠組み——グランデパールは2027年7月2日、史上初のスコットランド・エディンバラ発。第1S(エディンバラ→カーライル184km)、第2S(ケズィック→リバプール)、第3S(ウェルシュプール→カーディフ、登り8つ)の英国3日間は確定。女子ツール・ド・フランスも7月30日リーズ発。英国開催は2007・2014に次ぐ3度目で、男女のグランデパールが同一国開催は史上初。山岳の目玉は発表待ち。",
+        "sources": [
+          {
+            "t": "idl ProCycling",
+            "u": "https://www.idlprocycling.com/cycling/2027-tour-de-france-route-to-be-revealed-live-on-october-22-heres-what-the-rumour-mill-says",
+            "d": "2026-10"
+          },
+          {
+            "t": "ESPN（英国グランデパール枠組み・補足）",
+            "u": "https://africa.espn.com/olympics/cycling/story/_/id/44317561/tour-de-france-returning-uk-2027-start-edinburgh",
+            "d": "2026-01"
+          }
+        ],
+        "status": "確定＝英国3Sと発表の日時／曖昧＝本体の山岳配置は10/22の発表待ち"
+      },
+      {
+        "id": "20261021-first-cycling-computer",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/edge-1060-garmin-release-kv.jpg",
+        "headline": "【初中級・機材の理屈／新型サイコンに乗せて】『初めてのサイクルコンピューター』は何で選ぶ?——GPSは要る?スマホで足りる?ガーミン・ブライトン・中華の3択",
+        "layer1": "音声操作の高機能サイコンが話題だが、初中級がまず必要なのは『速度・距離・ナビ・ログ』の4つ。ここを押さえれば入門機で十分に楽しめる。",
+        "layer2": "見るべきは3点だけ。(1)GPS付きか——ナビとログの精度が段違いで、知らない道やロングを走るなら実質必須。(2)スマホで足りるか——短時間ならアリだが、電池・雨・落下・直射下の視認性で専用機が有利。(3)価格帯——いきなりフラッグシップ(ガーミン上位＝数万円超)に飛ばず、ブライトンや中華系のGPS入門機から入ると失敗が少ない。『声で操作』などの先端機能は、あれば便利・無くても走れる、くらいの位置づけでよい。",
+        "sources": [
+          {
+            "t": "Garmin Newsroom（新型の話題を起点に）",
+            "u": "https://www.garmin.com/en-US/newsroom/press-release/sports-fitness/new-garmin-edge-1060-cycling-computer-gives-cyclists-hands-free-voice-control/",
+            "d": "2026-10-20"
+          }
+        ],
+        "status": "確定＝選び方の一般論（普遍ネタを新型発表に乗せて）／価格は機種で変動、購入時に要確認"
+      },
+      {
+        "id": "20261021-specialized-retreat-read",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/Soudal-Quick-step/CORVOS_00038846-281.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C141",
+        "headline": "【経営メモ・市場／大手の動き・10/20】スペシャライズドが『最上位チーム』を失う秋——プレミアムの牙城が緩み、価格志向と中華カーボンに追い風",
+        "layer1": "スペシャライズドが、長年の旗艦だったスーダル・クイックステップを2027で失う見込み。機材スポンサーの椅子取りが本格化し、『プレミアム一強』の構図がじわりと緩んでいる。",
+        "layer2": "店としての読み——(1)大手ブランドのWTプレゼンス縮小は、『高級完成車の需要が世界的に鈍い』というサインと重なる。(2)その空白は、価格×性能で勝る選択肢(＝中華カーボン)に流れやすい。(3)S-WORKSの中古相場や直販との兼ね合いも動く可能性。仕入れは『プレステージより価値訴求』に寄せる判断材料に。記事化は不要、経営に効く市場メモとして。",
+        "sources": [
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/soudal-quick-step-to-part-ways-with-specialized-a-year-after-evenepoel-exit/",
+            "d": "2026-10"
+          },
+          {
+            "t": "Cyclingnews（スポンサー終了の一次報道）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/quickstep-to-end-24-year-title-sponsorship-of-soudal-quickstep-team-but-a-replacement-is-lined-up-for-2027/",
+            "d": "2026-10-20"
+          }
+        ],
+        "status": "確定＝スポンサー終了は発表／曖昧＝需要・相場への波及はあくまで解釈 ※要裏取り（自店データと併用）"
+      },
+      {
+        "id": "20261021-wheel-asset-read",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/72b050e2-9cd2-4dc3-9aa4-713a603d8b39/thumbnails/606b9f0b-3f18-41a7-bb62-dbaf56264186.jpeg?appId=32337f2f-7841-4ef6-a233-d1f001580530&platform=WEB&w=1200",
+        "headline": "【ホイール・機材読み／供給メーカー交代の秋に乗せて】バイクは変わってもホイールは『資産』——完組で外さないハブ・スポーク・リム内寸の3点、中華カーボンの現在地",
+        "layer1": "スペシャ→メリダなど、WTの機材供給が入れ替わる秋。だが乗り手にとっては、フレームの銘柄が変わっても『良いホイールの条件』は変わらない。完成車を乗り換えてもホイールは持ち越せる＝資産だ。",
+        "layer2": "完組で見るのは3点。(1)ハブ——回転・防水・ラチェットの信頼性＝長く使える核心。(2)スポーク——本数・組み方・テンションが剛性と振れにくさ、そして補修のしやすさを決める。(3)リム内寸——いまは23mmが新標準で、28〜30mmタイヤに最適化され転がりと乗り心地が両立する。中華カーボンはこの3点で既にWT完成車と同等スペックに達しており、たとえば内寸23mm・リム深50mm級の最新完組は1,300〜1,450g台も珍しくない(コロンバスの実測が目安)。価格×性能で『資産』として選べる時代。",
+        "sources": [
+          {
+            "t": "Cyclingnews（供給メーカー交代の起点）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/quickstep-to-end-24-year-title-sponsorship-of-soudal-quickstep-team-but-a-replacement-is-lined-up-for-2027/",
+            "d": "2026-10-20"
+          },
+          {
+            "t": "BikeRadar（内寸23mm・重量の実測・補足）",
+            "u": "https://www.bikeradar.com/news/columbus-cento-gara-spirit-wheels",
+            "d": "2026-09-02"
+          }
+        ],
+        "status": "確定＝内寸23mmの新標準化と重量帯は実測記事準拠／曖昧＝個別製品のスペックは購入時に要確認"
+      }
+    ]
+  },
+  {
     "date": "2026-10-20",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。主要レースが一段落し、話題は一気に『2027年』へ動きました。ポガチャルがブエルタ落車の憶測を『全部フェイクニュース』と一蹴して三冠狙いを宣言、2020ジロ覇者ゲオゲガン・ハートはEFへ再起を賭けます。機材はEscapeがタイヤ10本をガチ実測、売り場目線では老舗バッグブランドの閉店と、今月末に決算を控えるシマノの底堅さを拾いました。あさって10/22はいよいよ2027ツールのコース発表です。",
     "cards": [
