@@ -1,5 +1,240 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-22",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。本日はいよいよ2027ツールの全容がパリで公開——日本時間18時ごろ、史上初の『エディンバラ発進』。レースは不調・引退・若手の決断の人間ドラマ、機材はエアバッグと中華の『格上げ』、国内はあさひの中間決算から読む市場の地図。鮮度優先で厳選しました。",
+    "cards": [
+      {
+        "id": "20261022-tdf2027-route-reveal",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/oxFWneMfFELvBMkExgksF3-1024-80.jpg",
+        "headline": "【🔥今日の一本・トレンド／本日18時(日本時間)全容公開】2027ツール・ド・フランスのコース、いよいよパリで発表——史上初『エディンバラ発進』、英国3ステージ確定、山岳はコル・デュ・ポルテやグラン・コロンビエ復活のうわさ",
+        "layer1": "ASOが本日10/22、パリ・パレ・デ・コングレで2027年ツールの全コースを発表する(現地10時＝日本時間18時ごろ)。女子ツール(TdF Femmes)の全容も同じ日に公開される。",
+        "layer2": "確定しているのは『英国グランデパール』——第1S エディンバラ→カーライル(約184km・7/2金)、第2S ケズウィック→リバプール(約223km)、第3S ウェルシュプール→カーディフ。そこからフランスへ移動し、フィニッシュは7/25パリ。女子は7/30にリーズ発進。山岳はコル・デュ・ポルテ、グラン・コロンビエ、オービスク＆ツールマレーの復活が有力視されるが、ここは本日18時の正式発表待ち。TNT／HBO Max／ユーロスポーツ等で生中継。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/cycling-culture/streaming/how-to-watch-2027-tour-de-france-route-presentation-live-streams-tv-coverage/",
+            "d": "2026-10-21"
+          },
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/racing/tour-de-france-2027-route-rumours-grand-colombier-and-col-du-portet-set-to-return",
+            "d": "2026-10-20"
+          }
+        ],
+        "status": "確定＝英国グランデパールと日程・配信を複数報道／曖昧＝山岳の具体は本日18時の発表で確定。※一部はリーク段階"
+      },
+      {
+        "id": "20261022-tdf2027-paid-presentation",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/mY5e7KD9yX3KfhuLqf6ccf-1024-80.jpg",
+        "headline": "【トレンド・業界／10/21・Xで賛否】2027ツール、開会式とチーム紹介が『有料』に——2014年以来はじめて観客に課金、英エディンバラで",
+        "layer1": "2027ツールの開会式とチームプレゼンテーション(英エディンバラ)が、観客に入場料を課す形になると報じられた。ツールでチーム紹介が有料になるのは2014年(英ヨークシャー発進)以来。",
+        "layer2": "無料で沿道に出れば見られるのがツールの文化だっただけに、英国ファンのあいだで賛否が割れている。背景にあるのは英国開催の高コスト(警備・会場・運営)で、グランデパール誘致のしわ寄せが『入口の課金』に出た形。レース本体の沿道観戦は従来どおり無料。※正確な料金・対象イベントの範囲は主催の発表を要確認。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/fans-forced-to-pay-to-attend-tour-de-france-2027-opening-ceremony-and-teams-presentation-for-the-first-time-since-2014/",
+            "d": "2026-10-21"
+          },
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/news/fans-asked-to-buy-tickets-for-tour-de-france-2027-team-presentation-in-edinburgh-heres-how-to-get-yours",
+            "d": "2026-10-20"
+          }
+        ],
+        "status": "確定＝有料化の方針を複数報道／曖昧＝正確な料金・対象範囲は未確定"
+      },
+      {
+        "id": "20261022-ayuso-mystery-form",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/xqybiSVSnMY35dmuG8JtWf-1024-80.jpg",
+        "headline": "【レース・人間ドラマ／10/21】フアン・アユーソの『説明のつかない不調』——移籍先リドル・トレックが健康状態を精査、コーチも「彼ほどの選手らしくない成績」",
+        "layer1": "2026年に精彩を欠いたフアン・アユーソについて、本人のコーチが『彼ほどの実力の選手に期待される走りではなかった』と語り、新天地リドル・トレックが彼の健康状態を精査していると報じられた。",
+        "layer2": "アユーソはUAE時代から屈指の若手ステージレーサーと目されてきたが、2026シーズンは結果が伴わなかった。チームは単なる調子落ちではなく医学的な要因がないかを確認する段階で、これは『才能の過大評価』ではなく『原因究明』のフェーズ。走れない季節にこそ不調の正体を探るという、プロのオフの使い方の好例でもある。※具体的な病名・診断は出ていない。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/performances-arent-what-youd-expect-from-a-cyclist-of-his-calibre-mystery-surrounds-juan-ayusos-2026-race-form/",
+            "d": "2026-10-21"
+          }
+        ],
+        "status": "確定＝コーチ発言とチームの精査を報道／曖昧＝原因は調査中(医学的要因の有無は未確定)"
+      },
+      {
+        "id": "20261022-cecchini-retires",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/YUuikgbzG8bvnCHGeHtucb-1024-80.jpg",
+        "headline": "【レース・人間ドラマ／10/20・女子】5度のイタリア王者エレナ・チェッキーニが引退——プロトンの『名アシスト・名ロードキャプテン』に惜別の声",
+        "layer1": "イタリア女子の名選手エレナ・チェッキーニ(5度の国内王者)が現役引退を表明。勝利を支え続けたロードキャプテンに、仲間やチームから惜別のメッセージが相次いだ。",
+        "layer2": "チェッキーニは自分が勝つより『勝たせる』役回りで長くトップを走り続けたタイプ。派手な勝利数では測れない、集団を制御しレースを設計する選手の価値を、引退の惜しまれ方そのものが物語っている。女子ロードの成熟を支えた世代のひとりが、静かに去る。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tributes-flood-in-as-five-time-italian-national-champion-and-top-road-captain-hangs-up-her-wheels/",
+            "d": "2026-10-20"
+          }
+        ],
+        "status": "確定＝本人の引退と各所の追悼を報道"
+      },
+      {
+        "id": "20261022-ef-carapaz-cost-cut",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/V2mHVMNbNMwUPVYbFCuCjm-2000-80.jpg",
+        "headline": "【トレンド・業界／10/20-21】EF代表ヴォーターズが明かす『カラパス放出はコスト削減』——縮む市場で、ジロ覇者より『安い登坂力』を選ぶ秋",
+        "layer1": "EFエデュケーションのジョナサン・ヴォーターズ代表が、リチャル・カラパス(ジロ覇者・五輪王者)の放出は『コスト削減のためのシンプルな選択だった』と明言。EFは代わりに、より安価な登坂系の選手を2027年に補強した。",
+        "layer2": "名のある高給選手を手放し、同等の役割をより安く埋める——これは一チームの話ではなく、スポンサー不足で男子プロチームが2つ減る『縮小局面』の縮図。星の価値より予算が勝つ秋で、ショップ目線でも『ブランドの格より総コスト』という同じ力学が効いている。カラパス自身は新興NSNへ移った(10/16既報)。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/richard-carapaz-departure-was-the-simple-option-to-cut-costs-says-ef-team-boss-jonathan-vaughters/",
+            "d": "2026-10-21"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/ef-education-easypost-pick-up-another-climber-for-2027-after-carapaz-departure/",
+            "d": "2026-10-21"
+          }
+        ],
+        "status": "確定＝代表の発言と補強を報道"
+      },
+      {
+        "id": "20261022-aerobag-airbag",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/jJnZ4YFzEH9X8UCTyCPvwK-2560-80.jpg",
+        "headline": "【パーツ・安全／10/21】自転車用エアバッグ『Aerobag』が“2026年のベスト発明”に選出——落車の瞬間に展開、ロードの安全装備が新章へ",
+        "layer1": "サイクリスト向けエアバッグシステム『Aerobag』が、2026年の優れた発明のひとつに選ばれたと報じられた。落車を検知して体を保護する、身につけるタイプの安全装備。",
+        "layer2": "バイク用エアバッグはモーターサイクルやスキーで実用化が進んできた技術で、ロードにも本格的に降りてきた。センサーが異常な挙動(落車)を検知してミリ秒単位で展開し、首・鎖骨・胸郭を守る発想。ヘルメットが守れない部位をカバーする『二枚目の保険』として、観戦者より先に“走る側”の装備トレンドになりうる。※国内の入手性・価格・認証は要確認。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/safety/cycling-airbag-system-aerobag-named-one-of-the-best-inventions-of-2026/",
+            "d": "2026-10-21"
+          }
+        ],
+        "status": "確定＝受賞と製品の存在を報道／曖昧＝国内展開・価格は未確認"
+      },
+      {
+        "id": "20261022-magene-rebrand",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/PJW7RZXWHXPr8dzc9nfp3d-1920-80.jpg",
+        "headline": "【経営メモ・市場／10/21・中華の格上げ】中国マジーン(Magene)が『グローバル・リブランド』——ロゴと世界戦略を刷新、“安さ”から“ブランド”への脱皮を宣言",
+        "layer1": "中国のセンサー／パワーメーター／サイコンメーカー Magene が、ロゴとビジュアルを一新する『グローバル・リブランド』を発表。世界展開とプロ化を次章と位置づけた。",
+        "layer2": "Mageneは『実測でアシオマ級』の低価格パワーメーターで注目されてきた(10/13既報)ブランド。そこからロゴ刷新・プロ訴求へ進むのは、中華機材が『安いから選ばれる』段階から『ブランドとして選ばれる』段階へ上がろうとする動き。うちが扱う中国カーボンの信頼度にも追い風で、店頭で『中華＝怪しい』と身構える説明がさらに要らなくなっていく。※メーカー発の発表(広告色あり)のため、実製品の評価は別途。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/news/magene-unveils-global-rebrand-marking-new-chapter-in-its-global-and-professional-development",
+            "d": "2026-10-21"
+          }
+        ],
+        "status": "確定＝リブランド発表(メーカー発)／曖昧＝広告色あり、新製品の実力は別評価"
+      },
+      {
+        "id": "20261022-asahi-h1-results",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://img.logmi.jp/article_images/901701cc5a6d4b27f3f145c084175414.jpg",
+        "headline": "【経営メモ・市場／国内・10/13開示】あさひ中間決算、売上横ばいでも営業益『▲14%』——社長「新車市場は漸減局面」、“売って終わり”から『ストック型』へ舵",
+        "layer1": "サイクルベースあさひの2027年2月期・中間決算は、売上高462億円(前年比＋0.7%)に対し営業利益32億円(同▲14%)。低粗利の電動アシスト比率の上昇が利益を圧迫したが、仕入れ原価の低減で粗利率は改善した。",
+        "layer2": "社長は『国内の新車販売台数は漸減局面にあり、今後も続く』と明言。対策は、新車と出店に頼らず、修理・メンテ・リユース・洗車など“売ったあと”で客とつながる『ストック型ビジネス』への転換だという。これは個人店にも効く地図——新車の台数で食う時代が細るなら、整備・相談・付き合いで稼ぐ店が残る。中期計画『VISION2028』への助走と位置づけ。",
+        "sources": [
+          {
+            "t": "logmi Finance(あさひ中間決算)",
+            "u": "https://finance.logmi.jp/articles/385844",
+            "d": "2026-10-13"
+          }
+        ],
+        "status": "確定＝開示数値と社長コメント(IR)／曖昧＝電アシ構成比の具体数値は非開示"
+      },
+      {
+        "id": "20261022-blasi-movistar",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/nb4DAeNHe8ro9kpWYrhDah-2560-80.jpg",
+        "headline": "【レース・人間ドラマ／10/21・女子】パウラ・ブラシがモビスターへ正式加入——UAEを早期離脱、『より高い契約』を断ってプロジェクトを選んだ若手",
+        "layer1": "スペインの若手パウラ・ブラシが、UAE Team L'IMADを早期に離れてモビスター・チームへ正式加入。報道では、より好条件(高額)のオファーを断ってのモビスター行きだという。",
+        "layer2": "若手が金額より『チームのプロジェクト・走れる環境』を優先した移籍。数字が全てになりがちな移籍市場で、本人が何を優先したかが伝わる選択で、スペイン勢の母国系チーム志向という文脈とも重なる。女子ロードでも『買われる』から『選ぶ』側へ、若手の主体性が見える一件。※提示額など契約の具体は非公表。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/paula-blasi-officially-signs-for-movistar-after-drawn-out-early-departure-from-uae-team-limad/",
+            "d": "2026-10-21"
+          }
+        ],
+        "status": "確定＝加入を正式発表／曖昧＝『より高い契約を断った』は報道ベース・金額非公表"
+      },
+      {
+        "id": "20261022-climbing-wheels-china",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/u9AgLKrXfztBGijSFrQYAn-2000-80.jpg",
+        "headline": "【ホイール・機材読み／2027ツール山岳リークに乗せて】ポルテやツールマレーが来るなら『登坂ホイール』の季節——軽さだけで選ばない、中華カーボンの現在地",
+        "layer1": "2027ツールにコル・デュ・ポルテやツールマレー級の本格山岳が復活しそうな流れを受けて、改めて『登り向けホイール』の選び方を整理。鍵は重量だけではない。",
+        "layer2": "登坂で効くのは①リム重量(回転の慣性)②縦剛性(踏んだ力の逃げ)③横剛性(ダンシングのヨレ)の3点。深リムは平地で速いが山では重さと横風が不利——だからアマのオールラウンドは35〜45mm・前後1,400g前後が無難。中華カーボンは同じ重量帯で価格が半分というのが2026年の現在地で、ハブとスポークの質(振れ・異音の出にくさ)が“当たり外れ”の分かれ目。完組の内寸は23mmが新標準。",
+        "sources": [
+          {
+            "t": "Cycling Weekly(TdF2027 山岳リーク)",
+            "u": "https://www.cyclingweekly.com/racing/tour-de-france-2027-route-rumours-grand-colombier-and-col-du-portet-set-to-return",
+            "d": "2026-10-20"
+          },
+          {
+            "t": "Cyclingnews(best road bike wheels)",
+            "u": "https://www.cyclingnews.com/features/best-road-bike-wheels/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝選び方の一般論と中華の価格差／曖昧＝山岳の具体は本日18時の発表待ち"
+      },
+      {
+        "id": "20261022-beginner-overtraining",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/F3LanoWabeqFF54afaiDqg-1600-80.png",
+        "headline": "【初中級・体調の理屈／アユーソの不調に乗せて】オフにこそ『不調の正体』を見つける——初中級が見落とす“疲れ”と“故障”のサイン3つ",
+        "layer1": "プロのアユーソですら原因究明に時間をかける『説明のつかない不調』。初中級こそ、走り込みを落とす季節に体のサインを棚卸ししておきたい。",
+        "layer2": "見落としがちな3つ——①安静時心拍が平常より5〜10拍高い日が続く＝オーバーリーチの疑い(まず休む)②同じ強度なのにパワーが出ない・楽しくない＝回復不足か軽い故障③睡眠の質低下・イライラ＝自律神経の疲労。対処は『まず休む→栄養と睡眠→それでも戻らなければ受診』の順。オフは室内で低強度の維持をしつつ、心拍やパワーの数値で自分を観察する癖をつけると、春に差が出る。※個人差あり。痛みや持続する不調は医療機関へ。",
+        "sources": [
+          {
+            "t": "Cyclingnews(アユーソ不調報道)",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/performances-arent-what-youd-expect-from-a-cyclist-of-his-calibre-mystery-surrounds-juan-ayusos-2026-race-form/",
+            "d": "2026-10-21"
+          }
+        ],
+        "status": "確定＝一般的な体調管理の知見／普遍ネタをアユーソの時事に接続"
+      }
+    ]
+  },
+  {
     "date": "2026-10-21",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ロードは冬支度——移籍とスポンサーの『椅子取り』、そして冒険家モートンの旅立ち。機材は“声で操る”サイコンが来ました。質を優先して厳選しています。",
     "cards": [
