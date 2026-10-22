@@ -1,5 +1,279 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-23",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。昨夜パリで『2027ツール』の全21ステージが解禁——史上初のエディンバラ発進、TTは15年ぶりの71km。ロードは越冬モードに入り、泥と国内の『公道マナー論争』が今の主役です。",
+    "cards": [
+      {
+        "id": "20261023-tdf2027-fullroute",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": true,
+        "image": "https://procyclinguk.com/wp-content/uploads/2026/10/TDF27_AFF_400x600_PARCOURS_UK_HD-scaled.avif",
+        "headline": "【🔥今日の一本・トレンド／10/22パリで全容解禁】2027ツール・ド・フランス全21ステージ確定——史上初『エディンバラ発進』で英3ステージ、TTは15年ぶり計71km、山頂3回・女王は第18ステージ『コル・デュ・ポルテ』",
+        "layer1": "ASOが10/22夜(パリ)に全コースを公開。総距離3,479km、2027/7/2エディンバラ発→7/25パリ・シャンゼリゼ着。英国で3ステージ(第1S エディンバラ→カーライル185km／第2S ケズィック→リヴァプール／第3S ウェルシュプール→カーディフ)を走り、仏入り後に本格化する。",
+        "layer2": "山頂フィニッシュは3回——第9Sグラン・コロンビエ、第11Sレ・セジ、そして第18S ポー→サン=ラリ=スーラン『コル・デュ・ポルテ』が女王ステージ(174km)。個人TTは2本で計71km(第7Sブロワ→シャンボール38km・第16Sトゥールーズ周回33km)＝近年まれなTT多め。確定＝距離と主要地点はASO発表どおり、ただし『最終ホモロゲーション(公認)前』で微調整の可能性あり。",
+        "sources": [
+          {
+            "t": "ProCyclingUK(全21ステージ表)",
+            "u": "https://procyclinguk.com/tour-de-france-2027-route-stages-edinburgh-grand-depart/",
+            "d": "2026-10-22"
+          },
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/racing/tour-de-france-2027-route-revealed",
+            "d": "2026-10-22"
+          }
+        ],
+        "status": "確定＝3,479km・英3ステージ・山頂3回・TT計71km(7/2エディンバラ発〜7/25パリ)。曖昧＝距離は公認前で微調整の可能性。"
+      },
+      {
+        "id": "20261023-prudhomme-tt",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/watermark:Picture%3A%20Sirotti/width:1920/height:1280/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-07/tourdefrance2026-christianprudhomme-6a52047ab8ac1.jpg@webp",
+        "headline": "【トレンド・レースの読み／10/22】プリュドム『これはアンチ・ポガチャル戦略ではない』——TTを15年ぶりの71kmに増やした理由、エヴェネプールとセイシャスの名を自ら挙げる",
+        "layer1": "ツール総責任者プリュドムが、TT増量(ブロワ38km＋トゥールーズ33km)は『山で失う時間を取り戻すため』と説明。RMCスポーツに「これはアンチ・ポガチャル戦略ではない」と語り、レースを『できるだけ長く面白く』保つ狙いだとした。",
+        "layer2": "恩恵を受ける名として、長年TTを支配してきたエヴェネプールと、時計との戦いにも強い20歳セイシャスを挙げ『隠すつもりはない』と明言。一方で『ポガチャルは2本とも勝てる、彼は挑戦を好むから』とも。確定＝プリュドムの発言(10/22付)。曖昧＝実際に誰が有利かはチーム編成と当日次第で、本人の見立てにすぎない。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate(プリュドム発言)",
+            "u": "https://cyclinguptodate.com/cycling/this-isnt-an-anti-pogacar-strategy-tour-de-france-boss-names-evenepoel-and-seixas-as-reasons-behind-2027-time-trial-increase",
+            "d": "2026-10-22"
+          }
+        ],
+        "status": "確定＝TT計71km・プリュドムの意図説明。曖昧＝有利不利の予想は本人見解。"
+      },
+      {
+        "id": "20261023-japancup-towel",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://data.smart-flash.jp/wp-content/uploads/2026/10/20181109/utsunomiya_japankappu1_1_thumb_kyodo.jpg",
+        "headline": "【レース・国内／10/18-19・Xで批判殺到】宇都宮ジャパンカップで『観客のタオル』に選手が接触し落車——運営は10/19声明、被害チームは『映像拡散・個人特定・非難を望まない』",
+        "layer1": "10/18のジャパンカップ本戦、終盤KOM付近で身を乗り出した観客の広げたタオルに選手が引っかかり、2選手が落車。幸い大きな怪我はなく2人とも復帰した。映像がXで拡散し『罰金を』『特定しろ』の声が殺到している。",
+        "layer2": "大会実行委は10/19に声明を出し遺憾を表明、被害チーム側が『これ以上の映像の拡散ならびに個人の特定・非難を望まない』としていることを伝え、観戦マナー遵守を呼びかけた。確定＝落車の発生・運営声明・怪我なし。曖昧＝『意図的にハンドルを押さえた』等のX上の主張は未確認、断定しない。海外でも過去に同様の沿道接触事故はある。",
+        "sources": [
+          {
+            "t": "SmartFLASH",
+            "u": "https://smart-flash.jp/sports/434456/",
+            "d": "2026-10-20"
+          },
+          {
+            "t": "ライブドアニュース(スポニチ)",
+            "u": "https://news.livedoor.com/article/detail/32616542/",
+            "d": "2026-10-21"
+          }
+        ],
+        "status": "確定＝接触落車と運営声明(10/19)・怪我なし。曖昧＝『故意』説はXの未確認情報(※要裏取り)。"
+      },
+      {
+        "id": "20261023-overtake-viral",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-00018357-pinzuba-000-3-view.jpg",
+        "headline": "【経営メモ・市場／Xで5,700万回・10/21詳報】ロードバイク追い越し動画が『炎上』——道志みち(国道413)でカーブ中に軽が幅寄せ、2週間で5,700万表示・3,200リプ、投稿主を直撃取材",
+        "layer1": "10/3にXへ上がった、神奈川↔山梨の道志みちでカーブ中に軽自動車がロードバイクすれすれを追い越す動画が、10/16時点で5,700万回・3,200リプ超に。接触はなし。投稿主は『追い越しはいいが、カーブでは駄目』との趣旨。",
+        "layer2": "議論は車vs自転車の線を越え『そもそも車道を走るな』『後続への配慮』へ拡大。投稿主は『キュッという音は自分のブレーキ』『交通量が少なく誰も待たせていないことを示すため動画を長くした』と釈明。専門家(疋田智氏)も登場。確定＝再生数・投稿主取材・接触なし。経営の含み＝青切符時代(2026/4施行)に『日本のローディーの公道イメージ』が商機にも逆風にもなる——店頭の初中級接客で『走り方』まで売る時代。",
+        "sources": [
+          {
+            "t": "ピンズバNEWS(投稿主直撃)",
+            "u": "https://pinzuba.news/articles/-/18357",
+            "d": "2026-10-21"
+          },
+          {
+            "t": "Yahoo!ニュース(同転載)",
+            "u": "https://news.yahoo.co.jp/articles/1ee1538e3788b9cb434fe565ef6f7e2cc2d17201",
+            "d": "2026-10-22"
+          }
+        ],
+        "status": "確定＝5,700万回・投稿主取材・接触なし。X起点を一次(取材記事)で裏取り済み。"
+      },
+      {
+        "id": "20261023-joe-pidcock-retire",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/watermark:Picture%3A%20Sirotti/width:1920/height:1280/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/cyclinguptodatecom/images/2026-10/joe-pidcock-has-retired-6ad6307fae59d.jpg@webp",
+        "headline": "【レース・人間ドラマ／10/19】トム・ピドコックの弟ジョー・ピドコックが24歳で引退——『ジョーの最後のレースで一緒に勝ちたかった』、兄が広西でその夢に手が届かず2位",
+        "layer1": "兄トムを追ってプロ入りした弟ジョー・ピドコックが、ツアー・オブ・広西を最後に24歳で引退。ピナレロQ36.5で2季、その前はグルパマFDJ育成やトリニティ・レーシングに所属していた。",
+        "layer2": "広西最終日、トムは弟の花道にと総合＆ステージ勝利を狙ったが、ヤルノ・ウィダルに敗れ総合2位。トムはインスタで『ジョーの最後のプロレースで一緒に勝つのが夢だった』と綴り、チームの歩みへの誇りと来季への意欲を記した。確定＝引退表明・広西が最終レース・トムの投稿。マサル向けの読み＝『続けられる才能が辞める』秋が続く(フルスマンス22歳・オリンス24歳に続く流れ)。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/tom-pidcocks-bother-joe-retires-from-cycling-at-24-as-pinarello-q365-leader-pays-tribute-i-dreamed-of-winning-with-joey-in-his-last-pro-race",
+            "d": "2026-10-19"
+          }
+        ],
+        "status": "確定＝24歳引退・兄トムの追悼投稿。"
+      },
+      {
+        "id": "20261023-cx-superprestige-open",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://escapecollective.com/content/images/size/w1200/2026/10/hg-cross-meulebeke-van-empel-at-start.jpg",
+        "headline": "【レース・冬本番／今週末10/25開幕】シクロクロスの『シリーズ戦』がオーファイセで始動——スーパープレスティージュ開幕、前哨の勝者はファントゥーレンハウト、ワールドカップは11/27オストラヴァ",
+        "layer1": "泥のシーズンが前哨戦ラッシュから『シリーズ戦』へ。テレネット・スーパープレスティージュは10/25(日)オーファイセで開幕。前哨ではファントゥーレンハウトがデンデルモンデ(10/11)に続きムーレベーケ(10/17)も制し好調、女子はファン・エンペルらが復帰済み。",
+        "layer2": "主要シリーズの頂点UCIワールドカップは11/27オストラヴァ開幕で、ここからクリスマス〜年始にレースが密集する。確定＝スーパープレスティージュ開幕日・前哨の勝者・WC開幕日。曖昧＝ファンデルプール/ファンアールト/ピドコックの参戦スケジュールは流動的(過去カード既報)。中華グラベル/CX機材の需要も冬に動く。",
+        "sources": [
+          {
+            "t": "ProCyclingUK(オーファイセ プレビュー)",
+            "u": "https://procyclinguk.com/superprestige-overijse-2026-men-preview-course-contenders/",
+            "d": "2026-10-20"
+          },
+          {
+            "t": "Superprestige 公式",
+            "u": "https://www.superprestigecyclocross.be/en",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝10/25開幕・前哨勝者・WC11/27。曖昧＝トップ勢の出走予定は未確定。"
+      },
+      {
+        "id": "20261023-wheels-climb-tt",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png",
+        "headline": "【ホイール・機材読み／2027ルート解禁に乗せて】来年のツールは『登り3回×TT71km』の二刀流——軽さだけでも深さだけでもない、中華カーボンで両取りする現在地",
+        "layer1": "2027ツールは山頂3回とTT計71kmの両方が効く設計。これは我々アマの『1セットで登りも平坦も』という悩みと同じ構図で、ホイール選びの普遍テーマを今っぽく語れる格好のネタになる。",
+        "layer2": "両取りの実務解＝リムハイト40〜50mm前後・内寸23mm級のオールラウンドを軸に、超級山岳想定なら前後で深さを変える(前浅・後深)。中華カーボン(Winspace・Elitewheels・YOELEO・Tukus等)は2026年に内寸23mm・公称1,350〜1,500g帯が充実し、この『万能ゾーン』を型落ち価格で狙えるのが強み。確定＝ルート特性(登り3/TT71km)。数値＝各社公称で、実測重量・剛性は個体差あり(※購入時は実測とフック/フックレス確認)。",
+        "sources": [
+          {
+            "t": "ProCyclingUK(ルート)",
+            "u": "https://procyclinguk.com/tour-de-france-2027-route-stages-edinburgh-grand-depart/",
+            "d": "2026-10-22"
+          }
+        ],
+        "status": "確定＝ルート特性に基づく一般論。数値は公称(※実測は要確認)。"
+      },
+      {
+        "id": "20261023-trek-checkpoint-alr",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://media.delius-klasing.de/images/dpr_auto,fl_progressive,f_auto,c_auto_pad,g_auto,b_auto,h_700,w_1068/q_auto:eco/aec2bee8e847e64a46d0222c1383c424/bild-1",
+        "headline": "【パーツ・入門機材／10月・2027モデル】トレックが『チェックポイントALR Gen3』を更新——アルミ・グラベルの入口を約1,299ユーロで、CUES10速＋機械式ディスク",
+        "layer1": "トレックの定番アルミ・グラベル『チェックポイントALR』が第3世代に。2027モデルのALR3は欧州小売で約1,299ユーロ、シマノCUES U6000(10速)・機械式ディスク・ボントレガー完組という割り切った入門構成。",
+        "layer2": "狙いは『電動・高級化が進むグラベルの中で、壊れにくく直しやすい入口を残す』こと。CUESは互換性と耐久を重視した実用系で、初めての一台や通勤・ロングに向く。確定＝世代更新・構成・欧州小売価格帯。曖昧＝トレック公式のMSRP(国内価格)は未確認、ユーロ価格は複数の小売表示ベース。アルミ入門機は、うちの中華カーボン提案の『比較の土台』としても使える。",
+        "sources": [
+          {
+            "t": "TOUR Magazin(ALR3 Gen3)",
+            "u": "https://www.tour-magazin.de/marken/trek/modell/checkpoint-alr-3-gen-3-69c282f214a2690c039ba50f/",
+            "d": "2026-10"
+          },
+          {
+            "t": "cyclowired(10/16掲載)",
+            "u": "https://www.cyclowired.jp/",
+            "d": "2026-10-16"
+          }
+        ],
+        "status": "確定＝第3世代・CUES10速・機械式ディスク。曖昧＝国内正規価格は未発表(※要裏取り)。"
+      },
+      {
+        "id": "20261023-beginner-road-manner",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://kuruma-news.jp/wp-content/uploads/2027/05/20260528_aokiltupu.jpg",
+        "headline": "【初中級・公道の理屈／炎上動画に乗せて】『車道のどこを走る』で揉めないための3点——青切符時代(2026/4施行)に、初中級が今日から直せる走り方",
+        "layer1": "5,700万回の追い越し炎上は『どちらが悪い』の水掛け論になりがちだが、初中級が実際に手を打てるのは自分の走り方。路上の立ち位置・後続への意思表示・無理のない隊列の3点を押さえるだけで、トラブルも危険も大きく減る。",
+        "layer2": "具体は——(1)原則は車道左側、ただし路肩の砂・側溝・駐車車両を避けて『ドアゾーンの外』を一定ラインで走る(フラフラしないことが最大の安全)。(2)右左折や停止はハンドサインで後続に早めに伝える。(3)集団は縦一列を基本に、追い越しやすい間隔を空ける。青切符制度では『ながらスマホ』『信号無視』『一時不停止』等が反則金対象(3,000〜12,000円)。確定＝制度の施行(2026/4)と主要反則金レンジ。曖昧＝イヤホン/サイコン操作の線引きは各都道府県警の運用次第(※要確認)。",
+        "sources": [
+          {
+            "t": "三菱UFJ銀行(青切符解説)",
+            "u": "https://www.bk.mufg.jp/column/others/b0112.html",
+            "d": "2026"
+          },
+          {
+            "t": "ピンズバNEWS(炎上の経緯)",
+            "u": "https://pinzuba.news/articles/-/18357",
+            "d": "2026-10-21"
+          }
+        ],
+        "status": "確定＝制度施行と反則金の大枠。曖昧＝イヤホン等の個別判断は運用次第(※要裏取り)。"
+      },
+      {
+        "id": "20261023-beginner-cx-intro",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/2019_Citadelcross_Namur_91.jpg/250px-2019_Citadelcross_Namur_91.jpg",
+        "headline": "【初中級・観戦と入門／シーズン開幕に乗せて】『シクロクロス』を10倍楽しむ——なぜ担ぐ?なぜ短い?はじめての観戦と、ロード乗りが冬に試す意味",
+        "layer1": "欧州の冬はシクロクロス(CX)が主役。約1時間・周回・泥と階段という独特の競技で、今週末スーパープレスティージュが開幕する。ロード乗りにも『冬の基礎づくり』として相性がよく、観戦も体験もこれからが旬。",
+        "layer2": "見どころ＝(1)約1時間の高強度を周回で繰り返す心肺勝負、(2)担いで越える障害・砂・ドロで『乗り降り』技術が勝敗を分ける、(3)タイヤの低圧(1.5bar前後)とグリップの読み合い。ロード乗りが試す価値＝低速バランス・体幹・ペダリングの丁寧さが鍛えられ、春の走りが変わる。確定＝競技様式と開幕時期。入口機材＝専用CX車でなくても、太めタイヤのグラベル/ディスクロードで『まず泥の低圧』から試せる(中華グラベルの受け皿にも)。",
+        "sources": [
+          {
+            "t": "ProCyclingUK(スーパープレスティージュ)",
+            "u": "https://procyclinguk.com/superprestige-overijse-2026-men-preview-course-contenders/",
+            "d": "2026-10-20"
+          }
+        ],
+        "status": "確定＝競技様式・開幕時期の一般解説。"
+      },
+      {
+        "id": "20261023-autumn-sale-market",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://bike-plus.com/cdn/shop/collections/autumn-sale-2026-top.webp?v=1789370653",
+        "headline": "【経営メモ・市場／国内・10月の実相】『2027モデルの号砲』×『秋の在庫処分』の二正面——Trek最大30%OFF・MERIDA最大約44%OFF表示、ブリヂストンは10/1値上げ済み",
+        "layer1": "10月下旬は2027新型の情報解禁と、2026型の在庫処分が同時に走る『買い時の本番』。小売ではTrekオータムセール(9/18〜11/29・対象最大30%OFF)やMERIDA秋セール(最大約44%OFF表示)が出て、Amazonプライム感謝祭でも小物が過去3ヶ月最安水準に。",
+        "layer2": "一方で供給側はブリヂストンが10/1に価格改定(為替・原材料高)を実施済みで、新車の高止まりが続く。つまり『新型は高い→型落ち処分が相対的に光る』構図が今年も成立。確定＝各施策の存在と値引き表示レンジ。曖昧＝実売価格・送料・在庫・終了日は店舗/時点で変動(※購入前に各店で要確認)。店頭トーク＝『新型を待つ必要がない層』に型落ち＋中華カーボンの組み合わせを提案する好機。",
+        "sources": [
+          {
+            "t": "Bike Plus(オータムセール)",
+            "u": "https://bike-plus.com/blogs/news/autumn-sale-2026",
+            "d": "2026-10"
+          },
+          {
+            "t": "ブリヂストンサイクル(価格改定)",
+            "u": "https://www.bscycle.co.jp/info/2026/12326",
+            "d": "2026-10-01"
+          }
+        ],
+        "status": "確定＝各施策の存在・値引き表示・BS値上げ。曖昧＝実売/在庫/終了日は変動(※要確認)。"
+      },
+      {
+        "id": "20261023-edinburgh-grand-depart",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://scottishcycling.org.uk/wp-content/uploads/2026/01/Edinburgh-2-scaled.jpg",
+        "headline": "【トレンド・人間ドラマ／2027ルートの余韻】史上初の『スコットランド発進』——地元オンリーとフリンが“育った道”を走る、英国が自転車熱を取り戻す夏へ",
+        "layer1": "2027ツールの第1ステージはエディンバラのホリールードハウス宮殿前を発ち、ロイヤルマイルやプリンセス通り、エディンバラ城を望む市街を抜けてカーライルへ。世界最大のレースの『出発点』をスコットランドが担う。",
+        "layer2": "見どころの人間味＝唯一の山岳『コート・ド・メルローズ(ディングルトンの登り)』で最初の山岳賞ジャージが決まり、地元スコットランド勢オスカー・オンリーとショーン・フリンが『少年期に走り込んだ道』でレースする。確定＝市街ルートと発着。狙い＝自治体・競技団体は観光と競技人口の押し上げを期待。マサル向け＝英国開催は日本との時差が観戦しやすく(欧州発進より生中継が追いやすい)、来夏の『英国聖地化』はコンテンツ・遠征需要の芽。",
+        "sources": [
+          {
+            "t": "Scottish Cycling",
+            "u": "https://scottishcycling.org.uk/news/exciting-route-revealed-for-scotlands-tour-de-france-stage/",
+            "d": "2026-10-22"
+          },
+          {
+            "t": "ProCyclingUK(ルート詳細)",
+            "u": "https://procyclinguk.com/tour-de-france-2027-route-stages-edinburgh-grand-depart/",
+            "d": "2026-10-22"
+          }
+        ],
+        "status": "確定＝市街ルート・地元選手・発着地。曖昧＝観光/経済効果は主催者の見込み。"
+      }
+    ]
+  },
+  {
     "date": "2026-10-22",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。本日はいよいよ2027ツールの全容がパリで公開——日本時間18時ごろ、史上初の『エディンバラ発進』。レースは不調・引退・若手の決断の人間ドラマ、機材はエアバッグと中華の『格上げ』、国内はあさひの中間決算から読む市場の地図。鮮度優先で厳選しました。",
     "cards": [
