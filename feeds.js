@@ -1,5 +1,259 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-24",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ロードは完全に越冬モード——泥（シクロクロス）が主役に移り、移籍市場は『契約破棄が当たり前』の時代へ。キャノンデールが米本社をたたみ、シマノは10/27にQ3決算。今日は業界の地殻変動が主旋律です。",
+    "cards": [
+      {
+        "id": "20261024-contract-breaking-norm",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/dkELfEV8rc4xQHM9JyKte9-2560-80.png",
+        "headline": "【🔥今日の一本・トレンド／10/23】『契約を途中で破るのが当たり前』の時代——ポガチャルの代理人カレラが語る、ガンナ・カラパス・チッコーネの“シーズン前離脱”が炎上しないワケ",
+        "layer1": "数年前なら大騒ぎだった『契約途中での電撃移籍』が、この秋はガンナ、カラパス、チッコーネと立て続けに起き、ほとんど波風なく通った。チッコーネらの代理人アレックス・カレラ（ポガチャルやブラシも抱えるA&J）が伊ガゼッタに理由を語った。",
+        "layer2": "カレラの読みは二つ。①『契約の平均年数が大幅に延びた』——2年契約なら揉めても満了を待てばいいが、5年契約だと途中で手を打つ合理性が出る。②チーム買収などオーナー交代（レッドブルのボーラ買収でレムコ＆ログリッチ、アユーソのリドル行き等）。裏には“縮む予算”もある——EFのヴォーターズは『カラパス放出はコスト削減の一番シンプルな手だった』と明言。確定＝カレラ発言はガゼッタ経由、EF代表コメントも既報。",
+        "sources": [
+          {
+            "t": "Cyclingnews（カレラの説明）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/why-breaking-contracts-continues-to-become-more-common-in-cycling-pogacars-agent-carera-offers-explanation-after-early-exits-of-ganna-carapaz-and-ciccone/",
+            "d": "2026-10-23"
+          }
+        ],
+        "status": "確定＝契約長期化＋オーナー交代が主因というカレラの見立て、カラパス=コスト削減というEF代表の明言。曖昧＝各選手の個別事情は非公開部分あり。"
+      },
+      {
+        "id": "20261024-vanempel-specialized-tmrw",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/nJzog6cHQbyBPHVoMXRBkK-2100-80.jpg",
+        "headline": "【レース・冬本番／10/23】ファンエンペルが率いる新CXチーム『Specialized TMRW』始動——3度の世界女王＋FDJの18歳スイス勢ら、泥から“ロードの完成形”を育てる",
+        "layer1": "FDJ United-SUEZを擁するトゥモロー・グループが、シクロクロスを第一歩に多種目の育成プロジェクト『Specialized TMRW』を発足。2026-27シーズンは3度のCX世界女王フェム・ファンエンペルを筆頭に4人で戦う。彼女は先週末ベルギーのベーレンクロスで4位と、赤い新ジャージをお披露目済み。",
+        "layer2": "脇を固めるのはFDJのU23ロード勢——アンヤ・グロスマン（18歳・スイス、昨季CX世界ジュニア4位）、アマンディーヌ・ミュレ（昨季U23世界5位）、セリア・ジェリ（同ブロンズ）。狙いは『若手に種目を横断させ、より完成度の高いロード選手に育てる』こと（GMドゥルクール）。泥は技術と年間を通じたレース経験を積む“道場”という位置づけ。確定＝陣容と狙いはチーム声明どおり。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/fem-van-empel-leads-specialized-tmrw-cyclo-cross-team-set-to-open-new-pathways-for-the-next-generation-of-road-talent/",
+            "d": "2026-10-23"
+          }
+        ],
+        "status": "確定＝4人体制・運営・狙いはチーム発表。曖昧＝ロード転向の具体的ステップは今後次第。"
+      },
+      {
+        "id": "20261024-reusser-retire-blasi",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/gzGoPqVWCxgEHkxVNjzKKV-2100-80.jpg",
+        "headline": "【レース・人間ドラマ／10/23・女子】マルレン・ロイサーが『もうすぐ引退する』と明言——同時に、モビスターへ来るパウラ・ブラシに“親指を立てて”歓迎",
+        "layer1": "TTの女王マルレン・ロイサー（スイス）が自らの将来について『近いうちに引退する』と語った。そのうえで、2027年に同チーム（モビスター系）へ加入する若手パウラ・ブラシの移籍を歓迎するコメントを出した。",
+        "layer2": "ブラシはブエルタ・フェメニーナ覇者で、UAE Team L'IMADを“途中破棄”で早期離脱してモビスターへ（本サイト10/22既報）。ベテランが店じまいを示唆しつつ次世代に席を譲る——今朝1本目の『契約破棄が常態化』とも地続きの、世代交代の秋。確定＝ロイサー本人の引退示唆とブラシ歓迎の発言。曖昧＝引退の正確な時期は本人未明言。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-will-retire-soon-marlen-reusser-discusses-future-as-she-gives-thumbs-up-to-paula-blasis-arrival-at-movistar-in-2027/",
+            "d": "2026-10-23"
+          }
+        ],
+        "status": "確定＝『もうすぐ引退』とブラシ歓迎は本人発言。曖昧＝具体的な引退レース・時期は未定。"
+      },
+      {
+        "id": "20261024-merlier-magnier-2027tour",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/BtbuBcadEEL3HKjGmxVncX-2100-80.jpg",
+        "headline": "【レース・人間ドラマ／10/23】メルリエ『別に反対じゃない』——若きスプリンター、ポール・マニエと“同じチームで2027ツール”同居を慎重に容認",
+        "layer1": "スプリント王ティム・メルリエが、急成長中のポール・マニエと2027年ツール・ド・フランスで同じチームになる可能性について『まったく反対というわけではない』と、含みのある容認コメントを出した。",
+        "layer2": "ひとつのチームにトップスプリンターが2枚——平坦ステージで誰が先頭発射台を使うか、リードアウトの主導権争いは必至。マニエは今季も勝ちまくった若手で、ベテランのメルリエが“共存”を前向きに語ったのは、来季の勢力図を占ううえで興味深い。確定＝メルリエ本人の発言。曖昧＝実際の起用・エース格の線引きはチームの編成次第。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/im-certainly-not-opposed-to-it-tim-merlier-gives-cautious-thumbs-up-to-teammate-paul-magnier-joining-him-at-2027-tour-de-france/",
+            "d": "2026-10-23"
+          }
+        ],
+        "status": "確定＝メルリエの容認コメント。曖昧＝2027の実際のエース起用は未確定。"
+      },
+      {
+        "id": "20261024-jolanda-neff-fenix",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/dgVhPhWPcbwqBu4RGLe7WX-1024-80.jpg",
+        "headline": "【トレンド・移籍／10/22】東京五輪MTB女王ヨランダ・ネフが『フェニックス・プレミアテック』へ電撃移籍——古巣キャノンデール撤退の“とばっちり”、MTB＋CX＋ロードの三刀流へ",
+        "layer1": "MTBクロスカントリーの東京五輪金メダリスト、ヨランダ・ネフ（33・スイス）がフェニックス・プレミアテックに加入。2027-28も複数種目をまたぐカレンダーで戦う。世界王者（2017 XCO）、W杯通算16勝の実力者だ。",
+        "layer2": "きっかけは“後ろ向き”——所属していたキャノンデール・ファクトリー・レーシング（MTB）が年内で解散し、これはキャノンデール本体のオランダ移転（本日別カード）と連動した動き。行き場を失ったネフにとって、MTB・CX・ロードを世界レベルで束ねるフェニックスは好相性。CXでも通算11勝（昨季2勝）と堅い。確定＝移籍とチームの三種目方針、解散の背景。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-will-pour-my-heart-and-soul-into-becoming-a-better-rider-mountain-bike-star-jolanda-neff-makes-surprise-move-to-fenix-premier-tech/",
+            "d": "2026-10-22"
+          }
+        ],
+        "status": "確定＝加入・三種目方針・解散が背景、はチーム声明と既報。曖昧＝2027の具体的な出場計画は今後発表。"
+      },
+      {
+        "id": "20261024-visma-2027route-vingegaard",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/fyhEezNHfYSs8Vwr6VozDD-2560-80.jpg",
+        "headline": "【トレンド・レースの読み／10/22】ヴィスマ『もっと山頂フィニッシュが欲しかった』——それでも2度の覇者ヴィンゲゴーに勝機ありと見る2027ツールの読み",
+        "layer1": "10/22に全21ステージが解禁された2027ツール（本サイト前日既報）について、ヴィスマ・リースアバイクが『本当はもっと山頂フィニッシュが欲しかった』と率直にコメント。それでも2度の総合覇者ヨナス・ヴィンゲゴーに十分チャンスがあると見ている。",
+        "layer2": "2027は山頂フィニッシュ3回に対しTT計71km（15年ぶりの多さ）＝純登坂型にはやや不利、TTも強い選手に寄る構成。ヴィスマが“物足りない”と言うのは、ヴィンゲの武器が山にあるからこそ。逆に言えばエヴェネプールやセイシャスら“登れてTTも速い”型に追い風の設計、という読みと表裏一体。確定＝チームの評価コメント。曖昧＝実際の有利不利は出走メンバー次第。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/visma-say-there-could-have-been-more-summit-finishes-on-2027-tour-de-france-route-but-remain-certain-of-opportunities-for-two-time-winner-jonas-vingegaard/",
+            "d": "2026-10-22"
+          }
+        ],
+        "status": "確定＝ヴィスマの評価はチームコメント、コース構成はASO発表。曖昧＝勝敗予想はあくまで読み。"
+      },
+      {
+        "id": "20261024-cannondale-hq-close",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/XRpZ2bsoD59B4BvQvazmHi-1024-80.jpg",
+        "headline": "【経営メモ・市場／10/22・業界の地殻変動】キャノンデールが米コネチカット本社を閉鎖——世界本部をオランダへ、143人が離職、親会社Ponがセルベロ・サンタクルーズと“窓口一本化”",
+        "layer1": "キャノンデールが1971年創業の地・米ウィルトン（コネチカット）の世界本社を今後8カ月で畳み、世界本部を蘭ウーデンベルフ（現・欧州本部）へ移す。北米本部は親会社Ponの他ブランド（セルベロ、サンタクルーズ）と統合して西海岸へ。R&D（独フライブルク）は継続。",
+        "layer2": "州労働局提出書類ベースでコネチカットの143人が離職（PinkBike報）、初回解雇は2026/12/21〜2027/12/31まで段階的で『恒久的』。数カ月前には蘭工場閉鎖（生産はリトアニア・ドイツへ）とMTBチーム解散も決定済み。店目線の読み＝Ponは『複数ブランドを扱う販売店に“窓口と発注を一本化”して使いやすくする』狙いを明言＝ディーラー対応の集約が進む。大手の再編＝プレミアム帯の統廃合が加速し、価格志向と中華カーボンに追い風。確定＝移転・人員・統合方針は会社発表とPinkBike報道。",
+        "sources": [
+          {
+            "t": "Cyclingnews（Owen Rogers）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/cannondales-connecticut-hq-to-close-with-the-global-headquarters-moving-to-the-netherlands/",
+            "d": "2026-10-22"
+          }
+        ],
+        "status": "確定＝本社閉鎖・蘭移転・143人離職・Pon統合は会社発表＋州提出書類（PinkBike）。曖昧＝北米の最終拠点の詳細は今後。"
+      },
+      {
+        "id": "20261024-shimano-q3-1027",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://www.scvouga.pt/publicfiles/6ohb9wklzyunigusloptwypvmkqn94clakrumlug.png",
+        "headline": "【経営メモ・市場／国内・10/27発表】シマノ、第3四半期（1〜9月）決算が10/27に——上半期は会社予想超え、通期は上方修正。ただし営業益は“前年割れ”見通しの綱引き",
+        "layer1": "自転車部品の最大手シマノ（7309）が、第3四半期（1〜9月累計）決算を2026/10/27に発表する。上半期（1〜6月）は経常利益35,324百万円と会社予想29,300百万円を上回り、通期の経常利益予想も53,300→56,000百万円（前期比+19.1%）へ上方修正済み。",
+        "layer2": "ただし通期は、売上491,000百万円（+5.3%）・純利益43,000百万円（+26.5%）と増収増益の一方で、営業利益は47,000百万円（▲9.1%）の“減益見通し”＝米関税・円安・値上げのはざまで、需要そのものは弱含み。店目線＝Q3で下期の需要回復が確認できるかが焦点。弱ければ完成車・コンポの値上げ波及と在庫過多が長引き、型落ち処分と中価格帯シフトの追い風が続く。確定＝上半期実績と通期予想（開示ベース）。曖昧＝Q3の中身は10/27まで未開示。",
+        "sources": [
+          {
+            "t": "みんかぶ（7309 決算・予想）",
+            "u": "https://minkabu.jp/stock/7309/settlement",
+            "d": "2026-07-28"
+          },
+          {
+            "t": "株予報（7309 レポート）",
+            "u": "https://kabuyoho.jp/report?bcode=7309",
+            "d": "2026-07-28"
+          }
+        ],
+        "status": "確定＝H1実績・通期予想・10/27発表予定は開示情報。曖昧＝Q3の具体数値は未公表、自転車事業の個別動向は当日確認。"
+      },
+      {
+        "id": "20261024-jp-price-shift-under300k",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/03/2603under30-sum-2.jpg",
+        "headline": "【経営メモ・市場／国内・Xでも定番の嘆き】新車高騰のいま、実需は『税込30万円以下』へ——価格.comの2026年10月ランキングが映す“現実的な入口”",
+        "layer1": "価格.comの2026年10月ロードバイク人気ランキングや、サイクルスポーツの『税込30万円以下』特集に注目が集まる。円安と原材料高で完成車が高止まりするなか、買い手の実需は中価格帯へと寄っている。",
+        "layer2": "Xや国内ブログでは『高くて買えない』『ロードバイク離れ』が半ば定番の話題（＝人が言いたくなるテーマ）だが、裏側は“離れ”というより“価格帯のシフト”。店目線＝入口価格帯（〜30万円）の品揃えと説明が集客の鍵で、ここに中華カーボン完成車・ホイールが『基準』として入り込む余地が大きい。確定＝30万円以下に実需が寄る傾向（kakaku月次・サイスポ特集）。",
+        "sources": [
+          {
+            "t": "価格.com（2026年10月 ロードバイク人気ランキング）",
+            "u": "https://kakaku.com/bicycle/road-bicycle/ranking_6420/",
+            "d": "2026-10"
+          },
+          {
+            "t": "サイクルスポーツ（税込30万円以下 特集）",
+            "u": "https://www.cyclesports.jp/topics/155380/",
+            "d": "2026-03"
+          }
+        ],
+        "status": "確定＝中価格帯への実需シフト（ランキング・特集ベース）。※X上の『高騰・離れ』論は入口の空気として扱い、個々の投稿は要裏取り。"
+      },
+      {
+        "id": "20261024-coros-dura2-solar",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/iM5djd6GCuFN9BSyTNLq7L-2560-80.jpg",
+        "headline": "【パーツ・機材最前線／10/22】COROSが『Dura 2 Solar』発表——太陽光で120時間＋音声操作、だが価格は$249→$499へ“倍増”。ガーミンの音声化に真っ向勝負",
+        "layer1": "COROSが新型サイコン『Dura 2 Solar』を発表。初代ゆずりのソーラー充電（単充電で公称120時間、日光1時間で2時間ぶん回復の2:1再生）を維持しつつ、ダイヤルを廃した軽量・高級路線へ全面刷新。音声操作も搭載した。",
+        "layer2": "注目は価格——初代の$249から$499/£429/€499へ“倍増”（マウント別売、$549でマウント同梱）。先日のガーミンEdge 1060（『OK Garmin』音声操作・本サイト10/20既報）に続き、ハイエンドの“音声＋大容量バッテリー”競争が本格化。店目線＝ロングライド派・充電を減らしたい層に刺さるが、$499は中価格帯ユーザーには割高で、ブライトンや中華勢との価格差の説明がいよいよ重要に。確定＝仕様・価格はメーカー/既報どおり。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/coros-launches-futuristic-dura-2-solar-computer-with-monster-battery-life-and-built-in-voice-control/",
+            "d": "2026-10-22"
+          }
+        ],
+        "status": "確定＝120時間・2:1ソーラー・音声操作・$499（マウント別売）はメーカー発表。曖昧＝実環境でのソーラー回復量は使用条件次第。"
+      },
+      {
+        "id": "20261024-wheel-cx-mud-tubeless",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2020/08/Vitus-Energie-EVOS-CRS-cyclocross-bike-review-10-b6c5ebb-scaled.jpg?w=1200",
+        "headline": "【ホイール・機材読み／泥シーズン本格化に乗せて】『CX・グラベルのホイール』は低圧×チューブレスが肝——中華カーボンで外さない、泥の季節の合わせ方",
+        "layer1": "シクロクロスのシリーズ戦が各地で本格化（ファンエンペルらの新チーム始動など、本日別カード）。泥と枯れ草の季節は、ロードとは“ホイールとタイヤの考え方”が変わる。鍵は低圧とチューブレスだ。",
+        "layer2": "泥でグリップを稼ぐにはとにかく低圧——33mmタイヤでまず30〜35psiを基準に、泥が深ければチューブレスで15psi前後まで落とせる（クリンチャーでも20psi程度）。ただし“リムを底打ちさせない”のが鉄則で、ここでリム内寸と剛性、そしてビードのかかりが効いてくる。中華カーボンでも、内寸（23mm前後が今の基準）・フック/フックレスの別・ハブのかかりの3点を押さえれば実用十分。確定＝空気圧の目安は定番ガイドの数値。",
+        "sources": [
+          {
+            "t": "Cyclingnews（CX本格化・ファンエンペル新チーム）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/fem-van-empel-leads-specialized-tmrw-cyclo-cross-team-set-to-open-new-pathways-for-the-next-generation-of-road-talent/",
+            "d": "2026-10-23"
+          },
+          {
+            "t": "BikeRadar（CXタイヤ空気圧ガイド・数値の参照）",
+            "u": "https://www.bikeradar.com/advice/buyers-guides/cyclocross-tyres",
+            "d": "2021-12-18"
+          }
+        ],
+        "status": "確定＝低圧×チューブレスの基本と空気圧の目安（参照ガイド）。目安値は体重・路面で各自調整。"
+      },
+      {
+        "id": "20261024-beginner-mud-maintenance",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/b9cBgzXSRyz7KBAg6wgRCk-2000-80.jpg",
+        "headline": "【初中級・機材の理屈／泥と雨の季節に乗せて】泥・雨のあとの『洗車とメンテ』で差がつく——初中級が今日からできる3点、放置は錆と摩耗を招く",
+        "layer1": "ロードは越冬モード、泥（CX）や冷たい雨のライドが増える季節。濡れたまま放置すると駆動系はすぐ錆び、摩耗も進む。難しい工具はいらない——洗い方の順番だけ押さえればいい。",
+        "layer2": "3点。①高圧洗浄機を“ハブ・BB・ヘッド”に直接当てない（ベアリングに水が入る）。基本はバケツとスポンジ、ホースは弱めで。②チェーンはディグリーザー→カセットとディレイラーをブラシ→しっかりすすいで洗剤を残さない。③水を切って“乾かしてから注油”——濡れたまま注すと油が流れて効かない。冬用の防水ウェアも、この時期のロングライド快適度を大きく変える（本サイトでも10/22に寒冷期ウェアの話題）。普遍ネタだが、泥シーズンの“今”こそ効く。確定＝洗車・メンテの基本手順。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ファンエンペルCX復帰・泥の季節）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/getting-back-to-this-point-has-been-a-journey-of-its-own-fem-van-empel-one-spot-off-podium-at-berencross-on-return-to-racing/",
+            "d": "2026-10-17"
+          },
+          {
+            "t": "Cyclingnews（寒冷期・防水ウェアの話題）",
+            "u": "https://www.cyclingnews.com/cycling-kit-accessories/clothing-shoes/gear-up-for-wet-weather-winter-riding-our-best-budget-waterproof-jacket-has-15-percent-off-making-it-even-better-value-for-money/",
+            "d": "2026-10-22"
+          }
+        ],
+        "status": "確定＝洗車・注油の基本手順（高圧洗浄を軸受に当てない、乾燥後に注油）。普遍ネタを泥シーズンの実需に合わせて提示。"
+      }
+    ]
+  },
+  {
     "date": "2026-10-23",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。昨夜パリで『2027ツール』の全21ステージが解禁——史上初のエディンバラ発進、TTは15年ぶりの71km。ロードは越冬モードに入り、泥と国内の『公道マナー論争』が今の主役です。",
     "cards": [
