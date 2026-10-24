@@ -1,5 +1,260 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-25",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。ロードは一区切りでも、イタリアTT選手権・泥のCX・2027ツールの“TT論争”と話題は途切れません。国内はシマノ決算目前とブリヂストンの新手も。",
+    "cards": [
+      {
+        "id": "20261025-longoborghini-itt",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/t3PQA9hBVTfpvucKrFM2QF-2100-80.jpg",
+        "headline": "【🔥今日の一本・レース／10/24・女子】エリサ・ロンゴボルギーニが『8度目』のイタリア個人TT王者——10月に延期・ピアスコ開催の変則選手権で、2位に2分23秒差の圧勝",
+        "layer1": "10/24、イタリア選手権・個人TT（ピアスコ、19.7km）でロンゴボルギーニが23分15秒（約50.8km/h）で優勝。2位ヴィジリア（ウノエックス）に＋2分23秒、3位ボルゲージ＋3分15秒と大差で、女子エリートの個人TT王者は通算8度目＝女子最多記録を更新した。",
+        "layer2": "先回り——なぜ10月に国内選手権？ イタリア連盟がジュニア／U23／女子エリートの個人TTを10月下旬へ延期し、開催地もピアスコへ変更したため。これが今季7勝目で、6月のロード王者以来の勝利。好調のままオフへ向かう。ディフェンディング王者グアッツィーニは不出場で、女子エリートは出走わずか5人という小規模な一戦だった点は添えておく。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/elisa-longo-borghini-wins-eighth-italian-time-trial-title-in-piasco/",
+            "d": "2026-10-24"
+          },
+          {
+            "t": "QuiBiciSport",
+            "u": "https://www.quibicisport.it/2026/10/24/campionato-italiano-a-cronometro-donne-ottavo-successo-per-elisa-longo-borghini-2a-vigilia-3a-borghesi/",
+            "d": "2026-10-24"
+          }
+        ],
+        "status": "確定＝優勝・タイム・順位（Cyclingnewsと伊メディアが一致）。曖昧＝所属表記が媒体間でUAE Team ADQ／L'IMADと揺れ。"
+      },
+      {
+        "id": "20261025-cx-heerderstrand",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/whkhf3uKjJtWZCHzDrBru7-2100-80.jpg",
+        "headline": "【レース・泥本番／10/24】HGクロス・ヘーデルストランド——ワイセウレが『濡れた砂』で王者ニューウェンハウスを突き放し今季初勝利、女子はアルバラードがソロ制覇",
+        "layer1": "10/24のシクロクロス、HGクロス（ヘーデルストランド）男子エリートはヨラン・ワイセウレが最終周の砂区間でディフェンディング王者ヨリス・ニューウェンハウスを引き離し、7秒差で今季初勝利。3位バンデピュッテ、18歳ヘイル・ルジューンが5位と台頭。女子は元世界王者セイリン・デルカルメン・アルバラード（フェニックス・プレミアテック）が最終周アタックでソロ勝利、2位ベツェマ、3位バンアルフェン、復帰途上のフェム・ファンエンペルが5位。",
+        "layer2": "先回り——勝負を分けたのは『濡れた砂で水際の長いライン』を選んだトラクション確保。泥・砂の低グリップ路では“最短ライン”より“進むライン”が速い、というCX特有の読みが出た一戦。女子はキャノンデール撤退で受け皿となったフェニックス・プレミアテック（ヨランダ・ネフも加入）が早速の結果で、泥の季節に向け勢力図が動いている。",
+        "sources": [
+          {
+            "t": "Cyclingnews（男子）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/hg-cross-heerderstrand-joran-wyseure-outpowers-joris-nieuwenhuis-to-claim-first-win-of-the-season/",
+            "d": "2026-10-24"
+          },
+          {
+            "t": "Cyclingnews（女子）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/hg-cross-heerderstrand-ceylin-del-carmen-alvarado-delivers-assured-ride-to-triumph-in-elite-womens-race/",
+            "d": "2026-10-24"
+          }
+        ],
+        "status": "確定＝勝者・差・主な順位（Cyclingnews）。"
+      },
+      {
+        "id": "20261025-pidcock-pinarello",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/6uXBC87wAbSDu6eEC7oZzM-2560-80.jpg",
+        "headline": "【トレンド・業界／10/24】ピドコックが『キャリア最高のUCI個人5位』——ピナレロQ36.5が2027へ大補強、チッコーネ3年契約＆ハイター加入で“プロチームの枠”を超えにいく秋",
+        "layer1": "10/24に出たUCI年間ランキングで、トム・ピドコックが個人5位（自己最高）。チームのピナレロQ36.5はプロチームながらWT18チーム中6チームを上回る12位、年間9勝（ダンバーのブエルタ区間勝利、ピドコックのミラノ〜トリノ等）。2027はジュリオ・チッコーネ（3年契約、リドル・トレックを早期離脱）とイーサン・ハイター（スーダル・クイックステップから、9人目の加入）で大補強。",
+        "layer2": "先回り——なぜプロチームがここまで？ ピドコックという『ワンデーからGC、CXまで勝てる看板』を中心に、WT昇格級の戦力を集める動き。チッコーネの“契約途中離脱”は昨今の潮流で、代理人も「普通になった」と証言していた。来季はWTチーム顔負けの陣容になり、グランツール総合にも手が届くかが見どころ。うちの客筋にも刺さる“中堅が本気を出す”物語。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ランキング／補強）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/tom-pidcock-finishes-career-best-fifth-in-uci-rankings-with-pinarello-q36-5-bringing-in-major-reinforcements-for-2027/",
+            "d": "2026-10-24"
+          },
+          {
+            "t": "Cyclingnews（チッコーネ移籍）",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/giulio-ciccone-joins-forces-with-tom-pidcock-at-pinarello-q36-5-in-2027-after-early-exit-from-lidl-trek/",
+            "d": "2026-10-09"
+          }
+        ],
+        "status": "確定＝ランキング・主な補強。曖昧＝2027の到達点（総合争い）は未知数。"
+      },
+      {
+        "id": "20261025-2027tour-tt-remco",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/YJjUKfsgn62cUMMrfXP6dR-1024-80.jpg",
+        "headline": "【トレンド・レースの読み／10/24】ドゥムラン『ポガチャルを倒す唯一の道はTTの距離だ』——71kmのTTを味方に、レムコを2027ツールの“対抗”に推す",
+        "layer1": "10/22にパリで発表された2027ツール（TT計71km＝2012年以来の多さ）を受け、元TT世界王者トム・ドゥムランがNOSで『71kmは胸が高鳴る。UAEの支配を崩す唯一の道はTTの距離かもしれない』とレムコ・エヴェネプールを対抗に推した。一方レッドブルのデンクは『レムコにジロ＋ツール二冠はさせたくない（できるのはポガチャルのような“宇宙人”だけ）』と慎重、フルームは『2027はもっと接戦になる』と予想。",
+        "layer2": "先回り——数字で見ると71kmは“TTに強いGC”に分がある設計で、登坂一辺倒だった近年ルートからの揺り戻し。ただし山頂フィニッシュ3回と女王ステージも健在なので、純粋なTTスペシャリストでは足りない。レムコは“TTで貯金→山で守る”型、ポガチャルは“山で削る”型——ルートはその綱引きをわざと煽る作りになっている。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ドゥムラン）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/the-only-way-to-beat-pogacar-is-through-time-trial-kilometres-tom-dumoulin-backs-remco-evenepoel-at-2027-tour-de-france/",
+            "d": "2026-10-24"
+          },
+          {
+            "t": "Cyclingnews（デンク）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/an-alien-like-tadej-pogacar-might-be-able-to-do-it-red-bull-boss-denk-would-prefer-remco-evenepoel-doesnt-do-giro-d-italia-tour-de-france-double-in-2027/",
+            "d": "2026-10-24"
+          }
+        ],
+        "status": "確定＝各者の発言・ルートのTT距離。曖昧＝勝者予想はあくまで見立て。"
+      },
+      {
+        "id": "20261025-bodine-vollering",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/V9bXpTJEDfi3suEhnCqYE5-2000-80.jpg",
+        "headline": "【トレンド・人間ドラマ／10/20・女子】デミの妹ボディーネ・フォレリングがWT昇格——EFエデュケーション・オートリーへ、『この環境が私の何かを呼び覚ました』",
+        "layer1": "10/20、デミ・フォレリングの妹ボディーネ・フォレリングがEFエデュケーション・オートリーでワールドツアーに昇格。本人は『監督エスラ（トロンプ）のチーム像、選手の集め方、2年で入れ替える発想ではなく長期目標があるところに心が動いた』と語った。",
+        "layer2": "先回り——“姉の影”は？ 記事では「エンジンも勘もある」と評され、短期の結果要員ではなく育成前提の起用。姉デミがトップGCとして君臨するなか、妹は別チームで自分の物語を作りにいく構図だ。女子WTの選手層が年々厚くなる象徴的な一手で、来季の新顔として覚えておきたい。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/she-has-the-engine-and-she-has-the-instincts-bodine-vollering-steps-up-to-the-worldtour-with-ef-education-oatly/",
+            "d": "2026-10-20"
+          }
+        ],
+        "status": "確定＝昇格・本人コメント。"
+      },
+      {
+        "id": "20261025-tt-deeprim-china",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://rbs.ta36.com/wp-content/uploads/2025/10/Artboard_1_2800x1000_crop_center_01eb9fe3-ca4d-4203-b0ce-15d558a9acce-1.webp",
+        "headline": "【ホイール・機材読み／2027『TT71km』解禁に乗せて】平地・高速で効くのは『深リム×内寸23mm』——TTが主役に戻る時代、中華カーボンで外さない合わせ方",
+        "layer1": "2027ツールがTT計71kmを掲げ（10/22発表）、ロンゴボルギーニのTT圧勝（10/24）もあって『個人TT・平地巡航』の機材が再注目。鍵は50mm級の深リムと、いまや新標準の“内寸23mmリム×幅広タイヤ”の組み合わせ。",
+        "layer2": "先回り——“深ければ速い”ではない。横風での安定、前面投影、そしてリム内寸とタイヤ実測幅の“段差ゼロ”な一体感が効く。中華カーボンでも50mm前後・1,200〜1,300g台・内寸23mmが出揃い、公称が実測に近いものを選べば平地の伸びは体感できる。用途が“登りメイン”なら深リムより軽量ミドルハイトが正解、1セットで欲張るなら45〜50mmが現実解。重量・内寸は製品差が大きいので、購入時は公称か実測かの根拠を必ず確認したい。",
+        "sources": [
+          {
+            "t": "Cyclingnews（2027ルート）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-2027-route-unveiled-most-time-trial-kilometres-since-2012-brutal-pyrenean-queen-stage-as-tadej-pogacar-eyes-record-sixth-title/",
+            "d": "2026-10-22"
+          },
+          {
+            "t": "Cyclingnews（TT王者）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/elisa-longo-borghini-wins-eighth-italian-time-trial-title-in-piasco/",
+            "d": "2026-10-24"
+          }
+        ],
+        "status": "確定＝ルートのTT距離・内寸23mm潮流。曖昧＝体感差は個人差、製品の公称／実測は要確認。"
+      },
+      {
+        "id": "20261025-conti-pogacar-tyre",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/JFUUL9sgsGMoqvrE56yq3e-834-80.jpg",
+        "headline": "【パーツ・機材／10/20】コンチネンタルが『ポガチャル限定』GP5000 S TRとコレクターズBOXを発売——“おもちゃじゃない”記念タイヤ、価値は“箱のまま”？",
+        "layer1": "10/20、コンチネンタルが最上位チューブレスGP5000 S TRのタデイ・ポガチャル限定モデルと、コレクターズボックスセットを発表。今季ツール5勝目（歴代最多タイ）＋モニュメント5戦中3勝という“全盛”を記念した一本だ。",
+        "layer2": "先回り——実用か収集か。中身は定評あるGP5000 S TR系で、決戦用の転がりとグリップは折り紙付き。ただし『オリジナルの箱のまま保管推奨』と案内されるあたり、実走より“記念・コレクション”の色が濃い。記念版は上乗せ価格が付くのが常なので、走って減らす前提なら通常版が合理的——というのが店としての本音の助言。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/not-a-toy-continental-release-limited-edition-tadej-pogacar-tyre-and-collectible-box-set/",
+            "d": "2026-10-20"
+          }
+        ],
+        "status": "確定＝発売・記念内容。曖昧＝限定の価格・入手性は未確認（※要裏取り）。"
+      },
+      {
+        "id": "20261025-winter-wear",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/Komm2c8KZixxLA3fhbQkLU-2560-80.jpg",
+        "headline": "【初中級・機材の理屈／泥と雨・CX本格化に乗せて】冬の走り出しで『凍えない』3点——高いウェアより“重ねる順番”と末端・濡れ対策",
+        "layer1": "CXが本格化し（10/24ヘーデルストランド）朝晩が冷える季節。初中級が真っ先に効くのは高機能ウェアの一点買いより、『重ねる順番』と末端の防寒・防水だ。",
+        "layer2": "先回り——3点。①体幹は“吸汗ベース＋保温ミドル＋防風シェル”の三層で、汗冷えを止める主役はいちばん内側のベース。②冷えは末端（指・足先・耳）から来るので、冬用グローブ・シューズカバー・耳当ては“先に”そろえる。③雨の日は撥水シェルとフェンダー、帰宅後の洗車・注油まで含めて“濡れ対策”。この順で足すのが、同じ予算でいちばん寒さに効く。",
+        "sources": [
+          {
+            "t": "Cyclingnews（冬の雨対策）",
+            "u": "https://www.cyclingnews.com/cycling-kit-accessories/clothing-shoes/gear-up-for-wet-weather-winter-riding-our-best-budget-waterproof-jacket-has-15-percent-off-making-it-even-better-value-for-money/",
+            "d": "2026-10-22"
+          }
+        ],
+        "status": "確定＝一般的な防寒・レイヤリングの理屈。普遍ネタを季節の話題に接続。"
+      },
+      {
+        "id": "20261025-shimano-q3",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://biz-journal.jp/wp-content/uploads/2026/04/post_394484_shimano.jpg",
+        "headline": "【経営メモ・市場／国内・10/27(火)15:30発表】シマノ第3四半期決算が目前——7月時点で純利益430億(+27%)に上方修正も営業益は“減益”据え置き、8月から全自転車部品『+3%』値上げ",
+        "layer1": "シマノの2026年12月期・第3四半期（1〜9月）決算が10/27 15:30に発表予定。7月時点の通期見通しは純利益430億円（＋27%、為替差益が主因）へ上方修正、一方で営業利益は470億円（▲9%）据え置きの“ねじれ”。原材料・仕入れ高を受け、8月から全自転車部品を約3%値上げ（通期影響約40億円）とされる。",
+        "layer2": "先回り——店として見る3点。①本業（営業益）が戻るか＝需要の実態。欧州は高価格帯ロード／MTBが買い控え、グラベルは健闘という“二極”。②部品3%値上げの店頭転嫁——補修・消耗品の値上げは客への説明が要る。③在庫調整の進捗。純利益の上振れは為替の綾なので、現場の体感に近いのは営業益のほう。発表後はIRの一次資料で数字を確認したい。",
+        "sources": [
+          {
+            "t": "日本経済新聞（7月決算）",
+            "u": "https://www.nikkei.com/article/DGXZQOUF278AR0X20C26A7000000/",
+            "d": "2026-07-28"
+          },
+          {
+            "t": "シマノ IRカレンダー",
+            "u": "https://www.shimano.com/jp/ir/calendar.html",
+            "d": "2026-10"
+          },
+          {
+            "t": "Business Journal（決算解説）",
+            "u": "https://biz-journal.jp/company/post_394484.html",
+            "d": "2026-04"
+          }
+        ],
+        "status": "確定＝発表日時・7月時点の見通し・値上げ方針。曖昧＝第3四半期の実数は発表待ち（※10/27に要確認）。"
+      },
+      {
+        "id": "20261025-bridgestone-gooddesign",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://images.newswitch.jp/images/4c386796-522d-478e-b107-8aaed86ff7f4.jpg",
+        "headline": "【経営メモ・市場／国内・10/15】ブリヂストンのANCHOR『RE6』が2026年度グッドデザイン賞——“新車の数”から『提案と体験』へ、コンセプトバイクも公開",
+        "layer1": "ブリヂストンサイクルのエントリーロード『ANCHOR RE6』が10/15に2026年度グッドデザイン賞を受賞。あわせて10/8には“自転車の新しい価値”を提案するコンセプトバイクを発表し、10/10-11の東京ベイバイシクルで初披露した。",
+        "layer2": "先回り——国内大手の舵。新車の台数が漸減する市場で、『安さ』でなく“デザイン・体験・提案”で語る動きが鮮明だ。実売しやすいエントリーのRE6を“賞”で底上げし、コンセプトで未来像を見せる二段構え。報道ではコンセプトはクロモリ名車『ネオコット』を下敷きとも伝えられる（発売時期は未定）。店視点では“入口モデルの価値付け”と“話題づくり”の手本になる。",
+        "sources": [
+          {
+            "t": "ブリヂストンサイクル（RE6受賞）",
+            "u": "https://www.bscycle.co.jp/news/release",
+            "d": "2026-10-15"
+          },
+          {
+            "t": "ニュースイッチ（コンセプトバイク）",
+            "u": "https://newswitch.jp/p/50497",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝RE6のグッドデザイン賞受賞(10/15)・コンセプト発表(10/8)。曖昧＝“ネオコット由来”は報道ベース、発売時期は未定（※要裏取り）。"
+      },
+      {
+        "id": "20261025-ef-herzog",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/aYC8rLc5q3CDA6dPBT4eRU-2100-80.jpg",
+        "headline": "【トレンド・移籍／10/23】EFエデュケーション・イージーポストが2027へ若手補強——22歳マルコ・ヘルツォークをレッドブルから、育成チームの“世界選メダリスト”も",
+        "layer1": "10/23、EFエデュケーション・イージーポストが2027年の加入を発表。レッドブル・ボーラから22歳マルコ・ヘルツォーク（元U23オーストリア王者）を獲得し、さらにネットカンパニー・イネオスの育成チームからも世界選メダリストの若手を引き入れてWT戦力を底上げする。",
+        "layer2": "先回り——縮む予算での戦い方。EFはこの秋カラパスを“コスト削減”で放出した一方、伸びしろのある若手を集める方針に見える。ヘルツォークは今季バレンシア第5Sで逃げ→6人スプリント2位と“あと一歩”まで来た選手で、安く育てて勝たせるモデル。ジロ覇者級より『若い登坂力・勝負勘』を選ぶ、秋の縮図だ。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/ef-education-easypost-sign-worlds-medalist-from-netcompany-ineos-devo-team-bring-on-herzog-from-red-bull/",
+            "d": "2026-10-23"
+          }
+        ],
+        "status": "確定＝加入発表・ヘルツォークの経歴。曖昧＝“世界選メダリスト”の実名は本稿で未特定（※要裏取り）。"
+      }
+    ]
+  },
+  {
     "date": "2026-10-24",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ロードは完全に越冬モード——泥（シクロクロス）が主役に移り、移籍市場は『契約破棄が当たり前』の時代へ。キャノンデールが米本社をたたみ、シマノは10/27にQ3決算。今日は業界の地殻変動が主旋律です。",
     "cards": [
