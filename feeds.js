@@ -1,5 +1,269 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-26",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。週末は泥のオーファイセでファントゥーレンハウト…ではなくヴァントゥーレンハウトとブランドが開幕勝ち、95歳のアワーレコードに胸が熱くなる朝です。国内はさいたまクリテの陣容が固まり、明日はシマノ決算。中華の『格上げ』とポガチャル豪州説も。",
+    "cards": [
+      {
+        "id": "20261026-overijse-opener",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/ztwF2yEc4siXrbRE6ss8TZ-2100-80.jpg",
+        "headline": "【🔥今日の一本・レース／10/25・泥の開幕】スーペルプレスティージュ開幕オーファイセ——ヴァントゥーレンハウトが9周中7周目に抜け出し『3度目』の勝利、女子は腰痛明けのルシンダ・ブランドがソロ逃げで王者の貫禄",
+        "layer1": "10/25、シクロクロスの名物シリーズ戦スーペルプレスティージュが本場オーファイセ(ドライヴェンクロス)で開幕。男子はミカエル・ヴァントゥーレンハウトが7周目に単独で抜け出し、2位ウィツェ・ミューセン(＋15秒)、3位ニールス・ファンデピュッテ(＋18秒)を退けて優勝。女子は世界王者ルシンダ・ブランドが3周目から独走し、2位ファン・アルフェン(＋17秒)に先着して開幕シリーズ首位に立った。",
+        "layer2": "先回り——なぜ『3度目』が効くのか。ヴァントゥーレンハウトは今季好調で、ヘルベン・カイペルスの激しい落車やヨラン・ワイセウレの脱落に乗じたとはいえ、泥と舗装が混在する難コースを力で制した格好。ブランドは前日10/24のヘールデを腰痛で欠場しており、それでも翌日にソロ勝ち＝回復と地力を同時に示した。マサル向けの読み：泥本番のCXは機材の差が出やすく、国内ローディーの冬の話題づくり(タイヤ・空気圧・洗車)に接続しやすい一戦。",
+        "sources": [
+          {
+            "t": "Cyclingnews（男子）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/superprestige-oversijse-michael-vanthourenhout-takes-commanding-solo-victory-at-druivencross/",
+            "d": "2026-10-25"
+          },
+          {
+            "t": "Cyclingnews（女子・ブランド）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/superprestige-overijse-lucinda-brand-takes-commanding-victory-with-powerful-solo-performance/",
+            "d": "2026-10-25"
+          },
+          {
+            "t": "Cycling Up To Date",
+            "u": "https://cyclinguptodate.com/cyclocross/results-superprestige-overijse-2026-michael-vanthourenhout-storms-to-fourth-win-in-five-starts-as-lucinda-brand-defies-back-trouble-in-series-opener",
+            "d": "2026-10-25"
+          }
+        ],
+        "status": "確定＝両クラスの優勝者・順位・タイム差（英メディア複数一致）。曖昧＝媒体により『4度目』『3度目』など勝利回数の数え方が揺れ（シリーズ戦のみか全ドライヴェンクロスかの違い）。"
+      },
+      {
+        "id": "20261026-grandiek-hour",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/8RCs8BvDH2JoqaXSKK9P2M-1179-80.jpg",
+        "headline": "【レース・人間ドラマ／10月・95歳の挑戦】ピーター・グランディークが『95歳の誕生日』にアワーレコード更新——22.948km、従来記録を約3km更新し、ドーピング検査まで受けて笑う",
+        "layer1": "オランダ生まれ・人生の大半をニュージーランドで過ごしたピーター・グランディークが、95歳の誕生日に『95〜99歳クラス』のアワーレコード(1時間でどれだけ走れるか)を更新。地元ベロドロームで91周超、22.948kmを走り、従来記録の約20.151kmを約3km塗り替えた。記録成立に伴いドーピング検査も受け、『水を大ボトル3本飲んだ』とユーモアたっぷりに語った。",
+        "layer2": "先回り——なぜ胸を打つのか。彼は11年前に80〜84歳クラスの記録を持ち、3週間後に当時81歳の英ウォルター・ファウラーに破られた過去がある。22歳で船でNZへ渡り、鉄道員→ペンキ職人→鹿牧場と働いた人生。今回の挑戦は地元ホスピスへの寄付が目的で、記録はUCIの公認待ち。マサル向け：『何歳まで速くなれるか／乗り続けられるか』は初中級にも刺さるテーマで、ショート・記事化しやすい“元気が出る”一本。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/news/95-year-old-smashes-cycling-hour-record-on-birthday",
+            "d": "2026-10-24"
+          }
+        ],
+        "status": "確定＝走行距離22.948km・従来記録比約3km更新・ドーピング検査実施（本人談をCWが取材）。曖昧＝UCIの正式公認は未了（記事時点で『ratification待ち』）。"
+      },
+      {
+        "id": "20261026-riberolle-heart",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/8V3LN3Tk2SiLPw2nWaGXcm-2560-80.jpg",
+        "headline": "【レース・人間ドラマ／10/25・女子CX】ベルギーCX王者マリオン・ノルベール・リベロールが『心臓の不整脈』で今季打ち切り——手術を受け『人生には別の計画があった』",
+        "layer1": "ベルギーのシクロクロス王者マリオン・ノルベール・リベロールが、心臓の不整脈(arrhythmia)と診断され、今季のシーズンを切り上げると発表。すでに矯正のための手術を受けており、本人はSNSで『An unexpected pause(思いがけない中断)、受け止めることが多い』『人生には別の計画があった』と心境をつづった。",
+        "layer2": "先回り——不整脈とは何か。心臓の拍動リズムの異常で、持久系アスリートにも起こりうる。カテーテルで異常な電気信号の発生源を焼灼するアブレーション等で矯正でき、多くは競技復帰が可能なことが多い(個別の予後は非公表)。マサル向け：直後のセリア・ジェリー(次カード)と合わせ、冬のCX開幕期に若手の“体のトラブル”が相次ぐ。『速さの前に、まず心臓と血管』という初中級向け健康カード(本日10番)の起点にもした。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/life-had-other-plans-for-me-belgian-cyclo-cross-champion-marion-norbert-riberolle-undergoes-procedure-to-correct-cardiac-arrhythmia/",
+            "d": "2026-10-25"
+          }
+        ],
+        "status": "確定＝不整脈の診断・手術実施・シーズン打ち切り・本人コメント（Cyclingnews）。曖昧＝手術の具体的術式や復帰時期は本人・チームとも非公表。"
+      },
+      {
+        "id": "20261026-syritsa-china",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/nGkvmgnuXQoY5uJZfagTEe-2386-80.jpeg",
+        "headline": "【トレンド・中華台頭／10/25】スプリンターのグレブ・シリツァがXDSアスタナを離れ『中国アンタ・メンテック』へ——コンチネンタルが元WTの実力者4人を獲得、中国レース界の“格上げ”が加速",
+        "layer1": "元XDSアスタナのスプリンター、グレブ・シリツァが2027年に中国のUCIコンチネンタルチーム『China Anta-Mentech』へ移籍。チームは5季目へ向けロスターを刷新し、経験と実力を一気に積み増す狙いで、シリツァは“4人の新加入”の一人。イタリアのルカ・コルナーギ(バルディアーニCSFに5季在籍)らも合流する。",
+        "layer2": "先回り——なぜマサルに効くのか。これは選手の移籍話であると同時に、『中国の自転車レース界が本気で上位(UCIランキング)を狙い始めた』というサイン。中華は完成車・ホイール(＝うちの8LIEN/CRW等)だけでなく、チーム・選手育成でも“安さ”から“ブランド・実力”へ脱皮しつつある。店頭で中華カーボンを薦めるとき、『中国はもうレースの表舞台に投資している』という最新の裏づけとして使える一本。中国マジーン(Magene)のリブランド(10/21)と同じ潮流。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/gleb-syritsa-leaves-xds-astana-for-china-anta-mentech-as-part-of-ambitious-2027-project/",
+            "d": "2026-10-25"
+          }
+        ],
+        "status": "確定＝シリツァの2027移籍・4新加入・コルナーギ合流・チームの格上げ方針（Cyclingnews）。曖昧＝『WT/プロチーム昇格』を公式に宣言したわけではなく、あくまでUCIランキング上昇を狙う段階。"
+      },
+      {
+        "id": "20261026-tdu-pogacar",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/8DSBavz7TUhaD84iD6HM2C-2100-80.jpg",
+        "headline": "【トレンド・話題／10/25】ツアー・ダウンアンダー主催者が『できる限りのことをやっている』——ポガチャルを2027年1月に豪州へ呼ぶ画策、本人は未確定",
+        "layer1": "2027シーズン開幕の一つ、豪ツアー・ダウンアンダー(2027年1月19日開幕)に、ポガチャルを招こうという動きが表面化。主催側は『できる限りのことをやっている(doing everything we can)』と語り、レースディレクターのスチュアート・オグレディもポッドキャストで“火に油”を注いだ。ポガチャルは豪州でレースした経験がない。",
+        "layer2": "先回り——どこまで本当か。現時点で“確定”ではなく、あくまで主催者の熱望と憶測の段階。背景として、ポガチャルはブエルタの落車で今季を早期に切り上げており、『例年より1か月早く動き出す』と本人が示唆→早期開幕戦の可能性が現実味を帯びた、という文脈がある。ポガチャルの2027年の暫定日程は、チームの12月トレーニングキャンプ&メディアデーで公表予定。マサル向け：ポガネタは日本のXでも鉄板、続報が出たら即ショート化できる“仕込み”案件。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/tour-down-under-race-director-doing-everything-we-can-to-bring-tadej-pogacar-to-australia/",
+            "d": "2026-10-25"
+          }
+        ],
+        "status": "曖昧＝ポガチャルの出場は未確定（主催者の希望・憶測レベル）。確定＝TDUは2027年1月19日開幕、ポガの日程は12月のチーム発表待ち。※Xで話題、出場可否は要続報。"
+      },
+      {
+        "id": "20261026-ineos-rebuild",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/Gq472G9jtQQtedDsCHowWk-2560-80.jpg",
+        "headline": "【トレンド・移籍の地殻変動／10月】ネットカンパニー・イネオスが『歴史的な大改造』——ガナら主力が流出、ブラックモアやシャンプーサンら若手・実力派を大量補強で立て直し",
+        "layer1": "かつての王者イネオス改め『ネットカンパニー・イネオス』が、2027年に向けてロスターを大幅刷新。ガナ(→リドル・トレック)、シェフィールド(→ウノエックス)、ベン・ターナー(→スーダル)、ウェルスフォード(→ジェイコ)が抜け、ユンゲルスとスウィフトは引退(スウィフトはSDへ)。一方で、ツール・ド・ラヴニール覇者ジョー・ブラックモア(23・NSNから3年)、ジェームズ・ショー(EFから)、クレマン・シャンプーサン(XDSアスタナから3年)、米ライリー・シーハンら“記録的な数”の新戦力を獲得。",
+        "layer2": "先回り——これは何を意味するか。『悪い season ではなかったが、移籍を見れば“もっと大きな作り直し”』という英メディアの読み。登坂力(ショー・シャンプーサン)と若手(ブラックモア、ジュニア世界王者ノバル)に賭け、スター依存から脱却して“former glories(かつての栄光)”への回帰を狙う構図。マサル向け：ガナのイネオス退団(10/13既報)の“その後”＝玉突き移籍の全体像として、人間ドラマ好きに刺さる続報。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/racing/netcompany-ineos-did-not-have-a-bad-season-yet-transfers-point-to-more-overhaul-at-the-british-squad-can-they-get-back-to-former-glories",
+            "d": "2026-10-23"
+          },
+          {
+            "t": "Cyclingnews（シーハン＝7人目の新加入）",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/netcompany-ineos-sign-us-rider-riley-sheehan-as-seventh-new-arrival-for-2027/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝主要な加入・放出・引退（英メディア複数）。曖昧＝新加入の“総数”は媒体で6〜8人と揺れ（発表のタイミング差）。ロモ(モビスター)の加入は報道ベース。"
+      },
+      {
+        "id": "20261026-cx-wheels-mud",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/sLHUgbEfhvmivv6G4pBgV9-2560-80.jpg",
+        "headline": "【ホイール・機材読み／泥の開幕に乗せて】泥と雨で差がつくのは『リムの深さ』より“ハブのシールと内寸×タイヤ幅”——中華カーボンで泥の季節を外さない3点",
+        "layer1": "スーペルプレスティージュ開幕(10/25・オーファイセ)は泥と水たまりの消耗戦。CX/悪天候では“速さ”より“壊れないこと・詰まらないこと”が効く。見るべきは(1)ハブのシール/ベアリング防水、(2)リム内寸とタイヤ幅の相性(低圧でヨレない)、(3)スポーク本数と組み方の耐久性。",
+        "layer2": "先回り——なぜ安ホイールが泥で化けの皮を剥がすのか。泥・水はベアリングの大敵で、シールが甘いと一冬でゴリ感が出る。中華カーボン(8LIEN/CRW/GOOSYNN等)でも、ハブがDTやシマノ系の実績シールか、独自でも防水等級を確認できるものを選べば実用十分。内寸は現行標準の23mm前後なら33〜38cのCX/グラベルタイヤを低圧でも安定して支えられる。軽さ競争の深リムは横風と泥では不利——『泥の季節は深さより密閉と内寸』が店頭トーク。※一般的な機材論＝個別製品の実測ではない点は明記。",
+        "sources": [
+          {
+            "t": "Cyclingnews（開幕戦＝ネタ元）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/superprestige-oversijse-michael-vanthourenhout-takes-commanding-solo-victory-at-druivencross/",
+            "d": "2026-10-25"
+          }
+        ],
+        "status": "確定＝開幕戦が泥の消耗戦だった事実（レース報道）。曖昧＝ホイール選びの指針は一般論・経験則であり、特定製品の実測比較ではない（※要・店頭での実機確認）。"
+      },
+      {
+        "id": "20261026-ohlins-gravel-fork",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/10/2026.10.13-ohlins-GXF30-M.1-Action-Credits-@billy_lebelge-7-1024x732.jpg",
+        "headline": "【パーツ・機材最前線／10/21】オーリンズが『初のグラベル用サスペンションフォーク』GXF30を発表——トラベル40mm・1,249g・895ユーロ、世界300本限定",
+        "layer1": "高級サスで知られるスウェーデンのオーリンズが、初のグラベル専用サスフォーク『GXF30 M.1』を発表。トラベル40mm、重量1,249g、価格895ユーロ、まず世界300本限定(Fast Forwardプログラム)。FTX14モノチューブダンパー採用で、圧減衰を『Sprint(完全ロック)／Grind(中間)／Business(全開)』の3段で切替できる。",
+        "layer2": "先回り——“ロード乗り”に関係あるのか。直接はグラベル機材だが、『全ディシプリンに本物のサスを』という流れ＝快適性・路面追従への投資が、舗装寄りのオールロード/エンデュランスにも波及していく兆し。フラットマウント(160mmローター最適化)、タイヤクリアランス52mm(フェンダー付き47mm)と実用的。マサル向け：グラベル客への“上がり”提案や、『サスは要る/要らない』論争(本日の次カード参照)のきっかけに。限定300本＝即完売で話題化しやすい。",
+        "sources": [
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/offroad/tech-news/every-off-road-discipline-deserves-real-suspension-ohlins-unveils-its-first-ever-suspension-fork-for-gravel-bikes",
+            "d": "2026-10-21"
+          }
+        ],
+        "status": "確定＝モデル名・40mmトラベル・1,249g・895ユーロ・300本限定・3モード（road.cc）。曖昧＝日本での取扱・円価格は未発表。"
+      },
+      {
+        "id": "20261026-health-signs",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/tzf9m2dJjmZatCprLJgKCL-2100-80.jpg",
+        "headline": "【初中級・体のSOS／CX勢の相次ぐ離脱に乗せて】『動悸』と『脚の謎の失速・痺れ』を甘く見ない——プロも手術する心臓と血管、初中級が知るべきサイン",
+        "layer1": "この数日でCXのトップ選手が相次いで身体トラブルを公表した。王者リベロールは心臓の不整脈で手術(前々カード)、20歳の仏ロード&CX二冠セリア・ジェリーは『腸骨動脈』の問題で8月から脚に痛み、この冬に手術予定(『丸々1シーズン休みたくなかった』とヨーロッパ選手権まで走って打ち切り)。プロでも起きる“体の警告”は、初中級にも無縁ではない。",
+        "layer2": "先回り——初中級が見落とす3つのサイン。(1)運動時の動悸・脈の乱れ＝不整脈の疑い、安静で戻っても繰り返すなら受診を。(2)片脚だけ高強度で『力が抜ける・痺れる・張る』が続く＝若い競技者に多い腸骨動脈内膜症(血管が血流を絞る病気)の可能性、『乳酸のせい』で片づけない。(3)胸の圧迫感・異常な息切れは即中止。マサル向け：『速くなる前に、まず心臓と血管を守る』は刺さる健康テーマ。数字や診断は断定せず、“気づいたら専門医へ”という導線で。※医療情報は一般的な注意喚起であり診断ではない。",
+        "sources": [
+          {
+            "t": "Cycling Up To Date（ジェリー＝腸骨動脈）",
+            "u": "https://cyclinguptodate.com/cyclocross/i-didnt-want-to-miss-an-entire-cyclocross-season-double-french-champions-rapid-rise-interrupted-as-20-year-old-prodigy-faces-artery-surgery",
+            "d": "2026-10-25"
+          },
+          {
+            "t": "Cyclingnews（リベロール＝不整脈）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/life-had-other-plans-for-me-belgian-cyclo-cross-champion-marion-norbert-riberolle-undergoes-procedure-to-correct-cardiac-arrhythmia/",
+            "d": "2026-10-25"
+          }
+        ],
+        "status": "確定＝ジェリー(腸骨動脈・20歳・冬に手術)、リベロール(不整脈・手術)の事実（英メディア）。曖昧＝本文の健康アドバイスは一般的注意喚起で、個別の診断・治療方針ではない（※要・専門医の判断）。"
+      },
+      {
+        "id": "20261026-saitama-crite",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://saitama-criterium.jp/wp_crite_data/wp-content/themes/tour_de_france_saitama_criterium/common/2026/img/top/mv/mv_2026_1.jpg",
+        "headline": "【経営メモ・市場／国内・10/21続報】さいたまクリテリウム(11/15)の陣容が固まる——世界王者マクナルティに続き、海外招聘7名＆フィリプセン・ギルマイの出場決定、“秋最大級の無料集客装置”が3週間後",
+        "layer1": "『J:COM presents 2026 ツール・ド・フランスさいたまクリテリウム』は11月15日(日)、さいたま新都心駅周辺で開催。10/15に世界王者ブランドン・マクナルティら、10/21には海外招聘選手7名と海外出場チームが追加発表され、スプリンター王者ヤスペル・フィリプセン(アルペシン、2022優勝)とビニヤム・ギルマイ(2024初出場初優勝)の出場も決定。Jテレ/J SPORTSで生中継(14:30〜17:30予定)。",
+        "layer2": "先回り——店としてどう使うか。会場はGMOアリーナ改修に伴いコース変更。3週間後に“世界クラスを無料で生観戦”できる一大イベントが首都圏に来る＝来店動機づくりの好機。(1)SNSで出場選手(フィリプセン=スプリント、ギルマイ、マクナルティ=TT/クラシック)の見どころを先出し、(2)観戦後の“自分も乗りたい”層に向けた入門車/中華カーボンの試乗・相談枠を用意、(3)当日は中継のパブリックビューイング的な店内企画も。Xでも『フィリプセン来日』は確実に伸びるテーマ。",
+        "sources": [
+          {
+            "t": "さいたまクリテリウム公式（出場選手発表）",
+            "u": "https://www.saitama-criterium.jp/",
+            "d": "2026-10-21"
+          },
+          {
+            "t": "PR TIMES（フィリプセン・ギルマイ出場）",
+            "u": "https://prtimes.jp/main/html/rd/p/000000359.000140218.html",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝11/15開催・さいたま新都心・マクナルティ/フィリプセン/ギルマイ出場・海外7名追加（公式/PR TIMES）。曖昧＝残りの出場選手・最終コース詳細は追って発表（“予定”段階）。"
+      },
+      {
+        "id": "20261026-shimano-q3",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/AoMRqQZUAEvBNoGzKfjBCQ-1920-80.png",
+        "headline": "【経営メモ・市場／国内・明日10/27発表】シマノ第3四半期(1〜9月)決算が“いよいよ”明日——店主が見るべき3点：①営業益の前年比、②在庫の減り具合、③通期見通しの上下",
+        "layer1": "シマノの2026年12月期・第3四半期(1〜9月)決算が、明日10月27日に発表予定。上半期(1〜6月)は売上2,470億円(＋4.1%)・経常益353億円(＋151.6%)と好調だったが、営業益は272億円で“減益”、通期は上方修正済み。業界全体は在庫過多と需要減速の下降局面にあり、大手の底堅さが試される一枚。",
+        "layer2": "先回り——店主が明日の数字で見るべき3点。(1)『自転車部品』の営業利益が前年同期比でプラスに転じたか(＝WT向けでなく“普及価格帯”の回復度)、(2)流通在庫の調整が進み『2027年モデルが正常発注』に戻る兆しがあるか、(3)通期見通しを再び上下修正するか(円安メリットvs米関税・需要減の綱引き)。8月からの全自転車部品『＋3%』値上げの浸透度も効く。マサル向け：ここが読めれば、年末の仕入れ量・値付け・“型落ち底値”の引き際の判断材料になる。数字は明日の確報で必ず裏取りを。",
+        "sources": [
+          {
+            "t": "松井証券（決算予定・10/27）",
+            "u": "https://finance.matsui.co.jp/stock/7309/settlement/index",
+            "d": "2026-10"
+          },
+          {
+            "t": "株予報（シマノ業績）",
+            "u": "https://kabuyoho.jp/report?bcode=7309",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝第3四半期の発表予定日が10/27、上半期は増収・経常大幅増・営業減益・通期上方修正済み。曖昧＝第3四半期の実数字は未発表（※明日の決算短信で要確認）。"
+      },
+      {
+        "id": "20261026-onley-tt-2027",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/xN7xb7ASVqRhv9pPbQAhuj-2560-80.jpg",
+        "headline": "【トレンド・レースの読み／10/23】登坂力のオスカー・オンリーが『2027ツールはTTが主役になる』——71kmのTT増量に“レムコは大喜びだろう”、クライマーの本音",
+        "layer1": "ツール総合を狙う若手クライマー、オスカー・オンリー(ピクニック・ポストNL)が、10/22に発表された2027ツール・ド・フランスのコース(15年ぶりに計71kmへ増えた個人TT)について、『TTが結果を左右する“主な要因”になる』と分析。『レムコ(エヴェネプール)は本当に大喜びだろう』と、TTに強いライバルに有利な設計だと率直に認めた。",
+        "layer2": "先回り——なぜクライマーが言うと重いのか。純粋な登坂型のオンリーにとって71kmのTTは“伸ばさないと勝負権を失う”弱点。山頂フィニッシュ3回という登坂要素もありつつ、TTの比重が増したことで『山で稼ぎ、TTで守る』では足りず、総合系は全員がTT強化を迫られる。マサル向け：2027は“TTが戻ってくる年”＝深リム・エアロ機材・ポジションの話題が一年を通して効く伏線。中華カーボンの深リム提案にもつなげやすい。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/racing/remcos-going-to-be-really-happy-oscar-onley-sees-time-trials-as-a-main-factor-in-2027-tour-de-france-route",
+            "d": "2026-10-23"
+          }
+        ],
+        "status": "確定＝オンリーがTTを“主要因”と分析・レムコ有利と発言（Cycling Weekly）。曖昧＝実際の勝敗予想は本人の見立て（意見）であり確定事項ではない。"
+      }
+    ]
+  },
+  {
     "date": "2026-10-25",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。ロードは一区切りでも、イタリアTT選手権・泥のCX・2027ツールの“TT論争”と話題は途切れません。国内はシマノ決算目前とブリヂストンの新手も。",
     "cards": [
