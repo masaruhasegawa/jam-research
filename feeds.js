@@ -1,5 +1,260 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-27",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。本日はシマノ第3四半期決算(15:30発表)の日——国内『業界体温計』が出ます。欧州は『ヴィスマ発シリーシーズン』でヴィンゲゴー去就とセイシャスの一蹴、ペロトンの朗報(スケルモーセ結婚・ファンホーイドンク就任)も。女子WTの地殻変動、ペデルセンらHBO提訴、そして13速R9300と超ワイドリムの機材話まで。",
+    "cards": [
+      {
+        "id": "20261027-shimano-q3",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": true,
+        "image": "https://biz-journal.jp/wp-content/uploads/2026/04/post_394484_shimano.jpg",
+        "headline": "【🔥今日の一本・経営メモ／国内・本日10/27(火)15:30発表】シマノ第3四半期(1〜9月)決算が“ついに”今日——店主が見るのは①営業益の前年比②在庫の減り③通期見通し、『最終益は増でも営業益は減』の綱引き",
+        "layer1": "自転車・釣具のシマノ(7309)が本日10/27(火)15:30に2026年12月期 第3四半期(1〜9月)決算を発表。通期の会社予想は営業益470億円(前期比約▲9%)、上期(1〜6月)営業益は272.5億円と前年同期からわずかに減益——この秋最大の国内『業界体温計』が今日出る。",
+        "layer2": "先回りで構造を——①1〜3月は営業益104億円(▲36%)と沈んだが、最終益は為替差益や政策保有株の売却で増。『最終益プラス＝本業好調』ではない点に注意。②7/28に通期経常は533→560億円へ上方修正済み(営業益予想は据え置き)。③最大の焦点は在庫調整が底を打ったか。店としては『部品は8月から+3%の値上げ済み』を踏まえ、通期見通しの上下で来季の仕入れ・値付けを読む。数字は発表前の会社予想・前年実績で、確定値は15:30以降に要確認。",
+        "sources": [
+          {
+            "t": "株探(業績・決算日程)",
+            "u": "https://s.kabutan.jp/stocks/7309/finance",
+            "d": "2026-10"
+          },
+          {
+            "t": "日経(決算情報)",
+            "u": "https://www.nikkei.com/nkd/company/kessan/?scode=7309",
+            "d": "2026-10"
+          },
+          {
+            "t": "Business Journal(最終益の構造)",
+            "u": "https://biz-journal.jp/company/post_394484.html",
+            "d": "2026-04"
+          }
+        ],
+        "status": "確定＝発表は本日15:30・通期会社予想は営業益約470億円/曖昧＝1〜9月の実績は発表前(※15:30以降に要確認)"
+      },
+      {
+        "id": "20261027-market-kessan-aki",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://c-dream.jp/wp-content/uploads/2026/09/A_photorealistic_blog_eye-catching_image_in_169_a-1790046702446.jpg",
+        "headline": "【経営メモ・市場／国内・『決算の秋』を店視点で】本業は横ばい・電アシと整備が稼ぐ——シマノに続き、パナが2027春モデル“ほぼ全機種値上げ”、新車の高止まりは続く",
+        "layer1": "本日のシマノ決算を皮切りに、国内は『決算と値上げの秋』。パナソニックは2027年春モデル(9/28発表)でほぼ全機種を値上げし、主力ビビ・DXは143,000→151,000円に。新車の値札は上がり続け、需要は電動アシストと整備・中古へ移っている。",
+        "layer2": "店の読み——①新車(非電動)は数量が伸びず、価格改定で単価を保つ局面。②電動アシストは高単価で販売額を押し上げる“数少ない伸びしろ”。③『売って終わり』から整備・中古・乗り換え提案の“ストック型”へ構造転換が進む。ロード専門でも、入口価格(税込30万円以下)の整理と、値上げ前後の“型落ち在庫”の見せ方が今季の勝負どころ。価格・日付は各社公式の確認を。",
+        "sources": [
+          {
+            "t": "C-Dream(パナ2027春モデル値上げ)",
+            "u": "https://c-dream.jp/news/14561",
+            "d": "2026-09"
+          },
+          {
+            "t": "Infoseek/SPA(シマノ“微減”の背景)",
+            "u": "https://news.infoseek.co.jp/article/spa_20261001_02187803/",
+            "d": "2026-10-01"
+          }
+        ],
+        "status": "確定＝パナ2027春は9/28発表・ビビDX 143k→151k/曖昧＝市場全体の数量は各社月次で変動(※最新は公式IRで要確認)"
+      },
+      {
+        "id": "20261027-skjelmose-vanhooydonck",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-10%2Fskjelmose-van-hooydonck.png",
+        "headline": "【レース・人間ドラマ／10/26】ペロトンに続く朗報——スケルモーセが結婚、ファンホーイドンクに第3子＋来季ヴィスマの監督就任、“心臓で引退”した男の新章",
+        "layer1": "10/26、二つの温かいニュース。マティアス・スケルモーセ(リドル・トレック)がコペンハーゲンで恋人ヴィクトリアと結婚。ネイサン・ファンホーイドンクは第3子(長男サンドロ)の誕生を発表し、来季からヴィスマ・リースアバイクのスポーツ・ディレクターに就く。",
+        "layer2": "背景が効く——スケルモーセはアムステル2位・ツール総合6位と充実の2026を終えての慶事。ファンホーイドンクは2023年に『心臓の異常』で現役を断たれた選手で、古巣ヴィスマにGSとして戻る“復帰”でもある。CX勢の心臓トラブルが続いた秋に、同じ心臓の物語が別の形で前を向く。結果速報ではなく『人がなぜ前を向けるか』の一枚。",
+        "sources": [
+          {
+            "t": "IDL Pro Cycling",
+            "u": "https://www.idlprocycling.com/cycling/more-good-news-in-the-peloton-skjelmose-and-van-hooydonck-have-their-own-reasons-to-celebrate",
+            "d": "2026-10-26"
+          }
+        ],
+        "status": "確定＝10/26発表・結婚/第3子誕生/来季ヴィスマのSD就任"
+      },
+      {
+        "id": "20261027-vingegaard-future",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/5xoLnM38wCgfV5kSU88RTS-1024-80.jpg",
+        "headline": "【レース・人間ドラマ／10/26・Xは去就で騒然】ヴィンゲゴー『沈黙』の裏——報道では契約2028年末まで、本人は「1年ごとに考える」、ウノエックスが“接触”を認める",
+        "layer1": "ツール2勝のヨナス・ヴィンゲゴーの去就がXで騒がれているが、裏を取ると——外部への“沈黙”の一方で、本人はヴィスマのプラッゲ代表と連絡を取り合っている。報道ではチーム契約は2028年末まで有効。さらにウノエックス(トール・フースホフト)が興味と“接触”の存在を認め、火種が残る。",
+        "layer2": "先回りで整理——①今夏ヴィンゲゴーは『冬に引退も考えた』と明かし、ヴィスマは来冬に2027年のプログラムを再協議する予定。②所属チームは2027年のUCI登録で暫定名が付くほどタイトルスポンサー探しが続く“経済の綱引き”下にある。③つまり『引退か移籍か』の断定はまだ早い。フースホフトも接触の相手や進度は明言せず。X発の噂は入口、確定情報は契約と本人発言で。接触の具体像・条件は未確定(※要裏取り)。",
+        "sources": [
+          {
+            "t": "IDL Pro Cycling(プラッゲと連絡)",
+            "u": "https://www.idlprocycling.com/cycling/the-outside-world-might-be-getting-radio-silence-but-jonas-vingegaard-is-in-contact-with-visma-lease-a-bike-manager-plugge",
+            "d": "2026-10-26"
+          },
+          {
+            "t": "IDL Pro Cycling(フースホフトが接触認める)",
+            "u": "https://www.idlprocycling.com/cycling/uno-x-mobility-manager-thor-hushovd-confirms-contact-with-jonas-vingegaard-he-doesnt-earn-that-much",
+            "d": "2026-10-26"
+          },
+          {
+            "t": "Domestique(ウノエックスの“条件”)",
+            "u": "https://www.domestiquecycling.com/en/news/hushovd-opens-door-to-vingegaard-at-uno-x-but-sets-one-major-condition/",
+            "d": "2026-10-25"
+          }
+        ],
+        "status": "曖昧＝移籍・引退は未確定(※Xで話題、要裏取り)/確定＝本人はプラッゲと連絡・ウノエックスは接触を認める"
+      },
+      {
+        "id": "20261027-mvdp-cx",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/SakffTpXQjL9hGVdZwx6gg-1024-80.jpg",
+        "headline": "【レース・CX／人間ドラマ・10/26】ファンデルプールの泥は“今季走る”のか——ロードは終了宣言、元世界王者アルベルトは「もう一つの虹は逃さない」、日程は11月末フルストで",
+        "layer1": "泥のシーズンが本格化する中、最大の注目はマチュー・ファンデルプールの去就。本人はロードシーズン終了を表明したがCX参戦は明言せず“未定”。元CX世界王者ニールス・アルベルトは「彼はもう一つの世界タイトルの機会を逃さないはず」と予想し、「ホーヘルハイデが“最後のCX”になるかも」と語った。",
+        "layer2": "先回りで——①MvdPは2026年2月フルストで“8個目”のエリートCX世界王者。アルベルトの『10個目』という言い回しは概数・願望寄りで、正式スケジュールは未発表。②チームは11月末フルストのチーム発表で日程を公表する見込み。③出るなら12月の数戦に絞る“つまみ食い”が通例。『出る/出ない』自体が毎年の冬の風物詩。日程・タイトル数は未確定(※要裏取り)。",
+        "sources": [
+          {
+            "t": "Cyclingnews(スケジュール/ロード終了)",
+            "u": "https://www.cyclingnews.com/pro-cycling/mathieu-van-der-poel-reveals-cyclocross-schedule-starting-as-soon-as-two-weeks-time/",
+            "d": "2026-10-26"
+          },
+          {
+            "t": "IDL Pro Cycling(アルベルト発言)",
+            "u": "https://www.idlprocycling.com/cyclo-cross/van-der-poel-wont-let-the-world-championships-slip-by-and-wants-to-add-his-name-alongside-schurter-and-everts",
+            "d": "2026-10-26"
+          }
+        ],
+        "status": "曖昧＝2026-27のCX日程・参戦は未発表(※要裏取り)/確定＝ロードシーズン終了は本人表明"
+      },
+      {
+        "id": "20261027-women-wt-2027",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://escapecollective.com/content/images/size/w1200/2026/10/corvos-blasi.jpg",
+        "headline": "【トレンド・移籍／10/25・女子】2027女子WTが“地殻変動”——ニーウィアドマ＝フィニーがリドル・トレックへ、ケルボールはSDワークスへ、ブラシのモビスター行きが窓口最大の目玉",
+        "layer1": "女子ワールドツアーの2027年移籍市場が動いた。ブエルタ女王パウラ・ブラシのモビスター加入が“窓口最大の移籍”とされる中、2024ツール女子覇者カトジナ・ニーウィアドマ＝フィニーがキャニオン・スラムからリドル・トレックへ、セドリーヌ・ケルボールがEFからSDワークス・プロタイムへ。",
+        "layer2": "読み筋——①強豪リドル・トレックとSDワークスが“勝てる駒”を集め、上位の寡占が進む。②セシル・ウトラップ・ルドウィグはウノエックスへ“新天地”を探す動き(未確定)。③男子の緊縮(チーム減)と対照的に、女子は資金と選手の集約で勢力図が塗り替わる局面。日本でも人気の顔ぶれが動き、来季の見方が変わる。",
+        "sources": [
+          {
+            "t": "Escape Collective(2027女子WT移籍まとめ)",
+            "u": "https://escapecollective.com/2027-wwt-transfer-roundup-a-few-big-moves-as-status-quo-evolves-further",
+            "d": "2026-10-25"
+          }
+        ],
+        "status": "確定＝ブラシ→モビスター/ニーウィアドマ→リドル・トレック/ケルボール→SDワークス(10/25時点)、ウトラップ・ルドウィグのウノエックスは“模索”(未確定)"
+      },
+      {
+        "id": "20261027-pedersen-hbo",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-10%2Fmads-pedersen-6adf55fae1139.jpg",
+        "headline": "【トレンド・業界／10/26・Xでも波紋】マッズ・ペデルセンらデンマーク11選手がHBOを提訴——五輪宣伝に“肖像を無断使用”、計200万クローネ(約4,500万円)を請求",
+        "layer1": "10/26、マッズ・ペデルセンやミケル・ビュアウら自転車勢を含むデンマークの11アスリートが、HBOノルディックを提訴。パリ五輪のサブスク宣伝に自分たちの映像が“無断で使われた”とし、総額200万デンマーククローネ(約27万ユーロ)を請求。今週中に判決の見込み。",
+        "layer2": "先回りで論点——①選手側は「報道ではなくサブスク販売の宣伝に使われた」と主張(1件あたり5万クローネ、ペデルセンは15万クローネ請求)。②HBO側は『選手の同意を得ていた、五輪放映権の公式パートナーだ』と反論。③スポーツ映像の“肖像・パブリシティ権 vs 報道・放映権”の線引きを問う一件で、選手側の権利意識の高まりを映す。ハンドボール・バドミントン勢も原告に名を連ねる。",
+        "sources": [
+          {
+            "t": "IDL Pro Cycling",
+            "u": "https://www.idlprocycling.com/cycling/mads-pedersen-is-among-athletes-filing-a-lawsuit-against-hbo-large-sums-of-money",
+            "d": "2026-10-26"
+          }
+        ],
+        "status": "確定＝10/26提訴・計200万DKK請求・今週判決見込み/曖昧＝判決の結果は未確定"
+      },
+      {
+        "id": "20261027-seixas",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-10%2Fpaul-seixas-decathlon-1.jpg",
+        "headline": "【トレンド・移籍／10/26・“噂疲れ”】ロンバルディア覇者セイシャスがヴィスマ移籍説を一蹴——「急がないと2年前に自分と約束した。(契約の話は)退屈なんだ」",
+        "layer1": "2026年ロンバルディアを制した20歳の新星ポール・セイシャス(デカトロンCMA CGM)が、仏RMCで“ヴィスマ待望論”を一蹴。「2年前に『新契約を急がない』と自分に誓った。その手の話は退屈だ」と語り、2028年に向けた争奪戦を横目に態度を保留した。",
+        "layer2": "読み——①セイシャスは現行契約があと1年、複数チームが2028年に向けて触手を伸ばす“今最も欲しい若手”。②ヴィスマは『次の大器』として獲得に意欲と報じられるが、本人は「いずれ決めるが時期は未定、シーズン開幕まで待つかも」。③ヴィンゲゴー去就と並ぶ“ヴィスマ発シリーシーズン”の一コマ。噂が先行する移籍市場では、本人の肉声こそ最良の裏取りになる好例。",
+        "sources": [
+          {
+            "t": "IDL Pro Cycling(RMC発言)",
+            "u": "https://www.idlprocycling.com/cycling/seixas-shuts-down-visma-lease-a-bike-transfer-rumours-that-bores-me",
+            "d": "2026-10-26"
+          }
+        ],
+        "status": "確定＝10/26にRMCで移籍を保留する発言・現行契約はあと1年/曖昧＝2028年の去就は未定"
+      },
+      {
+        "id": "20261027-dura-ace-r9300",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://escapecollective.com/content/images/size/w1200/2026/08/New-Shimano-Dura-Ace-R9300-Vuelta-Espana-2026-Escape-Collective--2-2.jpg",
+        "headline": "【パーツ・機材最前線／シマノ決算の日に“次の目玉”を整理】新型デュラエース『13速 R9300』の現在地——13枚カセット＋新フリーボディ、セミワイヤレス維持、親指ボタン追加(すべて未発表)",
+        "layer1": "本日はシマノ決算の日。店頭でもユーザーでも気になる“次の一手”が新型デュラエース(通称R9300)。2026年のブエルタや世界選でアルペシン勢やファンデルプールが実戦投入したプロトタイプが複数回目撃され、13枚カセット化が最大の変化とみられる。",
+        "layer2": "先回りで要点——①12→13速化でフリーボディが新規格になる見込み＝現行HGフリーのホイールはそのままでは使えない可能性(次のホイール話に直結)。②配線はセミワイヤレス維持(変速はワイヤレス、リアだけ有線＋内蔵電池)。③シフターに新しい親指ボタン、パワーメーターやクランク変更の噂も。④ただし名称・ギア構成・発売日はシマノ未発表で『R9300』は報道上の通称。決算で在庫調整の出口が見えれば、新型投入の時期論も動く。すべて未確定(※要裏取り)。",
+        "sources": [
+          {
+            "t": "Escape Collective(ブエルタで目撃)",
+            "u": "https://escapecollective.com/in-the-wild-shimano-dura-ace-r9300-groupset-at-la-vuelta/",
+            "d": "2026-08"
+          },
+          {
+            "t": "Cycling Weekly(MvdPが世界選で使用)",
+            "u": "https://www.cyclingweekly.com/news/mathieu-van-der-poel-rides-13-speed-dura-ace-prototype-at-uci-world-championships",
+            "d": "2026-09-27"
+          }
+        ],
+        "status": "曖昧＝名称・仕様・発売日はすべてシマノ未発表(※目撃情報ベース、要裏取り)"
+      },
+      {
+        "id": "20261027-china-wide-rim",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/2c455ea9-0276-47a8-b35d-9ef3fd6d08c4/thumbnails/e6fe8a88-8dd7-489f-b5a3-7c7dc5256bbc.jpg?appId=32337f2f-7841-4ef6-a233-d1f001580530&platform=WEB&w=1200",
+        "headline": "【ホイール・機材読み／“超ワイドリム”の波に乗せて】タイヤが太るほどリムも広がる——Hunt新作(前45mm幅・50mmタイヤ最適)が示す潮流を、中華カーボンで外さない選び方",
+        "layer1": "グラベル/CXで“超ワイド化”が加速。Huntの新作5AM Gravel Limitless(10/8発表)は前リム外幅45mm・内寸も大幅ワイドで『40〜60mmタイヤ対応、45〜50mmで最空力』、重量1,317g。リムはもう“タイヤに合わせて広げる”時代に入った。",
+        "layer2": "中華カーボンで外さない3点——①“深さ”より『内寸』を見る。23mm内寸がロードの新標準、グラベルはさらに広い。履くタイヤ幅とリム内寸の相性(推奨空気圧域)が乗り味を決める。②フックレス対応と推奨タイヤ・上限圧を必ず確認(超ワイドはフックレス前提が多い)。③将来の13速化(前述R9300)でフリーボディ規格が変わる可能性があるため、“今”買うなら対応フリーの載せ替え可否も店で確認を。うちの8LIEN/CRW/GOOSYNN等でも、径や流行でなく『内寸×用途×対応規格』で詰めれば失敗しない。",
+        "sources": [
+          {
+            "t": "BikeRadar(Hunt 5AM Gravel Limitless)",
+            "u": "https://www.bikeradar.com/news/hunt-5am-gravel-limitless-wheels",
+            "d": "2026-10-08"
+          },
+          {
+            "t": "Cyclist(超ワイドの空力比較)",
+            "u": "https://www.cyclist.co.uk/news/hunt-5am-gravel-limitless-wheels",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝Hunt 5AMは前45mm幅・1,317g・45〜50mmタイヤ最適(10/8発表)/曖昧＝中華各社の個別対応は製品ごとに要確認"
+      },
+      {
+        "id": "20261027-disc-training",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://prcdn.freetls.fastly.net/release_image/93966/609/93966-609-c750ea5b454c691cd3dd91d9229b7133-1742x2472.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+        "headline": "【初中級・練習の理屈／10/26発売の新刊に乗せて】『ディスクブレーキ時代のロードバイクトレーニング』(栗村修)——初中級が最初に直すのは“練習の順番”、機材より先に体",
+        "layer1": "10/26、元プロの栗村修による新刊『ディスクブレーキ時代のロードバイクトレーニング』(日東書院本社/辰巳出版、A5・192p・税込1,980円)が発売。ヒルクライムやロードレースでタイムを縮めたい初中級〜ベテラン向けに、パワーメーター活用・効率・フォーム・体づくりを現代の作法で整理した一冊。",
+        "layer2": "先回りで“順番”を——①まず体(ベース耐久＝会話できる強度の時間を増やす)、次に閾値(FTP付近)、最後に高強度。いきなり追い込むと故障と頭打ちを招く。②フォームと効率は“楽に速く”の土台で、新しい機材(ディスク・ワイドタイヤ・パワメ)は体の後。③パワメがあれば“感覚”を数値で裏取りでき、レースが一区切りしたオフの今こそ伸びる。高い機材を足す前に、練習の順番を直すのが一番コスパが良い。",
+        "sources": [
+          {
+            "t": "PR TIMES(新刊告知)",
+            "u": "https://prtimes.jp/main/html/rd/p/000000609.000093966.html",
+            "d": "2026-10-26"
+          }
+        ],
+        "status": "確定＝10/26発売・栗村修著・税込1,980円・A5判192ページ"
+      }
+    ]
+  },
+  {
     "date": "2026-10-26",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。週末は泥のオーファイセでファントゥーレンハウト…ではなくヴァントゥーレンハウトとブランドが開幕勝ち、95歳のアワーレコードに胸が熱くなる朝です。国内はさいたまクリテの陣容が固まり、明日はシマノ決算。中華の『格上げ』とポガチャル豪州説も。",
     "cards": [
