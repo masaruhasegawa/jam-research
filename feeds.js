@@ -1,5 +1,261 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-28",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ロードは『移籍と機材の総入れ替え』の秋——シマノが通期営業益を今年初の上方修正(470→543億)、中華Pardusがプロの機材に名乗り(報道)、Soudalはスペシャ→メリダへ。レースは冬のCX本格化(欧州選手権11/7ゼダム)とファンエンペルの約1年ぶり復帰、2027ジロは『クライマーのジロ』の前評判。ガーミンの音声サイコンと冬の室内トレまで。",
+    "cards": [
+      {
+        "id": "20261028-shimano-q3-result",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": true,
+        "image": "https://biz-journal.jp/wp-content/uploads/2026/04/post_394484_shimano.jpg",
+        "headline": "【🔥今日の一本・経営メモ／国内・昨日10/27発表】シマノ第3四半期決算、通期営業益予想を『470→543億円』へ今年初の上方修正——自転車部品が前年比+14%で復調、店主の“体温計”は上向き",
+        "layer1": "昨日のシマノ(7309)第3四半期決算で、通期の営業利益予想を従来の470億円から543億円へ(＋73億・約＋15%)、純利益予想も430→470億円へ、今年初めて上方修正。焦点の自転車部品はQ3売上970億円で前年同期比＋14%・前四半期比＋3%、セグメント営業益134億円(利益率13.8%)と、懸念だった欧州在庫調整の重しが和らいだ。",
+        "layer2": "先回りで構造を——①年初(1〜3月)は営業益104億円(▲36%)と沈み『最終益は増でも本業は減』の綱引きだったが、Q3で自転車部品が二桁増に復調し、ようやく営業益“予想”の引き上げに届いた。②販管費は288億円で前年比▲3%とコスト規律が効いている。③店の読み：部品は8月から＋3%値上げ済み。需要の底が固まりつつあるなら、来季の仕入れは『品薄で買えない』より『値付けで利を残す』局面へ。全社9カ月累計の営業益など確定値はシマノ公式の決算短信で要確認。",
+        "sources": [
+          {
+            "t": "Investing.com(第3四半期決算・通期上方修正)",
+            "u": "https://jp.investing.com/news/earnings/article-93CH-1726658",
+            "d": "2026-10-27"
+          },
+          {
+            "t": "株探(シマノ業績・決算日程)",
+            "u": "https://s.kabutan.jp/stocks/7309/finance",
+            "d": "2026-10"
+          },
+          {
+            "t": "日経(シマノ決算情報)",
+            "u": "https://www.nikkei.com/nkd/company/kessan/?scode=7309",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝通期営業益予想470→543億へ上方修正・自転車部品Q3は前年比＋14%(Investing.com報)/曖昧＝9カ月累計の全社営業益の数値は記事に明記なし(※決算短信で要確認)"
+      },
+      {
+        "id": "20261028-pardus-proteam",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/06/2026-Pardus-opener.jpeg",
+        "headline": "【経営メモ・市場／10/27報道・中華台頭】仏プロチームの2027バイクに『中華Pardus(瑞豹)』の名——中国ナショナルチーム御用達ブランドがプロの表舞台へ、中華カーボンの“格上げ”は店の追い風",
+        "layer1": "複数メディアが、2027年も存続予定の仏プロチーム(現TotalEnergies、来季は新名称)の機材供給に中国ブランド『Pardus(瑞豹)』の名が挙がっていると報道。まだ公式発表前の“漏れ”段階で、Ekoï(ヘルメット)と並ぶ技術スポンサー候補とされる。チームのベルノドー代表は『次のツールには出る』と存続に自信を示す。",
+        "layer2": "Pardusは山東省のTaishan Sports Industry Group傘下で、中国ナショナルチームを長年支える。欧州へは2026年5月に正式進出——代表機種Robin Evoはフルカーボン＋一体バー＋カーボンスポーク＋アルテDi2で公称6.7kg・4,990ユーロ、独立系ショップ経由で販売。店の読み：後述のメリダ×Soudalと同じ『ブランド力学』の一例で、中華カーボンがプロの現場で増えるほど、日本の店頭で『中華＝怪しい』の壁が下がり、うち(8LIEN/CRW等)の説明が通りやすくなる。※あくまで報道ベース、公式確認を待つ段階。",
+        "sources": [
+          {
+            "t": "Cycling Up To Date(2027は新名称で存続の示唆)",
+            "u": "https://cyclinguptodate.com/cycling/more-positive-hints-from-totalenergies-camp-riders-have-been-told-the-team-would-exist-in-2027-under-a-new-name",
+            "d": "2026-10"
+          },
+          {
+            "t": "road.cc(瑞豹Pardusの欧州進出・Robin Evo)",
+            "u": "https://road.cc/tech-news/chinas-pardus-makes-european-push-with-sub-4500-6-7kg-carbon-road-bike",
+            "d": "2026-06"
+          }
+        ],
+        "status": "曖昧＝Pardus供給は報道・未公式(※要裏取り)/確定＝Pardusは中国ナショナルチーム供給元・2026年5月に欧州進出"
+      },
+      {
+        "id": "20261028-euro-cx-zeddam",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://media.delius-klasing.de/dpr_auto,fl_progressive,f_jpg,c_fill,g_face:center,h_675,w_1200/q_auto:eco/tour/gettyimages-2253049912_34dd64d2cc2a37f7da03346bc3f117d2",
+        "headline": "【レース・冬本番／11/7-8・欧州CX選手権】シクロクロス欧州選手権は『ゼダム(蘭)』で開催——強すぎるオランダ勢の“内輪のナショナル”、復帰のファンエンペルは間に合うか",
+        "layer1": "2026-27シーズンの欧州シクロクロス選手権は、11月7-8日にオランダ・ゼダム(Montferlandの森)で開催。土曜に女子エリート他、日曜に男子エリート。ワールドカップ開幕(11/27オストラヴァ)に先立つ、今季最初の“チャンピオンジャージ争い”。",
+        "layer2": "先回り——CXの欧州選手権は実質『オランダ内戦』。男子はファントゥーレンハウト/ニューウェンハウス/デルグロッソ/ニース、女子はブランド/ファンアルフェン/アルバラードらが主役。見どころは約1年ぶり復帰のファンエンペル(次カード)が代表で上位に絡めるか。ファンデルプールはロード終了宣言後、泥の本格参戦はフルスト(11月末)からの見込みで、欧州選手権は走らない公算。日程・出場メンバーは各連盟の公式で最終確認を。",
+        "sources": [
+          {
+            "t": "tour-magazin(2026-27 CXカレンダー・欧州選手権11/7-8ゼダム)",
+            "u": "https://www.tour-magazin.de/en/professional-cycling/latest-news/2026-2027-cyclo-cross-world-cup-calendar-all-dates-at-a-glance/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝欧州CX選手権は11/7-8ゼダム(蘭)開催/曖昧＝エリートの出場メンバーは未確定(※各連盟で要確認)"
+      },
+      {
+        "id": "20261028-vanempel-comeback",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/b9cBgzXSRyz7KBAg6wgRCk-2000-80.jpg",
+        "headline": "【レース・人間ドラマ／10/17・続報】ファンエンペルが『約1年ぶり』にレース復帰——ベレンクロスで4位、“心と体のため”に離れた世界女王の帰還、新天地はFDJ系『Specialized TMRW』",
+        "layer1": "元世界女王フェム・ファンエンペルが10/17のベレンクロス(メーレベーケ)で約1年ぶりにレース復帰。24番グリッドから追い上げて4位、優勝はシュライバー。『勝ちを狙う段階ではない』との事前評価を上回る走りだった。(10/24既報の新CXチーム『Specialized TMRW』始動の、本人復帰レースの続報)",
+        "layer2": "なぜ1年も——昨季ケッペンベルフクロス後に突然レースを止め『メンタルと心身のバランスのため』と説明、古巣ヴィスマと決別した。本人は復帰前に『今はこれまでで一番幸せ』と語る。先回り：技術はまだ本調子でないとの代表コーチ評だが、最後方グリッドからの4位は“戻ってきた”証拠。次は欧州選手権(11/7-8ゼダム)での仕上がりが焦点。トップ選手の離脱と復帰は、昨今のCX界の『燃え尽き』をめぐる議論も映す。",
+        "sources": [
+          {
+            "t": "Cyclingnews(復帰4位・本人コメント)",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/getting-back-to-this-point-has-been-a-journey-of-its-own-fem-van-empel-one-spot-off-podium-at-berencross-on-return-to-racing/",
+            "d": "2026-10-17"
+          },
+          {
+            "t": "Sporza(復帰前インタビュー)",
+            "u": "https://sporza.be/nl/2026/10/17/-mijn-lichaam-kon-geen-topsport-meer-aan-fem-van-empel-is-blijer-dan-ooit-voor-comeback-in-berencross~1792230857599/",
+            "d": "2026-10-17"
+          }
+        ],
+        "status": "確定＝10/17ベレンクロスで約1年ぶり復帰・4位/曖昧＝今後の調子・代表入りは未知数"
+      },
+      {
+        "id": "20261028-lidltrek-superteam",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/9kHuhuA9LSaLw3UkVM4ZSi-2000-80.jpg",
+        "headline": "【トレンド・移籍の地殻変動／10月】リドル・トレックが『超大型補強』で30人態勢——ガナを3年(〜2029)で電撃獲得、ガルら主力も加入、ルフェーヴルは「戦略なき“名前集め”だ」と皮肉",
+        "layer1": "2027年のリドル・トレックが移籍市場の“爆買い”で名簿をほぼ確定。目玉はネットカンパニー・イネオスを1年前倒しで離れるフィリッポ・ガナ(TTの怪物)を3年契約(〜2029年末)で獲得。さらにフェリックス・ガル、ミュールベルガー、アリエタ、イェガ、メーウス、ツィンマーマンらが加わり総勢30名に。",
+        "layer2": "先回り——GCはアユソ＋スケルモーセ＋ガル、スプリントはメーウス、TTはガナと役者は揃うが、元ボスのルフェーヴルは『明確なスポーツ戦略なしに大物を集めただけ』と批判。退団はチッコーネ(別チームへ)やバジョーリ、引退はモレマ/モスカ/ヴァルシャイト。読み：ピドコックのピナレロ(別途大補強)と並ぶ“2027はチームの枠を超える金満補強”の年。『名前だけで勝てるのか』が今季最大の論点になる。",
+        "sources": [
+          {
+            "t": "Cyclingnews(ガナがリドル・トレックへ早期移籍)",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/filippo-ganna-makes-early-exit-from-netcompany-ineos-to-move-to-lidl-trek/",
+            "d": "2026-10"
+          },
+          {
+            "t": "tour-magazin(ガナ契約〜2029・イネオスの痛手)",
+            "u": "https://www.tour-magazin.de/en/professional-cycling/latest-news/filippo-ganna-on-joining-lidl-trek-ineos-is-losing-its-time-trial-powerhouse/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝ガナがリドル・トレックへ3年契約(〜2029)・ガルら加入で30名態勢/曖昧＝一部ロスターは変動余地"
+      },
+      {
+        "id": "20261028-merida-soudal",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/CgGNSdbGJW8uVbERnLh8iB-1024-80.jpg",
+        "headline": "【トレンド・機材の地殻変動／10/19確定】Soudalクイックステップが『スペシャと18年・800勝の関係に幕』——2027からメリダへ、台湾大手がワールドツアー復帰、ホイール/サドル/ヘルメットも総入替",
+        "layer1": "Soudalクイックステップ(2027はSoudal Safety Jogger)と女子AGインシュランス・Soudalが、2027年からバイクをスペシャライズド→メリダへ。10/19に提携終了を発表し、メリダとは4年契約(〜2030・延長オプション)。ホイール・タイヤ・サドル・ヘルメット・シューズも一斉に入れ替わる(コンチ/プロロゴ/シディ/レーザー等が加入、シマノ/カステリは継続)。",
+        "layer2": "先回り——スペシャとクイックステップは2006年以来の名門タッグで“18年・約800勝”。メリダは1シーズンのWTチーム不在を経ての最前線復帰で、台湾大手の存在感が再び増す。読み：前述のPardus(中華)のプロ入り報道と合わせ、2027は『アジア系・バリュー系ブランドがプロの機材を塗り替える』年。店主目線では、プロ供給ブランドの顔ぶれが客の“安心材料”を動かすのが実務上のポイント。",
+        "sources": [
+          {
+            "t": "Cyclingnews(スペシャ退き・メリダ加入の総入替)",
+            "u": "https://cyclingnews.com/cycling-tech-components/specialized-out-merida-in-end-of-an-era-as-soudal-quickstep-and-ag-insurance-soudal-shake-up-bike-and-equipment-suppliers/",
+            "d": "2026-10"
+          },
+          {
+            "t": "Escape Collective(提携終了は10/19発表)",
+            "u": "https://escapecollective.com/soudal-quick-step-and-specialized-part-ways/",
+            "d": "2026-10-20"
+          }
+        ],
+        "status": "確定＝10/19提携終了発表・2027からメリダ・4年契約(〜2030)/曖昧＝一部供給ブランドの細部は今後の公式で"
+      },
+      {
+        "id": "20261028-garmin-edge1060",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://escapecollective.com/content/images/size/w1200/2026/10/edge1060_HR_front_0000_Edge1060_home_hero_metric.jpg",
+        "headline": "【パーツ・機材最前線／10/20発表・国内は11/6】ガーミンが『音声操作』の新フラッグシップEdge 1060——国内128,000円、“市場最高額のサイコン”、同日にスマートトレーナーTacx Nēraも",
+        "layer1": "ガーミンが10/20、新サイコンEdge 1060を発表。マイク＋スピーカー内蔵で“音声操作”に対応し、米799.99ドル/英699.99ポンドで『市場で最も高価なサイコン』。国内は128,000円で11月6日発売(Edge Explore 3、可動式スマートトレーナーTacx Nēraも同日)。",
+        "layer2": "先回り——1050比の主な進化は音声操作とルートのプレビュー機能で、電池は20時間据え置き・ソーラーは非搭載。店の読み：ガーミンが“声”に本腰＝COROS(別途音声サイコン)との競争が本格化。高価格帯サイコンは利幅が取れる反面、客は『今の1050で十分では?』と迷いやすい。初中級には“音声が本当に要るか”を軸に、Edge 1050やEdge 840との差を店頭で整理してあげたい。実機レビューはこれから。",
+        "sources": [
+          {
+            "t": "スマートウォッチライフ(国内128,000円・11/6発売)",
+            "u": "https://www.smartwatchlife.jp/84714/",
+            "d": "2026-10"
+          },
+          {
+            "t": "Escape Collective(Edge 1060の詳細)",
+            "u": "https://escapecollective.com/garmins-latest-releases-include-a-new-flagship-1060-computer/",
+            "d": "2026-10-20"
+          },
+          {
+            "t": "Cycling Weekly(“市場最高額のサイコン”・音声操作)",
+            "u": "https://www.cyclingweekly.com/news/garmin-quietly-drops-the-most-expensive-bike-computer-on-the-market-the-edge-1060-features-a-new-built-in-microphone-and-speaker-for-voice-control",
+            "d": "2026-10-20"
+          }
+        ],
+        "status": "確定＝10/20発表・音声操作・国内128,000円/11月6日発売(スマートウォッチライフ報)/曖昧＝実機レビューはこれから"
+      },
+      {
+        "id": "20261028-carbon-spoke-wheel",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/99238213-685f-4bb2-ad1e-6402eb0e5d4a/thumbnails/9c60d722-43ad-433c-82c1-2264c317cafb.jpg?appId=32337f2f-7841-4ef6-a233-d1f001580530&platform=WEB&w=1200",
+        "headline": "【ホイール・機材読み／中華ブランドのプロ入りに乗せて】“カーボンスポーク”がハイエンドの標準へ——新デュラのホイールも中華Pardusも採用、中華カーボンで『折れても直せる』選び方",
+        "layer1": "プロ機材の潮流として、リムだけでなく“スポークまでカーボン”が上位の標準に。シマノの新デュラエースWH-R9370(カーボンスポーク)や、欧州進出した中華Pardusの完成車(カーボンスポーク標準)がその例。軽量・高剛性・エアロで効く一方、初中級には『折れたら/振れたらどうする』の不安が残る。",
+        "layer2": "先回りで本音を——①カーボンスポークは“当たりどころが悪いと交換が高く・納期も長い”のが実務上の弱点。通勤兼用など日常使いなら金属スポークの方が直しやすい。②中華カーボンホイールを選ぶなら、(a)スポーク/ニップルが“入手できる規格”か、(b)ハブのベアリング・ラチェットが汎用補修できるか、(c)フックド/フックレスとリム内寸×タイヤ幅の整合、の3点を先に確認。うち(8LIEN/CRW/GOOSYNN等)でも『補修部材が供給できる』を売り文句にできるかが差になる。数値は各社公称、実測は要確認。",
+        "sources": [
+          {
+            "t": "BikeRadar(新デュラエースWH-R9370・カーボンスポーク)",
+            "u": "https://www.bikeradar.com/news/shimano-dura-ace-r9370-wheels",
+            "d": "2026-09"
+          },
+          {
+            "t": "road.cc(Pardus Robin Evo・カーボンスポーク採用)",
+            "u": "https://road.cc/tech-news/chinas-pardus-makes-european-push-with-sub-4500-6-7kg-carbon-road-bike",
+            "d": "2026-06"
+          }
+        ],
+        "status": "確定＝新デュラ・Pardusともカーボンスポークを採用/曖昧＝重量・剛性は各社公称(※実測は要確認)"
+      },
+      {
+        "id": "20261028-winter-indoor",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://media.delius-klasing.de/dpr_auto,fl_progressive,f_jpg,c_fill,g_face:center,h_675,w_1200/q_auto:eco/bike/garmin-tacx-nera-c-garmin-deutschland-gmbh-5_6e325190b1a8616b400952d89af022dd",
+        "headline": "【初中級・練習の理屈／冬の室内シーズン開幕に乗せて】『ズイフト弱音』を越えて続ける3点——新トレーナーも出た今、器材より“続け方”とセッティング",
+        "layer1": "冬は外が寒く暗く、練習は室内(スマートトレーナー＋ズイフト等)へ移る。各社の新モデル(ガーミンTacx Nēra＝可動＋Wi-Fi、最大2,200W・勾配20%など)も出て器材は充実。だが初中級がつまずくのは機材ではなく『続かない』『セッティングが合わず腰・尻が痛い』ことが多い。",
+        "layer2": "先回りの3点——①水平とフロント：バイクは水平に、前輪側にライザー(台)で実走に近い姿勢＝腰痛予防。トレーナー装着後にサドル高を再確認。②冷却：室内は汗だく、扇風機は“必須装備”。発汗で塩分・フレームも傷むので汗受けと拭き取りを。③メニューと飽き対策：インターバルはERG、レース/グループライドはシミュレーションと使い分け、15〜45分の“短く濃い”を基本に。器材を買い足す前に、まず水平・扇風機・30分の型から。",
+        "sources": [
+          {
+            "t": "Cyclingnews(室内トレ特集ウィーク)",
+            "u": "https://www.cyclingnews.com/news/its-indoor-cycling-week-at-cyclingnews/",
+            "d": "2026-10-26"
+          },
+          {
+            "t": "bike-magazin(Tacx Nēraの仕様)",
+            "u": "https://www.bike-magazin.de/en/training/fitness/tacx-nera-new-smart-trainer-with-plenty-of-movement-and-wi-fi/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝冬の室内シーズン・新トレーナー各種が登場/曖昧＝セッティングは体格で個人差"
+      },
+      {
+        "id": "20261028-giro2027-preview",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00038982-363.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C141",
+        "headline": "【レース・2027の読み／11/3ローマで全容解禁】来季ジロは『クライマーのジロ』になりそう——ゾンコラン復活・ガビア＋モルティローロ・登りTT、TT偏重の2027ツールと好対照",
+        "layer1": "2027ジロ・デ・イタリアの全ルートが11月3日にローマで発表予定。前評判は“登坂重視”。報道では第20ステージがゾンコラン山頂(オヴァーロ側・2018年フルーム以来)、別日にガビア＋モルティローロ、要所に登りTT(ヴィチェンツァ着)、スタートはトリエステ(スロベニア周回)とされる。",
+        "layer2": "先回り——同じ2027でも、ツール(別途既報)は15年ぶりTT計71kmの“TT偏重”、ジロは“激坂てんこ盛り”と性格が真逆になりそう。読みの含意：来季はTT型(エヴェネプール等)とクライマー型で“狙うレースが分かれる”年。機材も、ツール狙いは深リム・TTバイク、ジロ狙いは軽量・登坂寄りと振れる。全ては11/3の公式発表待ち。※現時点は報道・未公式。",
+        "sources": [
+          {
+            "t": "Cyclingnews(2027ジロは登り主体・全容は11/3)",
+            "u": "https://www.cyclingnews.com/news/",
+            "d": "2026-10-26"
+          },
+          {
+            "t": "Domestique(トリエステ発進・ゾンコラン予想)",
+            "u": "https://www.domestiquecycling.com/en/news/2027-giro-ditalia-start-in-trieste-revealed-with-mortirolo-and-zoncolan-expected-on-route/",
+            "d": "2026-10-05"
+          },
+          {
+            "t": "IDL Procycling(ルートのティーザー)",
+            "u": "https://www.idlprocycling.com/cycling/giro-ditalia-2027-teases-route-ahead-of-official-reveal-slovenia-and-return-of-iconic-climb-both-on-the-menu",
+            "d": "2026-10-07"
+          }
+        ],
+        "status": "曖昧＝全容は11/3公式発表・現時点は報道/確定＝発表はローマで11/3・スタートはトリエステ(既報)"
+      }
+    ]
+  },
+  {
     "date": "2026-10-27",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。本日はシマノ第3四半期決算(15:30発表)の日——国内『業界体温計』が出ます。欧州は『ヴィスマ発シリーシーズン』でヴィンゲゴー去就とセイシャスの一蹴、ペロトンの朗報(スケルモーセ結婚・ファンホーイドンク就任)も。女子WTの地殻変動、ペデルセンらHBO提訴、そして13速R9300と超ワイドリムの機材話まで。",
     "cards": [
