@@ -1,5 +1,258 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-29",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、13本。ベルナルの2027復帰に光、ブラントは『パリ〜ルーベでロードに幕』——冬の人間ドラマが動き出しました。国内はウィーラー在庫処分とキャノンデール×マヴィックで“買い時”の二正面です。",
+    "cards": [
+      {
+        "id": "20261029-bernal2027",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/LABaNgeEti6FvDMfSobjdS-1024-80.jpg",
+        "headline": "【🔥今日の一本・レース／人間ドラマ・10/28】エガン・ベルナルが『2027復帰』へ前進——2019年ツール覇者、今季20位で早期閉幕＆去就に揺れた男が、コペンハーゲンのチーム会合に姿",
+        "layer1": "2019年ツール＆2021年ジロ覇者のベルナル（Netcompany Ineos）の2027年復帰が「かつてなく濃厚」と報道。今季は7月のツール20位でシーズンを早々に終え、10月初旬にはInstagramで去就に関する声明を出して憶測を呼んでいた。",
+        "layer2": "物語の背景＝2022年1月、コロンビアでの練習中に停車車両へ追突して生死をさまよう重傷から甦った経緯。今回の「濃厚」の根拠はコペンハーゲンのチーム集会に本人が現れたことで、具体的な出場プログラムや条件はまだ確定情報ではない。※声明の全文ニュアンスは要確認。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/he-will-restart-as-scheduled-egan-bernal-more-likely-than-ever-to-return-for-the-2027-season/",
+            "d": "2026-10-28"
+          }
+        ],
+        "status": "確定＝2027復帰が濃厚との報道・チーム会合に出席／曖昧＝出場レースの詳細は未発表"
+      },
+      {
+        "id": "20261029-brand-canyonsram",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/ut34uHP4RJ4RFnGnDKP3uP-2086-80.jpg",
+        "headline": "【レース・人間ドラマ／10/27・女子】ルシンダ・ブラントが『2年契約』でキャニオン・スラムへ——ロードは『パリ〜ルーベで引退』、18年のベテランが2028年に監督職へ布石",
+        "layer1": "シクロクロス女王でもあるブラントが、来季からCanyon-SRAM Scalable Capitalに2年契約で移籍。ロードキャリアは「パリ〜ルーベで締めくくる」計画で、2028年には同チームの監督職へ移る『二重の役割』だ。",
+        "layer2": "プロ18年のうち半分近くをリドル・トレック系で過ごした名選手。「まるで新しい火が灯ったよう」と本人。注目は新タイトル名＝『Scalable Capital』で、暗号資産スポンサー(zondacrypto)の離脱後にドイツの投資サービスがタイトルへ昇格した格好。ロード引退後は冬のCXを続ける見込み（※CX比重は要続報）。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/lucinda-brand-switches-to-canyon-sram-for-the-next-two-years-with-plans-to-end-road-cycling-career-at-paris-roubaix/",
+            "d": "2026-10-27"
+          }
+        ],
+        "status": "確定＝2年契約・パリ〜ルーベでロード引退・28年監督へ／曖昧＝CX専念の度合い"
+      },
+      {
+        "id": "20261029-gravelburn-jackson",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/XQWxYfGXsqkmT4kz5xgkxS-2000-80.jpg",
+        "headline": "【レース・グラベル／10/28・南ア】アリソン・ジャクソンが『メカトラからの逆転』——750kmステージレース「ネッドバンク・グラベルバーン」第4S、大会初の集団スプリントを制す",
+        "layer1": "元パリ〜ルーベ覇者のジャクソン（加）が、南アの7日間・総距離750kmのグラベルステージレース「Nedbank Gravel Burn」第4ステージで、メカトラを乗り越えて勝利。エリート女子では大会初の集団スプリント決着だった。",
+        "layer2": "総合首位は女子ネレ・ライング、男子マシュー・ビアーズで残り3日。ロードのクラシック巧者がグラベルの長丁場で魅せた一戦＝「オン/オフロード両刀」の時代を映す。日本では馴染みが薄いが、グラベルの“ステージレース化”は太タイヤ・耐久ホイール需要の先触れでもある。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-can-still-win-this-day-alison-jackson-recovers-from-mechanical-to-win-middle-stage-at-seven-day-gravel-burn/",
+            "d": "2026-10-28"
+          }
+        ],
+        "status": "確定＝ジャクソンが第4S優勝／曖昧＝総合の最終結果（残り3日）"
+      },
+      {
+        "id": "20261029-jayvine-uae2029",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/ticTVA5pQcFLESPigPFvRV-1024-80.jpg",
+        "headline": "【トレンド・移籍／10/27】ジェイ・ヴァインがUAEと『2029まで』契約延長——「まだ成し遂げたいことがたくさんある」、山岳＆TTの万能アシストが残留",
+        "layer1": "オーストラリアのジェイ・ヴァイン（UAE Team Emirates-XRG）が2029年までの契約延長を発表。かつてZwiftのレース（eスポーツ）からプロ入りした経歴を持つ、登坂もTTもこなす貴重な選手だ。",
+        "layer2": "UAEはポガチャルを頂点に主力を長期で囲い込む路線を鮮明にしている。ヴァインはブエルタ区間勝利やグランツール山岳で結果を残してきた“計算できる”アシスト。移籍市場が「途中解約も当たり前」と言われる中、長期残留は安定志向の象徴といえる。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/still-so-much-i-want-to-achieve-jay-vine-commits-future-to-uae-team-emirates-xrg-with-2029-contract-extension/",
+            "d": "2026-10-27"
+          }
+        ],
+        "status": "確定＝2029まで契約延長"
+      },
+      {
+        "id": "20261029-mattwhite-ef",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/Ukbt7JRhdvNSu99FmQS3z8-2100-80.jpg",
+        "headline": "【トレンド・移籍／10/28】マット・ホワイトが『16年ぶり』にEFへ古巣復帰——豪の名DS、2010年にガーミンを解雇された地へ「一周回って戻ってきた」",
+        "layer1": "ベテランのスポーツディレクター、マット・ホワイト（豪）が2027年からEFエデュケーション・イージーポストにDSとして復帰する。2010年にガーミン（EFの前身系列）を解雇されて以来、16年ぶりの“帰還”だ。",
+        "layer2": "その後はジェイコ・アルウラやモビスターで監督業を歴任した実力者。「一周回って戻ってきた感覚」と本人。チーム首脳の人事は、来季の戦い方（誰をエースに、どのレースを狙うか）を占う地味だが重要なシグナルになる。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/it-feels-like-coming-full-circle-australian-ds-matt-white-rejoins-ef-education-easypost-16-years-after-departing/",
+            "d": "2026-10-28"
+          }
+        ],
+        "status": "確定＝2027からEFのDS"
+      },
+      {
+        "id": "20261029-ineos-ai-aero",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/QM4NoJjRGzHhQvAxvXDQBZ-1024-80.jpg",
+        "headline": "【パーツ・機材最前線／10/28】ネットカンパニー・イネオスが『AIエアロ測定アプリ』を2027導入——風洞に頼らず“姿勢の空気抵抗”をその場で数値化",
+        "layer1": "ネットカンパニー・イネオスが、2027年からAIベースのエアロ（空気抵抗）測定アプリを導入すると発表。高価な風洞施設に頼らず、選手のポジションの空気抵抗を手軽に評価しようという試みだ。",
+        "layer2": "エアロは「機材より選手の姿勢」が効くと言われる領域。アプリ化で測定のハードルが下がれば、いずれ市販・一般ライダーにも降りてくる可能性がある。ただし精度（風洞やCdA実測との整合）は要検証で、現段階はプロチームの内製ツールの段階だ。※一般向け展開は未定。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/netcompany-ineos-to-use-ai-based-aero-testing-app-from-2027/",
+            "d": "2026-10-28"
+          }
+        ],
+        "status": "確定＝2027導入を発表／曖昧＝測定精度・一般展開"
+      },
+      {
+        "id": "20261029-wheeler-price",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/10/wheeler_price.jpg",
+        "headline": "【経営メモ・市場／国内・10/26】台湾『WHEELER（ウィーラー）』完成車3モデルが在庫限りで価格改定——カーボンロードが税込19.9万〜、2027号砲前の“在庫処分期”を映す",
+        "layer1": "台湾ブランドWHEELERが国内の完成車3モデルを価格改定し、在庫限りで販売する。新価格は税込19万9000円〜39万9000円だ。",
+        "layer2": "内訳はエアロの「AERO 6.0」＝39.9万、オールラウンド「CHILI 5.0 Di2」＝29.9万、「CHILI 5.0 105」＝19.9万。買い手には“カーボン完成車が20万割れ”の好機だが、店視点では「在庫限り＝モデル終息・取扱見直し」のサインとも読める。2027モデルの号砲と秋の在庫処分が重なる、まさに買い時の二正面だ。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ",
+            "u": "https://www.cyclesports.jp/news/new-product/171286/",
+            "d": "2026-10-26"
+          }
+        ],
+        "status": "確定＝新価格（税込）3モデル・在庫限り／曖昧＝下げ幅（旧価格は記事に明記なし）"
+      },
+      {
+        "id": "20261029-cannondale-mavic",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/10/cannondale_mavic.jpg",
+        "headline": "【経営メモ・市場／国内・10/23〜年末】キャノンデール×マヴィック『同時購入で最大13万500円お得』——完成車×ホイールの“抱き合わせ値引き”で年末商戦に布石",
+        "layer1": "キャノンデールが、対象ロードバイクとマヴィックのホイールを同時購入すると通常合計から最大13万500円お得になる「Cannondale × Mavic SPECIAL BUNDLE」を10/23(金)〜年末で実施する。",
+        "layer2": "新車単体の値引き合戦ではなく「完成車＋ホイールのセットで客単価を上げつつお得感を出す」手法＝縮む市場での常套手段。店視点では、ホイールのアップグレード提案を“買う瞬間”に差し込める点が肝だ。中華カーボンの実売価格と並べて検討される局面でもある。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ",
+            "u": "https://www.cyclesports.jp/news/shop/171292/",
+            "d": "2026-10-26"
+          }
+        ],
+        "status": "確定＝最大13万500円引き・期間10/23〜年末"
+      },
+      {
+        "id": "20261029-igpsport-binavi",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/10/BiNavi_Ultra_2.jpg",
+        "headline": "【パーツ・新製品／国内・10/27】iGPSPORT最上位サイコン『BiNavi Ultra』——3.7インチ＆マップル地図搭載でナビ強化、“高価なガーミン”への中華コスパ対抗",
+        "layer1": "中国iGPSPORTのフラッグシップGPSサイクルコンピューター「BiNavi Ultra（バイナビ ウルトラ）」が国内登場。3.7インチの大画面に、日本の「マップル」地図を搭載してナビ機能を強化した。",
+        "layer2": "直前にガーミンが“音声操作”のEdge 1060を国内12.8万円で出した流れへの対抗軸。国産地図の搭載は国内ユーザーに刺さる差別化で、中華デバイスが「安かろう」から「使えるナビ」へ進化している。価格・電池持ちなどの実測は要確認だが、サイコン選びの選択肢が確実に広がった。※国内価格・スペック詳細は要確認。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ",
+            "u": "https://www.cyclesports.jp/news/new-product/171303/",
+            "d": "2026-10-27"
+          }
+        ],
+        "status": "確定＝BiNavi Ultra国内登場・マップル地図搭載／曖昧＝国内価格・バッテリー実測"
+      },
+      {
+        "id": "20261029-hunt-bf-guarantee",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/ZGsYe4pdf7qqnRaoMGjiVb-2000-80.jpg",
+        "headline": "【ホイール・買い時／10/27】ハントが『ブラックフライデー価格保証』——今ホイールを買っても60日内に値下げされれば差額返金、“待たずに買える”仕掛け",
+        "layer1": "英Huntが、ブラックフライデー前に同社ホイールを買っても、60日以内に値下がりすれば差額を返金する「価格保証」を打ち出した。「今欲しい人は待たなくていい」という販売施策だ。",
+        "layer2": "裏を返せば、年末商戦に向けてホイールは“値下げ前提”の空気ということ。中華カーボン（8LIEN/CRW等）と比較検討する人にとっては、ブランド側がここまで譲歩する＝実売の底が近いサイン。買い時は「今の価格＋返金保証」か「年末の底値」かの二択になってきた。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/deals/need-new-wheels-now-dont-hesitate-as-hunt-guarantees-they-will-refund-the-difference-if-your-wheels-get-cheaper-before-black-friday",
+            "d": "2026-10-27"
+          }
+        ],
+        "status": "確定＝60日以内の値下げ差額返金を提示"
+      },
+      {
+        "id": "20261029-bs-safety-survey",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/10/BS_accident.jpg",
+        "headline": "【初中級・公道の安全／国内・10/28】ブリヂストン調査『中学生の12%が自転車事故を経験、約4割が保護者に伝えず』——青切符時代、Xでも絶えない“公道の危うさ”を数字で",
+        "layer1": "ブリヂストンサイクルが関東の中学生1249人に調査。12%が中学生になってから自転車利用中の交通事故を経験し、そのうち約4割が保護者に伝えていなかったと公表、親子向けの交通安全動画も公開した。",
+        "layer2": "子ども世代の“隠れ事故”は、2026年4月施行の青切符（16歳以上）やヘルメット努力義務の議論と地続きだ。初中級ローディーにとっても、幅寄せ・一時不停止などはXで定番の論点＝自衛（車道の位置取り・ライト・ヘルメット）を見直す好機。※Xの個別事例は要裏取りで、ここでは一次＝ブリヂストン調査を主役に据えた。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ",
+            "u": "https://www.cyclesports.jp/news/others/171398/",
+            "d": "2026-10-28"
+          }
+        ],
+        "status": "確定＝調査結果（12%・約4割）／曖昧＝Xの個別言及は要裏取り"
+      },
+      {
+        "id": "20261029-cofidis-zwift",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/kRZ9c6CBm4N3BZT7ufpmyU-2100-80.jpg",
+        "headline": "【初中級・室内トレの今／10/28】『Zwiftからプロへ』——コフィディスがeスポーツ世界選2位の22歳と2年契約、“画面の中の速さ”が本物の契約に",
+        "layer1": "仏コフィディスが、eスポーツ（Zwift）の世界選手権で2度の準優勝を誇るブラジルのガブリエラ・ゲラ（22）と2年契約。室内のバーチャルレースからプロ入りする新しい道筋だ。",
+        "layer2": "ヴァイン（上掲）もZwift出身で、“室内トレ→プロ”はもはや例外でなく潮流に。初中級への含意は「室内トレは単なる代替でなく、実力を測り伸ばす場」。この冬スマートトレーナーを始めるなら、ズイフトのレース機能は続ける動機づけにもなる（器材より“続け方”が肝、は従来どおり）。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/from-zwift-to-the-pro-ranks-cofidis-sign-double-esports-world-championships-runner-up/",
+            "d": "2026-10-28"
+          }
+        ],
+        "status": "確定＝2年契約"
+      },
+      {
+        "id": "20261029-beshir-cx",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/5C6xZakwwXMFyEtQA4AJSn-2000-80.jpg",
+        "headline": "【レース・CX／人間ドラマ・10/28】19歳トフィク・ベシルが『練習中の大落車』から病院で闘病——米CXDトレック勢が支援、レース続行の是非も問う",
+        "layer1": "シクロクロスの19歳トフィク・ベシルが練習中の激しい落車で負傷し、病院で回復途上にある。チームメイト（米CXD Trek Bikes）は支援を続け、オハイオのKings CXでの出走是非を自問しつつ、Major Taylor Cross Cupのエリートを席巻した。",
+        "layer2": "今季はCX界で心臓・身体のトラブル（不整脈のノルベール・リベロール、脚痛のジェリら）や事故の報が相次ぐ。若い才能の重傷は「泥と高強度のCX」のリスクを改めて突きつける。走るべきか否かの葛藤を抱えつつ結果で応えたチームの姿が、競技の“人間くささ”を映す。※ベシルの容体の詳細は要続報。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/he-has-a-very-long-way-to-go-19-year-old-tofik-beshir-continues-recovery-in-hospital-from-horrific-training-crash-as-cxd-trek-bikes-teammates-offer-support-with-endless-supply-of-bracelets/",
+            "d": "2026-10-28"
+          }
+        ],
+        "status": "確定＝落車で入院・回復途上／曖昧＝復帰時期は不明"
+      }
+    ]
+  },
+  {
     "date": "2026-10-28",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ロードは『移籍と機材の総入れ替え』の秋——シマノが通期営業益を今年初の上方修正(470→543億)、中華Pardusがプロの機材に名乗り(報道)、Soudalはスペシャ→メリダへ。レースは冬のCX本格化(欧州選手権11/7ゼダム)とファンエンペルの約1年ぶり復帰、2027ジロは『クライマーのジロ』の前評判。ガーミンの音声サイコンと冬の室内トレまで。",
     "cards": [
