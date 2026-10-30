@@ -1,5 +1,231 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-10-31",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ロードはオフの地殻変動——ツール区間覇者トゥーンスが移籍先見つからず引退、ポガチャルは2027『ブエルタ志向』、ベルギーは泥(シクロクロス)の季節へ。国内はXで『ロードの危険運転』論争が再燃しています。新鮮ネタ優先で質重視に絞りました。",
+    "cards": [
+      {
+        "id": "20261031-teuns-retire",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/VYW6zteobPhofbenY29YrV-2560-80.jpg",
+        "headline": "【🔥今日の一本・レース／人間ドラマ・10/30】2019年ツール区間覇者ディラン・トゥーンスが引退——『まだ戦えると思っていた』、2027年の移籍先が見つからず34歳で区切り",
+        "layer1": "ベルギーのディラン・トゥーンス(Dylan Teuns)が現役引退を発表。2019年ツール・ド・フランス第6ステージ(ラ・プランシュ・デ・ベル・フィーユ)の勝者で、2022年フレーシュ・ワロンヌも制した実力者だが、2027年の所属先が決まらず『本当は続けたかった』と語った。",
+        "layer2": "椅子取りゲームの“割を食った”側。トゥーンスは『近年、自分に過度なプレッシャーをかけすぎた』とも振り返り、気持ちの面でも区切りをつけた。登坂もアルデンヌ系クラシックもこなす万能型だが、30代半ば×高めのサラリー帯は、若手偏重・予算圧縮が進むいまの移籍市場で最も椅子が消えやすい層。先日の19歳セイシャス(将来安泰組)と対で読むと、“才能だけでは残れない”プロの残酷さが見える。※所属チーム遍歴の細部は媒体により表記差あり。",
+        "sources": [
+          {
+            "t": "Cyclingweekly",
+            "u": "https://www.cyclingweekly.com/racing/tour-de-france-stage-winner-retires-after-failing-to-find-team-for-2027",
+            "d": "2026-10-30"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/in-recent-years-i-put-too-much-pressure-on-myself-failed-search-for-a-new-team-ends-in-retirement-for-former-la-fleche-wallonne-winner-dylan-teuns/",
+            "d": "2026-10-30"
+          }
+        ],
+        "status": "確定＝トゥーンスが引退を表明・19年ツール区間勝利／22年フレーシュ・ワロンヌ勝者・2027所属先が見つからず。曖昧＝引退後の役割は未公表。"
+      },
+      {
+        "id": "20261031-pogacar-vuelta2027",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/4vQULftgQxCeAqbtXSmKw4-2560-80.jpg",
+        "headline": "【レース・来季プラン／10/30】ポガチャル、2027年は『ジロよりブエルタ』が濃厚——代理人カレラが示唆、“やり残した宿題”とは",
+        "layer1": "ポガチャルの代理人アレックス・カレラが、2027年のグランツール2戦目について『ジロ・デ・イタリアよりブエルタ・ア・エスパーニャの可能性が高い』と示唆。ツール通算5勝目を狙う軸は不変で、ブエルタは“unfinished business(やり残し)”と位置づけられている。",
+        "layer2": "ポガチャルはブエルタ総合未勝利で、キャリアの空白を埋める意味がある。一方ジロは未出場で“全グランツール制覇”の魅力もあるが、来季は2027ツールのコース(TT多めでライバル有利とされる)への備えが最優先。つまりブエルタは、本番ツール前の“実戦的な負荷”として選ばれる筋だ。確定スケジュールは冬のチーム合宿後(例年12〜1月)に出ることが多く、現時点はあくまで代理人の見通し。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/unfinished-business-vuelta-return-more-likely-for-tadej-pogacar-in-2027-than-giro-says-agent-carera/",
+            "d": "2026-10-30"
+          }
+        ],
+        "status": "確定＝代理人がブエルタ志向を示唆・ツール最優先は不変。曖昧／※要裏取り＝正式日程は未発表(代理人コメント段階)・ジロ回避は確定ではない。"
+      },
+      {
+        "id": "20261031-vanaert-cx",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/yKuc59iCC2G7MBtsdPu8mS-2560-80.jpg",
+        "headline": "【レース・冬のCX／10/30】ファンアールト、今冬のシクロクロス参戦は『本人も未定』——ただし“地元開催の世界選”は見逃せない誘惑",
+        "layer1": "ワウト・ファンアールトが、今季(2026-27)のシクロクロス参戦について『まだ決めていない』と明言。ロードの主軸は揺るがないが、地元開催とされる世界選手権だけは“出る価値がある”と心を残している。",
+        "layer2": "ファンアールトのCXは近年“数戦だけ”の限定参戦が定番で、全日程を走る気配は薄い。鍵は2027年CX世界選が地元(ベルギー)開催とされる点——地元の大観衆の前なら、最小限の準備でも出てくる動機になる。ファンデルプールも同様に限定参戦の見込みで、序盤戦はナイスら“CX専業勢”が主役になりそう。※2027世界選の開催地・日程の細部、本人の参戦可否はいずれも流動的(要裏取り)。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/wout-van-aerts-cyclo-cross-plans-not-set-in-stone-but-home-world-championships-may-be-too-good-to-pass-up/",
+            "d": "2026-10-30"
+          }
+        ],
+        "status": "確定＝ファンアールトは参戦可否を未決定・地元世界選に意欲。曖昧／※要裏取り＝具体的な出走レースと2027世界選会場の詳細は未確定。"
+      },
+      {
+        "id": "20261031-cx-watch-guide",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/WpT8z7AZr3KBsnuSCiikMb-2100-80.jpg",
+        "headline": "【初中級・観戦入門／10/30・冬開幕】シクロクロス2026-27の見方——いつ・どこで・誰を観る? ロードのオフを10倍楽しむ“泥の祭り”ガイド",
+        "layer1": "Cyclingnewsが2026-27シクロクロス・シーズンの観戦ガイド(配信・放送・日程)を公開。ワールドカップやスーパープレスティージュ、X2Oといったシリーズが冬の週末を埋め、クライマックスは冬の世界選手権。ロードがオフのこの時期、CXは“今いちばん観られる最高のレース”だ。",
+        "layer2": "CXは1周3km前後の周回を40〜60分、泥・砂・激坂・階段で走る短時間決戦——初めてでも展開が追いやすいのが魅力。主役はナイス、限定参戦のファンデルプール／ファンアールト、女子はファスやブラントら。機材面の見どころは“32mm級の太タイヤ×低圧(1.5気圧前後)×チューブレス”で、ここはロードの太タイヤ・低圧トレンドの実験場でもある。国内は配信中心になりやすいので、まずは週末のワールドカップから入るのがおすすめ。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/cycling-culture/streaming/how-to-watch-cyclo-cross-live-streams-tv-channels-and-schedule-for-all-races-and-major-championships-during-the-2026-27-season/",
+            "d": "2026-10-30"
+          }
+        ],
+        "status": "確定＝CNが2026-27シーズンの観戦ガイドを公開・主要シリーズと配信情報を掲載。曖昧＝国内での具体的な視聴手段・放映権は各配信を要確認。"
+      },
+      {
+        "id": "20261031-bahrain-factor",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/JT7sdUYwmghJoW6AGRci2k-2560-80.jpg",
+        "headline": "【経営メモ・市場／大手ブランドの明暗・10/30】ビアンキがバーレーン・ヴィクトリアスと『1年で』決別→2027はファクターへ——名門の電撃撤退、3年で3社目のバイク供給",
+        "layer1": "バーレーン・ヴィクトリアスのバイク供給が、わずか1年でビアンキからファクター(Factor)へ切り替わると報じられた。ビアンキは“即時終了”で離脱。同チームはメリダ→ビアンキ→ファクターと、3年で3社目のバイクスポンサーになる。",
+        "layer2": "ショップ目線の読み筋は2つ。①名門ビアンキがワールドツアー復帰(2026)からわずか1年で姿を消す＝プロ供給は“看板を出すだけ”では続かない時代で、露出戦略・採算がシビアになっている。②ファクターの復帰は、ワールドツアーでの英系ブランドの存在感を押し上げる。チームの機材が毎年変わると、型落ち在庫・補修パーツ・ユーザーのブランド信頼に影響が出やすく、“プロ供給＝安泰”とは限らない点は仕入れ判断の教訓になる。※金銭条件・契約年数の詳細は未公表。",
+        "sources": [
+          {
+            "t": "Cyclingweekly",
+            "u": "https://www.cyclingweekly.com/racing/bianchi-end-partnership-with-bahrain-victorious-with-immediate-effect-after-one-year-team-to-ride-factor-bikes",
+            "d": "2026-10-30"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/bahrain-victorious-welcome-third-bike-sponsor-in-three-years-as-factor-returns-to-the-mens-worldtour-peloton/",
+            "d": "2026-10-30"
+          }
+        ],
+        "status": "確定＝ビアンキが1年で離脱・2027はファクター・3年で3社目。曖昧＝契約金/年数などの条件は非公表。"
+      },
+      {
+        "id": "20261031-peyroton-epo",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/acJVA9tvC9aXErMQ3PPPfT-2100-80.jpg",
+        "headline": "【トレンド・アンチドーピング／10/30】パラサイクリング世界/パラリンピック王者ペイロトン=ダルテが『EPO陽性』で暫定資格停止——“きれいな競技”への逆風",
+        "layer1": "パラサイクリングの王者トマ・ペイロトン=ダルテ(仏)が、EPO(エリスロポエチン)陽性で暫定的に資格停止となった。トップ選手の違反は、近年“ドーピングは過去の話”という空気が広がっていた界隈に冷や水を浴びせた。",
+        "layer2": "EPOは持久系で“古典的だが効く”禁止物質。暫定停止は確定処分ではなく、B検体の分析や弁明の手続きが続く段階で、現時点では結果が覆る可能性も残る。ただパラ競技のスター選手という点で衝撃は大きい。『ドーピング観がこの10年で様変わりした』という議論(CNも特集)の最中だけに、“信じたい”心理と現実のギャップが改めて突きつけられた。※最終処分・本人の反論は今後の続報待ち。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/doping/paralympic-champion-cyclist-thomas-peyroton-dartet-provisionally-suspended-after-positive-epo-test/",
+            "d": "2026-10-30"
+          }
+        ],
+        "status": "確定＝EPO陽性で暫定資格停止。曖昧／※続報待ち＝最終処分・本人の反論は未確定。"
+      },
+      {
+        "id": "20261031-tca-survey",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/WjkvTreZYtwMqtqU3WksF5-2100-80.jpg",
+        "headline": "【トレンド・女子の現実／10/30】『契約は給料だけの話じゃない』——選手会TCAの2026年調査、女子プロの不安は“経済的不安定・健康・安全”",
+        "layer1": "選手会The Cyclists' Alliance(TCA)の2026年ライダー調査が公開。女子プロの主要な不安として、経済的不安定さ、健康・安全の問題が上位に挙がった。『契約は給料以上のもの(安心・環境)』という訴えだ。",
+        "layer2": "最も厳しいのは下部カテゴリー。コンチネンタル級では“75%が無給”、定期的なメディカルチェックを受けられるのは“17%だけ”という数字が示された。トップ(ワールドチーム)では最低賃金制度が整い始めた一方、ピラミッドの土台は依然として“自腹とバイト”の世界だ。女子レースの人気が上がっても、放送・スポンサー収益が末端まで回っていない構造が浮き彫りになった。安全面(落車・コース)の不安も、先日のターリング選手の死を受けて切迫度が増している。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/a-contract-is-about-more-than-salary-the-cyclists-alliance-2026-rider-survey-finds-financial-insecurity-health-and-safety-issues-among-the-main-concerns-of-the-womens-peloton/",
+            "d": "2026-10-30"
+          }
+        ],
+        "status": "確定＝TCA2026調査で経済的不安定・健康/安全が主要懸念、コンチ級は75%無給/17%のみ定期検診。曖昧＝回答者数・手法の細部は原文参照。"
+      },
+      {
+        "id": "20261031-jp-danger-x",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://image.news.livedoor.com/newsimage/stf/f/6/f6165_1787_fe1553af430d82ab5c166d6cd1675ef1.jpg",
+        "headline": "【経営メモ・市場／国内・Xバズ起点】『ロードの危険運転多すぎ』がXで再燃——“にわか”“ルック乗り”批判と、青切符半年の空気",
+        "layer1": "いまX(旧Twitter)で、ロードバイクの危険運転・マナーを巡る論争が再燃している。車道のすり抜けや後方不確認、ニアミス動画をきっかけに『危険運転多すぎ』『にわか/ルック乗りが…』といった厳しい声が集中(ライブドアニュース等が“まとめ”として報道)。",
+        "layer2": "裏取りの要点——(1)制度面は確定：2026年4月から16歳以上に“青切符”(反則金)が導入され、スマホ使用1.2万円などが科される。半年が過ぎ、取り締まりと世間の目が現実に厳しくなった。(2)“歩道が全面禁止になった”は誤解で、条件付き走行は依然OK(解説記事が訂正)。(3)バズの個別投稿・炎上規模はX由来で一次確認が難しく、数は盛らない。ショップ目線では、この空気は“安全・ルール”を入口にした接客・初心者教育(ライト/ベル/車道左側)の好機で、ネガ(自転車叩き)をポジ(正しく楽しむ提案)に変える売り場トークに落とせる。",
+        "sources": [
+          {
+            "t": "Yahoo!リアルタイム検索(バズまとめ)",
+            "u": "https://search.yahoo.co.jp/realtime/search/matome/0267bd409e434b7282b97eae4376c71b-1791343800",
+            "d": "2026-10"
+          },
+          {
+            "t": "ライブドアニュース",
+            "u": "https://news.livedoor.com/article/detail/25235458/",
+            "d": "2026-10"
+          },
+          {
+            "t": "ALTERLOCK(2026青切符解説)",
+            "u": "https://alterlock.net/ja/2026-traffic-law-roadbike-points",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝青切符制度(26年4月〜)と半年経過の取り締まり強化、歩道“全面禁止”は誤り。※Xで話題・要裏取り＝炎上規模や個別投稿の真偽は一次未確認(Xはあくまで入口)。"
+      },
+      {
+        "id": "20261031-china-spec-over-price",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/03/taipei26_bike_685.jpg",
+        "headline": "【初中級・中華の今／冬商戦に乗せて】中華カーボン完成車は『価格から装備へ』——“安いから買う”の次に来た選び方、冬の買い時に効く見極め4点",
+        "layer1": "台北サイクル2026やbuychari等の国内解説で繰り返し指摘される潮流——中国系メーカーの完成車・ホイールが、“価格の安さ”だけでなく上位グレードのブレーキ/コンポや装備の充実で勝負する段階に入った。冬商戦で“初めての一台/二台目”を選ぶいま、見極めの軸が変わってきている。",
+        "layer2": "初中級の実務チェックは4点。①フレーム単体か“装備込み”完成車か(同価格でも中身が別物)。②ブレーキ/コンポのグレード(105/Rival以上かで走行安定とリセールが変わる)。③ホイール内幅と対応タイヤ(内幅21mm以上＝28〜32C時代に適合か)。④保証・補修・日本語サポートの有無(ここが中華最大の不安点で、実店舗の価値が出る)。うち(8LIEN/CRW/GOOSYNN/NEPEST/FARSPORTS/PARTICLE)のように“装備と保証で選べる”路線なら、価格優位だけに頼らず提案できる。※鮮度注記：単発ニュースではなく冬商戦に合わせた中級者向けの“買い方”整理。各社の最新スペック・在庫は公式/入荷状況を要確認。",
+        "sources": [
+          {
+            "t": "サイクルスポーツ(台北サイクル2026)",
+            "u": "https://www.cyclesports.jp/news/event/157104/",
+            "d": "2026-03"
+          },
+          {
+            "t": "buychari JOURNAL(2026注目ロード)",
+            "u": "https://journal.buychari.com/2026-latest-road-bikes/",
+            "d": "2026-08"
+          },
+          {
+            "t": "Velofanatics(Best Chinese Carbon Road Bikes 2026)",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-road-bikes-2026/",
+            "d": "2026"
+          }
+        ],
+        "status": "参考＝国内解説/台北サイクルが示す“装備充実”の潮流(普遍的な選び方ガイド)。※鮮度注記：ニュースではなく買い方の整理・数値やスペックは各公式を要確認。"
+      },
+      {
+        "id": "20261031-project-echelon-2027",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/L6E9SGN6SfGAH6RAAZdZJJ-2000-80.jpg",
+        "headline": "【トレンド・若手育成／10/30】全米クリテの新星エルフィングストンら『3人の全米王者』——育成強化のプロジェクト・エシュロンが2027体制を発表",
+        "layer1": "米コンチネンタルのプロジェクト・エシュロン・レーシングが、2027年に“より若い”布陣を発表。中心は全米クリテリウムのスター、ルーク・エルフィングストン(『マシューズ型の選手』と評される)ら、3人の全米チャンピオンを擁する若手主体のチームだ。",
+        "layer2": "欧州遠征を増やしつつ、シーズン終盤は全米UCIレース(アームドフォース・クリテ、バッテンキル、フィラデルフィア・サイクリング・クラシック)を“特に重視”するという。背景には米国レースシーンの再興と、育成チームからワールドツアーへの“橋渡し”需要。クリテ主体の選手が本場欧州のロードでどこまで通用するか——“Zwift発→プロ”の流れ(先日のコフィディス例)と並び、プロへの入口が多様化している証しだ。マサル向けの読み筋は、こうした若手が履く機材(特に新興・中堅ブランド)がどこか、で来季のトレンドが透ける点。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/uspro-criterium-star-luke-elphingstone-a-michael-matthews-kind-of-rider-among-three-national-champions-featured-in-younger-project-echelon-racing-squad-for-2027/",
+            "d": "2026-10-30"
+          }
+        ],
+        "status": "確定＝プロジェクト・エシュロンが2027体制(若手主体・全米王者3人)と終盤の米UCIレース重視を発表。曖昧＝個別選手の移籍先・上位昇格は今後。"
+      }
+    ]
+  },
+  {
     "date": "2026-10-30",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ロードは『シーズン閉幕→オフの地殻変動』モード——ヴェロドール候補発表、ロリッチの椅子取り、ズイフトのAI課金、そしてベルギーは泥の秋。新鮮ネタ優先で質重視に絞りました。",
     "cards": [
