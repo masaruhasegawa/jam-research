@@ -1,5 +1,236 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-11-01",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。オフの移籍・引退ドラマが続く中、ポガチャルが落車負傷の深刻さを自ら告白。中国スーパーチームは高級サブブランドで“安さ”卒業、国内は2027モデルの値付けが二極化、そしてさいたまクリテは11/15に迫りました。鮮度優先で質重視に絞っています。",
+    "cards": [
+      {
+        "id": "20261101-pogacar-vertebrae",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/WLdKHUDyDzyodi3JrzKi6j-2560-80.jpg",
+        "headline": "【🔥今日の一本・レース／人間ドラマ・10/31】ポガチャル、ブエルタ落車で『椎骨3カ所骨折』だったと告白——「生きていられて本当に幸せ」、当初発表より深刻だった",
+        "layer1": "8月のブエルタ第8ステージの大落車について、タデイ・ポガチャルが改めて負傷の深刻さを語った。鎖骨骨折・脳震盪に加え、首〜背の椎骨(vertebrae)に複数の骨折があり、本人は「いま振り返ると、生きていられて本当に幸せだ」と述べた。",
+        "layer2": "発生直後(8月末)にUAEチームが公表したのは『頸椎C7の安定骨折＋左鎖骨骨折＋脳震盪』。今回ポガチャル本人が『椎骨3カ所』と踏み込んだ＝当初の対外発表より負傷が広かった可能性がある。幸い脊髄損傷はなく後遺症の兆候もなし。来季は復帰初戦にUAEツアーを想定し、2027はツール最優先で始動する方針。※「椎骨3カ所」は本人証言ベースで、どの椎骨かなど医学的内訳は媒体により表現差があり、ここは要裏取り。",
+        "sources": [
+          {
+            "t": "Cyclingnews(本人告白)",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/tadej-pogacar-reveals-three-fractured-vertebrae-after-vuelta-crash-im-just-happy-to-be-alive/",
+            "d": "2026-10-31"
+          },
+          {
+            "t": "Escapecollective(当初の負傷報)",
+            "u": "https://escapecollective.com/pogacar-suffers-fractured-vertebra-broken-collarbone-and-concussion-in-vuelta-crash/",
+            "d": "2026-08-29"
+          }
+        ],
+        "status": "確定＝本人が負傷を語り直し、復帰方針を表明/曖昧＝『椎骨3カ所』の医学的詳細(※要裏取り)"
+      },
+      {
+        "id": "20261101-bardiani-uci",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/kuFKjsgyvjokNf8kWvgm4Z-1024-80.jpg",
+        "headline": "【トレンド・業界／10/31】「彼らは自転車を壊した」——バルディアーニ代表がUCIを痛烈批判、1982年以来ほぼ皆勤のジロ出場権を失い『2年で店じまい』示唆",
+        "layer1": "伊プロチーム、バルディアーニCSF-7セイバーのブルーノ・レヴェルベリ代表が、2026年UCIランキング31位(トップ30圏外)に沈んで2027年ジロ・デ・イタリアの招待(ワイルドカード)を失い、UCIを「無能」「自転車を壊した」と痛烈に批判した。",
+        "layer2": "槍玉はUCIのポイント制。「逃げで栄光を狙うより、トップ10狙いの安全運転を助長する」と主張。1982年以来ほぼ毎年ジロに出てきた老舗が、わずか1枠差で弾かれた格好だ。代表は「我々のプロジェクトは“やめること”。2年以内の活動停止も考えている」とも語った。小規模チームがポイント制の下で存続困難になる構図は、若手の受け皿が細る業界の地殻変動の一例。※最終的なチーム存続の判断は未確定。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/theyve-destroyed-cycling-bardiani-csf-7-saber-boss-gives-scathing-assessment-of-the-uci-after-italian-team-unable-to-race-giro-ditalia-in-2027/",
+            "d": "2026-10-31"
+          },
+          {
+            "t": "Escapecollective",
+            "u": "https://escapecollective.com/cycling-has-no-future-bardiani-boss-damns-uci-points-system-that-may-herald-teams-demise/",
+            "d": "2026-10-31"
+          }
+        ],
+        "status": "確定＝トップ30圏外で2027ジロ招待を逸し、代表が批判発言/曖昧＝チーム存続の最終判断"
+      },
+      {
+        "id": "20261101-riberolle-return",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/pdDy8Mibem8y85Tu6XPniA-1024-80.jpg",
+        "headline": "【レース・人間ドラマ／10/31・続報】心臓の不整脈で今季を絶ったベルギーCX王者リベロールが『練習復帰』——「本当に勝利のように感じる」",
+        "layer1": "10月下旬に心臓の不整脈で今季打ち切り＆手術を受けたベルギーのシクロクロス王者マリオン・ノルベール・リベロールが、トレーニング復帰を報告。「(また走れることが)本当に勝利のように感じる」と喜びを語った。",
+        "layer2": "10/26に当番組でも『人生には別の計画があった』と今季断念を伝えた選手の、嬉しい続報。手術で不整脈を抑え、いまは医師管理下で負荷を戻している段階だ。ペロトン(不整脈で引退)やスケルモーセ(心臓)など、近年相次ぐ“選手の心臓問題”の中で久々に前向きなニュース。※レース復帰の時期は未発表。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/it-really-feels-like-a-victory-belgian-cyclo-cross-champion-returns-to-training-following-surgery-for-cardiac-arrhythmias/",
+            "d": "2026-10-31"
+          }
+        ],
+        "status": "確定＝練習復帰を本人が報告/曖昧＝レース復帰の時期は未定"
+      },
+      {
+        "id": "20261101-visma-vanbelle",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/GqR3yDWLb6czrKpcLUPjbU-1024-80.jpg",
+        "headline": "【トレンド・移籍／10/31】ヴィスマを去る育成出身選手が『もっと良いやり方があったはず』——伸び悩みを悔やみ2027はコンチネンタルへ降格",
+        "layer1": "ヴィスマ・リースアバイクの育成出身選手(オランダのローウェ・ファンベレ)が、2027年の契約更新に至らず下位カテゴリー(コンチネンタル)へ移る。「物事はもっと良いやり方ができたはずだ」と育成の停滞を悔やんだ。",
+        "layer2": "ヴィスマは今オフ、タイトルスポンサー探し(UCI登録の暫定名は『Yellow B』)や主力の去就が続き、「特定タイプの選手しか伸びない」との批判もあった。長年の“プロジェクト”だった若手がワールドツアーを離れ格下へ、というのは強豪の育成モデルの綻びを映す。椅子取りの秋、才能だけでは残れない現実の別の一例だ。※移籍先チーム名は媒体により表記差あり。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/i-think-things-could-have-been-done-better-visma-lease-a-bike-departee-regrets-slow-development-on-dutch-team-as-he-drops-to-continental-level-for-2027/",
+            "d": "2026-10-31"
+          }
+        ],
+        "status": "確定＝ワールドツアーを離れコンチへ・本人コメント/曖昧＝移籍先の正式チーム名は未確認"
+      },
+      {
+        "id": "20261101-matic-s68",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://mmx.prnewswire.com/media/MS2019415/20261023004136EDT_image_1.jpg?id=OA3036239",
+        "headline": "【ホイール・中華の高級化／10/23】中国スーパーチームが高級サブブランド『MATIC』始動——旗艦S68は1,348g・68mmで、US$2,999のハイエンド参入",
+        "layer1": "カーボンホイールのSuperteam(2015年創業・中国)が、プレミアム新ブランド「MATIC」を立ち上げ、フラッグシップの一体成型カーボン「S68」を発表した。重量1,348g(前632/後716g)、リム68mm深・外幅28mm・内幅21mm、前後とも16本スポーク。",
+        "layer2": "価格はUS$2,999(約45万円前後)で、10/25からの期間限定はUS$2,599。注目は『中国勢が“安さ”でなく“高級”で勝負し始めた』こと。中華カーボンは7〜10万円の廉価帯・15〜20万円の上位帯に続き、ついに30万円超のハイエンドにも手を伸ばす三層構造へ向かう。うち(8LIEN/CRW/GOOSYNN等)の立ち位置を『実測性能×価格×アフター』で語る接客が、ますます効く地合いだ。※穴なしリム・一体成型は上位中華の定番技術で、実測インプレは今後の検証待ち。",
+        "sources": [
+          {
+            "t": "PR Newswire(公式リリース)",
+            "u": "https://www.prnewswire.com/news-releases/superteam-wheels-launches-premium-cycling-brand-matic-unveils-flagship-s68-carbon-wheelset-302917929.html",
+            "d": "2026-10-23"
+          },
+          {
+            "t": "bike-memo(中華ホイール価格帯比較)",
+            "u": "https://bike-memo.com/cycle_260118_carbon-wheels/",
+            "d": "2026-01"
+          }
+        ],
+        "status": "確定＝MATIC/S68のスペック・価格(公式)/曖昧＝日本正規流通・第三者実測は未"
+      },
+      {
+        "id": "20261101-saitama-crit",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://prcdn.freetls.fastly.net/release_image/140218/308/140218-308-d66f6cc560dfb847e444122d67b0211b-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+        "headline": "【経営メモ・市場／国内・11/15開催】『2026 ツール・ド・フランスさいたまクリテリウム』は2週間後——フィリプセン＆ギルマイ来日、国内最大級のロード祭りは“来店動機”",
+        "layer1": "さいたま新都心で11/15(日)に「2026 ツール・ド・フランスさいたまクリテリウム」が開催される。海外招聘はジャスパー・フィリプセン(アルペシン)、ビニヤム・ギルマイ(NSN)の出場が決定。14:30〜17:30にJテレ/J SPORTS(オンデマンド生配信あり)で中継される。",
+        "layer2": "店視点では、年に一度“普段ロードに触れない層”が本物のWT選手を生で見る日＝関心が跳ねるタイミング。グリーンジャージ常連フィリプセンのスプリントは初心者にも刺さる絵だ。前日・当日は食のイベント「さいたまるしぇ」も併催で人出増。今年はGMOアリーナさいたまの改修でコースはアリーナ外周を回る変則レイアウト。観戦をきっかけにした入門相談・試乗誘導が効く“商機の一日”。※ポガチャルの来日は現時点で発表なし(出場は2023年)。",
+        "sources": [
+          {
+            "t": "さいたま市(出場選手・TV放送発表)",
+            "u": "https://www.city.saitama.lg.jp/006/014/008/003/015/004/p132400.html",
+            "d": "2026-07-24"
+          },
+          {
+            "t": "PR TIMES(大会開催告知)",
+            "u": "https://prtimes.jp/main/html/rd/p/000000308.000140218.html",
+            "d": "2026-07"
+          }
+        ],
+        "status": "確定＝11/15開催・フィリプセン＆ギルマイ出場・中継/曖昧＝追加招聘選手の顔ぶれ"
+      },
+      {
+        "id": "20261101-jp-2027-pricing",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/09/2027_TCR_Advanced_3_Front.jpg",
+        "headline": "【経営メモ・市場／国内・秋商戦の値付け】2027モデルは『エントリー踏ん張り×ミドル以上は値上げ』の二極化——ジャイアントTCRは29.7万に“抑え”、各社は数千〜1.3万円UP",
+        "layer1": "秋の2027モデル出そろいで、国内の値付けが二極化している。ジャイアントは新型TCRアドバンスド3(ティアグラ)を29万7,000円に“抑えた”一方、継続8車種は9月から改定、トレックやパナソニック(電アシ+3,000〜13,000円、9/28発表)など各社は値上げ基調。ブリヂストンも為替・原材料高を理由に10/1改定を実施した。",
+        "layer2": "店の構えとしては、『入門価格はまだ踏ん張っているが、ミドル以上は確実に上がる』という流れを前提に在庫・提案を組むのが得策。円安・原材料高が主因で、来季もこの基調は続く公算。マサル目線では、30万円前後に“抑えた”完成車が増えるほど、同価格帯で装備が1枚上の中華カーボン完成車との比較がしやすくなる＝接客の切り口が立つ。※各社の対象車種・正確な改定額は公式PDFで要確認。",
+        "sources": [
+          {
+            "t": "cyclesports(ジャイアントTCR 2027)",
+            "u": "https://www.cyclesports.jp/news/new-product/167861/",
+            "d": "2026-09-04"
+          },
+          {
+            "t": "ブリヂストンサイクル(価格改定告知)",
+            "u": "https://www.bscycle.co.jp/info/2026/12326",
+            "d": "2026-09-25"
+          }
+        ],
+        "status": "確定＝各社が2027に向け値上げ/一部はエントリー価格を据え置き・抑制/曖昧＝全車種の改定額"
+      },
+      {
+        "id": "20261101-tubeless-truth",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2024/12/fcs241212-1.jpg",
+        "headline": "【初中級・Xバズ起点／“チューブレスやめとけ”の真実】Xで定期的に燃える『チューブレス論争』を、いま初中級に勧める/勧めないの線引きで整理",
+        "layer1": "Xでは「チューブレスやめとけ」「リムvsディスクはもう価格の話」といった論争が定期的に再燃する。きっかけは“シーラント処理やビード上げが面倒”“ホイールが対応していないと自宅で化けられない”といった体験談。入口はXの声だが、裏を専門店・比較記事で取ると線引きが見える。",
+        "layer2": "裏取りの結論：(1)転がり・乗り心地・耐パンク性ではチューブレスが有利、だが(2)初中級が独力でやるとビード上げ・シーラント管理・出先のトラブル対応でつまずきやすい。だから『対応ホイール＋店で初期施工＋出先はチューブ携行』が現実解。“やめとけ”は多くの場合“独力の運用が難しい”の言い換え。リムvsディスク論争も争点は制動方式より価格高騰——ここは別途、中古・型落ちの賢い買い方で受け止めたい。※X投稿は噂レベル、裏は専門店記事・ランキングで確認。",
+        "sources": [
+          {
+            "t": "cyclesports(ディスク化の経緯)",
+            "u": "https://www.cyclesports.jp/news/others/128972/",
+            "d": "2026-10"
+          },
+          {
+            "t": "mybest(チューブレスタイヤ人気ランキング)",
+            "u": "https://my-best.com/16956",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝チューブレスの一般的な長所・短所/曖昧＝Xの個別投稿の出所(※Xで話題、要裏取り)"
+      },
+      {
+        "id": "20261101-winter-zone2",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2021/01/Road-cyclist-in-winter-ea7527b.jpg?w=1200",
+        "headline": "【初中級・練習の理屈／冬の室内シーズンに乗せて】冬の土台は『ゾーン2が主役』——強度の“配分”が時間より効く、初中級が最初に直す一点",
+        "layer1": "室内シーズン本番。冬の土台づくりは、週1〜2回・60〜120分のゾーン2(会話できる楽なペース＝FTPの約55〜70%／最大心拍の65〜75%)を背骨に据えるのが定番だ。春まで“閾値超え”は基本入れない。",
+        "layer2": "初中級が最初に直すべきは“練習の順番”＝強度の配分。総時間より『楽を楽に、きついを短く』の配分が効く。Zwiftのレースは楽しいが実質ビルド(高強度)で、ベース期に混ぜると土台が濁る。室内は屋外より疲れが溜まりやすいので、質を優先し時間は欲張らない。器材は最小限(バイク＋トレーナー＋扇風機)で十分、“続け方とセッティング”が勝負。",
+        "sources": [
+          {
+            "t": "BikeRadar(冬トレ計画)",
+            "u": "https://www.bikeradar.com/advice/fitness-and-training/how-to-plan-your-winter-training",
+            "d": "2026-10"
+          },
+          {
+            "t": "Cycling UK(初心者の冬トレ)",
+            "u": "https://www.cyclinguk.org/article/winter-training-tips-beginners",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝ゾーン2中心・配分重視は定説/曖昧＝個々のFTP・心拍帯は各自の計測次第"
+      },
+      {
+        "id": "20261101-pogacar-2027cal",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/LsquEF3rLAg5pnkVjzz5wJ-1024-80.jpg",
+        "headline": "【レース・来季プラン／10/31】ポガチャル、復帰初戦は『UAEツアー』——「自分が本当に何を望むか、もう少し分析する時間が要る」、2027全日程は未定でツール最優先",
+        "layer1": "負傷明けのポガチャルが、2027年は復帰初戦にUAEツアーを想定していると明かした。「自分が本当に何を望むか、もう少し考える時間が必要」として、年間カレンダー全体はまだ固めていないが、ツール・ド・フランスが最大目標であることは明言した。",
+        "layer2": "前日報道の代理人筋は『ジロよりブエルタ志向』を示唆していたが、本人の口から出たのは“まず無理をしない立ち上げ”と“ツール最優先”という骨格だけ。落車の重さ(椎骨/鎖骨/脳震盪)を踏まえ、序盤は母国UAEで様子を見る堅実プラン。モニュメントやブエルタ参戦の有無など肉付けは冬の間に詰まる見込み。※グランツール2本目の選択は未確定。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/i-still-need-some-time-to-analyse-what-i-really-want-tadej-pogacar-to-return-to-the-uae-tour-but-2027-race-calendar-still-undecided-with-tour-de-france-the-main-target/",
+            "d": "2026-10-31"
+          }
+        ],
+        "status": "確定＝UAEツアー想定・ツール最優先を本人表明/曖昧＝グランツール2本目など全日程は未定"
+      }
+    ]
+  },
+  {
     "date": "2026-10-31",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ロードはオフの地殻変動——ツール区間覇者トゥーンスが移籍先見つからず引退、ポガチャルは2027『ブエルタ志向』、ベルギーは泥(シクロクロス)の季節へ。国内はXで『ロードの危険運転』論争が再燃しています。新鮮ネタ優先で質重視に絞りました。",
     "cards": [
