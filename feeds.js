@@ -1,5 +1,231 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-11-03",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ロードは完全にオフモード——去就・人間ドラマと、冬の室内＆公道トピックが主役です。レムコは『東京でオフ』、ラフェは『答え』を、PFPは『楽しさ』を探す秋。",
+    "cards": [
+      {
+        "id": "20261103-lafay-answers",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/SMMu2gyTpPT7oExkkv4adb-2000-80.jpg",
+        "headline": "【🔥今日の一本・レース／人間ドラマ・11/2】2023年ツール区間覇者ヴィクトール・ラフェが『まだ答えを探している』——謎の不調で2027年の契約なし、だが引退は否定「今はただ健康を取り戻したい」",
+        "layer1": "フランスのピュンチャー、ヴィクトール・ラフェ(2023年ツール・ド・フランス第2ステージ覇者)が、原因不明の体調不良で今季を棒に振り、2027年のプロ契約が『無い』と明かした。ただし本人は引退を口にせず「まだ答えを探している」。",
+        "layer2": "ブレイクに見えた2023年ツールの区間勝利以降は“悪夢”の連続。2024〜25年はデカトロンCMA CGMで両膝の故障に苦しみ、今季加入のユニベット・ローズ・ロケッツ(蘭)では一度もゼッケンを付けられないまま終わった。本人の言葉は「今はただ健康が良くなることを願っている」——つまり2027の空白は“引退”というより“療養の宣言”に近い。※不調の医学的な正体は未公表。",
+        "sources": [
+          {
+            "t": "Cyclingnews(ラフェ、2027契約なし)",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/im-still-looking-for-answers-victor-lafay-wont-have-a-pro-contract-in-2027-but-not-yet-calling-it-retirement-as-mystery-illness-destroys-his-season/",
+            "d": "2026-11-02"
+          }
+        ],
+        "status": "確定＝2027契約なし・本人は引退を否定／曖昧＝不調の医学的な正体は未公表(※要続報)"
+      },
+      {
+        "id": "20261103-cx-weekend",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-01%2Fcyclocross-thibaunys-69775a4ee18af.jpg",
+        "headline": "【レース・冬本番／今週末CX2連戦】11/5ミッデルケルケ→11/7-8『欧州選手権ゼダム(蘭)』——ベルギーはナイス＆ファントゥーレンハウトが主軸、負傷の前回王者アーツは欠場、VDP/VvA不在の“100段の階段”決戦",
+        "layer1": "コッペンベルグクロス(11/1・ナイス優勝)を終え、泥のシーズンが今週一気に本格化。5日にスーペルプレスティージュ・ミッデルケルケ、7-8日にUEC欧州選手権(オランダ・ゼダム)が続く。",
+        "layer2": "ベルギーは連覇を狙いティボー・ナイスとミカエル・ファントゥーレンハウトを軸に選抜、ただし前回王者トーン・アーツは負傷で欠場。VDP(ファンデルプール)とVvA(ファンアールト)はこの欧州選には不参加で、男子は混戦模様。コースはほぼ3km、名物の『100段の階段』が最大の難所だ。女子はオランダ勢が中心だが、ルクセンブルクのシュライバーが近況好調。※最終スタートリストは直前変更あり。",
+        "sources": [
+          {
+            "t": "idlprocycling(ゼダム欧州選プレビュー)",
+            "u": "https://www.idlprocycling.com/cyclo-cross/2026-european-cyclocross-championships-in-zeddam-the-netherlands-what-you-need-to-know-about-the-first-event-on-the-cyclocross-calendar",
+            "d": "2026-10"
+          },
+          {
+            "t": "Cyclinguptodate(ベルギー選抜・アーツ欠場)",
+            "u": "https://cyclinguptodate.com/cyclocross/thibau-nys-and-michael-vanthourenhout-spearhead-belgian-bid-to-retain-european-crown-without-injured-toon-aerts",
+            "d": "2026-10-26"
+          },
+          {
+            "t": "Domestique(26/27 CXスケジュール)",
+            "u": "https://www.domestiquecycling.com/en/news/26-27-cyclocross-season-overview-schedule-and-results/",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝日程(11/5・11/7-8)・ベルギー選抜・アーツ欠場・VDP/VvA不在／曖昧＝最終スタートリストは直前確定"
+      },
+      {
+        "id": "20261103-remco-tokyo",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/uzSLjjpQYYaSx38bVNtqjE-2560-80.jpg",
+        "headline": "【レース・人間ドラマ／11/2・来日】レムコ・エヴェネプールが『オフを東京で』——ランニングシューズでオフ期も距離を刻む、直前は米でTT調整＆LA五輪コース65km下見",
+        "layer1": "レッドブル1年目を終えたエヴェネプールが、カリフォルニアでの“仕事”を済ませてから日本・東京でオフを過ごし、ランニングで有酸素の土台を維持していることが伝えられた。",
+        "layer2": "米滞在ではスペシャライズド本社(モーガンヒル)でTTポジションを詰め、ロサンゼルスではグリフィス天文台周辺＝2028年LA五輪ロードコースを65km試走。パリ2024で獲った2つの金(ロード＆個人TT)を2年後に“地元同然”のLAで守る布石だ。完全休養ではなく“走って動き続ける”のが彼のオフ流儀。日本のファンには嬉しい来日ニュース。※東京滞在の詳細日程は非公表。",
+        "sources": [
+          {
+            "t": "Cyclingnews(レムコ、東京でオフ)",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/no-rest-for-remco-evenepoel-as-he-keeps-the-off-season-kilometres-ticking-over-with-his-running-shoes-in-tokyo/",
+            "d": "2026-11-02"
+          }
+        ],
+        "status": "確定＝東京でのオフ・ランニング継続・LAコース65km下見／曖昧＝来日の滞在日程の詳細は非公表"
+      },
+      {
+        "id": "20261103-wegelius-ef",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/kGoJqbH5HjAgYND4QXPmGR-1024-80.jpg",
+        "headline": "【トレンド・業界／11/2】EFの名参謀チャーリー・ウェゲリウスが『15年』でチームを去る——元プロ11年→2012年ガーミン加入、スポーツディレクター統括を築いた英国人",
+        "layer1": "EFエデュケーション・イージーポストのヘッド・スポーツディレクター、チャーリー・ウェゲリウス(英)が15年の在籍を経て退任。チームは「素晴らしい旅をありがとう」と惜別を表した。",
+        "layer2": "11年のプロ選手生活の後、2012年に当時のガーミン・シャープでDSキャリアを開始し、現場を束ねる“DS統括”にまで上り詰めた人物。市場が縮む局面で名門の『頭脳』が動くのは、来季の運営・育成方針に影響しうる。チームの“文化”を作る裏方の去就は、選手の移籍と同じくらい大きい。※後任と次の行き先は現時点で未発表。",
+        "sources": [
+          {
+            "t": "Cyclingnews(ウェゲリウス退任)",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/ef-education-easyposts-head-sports-director-charly-wegelius-departs-after-15-years-with-the-team/",
+            "d": "2026-11-02"
+          }
+        ],
+        "status": "確定＝退任・在籍15年・2012年ガーミンでDS開始／曖昧＝後任と移籍先は未発表"
+      },
+      {
+        "id": "20261103-finn-redbull",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/85UYvk8oJxLhw2JnRA6UWX-2000-80.jpg",
+        "headline": "【トレンド・新世代／11/2】19歳ロレンツォ・フィンが『2027レッドブル昇格』——U23無双の超新星、だが本人は「自分にプレッシャーをかけすぎない」",
+        "layer1": "レッドブル・ボーラ・ハンスグローエが、育成“ルーキーズ”の19歳ロレンツォ・フィン(伊)を2027年にトップチームへ昇格させると発表した。",
+        "layer2": "U23で圧倒的な成績を残した逸材だが、本人はWorldTourデビューに向け「自分にプレッシャーをかけすぎてはいけない」と慎重な構え。昇格自体は数カ月前から既定路線で、レッドブルが“次世代の大器”をどう一軍でならしていくかが注目点。焦らせない育成が、潰さずに伸ばす鍵になる。",
+        "sources": [
+          {
+            "t": "Cyclingnews(フィン、2027昇格)",
+            "u": "https://www.cyclingnews.com/pro-cycling/emerging-talents/i-must-not-put-too-much-pressure-on-myself-lorenzo-finn-looks-to-temper-expectations-for-worldtour-debut-after-spectacular-u23-season/",
+            "d": "2026-11-02"
+          }
+        ],
+        "status": "確定＝2027トップチーム昇格・本人コメント／曖昧＝来季の起用・レースプランは未定"
+      },
+      {
+        "id": "20261103-pfp-joy",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/pLdFFxHr2GJiDxQb3Y2VwW-2000-80.jpg",
+        "headline": "【レース・人間ドラマ／11/2・女子】ポーリーヌ・フェランプレヴォが『日常の喜びを失った』——2026ツール・ド・フランス・ファム第8S途中棄権、オフで“自転車の楽しさ”を取り戻す",
+        "layer1": "2025年マイヨジョーヌの女王PFP(ビスマ・リースアバイク)が、2026年のツール・ド・フランス・ファムを第8ステージDNS(出走せず)で終え、「今いちばん大事なのは、自転車に乗る喜びを取り戻すこと」と語った。",
+        "layer2": "MTB・グラベルから転じて掴んだ2025年の頂点。だが同じ“研ぎ澄ました集中”は2026年には実らず、レース外でも『厳しい現実』があったと示唆した。トップ選手でも燃え尽きと向き合う——結果より先に“心”を戻すという素直なメッセージだ。※レース外の『現実』の中身と2027の目標・日程は改めて発表予定。",
+        "sources": [
+          {
+            "t": "Cyclingnews(PFP、オフでリセット)",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-lost-the-joy-of-the-everyday-life-pauline-ferrand-prevot-heads-for-much-needed-off-season-reset-after-tour-de-france-femmes-ended-up-with-nothing-in-2026/",
+            "d": "2026-11-02"
+          }
+        ],
+        "status": "確定＝第8S DNS・本人コメント／曖昧＝レース外の“現実”の詳細と2027計画は未公表"
+      },
+      {
+        "id": "20261103-women-pay",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/DbzYF9VH5QxtikegSqR7Pk-2500-80.jpg",
+        "headline": "【トレンド・女子の経済／11/2】女子WTの『4割超が年€10万(約1,800万円)超』——選手会TCAの年次調査、トップは急伸も下位カテゴリーの低賃金は依然深刻",
+        "layer1": "選手会TCA(The Cyclists’ Alliance)の匿名の年次調査で、女子ワールドツアー選手の40%超が年収€100,000(約1,800万円)超と判明。トップ層の待遇は大きく伸びた。",
+        "layer2": "一方で下位カテゴリー(コンチネンタル等)の低賃金は“懸念レベル”のまま、という二極化が浮き彫りに。先日(10/30報)の同調査では『経済的不安・健康・安全』が女子の不安として挙がっており、今回は“給料”の側面の続報。女子ロードの商品価値は上がっても、恩恵はまだ頂点に偏っている。※金額は調査回答ベースの概算・為替換算は目安。",
+        "sources": [
+          {
+            "t": "Cyclingnews(TCA調査・女子WTの給料)",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/over-40-percent-of-womens-worldtour-riders-earn-more-than-eur100-000-survey-finds/",
+            "d": "2026-11-02"
+          }
+        ],
+        "status": "確定＝トップ層の4割超が€10万超／曖昧＝下位の実額は幅があり概算(※為替換算は目安)"
+      },
+      {
+        "id": "20261103-aokippu-half",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://kuruma-news.jp/wp-content/uploads/2027/05/20260529_jitensya.jpg?v=1780035151",
+        "headline": "【経営メモ・市場／国内・Xバズ起点】自転車『青切符』半年の実態——岩手は半年で39件(NHK10/29)、全国は開始1か月で2,147件、Xでは“取り締まり緩い/厳しい”が定期的に燃える",
+        "layer1": "2026年4月に始まった自転車の反則金制度(通称“青切符”)について、NHKは10/29、岩手県内の半年間の交付が速報値で39件と報道。Xでは「ほとんど捕まらない」「いや急に厳しくなった」の体感差が定期的に話題化している。",
+        "layer2": "噂ではなく裏取り数字で見ると——警察庁集計で制度開始1か月の交付は2,147件(暫定)、違反別は①指定場所一時不停止846件②携帯電話使用713件、都道府県別は東京501件が最多(大阪267・愛知257)。同期間の“指導警告”は約13.6万件で、青切符は悪質・危険に絞る運用だ。店視点では、公道マナーと装備(前照灯・ベル・反射材)の相談→買い替え・用品需要につながる“入口の話題”。※10月単月の全国値は未集計。",
+        "sources": [
+          {
+            "t": "NHK NEWS WEB(岩手・青切符半年で39件＝直近の鮮度起点)",
+            "u": "https://www3.nhk.or.jp/news/",
+            "d": "2026-10-29"
+          },
+          {
+            "t": "ライブドアニュース/警察庁(開始1か月2,147件)",
+            "u": "https://news.livedoor.com/topics/detail/31263669/",
+            "d": "2026-05-14"
+          },
+          {
+            "t": "Yahoo!ニュース/くるまのニュース(違反内訳・指導警告13万超)",
+            "u": "https://news.yahoo.co.jp/articles/4f77c20e76024805b535d2a1985db2b7c9c71854",
+            "d": "2026-05-14"
+          },
+          {
+            "t": "JAF Mate Online(違反内訳・都道府県別)",
+            "u": "https://jafmate.jp/car/traffic_topics_20260520_1199203.html",
+            "d": "2026-05-20"
+          }
+        ],
+        "status": "確定＝岩手半年39件・全国1か月2,147件(いずれも暫定/速報値)／曖昧＝10月単月の全国値は未公表(※要続報)"
+      },
+      {
+        "id": "20261103-indoor-shoubai",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/Q2D5TLv6wzFtKZMQhQnT9b-1511-80.jpg",
+        "headline": "【経営メモ・市場／冬商戦・11/2】『室内トレ機材』が冬の稼ぎ時——ZwiftがWahoo Kickr Core 2バンドルを期間限定(無料マット$80相当付・実質2割超お得)、“ローラーは退屈”論争も追い風",
+        "layer1": "Zwiftが期間限定で、スマートトレーナー『Wahoo Kickr Core 2』に$80相当のトレーニングマットを無料で付けるバンドルを開始(合計で2割以上お得)。冬の室内トレ商戦の号砲だ。",
+        "layer2": "同じ時期にメディアでは「室内トレは退屈か」論争や各プラットフォーム比較(Zwift vs TrainerRoad/MyWhoosh)が噴出——つまり“買うか迷う層”が動く季節。店視点では、トレーナー本体＋マット＋前輪台＋サブスクの『セット提案』が客単価を押し上げる定番で、寒くなるほど実走が減る分、室内機材と整備・サブスクが売上の谷を埋める。※国内の価格・在庫・取扱は各販売店で要確認。",
+        "sources": [
+          {
+            "t": "Cyclingnews(Zwift期間限定バンドル)",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/smart-trainers/zwift-just-launched-a-limited-time-smart-trainer-bundle-deal-and-theres-a-free-upgrade-included/",
+            "d": "2026-11-02"
+          },
+          {
+            "t": "Cyclingnews(室内トレは退屈か論争)",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/",
+            "d": "2026-10-30"
+          }
+        ],
+        "status": "確定＝バンドル内容(海外発表)／曖昧＝国内の価格・取扱は販売店次第(※要確認)"
+      },
+      {
+        "id": "20261103-offseason-joy",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/pLdFFxHr2GJiDxQb3Y2VwW-2000-80.jpg",
+        "headline": "【初中級・心の整え方／PFP“喜びを失った”に乗せて】冬は『自転車の楽しさ』を取り戻す季節——初中級が燃え尽きない3点、“記録オフ”のすすめ",
+        "layer1": "女王PFPさえ「日常の喜びを失った」と語るオフ。頑張り屋の初中級ほど、秋冬に“こなすだけ”になって乗る理由を見失いがちだ。",
+        "layer2": "先回りの答え＝①週1は『計測しない』ライド(パワー/タイム/距離を見ない)で“楽しいから乗る”を思い出す②寒い日は無理せず室内短時間＋仲間とオンラインで気分を保つ③目標は春の1つだけ決め、冬は“土台づくり”と割り切って比べない。楽しさが戻れば続く、続けば速くなる——順番はこの向きが正しい。※一般的な続け方の指針で、医学的助言ではない。",
+        "sources": [
+          {
+            "t": "Cyclingnews(PFP“喜びを失った”＝起点)",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-lost-the-joy-of-the-everyday-life-pauline-ferrand-prevot-heads-for-much-needed-off-season-reset-after-tour-de-france-femmes-ended-up-with-nothing-in-2026/",
+            "d": "2026-11-02"
+          }
+        ],
+        "status": "確定＝PFPの発言が起点／提案は一般的な指針(※医学的助言ではない)"
+      }
+    ]
+  },
+  {
     "date": "2026-11-02",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。昨日は泥（コッペンベルグ開幕）と砂漠（グラベルバーン決着）の週末、そして機材供給の屋台骨が揺れる『大手サプライヤー破綻』まで。質を優先して11本に絞りました。",
     "cards": [

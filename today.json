@@ -1,141 +1,132 @@
 {
-  "date": "2026-11-02",
-  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。昨日は泥（コッペンベルグ開幕）と砂漠（グラベルバーン決着）の週末、そして機材供給の屋台骨が揺れる『大手サプライヤー破綻』まで。質を優先して11本に絞りました。",
+  "date": "2026-11-03",
+  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ロードは完全にオフモード——去就・人間ドラマと、冬の室内＆公道トピックが主役です。レムコは『東京でオフ』、ラフェは『答え』を、PFPは『楽しさ』を探す秋。",
   "cards": [
     {
-      "id": "20261102-koppenbergcross",
+      "id": "20261103-lafay-answers",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": true,
-      "image": "https://cdn.mos.cms.futurecdn.net/Pd98iHBhwsmxuELze6DLbC-2000-80.jpg",
-      "headline": "【🔥今日の一本・レース／CX・11/1】X2O開幕コッペンベルグクロス——ナイスが『2度の落車＋30秒遅れ』をはね返しファントゥーレンハウトを激闘で下す、女子はブランド今季4勝目",
-      "layer1": "ベルギーの激坂CX「コッペンベルグクロス」（X2Oバドカマーストロフィー開幕戦・11/1）で、ロードの長いシーズンを終えたばかりのティボー・ナイスが優勝。2度転んで一時30秒遅れながら、終盤にミカエル・ファントゥーレンハウトとの一騎打ちを制した。女子はルシンダ・ブランドがカサソラ／シュライバーの猛追を受けつつ逃げ切り、今季4勝目。",
-      "layer2": "ナイスは2023・2025年に続く勝利で「ロード組のCX復帰」を結果で示した形。父はCXレジェンドのスヴェン・ナイス。開幕の激坂では毎年“ロードの脚がそのまま泥で通用するか”が注目だが、今年は転倒からの立て直し＝テクニックと脚力の両立を見せた。確定＝優勝者・大会（cyclingnews速報）／周回ごとのタイム差は速報ベース。",
+      "image": "https://cdn.mos.cms.futurecdn.net/SMMu2gyTpPT7oExkkv4adb-2000-80.jpg",
+      "headline": "【🔥今日の一本・レース／人間ドラマ・11/2】2023年ツール区間覇者ヴィクトール・ラフェが『まだ答えを探している』——謎の不調で2027年の契約なし、だが引退は否定「今はただ健康を取り戻したい」",
+      "layer1": "フランスのピュンチャー、ヴィクトール・ラフェ(2023年ツール・ド・フランス第2ステージ覇者)が、原因不明の体調不良で今季を棒に振り、2027年のプロ契約が『無い』と明かした。ただし本人は引退を口にせず「まだ答えを探している」。",
+      "layer2": "ブレイクに見えた2023年ツールの区間勝利以降は“悪夢”の連続。2024〜25年はデカトロンCMA CGMで両膝の故障に苦しみ、今季加入のユニベット・ローズ・ロケッツ(蘭)では一度もゼッケンを付けられないまま終わった。本人の言葉は「今はただ健康が良くなることを願っている」——つまり2027の空白は“引退”というより“療養の宣言”に近い。※不調の医学的な正体は未公表。",
       "sources": [
-        { "t": "Cyclingnews（男子）", "u": "https://www.cyclingnews.com/pro-cycling/racing/x2o-trofee-oudenaarde-thibau-nys-wins-koppenbergcross-after-heated-battle-with-michael-vanthourenhout/", "d": "2026-11-01" },
-        { "t": "Cyclingnews（女子）", "u": "https://www.cyclingnews.com/category/womens-cycling/x20-trofee-oudenaarde-lucinda-brand-ascends-the-koppenberg-to-take-her-fourth-win-of-the-season/", "d": "2026-11-01" }
+        { "t": "Cyclingnews(ラフェ、2027契約なし)", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/im-still-looking-for-answers-victor-lafay-wont-have-a-pro-contract-in-2027-but-not-yet-calling-it-retirement-as-mystery-illness-destroys-his-season/", "d": "2026-11-02" }
       ],
-      "status": "確定＝ナイス／ブランド優勝（11/1速報）。曖昧＝周回ごとのタイム差は速報値。"
+      "status": "確定＝2027契約なし・本人は引退を否定／曖昧＝不調の医学的な正体は未公表(※要続報)"
     },
     {
-      "id": "20261102-gravelburn-beers",
+      "id": "20261103-cx-weekend",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/fh5p47sp6i2y4SKptzjY36-2500-80.jpg",
-      "headline": "【レース・グラベル／11/1・南ア】マット・ビアースが『グラベルバーン連覇』——女子はネレ・ライングがスタートからゴールまで“完全先行”、大カルー砂漠の長距離ステージ決着",
-      "layer1": "南アフリカの大カルー（Great Karoo）を舞台にした長距離グラベルステージレース「ネッドバンク・グラベルバーン」が11/1に閉幕。男子はマット・ビアースが昨年に続くタイトル防衛、女子はネレ・ライングが序盤から先頭を譲らず総合優勝した。",
-      "layer2": "この大会は feeds 既報のとおり、途中ステージでアリソン・ジャクソンの逆転勝利やピドコックの区間勝利もあった“役者揃い”の一戦。地元南アの実力者ビアースのMTB由来の総合力と、ライングのワイヤートゥワイヤーが示すように、超長距離グラベルは「一発の速さ」より『崩れない強さ』が効く。確定＝総合優勝者（cyclingnews）。",
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-01%2Fcyclocross-thibaunys-69775a4ee18af.jpg",
+      "headline": "【レース・冬本番／今週末CX2連戦】11/5ミッデルケルケ→11/7-8『欧州選手権ゼダム(蘭)』——ベルギーはナイス＆ファントゥーレンハウトが主軸、負傷の前回王者アーツは欠場、VDP/VvA不在の“100段の階段”決戦",
+      "layer1": "コッペンベルグクロス(11/1・ナイス優勝)を終え、泥のシーズンが今週一気に本格化。5日にスーペルプレスティージュ・ミッデルケルケ、7-8日にUEC欧州選手権(オランダ・ゼダム)が続く。",
+      "layer2": "ベルギーは連覇を狙いティボー・ナイスとミカエル・ファントゥーレンハウトを軸に選抜、ただし前回王者トーン・アーツは負傷で欠場。VDP(ファンデルプール)とVvA(ファンアールト)はこの欧州選には不参加で、男子は混戦模様。コースはほぼ3km、名物の『100段の階段』が最大の難所だ。女子はオランダ勢が中心だが、ルクセンブルクのシュライバーが近況好調。※最終スタートリストは直前変更あり。",
       "sources": [
-        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/racing/gravel-burn-matt-beers-defends-title-as-nele-laing-led-from-start-to-finish-across-south-africas-great-karoo/", "d": "2026-11-01" }
+        { "t": "idlprocycling(ゼダム欧州選プレビュー)", "u": "https://www.idlprocycling.com/cyclo-cross/2026-european-cyclocross-championships-in-zeddam-the-netherlands-what-you-need-to-know-about-the-first-event-on-the-cyclocross-calendar", "d": "2026-10" },
+        { "t": "Cyclinguptodate(ベルギー選抜・アーツ欠場)", "u": "https://cyclinguptodate.com/cyclocross/thibau-nys-and-michael-vanthourenhout-spearhead-belgian-bid-to-retain-european-crown-without-injured-toon-aerts", "d": "2026-10-26" },
+        { "t": "Domestique(26/27 CXスケジュール)", "u": "https://www.domestiquecycling.com/en/news/26-27-cyclocross-season-overview-schedule-and-results/", "d": "2026-11" }
       ],
-      "status": "確定＝総合優勝（11/1）。"
+      "status": "確定＝日程(11/5・11/7-8)・ベルギー選抜・アーツ欠場・VDP/VvA不在／曖昧＝最終スタートリストは直前確定"
     },
     {
-      "id": "20261102-pozzovivo-giro",
+      "id": "20261103-remco-tokyo",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/MHBMuV4R2t3owhYtBMVCNH-1024-80.jpg",
-      "headline": "【レース・人間ドラマ／11/1】44歳目前のポッツォヴィーヴォが『まだ続けたい』——日本系Solution Tech-Nippo-Raliで現役復帰、2027ジロ再出場を視野「自己ベスト級のパワーが出ている」",
-      "layer1": "イタリアのクライマー、ドメニコ・ポッツォヴィーヴォ（11月で44歳）が「できれば続けたい」と語り、2027年のジロ・デ・イタリア再出場に意欲を示した。2024年に20位でジロを走って一度引退したが、2026年に日本資本のチーム『Solution Tech-Nippo-Rali』で現役復帰していた。",
-      "layer2": "本人いわく今年は「キャリア最高級のパワー値」を記録し、チームとの契約延長を望む。日本の『NIPPO』が長年プロシーンを支えてきた流れの最新形で、ベテランの“枯れない脚”は初中級にも刺さる物語。確定＝年齢・経歴・復帰チーム・発言（cyclingnews）／曖昧＝2027の契約延長・出場枠は未確定。",
+      "image": "https://cdn.mos.cms.futurecdn.net/uzSLjjpQYYaSx38bVNtqjE-2560-80.jpg",
+      "headline": "【レース・人間ドラマ／11/2・来日】レムコ・エヴェネプールが『オフを東京で』——ランニングシューズでオフ期も距離を刻む、直前は米でTT調整＆LA五輪コース65km下見",
+      "layer1": "レッドブル1年目を終えたエヴェネプールが、カリフォルニアでの“仕事”を済ませてから日本・東京でオフを過ごし、ランニングで有酸素の土台を維持していることが伝えられた。",
+      "layer2": "米滞在ではスペシャライズド本社(モーガンヒル)でTTポジションを詰め、ロサンゼルスではグリフィス天文台周辺＝2028年LA五輪ロードコースを65km試走。パリ2024で獲った2つの金(ロード＆個人TT)を2年後に“地元同然”のLAで守る布石だ。完全休養ではなく“走って動き続ける”のが彼のオフ流儀。日本のファンには嬉しい来日ニュース。※東京滞在の詳細日程は非公表。",
       "sources": [
-        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/i-would-like-to-continue-at-43-domenico-pozzovivo-is-eyeing-a-return-to-the-giro-ditalia-in-2027/", "d": "2026-11-01" }
+        { "t": "Cyclingnews(レムコ、東京でオフ)", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/no-rest-for-remco-evenepoel-as-he-keeps-the-off-season-kilometres-ticking-over-with-his-running-shoes-in-tokyo/", "d": "2026-11-02" }
       ],
-      "status": "確定＝44歳目前・Nippo系で復帰・ジロ志向（本人談）。曖昧＝契約延長／出場枠は未定。"
+      "status": "確定＝東京でのオフ・ランニング継続・LAコース65km下見／曖昧＝来日の滞在日程の詳細は非公表"
     },
     {
-      "id": "20261102-seixas-giro",
+      "id": "20261103-wegelius-ef",
+      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
+      "image": "https://cdn.mos.cms.futurecdn.net/kGoJqbH5HjAgYND4QXPmGR-1024-80.jpg",
+      "headline": "【トレンド・業界／11/2】EFの名参謀チャーリー・ウェゲリウスが『15年』でチームを去る——元プロ11年→2012年ガーミン加入、スポーツディレクター統括を築いた英国人",
+      "layer1": "EFエデュケーション・イージーポストのヘッド・スポーツディレクター、チャーリー・ウェゲリウス(英)が15年の在籍を経て退任。チームは「素晴らしい旅をありがとう」と惜別を表した。",
+      "layer2": "11年のプロ選手生活の後、2012年に当時のガーミン・シャープでDSキャリアを開始し、現場を束ねる“DS統括”にまで上り詰めた人物。市場が縮む局面で名門の『頭脳』が動くのは、来季の運営・育成方針に影響しうる。チームの“文化”を作る裏方の去就は、選手の移籍と同じくらい大きい。※後任と次の行き先は現時点で未発表。",
+      "sources": [
+        { "t": "Cyclingnews(ウェゲリウス退任)", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/ef-education-easyposts-head-sports-director-charly-wegelius-departs-after-15-years-with-the-team/", "d": "2026-11-02" }
+      ],
+      "status": "確定＝退任・在籍15年・2012年ガーミンでDS開始／曖昧＝後任と移籍先は未発表"
+    },
+    {
+      "id": "20261103-finn-redbull",
+      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
+      "image": "https://cdn.mos.cms.futurecdn.net/85UYvk8oJxLhw2JnRA6UWX-2000-80.jpg",
+      "headline": "【トレンド・新世代／11/2】19歳ロレンツォ・フィンが『2027レッドブル昇格』——U23無双の超新星、だが本人は「自分にプレッシャーをかけすぎない」",
+      "layer1": "レッドブル・ボーラ・ハンスグローエが、育成“ルーキーズ”の19歳ロレンツォ・フィン(伊)を2027年にトップチームへ昇格させると発表した。",
+      "layer2": "U23で圧倒的な成績を残した逸材だが、本人はWorldTourデビューに向け「自分にプレッシャーをかけすぎてはいけない」と慎重な構え。昇格自体は数カ月前から既定路線で、レッドブルが“次世代の大器”をどう一軍でならしていくかが注目点。焦らせない育成が、潰さずに伸ばす鍵になる。",
+      "sources": [
+        { "t": "Cyclingnews(フィン、2027昇格)", "u": "https://www.cyclingnews.com/pro-cycling/emerging-talents/i-must-not-put-too-much-pressure-on-myself-lorenzo-finn-looks-to-temper-expectations-for-worldtour-debut-after-spectacular-u23-season/", "d": "2026-11-02" }
+      ],
+      "status": "確定＝2027トップチーム昇格・本人コメント／曖昧＝来季の起用・レースプランは未定"
+    },
+    {
+      "id": "20261103-pfp-joy",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/y8K7zVdZNp4LrhdtzyGjF9-1024-80.jpg",
-      "headline": "【レース・若手の野心／11/1】ロンバルディア覇者ポール・セイシャスが『何でも可能だ』——2027年のジロ出場に前向き、デカトロンの新世代が“3週間”に色気",
-      "layer1": "2026年ロンバルディアを制した19歳（仏）ポール・セイシャスが、2027年のジロ・デ・イタリア出場に前向きな姿勢を示した。「何でも可能だ（Anything is possible）」と語り、グランツール挑戦への意欲をにじませている。",
-      "layer2": "feeds 既報のとおり来季ジロは『ゾンコラン復活・登りTT』のクライマー向き設計。セイシャスのような軽量クライマーが“最初のGT”にジロを選ぶ流れは理にかなう。ただしデカトロンの最終的な起用計画次第で、現時点は本人の意欲表明にとどまる。確定＝発言（cyclingnews）／曖昧＝出場は未定。",
+      "image": "https://cdn.mos.cms.futurecdn.net/pLdFFxHr2GJiDxQb3Y2VwW-2000-80.jpg",
+      "headline": "【レース・人間ドラマ／11/2・女子】ポーリーヌ・フェランプレヴォが『日常の喜びを失った』——2026ツール・ド・フランス・ファム第8S途中棄権、オフで“自転車の楽しさ”を取り戻す",
+      "layer1": "2025年マイヨジョーヌの女王PFP(ビスマ・リースアバイク)が、2026年のツール・ド・フランス・ファムを第8ステージDNS(出走せず)で終え、「今いちばん大事なのは、自転車に乗る喜びを取り戻すこと」と語った。",
+      "layer2": "MTB・グラベルから転じて掴んだ2025年の頂点。だが同じ“研ぎ澄ました集中”は2026年には実らず、レース外でも『厳しい現実』があったと示唆した。トップ選手でも燃え尽きと向き合う——結果より先に“心”を戻すという素直なメッセージだ。※レース外の『現実』の中身と2027の目標・日程は改めて発表予定。",
       "sources": [
-        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/anything-is-possible-paul-seixas-open-to-racing-giro-ditalia-in-2027/", "d": "2026-11-01" }
+        { "t": "Cyclingnews(PFP、オフでリセット)", "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-lost-the-joy-of-the-everyday-life-pauline-ferrand-prevot-heads-for-much-needed-off-season-reset-after-tour-de-france-femmes-ended-up-with-nothing-in-2026/", "d": "2026-11-02" }
       ],
-      "status": "確定＝本人が前向き発言。曖昧＝2027ジロ出場は未確定。"
+      "status": "確定＝第8S DNS・本人コメント／曖昧＝レース外の“現実”の詳細と2027計画は未公表"
     },
     {
-      "id": "20261102-lisabone-ef",
+      "id": "20261103-women-pay",
       "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/QKdi7nfN88Rk6K8LywQoDC-2100-80.jpg",
-      "headline": "【トレンド・移籍／11/1・女子】南アのリサ・ボーンが『WorldTour昇格』——EFエデュケーション・オートリーへ、グラベル大国・南アから新たな才能",
-      "layer1": "南アフリカのリサ・ボーンが、女子WorldTourチーム『EFエデュケーション・オートリー』と契約し、トップカテゴリーへ昇格した。秋の移籍市場が加速するなか、南ア勢の台頭を象徴する動き。",
-      "layer2": "同じ11/1には南アでグラベルバーンが閉幕しており、グラベル／MTBが強い南アから女子ロードのWT選手が出るのは地脈として自然。女子の移籍市場はニーウィアドマ＝フィニーやブラシの大型移籍（feeds既報）で過熱中で、“伸び盛りの非欧州出身”を拾う動きも進む。確定＝契約（cyclingnews）／曖昧＝詳細な起用計画は不明。",
+      "image": "https://cdn.mos.cms.futurecdn.net/DbzYF9VH5QxtikegSqR7Pk-2500-80.jpg",
+      "headline": "【トレンド・女子の経済／11/2】女子WTの『4割超が年€10万(約1,800万円)超』——選手会TCAの年次調査、トップは急伸も下位カテゴリーの低賃金は依然深刻",
+      "layer1": "選手会TCA(The Cyclists’ Alliance)の匿名の年次調査で、女子ワールドツアー選手の40%超が年収€100,000(約1,800万円)超と判明。トップ層の待遇は大きく伸びた。",
+      "layer2": "一方で下位カテゴリー(コンチネンタル等)の低賃金は“懸念レベル”のまま、という二極化が浮き彫りに。先日(10/30報)の同調査では『経済的不安・健康・安全』が女子の不安として挙がっており、今回は“給料”の側面の続報。女子ロードの商品価値は上がっても、恩恵はまだ頂点に偏っている。※金額は調査回答ベースの概算・為替換算は目安。",
       "sources": [
-        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/south-africas-lisa-bone-makes-the-leap-to-the-worldtour-with-ef-education-oatly/", "d": "2026-11-01" }
+        { "t": "Cyclingnews(TCA調査・女子WTの給料)", "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/over-40-percent-of-womens-worldtour-riders-earn-more-than-eur100-000-survey-finds/", "d": "2026-11-02" }
       ],
-      "status": "確定＝EFとの契約・WT昇格（11/1）。曖昧＝起用計画は不明。"
+      "status": "確定＝トップ層の4割超が€10万超／曖昧＝下位の実額は幅があり概算(※為替換算は目安)"
     },
     {
-      "id": "20261102-devries-gt",
-      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/SCPy4D85Xi9pEiCwoLK5eh-1024-80.jpg",
-      "headline": "【トレンド・新世代／11/1・女子】フェムケ・デフリースが『GT表彰台が大きな目標』——ブレイク一年でジロ6位・ツールドスイス区間勝利、ビスマの新鋭が本格始動",
-      "layer1": "ビスマ・リースアバイクのフェムケ・デフリースが「グランツール表彰台が大きな目標」と明言。2026年に大きく伸び、UAEツアー6位、ジロ・デ・イタリア女子6位、ツールドスイス5位＋ソンドリオ区間でプロ初勝利と結果を重ねた。",
-      "layer2": "“ブレイク一年目”で早くもGT総合を口にできる地力は、女子のステージレース層が厚くなっている証。個人TTとクライムの両輪が揃えば表彰台は現実的な射程に入る。確定＝今季リザルト・目標発言（cyclingnews）。",
-      "sources": [
-        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/it-is-a-big-goal-femke-de-vries-targets-grand-tour-podium-after-breakthrough-season/", "d": "2026-11-01" }
-      ],
-      "status": "確定＝今季成績・目標発言（11/1）。"
-    },
-    {
-      "id": "20261102-veistroffer-charity",
-      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/rQYDzijXZkFzMdBMYA3hKj-2000-80.jpg",
-      "headline": "【トレンド・人間ドラマ／11/1】逃げ屋ヴェイストロフェールが『2,500kmのチャリティ旅』——ロットの“闘争心”が、競技を離れてペダルで人を助ける",
-      "layer1": "ロット・インターマルシェの逃げ屋バプティスト・ヴェイストロフェール（仏ブルターニュ）が、約2,500kmのチャリティ・バイクパッキングに挑む。アタック魂で知られる選手が、レースの枠を越えた長距離の旅で寄付を募る。",
-      "layer2": "彼は今季のグランツールで単独アタックを連発し敢闘賞に輝いた“動く選手”で、表彰台でポガチャルやイノーと並んだ逸話もある。競技の外でも「走って人を助ける」姿は、ロードの魅力＝“距離とドラマ”を素直に伝える。確定＝挑戦の事実（cyclingnews）／曖昧＝ルート・目標額など詳細は※要裏取り。",
-      "sources": [
-        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/from-breakaway-to-bikepacking-adventure-baptiste-veistroffer-takes-on-2-500km-charity-ride/", "d": "2026-11-01" }
-      ],
-      "status": "確定＝2,500km挑戦（11/1）。曖昧＝ルート・金額など詳細は※要裏取り。"
-    },
-    {
-      "id": "20261102-accell-picnic",
+      "id": "20261103-aokippu-half",
       "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/MT7Yjbyzb478YFuLF6f6VP-2000-80.jpg",
-      "headline": "【経営メモ・市場／大手サプライヤー破綻・10/20報】名門ラピエール親会社アクセルの破綻が『WorldTour登録』を直撃——ピクニック・ポストNLが機材供給先を失い2027登録に遅れ",
-      "layer1": "ラピエール／ラレーなどを傘下に持つ蘭アクセル・グループが経営破綻（アムステルダム裁判所が破産認定、夏にサプライヤー支払いを停止）。その余波で、ラピエールを機材供給元とするWorldTeam『ピクニック・ポストNL』が新サプライヤー確定に手間取り、2027年WorldTour登録の必須書類を10/15締切までに提出できなかった。ジャイコ・アルーラも別事情（銀行送金トラブル）で未提出。",
-      "layer2": "UCIは両チームとも「登録拒否ではない」とし、最終リストは12/8。ただしピクニックは既に“1年限定”＋財務条件付きライセンスという綱渡り。店視点の学び＝完成車ブランドの屋台骨（親会社）が傾くと、供給・保証・価格に波及する。『ブランドの背後にある資本』を見る目が要る好例で、うちの中華勢を含め“アフターと供給の安定”は立派な差別化材料。確定＝破綻・登録遅延・12/8最終リスト（cyclingnews/bikeradar）／曖昧＝ピクニックの新バイク供給元は未発表。",
+      "image": "https://kuruma-news.jp/wp-content/uploads/2027/05/20260529_jitensya.jpg?v=1780035151",
+      "headline": "【経営メモ・市場／国内・Xバズ起点】自転車『青切符』半年の実態——岩手は半年で39件(NHK10/29)、全国は開始1か月で2,147件、Xでは“取り締まり緩い/厳しい”が定期的に燃える",
+      "layer1": "2026年4月に始まった自転車の反則金制度(通称“青切符”)について、NHKは10/29、岩手県内の半年間の交付が速報値で39件と報道。Xでは「ほとんど捕まらない」「いや急に厳しくなった」の体感差が定期的に話題化している。",
+      "layer2": "噂ではなく裏取り数字で見ると——警察庁集計で制度開始1か月の交付は2,147件(暫定)、違反別は①指定場所一時不停止846件②携帯電話使用713件、都道府県別は東京501件が最多(大阪267・愛知257)。同期間の“指導警告”は約13.6万件で、青切符は悪質・危険に絞る運用だ。店視点では、公道マナーと装備(前照灯・ベル・反射材)の相談→買い替え・用品需要につながる“入口の話題”。※10月単月の全国値は未集計。",
       "sources": [
-        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/picnic-postnl-finalising-new-bike-supplier-amid-lapierre-woes-jayco-alula-hit-by-bank-transfer-issue-as-both-teams-explain-missed-deadline-for-2027-worldtour-registration/", "d": "2026-10-20" },
-        { "t": "BikeRadar（アクセル破綻の背景）", "u": "https://www.bikeradar.com/news/raleighs-parent-company-declared-bankrupt-as-irish-firm-eyes-up-acquisition", "d": "2026-08-13" }
+        { "t": "NHK NEWS WEB(岩手・青切符半年で39件＝直近の鮮度起点)", "u": "https://www3.nhk.or.jp/news/", "d": "2026-10-29" },
+        { "t": "ライブドアニュース/警察庁(開始1か月2,147件)", "u": "https://news.livedoor.com/topics/detail/31263669/", "d": "2026-05-14" },
+        { "t": "Yahoo!ニュース/くるまのニュース(違反内訳・指導警告13万超)", "u": "https://news.yahoo.co.jp/articles/4f77c20e76024805b535d2a1985db2b7c9c71854", "d": "2026-05-14" },
+        { "t": "JAF Mate Online(違反内訳・都道府県別)", "u": "https://jafmate.jp/car/traffic_topics_20260520_1199203.html", "d": "2026-05-20" }
       ],
-      "status": "確定＝アクセル破綻・登録遅延・12/8最終リスト（10/20報）。曖昧＝新バイク供給元は未発表。"
+      "status": "確定＝岩手半年39件・全国1か月2,147件(いずれも暫定/速報値)／曖昧＝10月単月の全国値は未公表(※要続報)"
     },
     {
-      "id": "20261102-mavic-comete50",
+      "id": "20261103-indoor-shoubai",
       "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://cdn.road.cc/wp-content/uploads/2026/10/2026-Mavic-Comete-50-wheelset.jpg",
-      "headline": "【経営メモ・市場／大手の値付け・10/28】マヴィック新「コメート50」が『約1,308g・英£2,299』——大手が“深リム・軽量・高剛性”を中華カーボンの価格帯へ降ろしてきた",
-      "layer1": "マヴィックの新作カーボンディープ『コメート50』がロングレビューに（road.cc・10/28）。実測約1,308g、内寸23mm／外寸30mm、セラミックベアリング、英国RRP£2,299。「見た目良し・横剛性高い・万能」と高評価で、競合フルクラムSharq42（£2,499.99）より安い。",
-      "layer2": "店の読み：かつて“中華カーボンの土俵”だった「1,300g台・深リム・実売20万円前後」に、欧州大手が正面から降りてきた。うちの中華カーボン（8LIEN／CRW／GOOSYNN等）は『さらに下の価格』か『同価格で上の装備（カーボンスポーク等）』で差別化する局面。価格だけでなく“国内保証とアフター”を店の武器にできる。確定＝実測重量・寸法・英RRP（road.cc）／曖昧＝国内価格・入荷は代理店次第。",
+      "image": "https://cdn.mos.cms.futurecdn.net/Q2D5TLv6wzFtKZMQhQnT9b-1511-80.jpg",
+      "headline": "【経営メモ・市場／冬商戦・11/2】『室内トレ機材』が冬の稼ぎ時——ZwiftがWahoo Kickr Core 2バンドルを期間限定(無料マット$80相当付・実質2割超お得)、“ローラーは退屈”論争も追い風",
+      "layer1": "Zwiftが期間限定で、スマートトレーナー『Wahoo Kickr Core 2』に$80相当のトレーニングマットを無料で付けるバンドルを開始(合計で2割以上お得)。冬の室内トレ商戦の号砲だ。",
+      "layer2": "同じ時期にメディアでは「室内トレは退屈か」論争や各プラットフォーム比較(Zwift vs TrainerRoad/MyWhoosh)が噴出——つまり“買うか迷う層”が動く季節。店視点では、トレーナー本体＋マット＋前輪台＋サブスクの『セット提案』が客単価を押し上げる定番で、寒くなるほど実走が減る分、室内機材と整備・サブスクが売上の谷を埋める。※国内の価格・在庫・取扱は各販売店で要確認。",
       "sources": [
-        { "t": "road.cc（レビュー）", "u": "https://road.cc/review_v2/mavic-comete-50-wheelset-review-swish-looks-and-impressively-stiff-but-versatile-too", "d": "2026-10-28" }
+        { "t": "Cyclingnews(Zwift期間限定バンドル)", "u": "https://www.cyclingnews.com/cycling-tech-components/smart-trainers/zwift-just-launched-a-limited-time-smart-trainer-bundle-deal-and-theres-a-free-upgrade-included/", "d": "2026-11-02" },
+        { "t": "Cyclingnews(室内トレは退屈か論争)", "u": "https://www.cyclingnews.com/cycling-tech-components/", "d": "2026-10-30" }
       ],
-      "status": "確定＝実測1,308g・£2,299（road.cc）。曖昧＝国内価格・入荷は未定（※要裏取り）。"
+      "status": "確定＝バンドル内容(海外発表)／曖昧＝国内の価格・取扱は販売店次第(※要確認)"
     },
     {
-      "id": "20261102-wtb-course52",
-      "genre": "parts", "genreLabel": "PARTS", "genreJa": "パーツ", "hot": false,
-      "image": "https://cdn.road.cc/wp-content/uploads/2026/09/WTB-Course-Tread.jpg",
-      "headline": "【パーツ・新製品／10/28】WTB『コース52』——“エアロ”を謳うグラベルタイヤが登場、速くて丈夫なケーシングはドライ路面に好適",
-      "layer1": "WTBのグラベルタイヤ新作『コース52（Course 52）』のレビューが公開（road.cc・10/28）。トレッドに“空力”を意識した新技術を採り、速さと耐久性を両立するケーシングで、特にドライ（乾いた路面）で強みを発揮するという評価。",
-      "layer2": "グラベルタイヤに“エアロ”の発想が降りてきたのは、グラベルレースの高速化（本日のグラベルバーンのように総合力勝負の長距離化）を映した流れ。太いブロックタイヤでも転がり・空力を詰める時代で、路面を選ぶ（ドライ向き）点は購入前に要確認。確定＝製品特性・レビュー（road.cc）／曖昧＝国内取扱・価格は未確認。",
-      "sources": [
-        { "t": "road.cc（レビュー）", "u": "https://road.cc/offroad/review_v2/wtb-course-52-tyre", "d": "2026-10-28" }
-      ],
-      "status": "確定＝製品特性・レビュー（10/28）。曖昧＝国内価格・取扱は※要裏取り。"
-    },
-    {
-      "id": "20261102-china-carbon-choose",
+      "id": "20261103-offseason-joy",
       "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png",
-      "headline": "【初中級・Xバズ起点／中華カーボンの“割れる・保証”論争に乗せて】大手が深リムを値下げした今、『初めての中華カーボン』を外さない4つの目——価格より“保証とハブ中身”",
-      "layer1": "Xでは定期的に「中華カーボンは割れる／保証が不安」という論争が起き、一方で「大手より安く同等」という称賛も根強い。大手マヴィックが深リムを£2,299へ降ろしてきた今（本日の市場カード参照）、初中級が“初めての中華カーボン”をどう選ぶかを整理する。",
-      "layer2": "外さない4点＝①実績ブランドか（プロ採用・長期ユーザーの声・レース実績）②ハブの中身（ラチェット・ベアリング・補修部品の入手性）③保証とアフター（国内窓口・クラッシュリプレース）④内寸×タイヤ幅の整合。価格は最後に見る。※「割れた／保証交換された」の声はフォーラム等の個別事例で、ブランド差が大きく一般化は禁物（※要裏取り）。確定＝選び方の観点／曖昧＝個別ブランドの耐久評価はXやフォーラムの伝聞を含む。",
+      "image": "https://cdn.mos.cms.futurecdn.net/pLdFFxHr2GJiDxQb3Y2VwW-2000-80.jpg",
+      "headline": "【初中級・心の整え方／PFP“喜びを失った”に乗せて】冬は『自転車の楽しさ』を取り戻す季節——初中級が燃え尽きない3点、“記録オフ”のすすめ",
+      "layer1": "女王PFPさえ「日常の喜びを失った」と語るオフ。頑張り屋の初中級ほど、秋冬に“こなすだけ”になって乗る理由を見失いがちだ。",
+      "layer2": "先回りの答え＝①週1は『計測しない』ライド(パワー/タイム/距離を見ない)で“楽しいから乗る”を思い出す②寒い日は無理せず室内短時間＋仲間とオンラインで気分を保つ③目標は春の1つだけ決め、冬は“土台づくり”と割り切って比べない。楽しさが戻れば続く、続けば速くなる——順番はこの向きが正しい。※一般的な続け方の指針で、医学的助言ではない。",
       "sources": [
-        { "t": "road.cc（マヴィックの価格＝市場文脈）", "u": "https://road.cc/review_v2/mavic-comete-50-wheelset-review-swish-looks-and-impressively-stiff-but-versatile-too", "d": "2026-10-28" },
-        { "t": "Velofanatics（中華カーボンホイール2026・参考）", "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/", "d": "2026-05-30" }
+        { "t": "Cyclingnews(PFP“喜びを失った”＝起点)", "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-lost-the-joy-of-the-everyday-life-pauline-ferrand-prevot-heads-for-much-needed-off-season-reset-after-tour-de-france-femmes-ended-up-with-nothing-in-2026/", "d": "2026-11-02" }
       ],
-      "status": "確定＝選び方の観点。曖昧＝個別ブランドの“割れる／保証”評価はXやフォーラムの伝聞を含む（※要裏取り）。"
+      "status": "確定＝PFPの発言が起点／提案は一般的な指針(※医学的助言ではない)"
     }
   ]
 }
