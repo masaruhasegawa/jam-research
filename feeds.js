@@ -1,5 +1,212 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-11-04",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。昨日11/3はローマで男女ジロ2027が同時解禁——『山の2027』でクライマー天国、ポガチャルは不在濃厚でデルトロやヴィンゲゴーの主戦場に。冬の端境期、店の構えも一緒に。",
+    "cards": [
+      {
+        "id": "20261104-giro2027-route",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://static2.giroditalia.it/wp-content/uploads/2026/11/VMopEz93ukXYYt4G96Kf_021126-104556.jpg",
+        "headline": "【🔥今日の一本・レース／11/3ローマ・全容解禁】2027ジロは『クライマーの祝祭』——モルティローロ2回＋ガビア＋モンテ・ゾンコラン復活、全21S・3,418.9km・獲得50,250m",
+        "layer1": "11/3ローマ(モリコーネ・アウディトリウム)で2027ジロの全容が正式発表。トリエステ発(5/8)→ローマ着(5/30)、21S・3,418.9km、獲得標高50,250m。第16Sでモルティローロを2度＋ガビア、第20Sでモンテ・ゾンコラン山頂フィニッシュ。",
+        "layer2": "先回り——TTは2本だけ。第7Sがスルモーナ→カンポ・ディ・ジョーヴェの『登坂TT』(19.6km)、第15Sがモンツァ→ミラノの平坦TT(37.3km)。ゾンコランは10.1km・平均11.9%(最大22%)の激坂決戦。山岳偏重＝クライマー天国で、TTを71kmも積む2027ツールとは真逆の設計。昨日お伝えした「クライマーのジロ」予想は的中、しかも想定以上の山盛りだった。",
+        "sources": [
+          {
+            "t": "Giro d'Italia 公式",
+            "u": "https://www.giroditalia.it/en/the-route/",
+            "d": "2026-11-03"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/giro-d-italia-2027-route-revealed-a-climbers-paradise-with-double-mortirolo-ascent-and-return-to-iconic-monte-zoncolan-and-passo-gavia/",
+            "d": "2026-11-03"
+          }
+        ],
+        "status": "確定＝全21S・距離/獲得標高・ゾンコラン第20S・モルティローロ2回・TT2本は公式発表。曖昧＝各区間の細部距離は媒体間で微差あり(公式サイト優先)。"
+      },
+      {
+        "id": "20261104-giro-women-2027",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/F4b6asQ2MjZ4CQuuhf63dR-2560-80.jpg",
+        "headline": "【レース・女子／11/3・同時解禁】2027女子ジロは『モンブランの影』で決着——5/29〜6/6・全9S・1,132km、第8Sに登坂TT、最終第9Sは獲得約4,000m",
+        "layer1": "男子と同じ11/3ローマで2027女子ジロ(Giro d'Italia Women)も発表。5/29ヴィアレッジョ発→6/6アオスタ谷フィニッシュ、全9S・1,132km、休息日なし。",
+        "layer2": "先回り——第8Sは11kmの『登坂TT』(獲得650m)、最終第9Sは“モンテ・ビアンコ(モンブラン)ステージ”で獲得約4,000m、鍵は『コッレ・サン・カルロ』10.5km・平均9.8%。下り基調から最後に登り返し、モンブランの麓でマリアローザ決定。完全にクライマー向けで、連覇中のロンゴボルギーニら登坂巧者の争いに。男女そろって「山の2027」。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/racing/giro-ditalia-women-2027-route",
+            "d": "2026-11-03"
+          },
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/2027-giro-ditalia-women-route-revealed-tough-grand-finale-in-the-shadow-of-mont-blanc/",
+            "d": "2026-11-03"
+          }
+        ],
+        "status": "確定＝日程/区間数/距離/モンブラン決着は発表済み。曖昧＝最終S獲得標高は『約4,000m(3,950m表記も)』と出典で微差。"
+      },
+      {
+        "id": "20261104-pogacar-deltoro-giro",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2025-05%2Fisaacdeltoro-3-68387877027b3.jpg",
+        "headline": "【レース・来季の青写真／11月・UAE最終調整】ポガチャルは『2027ジロを走らない』公算——UAEはツール最優先、山盛りジロはデルトロの“雪辱の舞台”に",
+        "layer1": "山岳だらけの2027ジロが「ポガチャルを誘う設計」と話題だが、報道ではUAEは2027もツール(6勝目)を中心に据え、ジロはイサク・デルトロが本命エースとして“雪辱”を狙う布陣が有力。ポガチャルの開幕戦はUAEツアー(2/15-21)かツアー・ダウンアンダー(1月)を、この11〜12月に詰める。",
+        "layer2": "先回り——なぜジロを避ける? ①ツール6勝目＋世界選＋ブエルタ復帰という“3大目標”で3週間レースを増やしにくい ②デルトロは2026ジロで惜敗、同じUAEで役割が被る。つまり山盛りジロは「ポガ不在前提」で、デルトロやヴィンゲゴーら登坂勢の主戦場になる公算。母国に近いスロベニア通過の第1Sは“誘い”だが、本人の決断は未確定。",
+        "sources": [
+          {
+            "t": "Cycling Up To Date",
+            "u": "https://cyclinguptodate.com/cycling/he-can-fight-for-victory-in-a-grand-tour-giro-redemption-beckons-for-isaac-del-toro-in-2027-as-uae-keep-tour-de-france-centred-on-tadej-pogacar",
+            "d": "2026-11-03"
+          },
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/were-doing-everything-we-can-tour-down-under-boss-reveals-push-to-bring-tadej-pogacar-back/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "曖昧＝UAEの最終カレンダーは未発表(11〜12月決定)。『ジロ不出場』『デルトロ本命』は報道ベース、※本人・チームの確定発表待ち。"
+      },
+      {
+        "id": "20261104-vingegaard-visma-double",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/Team-Visma-Lease-a-Bike/CORVOS_00039131-243.jpg?width=2400&height=1260&quality=75&crop=7572%2C3975%2C0%2C536",
+        "headline": "【トレンド・GCの読み／11/3以降】ヴィスマは『ジロ×ツール2冠挑戦』を再検討——山盛り2027ジロ解禁で、ヴィンゲゴーの“ダブル”判断が数週間内に",
+        "layer1": "2027のジロ(超山岳)とツール(TT71km・山頂3つ)の全容が出そろい、ヴィスマはヴィンゲゴーに「ジロ×ツールのダブル」を課すか“数週間内に”決める、とプルッフ代表。鎖骨骨折で2026ツールを途中棄権した二度の覇者の復帰設計が焦点。",
+        "layer2": "先回り——ジレンマの正体。2027ツールはEdinburgh発(7/2)でTT偏重＝ヴィンゲゴーにはやや不利寄り。一方ジロは山岳天国でGC向き。「ジロで上げてツールへ」は2026にも試した路線だが、落車続きで“直近の実データが乏しい”とヴィスマ自身が認めており、ダブルは諸刃。ブレナンやファンアールトら駒は揃い、誰をどのGTに置くかが春までの最大の宿題。",
+        "sources": [
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/visma-admit-missing-key-vingegaard-data-as-2027-tour-route-presents-new-challenge/",
+            "d": "2026-11"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/visma-say-there-could-have-been-more-summit-finishes-on-2027-tour-de-france-route-but-remain-certain-of-opportunities-for-two-time-winner-jonas-vingegaard/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "曖昧＝ダブル挑戦は検討段階、決定は数週間内の見込み。※最終はチーム発表待ち。"
+      },
+      {
+        "id": "20261104-greek-ppc-pinarello",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/Pinarello-Q36.5-Pro-Cycling/CORVOS_00039129-040.jpg?width=2400&height=1260&quality=75&crop=6000%2C3150%2C0%2C425",
+        "headline": "【トレンド・業界／11/3】ギリシャ発の新プロチームが始動へ——電力大手PPCが出資、『ピナレロ・Q36.5の育成チーム』化の観測も",
+        "layer1": "11/3、ギリシャの電力大手PPCを後ろ盾にした新チームがUCIコンチネンタル級で2027始動へ動いている、と報道。将来的にピナレロ・Q36.5(ピドコック在籍)の“育成チーム”になる可能性が取り沙汰されている。",
+        "layer2": "先回り——なぜ重要? ①新興国マネーの流入が続き、プロチームの“裾野”が広がっている ②トップチームが育成組織(フィーダー)を持つ流れが加速(リドル・トレックの女子育成新設と同じ潮流)。自転車ビジネスが新市場・新スポンサーで再編されている証左で、機材サプライヤー(ピナレロ＝伊)の勢力図にも波及しうる。※出資額・陣容・提携の細部は未確定。",
+        "sources": [
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/ambitious-new-greek-cycling-team-takes-shape-as-surprise-pinarello-q36-5-link-emerges/",
+            "d": "2026-11-03"
+          }
+        ],
+        "status": "曖昧＝報道ベース。PPC出資・Q36.5育成化は観測、※公式発表待ち。"
+      },
+      {
+        "id": "20261104-china-carbon-climbing-wheels",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png",
+        "headline": "【ホイール・機材読み／“山の2027”解禁に乗せて】クライマーの季節に効くのは『軽さ×ハブ×内寸』——中華カーボンで登坂ホイールを外さない3点",
+        "layer1": "男女ジロが“超山岳”で解禁され、登坂ホイールへの関心が再燃。中華カーボン(8LIEN/CRW等)は今や性能で大手に並ぶとの評価も増え、1,300g前後の軽量リムが現実的な価格で狙える。",
+        "layer2": "先回り——登りで本当に効く3点。①重量はリム外周(回転部)が最重要＝カタログ総重量より『リム単体の軽さ』を見る ②浅リム(33〜40mm)＋フックレスなら横風と登り返しで扱いやすい ③見落としがちな『ハブの中身(ベアリング/ラチェット)』と内寸(21〜23mm)——ここが安物と良品の分かれ目で、保証とアフターも必ず確認。“軽い中華”は増えたが、差が出るのは数字に出ないハブと仕上げ。",
+        "sources": [
+          {
+            "t": "Velofanatics 中華カーボンホイール2026",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026"
+          },
+          {
+            "t": "road.cc 中華vs欧米ホイール比較",
+            "u": "https://road.cc/content/feature/chinese-wheels-vs-western-wheels-312079",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝軽量中華リムの価格優位は複数レビューで一致。曖昧＝個体差・ハブ品質はブランド差大、※試乗/レビューで裏取り推奨。"
+      },
+      {
+        "id": "20261104-beginner-climbing-gearing",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/ZTGWgUMjVqtkRHrwARN2z7-2560-80.jpg",
+        "headline": "【初中級・登りの理屈／“クライマーのジロ”に乗せて】はじめてのヒルクライムは『ギア比』で決まる——初中級が折れない3点、軽さより“回す”",
+        "layer1": "2027ジロが激坂だらけで発表され、ヒルクライム熱が上がる季節。初中級が最初につまずくのは体力より“ギアの選択”。足を残すには、まず機材の設定を見直す。",
+        "layer2": "先回り——折れない3点。①フロントはコンパクト(50-34T)、リアは11-34T級の“軽いギア”を用意＝激坂で30rpm以下に落とさない ②『踏む』より『回す(ケイデンス70〜85)』——筋より心肺で登るほうが長くもつ ③体重1kg減はホイール数万円より効く＝まず身体、次に機材。プロの“ダンシングで踏む”は真似ず、座って一定ペースが初中級の正解。中華カーボンの軽量ホイールは“最後の一押し”で、順番は体→ギア→機材。",
+        "sources": [
+          {
+            "t": "Giro d'Italia 公式(2027ルート・きっかけ)",
+            "u": "https://www.giroditalia.it/en/the-route/",
+            "d": "2026-11-03"
+          }
+        ],
+        "status": "確定＝ギア比/ケイデンスの基本は普遍。曖昧＝最適値は個人差、体力・体重に合わせ調整。"
+      },
+      {
+        "id": "20261104-market-2027-pricing",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://d21buns5ku92am.cloudfront.net/69727/images/693209-1133910_O_P_50-cb546b-large-1786083723.jpg",
+        "headline": "【経営メモ・市場／国内・年末商戦】2027モデルは『値上げ二極化』、年末は“型落ち在庫処分”——冬の端境期を乗り切る店の構え",
+        "layer1": "2027新車は「エントリーは踏ん張り・ミドル以上は値上げ」の二極化が続く(海外勢もCube 2027が軽量化しつつ上位は高価格帯へ)。国内は完成車高騰で実需が鈍く、冬は販売の端境期。",
+        "layer2": "先回り——経営の勘所。①“今”の稼ぎ頭は新車より『型落ち在庫処分(10〜11月に20〜40%OFF)＋整備・冬装備・室内トレ機材』——客単価より回転と粗利ミックス ②2027値上げ前の“駆け込み”と、値上げ後の“型落ち狙い”の二層需要を在庫で受ける ③高価格帯は「価格より提案(フィッティング/保証/中華の受け皿)」で差別化。来店が落ちる冬こそ、既存客への整備・アップグレード提案が効く。",
+        "sources": [
+          {
+            "t": "Cube 2027コレクション(値付けの一例)",
+            "u": "https://press.oneway.bike/269024-cube-launches-a-new-chapter-with-its-2027-collection/",
+            "d": "2026-08-12"
+          }
+        ],
+        "status": "市場分析(経営メモ)。確定＝値上げ二極化の傾向。曖昧＝各社の国内最終価格は代理店発表待ち。"
+      },
+      {
+        "id": "20261104-market-helmet-aokippu",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://kuruma-news.jp/wp-content/uploads/2027/06/pixta_133541978_M.jpg?v=1781157076",
+        "headline": "【経営メモ・市場／Xバズ起点】ヘルメット着用率は『21.2%』どまり——青切符時代でもXで燃える“ノーヘル・公道マナー”、買い替え需要は店の商機",
+        "layer1": "努力義務化3年でもヘルメット着用率は伸び悩み(警察庁：2023年13.5%→2024年17%→2025年21.2%)。青切符制度(2026年4月開始)と相まって、Xでは“ノーヘル・危険運転・マナー”が定期的に燃える。",
+        "layer2": "先回り——店視点の読み。①着用率は右肩上がりでも2割強＝“未着用8割”は裏返せば巨大な未開拓需要。青切符の浸透で「そろそろヘルメット」という来店理由が生まれている ②買い替えサイクル(落車・経年・規格更新)も商機＝価格より『サイズ/安全規格/涼しさ』の提案で単価を上げられる ③Xの炎上は「人が言いたくなるテーマ」＝安全啓発の発信は共感を得やすい。煽らず“正しく怖がる”情報が店の信頼に。※着用率は警察庁調査、Xの“空気”は裏取り前提。",
+        "sources": [
+          {
+            "t": "神奈川県警/警察庁 着用率データ",
+            "u": "https://www.police.pref.kanagawa.jp/ps/kanazawa/entry_38.html",
+            "d": "2026"
+          },
+          {
+            "t": "くるまのニュース(ノーヘル事故報道)",
+            "u": "https://kuruma-news.jp/post/1072883",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝着用率の数値は警察庁調査。曖昧＝Xの論争規模は定性的、※個別投稿は裏取り要。"
+      }
+    ]
+  },
+  {
     "date": "2026-11-03",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ロードは完全にオフモード——去就・人間ドラマと、冬の室内＆公道トピックが主役です。レムコは『東京でオフ』、ラフェは『答え』を、PFPは『楽しさ』を探す秋。",
     "cards": [
