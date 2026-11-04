@@ -1,5 +1,232 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-11-05",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。冬のクロス本番——今週末11/7-8はCX欧州選手権ゼダム、そして今夜11/5は“砂の古豪”ミッデルケルケ。英インペリアル大の『折りたたみヘルメット』研究がX発で波及中、これは店の買い替え相談にそのまま効きます。",
+    "cards": [
+      {
+        "id": "20261105-euro-cx-men",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2025-12%2Fimg-20251109-wa0008.jpg",
+        "headline": "【🔥今日の一本・レース／今週末11/8・欧州選手権】CX欧州選手権はゼダム——本命は『ナイス＆ファントゥーレンハウト』、地元ニーウェンハウスが伏兵、2006年世界選コースに“3m幅”階段",
+        "layer1": "11/7-8、オランダ・ゼダムでシクロクロス欧州選手権。エリート男子(11/8)の本命はティボー・ナイスとミカエル・ファントゥーレンハウト(ともにベルギー)。",
+        "layer2": "コースは2006年世界選の舞台を現代化。名物の階段はUCI要件で『約3m幅』に拡張され、大集団でも通りやすくなった。路面は寒く乾いて硬めの予想で、登りの“力勝負”になりそう。伏兵は地元ゼダム周辺を知り尽くすヨリス・ニーウェンハウス、ダークホースにファンデピュッテ/ワイザー/ロンハー。VDP・VvA不在のCX本番、ベルギーvsオランダの構図は変わらず。",
+        "sources": [
+          {
+            "t": "idlprocycling(男子プレビュー)",
+            "u": "https://www.idlprocycling.com/cyclo-cross/2026-european-cyclocross-championships-men-belgium-dominates-the-lists-except-for-the-home-field-advantage",
+            "d": "2026-11-04"
+          },
+          {
+            "t": "ProCyclingUK(U23/プレビュー)",
+            "u": "https://procyclinguk.com/european-cyclocross-championships-zeddam-2026-under-23-men-preview/",
+            "d": "2026-11-04"
+          }
+        ],
+        "status": "確定＝開催日11/7-8・ゼダム・階段3m拡張／曖昧＝スタートリストは予備含みで当日まで変動"
+      },
+      {
+        "id": "20261105-noordzeecross",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2025-02%2Flucinda-brand-67a4a6b0e5901.png",
+        "headline": "【レース・今夜11/5／スーペルプレスティージュ第2戦】“砂の古豪”ノルドゼークロス・ミッデルケルケ——病気明けのワイザー＆メーセンが復帰、女子はブランドvsアルバラード",
+        "layer1": "本日11/5(木)夜、ベルギー・ミッデルケルケで1959年創設の砂地CX「ノルドゼークロス」(スーペルプレスティージュ第2戦)が開催。",
+        "layer2": "コッペンベルグクロスを病気で欠場したヨラン・ワイザーとウィツェ・メーセン(ともにCrelan-Corendon)が“回復して”復帰ライン入り。砂は脚力とライン取りが露骨に出る種目で、女子はルシンダ・ブランドにアルバラードが挑む構図。ここから11/11ニール→11/14メルクスプラスと平日連戦が続き、週末のゼダム欧州選へ向けた仕上がり比べにもなる。",
+        "sources": [
+          {
+            "t": "CyclingFlash(復帰報)",
+            "u": "https://cyclingflash.com/news/joran-wyseure-and-witse-meeussen-return-after-illness",
+            "d": "2026-11-04"
+          },
+          {
+            "t": "Superprestige公式(日程)",
+            "u": "https://www.superprestigecyclocross.be/en/calendar/2026-2027/middelkerke",
+            "d": "2026-11-04"
+          }
+        ],
+        "status": "確定＝開催日(本日)・会場・両者復帰／曖昧＝勝者は本日結果待ち"
+      },
+      {
+        "id": "20261105-euro-cx-women",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://procyclinguk.com/wp-content/uploads/2025/10/Inge-van-der-Heijden-2025-Meulebeke.jpg",
+        "headline": "【レース・人間ドラマ／欧州選手権・女子】“帰ってきた”ファンエンペルが伏兵——約1年ぶり復帰組が虹に挑む、本命はブランドとシュライバー",
+        "layer1": "欧州選手権女子(ゼダム)の本命はルシンダ・ブランドとマリー・シュライバー(ルクセンブルク)。ダークホースにフェム・ファンエンペルとアルバラードの名。",
+        "layer2": "ファンエンペルは“心と体のため”に第一線を離れ、約1年ぶりに戦列へ戻った世界女王格。まだ本調子でなくとも、オランダ勢の分厚い争いに割って入れば一気に物語になる。前回王者インゲ・ファンデルハイデンも地元で巻き返しを狙い、“内輪のオランダ対決”は決して一枚岩ではない。結果速報よりも、戻ってきた選手が何を取り戻すかに目が行く一戦。",
+        "sources": [
+          {
+            "t": "ProCyclingUK(女子プレビュー)",
+            "u": "https://procyclinguk.com/european-cyclocross-championships-zeddam-2026-elite-women-preview/",
+            "d": "2026-11-04"
+          },
+          {
+            "t": "idlprocycling(女子展望)",
+            "u": "https://www.idlprocycling.com/cyclo-cross/2026-european-cyclocross-championships-women-the-netherlands-biggest-competition-comes-from-red-white-and-blue",
+            "d": "2026-11-04"
+          }
+        ],
+        "status": "確定＝本命・開催日／曖昧＝ファンエンペルの仕上がりは未知数(伏兵評価)"
+      },
+      {
+        "id": "20261105-folding-helmet-study",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/11/Newlane-helmet-in-testing.jpeg",
+        "headline": "【トレンド・安全／11/4】折りたたみヘルメットは『通常比で頭部リスク相対20%増』——英インペリアル大が30個を比較、重さは461g vs 294g",
+        "layer1": "ロンドン・インペリアル大のダイソン・デザイン工学部が、英国で買える折りたたみ式6個＋通常24個の計30個を比較(Road Safety Trust助成)。",
+        "layer2": "線形(直線)衝撃の予測傷害リスクは折りたたみ平均24%・通常20%で『4ポイント差＝相対で約20%高い』。回転衝撃では差なし。重量は折りたたみ461g・通常294g(57%重い)で、10g重いごとにリスクは+0.2%。MIPS搭載は折りたたみ6個中1個に対し通常は24個中12個。ただし“一位級”は設計次第——Newlane社のMIPS付き折りたたみは30個中2位、非MIPS版は26位。同社は「“畳めるか”でなく“どの折りたたみか”の問題だ」と見出しに反論し、上位10個中9個がMIPS付きだと指摘。",
+        "sources": [
+          {
+            "t": "road.cc(研究報道)",
+            "u": "https://road.cc/news/researchers-find-collapsible-bike-helmets-provide-less-protection",
+            "d": "2026-11-04"
+          },
+          {
+            "t": "PubMed(研究記録)",
+            "u": "https://pubmed.ncbi.nlm.nih.gov/42858485/",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝数値・助成元・ブランド順位／曖昧＝査読誌名は記事に明記なし(PubMed記録あり)"
+      },
+      {
+        "id": "20261105-jp-helmet-market",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/11/Newlane-helmet-in-testing.jpeg",
+        "headline": "【経営メモ・市場／国内・Xバズ起点】折りたたみヘルメット“安全性論争”は買い替えの商機——努力義務時代の通勤・輪行層に、店が『設計とMIPS』を助言できるか",
+        "layer1": "英インペリアル大の新研究(折りたたみは通常比でリスク相対20%増・MIPS少・重い)がX発で拡散。日本は2023年4月からヘルメット着用“努力義務”で、折りたたみは通勤・輪行層に広く普及している。",
+        "layer2": "日本のローディーや通勤層でも「折りたたみは本当に安全か」はXで定期的に燃える話題。裏取りの核は今回の研究＝『畳めること自体』より“MIPSの有無・重さ・設計”が効くという点。店の立ち位置は明確で、安さや携帯性だけで勧めず、MIPS付き・適正重量を数値の根拠つきで提案できれば、買い替え相談そのものが信頼につながる。※Xの反応はあくまで入口、主役は研究の数値。",
+        "sources": [
+          {
+            "t": "road.cc(研究報道＝裏取り)",
+            "u": "https://road.cc/news/researchers-find-collapsible-bike-helmets-provide-less-protection",
+            "d": "2026-11-04"
+          }
+        ],
+        "status": "確定＝研究＝裏取り済／曖昧＝国内の折りたたみ販売比率は公的統計なし(体感ベース)、Xの盛り上がりは入口"
+      },
+      {
+        "id": "20261105-industry-split",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://vmn-bike-eu.imgix.net/2026/04/YmOHjsBZ-bike-europe-shimano-results-q1-2026-2.jpg?auto=compress,format&q=50&w=600",
+        "headline": "【経営メモ・市場／業界の地合い・11/2報】世界の自転車は『欧州は在庫正常化・北米は関税で高止まり』——二極化のなか、店主が見る体温計",
+        "layer1": "11/2前後に出た各社・業界集計で、欧州は完成車小売が堅調かつ独の市場在庫が改善、一方で北米は関税と高価格で需要が弱いまま、との読みが並んだ。",
+        "layer2": "シマノの1-9月は自転車部品が伸び通期見通しも上方修正(為替の後押しが大きい)で、欧州“堅調”・北米“弱い”と明記。業界団体NBDAも2026年の北米小売レポートで運営難と先行き不透明を指摘している。日本の店への示唆は三つ——①中級以上の価格高止まりは当面続く②欧州型の“在庫正常化→適正発注”局面は追い風③年末は型落ち処分と新価格モデルの二本立てで構える。SEO系サイトのシェア数値は根拠が怪しく、ここでは採らない。",
+        "sources": [
+          {
+            "t": "Bike Europe(シマノ見通し)",
+            "u": "https://www.bike-eu.com/53471/shimano-raises-bike-profit-forecast",
+            "d": "2026-11"
+          },
+          {
+            "t": "Cycling Industry News(NBDA小売報告ほか)",
+            "u": "https://cyclingindustry.news/",
+            "d": "2026-11"
+          },
+          {
+            "t": "the5krunner(シマノQ3速報)",
+            "u": "https://the5krunner.com/2026/11/02/quick-read-shimano-q3-2026-results/",
+            "d": "2026-11-02"
+          }
+        ],
+        "status": "確定＝欧州堅調/北米弱い・在庫改善の方向／曖昧＝国別の正確な数値は出典で幅あり"
+      },
+      {
+        "id": "20261105-china-wheel-weight",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://www.cyclistshub.com/wp-content/uploads/2021/03/Best-Chinese-Carbon-Road-Bike-Wheels.jpg",
+        "headline": "【ホイール・機材読み／“軽さ神話”が話題のいまに乗せて】ヘルメットで『軽さ＝正義ではない』が議論に——ホイールも同じ、中華カーボンで“軽さより効く”3点",
+        "layer1": "ヘルメット研究で「軽さだけ追うと安全や実力を落とす」という議論が起きた。ホイールも“軽さ”は数ある指標の一つにすぎない。",
+        "layer2": "中華カーボンで外さない3点。①リム内寸×タイヤ幅＝いまは内寸21〜23mm＋28〜30Cが快適と転がりの最適帯。細すぎ・広すぎを避ける。②ハブの“中身”＝シールの質と玉当て/ベアリング品質が、冬の雨・泥での寿命を決める。③スポーク本数と組み＝軽量偏重より、体重と用途に合う剛性を優先。カタログ重量より、この3点が実走の満足を左右する。ヒルクライム一本なら軽さも効くが、“軽さ最優先”は冬ほど裏目に出やすい。",
+        "sources": [
+          {
+            "t": "road.cc(軽さ議論の起点)",
+            "u": "https://road.cc/news/researchers-find-collapsible-bike-helmets-provide-less-protection",
+            "d": "2026-11-04"
+          },
+          {
+            "t": "Cyclists Hub(中華カーボン比較・参考)",
+            "u": "https://www.cyclistshub.com/best-chinese-carbon-wheels/",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝選定観点は普遍／曖昧＝具体数値は製品差あり、各ブランドの実測は要確認"
+      },
+      {
+        "id": "20261105-honda-rn0",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://gagadget.com/media/cache/ed/22/ed22ef029aacba5519f55ab4642fbc6d.webp",
+        "headline": "【パーツ・機材の最前線／“次世代シマノ”観測】ホンダ初のeMTB『RN0』——展示機はEP8だが“別形状ケーシング”が映り新型ユニット観測、量産は2027",
+        "layer1": "ホンダが約20年ぶりにMTBへ復帰し、初のeMTB「RN0」を公開(9月ジローナ発表、国内でも11/4付で詳報)。独自カーボンモノコック(Rotwild系ADPと共同開発)、量産は2027年予定。",
+        "layer2": "注目は駆動系。展示車はシマノEP8(85Nm)だが、ホンダ公式動画のプロトは現行EP801と“ケーシング形状が違う”とされ、次世代シマノ製ユニットの観測を呼んでいる——ただし両社とも未確認(※要裏取り)。背景にはEP8のシェア低下(27%→13.3%との集計も)。ロード乗りへの含意は、シマノがeの新ユニットを実際に動かしている兆候＝将来の部品ロードマップを読む手がかりになること。",
+        "sources": [
+          {
+            "t": "Bikerumor(新型モーター観測)",
+            "u": "https://bikerumor.com/honda-motors-back-into-mountain-bikes-well-emtbs-maybe-with-new-shimano-motor/",
+            "d": "2026"
+          },
+          {
+            "t": "gagadget(RN0詳報)",
+            "u": "https://gagadget.com/en/726819-honda-is-back-in-mountain-bikes-this-time-with-an-electric-one/",
+            "d": "2026"
+          },
+          {
+            "t": "シクロワイアード(国内詳報)",
+            "u": "https://www.cyclowired.jp/",
+            "d": "2026-11-04"
+          }
+        ],
+        "status": "確定＝RN0公開・カーボン・2027量産／曖昧＝新ユニットは“観測”で未確認(※要裏取り)、シェア数値も集計依存"
+      },
+      {
+        "id": "20261105-beginner-indoor-start",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://procyclinguk.com/wp-content/uploads/2025/09/608445-tsoz_fall-25_pr_click-2-ad4cab-original-1756298643.jpg",
+        "headline": "【初中級・冬の始め方／CX本番・室内シーズンに乗せて】室内トレは『機材より“最初の設定”』——初中級がつまずかない3点、始める前のチェック",
+        "layer1": "欧州はCX本番＝ロードはオフ、日本も室内トレの季節に入った。だが“買って終わり”で続かない人が多い。",
+        "layer2": "始める前の3点。①固定ローラーより“スマートトレーナー＋ANT+/Bluetooth”で負荷自動＝勾配連動の没入感が継続率を上げる。②扇風機と汗・床対策＝暑さと機材の塩害が最大の離脱・故障要因で、マット＋大型ファンは最初に用意。③最初の設定は“FTP計測よりゾーン2の時間”から＝いきなり高強度レースはケガと燃え尽きの元。機材をどれだけ良くしても、設定と環境が合わなければ続かない。",
+        "sources": [
+          {
+            "t": "road.cc(室内トレ季節の話題・11/4ライブ)",
+            "u": "https://road.cc/news/cycling-live-blog-4-november-2026",
+            "d": "2026-11-04"
+          },
+          {
+            "t": "ProCyclingUK(Zwift冬準備・参考)",
+            "u": "https://procyclinguk.com/zwift-expands-hardware-software-and-racing-options-ahead-of-2025-26-winter-training-season",
+            "d": "2025-09"
+          }
+        ],
+        "status": "確定＝続け方のセオリーは普遍／曖昧＝製品個別の対応・設定は要確認"
+      }
+    ]
+  },
+  {
     "date": "2026-11-04",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。昨日11/3はローマで男女ジロ2027が同時解禁——『山の2027』でクライマー天国、ポガチャルは不在濃厚でデルトロやヴィンゲゴーの主戦場に。冬の端境期、店の構えも一緒に。",
     "cards": [

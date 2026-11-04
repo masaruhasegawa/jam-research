@@ -1,120 +1,124 @@
 {
-  "date": "2026-11-04",
-  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。昨日11/3はローマで男女ジロ2027が同時解禁——『山の2027』でクライマー天国、ポガチャルは不在濃厚でデルトロやヴィンゲゴーの主戦場に。冬の端境期、店の構えも一緒に。",
+  "date": "2026-11-05",
+  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。冬のクロス本番——今週末11/7-8はCX欧州選手権ゼダム、そして今夜11/5は“砂の古豪”ミッデルケルケ。英インペリアル大の『折りたたみヘルメット』研究がX発で波及中、これは店の買い替え相談にそのまま効きます。",
   "cards": [
     {
-      "id": "20261104-giro2027-route",
+      "id": "20261105-euro-cx-men",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": true,
-      "image": "https://static2.giroditalia.it/wp-content/uploads/2026/11/VMopEz93ukXYYt4G96Kf_021126-104556.jpg",
-      "headline": "【🔥今日の一本・レース／11/3ローマ・全容解禁】2027ジロは『クライマーの祝祭』——モルティローロ2回＋ガビア＋モンテ・ゾンコラン復活、全21S・3,418.9km・獲得50,250m",
-      "layer1": "11/3ローマ(モリコーネ・アウディトリウム)で2027ジロの全容が正式発表。トリエステ発(5/8)→ローマ着(5/30)、21S・3,418.9km、獲得標高50,250m。第16Sでモルティローロを2度＋ガビア、第20Sでモンテ・ゾンコラン山頂フィニッシュ。",
-      "layer2": "先回り——TTは2本だけ。第7Sがスルモーナ→カンポ・ディ・ジョーヴェの『登坂TT』(19.6km)、第15Sがモンツァ→ミラノの平坦TT(37.3km)。ゾンコランは10.1km・平均11.9%(最大22%)の激坂決戦。山岳偏重＝クライマー天国で、TTを71kmも積む2027ツールとは真逆の設計。昨日お伝えした「クライマーのジロ」予想は的中、しかも想定以上の山盛りだった。",
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2025-12%2Fimg-20251109-wa0008.jpg",
+      "headline": "【🔥今日の一本・レース／今週末11/8・欧州選手権】CX欧州選手権はゼダム——本命は『ナイス＆ファントゥーレンハウト』、地元ニーウェンハウスが伏兵、2006年世界選コースに“3m幅”階段",
+      "layer1": "11/7-8、オランダ・ゼダムでシクロクロス欧州選手権。エリート男子(11/8)の本命はティボー・ナイスとミカエル・ファントゥーレンハウト(ともにベルギー)。",
+      "layer2": "コースは2006年世界選の舞台を現代化。名物の階段はUCI要件で『約3m幅』に拡張され、大集団でも通りやすくなった。路面は寒く乾いて硬めの予想で、登りの“力勝負”になりそう。伏兵は地元ゼダム周辺を知り尽くすヨリス・ニーウェンハウス、ダークホースにファンデピュッテ/ワイザー/ロンハー。VDP・VvA不在のCX本番、ベルギーvsオランダの構図は変わらず。",
       "sources": [
-        { "t": "Giro d'Italia 公式", "u": "https://www.giroditalia.it/en/the-route/", "d": "2026-11-03" },
-        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/racing/giro-d-italia-2027-route-revealed-a-climbers-paradise-with-double-mortirolo-ascent-and-return-to-iconic-monte-zoncolan-and-passo-gavia/", "d": "2026-11-03" }
+        { "t": "idlprocycling(男子プレビュー)", "u": "https://www.idlprocycling.com/cyclo-cross/2026-european-cyclocross-championships-men-belgium-dominates-the-lists-except-for-the-home-field-advantage", "d": "2026-11-04" },
+        { "t": "ProCyclingUK(U23/プレビュー)", "u": "https://procyclinguk.com/european-cyclocross-championships-zeddam-2026-under-23-men-preview/", "d": "2026-11-04" }
       ],
-      "status": "確定＝全21S・距離/獲得標高・ゾンコラン第20S・モルティローロ2回・TT2本は公式発表。曖昧＝各区間の細部距離は媒体間で微差あり(公式サイト優先)。"
+      "status": "確定＝開催日11/7-8・ゼダム・階段3m拡張／曖昧＝スタートリストは予備含みで当日まで変動"
     },
     {
-      "id": "20261104-giro-women-2027",
+      "id": "20261105-noordzeecross",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/F4b6asQ2MjZ4CQuuhf63dR-2560-80.jpg",
-      "headline": "【レース・女子／11/3・同時解禁】2027女子ジロは『モンブランの影』で決着——5/29〜6/6・全9S・1,132km、第8Sに登坂TT、最終第9Sは獲得約4,000m",
-      "layer1": "男子と同じ11/3ローマで2027女子ジロ(Giro d'Italia Women)も発表。5/29ヴィアレッジョ発→6/6アオスタ谷フィニッシュ、全9S・1,132km、休息日なし。",
-      "layer2": "先回り——第8Sは11kmの『登坂TT』(獲得650m)、最終第9Sは“モンテ・ビアンコ(モンブラン)ステージ”で獲得約4,000m、鍵は『コッレ・サン・カルロ』10.5km・平均9.8%。下り基調から最後に登り返し、モンブランの麓でマリアローザ決定。完全にクライマー向けで、連覇中のロンゴボルギーニら登坂巧者の争いに。男女そろって「山の2027」。",
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2025-02%2Flucinda-brand-67a4a6b0e5901.png",
+      "headline": "【レース・今夜11/5／スーペルプレスティージュ第2戦】“砂の古豪”ノルドゼークロス・ミッデルケルケ——病気明けのワイザー＆メーセンが復帰、女子はブランドvsアルバラード",
+      "layer1": "本日11/5(木)夜、ベルギー・ミッデルケルケで1959年創設の砂地CX「ノルドゼークロス」(スーペルプレスティージュ第2戦)が開催。",
+      "layer2": "コッペンベルグクロスを病気で欠場したヨラン・ワイザーとウィツェ・メーセン(ともにCrelan-Corendon)が“回復して”復帰ライン入り。砂は脚力とライン取りが露骨に出る種目で、女子はルシンダ・ブランドにアルバラードが挑む構図。ここから11/11ニール→11/14メルクスプラスと平日連戦が続き、週末のゼダム欧州選へ向けた仕上がり比べにもなる。",
       "sources": [
-        { "t": "Cycling Weekly", "u": "https://www.cyclingweekly.com/racing/giro-ditalia-women-2027-route", "d": "2026-11-03" },
-        { "t": "Domestique Cycling", "u": "https://www.domestiquecycling.com/en/news/2027-giro-ditalia-women-route-revealed-tough-grand-finale-in-the-shadow-of-mont-blanc/", "d": "2026-11-03" }
+        { "t": "CyclingFlash(復帰報)", "u": "https://cyclingflash.com/news/joran-wyseure-and-witse-meeussen-return-after-illness", "d": "2026-11-04" },
+        { "t": "Superprestige公式(日程)", "u": "https://www.superprestigecyclocross.be/en/calendar/2026-2027/middelkerke", "d": "2026-11-04" }
       ],
-      "status": "確定＝日程/区間数/距離/モンブラン決着は発表済み。曖昧＝最終S獲得標高は『約4,000m(3,950m表記も)』と出典で微差。"
+      "status": "確定＝開催日(本日)・会場・両者復帰／曖昧＝勝者は本日結果待ち"
     },
     {
-      "id": "20261104-pogacar-deltoro-giro",
+      "id": "20261105-euro-cx-women",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2025-05%2Fisaacdeltoro-3-68387877027b3.jpg",
-      "headline": "【レース・来季の青写真／11月・UAE最終調整】ポガチャルは『2027ジロを走らない』公算——UAEはツール最優先、山盛りジロはデルトロの“雪辱の舞台”に",
-      "layer1": "山岳だらけの2027ジロが「ポガチャルを誘う設計」と話題だが、報道ではUAEは2027もツール(6勝目)を中心に据え、ジロはイサク・デルトロが本命エースとして“雪辱”を狙う布陣が有力。ポガチャルの開幕戦はUAEツアー(2/15-21)かツアー・ダウンアンダー(1月)を、この11〜12月に詰める。",
-      "layer2": "先回り——なぜジロを避ける? ①ツール6勝目＋世界選＋ブエルタ復帰という“3大目標”で3週間レースを増やしにくい ②デルトロは2026ジロで惜敗、同じUAEで役割が被る。つまり山盛りジロは「ポガ不在前提」で、デルトロやヴィンゲゴーら登坂勢の主戦場になる公算。母国に近いスロベニア通過の第1Sは“誘い”だが、本人の決断は未確定。",
+      "image": "https://procyclinguk.com/wp-content/uploads/2025/10/Inge-van-der-Heijden-2025-Meulebeke.jpg",
+      "headline": "【レース・人間ドラマ／欧州選手権・女子】“帰ってきた”ファンエンペルが伏兵——約1年ぶり復帰組が虹に挑む、本命はブランドとシュライバー",
+      "layer1": "欧州選手権女子(ゼダム)の本命はルシンダ・ブランドとマリー・シュライバー(ルクセンブルク)。ダークホースにフェム・ファンエンペルとアルバラードの名。",
+      "layer2": "ファンエンペルは“心と体のため”に第一線を離れ、約1年ぶりに戦列へ戻った世界女王格。まだ本調子でなくとも、オランダ勢の分厚い争いに割って入れば一気に物語になる。前回王者インゲ・ファンデルハイデンも地元で巻き返しを狙い、“内輪のオランダ対決”は決して一枚岩ではない。結果速報よりも、戻ってきた選手が何を取り戻すかに目が行く一戦。",
       "sources": [
-        { "t": "Cycling Up To Date", "u": "https://cyclinguptodate.com/cycling/he-can-fight-for-victory-in-a-grand-tour-giro-redemption-beckons-for-isaac-del-toro-in-2027-as-uae-keep-tour-de-france-centred-on-tadej-pogacar", "d": "2026-11-03" },
-        { "t": "Domestique Cycling", "u": "https://www.domestiquecycling.com/en/news/were-doing-everything-we-can-tour-down-under-boss-reveals-push-to-bring-tadej-pogacar-back/", "d": "2026-10" }
+        { "t": "ProCyclingUK(女子プレビュー)", "u": "https://procyclinguk.com/european-cyclocross-championships-zeddam-2026-elite-women-preview/", "d": "2026-11-04" },
+        { "t": "idlprocycling(女子展望)", "u": "https://www.idlprocycling.com/cyclo-cross/2026-european-cyclocross-championships-women-the-netherlands-biggest-competition-comes-from-red-white-and-blue", "d": "2026-11-04" }
       ],
-      "status": "曖昧＝UAEの最終カレンダーは未発表(11〜12月決定)。『ジロ不出場』『デルトロ本命』は報道ベース、※本人・チームの確定発表待ち。"
+      "status": "確定＝本命・開催日／曖昧＝ファンエンペルの仕上がりは未知数(伏兵評価)"
     },
     {
-      "id": "20261104-vingegaard-visma-double",
+      "id": "20261105-folding-helmet-study",
       "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/Team-Visma-Lease-a-Bike/CORVOS_00039131-243.jpg?width=2400&height=1260&quality=75&crop=7572%2C3975%2C0%2C536",
-      "headline": "【トレンド・GCの読み／11/3以降】ヴィスマは『ジロ×ツール2冠挑戦』を再検討——山盛り2027ジロ解禁で、ヴィンゲゴーの“ダブル”判断が数週間内に",
-      "layer1": "2027のジロ(超山岳)とツール(TT71km・山頂3つ)の全容が出そろい、ヴィスマはヴィンゲゴーに「ジロ×ツールのダブル」を課すか“数週間内に”決める、とプルッフ代表。鎖骨骨折で2026ツールを途中棄権した二度の覇者の復帰設計が焦点。",
-      "layer2": "先回り——ジレンマの正体。2027ツールはEdinburgh発(7/2)でTT偏重＝ヴィンゲゴーにはやや不利寄り。一方ジロは山岳天国でGC向き。「ジロで上げてツールへ」は2026にも試した路線だが、落車続きで“直近の実データが乏しい”とヴィスマ自身が認めており、ダブルは諸刃。ブレナンやファンアールトら駒は揃い、誰をどのGTに置くかが春までの最大の宿題。",
+      "image": "https://cdn.road.cc/wp-content/uploads/2026/11/Newlane-helmet-in-testing.jpeg",
+      "headline": "【トレンド・安全／11/4】折りたたみヘルメットは『通常比で頭部リスク相対20%増』——英インペリアル大が30個を比較、重さは461g vs 294g",
+      "layer1": "ロンドン・インペリアル大のダイソン・デザイン工学部が、英国で買える折りたたみ式6個＋通常24個の計30個を比較(Road Safety Trust助成)。",
+      "layer2": "線形(直線)衝撃の予測傷害リスクは折りたたみ平均24%・通常20%で『4ポイント差＝相対で約20%高い』。回転衝撃では差なし。重量は折りたたみ461g・通常294g(57%重い)で、10g重いごとにリスクは+0.2%。MIPS搭載は折りたたみ6個中1個に対し通常は24個中12個。ただし“一位級”は設計次第——Newlane社のMIPS付き折りたたみは30個中2位、非MIPS版は26位。同社は「“畳めるか”でなく“どの折りたたみか”の問題だ」と見出しに反論し、上位10個中9個がMIPS付きだと指摘。",
       "sources": [
-        { "t": "Domestique Cycling", "u": "https://www.domestiquecycling.com/en/news/visma-admit-missing-key-vingegaard-data-as-2027-tour-route-presents-new-challenge/", "d": "2026-11" },
-        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/visma-say-there-could-have-been-more-summit-finishes-on-2027-tour-de-france-route-but-remain-certain-of-opportunities-for-two-time-winner-jonas-vingegaard/", "d": "2026-10" }
+        { "t": "road.cc(研究報道)", "u": "https://road.cc/news/researchers-find-collapsible-bike-helmets-provide-less-protection", "d": "2026-11-04" },
+        { "t": "PubMed(研究記録)", "u": "https://pubmed.ncbi.nlm.nih.gov/42858485/", "d": "2026-11" }
       ],
-      "status": "曖昧＝ダブル挑戦は検討段階、決定は数週間内の見込み。※最終はチーム発表待ち。"
+      "status": "確定＝数値・助成元・ブランド順位／曖昧＝査読誌名は記事に明記なし(PubMed記録あり)"
     },
     {
-      "id": "20261104-greek-ppc-pinarello",
-      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/Pinarello-Q36.5-Pro-Cycling/CORVOS_00039129-040.jpg?width=2400&height=1260&quality=75&crop=6000%2C3150%2C0%2C425",
-      "headline": "【トレンド・業界／11/3】ギリシャ発の新プロチームが始動へ——電力大手PPCが出資、『ピナレロ・Q36.5の育成チーム』化の観測も",
-      "layer1": "11/3、ギリシャの電力大手PPCを後ろ盾にした新チームがUCIコンチネンタル級で2027始動へ動いている、と報道。将来的にピナレロ・Q36.5(ピドコック在籍)の“育成チーム”になる可能性が取り沙汰されている。",
-      "layer2": "先回り——なぜ重要? ①新興国マネーの流入が続き、プロチームの“裾野”が広がっている ②トップチームが育成組織(フィーダー)を持つ流れが加速(リドル・トレックの女子育成新設と同じ潮流)。自転車ビジネスが新市場・新スポンサーで再編されている証左で、機材サプライヤー(ピナレロ＝伊)の勢力図にも波及しうる。※出資額・陣容・提携の細部は未確定。",
+      "id": "20261105-jp-helmet-market",
+      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
+      "image": "https://cdn.road.cc/wp-content/uploads/2026/11/Newlane-helmet-in-testing.jpeg",
+      "headline": "【経営メモ・市場／国内・Xバズ起点】折りたたみヘルメット“安全性論争”は買い替えの商機——努力義務時代の通勤・輪行層に、店が『設計とMIPS』を助言できるか",
+      "layer1": "英インペリアル大の新研究(折りたたみは通常比でリスク相対20%増・MIPS少・重い)がX発で拡散。日本は2023年4月からヘルメット着用“努力義務”で、折りたたみは通勤・輪行層に広く普及している。",
+      "layer2": "日本のローディーや通勤層でも「折りたたみは本当に安全か」はXで定期的に燃える話題。裏取りの核は今回の研究＝『畳めること自体』より“MIPSの有無・重さ・設計”が効くという点。店の立ち位置は明確で、安さや携帯性だけで勧めず、MIPS付き・適正重量を数値の根拠つきで提案できれば、買い替え相談そのものが信頼につながる。※Xの反応はあくまで入口、主役は研究の数値。",
       "sources": [
-        { "t": "Domestique Cycling", "u": "https://www.domestiquecycling.com/en/news/ambitious-new-greek-cycling-team-takes-shape-as-surprise-pinarello-q36-5-link-emerges/", "d": "2026-11-03" }
+        { "t": "road.cc(研究報道＝裏取り)", "u": "https://road.cc/news/researchers-find-collapsible-bike-helmets-provide-less-protection", "d": "2026-11-04" }
       ],
-      "status": "曖昧＝報道ベース。PPC出資・Q36.5育成化は観測、※公式発表待ち。"
+      "status": "確定＝研究＝裏取り済／曖昧＝国内の折りたたみ販売比率は公的統計なし(体感ベース)、Xの盛り上がりは入口"
     },
     {
-      "id": "20261104-china-carbon-climbing-wheels",
+      "id": "20261105-industry-split",
+      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
+      "image": "https://vmn-bike-eu.imgix.net/2026/04/YmOHjsBZ-bike-europe-shimano-results-q1-2026-2.jpg?auto=compress,format&q=50&w=600",
+      "headline": "【経営メモ・市場／業界の地合い・11/2報】世界の自転車は『欧州は在庫正常化・北米は関税で高止まり』——二極化のなか、店主が見る体温計",
+      "layer1": "11/2前後に出た各社・業界集計で、欧州は完成車小売が堅調かつ独の市場在庫が改善、一方で北米は関税と高価格で需要が弱いまま、との読みが並んだ。",
+      "layer2": "シマノの1-9月は自転車部品が伸び通期見通しも上方修正(為替の後押しが大きい)で、欧州“堅調”・北米“弱い”と明記。業界団体NBDAも2026年の北米小売レポートで運営難と先行き不透明を指摘している。日本の店への示唆は三つ——①中級以上の価格高止まりは当面続く②欧州型の“在庫正常化→適正発注”局面は追い風③年末は型落ち処分と新価格モデルの二本立てで構える。SEO系サイトのシェア数値は根拠が怪しく、ここでは採らない。",
+      "sources": [
+        { "t": "Bike Europe(シマノ見通し)", "u": "https://www.bike-eu.com/53471/shimano-raises-bike-profit-forecast", "d": "2026-11" },
+        { "t": "Cycling Industry News(NBDA小売報告ほか)", "u": "https://cyclingindustry.news/", "d": "2026-11" },
+        { "t": "the5krunner(シマノQ3速報)", "u": "https://the5krunner.com/2026/11/02/quick-read-shimano-q3-2026-results/", "d": "2026-11-02" }
+      ],
+      "status": "確定＝欧州堅調/北米弱い・在庫改善の方向／曖昧＝国別の正確な数値は出典で幅あり"
+    },
+    {
+      "id": "20261105-china-wheel-weight",
       "genre": "wheel", "genreLabel": "WHEEL", "genreJa": "ホイール", "hot": false,
-      "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png",
-      "headline": "【ホイール・機材読み／“山の2027”解禁に乗せて】クライマーの季節に効くのは『軽さ×ハブ×内寸』——中華カーボンで登坂ホイールを外さない3点",
-      "layer1": "男女ジロが“超山岳”で解禁され、登坂ホイールへの関心が再燃。中華カーボン(8LIEN/CRW等)は今や性能で大手に並ぶとの評価も増え、1,300g前後の軽量リムが現実的な価格で狙える。",
-      "layer2": "先回り——登りで本当に効く3点。①重量はリム外周(回転部)が最重要＝カタログ総重量より『リム単体の軽さ』を見る ②浅リム(33〜40mm)＋フックレスなら横風と登り返しで扱いやすい ③見落としがちな『ハブの中身(ベアリング/ラチェット)』と内寸(21〜23mm)——ここが安物と良品の分かれ目で、保証とアフターも必ず確認。“軽い中華”は増えたが、差が出るのは数字に出ないハブと仕上げ。",
+      "image": "https://www.cyclistshub.com/wp-content/uploads/2021/03/Best-Chinese-Carbon-Road-Bike-Wheels.jpg",
+      "headline": "【ホイール・機材読み／“軽さ神話”が話題のいまに乗せて】ヘルメットで『軽さ＝正義ではない』が議論に——ホイールも同じ、中華カーボンで“軽さより効く”3点",
+      "layer1": "ヘルメット研究で「軽さだけ追うと安全や実力を落とす」という議論が起きた。ホイールも“軽さ”は数ある指標の一つにすぎない。",
+      "layer2": "中華カーボンで外さない3点。①リム内寸×タイヤ幅＝いまは内寸21〜23mm＋28〜30Cが快適と転がりの最適帯。細すぎ・広すぎを避ける。②ハブの“中身”＝シールの質と玉当て/ベアリング品質が、冬の雨・泥での寿命を決める。③スポーク本数と組み＝軽量偏重より、体重と用途に合う剛性を優先。カタログ重量より、この3点が実走の満足を左右する。ヒルクライム一本なら軽さも効くが、“軽さ最優先”は冬ほど裏目に出やすい。",
       "sources": [
-        { "t": "Velofanatics 中華カーボンホイール2026", "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/", "d": "2026" },
-        { "t": "road.cc 中華vs欧米ホイール比較", "u": "https://road.cc/content/feature/chinese-wheels-vs-western-wheels-312079", "d": "2026" }
+        { "t": "road.cc(軽さ議論の起点)", "u": "https://road.cc/news/researchers-find-collapsible-bike-helmets-provide-less-protection", "d": "2026-11-04" },
+        { "t": "Cyclists Hub(中華カーボン比較・参考)", "u": "https://www.cyclistshub.com/best-chinese-carbon-wheels/", "d": "2026" }
       ],
-      "status": "確定＝軽量中華リムの価格優位は複数レビューで一致。曖昧＝個体差・ハブ品質はブランド差大、※試乗/レビューで裏取り推奨。"
+      "status": "確定＝選定観点は普遍／曖昧＝具体数値は製品差あり、各ブランドの実測は要確認"
     },
     {
-      "id": "20261104-beginner-climbing-gearing",
+      "id": "20261105-honda-rn0",
+      "genre": "parts", "genreLabel": "PARTS", "genreJa": "パーツ", "hot": false,
+      "image": "https://gagadget.com/media/cache/ed/22/ed22ef029aacba5519f55ab4642fbc6d.webp",
+      "headline": "【パーツ・機材の最前線／“次世代シマノ”観測】ホンダ初のeMTB『RN0』——展示機はEP8だが“別形状ケーシング”が映り新型ユニット観測、量産は2027",
+      "layer1": "ホンダが約20年ぶりにMTBへ復帰し、初のeMTB「RN0」を公開(9月ジローナ発表、国内でも11/4付で詳報)。独自カーボンモノコック(Rotwild系ADPと共同開発)、量産は2027年予定。",
+      "layer2": "注目は駆動系。展示車はシマノEP8(85Nm)だが、ホンダ公式動画のプロトは現行EP801と“ケーシング形状が違う”とされ、次世代シマノ製ユニットの観測を呼んでいる——ただし両社とも未確認(※要裏取り)。背景にはEP8のシェア低下(27%→13.3%との集計も)。ロード乗りへの含意は、シマノがeの新ユニットを実際に動かしている兆候＝将来の部品ロードマップを読む手がかりになること。",
+      "sources": [
+        { "t": "Bikerumor(新型モーター観測)", "u": "https://bikerumor.com/honda-motors-back-into-mountain-bikes-well-emtbs-maybe-with-new-shimano-motor/", "d": "2026" },
+        { "t": "gagadget(RN0詳報)", "u": "https://gagadget.com/en/726819-honda-is-back-in-mountain-bikes-this-time-with-an-electric-one/", "d": "2026" },
+        { "t": "シクロワイアード(国内詳報)", "u": "https://www.cyclowired.jp/", "d": "2026-11-04" }
+      ],
+      "status": "確定＝RN0公開・カーボン・2027量産／曖昧＝新ユニットは“観測”で未確認(※要裏取り)、シェア数値も集計依存"
+    },
+    {
+      "id": "20261105-beginner-indoor-start",
       "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/ZTGWgUMjVqtkRHrwARN2z7-2560-80.jpg",
-      "headline": "【初中級・登りの理屈／“クライマーのジロ”に乗せて】はじめてのヒルクライムは『ギア比』で決まる——初中級が折れない3点、軽さより“回す”",
-      "layer1": "2027ジロが激坂だらけで発表され、ヒルクライム熱が上がる季節。初中級が最初につまずくのは体力より“ギアの選択”。足を残すには、まず機材の設定を見直す。",
-      "layer2": "先回り——折れない3点。①フロントはコンパクト(50-34T)、リアは11-34T級の“軽いギア”を用意＝激坂で30rpm以下に落とさない ②『踏む』より『回す(ケイデンス70〜85)』——筋より心肺で登るほうが長くもつ ③体重1kg減はホイール数万円より効く＝まず身体、次に機材。プロの“ダンシングで踏む”は真似ず、座って一定ペースが初中級の正解。中華カーボンの軽量ホイールは“最後の一押し”で、順番は体→ギア→機材。",
+      "image": "https://procyclinguk.com/wp-content/uploads/2025/09/608445-tsoz_fall-25_pr_click-2-ad4cab-original-1756298643.jpg",
+      "headline": "【初中級・冬の始め方／CX本番・室内シーズンに乗せて】室内トレは『機材より“最初の設定”』——初中級がつまずかない3点、始める前のチェック",
+      "layer1": "欧州はCX本番＝ロードはオフ、日本も室内トレの季節に入った。だが“買って終わり”で続かない人が多い。",
+      "layer2": "始める前の3点。①固定ローラーより“スマートトレーナー＋ANT+/Bluetooth”で負荷自動＝勾配連動の没入感が継続率を上げる。②扇風機と汗・床対策＝暑さと機材の塩害が最大の離脱・故障要因で、マット＋大型ファンは最初に用意。③最初の設定は“FTP計測よりゾーン2の時間”から＝いきなり高強度レースはケガと燃え尽きの元。機材をどれだけ良くしても、設定と環境が合わなければ続かない。",
       "sources": [
-        { "t": "Giro d'Italia 公式(2027ルート・きっかけ)", "u": "https://www.giroditalia.it/en/the-route/", "d": "2026-11-03" }
+        { "t": "road.cc(室内トレ季節の話題・11/4ライブ)", "u": "https://road.cc/news/cycling-live-blog-4-november-2026", "d": "2026-11-04" },
+        { "t": "ProCyclingUK(Zwift冬準備・参考)", "u": "https://procyclinguk.com/zwift-expands-hardware-software-and-racing-options-ahead-of-2025-26-winter-training-season", "d": "2025-09" }
       ],
-      "status": "確定＝ギア比/ケイデンスの基本は普遍。曖昧＝最適値は個人差、体力・体重に合わせ調整。"
-    },
-    {
-      "id": "20261104-market-2027-pricing",
-      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://d21buns5ku92am.cloudfront.net/69727/images/693209-1133910_O_P_50-cb546b-large-1786083723.jpg",
-      "headline": "【経営メモ・市場／国内・年末商戦】2027モデルは『値上げ二極化』、年末は“型落ち在庫処分”——冬の端境期を乗り切る店の構え",
-      "layer1": "2027新車は「エントリーは踏ん張り・ミドル以上は値上げ」の二極化が続く(海外勢もCube 2027が軽量化しつつ上位は高価格帯へ)。国内は完成車高騰で実需が鈍く、冬は販売の端境期。",
-      "layer2": "先回り——経営の勘所。①“今”の稼ぎ頭は新車より『型落ち在庫処分(10〜11月に20〜40%OFF)＋整備・冬装備・室内トレ機材』——客単価より回転と粗利ミックス ②2027値上げ前の“駆け込み”と、値上げ後の“型落ち狙い”の二層需要を在庫で受ける ③高価格帯は「価格より提案(フィッティング/保証/中華の受け皿)」で差別化。来店が落ちる冬こそ、既存客への整備・アップグレード提案が効く。",
-      "sources": [
-        { "t": "Cube 2027コレクション(値付けの一例)", "u": "https://press.oneway.bike/269024-cube-launches-a-new-chapter-with-its-2027-collection/", "d": "2026-08-12" }
-      ],
-      "status": "市場分析(経営メモ)。確定＝値上げ二極化の傾向。曖昧＝各社の国内最終価格は代理店発表待ち。"
-    },
-    {
-      "id": "20261104-market-helmet-aokippu",
-      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://kuruma-news.jp/wp-content/uploads/2027/06/pixta_133541978_M.jpg?v=1781157076",
-      "headline": "【経営メモ・市場／Xバズ起点】ヘルメット着用率は『21.2%』どまり——青切符時代でもXで燃える“ノーヘル・公道マナー”、買い替え需要は店の商機",
-      "layer1": "努力義務化3年でもヘルメット着用率は伸び悩み(警察庁：2023年13.5%→2024年17%→2025年21.2%)。青切符制度(2026年4月開始)と相まって、Xでは“ノーヘル・危険運転・マナー”が定期的に燃える。",
-      "layer2": "先回り——店視点の読み。①着用率は右肩上がりでも2割強＝“未着用8割”は裏返せば巨大な未開拓需要。青切符の浸透で「そろそろヘルメット」という来店理由が生まれている ②買い替えサイクル(落車・経年・規格更新)も商機＝価格より『サイズ/安全規格/涼しさ』の提案で単価を上げられる ③Xの炎上は「人が言いたくなるテーマ」＝安全啓発の発信は共感を得やすい。煽らず“正しく怖がる”情報が店の信頼に。※着用率は警察庁調査、Xの“空気”は裏取り前提。",
-      "sources": [
-        { "t": "神奈川県警/警察庁 着用率データ", "u": "https://www.police.pref.kanagawa.jp/ps/kanazawa/entry_38.html", "d": "2026" },
-        { "t": "くるまのニュース(ノーヘル事故報道)", "u": "https://kuruma-news.jp/post/1072883", "d": "2026" }
-      ],
-      "status": "確定＝着用率の数値は警察庁調査。曖昧＝Xの論争規模は定性的、※個別投稿は裏取り要。"
+      "status": "確定＝続け方のセオリーは普遍／曖昧＝製品個別の対応・設定は要確認"
     }
   ]
 }
