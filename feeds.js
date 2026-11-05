@@ -1,5 +1,254 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-11-06",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。明日11/7-8はCX欧州選手権ゼダム開幕——前回王者アーツ欠場で新王者が確定します。2027ツールは“反ポガチャル設計”と騒がれるも本人は『いつも大体同じ』と一蹴。国内はさいたまクリテまであと9日、来店導線の仕込みどきです。",
+    "cards": [
+      {
+        "id": "20261106-tdf2027-pogacar-shrug",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-10%2Ftadej-pogacar-urska-zigart-6ae5b695cb519.png",
+        "headline": "【🔥今日の一本・レース／11/5・2027ツール】“史上屈指のITT偏重(計71km)”反ポガチャル設計、だが本人は『いつも大体同じ』と一蹴——ラスムッセンは『ヴィンゲゴーの表彰台は消えた』",
+        "layer1": "2027ツール・ド・フランスのコースにプロトンが反応。個人TT計71km(38km＋33km)と山頂フィニッシュ減でポガチャル以外を利する“反ポガチャル”設計と評されるが、当のポガチャルは「いつも大体同じだ」と大きく動じていない(11/5)。",
+        "layer2": "元プロのミカエル・ラスムッセンはViaplayで『ヴィンゲゴーがパリの表彰台に乗る目はない、優勝の船はもう出た』と断言。平坦基調のTT71kmはエヴェネプールやセイシャスに有利で、ASOの“主役交代”の合図だと読む。早期オッズもポガチャル1.25倍、セイシャス4.50、エヴェネプール8.0、ヴィンゲゴー10.0と続き、挑戦者の筆頭がヴィンゲゴーから移りつつある構図。ただし失速や序列の話は評論家予想とブックメーカーの見立てで、ASO・選手本人の公式見解ではない。",
+        "sources": [
+          {
+            "t": "idlprocycling(ポガチャルの反応)",
+            "u": "https://www.idlprocycling.com/cycling/tadej-pogacar-isnt-especially-impressed-by-the-2027-tour-de-france-route-its-always-more-or-less-the-same",
+            "d": "2026-11-05"
+          },
+          {
+            "t": "Domestique(ラスムッセンの見立て)",
+            "u": "https://www.domestiquecycling.com/en/news/vingegaard-will-miss-tour-de-france-podium-michael-rasmussen-delivers-grim-verdict-on-2027-route/",
+            "d": "2026-10-27"
+          }
+        ],
+        "status": "確定＝コースのITT計71km・山頂フィニッシュ減、ポガチャル発言『いつも大体同じ』／曖昧＝ヴィンゲゴー失速や主役交代は評論家予想・オッズベース(※断定しない)"
+      },
+      {
+        "id": "20261106-euro-cx-zeddam-eve",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-11%2Ftrap-ek-veldrijden-zeddam.jpg",
+        "headline": "【レース・今週末11/7-8／欧州選手権・直前】CX欧州選手権ゼダム明日開幕——前回王者アーツ負傷欠場で“新王者確定”、本命ティボー・ナイスは重圧を認め、名物『99段の階段』が勝負を分ける",
+        "layer1": "シクロクロス欧州選手権が11/7-8、オランダ・ゼダム(2006年世界選の舞台)で開幕。前回王者トーン・アーツが膝の負傷で欠場し、エリート男子は“新王者”が生まれることが確定した。",
+        "layer2": "本命は好調のティボー・ナイスとミカエル・ファントゥーレンハウト、地元ヨリス・ニーウェンハウス。ナイスは本命扱いを『重圧になって自分に跳ね返るかも』と認めた(11/4)。ファンアールトは出場確定、VDPは未定、ピドコックは不参加。コースは2006年世界選を現代化し、約100段(報道で“99段”)の階段が最大の難所。スタートはエリート女子が11/7・15:00、エリート男子が11/8・15:00(現地時間)。スペインはフェリペ・オルツを主将に全6カテゴリー15名を派遣する。",
+        "sources": [
+          {
+            "t": "idlprocycling(99段と本命)",
+            "u": "https://www.idlprocycling.com/cyclo-cross/how-the-european-championship-favourites-will-tackle-the-99-steps-this-weekend-take-the-stairs-instead-of-the-elevator",
+            "d": "2026-11-05"
+          },
+          {
+            "t": "CyclingUpToDate(スペイン代表)",
+            "u": "https://cyclinguptodate.com/cyclocross/felipe-orts-spearheads-spains-european-championship-medal-bid-as-full-cyclocross-squad-confirmed",
+            "d": "2026-11-04"
+          }
+        ],
+        "status": "確定＝日程11/7-8・会場ゼダム・アーツ欠場・VvA出場・スタート時刻／曖昧＝VDP参加は未定、優勝争いは予想"
+      },
+      {
+        "id": "20261106-van-empel-return",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-10%2Ffemvanempel-6ad4706eb3cd4.jpg",
+        "headline": "【レース・人間ドラマ／11/3・女子】フェム・ファンエンペル『何も「絶対」ではない』——約1年のキャリア不安を越えてコッペンベルグで復帰",
+        "layer1": "女子CXの元世界王者フェム・ファンエンペルが、約1年の不安定な時期を経てコッペンベルグクロスで復帰(11/3)。『何かを“しなければ”ということは何もない』と、肩の力を抜いた心境を語った。",
+        "layer2": "体調と燃え尽きの問題で長く第一線を離れていた選手の“戻り方”は、初中級にも効く示唆。結果より『また楽しいと思えるか』を起点に据える姿勢は、冬にモチベーションを崩しがちな層への良い手本になる。明日からの欧州選手権(11/7-8)でどこまで戻せるかが次の焦点。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cyclocross/nothing-is-a-must-fem-van-empel-completes-koppenbergcross-return-after-year-of-career-uncertainty",
+            "d": "2026-11-03"
+          }
+        ],
+        "status": "確定＝復帰・本人の発言／曖昧＝本格的な競技力の回復度は未知数"
+      },
+      {
+        "id": "20261106-touze-carnage",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-02%2Fdamientouze-6994d78d388b2.jpg",
+        "headline": "【レース・人間ドラマ／11/5】『まるで地獄だった、すぐ隣で人が亡くなるのを見た』——5度のグランツール出場トゥゼが瀕死のクラッシュからキャリア再建へ",
+        "layer1": "5度のグランツールを走ったダミアン・トゥゼが、2026年の重大クラッシュの惨状を証言。『カオスだった。すぐ隣で人が亡くなるのを見た』と語り、キャリア存続をかけてリハビリ中であることを明かした(11/5)。",
+        "layer2": "レースの落車は時に“命に関わる”——という当たり前の重さを、生還した当事者の言葉が突きつける。今季、選手の安全(コース設計・集団密度・ヘルメット)の議論が繰り返し起きる背景には、こうした現場の恐怖がある。トゥゼ個人の復帰時期やレベルは未定で、まずは健康の回復が最優先。具体的な負傷内容や相手選手の事実関係は本人証言ベースで、数字の裏取りはしていない。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/it-was-carnage-i-saw-the-man-next-to-me-die-five-time-grand-tour-rider-fighting-for-career-after-near-fatal-2026-crash",
+            "d": "2026-11-05"
+          }
+        ],
+        "status": "確定＝本人の証言・リハビリ中／曖昧＝復帰の可否・時期は不明(※詳細は本人証言ベース、要裏取り)"
+      },
+      {
+        "id": "20261106-sven-nys-tactics",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-01%2Fcyclocross-thibaunys-2-69775a4f4f199.jpg",
+        "headline": "【レース・人間ドラマ／11/3・親子の確執】スヴェン・ナイスが息子ティボーの戦い方に激怒『あの傲慢さには我慢できない』——劇的なコッペンベルグ勝利の裏で",
+        "layer1": "父で名将のスヴェン・ナイスが、コッペンベルグクロスを劇的に制した息子ティボーの“レース運び”に公然と苦言。『あの傲慢さには我慢できない』と語り、勝っても満足しない父の姿が話題に(11/3)。",
+        "layer2": "ティボーは今季好調で欧州選手権(11/7-8)の本命の一角。だが“落車や無理な仕掛け”を繰り返す戦い方に、元王者の父が危うさを感じているのが本音だろう。欧州選手権を前に、才能の爆発力と自己管理のバランスが問われる——親子という物語性も相まって、CX開幕の見どころを一段深くする一件。コメントのニュアンスは媒体訳で、原語の強弱は多少ぶれうる。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cyclocross/i-cant-stand-that-arrogance-sven-nys-fumes-at-son-thibaus-tactics-before-dramatic-koppenbergcross-victory",
+            "d": "2026-11-03"
+          }
+        ],
+        "status": "確定＝ティボーのコッペンベルグ勝利・父の苦言／曖昧＝発言の細かなニュアンスは媒体訳ベース"
+      },
+      {
+        "id": "20261106-nibali-seixas-giro",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-10%2Fpaul-seixas-6ae0c893ed85a.jpg",
+        "headline": "【レース・読み／11/5】ニバリ『セイシャスは2027ジロを勝てる』——ただし“残酷で決定的になりうる1日”で大量失点のリスクも",
+        "layer1": "2度のジロ総合覇者ヴィンチェンツォ・ニバリが、20歳のポール・セイシャスを『2027ジロの優勝候補』と評価(11/5)。一方で『致命的になりうる1日』で大きく時間を失う危険も警告した。",
+        "layer2": "2027ジロはモルティローロ2回＋ガビア＋ゾンコラン復活の“クライマーの祝祭”(11/3報)。超級山岳が連続する設計は勢いのある若手に味方する一方、わずかなミスが総合を吹き飛ばす諸刃の剣。デカトロンの新世代が3週間グランツールで通用するかは、まさにこの『1日の管理』にかかる。セイシャスの2027ジロ出場自体はまだ確定ではなく、現時点は評価・予想の段階。",
+        "sources": [
+          {
+            "t": "idlprocycling",
+            "u": "https://www.idlprocycling.com/cycling/vincenzo-nibali-sees-seixas-winning-the-giro-ditalia-in-2027-a-brutal-potentially-decisive-day",
+            "d": "2026-11-05"
+          }
+        ],
+        "status": "確定＝ニバリの評価コメント／曖昧＝セイシャスの出場・結果は未定(予想)"
+      },
+      {
+        "id": "20261106-goat-film-pogacar",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2025-07%2Fpogacar-imago1064227556-687a6b811672f.jpg",
+        "headline": "【トレンド・話題／11/5】『GOATの解剖』——ポガチャルの45分ドキュメンタリー公開、メルクス・コンタドール・G.トーマスが賛辞",
+        "layer1": "タデイ・ポガチャルを追った45分のドキュメンタリー『Anatomy of a G.O.A.T.』が話題。エディ・メルクス、アルベルト・コンタドール、ゲラント・トーマスら伝説級が賛辞を寄せる構成になっている(11/5)。",
+        "layer2": "現役の“史上最強”論を、本人が全盛のうちに作品化する流れ自体がトレンド。ファンの熱量＝動画・解説コンテンツの伸びしろで、国内でも『ポガチャルとは何者か』を入口にした解説は刺さりやすい。配信先や日本での視聴可否は要確認で、ここは断定しない。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/anatomy-of-a-goat-45-minute-long-film-on-tadej-pogacar-features-praise-from-merckx-contador-and-thomas",
+            "d": "2026-11-05"
+          }
+        ],
+        "status": "確定＝映画の存在・出演者の賛辞／曖昧＝国内配信・視聴方法は未確認(※要裏取り)"
+      },
+      {
+        "id": "20261106-wheel-numbers-myth",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-11%2Fpaul-seixasluke-rowe-collage-6aec87a9c9e9b.png",
+        "headline": "【ホイール・機材読み／“ワット/kg偏重”への疑問に乗せて】ルーク・ロウ『数字が全てじゃない』——ホイールも“カタログ値神話”を疑え、中華カーボンで本当に見る3点",
+        "layer1": "元イネオス主将ルーク・ロウが『ワット/kgが全てじゃない』と数値偏重に疑問を呈し、デカトロンが大手に挑む構図とともに話題に(11/5)。機材選びも同じで、カタログ上の数字だけでは語れない。",
+        "layer2": "ホイールで“数字に騙されない”3点は——(1)公称重量より実測重量(ペアで±30〜50gのブレは普通、軽さの表記は最軽量構成のことが多い)、(2)リム単体の軽さより『ハブの中身』(ベアリング・ラチェット・防水・補修パーツの入手性)、(3)公称剛性よりスポーク本数と組み方。うちが扱うファースポーツも2026モデルで新オーバルスポーク(3.8mmブレード)＋ハブ刷新(公称で横剛性＋10%/軽量化5%)を打ち出すなど、“中華＝安かろう”の次は『中身の説明力』で差がつく局面。なおファースポーツの剛性・軽量化はメーカー公称で、第三者の実測ではない。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate(ロウの発言)",
+            "u": "https://cyclinguptodate.com/cycling/watts-per-kilo-dont-count-for-everything-former-ineos-road-captain-luke-rowe-questions-cyclings-power-obsession-as-decathlon-take-on-pelotons-biggest-teams",
+            "d": "2026-11-05"
+          },
+          {
+            "t": "enroute(ファースポーツ2026 Sシリーズ・補足)",
+            "u": "https://enroute.cc/products/farsports-2026-new-evo-s-series",
+            "d": "2025-11"
+          }
+        ],
+        "status": "確定＝ロウの発言・機材選びの一般論／曖昧＝ファースポーツの剛性/軽量化はメーカー公称(※第三者実測は要裏取り)"
+      },
+      {
+        "id": "20261106-saitama-crit",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://prcdn.freetls.fastly.net/release_image/140218/359/140218-359-dc2023d109fb699ef9d34ce3c27577b1-2043x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+        "headline": "【経営メモ・市場／国内・11/15開催】さいたまクリテリウムは“あと9日”——フィリプセン＆ギルマイ来日確定、冬の『来店動機』を取りこぼさない",
+        "layer1": "『2026 ツール・ド・フランスさいたまクリテリウム』が11/15(日)さいたま新都心で開催(あと9日)。ヤスペル・フィリプセン(2022年覇者・3度目の出場)とビニヤム・ギルマイ(2024年覇者・2大会ぶり2回目)の出場が公式発表された。",
+        "layer2": "世界トップ選手が走る国内最大級のロード祭りは、観戦きっかけで店に来る“にわか”層が最も動く日。グッズ・入門ウェア・パンク対応・来季モデル相談まで、当日〜翌週の来店導線を今から用意しておくと取りこぼしが減る。同日に『2026サイクルフェスタ』も併催され、家族連れの裾野も広い。出場選手は現時点でこの2名のみ公表で、追加は未発表。",
+        "sources": [
+          {
+            "t": "さいたま市(公式発表)",
+            "u": "https://www.city.saitama.lg.jp/006/014/008/003/015/004/p132400.html",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝日程11/15・会場・出場2選手／曖昧＝その他の出場選手は未発表"
+      },
+      {
+        "id": "20261106-safety-market",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-11%2Fdylan-van-baarle-6aeca0696eb8c.png",
+        "headline": "【経営メモ・市場／安全・青切符時代】プロでも“走行中に車に”——ファンバーレ被害が示す、日本の店が勧められる『自衛機材』",
+        "layer1": "元パリ〜ルーベ覇者ダイラン・ファンバーレが、結婚式の数週間前に走行中に車にはねられていたとSNSで明かし、“激動の1か月”を振り返った(11/5)。公道の危うさはプロでも同じで、青切符導入で安全意識が高まる日本でも『被害に遭わない/証明する』機材の需要は確実に伸びている。",
+        "layer2": "店が自然に勧められる自衛アイテムは——(1)デイタイムランニングライト(昼間点灯で被視認性を大きく改善)、(2)サイクル用ドラレコ/リアレーダー(事故時の証拠＋後方接近の警告)、(3)自転車向け個人賠償保険の案内。青切符は“取り締まられる側”の話題に偏りがちだが、店の商機は『安全に・賢く走る提案』の側にある。各製品の効果や保険の補償内容は製品・契約で差があり、断定せず“選び方”として助言するのが誠実。需要増は定性的な読みで、数値の裏取りはしていない。",
+        "sources": [
+          {
+            "t": "idlprocycling(ファンバーレ被害)",
+            "u": "https://www.idlprocycling.com/cycling/newlywed-dylan-van-baarle-shares-pictures-from-rollercoaster-month-hit-by-car-weeks-before-wedding",
+            "d": "2026-11-05"
+          }
+        ],
+        "status": "確定＝ファンバーレが式前に車と接触と公表・無事／曖昧＝国内の需要増は定性的な読み(※数値は要裏取り)"
+      },
+      {
+        "id": "20261106-beginner-cx-watch",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2025-12%2Ffelipeorts-2-694d655babc68.jpg",
+        "headline": "【初中級・観戦入門／明日の欧州選手権に乗せて】CXを“10倍”楽しむ3点——誰を・どこで・何を観る? ロードのオフを熱くする『泥と階段』の見方",
+        "layer1": "明日11/7-8のCX欧州選手権ゼダムは、シクロクロスに初めて触れる人の絶好の入口。ロードと違い“泥・砂・階段・担ぎ”がある短い周回レースで、初中級でも一周で面白さが掴める。",
+        "layer2": "見方の3点——(1)『誰を』：ティボー・ナイスやファントゥーレンハウトら“技術系”の下りと階段さばきに注目(力より巧さが効く)。(2)『どこで』：ゼダム名物の約100段の階段と泥の登り——ここで差が開く。(3)『何を』：タイヤの“地面の掴み方”とライン取り、そして担いで走る所作。ロードで培う脚力だけでは勝てない世界を知ると、普段の乗り方(体重移動・荷重)のヒントにもなる。放送はTNT Sports/HBO Max系の配信が案内されているが、日本での視聴可否は各自で要確認。",
+        "sources": [
+          {
+            "t": "idlprocycling(欧州選手権プレビュー)",
+            "u": "https://www.idlprocycling.com/cyclo-cross/how-the-european-championship-favourites-will-tackle-the-99-steps-this-weekend-take-the-stairs-instead-of-the-elevator",
+            "d": "2026-11-05"
+          }
+        ],
+        "status": "確定＝CXの基本構造・ゼダムの階段／曖昧＝日本での視聴手段は要確認"
+      },
+      {
+        "id": "20261106-landa-comfort-zone",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-03%2Fmikel-landa-69c25e5abdf01.jpg",
+        "headline": "【トレンド・人間ドラマ／11/5】ミケル・ランダ『ソウダル時代は少し“快適圏の外”だった』——ベテランがキャリアの選択を静かに回顧",
+        "layer1": "ベテランクライマーのミケル・ランダが、ソウダル・クイックステップでの日々を『少し自分のコンフォートゾーンの外だった』と振り返った(11/5)。勝利至上のチームで自分の役割を探し続けた数年の本音。",
+        "layer2": "“チームの色”と“自分の資質”が噛み合わない時期をどう受け止めるか——は、トップ選手でも悩む普遍のテーマ。結果が出ない年を『失敗』ではなく『快適圏の外での挑戦』と言語化できる成熟は、趣味で乗る人にもヒントになる。キャリア終盤に差し掛かるランダの去就や2027体制は、ここでは明言されていない。",
+        "sources": [
+          {
+            "t": "idlprocycling",
+            "u": "https://www.idlprocycling.com/cycling/mikel-landa-reflects-on-years-with-soudal-quick-step-a-bit-outside-my-comfort-zone",
+            "d": "2026-11-05"
+          }
+        ],
+        "status": "確定＝ランダの回顧コメント／曖昧＝今後の去就・2027体制は未言及"
+      }
+    ]
+  },
+  {
     "date": "2026-11-05",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。冬のクロス本番——今週末11/7-8はCX欧州選手権ゼダム、そして今夜11/5は“砂の古豪”ミッデルケルケ。英インペリアル大の『折りたたみヘルメット』研究がX発で波及中、これは店の買い替え相談にそのまま効きます。",
     "cards": [

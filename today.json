@@ -1,124 +1,189 @@
 {
-  "date": "2026-11-05",
-  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。冬のクロス本番——今週末11/7-8はCX欧州選手権ゼダム、そして今夜11/5は“砂の古豪”ミッデルケルケ。英インペリアル大の『折りたたみヘルメット』研究がX発で波及中、これは店の買い替え相談にそのまま効きます。",
+  "date": "2026-11-06",
+  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。明日11/7-8はCX欧州選手権ゼダム開幕——前回王者アーツ欠場で新王者が確定します。2027ツールは“反ポガチャル設計”と騒がれるも本人は『いつも大体同じ』と一蹴。国内はさいたまクリテまであと9日、来店導線の仕込みどきです。",
   "cards": [
     {
-      "id": "20261105-euro-cx-men",
-      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": true,
-      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2025-12%2Fimg-20251109-wa0008.jpg",
-      "headline": "【🔥今日の一本・レース／今週末11/8・欧州選手権】CX欧州選手権はゼダム——本命は『ナイス＆ファントゥーレンハウト』、地元ニーウェンハウスが伏兵、2006年世界選コースに“3m幅”階段",
-      "layer1": "11/7-8、オランダ・ゼダムでシクロクロス欧州選手権。エリート男子(11/8)の本命はティボー・ナイスとミカエル・ファントゥーレンハウト(ともにベルギー)。",
-      "layer2": "コースは2006年世界選の舞台を現代化。名物の階段はUCI要件で『約3m幅』に拡張され、大集団でも通りやすくなった。路面は寒く乾いて硬めの予想で、登りの“力勝負”になりそう。伏兵は地元ゼダム周辺を知り尽くすヨリス・ニーウェンハウス、ダークホースにファンデピュッテ/ワイザー/ロンハー。VDP・VvA不在のCX本番、ベルギーvsオランダの構図は変わらず。",
+      "id": "20261106-tdf2027-pogacar-shrug",
+      "genre": "race",
+      "genreLabel": "RACE",
+      "genreJa": "レース",
+      "hot": true,
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-10%2Ftadej-pogacar-urska-zigart-6ae5b695cb519.png",
+      "headline": "【🔥今日の一本・レース／11/5・2027ツール】“史上屈指のITT偏重(計71km)”反ポガチャル設計、だが本人は『いつも大体同じ』と一蹴——ラスムッセンは『ヴィンゲゴーの表彰台は消えた』",
+      "layer1": "2027ツール・ド・フランスのコースにプロトンが反応。個人TT計71km(38km＋33km)と山頂フィニッシュ減でポガチャル以外を利する“反ポガチャル”設計と評されるが、当のポガチャルは「いつも大体同じだ」と大きく動じていない(11/5)。",
+      "layer2": "元プロのミカエル・ラスムッセンはViaplayで『ヴィンゲゴーがパリの表彰台に乗る目はない、優勝の船はもう出た』と断言。平坦基調のTT71kmはエヴェネプールやセイシャスに有利で、ASOの“主役交代”の合図だと読む。早期オッズもポガチャル1.25倍、セイシャス4.50、エヴェネプール8.0、ヴィンゲゴー10.0と続き、挑戦者の筆頭がヴィンゲゴーから移りつつある構図。ただし失速や序列の話は評論家予想とブックメーカーの見立てで、ASO・選手本人の公式見解ではない。",
       "sources": [
-        { "t": "idlprocycling(男子プレビュー)", "u": "https://www.idlprocycling.com/cyclo-cross/2026-european-cyclocross-championships-men-belgium-dominates-the-lists-except-for-the-home-field-advantage", "d": "2026-11-04" },
-        { "t": "ProCyclingUK(U23/プレビュー)", "u": "https://procyclinguk.com/european-cyclocross-championships-zeddam-2026-under-23-men-preview/", "d": "2026-11-04" }
+        { "t": "idlprocycling(ポガチャルの反応)", "u": "https://www.idlprocycling.com/cycling/tadej-pogacar-isnt-especially-impressed-by-the-2027-tour-de-france-route-its-always-more-or-less-the-same", "d": "2026-11-05" },
+        { "t": "Domestique(ラスムッセンの見立て)", "u": "https://www.domestiquecycling.com/en/news/vingegaard-will-miss-tour-de-france-podium-michael-rasmussen-delivers-grim-verdict-on-2027-route/", "d": "2026-10-27" }
       ],
-      "status": "確定＝開催日11/7-8・ゼダム・階段3m拡張／曖昧＝スタートリストは予備含みで当日まで変動"
+      "status": "確定＝コースのITT計71km・山頂フィニッシュ減、ポガチャル発言『いつも大体同じ』／曖昧＝ヴィンゲゴー失速や主役交代は評論家予想・オッズベース(※断定しない)"
     },
     {
-      "id": "20261105-noordzeecross",
-      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2025-02%2Flucinda-brand-67a4a6b0e5901.png",
-      "headline": "【レース・今夜11/5／スーペルプレスティージュ第2戦】“砂の古豪”ノルドゼークロス・ミッデルケルケ——病気明けのワイザー＆メーセンが復帰、女子はブランドvsアルバラード",
-      "layer1": "本日11/5(木)夜、ベルギー・ミッデルケルケで1959年創設の砂地CX「ノルドゼークロス」(スーペルプレスティージュ第2戦)が開催。",
-      "layer2": "コッペンベルグクロスを病気で欠場したヨラン・ワイザーとウィツェ・メーセン(ともにCrelan-Corendon)が“回復して”復帰ライン入り。砂は脚力とライン取りが露骨に出る種目で、女子はルシンダ・ブランドにアルバラードが挑む構図。ここから11/11ニール→11/14メルクスプラスと平日連戦が続き、週末のゼダム欧州選へ向けた仕上がり比べにもなる。",
+      "id": "20261106-euro-cx-zeddam-eve",
+      "genre": "race",
+      "genreLabel": "RACE",
+      "genreJa": "レース",
+      "hot": false,
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-11%2Ftrap-ek-veldrijden-zeddam.jpg",
+      "headline": "【レース・今週末11/7-8／欧州選手権・直前】CX欧州選手権ゼダム明日開幕——前回王者アーツ負傷欠場で“新王者確定”、本命ティボー・ナイスは重圧を認め、名物『99段の階段』が勝負を分ける",
+      "layer1": "シクロクロス欧州選手権が11/7-8、オランダ・ゼダム(2006年世界選の舞台)で開幕。前回王者トーン・アーツが膝の負傷で欠場し、エリート男子は“新王者”が生まれることが確定した。",
+      "layer2": "本命は好調のティボー・ナイスとミカエル・ファントゥーレンハウト、地元ヨリス・ニーウェンハウス。ナイスは本命扱いを『重圧になって自分に跳ね返るかも』と認めた(11/4)。ファンアールトは出場確定、VDPは未定、ピドコックは不参加。コースは2006年世界選を現代化し、約100段(報道で“99段”)の階段が最大の難所。スタートはエリート女子が11/7・15:00、エリート男子が11/8・15:00(現地時間)。スペインはフェリペ・オルツを主将に全6カテゴリー15名を派遣する。",
       "sources": [
-        { "t": "CyclingFlash(復帰報)", "u": "https://cyclingflash.com/news/joran-wyseure-and-witse-meeussen-return-after-illness", "d": "2026-11-04" },
-        { "t": "Superprestige公式(日程)", "u": "https://www.superprestigecyclocross.be/en/calendar/2026-2027/middelkerke", "d": "2026-11-04" }
+        { "t": "idlprocycling(99段と本命)", "u": "https://www.idlprocycling.com/cyclo-cross/how-the-european-championship-favourites-will-tackle-the-99-steps-this-weekend-take-the-stairs-instead-of-the-elevator", "d": "2026-11-05" },
+        { "t": "CyclingUpToDate(スペイン代表)", "u": "https://cyclinguptodate.com/cyclocross/felipe-orts-spearheads-spains-european-championship-medal-bid-as-full-cyclocross-squad-confirmed", "d": "2026-11-04" }
       ],
-      "status": "確定＝開催日(本日)・会場・両者復帰／曖昧＝勝者は本日結果待ち"
+      "status": "確定＝日程11/7-8・会場ゼダム・アーツ欠場・VvA出場・スタート時刻／曖昧＝VDP参加は未定、優勝争いは予想"
     },
     {
-      "id": "20261105-euro-cx-women",
-      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://procyclinguk.com/wp-content/uploads/2025/10/Inge-van-der-Heijden-2025-Meulebeke.jpg",
-      "headline": "【レース・人間ドラマ／欧州選手権・女子】“帰ってきた”ファンエンペルが伏兵——約1年ぶり復帰組が虹に挑む、本命はブランドとシュライバー",
-      "layer1": "欧州選手権女子(ゼダム)の本命はルシンダ・ブランドとマリー・シュライバー(ルクセンブルク)。ダークホースにフェム・ファンエンペルとアルバラードの名。",
-      "layer2": "ファンエンペルは“心と体のため”に第一線を離れ、約1年ぶりに戦列へ戻った世界女王格。まだ本調子でなくとも、オランダ勢の分厚い争いに割って入れば一気に物語になる。前回王者インゲ・ファンデルハイデンも地元で巻き返しを狙い、“内輪のオランダ対決”は決して一枚岩ではない。結果速報よりも、戻ってきた選手が何を取り戻すかに目が行く一戦。",
+      "id": "20261106-van-empel-return",
+      "genre": "race",
+      "genreLabel": "RACE",
+      "genreJa": "レース",
+      "hot": false,
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-10%2Ffemvanempel-6ad4706eb3cd4.jpg",
+      "headline": "【レース・人間ドラマ／11/3・女子】フェム・ファンエンペル『何も「絶対」ではない』——約1年のキャリア不安を越えてコッペンベルグで復帰",
+      "layer1": "女子CXの元世界王者フェム・ファンエンペルが、約1年の不安定な時期を経てコッペンベルグクロスで復帰(11/3)。『何かを“しなければ”ということは何もない』と、肩の力を抜いた心境を語った。",
+      "layer2": "体調と燃え尽きの問題で長く第一線を離れていた選手の“戻り方”は、初中級にも効く示唆。結果より『また楽しいと思えるか』を起点に据える姿勢は、冬にモチベーションを崩しがちな層への良い手本になる。明日からの欧州選手権(11/7-8)でどこまで戻せるかが次の焦点。",
       "sources": [
-        { "t": "ProCyclingUK(女子プレビュー)", "u": "https://procyclinguk.com/european-cyclocross-championships-zeddam-2026-elite-women-preview/", "d": "2026-11-04" },
-        { "t": "idlprocycling(女子展望)", "u": "https://www.idlprocycling.com/cyclo-cross/2026-european-cyclocross-championships-women-the-netherlands-biggest-competition-comes-from-red-white-and-blue", "d": "2026-11-04" }
+        { "t": "CyclingUpToDate", "u": "https://cyclinguptodate.com/cyclocross/nothing-is-a-must-fem-van-empel-completes-koppenbergcross-return-after-year-of-career-uncertainty", "d": "2026-11-03" }
       ],
-      "status": "確定＝本命・開催日／曖昧＝ファンエンペルの仕上がりは未知数(伏兵評価)"
+      "status": "確定＝復帰・本人の発言／曖昧＝本格的な競技力の回復度は未知数"
     },
     {
-      "id": "20261105-folding-helmet-study",
-      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://cdn.road.cc/wp-content/uploads/2026/11/Newlane-helmet-in-testing.jpeg",
-      "headline": "【トレンド・安全／11/4】折りたたみヘルメットは『通常比で頭部リスク相対20%増』——英インペリアル大が30個を比較、重さは461g vs 294g",
-      "layer1": "ロンドン・インペリアル大のダイソン・デザイン工学部が、英国で買える折りたたみ式6個＋通常24個の計30個を比較(Road Safety Trust助成)。",
-      "layer2": "線形(直線)衝撃の予測傷害リスクは折りたたみ平均24%・通常20%で『4ポイント差＝相対で約20%高い』。回転衝撃では差なし。重量は折りたたみ461g・通常294g(57%重い)で、10g重いごとにリスクは+0.2%。MIPS搭載は折りたたみ6個中1個に対し通常は24個中12個。ただし“一位級”は設計次第——Newlane社のMIPS付き折りたたみは30個中2位、非MIPS版は26位。同社は「“畳めるか”でなく“どの折りたたみか”の問題だ」と見出しに反論し、上位10個中9個がMIPS付きだと指摘。",
+      "id": "20261106-touze-carnage",
+      "genre": "race",
+      "genreLabel": "RACE",
+      "genreJa": "レース",
+      "hot": false,
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-02%2Fdamientouze-6994d78d388b2.jpg",
+      "headline": "【レース・人間ドラマ／11/5】『まるで地獄だった、すぐ隣で人が亡くなるのを見た』——5度のグランツール出場トゥゼが瀕死のクラッシュからキャリア再建へ",
+      "layer1": "5度のグランツールを走ったダミアン・トゥゼが、2026年の重大クラッシュの惨状を証言。『カオスだった。すぐ隣で人が亡くなるのを見た』と語り、キャリア存続をかけてリハビリ中であることを明かした(11/5)。",
+      "layer2": "レースの落車は時に“命に関わる”——という当たり前の重さを、生還した当事者の言葉が突きつける。今季、選手の安全(コース設計・集団密度・ヘルメット)の議論が繰り返し起きる背景には、こうした現場の恐怖がある。トゥゼ個人の復帰時期やレベルは未定で、まずは健康の回復が最優先。具体的な負傷内容や相手選手の事実関係は本人証言ベースで、数字の裏取りはしていない。",
       "sources": [
-        { "t": "road.cc(研究報道)", "u": "https://road.cc/news/researchers-find-collapsible-bike-helmets-provide-less-protection", "d": "2026-11-04" },
-        { "t": "PubMed(研究記録)", "u": "https://pubmed.ncbi.nlm.nih.gov/42858485/", "d": "2026-11" }
+        { "t": "CyclingUpToDate", "u": "https://cyclinguptodate.com/cycling/it-was-carnage-i-saw-the-man-next-to-me-die-five-time-grand-tour-rider-fighting-for-career-after-near-fatal-2026-crash", "d": "2026-11-05" }
       ],
-      "status": "確定＝数値・助成元・ブランド順位／曖昧＝査読誌名は記事に明記なし(PubMed記録あり)"
+      "status": "確定＝本人の証言・リハビリ中／曖昧＝復帰の可否・時期は不明(※詳細は本人証言ベース、要裏取り)"
     },
     {
-      "id": "20261105-jp-helmet-market",
-      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://cdn.road.cc/wp-content/uploads/2026/11/Newlane-helmet-in-testing.jpeg",
-      "headline": "【経営メモ・市場／国内・Xバズ起点】折りたたみヘルメット“安全性論争”は買い替えの商機——努力義務時代の通勤・輪行層に、店が『設計とMIPS』を助言できるか",
-      "layer1": "英インペリアル大の新研究(折りたたみは通常比でリスク相対20%増・MIPS少・重い)がX発で拡散。日本は2023年4月からヘルメット着用“努力義務”で、折りたたみは通勤・輪行層に広く普及している。",
-      "layer2": "日本のローディーや通勤層でも「折りたたみは本当に安全か」はXで定期的に燃える話題。裏取りの核は今回の研究＝『畳めること自体』より“MIPSの有無・重さ・設計”が効くという点。店の立ち位置は明確で、安さや携帯性だけで勧めず、MIPS付き・適正重量を数値の根拠つきで提案できれば、買い替え相談そのものが信頼につながる。※Xの反応はあくまで入口、主役は研究の数値。",
+      "id": "20261106-sven-nys-tactics",
+      "genre": "race",
+      "genreLabel": "RACE",
+      "genreJa": "レース",
+      "hot": false,
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-01%2Fcyclocross-thibaunys-2-69775a4f4f199.jpg",
+      "headline": "【レース・人間ドラマ／11/3・親子の確執】スヴェン・ナイスが息子ティボーの戦い方に激怒『あの傲慢さには我慢できない』——劇的なコッペンベルグ勝利の裏で",
+      "layer1": "父で名将のスヴェン・ナイスが、コッペンベルグクロスを劇的に制した息子ティボーの“レース運び”に公然と苦言。『あの傲慢さには我慢できない』と語り、勝っても満足しない父の姿が話題に(11/3)。",
+      "layer2": "ティボーは今季好調で欧州選手権(11/7-8)の本命の一角。だが“落車や無理な仕掛け”を繰り返す戦い方に、元王者の父が危うさを感じているのが本音だろう。欧州選手権を前に、才能の爆発力と自己管理のバランスが問われる——親子という物語性も相まって、CX開幕の見どころを一段深くする一件。コメントのニュアンスは媒体訳で、原語の強弱は多少ぶれうる。",
       "sources": [
-        { "t": "road.cc(研究報道＝裏取り)", "u": "https://road.cc/news/researchers-find-collapsible-bike-helmets-provide-less-protection", "d": "2026-11-04" }
+        { "t": "CyclingUpToDate", "u": "https://cyclinguptodate.com/cyclocross/i-cant-stand-that-arrogance-sven-nys-fumes-at-son-thibaus-tactics-before-dramatic-koppenbergcross-victory", "d": "2026-11-03" }
       ],
-      "status": "確定＝研究＝裏取り済／曖昧＝国内の折りたたみ販売比率は公的統計なし(体感ベース)、Xの盛り上がりは入口"
+      "status": "確定＝ティボーのコッペンベルグ勝利・父の苦言／曖昧＝発言の細かなニュアンスは媒体訳ベース"
     },
     {
-      "id": "20261105-industry-split",
-      "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://vmn-bike-eu.imgix.net/2026/04/YmOHjsBZ-bike-europe-shimano-results-q1-2026-2.jpg?auto=compress,format&q=50&w=600",
-      "headline": "【経営メモ・市場／業界の地合い・11/2報】世界の自転車は『欧州は在庫正常化・北米は関税で高止まり』——二極化のなか、店主が見る体温計",
-      "layer1": "11/2前後に出た各社・業界集計で、欧州は完成車小売が堅調かつ独の市場在庫が改善、一方で北米は関税と高価格で需要が弱いまま、との読みが並んだ。",
-      "layer2": "シマノの1-9月は自転車部品が伸び通期見通しも上方修正(為替の後押しが大きい)で、欧州“堅調”・北米“弱い”と明記。業界団体NBDAも2026年の北米小売レポートで運営難と先行き不透明を指摘している。日本の店への示唆は三つ——①中級以上の価格高止まりは当面続く②欧州型の“在庫正常化→適正発注”局面は追い風③年末は型落ち処分と新価格モデルの二本立てで構える。SEO系サイトのシェア数値は根拠が怪しく、ここでは採らない。",
+      "id": "20261106-nibali-seixas-giro",
+      "genre": "race",
+      "genreLabel": "RACE",
+      "genreJa": "レース",
+      "hot": false,
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-10%2Fpaul-seixas-6ae0c893ed85a.jpg",
+      "headline": "【レース・読み／11/5】ニバリ『セイシャスは2027ジロを勝てる』——ただし“残酷で決定的になりうる1日”で大量失点のリスクも",
+      "layer1": "2度のジロ総合覇者ヴィンチェンツォ・ニバリが、20歳のポール・セイシャスを『2027ジロの優勝候補』と評価(11/5)。一方で『致命的になりうる1日』で大きく時間を失う危険も警告した。",
+      "layer2": "2027ジロはモルティローロ2回＋ガビア＋ゾンコラン復活の“クライマーの祝祭”(11/3報)。超級山岳が連続する設計は勢いのある若手に味方する一方、わずかなミスが総合を吹き飛ばす諸刃の剣。デカトロンの新世代が3週間グランツールで通用するかは、まさにこの『1日の管理』にかかる。セイシャスの2027ジロ出場自体はまだ確定ではなく、現時点は評価・予想の段階。",
       "sources": [
-        { "t": "Bike Europe(シマノ見通し)", "u": "https://www.bike-eu.com/53471/shimano-raises-bike-profit-forecast", "d": "2026-11" },
-        { "t": "Cycling Industry News(NBDA小売報告ほか)", "u": "https://cyclingindustry.news/", "d": "2026-11" },
-        { "t": "the5krunner(シマノQ3速報)", "u": "https://the5krunner.com/2026/11/02/quick-read-shimano-q3-2026-results/", "d": "2026-11-02" }
+        { "t": "idlprocycling", "u": "https://www.idlprocycling.com/cycling/vincenzo-nibali-sees-seixas-winning-the-giro-ditalia-in-2027-a-brutal-potentially-decisive-day", "d": "2026-11-05" }
       ],
-      "status": "確定＝欧州堅調/北米弱い・在庫改善の方向／曖昧＝国別の正確な数値は出典で幅あり"
+      "status": "確定＝ニバリの評価コメント／曖昧＝セイシャスの出場・結果は未定(予想)"
     },
     {
-      "id": "20261105-china-wheel-weight",
-      "genre": "wheel", "genreLabel": "WHEEL", "genreJa": "ホイール", "hot": false,
-      "image": "https://www.cyclistshub.com/wp-content/uploads/2021/03/Best-Chinese-Carbon-Road-Bike-Wheels.jpg",
-      "headline": "【ホイール・機材読み／“軽さ神話”が話題のいまに乗せて】ヘルメットで『軽さ＝正義ではない』が議論に——ホイールも同じ、中華カーボンで“軽さより効く”3点",
-      "layer1": "ヘルメット研究で「軽さだけ追うと安全や実力を落とす」という議論が起きた。ホイールも“軽さ”は数ある指標の一つにすぎない。",
-      "layer2": "中華カーボンで外さない3点。①リム内寸×タイヤ幅＝いまは内寸21〜23mm＋28〜30Cが快適と転がりの最適帯。細すぎ・広すぎを避ける。②ハブの“中身”＝シールの質と玉当て/ベアリング品質が、冬の雨・泥での寿命を決める。③スポーク本数と組み＝軽量偏重より、体重と用途に合う剛性を優先。カタログ重量より、この3点が実走の満足を左右する。ヒルクライム一本なら軽さも効くが、“軽さ最優先”は冬ほど裏目に出やすい。",
+      "id": "20261106-goat-film-pogacar",
+      "genre": "trend",
+      "genreLabel": "TREND",
+      "genreJa": "トレンド",
+      "hot": false,
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2025-07%2Fpogacar-imago1064227556-687a6b811672f.jpg",
+      "headline": "【トレンド・話題／11/5】『GOATの解剖』——ポガチャルの45分ドキュメンタリー公開、メルクス・コンタドール・G.トーマスが賛辞",
+      "layer1": "タデイ・ポガチャルを追った45分のドキュメンタリー『Anatomy of a G.O.A.T.』が話題。エディ・メルクス、アルベルト・コンタドール、ゲラント・トーマスら伝説級が賛辞を寄せる構成になっている(11/5)。",
+      "layer2": "現役の“史上最強”論を、本人が全盛のうちに作品化する流れ自体がトレンド。ファンの熱量＝動画・解説コンテンツの伸びしろで、国内でも『ポガチャルとは何者か』を入口にした解説は刺さりやすい。配信先や日本での視聴可否は要確認で、ここは断定しない。",
       "sources": [
-        { "t": "road.cc(軽さ議論の起点)", "u": "https://road.cc/news/researchers-find-collapsible-bike-helmets-provide-less-protection", "d": "2026-11-04" },
-        { "t": "Cyclists Hub(中華カーボン比較・参考)", "u": "https://www.cyclistshub.com/best-chinese-carbon-wheels/", "d": "2026" }
+        { "t": "CyclingUpToDate", "u": "https://cyclinguptodate.com/cycling/anatomy-of-a-goat-45-minute-long-film-on-tadej-pogacar-features-praise-from-merckx-contador-and-thomas", "d": "2026-11-05" }
       ],
-      "status": "確定＝選定観点は普遍／曖昧＝具体数値は製品差あり、各ブランドの実測は要確認"
+      "status": "確定＝映画の存在・出演者の賛辞／曖昧＝国内配信・視聴方法は未確認(※要裏取り)"
     },
     {
-      "id": "20261105-honda-rn0",
-      "genre": "parts", "genreLabel": "PARTS", "genreJa": "パーツ", "hot": false,
-      "image": "https://gagadget.com/media/cache/ed/22/ed22ef029aacba5519f55ab4642fbc6d.webp",
-      "headline": "【パーツ・機材の最前線／“次世代シマノ”観測】ホンダ初のeMTB『RN0』——展示機はEP8だが“別形状ケーシング”が映り新型ユニット観測、量産は2027",
-      "layer1": "ホンダが約20年ぶりにMTBへ復帰し、初のeMTB「RN0」を公開(9月ジローナ発表、国内でも11/4付で詳報)。独自カーボンモノコック(Rotwild系ADPと共同開発)、量産は2027年予定。",
-      "layer2": "注目は駆動系。展示車はシマノEP8(85Nm)だが、ホンダ公式動画のプロトは現行EP801と“ケーシング形状が違う”とされ、次世代シマノ製ユニットの観測を呼んでいる——ただし両社とも未確認(※要裏取り)。背景にはEP8のシェア低下(27%→13.3%との集計も)。ロード乗りへの含意は、シマノがeの新ユニットを実際に動かしている兆候＝将来の部品ロードマップを読む手がかりになること。",
+      "id": "20261106-wheel-numbers-myth",
+      "genre": "wheel",
+      "genreLabel": "WHEEL",
+      "genreJa": "ホイール",
+      "hot": false,
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-11%2Fpaul-seixasluke-rowe-collage-6aec87a9c9e9b.png",
+      "headline": "【ホイール・機材読み／“ワット/kg偏重”への疑問に乗せて】ルーク・ロウ『数字が全てじゃない』——ホイールも“カタログ値神話”を疑え、中華カーボンで本当に見る3点",
+      "layer1": "元イネオス主将ルーク・ロウが『ワット/kgが全てじゃない』と数値偏重に疑問を呈し、デカトロンが大手に挑む構図とともに話題に(11/5)。機材選びも同じで、カタログ上の数字だけでは語れない。",
+      "layer2": "ホイールで“数字に騙されない”3点は——(1)公称重量より実測重量(ペアで±30〜50gのブレは普通、軽さの表記は最軽量構成のことが多い)、(2)リム単体の軽さより『ハブの中身』(ベアリング・ラチェット・防水・補修パーツの入手性)、(3)公称剛性よりスポーク本数と組み方。うちが扱うファースポーツも2026モデルで新オーバルスポーク(3.8mmブレード)＋ハブ刷新(公称で横剛性＋10%/軽量化5%)を打ち出すなど、“中華＝安かろう”の次は『中身の説明力』で差がつく局面。なおファースポーツの剛性・軽量化はメーカー公称で、第三者の実測ではない。",
       "sources": [
-        { "t": "Bikerumor(新型モーター観測)", "u": "https://bikerumor.com/honda-motors-back-into-mountain-bikes-well-emtbs-maybe-with-new-shimano-motor/", "d": "2026" },
-        { "t": "gagadget(RN0詳報)", "u": "https://gagadget.com/en/726819-honda-is-back-in-mountain-bikes-this-time-with-an-electric-one/", "d": "2026" },
-        { "t": "シクロワイアード(国内詳報)", "u": "https://www.cyclowired.jp/", "d": "2026-11-04" }
+        { "t": "CyclingUpToDate(ロウの発言)", "u": "https://cyclinguptodate.com/cycling/watts-per-kilo-dont-count-for-everything-former-ineos-road-captain-luke-rowe-questions-cyclings-power-obsession-as-decathlon-take-on-pelotons-biggest-teams", "d": "2026-11-05" },
+        { "t": "enroute(ファースポーツ2026 Sシリーズ・補足)", "u": "https://enroute.cc/products/farsports-2026-new-evo-s-series", "d": "2025-11" }
       ],
-      "status": "確定＝RN0公開・カーボン・2027量産／曖昧＝新ユニットは“観測”で未確認(※要裏取り)、シェア数値も集計依存"
+      "status": "確定＝ロウの発言・機材選びの一般論／曖昧＝ファースポーツの剛性/軽量化はメーカー公称(※第三者実測は要裏取り)"
     },
     {
-      "id": "20261105-beginner-indoor-start",
-      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "https://procyclinguk.com/wp-content/uploads/2025/09/608445-tsoz_fall-25_pr_click-2-ad4cab-original-1756298643.jpg",
-      "headline": "【初中級・冬の始め方／CX本番・室内シーズンに乗せて】室内トレは『機材より“最初の設定”』——初中級がつまずかない3点、始める前のチェック",
-      "layer1": "欧州はCX本番＝ロードはオフ、日本も室内トレの季節に入った。だが“買って終わり”で続かない人が多い。",
-      "layer2": "始める前の3点。①固定ローラーより“スマートトレーナー＋ANT+/Bluetooth”で負荷自動＝勾配連動の没入感が継続率を上げる。②扇風機と汗・床対策＝暑さと機材の塩害が最大の離脱・故障要因で、マット＋大型ファンは最初に用意。③最初の設定は“FTP計測よりゾーン2の時間”から＝いきなり高強度レースはケガと燃え尽きの元。機材をどれだけ良くしても、設定と環境が合わなければ続かない。",
+      "id": "20261106-saitama-crit",
+      "genre": "market",
+      "genreLabel": "MARKET",
+      "genreJa": "国内市場",
+      "hot": false,
+      "image": "https://prcdn.freetls.fastly.net/release_image/140218/359/140218-359-dc2023d109fb699ef9d34ce3c27577b1-2043x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "headline": "【経営メモ・市場／国内・11/15開催】さいたまクリテリウムは“あと9日”——フィリプセン＆ギルマイ来日確定、冬の『来店動機』を取りこぼさない",
+      "layer1": "『2026 ツール・ド・フランスさいたまクリテリウム』が11/15(日)さいたま新都心で開催(あと9日)。ヤスペル・フィリプセン(2022年覇者・3度目の出場)とビニヤム・ギルマイ(2024年覇者・2大会ぶり2回目)の出場が公式発表された。",
+      "layer2": "世界トップ選手が走る国内最大級のロード祭りは、観戦きっかけで店に来る“にわか”層が最も動く日。グッズ・入門ウェア・パンク対応・来季モデル相談まで、当日〜翌週の来店導線を今から用意しておくと取りこぼしが減る。同日に『2026サイクルフェスタ』も併催され、家族連れの裾野も広い。出場選手は現時点でこの2名のみ公表で、追加は未発表。",
       "sources": [
-        { "t": "road.cc(室内トレ季節の話題・11/4ライブ)", "u": "https://road.cc/news/cycling-live-blog-4-november-2026", "d": "2026-11-04" },
-        { "t": "ProCyclingUK(Zwift冬準備・参考)", "u": "https://procyclinguk.com/zwift-expands-hardware-software-and-racing-options-ahead-of-2025-26-winter-training-season", "d": "2025-09" }
+        { "t": "さいたま市(公式発表)", "u": "https://www.city.saitama.lg.jp/006/014/008/003/015/004/p132400.html", "d": "2026-11" }
       ],
-      "status": "確定＝続け方のセオリーは普遍／曖昧＝製品個別の対応・設定は要確認"
+      "status": "確定＝日程11/15・会場・出場2選手／曖昧＝その他の出場選手は未発表"
+    },
+    {
+      "id": "20261106-safety-market",
+      "genre": "market",
+      "genreLabel": "MARKET",
+      "genreJa": "国内市場",
+      "hot": false,
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-11%2Fdylan-van-baarle-6aeca0696eb8c.png",
+      "headline": "【経営メモ・市場／安全・青切符時代】プロでも“走行中に車に”——ファンバーレ被害が示す、日本の店が勧められる『自衛機材』",
+      "layer1": "元パリ〜ルーベ覇者ダイラン・ファンバーレが、結婚式の数週間前に走行中に車にはねられていたとSNSで明かし、“激動の1か月”を振り返った(11/5)。公道の危うさはプロでも同じで、青切符導入で安全意識が高まる日本でも『被害に遭わない/証明する』機材の需要は確実に伸びている。",
+      "layer2": "店が自然に勧められる自衛アイテムは——(1)デイタイムランニングライト(昼間点灯で被視認性を大きく改善)、(2)サイクル用ドラレコ/リアレーダー(事故時の証拠＋後方接近の警告)、(3)自転車向け個人賠償保険の案内。青切符は“取り締まられる側”の話題に偏りがちだが、店の商機は『安全に・賢く走る提案』の側にある。各製品の効果や保険の補償内容は製品・契約で差があり、断定せず“選び方”として助言するのが誠実。需要増は定性的な読みで、数値の裏取りはしていない。",
+      "sources": [
+        { "t": "idlprocycling(ファンバーレ被害)", "u": "https://www.idlprocycling.com/cycling/newlywed-dylan-van-baarle-shares-pictures-from-rollercoaster-month-hit-by-car-weeks-before-wedding", "d": "2026-11-05" }
+      ],
+      "status": "確定＝ファンバーレが式前に車と接触と公表・無事／曖昧＝国内の需要増は定性的な読み(※数値は要裏取り)"
+    },
+    {
+      "id": "20261106-beginner-cx-watch",
+      "genre": "beginner",
+      "genreLabel": "BEGINNER",
+      "genreJa": "初中級",
+      "hot": false,
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2025-12%2Ffelipeorts-2-694d655babc68.jpg",
+      "headline": "【初中級・観戦入門／明日の欧州選手権に乗せて】CXを“10倍”楽しむ3点——誰を・どこで・何を観る? ロードのオフを熱くする『泥と階段』の見方",
+      "layer1": "明日11/7-8のCX欧州選手権ゼダムは、シクロクロスに初めて触れる人の絶好の入口。ロードと違い“泥・砂・階段・担ぎ”がある短い周回レースで、初中級でも一周で面白さが掴める。",
+      "layer2": "見方の3点——(1)『誰を』：ティボー・ナイスやファントゥーレンハウトら“技術系”の下りと階段さばきに注目(力より巧さが効く)。(2)『どこで』：ゼダム名物の約100段の階段と泥の登り——ここで差が開く。(3)『何を』：タイヤの“地面の掴み方”とライン取り、そして担いで走る所作。ロードで培う脚力だけでは勝てない世界を知ると、普段の乗り方(体重移動・荷重)のヒントにもなる。放送はTNT Sports/HBO Max系の配信が案内されているが、日本での視聴可否は各自で要確認。",
+      "sources": [
+        { "t": "idlprocycling(欧州選手権プレビュー)", "u": "https://www.idlprocycling.com/cyclo-cross/how-the-european-championship-favourites-will-tackle-the-99-steps-this-weekend-take-the-stairs-instead-of-the-elevator", "d": "2026-11-05" }
+      ],
+      "status": "確定＝CXの基本構造・ゼダムの階段／曖昧＝日本での視聴手段は要確認"
+    },
+    {
+      "id": "20261106-landa-comfort-zone",
+      "genre": "trend",
+      "genreLabel": "TREND",
+      "genreJa": "トレンド",
+      "hot": false,
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-03%2Fmikel-landa-69c25e5abdf01.jpg",
+      "headline": "【トレンド・人間ドラマ／11/5】ミケル・ランダ『ソウダル時代は少し“快適圏の外”だった』——ベテランがキャリアの選択を静かに回顧",
+      "layer1": "ベテランクライマーのミケル・ランダが、ソウダル・クイックステップでの日々を『少し自分のコンフォートゾーンの外だった』と振り返った(11/5)。勝利至上のチームで自分の役割を探し続けた数年の本音。",
+      "layer2": "“チームの色”と“自分の資質”が噛み合わない時期をどう受け止めるか——は、トップ選手でも悩む普遍のテーマ。結果が出ない年を『失敗』ではなく『快適圏の外での挑戦』と言語化できる成熟は、趣味で乗る人にもヒントになる。キャリア終盤に差し掛かるランダの去就や2027体制は、ここでは明言されていない。",
+      "sources": [
+        { "t": "idlprocycling", "u": "https://www.idlprocycling.com/cycling/mikel-landa-reflects-on-years-with-soudal-quick-step-a-bit-outside-my-comfort-zone", "d": "2026-11-05" }
+      ],
+      "status": "確定＝ランダの回顧コメント／曖昧＝今後の去就・2027体制は未言及"
     }
   ]
 }
