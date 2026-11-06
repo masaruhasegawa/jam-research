@@ -1,5 +1,251 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-11-07",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。CX欧州選手権がゼダムで本日開幕、週末は『因縁の再戦』つき——機材は大手の“カーボンスポーク化”と中華のプロ進出で潮目が変わり、国内は青切符・半年の数字が出そろいました。",
+    "cards": [
+      {
+        "id": "20261107-vanthourenhout-mason",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/11/Michael-Vanthourenhout-and-Cameron-Mason-square-up-after-Superprestige-Middelkerke.png",
+        "headline": "【🔥今日の一本・レース／人間ドラマ・11/5-6】『内側から突っ込んできた、F○○○you』——ファントゥーレンハウトがメーソンと詰め寄り250スイスフラン罰金、明日のゼダム欧州選手権で“因縁の再戦”",
+        "layer1": "11/5のスーペルプレスティージュ・ミッデルケルケ終盤、英王者キャメロン・メーソンが左の狭い内側から抜きにかかって接触、ファントゥーレンハウトは体勢を崩して落車し一時6位まで後退。立て直して2位（優勝はヨラン・ワイザー）、メーソンは4位。ゴール後にファントゥーレンハウトが詰め寄って激昂し、審判団は250スイスフランの罰金を科した。",
+        "layer2": "先回り——『で、明日はどうなる?』。両者は11/8（日）のCX欧州選手権ゼダム・男子エリートで即・再戦となる。メーソンはSNSで『自業自得（own medicine）』と当てこすり、火種は残ったまま。男子の本命は前回2位・2024王者のティボー・ナイスで、ファントゥーレンハウトもメダル候補。“接触の遺恨×タイトル”が重なり、今季最初の大舞台はヒートアップ必至。",
+        "sources": [
+          {
+            "t": "road.cc（ライブブログ）",
+            "u": "https://road.cc/news/cycling-live-blog-6-november-2026",
+            "d": "2026-11-06"
+          },
+          {
+            "t": "Cyclocross24（欧州選手権）",
+            "u": "https://cyclocross24.com/race/european-championships/",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝罰金250CHF・メーソンのSNS反応・11/8男子エリートで再戦（road.cc報道）／接触の経緯・順位はroad.cc報道ベース"
+      },
+      {
+        "id": "20261107-ek-zeddam-open",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cyclocross24.com/files/images/course/parcours-ek-veldrijden-cyclocross-zeddam-2026.jpg",
+        "headline": "【レース・今日開幕／11/7-8・CX欧州選手権】ゼダム本日開幕——名物『99段の階段』と幅3mの難所で、今日は女子エリートが主役（現地15時）、日曜に男子エリート",
+        "layer1": "CX欧州選手権が今日11/7（土）オランダ・ゼダムで開幕。初日は女子ジュニア（11時）→男子U23（13時）→女子エリート（15時・現地）。日曜11/8は男子ジュニア→女子U23→男子エリート（15時）。会場は2006年世界選と同じコースで、約99段の階段と最大幅3mの難所が勝負を分ける。",
+        "layer2": "先回り——『女子は誰が本命?』。約1年ぶり復帰のフェム・ファンエンペル、好調ルシンダ・ブラント、前回王者インゲ・ファンデルハイデン、アルバラードらが虹を争う。UCI世界杯は11/27オストラヴァ開幕なので、ゼダムが“今季最初の大舞台”。男子は前回王者トーン・アーツがベルギー代表8名に入らず欠場で、“新王者確定”の構図。",
+        "sources": [
+          {
+            "t": "Cyclocross24（日程・コース）",
+            "u": "https://cyclocross24.com/race/european-championships/",
+            "d": "2026-11"
+          },
+          {
+            "t": "ProCyclingUK（男子プレビュー）",
+            "u": "https://procyclinguk.com/european-cyclocross-championships-zeddam-2026-elite-men-preview/",
+            "d": "2026-11"
+          },
+          {
+            "t": "CyclingUpToDate（CXカップ日程）",
+            "u": "https://cyclinguptodate.com/cycling/cyclocross-cup-racing-begins-this-weekend-key-dates-for-the-2026-2027-season-cx-cups",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝日程・カテゴリ・W杯は11/27開幕・アーツ欠場／レース結果はこれから"
+      },
+      {
+        "id": "20261107-joe-pidcock-retire",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-10%2Fjoe-pidcock-has-retired-6ad6307fae59d.jpg",
+        "headline": "【レース・人間ドラマ／11/6】トム・ピドコックの弟ジョー、24歳で引退——『今年はようやく、自転車を嫌いにならずに済んだ』",
+        "layer1": "トム・ピドコックの弟ジョー（ジョセフ）・ピドコックが24歳でプロ引退を表明。インスタで『自転車を嫌いになって終わりたくなかった』『今年はこの競技を嫌わずにいられた』と心境を綴った。10月のツアー・オブ・広西が最後のレースだった。",
+        "layer2": "先回り——『才能はあった、何が重かった?』。グルパマFDJ（2021-22）、トリニティ、そしてQ36.5（2025）と渡り歩いたが、WorldTour定着には届かず。兄トムは『最後に広西で勝たせて送り出したかった』と語っていた。“兄の影”と結果のプレッシャーのなか、本人は『嫌いになる前にやめる』を選んだ——勝ち負けだけではない、選手の心の物語。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate",
+            "u": "https://cyclinguptodate.com/cycling/this-year-i-do-not-hate-cycling-tom-pidcocks-brother-joseph-announces-retirement-at-24-in-emotional-message",
+            "d": "2026-11-06"
+          },
+          {
+            "t": "Brujula Bike",
+            "u": "https://en.brujulabike.com/i-dont-want-to-end-up-hating-it-joey-pidcock-retires-from-professional-cycling-at-just-24/",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝引退表明・広西が最後・兄のコメント／曖昧＝今後の進路は未定"
+      },
+      {
+        "id": "20261107-transfers-2027",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/k3nufag4M6HwNepdhPMZpR-2560-80.png",
+        "headline": "【トレンド・移籍／11/6】2027“椅子取り”が本格化——EFがカラパス流出の穴埋めに育成2名を昇格、ガンナやチッコーネら大物移籍も続々と報道",
+        "layer1": "EFエデュケーション・イージーポストが11/6、カラパス離脱後の再建として育成組のギャビン・ラディ、ロベルト・カペッロの昇格を発表（タオ・ゲオゲガン・ハートの加入も）。オフの移籍市場が一気に動き出した。",
+        "layer2": "先回り——『大物はどこへ?』。報道ベースでは、フィリッポ・ガンナ→リドル・トレック、ジュリオ・チッコーネ→ピナレロQ36.5、リチャル・カラパス→NSNサイクリングなど、2027 pelotonを塗り替える動きが続く。ただし大物案件は発表前の“観測”も混在するので、ここは要裏取り。確実なのはEFの11/6発表ぶん。",
+        "sources": [
+          {
+            "t": "Cyclingnews（EF発表）",
+            "u": "https://www.cyclingnews.com/pro-cycling/transfers/ef-education-easypost-continue-post-carapaz-rebuild-for-2027-with-two-more-development-team-graduates/",
+            "d": "2026-11-06"
+          },
+          {
+            "t": "Velora Cycling（2027移籍まとめ）",
+            "u": "https://veloracycling.com/features/2027-cycling-transfers-peloton-guide",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝EFの昇格2名（11/6）／※ガンナ・チッコーネ等の大物移籍は報道段階・要裏取り"
+      },
+      {
+        "id": "20261107-vingegaard-2027",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/Team-Visma-Lease-a-Bike/CORVOS_00039139-090.jpg?width=2400&height=1260&quality=75&crop=6000%2C3150%2C0%2C425",
+        "headline": "【トレンド・GCの読み／11/5-6】ヴィンゲゴー、デンマークで2027始動——ラスムッセン『ASOはもう彼をポガチャル最大の敵とは見ていない』、新たな刺客はセイシャス",
+        "layer1": "ツール第15ステージの落車以来レースから遠ざかるヴィンゲゴーが、2027へ向けデンマークで再始動と報道。一方、元プロのラスムッセンは『ASOはもうヴィンゲゴーをポガチャルの一番の挑戦者とは見ていない』と、2027ツール・コースの“ITT偏重（計71km）”を根拠に厳しい見方を示した。",
+        "layer2": "先回り——『じゃあ誰が対抗?』。アナリストは新たな刺客に19歳ポール・セイシャスの名を挙げ、“ポガチャル対ヴィンゲゴー＆セイシャス＆レムコ”の図式に。ブックメーカーはポガチャル1.25倍・ヴィンゲゴー10.0倍と“一強”評価。ヴィスマはジロを挟むか否かの判断も迫られ、復帰時期は未定。オッズ・発言は各媒体の報道ベース。",
+        "sources": [
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/vingegaard-will-miss-tour-de-france-podium-michael-rasmussen-delivers-grim-verdict-on-2027-route/",
+            "d": "2026-11"
+          },
+          {
+            "t": "IDL Pro Cycling",
+            "u": "https://www.idlprocycling.com/cycling/not-just-pogacar-who-is-back-from-his-crash-jonas-vingegaard-is-also-already-preparing-for-2027-fire-in-his-eyes",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝落車以来未復帰・2027準備中／曖昧＝復帰時期・ジロ参戦可否は未定、オッズは変動"
+      },
+      {
+        "id": "20261107-dura-ace-c50",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/AaReJtgiYaLjvSMcj48d25-2560-80.jpg",
+        "headline": "【ホイール・新製品レビュー／11/3】シマノ新デュラエースC50（WH-R9370）、ついに“カーボンスポーク”化で4/5評価——旗艦に必要だった刷新",
+        "layer1": "サイクリングニュースが11/3、シマノの新フラッグシップ・ホイールC50（WH-R9370）をレビューし5点満点中4点。これまでの金属スポークからカーボンスポークへ刷新し、新ロゴ・静かなフリーハブなどで“旗艦らしさ”を取り戻したと評価した。",
+        "layer2": "先回り——『で、弱点と“次”は?』。弱点はハブのフルサービス手順がやや複雑になった点。50mm・フック（28mmタイヤ前提）。注目は、同じR9300世代で観測が続く“13速デュラエースR9300”group set（ペダルは新形式SPD-SLRのリークも）が2027初頭にも、という流れ——大手が『カーボンスポーク＋13速』で一段上げてくる。中華深リムを選ぶ側も、スポーク構造とハブ中身を“大手基準”で見比べる時代に。13速・新ペダルは未発表のリーク段階。",
+        "sources": [
+          {
+            "t": "Cyclingnews（C50レビュー）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/shimano-dura-ace-c50-wheel-review",
+            "d": "2026-11-03"
+          },
+          {
+            "t": "road.cc（SPD-SLRペダルのリーク）",
+            "u": "https://road.cc/tech-news/unreleased-shimano-dura-ace-9300-pedals-break-cover-with-claimed-12-5mm-stack-height-and-a-mysterious-new-spd-slr-format",
+            "d": "2026-09"
+          }
+        ],
+        "status": "確定＝C50レビュー4/5・カーボンスポーク化（11/3）／※13速R9300・新ペダルは未発表リーク＝要裏取り"
+      },
+      {
+        "id": "20261107-redshift-mousetrap",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/cc877b71-c265-402c-aa77-d6d349478252/thumbnails/c648ac93-2a4b-4d24-a2d9-73ac7fc8fd5f.jpeg?appId=32337f2f-7841-4ef6-a233-d1f001580530&platform=WEB&w=1200",
+        "headline": "【パーツ・新製品／11/5】レッドシフト『Mousetrap（SPD-SL版）』——ロード用ビンディングに“普通の靴で踏めるフラット面”を後付け、£54.99",
+        "layer1": "レッドシフトが11/5、シマノSPD-SLペダルに装着してフラットペダル化するアダプター『Mousetrap』のSPD-SL版を発表。クリート側ではなくペダルの金具に“カチッ”と嵌め、広くグリップの効く踏み面を作る。価格はペアで£54.99／$59.99。",
+        "layer2": "先回り——『誰得?』。“ちょっとそこまで”“街乗り”“ショップの試乗”など、ロードシューズに履き替えるのが面倒で、片面ビンディングを普段靴で踏むのが危ない場面が主な用途。バネ式の中央を起こして前縁を引っ掛け押し込むだけ、磁石で2枚を合体して収納も可。“ビンディングは怖い・面倒”という初中級の心理的ハードルを、ペダル交換なしで下げる発想。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://bikeradar.com/news/redshift-mousestraps-for-spd-sl",
+            "d": "2026-11-05"
+          }
+        ],
+        "status": "確定＝仕様・価格£54.99/$59.99・11/5発表（BikeRadar）"
+      },
+      {
+        "id": "20261107-totalenergies-pardus",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/ZRgnGQWjLdptb6GjY5eSvi-2560-80.jpg",
+        "headline": "【経営メモ・市場／10/27・中華の地合い】トタルエネルジーが機材を中華『パルダス』へ——2027プロ peloton に中国ブランドが続々、店頭トークの潮目が変わる",
+        "layer1": "フランスの名門トタルエネルジー（チーム）が2027からバイクをキューブ→中国ブランド『パルダス（Pardus）』に変更と報道（3年・2027-29とされる）。ヴァンリゼル／デカトロンに続き、プロの機材供給に中華系が増える流れが鮮明になってきた。",
+        "layer2": "先回り——『うちの店にどう効く?』。“プロが中華に乗る”は、店頭で中華カーボンを勧めるときの最大の追い風＝『プロ供給ブランドですよ』が言えるようになる。8LIEN／CRW／GOOSYNN／NEPEST／PARTICLE等を扱ううちにとっては、“安かろう”イメージの払拭材料。なおチーム自体はタイトルスポンサー／新チーム名が未確定で、2027体制は流動的。契約年数は報道ベース・要裏取り。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/bikes/pro-bikes/more-chinese-brands-in-the-pro-peloton-for-2027-as-totalenergies-swaps-cube-for-pardus/",
+            "d": "2026-10-27"
+          },
+          {
+            "t": "Escape Collective",
+            "u": "https://escapecollective.com/totalenergies-announce-pardus-partnership-in-step-towards-licence-renewal/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝キューブ→パルダス報道・中華系の拡大／※契約年数・新チーム名は未確定＝要裏取り"
+      },
+      {
+        "id": "20261107-aokippu-halfyear",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://image.news.livedoor.com/newsimage/stf/3/1/31029_1231_0f8b4e07_0f24a12a.jpg",
+        "headline": "【経営メモ・市場／国内・Xバズ起点・11/5-6】自転車『青切符』半年で1万5,919件——“ながらスマホ”4割強・一時不停止35%、事故は1割弱減、流行語にもノミネート",
+        "layer1": "警察庁が、4月導入の自転車“青切符”半年間の交付が全国1万5,919件（暫定）と発表（11/5-6報道）。内訳は『ながらスマホ』が4割強、『一時不停止』が5,559件（35%）。自転車関連事故は前年同期比で1割弱減った。『青切符』は新語・流行語大賞にもノミネートされた。",
+        "layer2": "先回り——『店は何を売り、何を助言する?』。取り締まりの主役は“ながら＆一時不停止”＝スポーツ自転車乗りも他人事ではない。店頭では、スマホマウントが“ながら”を誘発しない置き方や、信号・一時停止の徹底を一言添えるのが筋。都道府県差も大きく（山形・三重・徳島・長崎は各1件）、地域で温度差。Xでは『一時不停止ばかり狙われる』等の不満も散見＝“話題”ではあるが、数字は公式発表が一次。",
+        "sources": [
+          {
+            "t": "ライブドア／読売",
+            "u": "https://news.livedoor.com/topics/detail/32746879/",
+            "d": "2026-11-06"
+          },
+          {
+            "t": "サイクルスポーツ（解説）",
+            "u": "https://www.cyclesports.jp/news/others/157619/",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝1万5,919件・ながら4割強・一時不停止5,559件・事故1割弱減（警察庁/各紙）／Xの不満は世論代表ではない"
+      },
+      {
+        "id": "20261107-china-deeprim-guide",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2026/07/farsports-carbon-wheels.jpg",
+        "headline": "【初中級・中華の今／大手カーボンスポーク化に乗せて】初めての深リム、“価格と中身”の見取り図——中華は約€894〜、大手はカーボンスポークへ、見るべき3点",
+        "layer1": "大手シマノC50がカーボンスポークへ刷新（11/3）する一方、中華勢の価格も見えやすくなってきた。11/4時点の比較では、例えばYOELEOは7モデルが約€894〜1,476、Elitewheelsはペア1,000g切り級の軽量モデルも掲げる。“安い”から“選べる”へ移りつつある。",
+        "layer2": "先回り——『初めてなら何で選ぶ?』。①スポーク構造（大手はカーボン化、中華主力はスチールスポークも多い＝剛性/補修性の割り切り）②フックの有無（フックレスは対応タイヤ・空気圧の制約）③実測重量とハブ中身（公称だけで判断しない）。価格は魅力でも、保証とアフター（うちで振れ取り・ハブ整備ができるか）を最優先に。価格・重量は各社／比較サイトの公称ベース・要実測確認。",
+        "sources": [
+          {
+            "t": "Feast Cycles（中華ホイール価格比較）",
+            "u": "https://feastcycles.de/en/wheels/brands/",
+            "d": "2026-11-04"
+          },
+          {
+            "t": "Cyclingnews（C50＝カーボンスポーク化）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/shimano-dura-ace-c50-wheel-review",
+            "d": "2026-11-03"
+          }
+        ],
+        "status": "確定＝比較サイトの価格レンジ（11/4）・C50カーボンスポーク化（11/3）／※公称値中心・要実測確認"
+      }
+    ]
+  },
+  {
     "date": "2026-11-06",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。明日11/7-8はCX欧州選手権ゼダム開幕——前回王者アーツ欠場で新王者が確定します。2027ツールは“反ポガチャル設計”と騒がれるも本人は『いつも大体同じ』と一蹴。国内はさいたまクリテまであと9日、来店導線の仕込みどきです。",
     "cards": [
