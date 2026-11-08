@@ -1,5 +1,256 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-11-09",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ゼダムはナイスが名物の『階段』で欧州を獲り、ベルギーが表彰台を独占——泥のシーズンが本格化しました。次戦メルクスプラス(11/14)とW杯開幕(11/27)、年末セールの価格戦争、11/15さいたまクリテの布陣までまとめています。",
+    "cards": [
+      {
+        "id": "20261109-nys-euro-cx",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-11%2Fimg-eca7816613cd-1-6af08f32d15ce.jpeg",
+        "headline": "【🔥今日の一本・レース／人間ドラマ・11/8・CX欧州選手権】ティボー・ナイスが『階段』で2度目の欧州王者——最終周、同僚ワイズールを3秒突き放し独走、ベルギー勢が表彰台独占",
+        "layer1": "11/8ゼダム(蘭)の男子エリートで、ティボー・ナイスが2度目の欧州選手権制覇。終盤までチームメイトのヨラン・ワイズールと一騎打ちになり、名物の階段区間でねじ伏せて独走フィニッシュ。ワイズールが+7秒で銀、ニールス・ファンデピュッテが+19秒で銅と、表彰台はベルギーが独占した。",
+        "layer2": "ナイスは2024年王者→2025年はアーツに敗れ2位→今回奪回、という流れ。前日の女子(ブランド優勝・シュライバー降格)に続く連日のベルギー祭りで、VDP／VvA不在のいま「新たな基準はナイス」とVDP自身も認める構図。重圧を背負っての勝利という物語が刺さる一戦。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate(結果詳報)",
+            "u": "https://cyclinguptodate.com/cyclocross/results-european-championships-2026-elite-men-and-u23-women-thibau-nys-delivers-in-final-surge-as-celia-gery-wins-second-u23-title",
+            "d": "2026-11-08"
+          },
+          {
+            "t": "Cyclingnews(優勝レポート)",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/european-cyclo-cross-championships-thibau-nys-wins-second-elite-title-as-belgium-sweeps-the-podium/",
+            "d": "2026-11-08"
+          },
+          {
+            "t": "Velora Cycling(リザルト)",
+            "u": "https://veloracycling.com/races/uec-cyclo-cross-european-championships-2026",
+            "d": "2026-11-08"
+          }
+        ],
+        "status": "確定＝勝者・表彰台・タイム差(ナイス優勝／ワイズール+0:07／ファンデピュッテ+0:19)。複数の結果ソースで一致。"
+      },
+      {
+        "id": "20261109-vdp-vva-cx-winter",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/p8m3dKUcyj5zFriLVpRcJ7-2560-80.jpg",
+        "headline": "【トレンド・人間ドラマ／CX本格化に乗せて】『ビッグ3』はこの冬走るのか——VvAは参戦確実・VDPは1月に父に、始動はクリスマス前後の観測",
+        "layer1": "ナイスの欧州制覇で泥シーズンが本格化する一方、最大の関心は「VDPとVvAはいつ走るか」。ワウト・ファンアールトは今季もCX参戦が確実で、昨季の初戦は12/20アントワープW杯。マチュー・ファンデルプールは去就が不透明で、チームは「クリスマス前後に、どこかで」と含みを残す。",
+        "layer2": "VDPは2027年1月に第一子誕生予定で、ロードに専念する可能性も取り沙汰。フル日程は世界選(ホルスト)のコース発表に合わせて明かされる見込み。昨季の開幕戦はVDPが12/14ナミュールで勝利——つまり「出るとしても年末から」。トム・ピドコックは2026/27のCXは走らない。",
+        "sources": [
+          {
+            "t": "Cyclingnews(ビッグ3の始動時期)",
+            "u": "https://www.cyclingnews.com/features/when-will-mathieu-van-der-poel-wout-van-aert-and-tom-pidcock-start-their-cyclocross-seasons/",
+            "d": "2026-11"
+          },
+          {
+            "t": "Cyclingnews(VDP、ナイスを新基準と評価)",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/everything-points-to-thibau-nys-being-the-new-benchmark-mathieu-van-der-poel-sizes-up-competition-ahead-of-cyclocross-return",
+            "d": "2026-11"
+          }
+        ],
+        "status": "曖昧＝VDP／VvAの正式な参戦日程は未発表(※要裏取り、チーム発表待ち)。"
+      },
+      {
+        "id": "20261109-cx-next-merksplas-worldcup",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/u4p8KQS7tyKZoVnM8u67eL-1024-80.jpg",
+        "headline": "【レース・冬の地図／次の泥】11/14メルクスプラス→11/27オストラバでW杯開幕、12/13グラスゴーは初開催、クリスマス当日にも1戦",
+        "layer1": "欧州選手権が終わり、次の大きな泥は11/14のスーペルプレスティージュ『メルクスプラス(アールベイエンクロス)』。そしてUCIシクロクロスW杯2026/27は全12戦、11/27オストラバ(金・ナイトレース)で開幕、2日後の11/29タボルが第2戦と続く。",
+        "layer2": "今季の新顔は12/13グラスゴー(英)のW杯初開催。テレネット・スーペルプレスティージュは史上初めてクリスマス当日(12/25)にもレースを組み、年末の『見る自転車』が一段と濃くなる。フィナーレは1/23ハムと1/24ホーヘルハイデ。マサル視点＝レースが続く冬は、ショート・観戦トークのネタが途切れない。",
+        "sources": [
+          {
+            "t": "CyclingUpToDate(今週末からカップ戦開幕)",
+            "u": "https://cyclinguptodate.com/cycling/cyclocross-cup-racing-begins-this-weekend-key-dates-for-the-2026-2027-season-cx-cups",
+            "d": "2026-11"
+          },
+          {
+            "t": "Cyclingnews(グラスゴーがW杯初開催)",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/great-britain-captures-calendar-spot-for-2026-27-uci-cyclo-cross-world-cup-with-glasgow-confirmed-as-host",
+            "d": "2026-08"
+          },
+          {
+            "t": "Velora(スーペルプレスティージュ年末日程)",
+            "u": "https://veloracycling.com/news/telenet-superprestige-cyclocross-holiday-calendar-2026-2027",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝日程(UCI／フランダースクラシックス公式カレンダー)。曖昧＝各選手の参戦可否は未確定。"
+      },
+      {
+        "id": "20261109-saitama-criterium-startlist",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://saitama-criterium.jp/wp_crite_data/wp-content/themes/tour_de_france_saitama_criterium/common/2026/img/ogp.jpg",
+        "headline": "【経営メモ・市場／国内・11/15】さいたまクリテリウムは『全60選手』確定——アレンスマン＆バッレリーニが来日、冬の来店動機を取りこぼさない",
+        "layer1": "11/15(日)さいたま新都心で開かれる『2026ツール・ド・フランスさいたまクリテリウム』の出場60選手が10/30に確定。追加招聘でテイメン・アレンスマン(ネットカンパニー・イネオス)、ダヴィデ・バッレリーニ(XDS・アスタナ)、ダーン・ダイクマン(UAE)らの来日が決まった。",
+        "layer2": "国内勢は窪木一茂(TEAM UKYO)が辞退して望月連が繰り上がり、海外はエンゲルハートの辞退でデポーテルが入るなど、直前まで顔ぶれは流動。マサル視点では『本物のWTライダーが走る週末』は冬の端境期の集客装置——観戦ついでの来店・試乗・アパレル需要を、SNS告知と店頭POPで取りこぼさないのが肝。",
+        "sources": [
+          {
+            "t": "さいたま市(追加招聘選手・全60名発表)",
+            "u": "https://www.city.saitama.lg.jp/006/014/008/003/015/007/p134693.html",
+            "d": "2026-10-30"
+          }
+        ],
+        "status": "確定＝出場60名の確定・追加招聘(さいたま市公式発表)。"
+      },
+      {
+        "id": "20261109-blackfriday-price-war",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/zHny5XEq2iUU3UR4dtkdR5-2048-80.jpg",
+        "headline": "【経営メモ・市場／大手の値付け・BF商戦】深リムカーボンが年末に総崩れ——ハントが最大40%オフ、中華直販も一斉値引き、価格戦争の本番",
+        "layer1": "ブラックフライデー商戦で、カーボンホイールの値引きが加速。英ハントは『Sub 50 Limitless UD Carbon』を最大40%オフにするなど『過去最大級』のセールを早期投入。エリートホイールズら中華直販も700cカーボンを一斉に値引きしている。",
+        "layer2": "前週のハント『50 Carbon Disc』£899→£629に続く第2波で、大手ブランド系の深リムが軒並み下落。構図は『大手がカーボンスポーク化で上を引き上げ→型落ちの深リムが年末処分』。うち(8LIEN／CRW／NEPEST)の強みは“同等スペックを通年で”——セール期こそ価格表示だけでなく、保証・アフター・実測重量で差を説明したい。",
+        "sources": [
+          {
+            "t": "Cycling Weekly(ハント最大40%オフ)",
+            "u": "https://www.cyclingweekly.com/deals/hunt-wheels-goes-big-early-for-black-friday-with-up-to-40-percent-off-the-best-wheelsets-its-the-brands-biggest-ever-sale",
+            "d": "2026-11"
+          },
+          {
+            "t": "hotukdeals(Elitewheels BF2026)",
+            "u": "https://www.hotukdeals.com/deals/elitewheels-slr-700c-road-carbon-wheelset-3k-twill-brake-surface-ratchet-system-possible-30-tcb-with-code-elitewheels-official-store-5020196",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝ハントの早期大型セール。曖昧＝各セールの在庫・終了日は店舗ごとに流動(要確認)。"
+      },
+      {
+        "id": "20261109-carbon-spokes-mainstream",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/RURujkV9dWMTiFYc6scw6c-2048-80.jpg",
+        "headline": "【ホイール・機材読み／大手が続々カーボンスポーク化】C50→カデックス→ビジョンまで主流化——『速く・丈夫』の裏で初中級が知るべき弱点",
+        "layer1": "カーボンスポークが一気に主流へ。シマノの新デュラエースC50が旗艦として採用し、カデックスはMax 50(約1,290g)クラスで展開、ビジョンも初のフルカーボン(カーボンスポーク)を投入するなど、各社が横並びで切り替えている。",
+        "layer2": "利点はエアロと横剛性、そして“ねじれにくさ”。一方の弱点は『ハブ／スポーク規格の専有化』で、折れた時に汎用スチールスポークで即修理ができず、取り寄せ・工賃が上がりがち。初中級が中古・並行で買うときは“補修部品の入手性”を必ず確認したい。中華勢(うちのラインを含む)も追随中で、価格差は縮小傾向。",
+        "sources": [
+          {
+            "t": "Cycling Weekly(カデックスの新エアロ)",
+            "u": "https://www.cyclingweekly.com/products/as-cadex-launches-its-new-aero-wheelsystem-does-this-mean-team-jayco-alula-might-be-about-to-get-a-new-aero-bike",
+            "d": "2026"
+          },
+          {
+            "t": "Cyclingnews(新デュラエースC50)",
+            "u": "https://www.cyclingnews.com/news/new-shimano-dura-ace-finally-breaks-cover",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝各社のカーボンスポーク採用。曖昧＝補修部品の入手性・工賃はブランドにより差が大きい(要確認)。"
+      },
+      {
+        "id": "20261109-13speed-2027",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/eB7Jyvh94X7pvE5FRMq7wZ-1240-80.png",
+        "headline": "【パーツ・機材最前線／13速時代】2027初頭に“13速”が降りてくる観測——SRAMは既にRed XPLR 13速、シマノはGRX13→DA13の順か",
+        "layer1": "ドライブトレインの次の主戦場は『13速』。SRAMは既にグラベル向け『Red XPLR AXS』で1×13速を実装済み。シマノも13速の特許や設定アプリの痕跡が相次ぎ、2027シーズンに向けた刷新が近いと見られている。",
+        "layer2": "複数の観測では、シマノはまずGRX(グラベル)13速が2027年初頭、旗艦デュラエース13速はその後、という順番。ただしシマノ公式は従来『13速の選択肢はない』と火消ししており、時期・型番は未確定。現行Di2は13速カセットと互換しない＝“新エコシステム”で、買い替え相談が増える前に知識を仕込んでおきたい。",
+        "sources": [
+          {
+            "t": "Cyclingnews(SRAM 13速をUnboundで目撃)",
+            "u": "https://www.cyclingnews.com/news/another-unreleased-sram-red-groupset-uncovered-at-unbound-gravel-this-time-with-13-speed-cassette",
+            "d": "2026"
+          },
+          {
+            "t": "inkl/Cyclingnews(シマノ13速特許リーク)",
+            "u": "https://inkl.com/news/leaked-shimano-patent-hints-at-13-speed-fully-wireless-groupset",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝SRAM Red XPLR 13速は発売済み。曖昧＝シマノ13速の時期・型番とも公式未発表(※要裏取り)。"
+      },
+      {
+        "id": "20261109-beginner-first-wheel-sale",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/8jYGRCTEksXJEMY32TkBjc-2560-80.jpg",
+        "headline": "【初中級・年末セールの買い方／価格戦争に乗せて】初めての“決戦ホイール”、セールで何を見る？——深さ・重さ・保証の3点で失敗しない",
+        "layer1": "ブラックフライデーで深リムカーボンが総崩れのいま、『初めての良いホイール』を狙う好機。ただし値引き率だけで飛びつくと後悔しがち。見るべきは“深さ・重さ・保証”の3点に絞ると迷わない。",
+        "layer2": "①深さ＝平地中心なら40〜50mm、登り・ロングや横風が不安なら35〜45mmが扱いやすい(60mm超は上級向け)。②重さ＝ペア1,400〜1,600gが実用の目安、公称より実測を聞く。③保証＝落車・無過失破損の対応年数と、振れ取り・補修を受けてくれる国内窓口があるか。中華直販は価格が強い反面③が弱い場合がある——“安さの理由”を1つずつ潰すのが初中級の近道。",
+        "sources": [
+          {
+            "t": "Cycling Weekly(ハントBFセール)",
+            "u": "https://www.cyclingweekly.com/deals/hunt-wheels-goes-big-early-for-black-friday-with-up-to-40-percent-off-the-best-wheelsets-its-the-brands-biggest-ever-sale",
+            "d": "2026-11"
+          },
+          {
+            "t": "BikeRadar(格安カーボンクリンチャー)",
+            "u": "https://www.bikeradar.com/features/daily-deals/cheap-carbon-clinchers/",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝選び方の指針。価格・在庫はセール次第。"
+      },
+      {
+        "id": "20261109-aokippu-november-month",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://kuruma-news.jp/wp-content/uploads/2026/01/20240117_chiyari.jpg?v=1737072697",
+        "headline": "【経営メモ・市場／国内・Xバズ起点・11月強化月間】自転車マナーアップ強化月間が各地で始動——青切符時代の“被視認性＆保険”が店の商機",
+        "layer1": "11月は自治体の『自転車マナーアップ強化月間』が各地でスタート(堺市は11/1〜11/30など)。重点はルール遵守・ヘルメット着用・放置自転車の追放。2026年4月の青切符(反則金)導入以降、Xでは『取り締まりが緩い／厳しい』が定期的に燃える定番トピックになっている。",
+        "layer2": "反則金の例は、ながらスマホ12,000円・信号無視6,000円・一時不停止5,000円(都府県資料)。店目線では『冬の夜ライド×強化月間』が重なる今が、前後ライト・反射材・ヘルメット(MIPS等)・個人賠償保険の提案期。“買い替えの努力義務”ではなく“捕まらない・事故らない装備”として勧めると刺さる。",
+        "sources": [
+          {
+            "t": "堺市(自転車マナーアップ強化月間)",
+            "u": "https://www.city.sakai.lg.jp/kurashi/bohan/kotsu/zitennsyamanaup.html",
+            "d": "2026-11"
+          },
+          {
+            "t": "JAFMate(青切符・反則金の解説)",
+            "u": "https://jafmate.jp/safety/sp_20260310_01.html",
+            "d": "2026-03"
+          }
+        ],
+        "status": "確定＝強化月間の実施・反則金額(自治体／公的資料)。Xの“取り締まり格差”論は体感差ベース＝※要裏取り。"
+      },
+      {
+        "id": "20261109-nys-not-saviour",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00038541-328.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C142",
+        "headline": "【トレンド・人間ドラマ／CXの未来】ナイス『僕は救世主じゃない』——ビッグ3不在でも客は入る、新王者が背負う“看板”の重さ",
+        "layer1": "欧州を獲ったナイスだが、本人は『自分はVDPとVvAの“代わり”にはなれない』と距離を置く。それでもCX人気は健在で、両雄が顔を合わせるアントワープW杯(12月)は前売りが連日好調と報じられている。",
+        "layer2": "興行面では『スター一人への依存はリスク』。ナイスの連勝と若手の台頭(U23女子はセリア・ジェリが連覇)で、ビッグ3が走らない週でも観客・配信は保たれつつある。マサル視点＝“誰が出るか”のニュースは来店トーク・ショートの鉄板。選手の物語(重圧・継承)はレース結果より心を動かす。",
+        "sources": [
+          {
+            "t": "Domestique(ナイス『救世主ではない』)",
+            "u": "https://www.domestiquecycling.com/en/news/i-dont-see-myself-as-the-saviour-of-cyclocross-thibau-nys-warns-he-cannot-replace-mathieu-van-der-poel-and-wout-van-aert/",
+            "d": "2026-10-29"
+          },
+          {
+            "t": "Cyclingnews(アントワープ戦の前売り好調)",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/1-000-tickets-flying-out-the-door-each-day-as-anticipation-builds-for-wout-van-aert-and-mathieu-van-der-poels-first-cyclocross-showdown-of-the-season-in-antwerp",
+            "d": "2026"
+          }
+        ],
+        "status": "曖昧＝人気の定量指標は前売り・配信の断片情報にとどまる(※要裏取り)。"
+      }
+    ]
+  },
+  {
     "date": "2026-11-08",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ゼダムCX欧州選手権が『審判が虹を奪った』大論争で幕を開けました——昨夜の女子エリートを主役に、今日の男子決勝、年末の価格戦争、新型ロード＆ホイールまで底まで潜りました。",
     "cards": [
