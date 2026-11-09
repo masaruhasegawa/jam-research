@@ -1,5 +1,264 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-11-10",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。シンガポールでデルトロが独走、CX欧州選手権の『失格論争』はついに連盟の正式提訴へ——泥とスプリントの余韻が濃い月曜です。",
+    "cards": [
+      {
+        "id": "20261110-deltoro-singapore",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/oo8VKYZDwha3LLjcTZYtnJ-2000-80.jpg",
+        "headline": "【🔥今日の一本・レース／人間ドラマ・11/8・シンガポール】デルトロが『スプリンターの的』をはぐらかす独走勝利——マリーナベイでセイシャスを従え、22歳が語る『メキシコ人がツールを勝つ日』",
+        "layer1": "ツール・ド・フランス シンガポール・クリテリウム（11/8・エキシビション）で、UAEのイサク・デルトロが終盤に抜け出して独走勝利。フィリプセンら本命スプリンター勢を出し抜き、2位にポール・セイシャス、3位にソーレン・ワレンスキョルドが入った。別インタビューでは『なぜダメなんだ?（Why not?）』と、将来メキシコ人がツールを制する可能性に自ら言及。",
+        "layer2": "クリテはポイント非公式のお祭りレースだが、デルトロ（今季ツール総合3位・新人賞）とセイシャス（同4位）の『新世代対決』が場所を変えて続いているのが読みどころ。ロンバルディアはセイシャス、モンレアルGPとこのシンガポールはデルトロ、と星の潰し合いが拮抗。『メキシコ人のツール制覇』発言は本人の自己評価の高さの表れで、裏取りできる確定事実は『独走で勝った』こと。来季グランツールでの本番がいよいよ楽しみ。",
+        "sources": [
+          {
+            "t": "Cyclingnews（勝利）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/singapore-criterium-isaac-del-toro-takes-surprise-solo-win-as-the-sprinters-miss-out/",
+            "d": "2026-11-08"
+          },
+          {
+            "t": "Cyclingnews（メキシコ発言）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/why-not-isaac-del-toro-on-a-mexican-rider-winning-tour-de-france-in-the-future/",
+            "d": "2026-11-08"
+          }
+        ],
+        "status": "確定＝デルトロ独走勝利・セイシャス2位・ワレンスキョルド3位（エキシビション）。曖昧＝『メキシコ人のツール制覇』は本人の願望コメント"
+      },
+      {
+        "id": "20261110-schreiber-protest",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-11%2Fmarie-schreiber-6af07a686b39f.jpeg",
+        "headline": "【レース・人間ドラマ／11/8続報・Xでも大論争】シュライバー『失格』はルクセンブルク連盟が正式提訴——『先頭でゴールした順位に戻せ』、監督サンヌ・カントは『人生で聞いた中で最も馬鹿げた裁定』",
+        "layer1": "CX欧州選手権（11/8・ゼダム）女子エリートでスプリント先着しながら『ライン逸脱』で2位降格→ブランド繰り上げ優勝となったマリー・シュライバーの件。ルクセンブルク連盟（FSCL）がUEC（欧州連合）に正式な異議を提出し、『フィニッシュ通過順の結果に戻すこと』を要求した。X上でも『失格は不当』と国際的に大炎上している。",
+        "layer2": "裏取りの要点：最終周でアルバラードが脱落し、ブランドとシュライバーの一騎打ちスプリント→シュライバーが勝つも僅かに進路を外し、審判団が降格を適用、というのが確定の経緯。監督サンヌ・カントは『これを黙って見過ごすつもりはない（We're not going to let this slide）』『最も馬鹿げた反応』と激昂し、本人は表彰台を拒否『キャリア最高の瞬間を奪うなんて無礼だ』。提訴の結論はまだ出ておらず、ここは『※審議中』。レース裁定が連盟レベルの争いに発展した珍しい一件。",
+        "sources": [
+          {
+            "t": "IDL ProCycling（提訴）",
+            "u": "https://www.idlprocycling.com/cyclo-cross/luxembourg-federation-file-official-complaint-following-schreibers-relegation",
+            "d": "2026-11-08"
+          },
+          {
+            "t": "Cyclingnews（ブランド側）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/",
+            "d": "2026-11-07"
+          }
+        ],
+        "status": "確定＝降格の経緯・連盟が正式提訴・カントの反発。曖昧＝提訴の結論は審議中（※裁定待ち）"
+      },
+      {
+        "id": "20261110-alvarado-finger",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-11%2Fceylin-del-carmen-alvarado-6aef4a03b77b8.png",
+        "headline": "【レース・人間ドラマ／11/9】欧州選手権3位のアルバラード、最終周の落車で『指を骨折か』——病院で精査、オランダ代表コーチ『相当痛がっていた』",
+        "layer1": "CX欧州選手権で銅メダル（3位）のセイリン・デルカルメン・アルバラードが、最終周の落車で負傷し病院へ。オランダ代表コーチのヘルベン・デクネフトは『本当に指を折ったように見える、かなり痛がっていた』と語った（当初は手首負傷との情報もあり錯綜）。",
+        "layer2": "アルバラードは昨季も膝・背中・病気と故障続きで、復調途上での一戦だった。この日は最終周まで優勝争いに絡んでいただけに、落車は痛い。確定は『3位・落車・病院で精査』、負傷部位は『指の骨折か（手首との情報も）＝※要精査』。CX本格シーズン入り口での主力の離脱リスクは、W杯開幕（11/27オストラバ）に向けた女子の勢力図に影響しうる。",
+        "sources": [
+          {
+            "t": "IDL ProCycling",
+            "u": "https://www.idlprocycling.com/cyclo-cross/fears-of-serious-injury-to-alvarado-bronze-medalist-after-the-european-cyclocross-championships",
+            "d": "2026-11-09"
+          }
+        ],
+        "status": "確定＝3位・最終周落車・病院で精査。曖昧＝負傷部位（指骨折か手首か、※要精査）"
+      },
+      {
+        "id": "20261110-niel-winter",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/WpT8z7AZr3KBsnuSCiikMb-2100-80.jpg",
+        "headline": "【レース・冬の地図／次の泥】欧州選手権の次は『休戦記念日の平日クロス』——11/11ニール（ヤールマルクトクロス）→11/14メルクスプラス、ファントゥーレンハウトが独走態勢",
+        "layer1": "CX欧州選手権の余韻も冷めぬまま、スーペルプレスティージュ第3戦は11/11（火・ベルギーの休戦記念日・祝日）の『ニール＝ヤールマルクトクロス』。アントワープ南・ルペル川沿いの伝統の平日クロスで、女子エリート13:40・男子エリート15:10（現地時間）発。続く第4戦は11/14メルクスプラス。",
+        "layer2": "シリーズはここまで男子がミカエル・ファントゥーレンハウトが5戦4勝で独走、女子はルシンダ・ブランドが背中の不調を押して開幕戦を制するなど安定。欧州選手権で消耗した主力がどこまで中2日で立て直すかが見どころ。ビッグ3（VvA/VDP/ピドコック）はまだ不在で、始動はクリスマス前後の観測——いまは『2番手グループの総力戦』が連日楽しめる貴重な時期。",
+        "sources": [
+          {
+            "t": "Superprestige（ニール公式）",
+            "u": "https://www.superprestigecyclocross.be/en/calendar/2026-2027/niel",
+            "d": "2026-11"
+          },
+          {
+            "t": "Cyclingnews（CX視聴ガイド）",
+            "u": "https://www.cyclingnews.com/cycling-culture/streaming/how-to-watch-cyclo-cross-live-streams-tv-channels-and-schedule-for-all-races-and-major-championships-during-the-2026-27-season/",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝ニール11/11・メルクスプラス11/14・発走時刻・シリーズ順位。曖昧＝当日の出走メンバーは直前発表"
+      },
+      {
+        "id": "20261110-nys-mvdp",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/VbJMvr8awm8euSXNeNJ4hT-2100-80.jpg",
+        "headline": "【トレンド・人間ドラマ／11/9】新・欧州王者ナイス『マチューに5秒与えたら、もう二度と見えない』——VDPの支配力を物差しに、自らの現在地を測る",
+        "layer1": "2度目のCX欧州王者となったティボー・ナイスが、ファンデルプールの圧倒的な強さを引き合いに『マチューにあの5秒を与えたら、もう彼の姿は見られない（＝追いつけない）』と語り、自分がVDPの水準をまだ追う側であることを率直に認めた。",
+        "layer2": "勝った直後に『僕は救世主じゃない』と重圧を語ったナイスが、今度は具体的に『VDPとの差』を言語化したのがこの発言。ビッグ3不在の今季、ナイスは実質的な『看板』を背負うが、本人の基準はあくまでVDP。クリスマス前後にVDP（父になる時期と重なり去就は流動的）が参戦すれば、この『5秒』が本当に埋まるのかが今冬最大の見もの。確定は発言内容、VDPの参戦時期は『※観測』。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/give-mathieu-those-five-seconds-and-you-wont-see-him-again-thibau-nys-chasing-van-der-poels-level-of-cyclo-cross-dominance/",
+            "d": "2026-11-09"
+          }
+        ],
+        "status": "確定＝ナイスの発言。曖昧＝VDPの今冬参戦可否・時期（※観測）"
+      },
+      {
+        "id": "20261110-roglic-taiwan",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/SnE958YJTnUhSWEjFxgQFc-2560-80.jpg",
+        "headline": "【トレンド・去就／11/9】ロリッチが台湾『マスターズ・ライド』で気楽にペダル——だが2027の移籍先は『時間も選択肢も残り少ない』",
+        "layer1": "プリモシュ・ロリッチがオフに台湾の『マスターズ・ライド』イベントに参加しリラックスした様子。一方で、2027シーズンの所属が依然決まらず、Cyclingnewsは『チーム探しの時間も選択肢も尽きかけている』と報じた。",
+        "layer2": "ベテラン勢の『椅子取り』は今オフ厳しく、ロリッチほどの実績でも受け皿が狭まっているのが現実。UAE・ヴィスマが若手で陣容を固め、各チームの予算に余裕がない構図は、機材サプライヤーの綱引き（中華ブランドの台頭含む）と地続き。確定は『台湾参加』と『去就未定』で、行き先は『※交渉中』。マサル目線では『WorldTour経済の体温計』として押さえておきたい一本。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/relaxed-primoz-roglic-gets-back-on-the-bike-for-taiwan-masters-ride-despite-time-and-options-for-finding-new-team-in-2027-running-low/",
+            "d": "2026-11-09"
+          }
+        ],
+        "status": "確定＝台湾イベント参加・去就未定。曖昧＝2027所属先（※交渉中）"
+      },
+      {
+        "id": "20261110-rouleur-live",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/uuugdjaasg2ii2dGjrEdGE-2500-80.png",
+        "headline": "【トレンド・自転車文化／11/12-14】ロンドン『Rouleur Live』が今週開幕——VDP・フォス・ニエワダマ・カンチェラーラら大物が一堂に、オフの最大級ショー",
+        "layer1": "自転車メディアRouleur主催の体験型ショー『Rouleur Live 2026』が、ロンドンのTruman Breweryで11/12（木）〜14（土）に開催。ファンデルプール、マリアンヌ・フォス、カシア・ニエワダマ＝フィニー、そしてTudor Pro Cyclingを率いるファビアン・カンチェラーラらが登壇予定。",
+        "layer2": "レースのない晩秋に、選手トークと最新機材が集まる欧州最大級の屋内イベント。新製品やブランドのプロモーションが集中する場でもあり、年末商戦（ブラックフライデー）直前の『空気づくり』の役割も大きい。日本からは行きづらいが、ここで露出する新作ホイール・コンポの情報は、年明けの国内トレンドを先読みする材料になる。確定＝開催日程・会場・主要登壇者。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/news/kasia-niewiadoma-phinney-mathieu-van-der-poel-and-marianne-vos-headline-rouleur-live-2026",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝日程・会場・主要登壇者。曖昧＝当日の全出演者・発表内容は未確定"
+      },
+      {
+        "id": "20261110-ysroad-bf",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://prcdn.freetls.fastly.net/release_image/189875/3/189875-3-aa98244766f746b1bb301b0409a86bf3-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+        "headline": "【経営メモ・市場／国内・11/12開始】ワイズロードが『2026 BLACK FRIDAY SALE』——全3,000点超を大幅値下げ、オンライン11/12夜〜12/7、店頭11/13〜12/6",
+        "layer1": "スポーツ自転車最大手ワイズロードが『2026 BLACK FRIDAY SALE』を告知（11/2発表）。ロード・クロス・フォールディングを中心に全3,000点超を値下げし、フレーム・ホイール・シューズ・ウェアも対象。オンライン（Y's Road Online）は11/12 19:00〜12/7 10:00、店頭は11/13〜12/6。",
+        "layer2": "経営視点の勘所：国内最大手が3,000点規模で年末の値付けを仕掛けると、周辺の個人店の客足と相場観に直撃する。発表に明記された割引は『まとめ買い5%OFF＋PayPay5%還元』で、目玉の最大値引き率は非公表＝『現物を見て判断させる』型。マサル店としては、ワイズのセール期間（11/12〜12/7）を『価格の基準線』として押さえつつ、うちは“値引き競争”ではなく『中華カーボンの原価優位＋手組み・フィッティングの付加価値』で差別化する時期。年末の来店導線（サイズ合わせ・乗り換え相談）を取りこぼさない設計を。",
+        "sources": [
+          {
+            "t": "PR TIMES（ワイズロード）",
+            "u": "https://prtimes.jp/main/html/rd/p/000000003.000189875.html",
+            "d": "2026-11-02"
+          }
+        ],
+        "status": "確定＝開催期間・対象規模3,000点超・まとめ買い/還元条件。曖昧＝最大値引き率は非公表"
+      },
+      {
+        "id": "20261110-bigbrand-bf",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/k2qveTDqmFcFdRWf5kfZ3T-2230-80.jpg",
+        "headline": "【経営メモ・市場／大手の値付け・BF商戦】海外大手も完成車・ホイールを一斉投げ売り——ハントは最大40%オフ継続、『深リムカーボン総崩れ』の本番",
+        "layer1": "ブラックフライデー商戦が本格化し、海外大手が今年の実力モデルを軒並みセール価格に。ハント（The Rider Firm）は『史上最大』をうたい最大40%オフ級、完成車も“今年乗って良かった一台”が軒並み値下げ、というのがCycling Weeklyなど英メディアの報じる地合い。",
+        "layer2": "経営の読み：大手ブランド系の深リムカーボンが年末に一段安となり、中華直販（Elitewheels等も11月中旬まで割引）と価格が接近。ここで起きるのは『中華の価格優位の相対的な縮小』で、“安いから中華”という従来の売り文句が通じにくくなる。だからこそうちが前面に出すべきは、価格ではなく『カーボンスポーク化・実測重量・保証』での中身勝負。大手がどこまで下げたかを常に把握し、“同価格帯なら中華がこう勝る”を即答できる準備を。確定＝ハント等の値下げ、具体額は店舗・通貨で変動（※各社サイト要確認）。",
+        "sources": [
+          {
+            "t": "Cycling Weekly（BF完成車）",
+            "u": "https://www.cyclingweekly.com/deals/some-of-the-best-bikes-ive-ridden-and-tested-this-year-are-on-sale-at-some-incredible-black-friday-deal-prices",
+            "d": "2026-11"
+          },
+          {
+            "t": "Cycling Weekly（ハント最大40%）",
+            "u": "https://www.cyclingweekly.com/deals/hunt-wheels-goes-big-early-for-black-friday-with-up-to-40-percent-off-the-best-wheelsets-its-the-brands-biggest-ever-sale",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝BF商戦で大手が一斉値下げ。曖昧＝具体額は店舗・通貨で変動（※各社サイト要確認）"
+      },
+      {
+        "id": "20261110-techweek-parts",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/11/2026-November-7-Tech-of-the-Week-scaled.jpg",
+        "headline": "【パーツ・機材最前線／11/7】冬の“小物”が一気に——自転車専用リカバリーブーツ、£300のファブリック製サドル、メットTrentaヘルメット更新ほか",
+        "layer1": "road.ccの週刊まとめ（11/7）に、冬装備と新作パーツが集中。『自転車乗り専用を謳う初のコンプレッション（リカバリー）ブーツ』、約£300の高級サドル（Fabric）、メット（MET）の定番ヘルメットTrentaの更新、カステリの冬アクセサリー群などが並んだ。",
+        "layer2": "季節の読み：レースが止まる晩秋〜冬は、各社が“回復・保温・接触点（サドル/ヘルメット）”の小物を投入する時期。£300サドルのような高価格の接触点アイテムは『フィット＝速さ・快適』という価値訴求で、まさにショップのフィッティング商売と相性が良い。うちの客にも『年末のセールで車体より先に、合うサドルとポジションに投資を』という提案が刺さる。確定＝各製品の発表、詳細スペック・国内価格は追って要確認。",
+        "sources": [
+          {
+            "t": "road.cc（Tech of the Week）",
+            "u": "https://road.cc/tech-news/take-your-recovery-to-the-next-level-with-the-first-compression-boots-specifically-made-for-cyclists-plus-halfords-tool-focused-advent-calendar-the-cycle-specific-weather-app-and-the-cheape",
+            "d": "2026-11-07"
+          }
+        ],
+        "status": "確定＝新作小物の発表。曖昧＝個別の詳細スペック・国内価格（※要確認）"
+      },
+      {
+        "id": "20261110-china-carbon-buy",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/05/2026-China-Cycle-show.jpg",
+        "headline": "【初中級・買い方／ブラックフライデーに乗せて】大手が値下げした今こそ、『初めての中華カーボン』で外さない4点——保証・実測重量・チューブレス・リムフック",
+        "layer1": "ブラックフライデーで大手も中華直販も一斉に値引く今、初中級が狙いやすいのが『初めての中華カーボンホイール』。ただし安さだけで選ぶと後悔する。2026年の評価系メディアでも中華勢の技術は『もはや格下ではない』とされる一方、個体・ブランド差は大きい。",
+        "layer2": "外さない4点：①保証（国内代理店の有無・年数・送料負担）——ここが中華最大の落とし穴。②実測重量（公称は軽めに出がち、できれば実測の提示を）。③チューブレス適合（フックレスは対応タイヤ/空気圧の指定が厳しい、初心者はフック付き＝クリンチャー兼用が無難）。④リム内幅（25C以上の太タイヤ時代は内寸21〜23mm前後が快適）。マサル店の着地：8LIEN/CRW/GOOSYNN等は『保証と実測を店が担保する』点が直販との決定的な差。BFで大手と価格が近づくほど、“店で買う中華”の安心が効く。",
+        "sources": [
+          {
+            "t": "VeloFanatics（中華ホイール2026）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/",
+            "d": "2026-11"
+          },
+          {
+            "t": "PR TIMES（ワイズロードBF・相場の文脈）",
+            "u": "https://prtimes.jp/main/html/rd/p/000000003.000189875.html",
+            "d": "2026-11-02"
+          }
+        ],
+        "status": "確定＝BFで中華も値引き・見るべき4点は普遍。曖昧＝個別ブランドの保証/実測は製品ごと要確認"
+      },
+      {
+        "id": "20261110-ronhaar-disaster",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-11%2Fpim-ronhaar-6af098ffe413c.jpg",
+        "headline": "【レース・人間ドラマ／11/8】地元開催の欧州選手権で惨敗、代表コーチがロンハールを『まったくの大失敗だった』と断じる",
+        "layer1": "オランダ・ゼダムの“地元”で迎えた男子エリート欧州選手権で、優勝候補の一角ピム・ロンハールが精彩を欠いて沈没。オランダ代表コーチが『（彼のレースは）まったくの大失敗（just a total disaster）』と厳しく総括した。",
+        "layer2": "ロンハールは今季序盤から安定して上位にいただけに、最大目標の一つだった地元欧州選手権での失速は本人にもチームにも重い。CXは“調子の波”と“コース適性（この日の泥・階段）”が結果を大きく左右する競技で、1戦の惨敗が即・冬全体の評価にはならない。だが代表コーチが公に厳しい言葉を使ったことで、立て直しのプレッシャーは増す。確定＝コーチの発言と不本意な結果。次戦ニール（11/11）での反応が試金石。",
+        "sources": [
+          {
+            "t": "IDL ProCycling",
+            "u": "https://www.idlprocycling.com/cyclo-cross/national-coach-calls-pim-ronhaars-disappointing-european-championship-race-just-a-total-disaster",
+            "d": "2026-11-08"
+          }
+        ],
+        "status": "確定＝地元欧州選手権で失速・代表コーチの『大失敗』発言。曖昧＝不調の原因は未特定"
+      }
+    ]
+  },
+  {
     "date": "2026-11-09",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。ゼダムはナイスが名物の『階段』で欧州を獲り、ベルギーが表彰台を独占——泥のシーズンが本格化しました。次戦メルクスプラス(11/14)とW杯開幕(11/27)、年末セールの価格戦争、11/15さいたまクリテの布陣までまとめています。",
     "cards": [
