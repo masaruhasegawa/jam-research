@@ -1,5 +1,279 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-11-11",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。休戦記念日の今日はベルギーで『民衆のクロス』ニール、来季はツアー・ダウンアンダーが男女“同コース・同日”へ、そして旧トタルエネルジーがXEFI救済で中華パルダスに——『中華の格上げ』が今日のキーワードです。",
+    "cards": [
+      {
+        "id": "20261111-niel-jaarmarktcross",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/VbJMvr8awm8euSXNeNJ4hT-2100-80.jpg",
+        "headline": "【🔥今日の一本・レース／今日11/11・休戦記念日の泥】ベルギーの祝日に開く『民衆のクロス』ヤールマルクトクロス・ニール——第3戦、連勝中ファントゥーレンハウトに連覇スウェーク、泥巧者が集結",
+        "layer1": "11/11（水・ベルギーの休戦記念日＝祝日）、アントワープ近郊ニールで『ヤールマルクトクロス』。スーペルプレスティージュ第3戦で、平日なのに毎年大観衆が詰めかける『民衆のクロス』。女子13:40／男子15:10（現地）スタート。",
+        "layer2": "下回り＝シリーズは10月に2勝のファントゥーレンハウトが首位。ニールは古豪ラウレンス・スウェークが2024・2025と連覇中（昨年はファンデピュッテを写真判定で退けた）。11/8欧州王者ティボー・ナイスは『泥嫌い』で近年ニールを回避しがち＝ここはスウェーク／ファンデピュッテ／ファンデルハールら泥巧者の争い。女子は本来の軸アルバラードが手の骨折で欠場、ルシンダ・ブランドが中心に。",
+        "sources": [
+          {
+            "t": "Cyclingnews（CX視聴ガイド）",
+            "u": "https://www.cyclingnews.com/cycling-culture/streaming/how-to-watch-cyclo-cross-live-streams-tv-channels-and-schedule-for-all-races-and-major-championships-during-the-2026-27-season/",
+            "d": "2026-11-09"
+          },
+          {
+            "t": "Superprestige公式（Niel）",
+            "u": "https://www.superprestigecyclocross.be/en/calendar/2026-2027/niel",
+            "d": "2026-11"
+          },
+          {
+            "t": "Cyclingnews（アルバラード欠場）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/hand-injury-from-crash-on-way-to-euros-bronze-forces-ceylin-del-carmen-alvarado-out-of-upcoming-cyclo-cross-races/",
+            "d": "2026-11-10"
+          }
+        ],
+        "status": "確定＝開催日・シリーズ首位・女子アルバラード欠場／曖昧＝男子スタートリスト（ナイス出走可否は要確認）"
+      },
+      {
+        "id": "20261111-iceman-cometh",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/QETUTtYBLKHURjYZXDcv3N-2000-80.jpg",
+        "headline": "【レース・グラベル／11/7・米ミシガン】氷点下の名物『アイスマン・コメス』——新鋭が旧王者ヴァーミューレン＆メイルズを僅差で振り切る、北米オフの祭典",
+        "layer1": "11/7、ミシガン州でMTB／グラベルの名物レース『Bell's Iceman Cometh Challenge』。カルカスカ→トラバースシティの約50km、氷点下の寒さと砂・泥で知られる北米オフシーズンの一大イベント。",
+        "layer2": "今年は上り調子の若手が元勝者アレクセイ・ヴァーミューレンとディアナ・メイルズを接戦で下した。1980年代から続く草の根イベントに数千人が参加＝欧州のCXとはまた違う『ドロップバーでMTBコースを走る』北米グラベル文化の象徴。マサル目線では、太いタイヤ×グラベルの“遊び”が根強い需要を持つ証拠。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/my-life-long-dream-has-come-true-rising-gravel-stars-carve-close-victories-at-iceman-cometh-against-former-winners-alexey-vermeulen-deanna-mayles/",
+            "d": "2026-11-09"
+          },
+          {
+            "t": "Traverse City（イベント概要）",
+            "u": "https://www.traversecity.com/event-detail/bells-iceman-cometh-challenge-2026/24923/",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝開催・旧王者を破った構図／曖昧＝優勝者個人名（記事は『新鋭』表記で裏取り途上）"
+      },
+      {
+        "id": "20261111-tdu-2027-hindley",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/Z39qDBjWcJTpAkrhpXa4Tj-2560-80.png",
+        "headline": "【レース・来季の地図／11/10】ツアー・ダウンアンダーが『男女“同コース・同日”』の歴史的一歩——2027開幕戦、第1弾スターターに元ジロ覇者ハインドレー、1/16〜24",
+        "layer1": "WorldTour開幕戦TDUの主催者が11/10、2027大会（フェスティバル1/16〜24、レースは1/19〜24）の目玉選手第1弾として、元ジロ・デ・イタリア総合優勝のジェイ・ハインドレー（豪・レッドブル）を発表。",
+        "layer2": "2027からWorldTour史上初めて、男女が『まったく同じコースを同じ日』に走る形式へ。女子は男子レースの最終3日間に並走する。北半球が冬眠する1月、南半球の夏に新シーズンが幕開け＝日本のローディーにとっても『今季最初に機材で盛り上がる』号砲になる時期。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/tour-down-under-announces-former-giro-winner-jai-hindley-as-first-headline-starter-for-2027/",
+            "d": "2026-11-10"
+          },
+          {
+            "t": "Cyclingnews（男女同コース発表）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/womens-tour-down-under-to-run-alongside-final-three-days-of-mens-race-in-2027/",
+            "d": "2026-05"
+          }
+        ],
+        "status": "確定＝発表・同コース同日の形式／曖昧＝最終日程はUCIカレンダー承認待ち"
+      },
+      {
+        "id": "20261111-xefi-totalenergies-pardus",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/u84jiYFvQJNZUtgFx8iqPW-2000-80.jpg",
+        "headline": "【経営メモ・市場／11/10】存続危機のトタルエネルジーに新スポンサー『XEFI』——仏IT企業が救済、2027はフレームを中華『パルダス』に、WorldTourの“中国化”がまた一歩",
+        "layer1": "11/10、消滅が囁かれていた名門仏チーム（旧ヴァンデU、1991年創設。フックレル／ロランらがツールで活躍）に、ITサービス企業XEFIがタイトルスポンサーとして就任。3年契約でチームは2027も存続が固まった。",
+        "layer2": "さらに機材は2027から中国ブランド『パルダス（Pardus）』へ（バイク供給は2029まで）。プロの第一線に中華フレームが続々流入＝『中華＝安かろう悪かろう』という店頭の常識が崩れつつある。マサル目線では、お客さんに中華カーボンを勧める時の“後ろ盾”がまた一つ増えた、という市場の潮目。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/totalenergies-becomes-xefi-as-new-title-sponsor-steps-in-to-save-french-team/",
+            "d": "2026-11-10"
+          },
+          {
+            "t": "Domestique（パルダス機材）",
+            "u": "https://www.domestiquecycling.com/en/news/totalenergies-switch-to-pardus-bikes-for-2027-as-more-chinese-brands-expand-into-pro-team-sponsorship/",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝XEFI就任・3年契約・パルダス機材／曖昧＝チーム新名称の正式表記は未詳"
+      },
+      {
+        "id": "20261111-shimano-q3-2026",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/XNnoCK9fvEC2ZxkX32MW8K-2560-80.png",
+        "headline": "【経営メモ・市場／シマノ最新決算10/27】自転車部品の『在庫調整が完了』局面へ——9カ月営業益+21.8%・通期上方修正、“底打ち”が年末商戦の追い風",
+        "layer1": "シマノの2026年12月期・第3四半期（10/27発表）で、9カ月累計の営業利益は445億円（前年同期比+21.8%）、通期予想も営業益543億円へ上方修正。『欧州・中国で自転車部品の市場在庫調整が進んだ』と明記した。",
+        "layer2": "ここ数年プロショップを苦しめた『コロナ特需の反動＝過剰在庫』が、業界最大手の公式見解でようやく掃けつつある。需要回復＋アジア通貨安が利益を押し上げ。※純益の急増（+148.5%）は為替差損の縮小や有価証券売却益も含むので、本業の実力はやや割り引いて読む。マサル的結論＝『地合いは底打ち、年末商戦は強気で仕掛けていい』材料。",
+        "sources": [
+          {
+            "t": "業界ダイジェスト（シマノ2026 Q3）",
+            "u": "https://www.gyokaidigest.com/companies/shimano/report/2026-Q3",
+            "d": "2026-10-27"
+          },
+          {
+            "t": "株予報（7309 シマノ）",
+            "u": "https://kabuyoho.jp/reportNews?bcode=7309",
+            "d": "2026-10-27"
+          }
+        ],
+        "status": "確定＝決算数値・在庫調整の進展・通期上方修正／曖昧＝自転車セグメント単体の利益率は短信未確認"
+      },
+      {
+        "id": "20261111-canyon-sram-ai",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/9mJjfs9Nb2dJXJas673oxF-2100-80.jpg",
+        "headline": "【トレンド・機材と頭脳／11/10】女子名門キャニオン-SRAMが『AIパートナー』と提携——2027へ、トレーニングと選手育成にAIを本格導入",
+        "layer1": "11/10、女子WorldTourのキャニオン-SRAM zondacryptoが、2027シーズンへ向けてAIを活用したトレーニング＆育成のパートナーシップを発表した。",
+        "layer2": "プロの世界でもデータ×AIが『練習メニューの最適化・才能発掘』の領域に本格的に降りてきた。※相手企業名や具体的な用途の詳細は発表時点では限定的（続報待ち）。ホビーでもZwiftやAIコーチアプリが一般化しつつある流れの延長線上＝冬のインドアシーズンに刺さる話題。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/canyon-sram-delve-into-world-of-ai-with-new-training-and-development-partnership-ahead-of-2027-season/",
+            "d": "2026-11-10"
+          }
+        ],
+        "status": "確定＝提携の発表／曖昧＝パートナー企業名・具体機能は未詳（※続報待ち）"
+      },
+      {
+        "id": "20261111-seixas-contract",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/TuveXCkx6RgXWmwSx8XLzW-2100-80.jpg",
+        "headline": "【トレンド・人間ドラマ／11/9】19歳の超新星セイシャス『契約の話を始めたら、気が狂いそうだ』——Q36.5が年20億円超オファー説、2027はデカトロン残留を明言",
+        "layer1": "ツールで才能を見せた19歳ポール・セイシャス（仏・デカトロンCMA CGM）が11/9、『ここで契約の話を始めたら、頭がおかしくなりそうだ』とオフの去就報道に辟易。2027はデカトロン残留で確定と改めて明言した。",
+        "layer2": "争点は2028以降。Q36.5-ピナレロが年俸1,300万ユーロ超（約21億円）を用意との報道（※金額は報道ベース・要裏取り）、UAE・ヴィスマ・イネオスも関心。デカトロンはオコーナー／シヴァコフ／デプルスを獲得して“セイシャス王国”を構築、残留へ『XXL』級オファーを準備中。若き才能を巡る金額のインフレが、現代ロードの縮図。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/if-i-start-discussing-contracts-here-i-think-ill-go-crazy-paul-seixas-not-thinking-about-future-deal-as-off-season-rolls-on/",
+            "d": "2026-11-09"
+          },
+          {
+            "t": "Domestique（去就まとめ）",
+            "u": "https://www.domestiquecycling.com/en/news/paul-seixas-confirms-2027-plans-after-transfer-speculation/",
+            "d": "2026-10"
+          }
+        ],
+        "status": "確定＝2027残留明言・契約は2027末まで／曖昧＝2028以降（Q36.5の金額は報道ベース・※要裏取り）"
+      },
+      {
+        "id": "20261111-ican-aero40-ii",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://icancycling.com/cdn/shop/articles/ICAN_AERO_40_II_Carbon_Road_Wheels_Review_1672x740_bb7d5693-f70c-43a9-9a8c-6088b4d00611.png?v=1793771705",
+        "headline": "【ホイール・中華直販／11/9レビュー・Xの定番論争の入口】ICAN『AERO 40 II』が実測1,199gで約11万円——『中華はZippに並ぶか』論争に、実測という一つの答え",
+        "layer1": "中華直販ICANの浅リム『AERO 40 II』を海外テスターが実測レビュー（11/9公開）。40mm深・リム内寸21mm／外寸29mm・実測1,199g／ペア、英国着で約£588（約11万円）という価格。",
+        "layer2": "Xでは『中華カーボンは本当にZippや大手に並ぶのか』が定期的に燃える定番ネタ＝これを入口に実測を当てる。評価は『軽さ・反応・横風安定・コスパは◎、ただし内寸21mmは現代基準ではやや細く、荒れた路面での“硬さ・快適性”は弱点』。スポークは高テンションのスチールで『硬いカーボンスポークのような乗り味』。※ブランド直営サイト掲載レビュー（テスターは第三者だが利害に留意）＝断定はしない。",
+        "sources": [
+          {
+            "t": "ICAN（レビュー）",
+            "u": "https://icancycling.com/blogs/reviews/ican-aero-40-ii-carbon-road-wheels-full-review",
+            "d": "2026-11-09"
+          }
+        ],
+        "status": "確定＝実測重量1,199g・寸法・価格／曖昧＝ブランド直営掲載レビューのため第三者性は割り引く（※要独立検証）"
+      },
+      {
+        "id": "20261111-3t-racemax-wpnt",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/306778e6-da22-48c7-9bc9-c72f85fe410e/thumbnails/dc5295a4-860c-40e6-bc27-493a4a98c9fb.jpg?appId=32337f2f-7841-4ef6-a233-d1f001580530&platform=WEB&w=1200",
+        "headline": "【パーツ・機材最前線／11/5】3Tの新型エアログラベル『Racemax+ WPNT』——タイヤクリアランス拡大＆“値下げ”で登場、速い／太い／安いの三拍子",
+        "layer1": "11/5、3Tがエアログラベルレーサー『Racemax+ WPNT』を発表。タイヤクリアランスを広げつつ、従来モデルより価格を引き下げた。",
+        "layer2": "エアロ×グラベルという“全部乗せ”ジャンルで、各社が『太いタイヤも飲み込むレースバイク』へ舵を切っている。値下げは、プレミアムグラベルで価格競争が始まった兆し。舗装もダートも1台で、という需要は日本でも増えており、店頭での“2台目／オールロード”提案に効くトレンド。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/3t-racemax-wpnt",
+            "d": "2026-11-05"
+          }
+        ],
+        "status": "確定＝発表・クリアランス拡大・値下げ／曖昧＝国内価格・入荷時期は未定"
+      },
+      {
+        "id": "20261111-garmin-edge-1060",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/7c83fdde-d590-4af6-9d00-12750d741e90/thumbnails/513441d4-018f-46b9-ab84-97e1423c9bee.jpg?appId=32337f2f-7841-4ef6-a233-d1f001580530&platform=WEB&w=1200",
+        "headline": "【パーツ・冬の相棒／11/6】ガーミン新フラッグシップ『Edge 1060』——インドア＆年末商戦に向け、大画面サイコンが世代交代",
+        "layer1": "11/6、BikeRadarがガーミンの新フラッグシップGPSサイコン『Edge 1060』をファーストルック。大画面ナビ系の最上位が刷新された。",
+        "layer2": "冬＝ログ・ナビ・パワー管理への投資がしやすい時期で、サイコンは年末商戦の鉄板アップセル。先回りすると、1000番台はナビ・地図・接続性が売りで値段も最上位＝『どこまで必要か』を店頭で整理してあげると刺さる（廉価機で足りる人も多い、を正直に言うのが信頼になる）。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/features/first-look-friday/garmin-edge-1060",
+            "d": "2026-11-06"
+          }
+        ],
+        "status": "確定＝ファーストルック掲載／曖昧＝詳細スペック・国内価格は要確認"
+      },
+      {
+        "id": "20261111-first-chinese-carbon-pro",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://icancycling.com/cdn/shop/articles/ICAN_AERO_40_II_Carbon_Road_Wheels_Review_1672x740_bb7d5693-f70c-43a9-9a8c-6088b4d00611.png?v=1793771705",
+        "headline": "【初中級・買い方／“プロも中華”の時代に乗せて】『初めての中華カーボンホイール』で外さない4点——保証・実測重量・リム内寸・チューブレス",
+        "layer1": "XEFI＝旧トタルエネルジーが2027に中華パルダスへ、ICANなど直販の実測レビューも好評と、プロ／メディア両面で中華カーボンの“格”が今まさに上がっている。では初めての1本で、何を見るべきか。",
+        "layer2": "①保証とアフター（直販は海外でサポート網が薄く納期がかかる例も＝国内代理店／ショップ経由の安心と天秤に）②公称より『実測』重量（例：ICAN 40mmで実測1,199g）③リム内寸（21mmは今や細め、25〜30cを使うなら内寸広めを）④チューブレス前提のフック／フックレスの別とリム精度。安さだけで飛びつかず、この4点を店で一緒に確認するのが失敗しないコツ。",
+        "sources": [
+          {
+            "t": "ICAN（実測例）",
+            "u": "https://icancycling.com/blogs/reviews/ican-aero-40-ii-carbon-road-wheels-full-review",
+            "d": "2026-11-09"
+          },
+          {
+            "t": "Domestique（パルダス＝プロの中華採用）",
+            "u": "https://www.domestiquecycling.com/en/news/totalenergies-switch-to-pardus-bikes-for-2027-as-more-chinese-brands-expand-into-pro-team-sponsorship/",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝プロの中華採用トレンド・実測の一例／曖昧＝各ブランドのサポート品質は個体差が大きい"
+      },
+      {
+        "id": "20261111-zwift-plus",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/cd7f86e9-0ad6-4e9f-864e-ddf8957dad8e/thumbnails/0a045124-b617-4698-8e38-87998abfb02f.jpg?appId=32337f2f-7841-4ef6-a233-d1f001580530&platform=WEB&w=1200",
+        "headline": "【トレンド・冬のインドア／10/29】Zwiftが上位プラン『Zwift+』を投入——インドアシーズン本番、課金の“松竹梅”化が進む",
+        "layer1": "10/29、BikeRadarがZwiftの新しいプレミアム上位ティア『Zwift+』をファーストルック。従来プランの上に、より高機能・高価格の層が追加された。",
+        "layer2": "北半球が屋内に籠る季節に合わせた布石。先回りすると、サブスクの階層化は『使い込む人からより多く取る』モデルで、スマートトレーナー×ゲーム的トレーニングが完全に定着した証拠。店頭では本体・スプロケ・専用マットなど“冬の周辺機材”需要とセットで動くので、サブスクの話は来店導線にもなる。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/zwift-plus-first-look",
+            "d": "2026-10-29"
+          }
+        ],
+        "status": "確定＝新ティアの発表／曖昧＝国内提供時期・料金体系は要確認"
+      }
+    ]
+  },
+  {
     "date": "2026-11-10",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。シンガポールでデルトロが独走、CX欧州選手権の『失格論争』はついに連盟の正式提訴へ——泥とスプリントの余韻が濃い月曜です。",
     "cards": [
