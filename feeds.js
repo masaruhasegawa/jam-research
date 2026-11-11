@@ -1,5 +1,269 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-11-12",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。休戦記念日の泥ニールは英国人メイソンが独走初優勝、だが世界王者ブランドは開始直後に負傷。今日はロンドンでファンデルポールが『クロスを走るのか』を世界に試され、中華は13速コンポ『QED2』で、年末商戦は中華直販が値付けの基準を下げにきています。",
+    "cards": [
+      {
+        "id": "20261112-niel-mason",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039505-087.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C141",
+        "headline": "【🔥今日の一本・レース／人間ドラマ・11/11・休戦記念日の泥】キャメロン・メイソンが『ベルギーの祭日』ニールで独走初優勝——英国人がスーパープレスティージュ本場で、キャリア最大の勝利『勝てると分かっていた』",
+        "layer1": "11月11日の休戦記念日、ベルギーの名物ヤールマルクトクロス・ニール（スーパープレスティージュ第3戦）で、英国のキャメロン・メイソンが単独で逃げ切り、今季初にしてキャリア最大の勝利。『勝てると分かっていた』と胸を張った。",
+        "layer2": "価値は『どこで勝ったか』。ニールはベルギー泥クロスの総本山で、地元勢が沸く祭日開催。ここで非ベルギー人が独走で勝つのは珍しく、昨季まで表彰台の常連だったメイソンが『勝てる男』へ一段上がった証。王者ファントゥーレンハウトらが集う中での単独勝利は、今季の勢力図に英国人を一枚加えた。※女子はブランドが開始直後に落車・負傷（別カード）。",
+        "sources": [
+          {
+            "t": "Domestique",
+            "u": "https://www.domestiquecycling.com/en/news/i-knew-i-could-win-cameron-mason-delivers-maiden-belgian-cyclocross-triumph-in-niel/",
+            "d": "2026-11-11"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/superprestige-niel-cameron-mason-soloes-to-first-win-of-the-season-and-biggest-victory-of-his-career/",
+            "d": "2026-11-11"
+          }
+        ],
+        "status": "確定＝メイソンがニール単独優勝（今季初・キャリア最大）／曖昧＝レース全体の2〜3位は要確認。"
+      },
+      {
+        "id": "20261112-brand-ankle",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/fCtqLoA4UpfrZmhjdH5VNR-1024-80.jpg",
+        "headline": "【レース・人間ドラマ／11/11】世界王者ブランドが『開始直後の落車』で足首負傷——CXシーズン続行に暗雲、名将ナイス『涙が出ているなら、良い兆候じゃない』",
+        "layer1": "同じニールで、CX世界王者ルシンダ・ブランドが1周目序盤に落車し足首をひねって離脱。チームのスヴェン・ナイス監督が『彼女の目に涙が出ているなら、それは良い兆候ではない』と深刻な表情を見せた。",
+        "layer2": "タイミングが最悪。女子CXはこれからW杯オストラバ（11/27）開幕で本格化する入口で、虹ジャージの本命が出端をくじかれた格好。靱帯・骨の精査次第では年末の最盛期を棒に振りかねず、アルバラード（欧州選手権で指骨折）ら負傷者が続く女子戦線は一気に流動的に。※重症度は精査待ち、要続報。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/if-she-has-tears-in-her-eyes-that-is-not-a-good-sign-fears-for-lucinda-brands-cyclo-cross-season-as-world-champion-injures-ankle-in-opening-lap-crash/",
+            "d": "2026-11-11"
+          }
+        ],
+        "status": "確定＝ブランドが落車・足首負傷で離脱／曖昧＝診断結果・復帰時期は未発表（要続報）。"
+      },
+      {
+        "id": "20261112-vos-rouleur",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/C7qBcpExXYhBCiWiF7qni8-2000-80.jpg",
+        "headline": "【レース・人間ドラマ／11/9発】2度目のグラベル世界王者ヴォス、今週ロンドン『Rouleur Live』の大トリへ——虹ジャージでオフも主役",
+        "layer1": "新・グラベル世界女王マリアンヌ・ヴォスが、11/12〜14開催のロンドン『Rouleur Live』最終日（11/14）のステージに立つ。コペツキやファンデルポールらと並ぶ目玉の一人。",
+        "layer2": "ヴォスは今季オーストラリア・ナナップのグラベル世界選で2度目の虹を獲得。なお第一線に立ち続ける持久力こそ最大の物語で、ロード・CX・グラベルを跨ぐキャリアはマサルのショート映えする『偉大な現役』。オフの展示会に虹ジャージで登壇できる選手は限られ、女子の集客力の象徴でもある。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/marianne-vos-lotte-kopecky-mathieu-van-der-poel-and-maddy-nutt-among-stars-set-to-headline-rouleur-live-in-london/",
+            "d": "2026-11-09"
+          }
+        ],
+        "status": "確定＝ヴォスがRouleur Live登壇・グラベル世界王者／曖昧＝なし。"
+      },
+      {
+        "id": "20261112-mvdp-rouleur-cx",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/uuugdjaasg2ii2dGjrEdGE-2500-80.png",
+        "headline": "【トレンド・人間ドラマ／今日11/12】ファンデルポールが『Rouleur Live』に異例の英国登壇——この冬クロスを走るのか、本人の口から出るか世界が注視",
+        "layer1": "11/12、ロンドンの自転車見本市『Rouleur Live』にマチュー・ファンデルポールが初登壇（英国での露出自体が異例）。最大の関心は『2026/27のシクロクロスを走るのか』で、ここで何か語るか注目されている。",
+        "layer2": "現時点で本人は未決。理由は重なる——パートナーの出産予定が2027年1月とCXシーズン真っ只中、父エイドリーは『休むのは頭に良い』と後押し、本人も『自分の最高到達点にクロスは要らない』と語ってきた。8度の世界王者が一冬まるごと休めば、CX界の集客は大打撃。『ビッグ3』対決の有無もここに懸かる。※登壇での発言は要確認・続報。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/news/kasia-niewiadoma-phinney-mathieu-van-der-poel-and-marianne-vos-headline-rouleur-live-2026",
+            "d": "2026-11-03"
+          },
+          {
+            "t": "Domestique",
+            "u": "https://www.domestiquecycling.com/en/news/to-cross-or-not-to-cross-mathieu-van-der-poel-keeps-cyclocross-world-guessing/",
+            "d": "2026-10-26"
+          }
+        ],
+        "status": "確定＝11/12にRouleur Live登壇予定／曖昧＝CX参戦の可否は未発表（本人の明言待ち）。"
+      },
+      {
+        "id": "20261112-roglic-xefi",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/Red-Bull-Bora-hansgrohe/CORVOS_00039061-064.jpg?width=2400&height=1260&quality=75&crop=8256%2C4334%2C0%2C585",
+        "headline": "【トレンド・去就／11/10】ロリッチ『電撃移籍』説をXEFIが火消し——トタル後継の仏新興『売名はしたくない』、2027の行き先はなお霧の中",
+        "layer1": "トタルエネルジーの後を継ぐ仏IT企業XEFIが、プリモシュ・ロリッチ獲得という『電撃移籍』観測を否定。『売名のための話はしたくない』と火消しした。",
+        "layer2": "ロリッチの2027は依然未定。ヴィスマ復帰は消え、ロット・インタマルシェのオファーも一時拒否と報じられ、選択肢と時間が尽きかけている。37歳、狙いは『最後のツール』を走れる場所。ProTeam予算と大物の年俸は噛み合いにくく、XEFI説は出来すぎ——引退か、意外な受け皿か。※噂段階、主役は公式否定の報（要裏取り）。",
+        "sources": [
+          {
+            "t": "Domestique",
+            "u": "https://www.domestiquecycling.com/en/news/i-dont-want-to-pull-a-publicity-stunt-xefi-downplay-roglic-shock-transfer-move-despite-new-title-sponsor/",
+            "d": "2026-11-10"
+          },
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/primoz-roglics-options-for-a-2027-contract-narrow-as-two-teams-drop-out-of-the-running-for-his-signature/",
+            "d": "2026-10-29"
+          }
+        ],
+        "status": "曖昧＝ロリッチの2027未定・XEFI説はチーム側が否定（※要裏取り）。"
+      },
+      {
+        "id": "20261112-delie-tudor",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/Lotto-Intermarche/CORVOS_00038814-254.jpg?width=2400&height=1260&quality=75&crop=4237%2C2224%2C0%2C300",
+        "headline": "【トレンド・去就／11/11】デ・リー、チューダー移籍で『ツールでの高くついたミス』を告白——体調の不安も連れての再出発",
+        "layer1": "来季チューダー加入のアルノー・デ・リーが、今年のツール・ド・フランスでの『高くついた判断ミス』を認め、体調面の不安を抱えたままの移籍だと語った。",
+        "layer2": "デ・リーは過去にライム病で長期離脱した経歴があり、好不調の波が課題。パンチャー兼スプリンターとして爆発力は本物だが、ロット時代は体調と勝負所の見極めで取りこぼしも。昇格志向のチューダーは彼の『当たれば大きい』に賭ける格好で、2027クラシックの台風の目になり得る。",
+        "sources": [
+          {
+            "t": "Domestique",
+            "u": "https://www.domestiquecycling.com/en/news/de-lie-admits-costly-tour-de-france-mistake-as-health-concerns-follow-him-to-tudor/",
+            "d": "2026-11-11"
+          }
+        ],
+        "status": "確定＝デ・リーがチューダー加入・本人がミスと体調不安に言及／曖昧＝具体的な体調の程度は非公表。"
+      },
+      {
+        "id": "20261112-dati-astana",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00038883-211.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C141",
+        "headline": "【トレンド・人間ドラマ／11/11】日本の『チーム右京』で走った24歳ダティが『ピドコックを倒した男』としてアスタナ昇格——『一発屋では終わらない』",
+        "layer1": "イタリアの24歳トンマーゾ・ダティ（2026年は日本のコンチネンタル『チーム右京』所属）が、XDS・アスタナと2年契約でワールドツアー昇格。『一発屋じゃないと証明したい』と語った。",
+        "layer2": "名刺代わりは今春のツアー・オブ・ジ・アルプス第1戦、インスブルックでトム・ピドコックをスプリントで下しリーダージャージ獲得。『トムに勝てたのが本物の自信』。日本のチーム出身がトップへ駆け上がる物語は国内にも刺さり、アスタナは若手で2027の陣容を厚くしている。",
+        "sources": [
+          {
+            "t": "Domestique",
+            "u": "https://www.domestiquecycling.com/en/news/i-want-to-show-i-wasnt-a-one-season-wonder-dati-on-beating-pidcock-and-his-move-to-astana/",
+            "d": "2026-11-11"
+          }
+        ],
+        "status": "確定＝ダティがアスタナ2年契約で昇格（6月合意）・右京所属／曖昧＝なし。"
+      },
+      {
+        "id": "20261112-magene-qed2",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://www.cyclistshub.com/wp-content/uploads/2026/11/Magene-QED2-Groupset-Preview.avif",
+        "headline": "【パーツ・機材最前線／11/19発表予告】中華マージーン『QED2』が完全ワイヤレス2×13速へ——“13速”がまた中国から降りてくる",
+        "layer1": "中国マージーン（Magene）が、2作目の電動ロードコンポ『QED2』を11月19日に発表予告。確定しているのは『完全ワイヤレス化』と『2×13速』の2点。",
+        "layer2": "初代QEDは半ワイヤレスの2×12で、アルテグラ対抗・中国国内のみ販売だった。QED2はクランク・カセット込みのフルセットへ拡張され、無線かつ13速で一気に本気度が上がる。価格・重量・海外販売は未発表だが、カンパのスーパーレコード13（約70万円級）に中華がどこまで安く迫るかが焦点。シマノ・スラムの13速待ちの中、選択肢が増えるのは初中級にも追い風。※リムブレーキ非対応は販売店筋の話で未確定。",
+        "sources": [
+          {
+            "t": "Cyclists Hub",
+            "u": "https://www.cyclistshub.com/magene-qed2-introduced/",
+            "d": "2026-11-06"
+          }
+        ],
+        "status": "確定＝11/19発表・無線・2×13（公式ティーザー）／曖昧＝価格・重量・海外展開・ブレーキ対応は未発表。"
+      },
+      {
+        "id": "20261112-china-carbon-bf",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://www.cyclistshub.com/wp-content/uploads/2024/11/Best-Chinese-Carbon-Black-Friday-Deals-1.avif",
+        "headline": "【ホイール・中華直販／ブラックフライデー実売】中華カーボンの年末セールが始動——エリートホイールズ等が国内発送で値引き、『買い時』の見極め方",
+        "layer1": "中華直販のカーボンホイールが年末セールに突入。エリートホイールズは割引コード併用でモデルにより2〜3割引、ウィンスペースやヨエローも11月中旬〜12月初旬のセールを例年実施している。",
+        "layer2": "注意点は『表示価格イコール総額ではない』こと。中国発送は送料込みでも、国やモデルで関税・消費税が別途乗る場合がある。狙い目は深さ40〜50mm・実測1,200〜1,500g級の定番で、保証年数とリム内寸（最新は内寸23mm前後・フックレス可否）を必ず確認。コードや期限は流動的なので公式ストアで最終確認を。※各ブランドの2026具体割引率・コードは変動（昨年基準・要裏取り）。",
+        "sources": [
+          {
+            "t": "Cyclists Hub（中華BFまとめ）",
+            "u": "https://www.cyclistshub.com/chinese-carbon-black-friday-deals",
+            "d": "2026-11-09"
+          },
+          {
+            "t": "hotukdeals（Elitewheels）",
+            "u": "https://www.hotukdeals.com/deals/elitewheels-slr-gravel-carbon-wheelset-ratchet-system-36t-disc-brake-cyclocross-700c-wheels-center-lock-shiman0-xdr-hub-35x34mm-wcode-5024921",
+            "d": "2026-11"
+          }
+        ],
+        "status": "曖昧＝ブランド別の2026割引率・コードは変動（※要裏取り）／確定＝中華直販が年末セール期に入っている。"
+      },
+      {
+        "id": "20261112-ysroad-bf",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://prcdn.freetls.fastly.net/release_image/189875/3/189875-3-aa98244766f746b1bb301b0409a86bf3-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+        "headline": "【経営メモ・市場／国内・今日11/12夜 開戦】ワイズロードBFが今夜スタート、だが『値付けの基準』を下げるのは中華直販——年末商戦の綱引き",
+        "layer1": "ワイズロードの『2026 BLACK FRIDAY SALE』がオンラインで本日11/12 19:00〜（店頭は11/13〜）本格化。全3,000点超が値下げ対象。",
+        "layer2": "経営目線の本題は、国内大手が値下げするほど、基準値を下げ続けているのは中華直販という点。エリートホイールズ等の国内発送セールが『深リムカーボンは数万円台』の感覚を作り、大手完成車・ホイールの値付けに下押し圧力をかけ続ける。店としては『値段で殴り合わない』——実測重量・保証・セットアップ（チューブレス/フックレス対応）の“手間と安心”を売る設計に。8LIEN/CRWは『中華の価格＋店の裏取り』の組み合わせが強みになる。",
+        "sources": [
+          {
+            "t": "PR TIMES（ワイズロード）",
+            "u": "https://prtimes.jp/main/html/rd/p/000000003.000189875.html",
+            "d": "2026-11"
+          },
+          {
+            "t": "Cyclists Hub（中華価格）",
+            "u": "https://www.cyclistshub.com/chinese-carbon-black-friday-deals",
+            "d": "2026-11-09"
+          }
+        ],
+        "status": "確定＝ワイズBFは11/12夜〜（オンライン）・11/13〜（店頭）／曖昧＝中華の価格圧力は定性的観測。"
+      },
+      {
+        "id": "20261112-2027-bike-sponsors",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039498-312.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C142",
+        "headline": "【経営メモ・市場／機材の潮目・11/10】2027『プロの乗る機材』が入れ替わる——バイクスポンサー交代が進み、店頭トークの基準が動く",
+        "layer1": "2027年に向けてワールドツアー各チームのバイク（フレーム）スポンサーの交代が相次ぐ、と機材メディアが整理。『誰が何に乗るか』の地図が一斉に書き換わる。",
+        "layer2": "ショップ経営に効くのは、プロの機材イコール店頭の説得材料という点。トタル後継が中華パルダスを使う流れ（11/11既報）など、中国ブランドがプロ pelotonに増えるほど、店頭で中華カーボンを薦める心理的ハードルが下がる。逆に定番ブランドがチームを失えば『プロ採用』の殺し文句が弱まる。2027の機材地図を先に押さえておくと、冬の相談接客で一歩先回りできる。",
+        "sources": [
+          {
+            "t": "Domestique",
+            "u": "https://www.domestiquecycling.com/en/news/worldtour-bike-sponsors-whats-changing-for-2027/",
+            "d": "2026-11-10"
+          }
+        ],
+        "status": "確定＝複数チームで2027バイクスポンサー交代が進行／曖昧＝個別チームの最終確定は順次発表。"
+      },
+      {
+        "id": "20261112-hookless-safe",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2025/08/Are-hookless-rims-safe-scaled.jpg?w=1200",
+        "headline": "【初中級・買い方／Xの定番論争・中華深リムに乗せて】『フックレスは危ないのか』——BFで中華カーボンを買う前に、タイヤと空気圧の鉄則",
+        "layer1": "中華カーボンの多くが採用する『フックレス（フック無し）リム』。Xでも定番の論争で、タイヤ外れ事故の実例（デヘント、ヤコブセン等）が繰り返し話題になる。",
+        "layer2": "裏を取ると、危険の正体は『非対応タイヤ×低すぎる空気圧』。鉄則は3つ——（1）フックレス対応（Tubeless/Hookless適合）タイヤを使う、（2）各社が定める上限空気圧（多くは5.0bar前後）を超えない、（3）メーカー推奨の組み合わせ（例：ジャイアント/カデックスはテスト合格タイヤ）を守る。これを守れば実用上の安全余裕は十分というのが大勢。BFで深リム中華を買うなら『リム内寸×対応タイヤ×適正圧』をセットで確認を。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/features/tech/are-hookless-rims-safe-for-road-cycling",
+            "d": "2025-09"
+          },
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/feature/hookless-wheels-keep-getting-bad-press-after-several-recent-controversies-can-brands-sticking-with-the-technology-weather-the-hookless-storm",
+            "d": "2025"
+          }
+        ],
+        "status": "確定＝対応タイヤ＋適正空気圧が前提（各社見解）／曖昧＝フックレスの是非自体は賛否継続（※Xで定番の論争）。"
+      }
+    ]
+  },
+  {
     "date": "2026-11-11",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。休戦記念日の今日はベルギーで『民衆のクロス』ニール、来季はツアー・ダウンアンダーが男女“同コース・同日”へ、そして旧トタルエネルジーがXEFI救済で中華パルダスに——『中華の格上げ』が今日のキーワードです。",
     "cards": [
