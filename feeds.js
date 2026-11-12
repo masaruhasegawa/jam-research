@@ -1,5 +1,284 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-11-13",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。今日の軸は『機材と去就の潮目』——ファンデルポールは父もコーチも『今季は飛ばす理想の冬』と口を揃え、デカトロンのヴァンライゼルは705gの最軽量フレームで殴り込み、イネオスは10年超のコンチを切ってピレリへ。国内は明後日11/15、さいたまクリテに全60選手が来ます。泥は週末メルクスプラス、英スチールの名門テンプルは12年で店を畳みました。",
+    "cards": [
+      {
+        "id": "20261113-vdp-skip",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/q9FDnpYpabuBRbdf84fHn9-1024-80.jpg",
+        "headline": "【🔥今日の一本・トレンド／去就・11/12】父もコーチも『飛ばすなら今季が理想の冬』——ファンデルポール、クロス参戦はいまだ白紙、ロンドンの『Rouleur Live』で口を開くか世界が注視",
+        "layer1": "11/12、サイクリングニュースが『マチュー・ファンデルポールのコーチと父も、この冬のクロス参戦を把握していない』と報道。蘭代表コーチのデクネフトは『彼が1年飛ばしても理解できる』、父アドリーも『ヴエルタ＋秋のイタリア勢を走ったなら、クロスを1年休む良い頃合いかも』と、本人不在のまま“休養論”が本格化した。",
+        "layer2": "焦点は『なぜ今その話か』。VDPは今週11/12〜14、ロンドンの物欲フェス『Rouleur Live』初日に異例の登壇予定（既報）で、ここで冬の計画を明かすとの観測が強い。通算クロス世界王者8回の絶対王者が『2027は1月に父になる』『ロードの開幕が常に第一ピーク』と語ってきた流れからも、今季フル参戦は薄い。もし走っても“クリスマス前後の数戦＋世界選のみ”という最小限が本線。※正式計画は未発表、要続報。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/mathieu-van-der-poels-coach-and-father-still-in-the-dark-over-cyclo-cross-participation-this-winter/",
+            "d": "2026-11-12"
+          },
+          {
+            "t": "IDL Pro Cycling",
+            "u": "https://www.idlprocycling.com/cyclo-cross/national-coach-de-knegt-would-understand-if-van-der-poel-takes-year-off-he-cant-do-anything-low-profile",
+            "d": "2026-11-12"
+          }
+        ],
+        "status": "確定＝父・コーチとも『休む選択はあり得る』と発言／曖昧＝本人の最終決定は未発表（Rouleur Liveでの言及待ち）。"
+      },
+      {
+        "id": "20261113-weekend-cx",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://procyclinguk.com/wp-content/uploads/2026/02/Superprestige-Middelkerke-Michael-Vanthourenhout-returns-to-victory-after-missing-Worlds-1.jpg",
+        "headline": "【レース・冬の地図／今週末】泥は土曜メルクスプラス（スーペルプレスティージュ第4戦）→日曜ハンメ『ボレケスクロス』——絶好調ファントゥーレンハウトが連勝態勢、欧州王者ナイスは一部回避の構え",
+        "layer1": "休戦記念日ニール（11/11・メイソン優勝）の次は、11/14土曜にメルクスプラス（スーペルプレスティージュ第4戦）、11/15日曜にハンメ＝ゾッゲの『ボレケスクロス』（X2Oトロフェー）と連戦。シリーズ首位を走るミヒャエル・ファントゥーレンハウトが“10月から表彰台外さず”の絶好調で中心に座る。",
+        "layer2": "見どころは『王者たちの出入り』。欧州王者ティボー・ナイスは全戦には出ず主要戦を選ぶ方針で、ニールも回避。つまりこの週末はファントゥーレンハウト、ワイザー、ニーウェンハウスら“皆勤勢”が勝ち点を荒稼ぎする局面。女子はニール落車のブランドが欠場濃厚（別カード）で、アルバラードも指骨折で不在と、負傷で面子が薄い。※メルクスプラスの正式スタートリストは直前発表、要確認。",
+        "sources": [
+          {
+            "t": "Superprestige公式",
+            "u": "https://www.superprestigecyclocross.be/en/calendar/2026-2027/merksplas",
+            "d": "2026-11-12"
+          },
+          {
+            "t": "procyclinguk（Nielプレビュー）",
+            "u": "https://procyclinguk.com/?p=33424298766",
+            "d": "2026-11-11"
+          }
+        ],
+        "status": "確定＝11/14メルクスプラス・11/15ハンメ開催、ファントゥーレンハウトがシリーズ首位／曖昧＝各選手の最終エントリーは直前。"
+      },
+      {
+        "id": "20261113-brand-doubt",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-11%2Flucinda-brand-6af2e77f1e23f.png",
+        "headline": "【レース・人間ドラマ／11/12続報】世界王者ブランド、ニール落車は『重傷は免れた』——だが今週末の出走は不透明、名将ナイスの“涙”発言から一転の朗報も",
+        "layer1": "11/11ニールの開始直後に落車し足首を痛めたルシンダ・ブランドについて、11/12にサイクリングニュースが『深刻な負傷は免れた』と報道。一方で『今週末に走れるかは不明』とも伝え、年末最盛期を前に状態はなお流動的だ。",
+        "layer2": "朗報と不安が同居する。落車直後は監督スヴェン・ナイスが『彼女の目に涙が出ているなら良い兆候ではない』と深刻視したが、精査では靱帯・骨折の最悪ケースは回避した模様。ただ女子CXはこれから11/27W杯オストラバ開幕で本格化する入口。虹ジャージが連戦を一つ落とすだけでシリーズ争いに響くだけに、週末の出走可否が当面の焦点になる。※本人・チームの正式コメントは要続報。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/news/",
+            "d": "2026-11-12"
+          },
+          {
+            "t": "IDL Pro Cycling",
+            "u": "https://www.idlprocycling.com/cyclo-cross/superprestige-niel-2026-participants-no-schreiber-alvarado-or-nys-but-brand-vanthourenhout-and-nieuwenhuis-will-compete",
+            "d": "2026-11-11"
+          }
+        ],
+        "status": "確定＝重傷は免れたとの報道／曖昧＝今週末の出走可否は未確定。"
+      },
+      {
+        "id": "20261113-price-pejtersen",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/KMdoWMWURaiJXu7db5NYV6-2000-80.jpg",
+        "headline": "【レース・人間ドラマ／11/11】元U23世界王者ヨハン・プライス＝ペイタセンが27歳で引退——『楽しいと思えなくなってからも、続けていた』、才能のタイムトライアリストが静かに去る",
+        "layer1": "デンマークの元U23世界王者（個人TT）ヨハン・プライス＝ペイタセンが、27歳で現役引退を表明。アルペシン系チーム所属で、母国のポッドキャスト『Forhjulslir』で『大きな変化だが、ずいぶん前から決めていた決断』と語った。",
+        "layer2": "刺さるのは引退の弁。『自転車が楽しいと思えなくなってからも、まだ続けていた』——結果を出すほどに心がすり減っていったことを示唆し、ベルギーのチームで『精神的に苦しんだ』とも明かした。2026年のジロで自身初のグランツールを完走したばかりの引き際で、PFPやトゥゼに続く“燃え尽きと再出発”のオフになっている。※時期・経緯の細部は二次情報、要裏取り。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/i-continued-even-after-i-thought-it-was-fun-former-u23-world-champion-retires-aged-27/",
+            "d": "2026-11-11"
+          },
+          {
+            "t": "procyclinguk",
+            "u": "https://procyclinguk.com/?p=33424298789",
+            "d": "2026-11-11"
+          }
+        ],
+        "status": "確定＝27歳で現役引退を本人が表明／曖昧＝今後の進路・細部は要確認。"
+      },
+      {
+        "id": "20261113-vanrysel-rcrr",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/zfpKsfZ6MNaTB8M2EJuVy5-2560-80.jpg",
+        "headline": "【パーツ・新製品／11/12】デカトロンの『ヴァンライゼル RCR-R Pro』が705g——ブランド史上最軽量フレームで登場、19歳セイシャスが“このバイクでモニュメント制覇”",
+        "layer1": "デカトロンのヴァンライゼルが、既存RCR-R Proを刷新して発表。上位モデルは公称705g（Mサイズ）で、同社史上最軽量フレームをうたう。同じ設計を2種のカーボン積層で展開し、完成車は3,299〜8,499ユーロのレンジ。",
+        "layer2": "数字の裏側。705gは“スーパーハイモジュラス＋ハイモジュラス”カーボンの上位版で、安価なRCR-R（ハイモジュラスのみ）は公称883g、フォークは共通360g。注目は“プロの実績”で、このRCR-R Proは今季、19歳の超新星ポール・セイシャスがモニュメントを制した実機でもある。大手完成車がこの軽さと価格で来る時代——中華カーボンとの“価格×中身”の勝負はいよいよ接近戦（初中級向けの見方は別カード）。※モデル別の個別価格は未公表。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/bikes/van-rysel-announces-the-new-rcr-r-pro-bike-featuring-its-lightest-ever-frame/",
+            "d": "2026-11-12"
+          }
+        ],
+        "status": "確定＝RCR-R Pro 705g・RCR-R 883g・完成車€3,299〜8,499／曖昧＝モデル別価格と日本展開は未確定。"
+      },
+      {
+        "id": "20261113-garmin-waze",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/11/2026-Garmin-LiveTrack-and-Waze-app-collaboration.jpeg",
+        "headline": "【パーツ・安全／11/10】ガーミンとWazeが連携——『近くに自転車がいます』をドライバーのナビに表示、ライブトラックで“被視認性”を一段上げる新機能が世界展開",
+        "layer1": "ガーミンとナビアプリWazeが連携し、11/10前後からiOS/Androidで世界展開を開始。対応Edgeやスマートウォッチでライブトラックをオンにしたサイクリストが近くにいると、Waze利用のドライバーの地図に一時的な自転車アイコンと注意喚起が出る仕組み。",
+        "layer2": "店目線で効くのは“無料で被視認性が上がる”点。ライブトラック自体はガーミンの無料機能で、有料のConnect+も不要。プライバシー面も配慮され、ドライバーに見えるのは近接の一時表示のみで、氏名もルートも出ず、走行を終えれば消える。青切符・努力義務ヘルメットで“自衛”が商機の日本でも、『既存のEdgeが見守り装備になる』という来店トークの新しい切り口になる。※国内での表示挙動は環境次第、要実機確認。",
+        "sources": [
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/content/tech-news/waze-garmin-live-cyclist-alerts",
+            "d": "2026-11-10"
+          },
+          {
+            "t": "Google（Wazeブログ）",
+            "u": "https://blog.google/waze/garmin-safety-cyclists/",
+            "d": "2026-11-10"
+          }
+        ],
+        "status": "確定＝ガーミン×Wazeの自転車近接通知が無料で開始／曖昧＝日本での表示範囲・普及度は要確認。"
+      },
+      {
+        "id": "20261113-ineos-pirelli",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/RNuyLuvT3YxpQp6cyKWUPD-2560-80.jpg",
+        "headline": "【経営メモ・市場／機材潮目・11/12】ネットカンパニー・イネオスが10年超の『コンチネンタル』を離脱、2027からピレリへ——プロの“履くタイヤ”が動く年",
+        "layer1": "11/12、ネットカンパニー・イネオス（旧イネオス・グレナディアーズ）が長年のタイヤ供給元コンチネンタルとの提携を終了し、2027シーズンからピレリに切り替えると報道された。2010年のスカイ発足以来、初期はヴェロフレックスやヴィットリアも使ったが、ここ10年超はコンチで統一してきた名門の方針転換だ。",
+        "layer2": "店頭トークの潮目として押さえたい。ワールドツアーの“乗る機材”は年々入れ替わっており（バイクスポンサー交代の既報に続き、今度はタイヤ）、来季はイネオス＝ピレリの絵になる。『プロが何を履くか』はそのまま店の在庫・推奨の説得材料。コンチ派のユーザーに揺さぶりが出る一方、ピレリP ZERO系の問い合わせ増が見込める。中華ホイール×タイヤ銘柄の相性相談も、こうした話題を入り口にできる。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/netcompany-ineos-end-long-term-partnership-with-continental-to-switch-to-pirelli-tyres-for-2027/",
+            "d": "2026-11-12"
+          }
+        ],
+        "status": "確定＝イネオスが2027からコンチ→ピレリに変更と報道／曖昧＝契約年数・供給モデルの詳細は未公表。"
+      },
+      {
+        "id": "20261113-saitama-crit",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://prcdn.freetls.fastly.net/release_image/140218/359/140218-359-dc2023d109fb699ef9d34ce3c27577b1-2043x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+        "headline": "【経営メモ・市場／国内・明後日11/15】さいたまクリテリウムは『全60選手』確定——フィリプセン＆ギルマイに加え、追加招へいでバッレリーニ・アレンスマン・ダイクマンら、冬の“来店動機”を取りこぼさない",
+        "layer1": "『J:COM presents 2026 ツール・ド・フランスさいたまクリテリウム』が明後日11/15開催。さいたま市の10/30発表で海外招へい5名の追加が決まり、全60選手が出そろった。追加枠はダヴィデ・バッレリーニ（XDS・アスタナ）、テイメン・アレンスマン＆オスカー・オンリー（ネットカンパニー・イネオス）、ダーン・ダイクマン（UAE）ら。",
+        "layer2": "店にとっては“冬の最大の集客イベント”。ヤスパー・フィリプセンとビニヤム・ギルマイの出場に加え、国内勢では窪木一茂の辞退を受けて望月蓮の出場が決定。来場・配信視聴の熱が高まるこの時期は、ウェアや年末商戦（ワイズロードBF等・既報）への“来店動機”が最も作りやすい。選手が実戦で乗る機材や装備を店頭トークに紐づける好機。※一部ページで欠場者情報の食い違いがあり、個別選手は当日まで要確認。",
+        "sources": [
+          {
+            "t": "さいたま市（追加選手発表）",
+            "u": "https://www.city.saitama.lg.jp/006/014/008/003/015/007/p134693.html",
+            "d": "2026-10-30"
+          },
+          {
+            "t": "PR TIMES（大会リリース）",
+            "u": "https://prtimes.jp/main/html/rd/p/000000359.000140218.html",
+            "d": "2026-10-30"
+          }
+        ],
+        "status": "確定＝11/15開催・全60選手確定（10/30発表）／曖昧＝個別選手の最終出欠は当日まで要確認。"
+      },
+      {
+        "id": "20261113-temple-close",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/ykVu3Qck8PBsRgiuruhdFM-1920-80.jpg",
+        "headline": "【経営メモ・市場／業界の体温・11/10】英スチールの名門『テンプル・サイクルズ』が12年で閉鎖——創業者『自転車業を営むには、並外れて厳しい時代だ』、クラウド出資1,200人超の夢が畳まれる",
+        "layer1": "ブリストル拠点の英スチールバイクブランド、テンプル・サイクルズが創業12年で閉鎖へ。創業者マット・メアーズは『現行のビジネスモデルはもう成り立たない』と出資者に伝え、従業員の大半を解雇、ブリストルとロンドンのショールームも閉じる。既存の受注は全て履行済みとされる。",
+        "layer2": "店主が読むべき“業界の体温計”。4年前には1,200人超のクラウドファンディングで135万ポンドを集めた人気ブランドが、コロナ特需の退潮と在庫過多（直前には在庫処分の3割引セールも）で力尽きた。英マーシャン破綻（既報）に続く老舗の退場で、欧米では“ブーム清算”がなお進行中。日本でもタキザワ閉店等（既報）と同じ流れで、適正在庫と資金繰りの重みを再確認させる事例だ。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/bikes/classic-british-steel-bike-maker-temple-cycles-set-to-close-after-12-years-in-business/",
+            "d": "2026-11-11"
+          },
+          {
+            "t": "Escape Collective",
+            "u": "https://escapecollective.com/temple-cycles-to-close-after-12-years-in-business/",
+            "d": "2026-11-10"
+          }
+        ],
+        "status": "確定＝テンプル・サイクルズが閉鎖へ・大半を解雇／曖昧＝ブランド資産の行方は未確定。"
+      },
+      {
+        "id": "20261113-realini-picnic",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/UdYhVoew3ru37gbUwaSoXk-2100-80.jpg",
+        "headline": "【トレンド・去就／11/12】グランツール表彰台2回の登坂家ガイア・レアリーニが『新たな冒険』へ——リドル・トレックを1年早く円満離脱、2027は“恐怖の文化”疑惑のピクニック・ポストNLへ",
+        "layer1": "イタリアのクライマー、ガイア・レアリーニ（グランツール表彰台2回）が、リドル・トレックとの契約を1年前倒しで円満解消。11/12のサイクリングニュースは、2027シーズンに向けてピクニック・ポストNLへ移り『新たな冒険』に挑むと分析記事で報じた。",
+        "layer2": "気になるのは移籍先。ピクニック・ポストNLは、オーナーのスペーケンブリンクに“恐怖の文化”疑惑が取り沙汰されたチーム（既報・本人は反論）で、純粋な登坂家が再生を懸けて飛び込む構図になる。リドルでは近年伸び悩み、環境を変えて“失われた輝き”を取り戻せるかが2027の見どころ。※移籍先は報道・分析ベース、両者の正式発表は最終確認待ち。",
+        "sources": [
+          {
+            "t": "Cyclingnews（分析）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/gaia-realini-heads-for-new-adventure-with-picnic-postnl-but-can-climber-rejuvenate-her-career-analysis/",
+            "d": "2026-11-12"
+          },
+          {
+            "t": "Cyclingnews（離脱）",
+            "u": "https://cyclingnews.com/pro-cycling/womens-cycling/lidl-trek-and-gaia-realini-agree-to-end-contract-a-year-early/",
+            "d": "2026-11-10"
+          }
+        ],
+        "status": "確定＝リドル・トレックを1年早く離脱／曖昧＝ピクニック・ポストNL移籍は報道・分析段階、正式発表は要確認。"
+      },
+      {
+        "id": "20261113-factor-amani",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/29Fkn2Cynpk728oiKBRZ54-2560-80.jpg",
+        "headline": "【トレンド・人間ドラマ／11/12】ファクターがアフリカ発の育成チーム『アマニ』と3年タイトル契約——“Team Amani Factor Racing”へ、機材ブランドが才能発掘に本気で張る",
+        "layer1": "バイクブランドのファクターが、アフリカを拠点にする育成チーム『チーム・アマニ』と3年のタイトルスポンサー契約を結び、チーム名は『Team Amani Factor Racing』に。グラベルやロードでアフリカの才能を世界へ送り出す取り組みを、機材メーカーが長期で支える体制が整った。",
+        "layer2": "数字より物語が刺さる話。欧州一極だったプロ機材の地図に、中華勢の台頭（既報）と並んで“アフリカ発の人材”という新しい軸が加わる。ファクターにとっては社会的意義とマーケティングの両取りで、アマニにとっては機材と資金の安定が競技継続の生命線。underdogが階段を上る物語は、ショートや記事で共感を集めやすいネタだ。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/factor-bikes-strengthens-its-partnership-with-team-amani-with-three-year-title-sponsorship-deal/",
+            "d": "2026-11-12"
+          }
+        ],
+        "status": "確定＝ファクターがアマニと3年タイトル契約・チーム名変更／曖昧＝供給規模・選手構成の詳細は要確認。"
+      },
+      {
+        "id": "20261113-beginner-firstbike",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/06/Van-Rysel-RCR-2-Aero-Race-Bike-Dauphine-2026-8-scaled.jpg",
+        "headline": "【初中級・買い方／今日のヴァンライゼル705gに乗せて】“大手完成車 vs 中華フレーム”、初めての一台は何で選ぶ？——705gの数字は追わなくていい、見るのは保証・剛性・内寸",
+        "layer1": "今日のニュースで、デカトロンのヴァンライゼルが705gの最軽量フレームを完成車3,299ユーロ〜で出した（別カード）。大手が“中華の価格帯”に降りてきたことで、初めての一台を『大手完成車』にするか『中華フレーム＋組み付け』にするかの悩みが、いよいよ実戦的になっている。",
+        "layer2": "初中級が本当に見るべき3点。①保証とサポート——大手完成車は販売網と保証が強み、中華直販は安いが初期不良・補修部品の自己対応リスクを織り込む。②軽さより“剛性と乗り味”——705gのような数字は上級者の世界で、初めての体感差は数十gより『進むか・疲れないか』。③タイヤ内寸とクリアランス——いまは28〜32mmが基準、太タイヤが入る設計かを必ず確認。うちの中華カーボン（8LIEN・CRW等）を薦めるときも、この3点で“価格だけでない安心”を言葉にできるかが勝負。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ヴァンライゼル）",
+            "u": "https://www.cyclingnews.com/bikes/van-rysel-announces-the-new-rcr-r-pro-bike-featuring-its-lightest-ever-frame/",
+            "d": "2026-11-12"
+          },
+          {
+            "t": "road.cc（RCR系・実機）",
+            "u": "https://road.cc/feature/a-new-aero-looking-van-rysel-rcr-pro-spotted-at-criterium-du-dauphine",
+            "d": "2026-11-12"
+          }
+        ],
+        "status": "確定＝大手完成車が€3,299〜の価格帯に／見方＝保証・剛性・内寸の3点で“価格だけでない”判断を。"
+      }
+    ]
+  },
+  {
     "date": "2026-11-12",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。休戦記念日の泥ニールは英国人メイソンが独走初優勝、だが世界王者ブランドは開始直後に負傷。今日はロンドンでファンデルポールが『クロスを走るのか』を世界に試され、中華は13速コンポ『QED2』で、年末商戦は中華直販が値付けの基準を下げにきています。",
     "cards": [
