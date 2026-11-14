@@ -1,122 +1,147 @@
 {
-  "date": "2026-11-14",
-  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、9本。ロードはオフ、主役はクロスとブラックフライデー——VDPは『Rouleur Live』で口を開いても参戦は白紙、ナイス＆ブランドのチームは冠スポンサー離脱、国内は明日さいたまクリテです。鮮度優先で質を詰めました。",
+  "date": "2026-11-15",
+  "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。昨日メルクスプラスはファンデピュッテ初勝利の裏でファントゥーレンハウトが腕から落車リタイア、今日はさいたまクリテとハンメの泥が同じ日。中華カーボンはBF実売が本番、うちの着地どころも添えました。",
   "cards": [
     {
-      "id": "20261114-vdp-rouleur-live",
-      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": true,
-      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-11%2Fmathieu-van-der-poel-6af6bd83d3d4d.png",
-      "headline": "【🔥今日の一本・トレンド／去就・11/13】ファンデルポール、ロンドン『Rouleur Live』でついに登壇——だが今冬クロスは依然『白紙』、口にしたのは『最後の勝利がいつ来るかなんて、誰にも分からない』",
-      "layer1": "VDPが11/13、ロンドンの『Rouleur Live』にフレディ・オヴェットと登壇。世界が待った今冬のクロス参戦表明は無く、語ったのは『最後の勝利がいつ来るかなんて、誰にも分からない』『楽しめないなら続けられない』という“心構え”だけだった。",
-      "layer2": "裏取り：オランダ・オフロード代表コーチのデ・クネフトは前日11/12に『スキップするには理想的な冬だ』と明言——1月に第一子誕生予定で、父アドリも予定を把握していない。昨季は世界選手権8勝目で『クロスでもう勝つものは多くない』とも漏らしていた。確定＝登壇（11/13）・参戦可否は未発表。曖昧＝始動時期（クリスマス前後の観測はあるが本人明言なし）。",
+      "id": "20261115-merksplas-men",
+      "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": true,
+      "image": "https://cdn.mos.cms.futurecdn.net/8jhbj487EUMtuKvgZBHbmP-2000-80.jpg",
+      "headline": "【🔥今日の一本・レース／人間ドラマ・11/14】メルクスプラスをファンデピュッテが制し今季初勝利——7人のスプリントでワイゼールを下す、一方で優勝候補ファントゥーレンハウトが“腕から落車”リタイア",
+      "layer1": "11/14のスーペルプレスティージュ第4戦メルクスプラス（アールバイエンクロス）男子エリート。ニールス・ファンデピュッテが7人の先頭集団スプリントを制し今季初勝利。2位ワイゼール（同タイム）、3位オルツ（＋2秒）。",
+      "layer2": "波乱は4周目——総合上位のミカエル・ファントゥーレンハウトが狭いテクニカルコーナーで他2選手と絡んで転倒、『腕から落ちた様子で激痛を訴え』、係員に支えられてコース外へ、そのままDNF。シーズンを左右しかねない負傷で、程度と今後の出走可否は未確定。泥の連戦は止まらず、今日11/15はハンメのX2Oトロフェー（ボレケスクロス）が控える。",
       "sources": [
-        { "t": "IDLProCycling", "u": "https://www.idlprocycling.com/cycling/mathieu-van-der-poel-and-freddy-ovett-open-rouleur-live-event-onstage-with-matt-stephens-you-never-know-when-youll-win-your-last-race", "d": "2026-11-13" },
-        { "t": "Cyclingnews（コーチ発言）", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/mathieu-van-der-poels-coach-and-father-still-in-the-dark-over-cyclo-cross-participation-this-winter/", "d": "2026-11-12" }
+        { "t": "CyclingUpToDate", "u": "https://cyclinguptodate.com/cyclocross/results-superprestige-merksplas-aardbeiencross-2026-vandeputte-seals-first-win-of-the-season-vanthourenhout-crashes-out-and-brand-bounces-back", "d": "2026-11-14" },
+        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/racing/superprestige-merksplas-niels-vandeputte-outsprints-joran-wyseure-to-take-first-win-of-season/", "d": "2026-11-14" },
+        { "t": "IDL ProCycling", "u": "https://www.idlprocycling.com/cyclo-cross/michael-vanthourenhouts-severe-crash-overshadows-thrilling-mens-cyclocross-race-in-merksplas", "d": "2026-11-14" }
       ],
-      "status": "確定＝Rouleur Live登壇（11/13）。曖昧＝今冬クロス参戦は本人未発表（※Xでも「出る/出ない」が定期的に論争、要本人発表）。"
+      "status": "確定＝ファンデピュッテ優勝・ファントゥーレンハウトDNF／曖昧＝負傷の程度と出走可否は未確定（※続報待ち）"
     },
     {
-      "id": "20261114-mason-reflect",
+      "id": "20261115-brand-merksplas",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/Bfac7QDVaSTiGNASsvCXaE-2000-80.jpg",
-      "headline": "【レース・人間ドラマ／11/13続報】ニールで独走初優勝のメイソンが語る『2位と1位の差は途方もない。僕は今、それを越えた』——英国人が“次のパズルのピース”を見据える",
-      "layer1": "11/11の休戦記念日、スーペルプレスティージュ・ニールでキャリア最大の勝利を挙げたキャメロン・メイソン（英）が続報会見で『2位と1位の差は途方もなく大きい。僕はいま、それを越えた』と語った。",
-      "layer2": "裏取り：メイソンはニールで終盤にワイザールを競り落として独走（前日報）。今回のテーマは『次のパズルのピース』＝単発の勝利をトップ常連に変える継続力。VDP／VvA不在のうちに“勝ち方”を体に覚えさせたい、という文脈。確定＝ニール優勝（11/11）・会見（11/13）。",
+      "image": "https://cdn.mos.cms.futurecdn.net/CeHSFrWBeHr8wHcQC6unJE-1024-80.jpg",
+      "headline": "【レース・人間ドラマ／11/14】負傷からわずか3日、ブランドが驚異の復活勝利——メルクスプラス女子、深い砂の最終周で突き放す",
+      "layer1": "女子エリートはルシンダ・ブランドが優勝。数日前の足の負傷から復帰し、深くテクニカルな砂と登りの最終周で抜け出した。2位ファンデルハイデン（＋2秒）、3位カササーラ（＋3秒）。",
+      "layer2": "ブランドは『重傷か』と報じられた負傷からわずか3日での勝利で、世界女王の地力と勝負勘を見せつけた。所属は新チーム『Baloise Verzekeringen - Het Poetsbureau』。共同スポンサー離脱の逆風（既報）のなかでの大きな朗報で、連戦の今日ハンメでどう走るかも注目。",
       "sources": [
-        { "t": "Cyclingnews（会見）", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/the-gap-between-second-and-first-is-humongous-and-ive-crossed-that-now-cameron-mason-reflects-on-his-breakthrough-victory-and-that-next-piece-of-the-puzzle/", "d": "2026-11-13" },
-        { "t": "Cyclingnews（ニール優勝）", "u": "https://www.cyclingnews.com/pro-cycling/racing/superprestige-niel-cameron-mason-soloes-to-first-win-of-the-season-and-biggest-victory-of-his-career/", "d": "2026-11-11" }
+        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/superprestige-merksplas-lucinda-brand-returns-to-take-brilliant-win-after-a-race-long-fight/", "d": "2026-11-14" },
+        { "t": "IDL ProCycling", "u": "https://www.idlprocycling.com/cyclo-cross/three-days-after-what-appeared-to-be-a-serious-injury-lucinda-brand-shows-remarkable-resilience-in-merksplas", "d": "2026-11-14" }
       ],
-      "status": "確定＝優勝と会見。曖昧＝今後の安定度は未知数（本人も課題と認める）。"
+      "status": "確定＝ブランド優勝・復帰即勝利"
     },
     {
-      "id": "20261114-merksplas-hamme",
+      "id": "20261115-hamme-today",
       "genre": "race", "genreLabel": "RACE", "genreJa": "レース", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/AXpCak7pxM247xrfCgK7Pb-1024-80.jpg",
-      "headline": "【レース・冬の地図／今週末】泥の連戦が本番——今日11/14スーペルプレスティージュ第4戦メルクスプラス（女子15時40分〜/男子17時10分〜 現地）→明日11/15ハンメ『ボレケスクロス』",
-      "layer1": "クロスの週末が本番。今日11/14はスーペルプレスティージュ第4戦メルクスプラス（アールドバイエンクロス）、明日11/15はハンメ『ボレケスクロス』の連戦で、多くの選手が連日出走する。",
-      "layer2": "裏取り：日程はフランダースクラシックス公式＆Superprestige公式が11/14（土）と明記（スポルザ表の15/11表記は矛盾のため公式を採用）。主役はニール連勝級のファントゥーレンハウト、昨年メルクスプラス覇者ニーウェンハウス、ティボー・ナイス。VDP／VvA不在のいま、地力勝負で序列が動く一戦。曖昧＝最終出走リストは当日発表。",
+      "image": "https://cdn.mos.cms.futurecdn.net/Knk9bqQayyLHC3yGc4Huhe-1024-80.jpg",
+      "headline": "【レース・冬の地図／今日11/15】泥の連戦は本番へ——ハンメ『ボレケスクロス』（X2Oトロフェー）、日本時間21:45女子・23:00男子、メルクスプラスの翌日連戦",
+      "layer1": "今日11/15はベルギー・ハンメでX2Oバドカメルス・トロフェー（通称ボレケスクロス／ハンメ＝ゾッゲ）。現地13:45女子エリート・15:00男子エリート＝日本時間およそ21:45／23:00。昨日メルクスプラスの翌日で、多くの選手が2日連続出走となる。",
+      "layer2": "X2Oトロフェーはポイントではなく“積算タイム”で総合を争う独特のシリーズ。コースは例年とほぼ同じレイアウトとされ、泥巧者が有利。注目は前日2位ワイゼール、総合を争うファンデピュッテ、昨季ハンメ覇者ナイスら。女子は負傷明け即勝利のブランドが連戦でどこまで粘れるか。最終スタートリストは直前エントリーで動く。",
       "sources": [
-        { "t": "Superprestige 公式カレンダー", "u": "https://www.superprestigecyclocross.be/en/calendar/2026-2027/merksplas", "d": "2026-11" },
-        { "t": "veloracycling（開催時刻）", "u": "https://veloracycling.com/races/aarbeiencross-2026", "d": "2026-11" },
-        { "t": "Cyclingnews（ニールの勢い）", "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/superprestige-niel-manon-bakker-masters-the-mud-to-take-the-win/", "d": "2026-11-11" }
+        { "t": "Velora Cycling（Bollekescross 2026）", "u": "https://veloracycling.com/races/bollekescross-2026", "d": "2026-11" },
+        { "t": "Sporza veldritkalender", "u": "https://sporza.be/nl/2026/09/29/wanneer-is-welke-cross-en-welke-wedstrijden-zijn-live-bij-sporza-dit-is-de-complete-veldritkalender-2026-2027~1790685673220/", "d": "2026-09-29" }
       ],
-      "status": "確定＝メルクスプラス11/14・ハンメ11/15（公式）。曖昧＝出走リストと天候（泥量）で展開が変わる。"
+      "status": "確定＝開催日時・シリーズ形式／曖昧＝最終スタートリストは流動的（直前エントリーあり）"
     },
     {
-      "id": "20261114-lions-sponsor",
-      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/mAVPVpj7gXxEjKKu4DQ78L-2100-80.jpg",
-      "headline": "【トレンド・業界／11/11】ナイス＆ブランドの強豪クロスチームが“シーズン中”にスポンサー探し——共同タイトルの『Het Poetsbureau』が離脱、チームは『決して終わりではない』",
-      "layer1": "ティボー・ナイスとルシンダ・ブランドを擁する強豪クロスチーム（バロイス=ヘット・プーツビューロー・ライオンズ）が、共同タイトルスポンサー『Het Poetsbureau』の離脱で、シーズン真っ只中にスポンサー探しを強いられている。チームは『我々は決して終わりではない』と火消しに回った。",
-      "layer2": "裏取り：同チームはTrek→Glowi（2025）→Het Poetsbureau（2026）と冠を変えてきた経緯があり、メインのBaloiseは継続だが冠の一角が抜けた形。選手の去就も流動的で、ブランドはロードで来年1/1よりCanyon//SRAMへ移る。確定＝共同冠の離脱と新スポンサー探し（11/11）。曖昧＝離脱の理由・金額・後継は未公表＝要続報。",
-      "sources": [
-        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/we-are-certainly-not-doomed-thibau-nys-and-lucinda-brands-cyclo-cross-team-in-mid-season-sponsor-search-after-co-title-sponsor-pulls-out/", "d": "2026-11-11" },
-        { "t": "Sporza（チーム名の経緯）", "u": "https://sporza.be/nl/2025/12/30/zeg-voortaan-baloise-verzekeringen-het-poetsbureau-lions-veldritteam-van-nys-en-brand-kiest-voor-nieuwe-naam~1767105241512/", "d": "2025-12-30" }
-      ],
-      "status": "確定＝冠スポンサー離脱・新規探し。曖昧＝理由/金額/後継は未公表（盛らない）。"
-    },
-    {
-      "id": "20261114-saitama-crit",
+      "id": "20261115-saitama-crit",
       "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://prcdn.freetls.fastly.net/release_image/140218/359/140218-359-dc2023d109fb699ef9d34ce3c27577b1-2043x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "headline": "【経営メモ・市場／国内・明日11/15】ツール・ド・フランスさいたまクリテは『全60選手』で確定——フィリプセン＆ギルマイに加えバッレリーニ・アレンスマン・ダイクマン、冬の“来店動機”が勢ぞろい",
-      "layer1": "明日11/15のツール・ド・フランスさいたまクリテリウムは全60選手で確定。フィリプセン＆ギルマイに、追加招へいのバッレリーニ（XDSアスタナ）、アレンスマン（ネットカンパニー・イネオス）、ダイクマン（UAE）らが加わる。",
-      "layer2": "裏取り：さいたま市公式10/30発表で海外招へい5名追加により全60名が確定。直前変更として国内は窪木一茂（TEAM UKYO）が辞退→望月連、海外はエンゲルハートが辞退→デポーテルに差し替え。Xでも来日選手に沸く国内ローディーの年に一度の好機。店頭は当日中継〜翌日の話題を『買い替え・メンテ相談』に繋げたい一日。",
+      "image": "https://cdn.mos.cms.futurecdn.net/w52Q56pS2zH7JHeYnzU5mQ-1024-80.jpg",
+      "headline": "【経営メモ・市場／国内・今日11/15】ツール・ド・フランスさいたまクリテリウム開催——フィリプセン＆ギルマイら欠場も、アレンスマン・バッレリーニ・マクナルティ＆新城が走る“冬の来店動機”",
+      "layer1": "今日11/15、さいたま新都心で『J:COM presents 2026 ツール・ド・フランスさいたまクリテリウム』。目玉だったフィリプセン・ギルマイ・カラパスは欠場となったが、全60名で開催される。",
+      "layer2": "代わりに海外勢はアレンスマン（イネオス、26年ジロ総合4位）、バッレリーニ（XDSアスタナ）、ダイクマン＆マクナルティ（ともにUAE）らが出場。国内は新城幸也、望月蓮（窪木の代役）ら。ショップ目線では、年に一度“プロの実車とエア”を生で見た客が、冬の買い替え相談に来る絶好機。欠場でガッカリした層にも、来日組の見どころを語れると接客が活きる。",
       "sources": [
-        { "t": "さいたま市（追加選手で全60名）", "u": "https://www.city.saitama.lg.jp/006/014/008/003/015/007/p134693.html", "d": "2026-10-30" },
-        { "t": "PR TIMES（大会概要）", "u": "https://prtimes.jp/main/html/rd/p/000000359.000140218.html", "d": "2026-10" }
+        { "t": "さいたま市公式（追加選手発表）", "u": "https://www.city.saitama.lg.jp/006/014/008/003/015/007/p134693.html", "d": "2026-10-30" },
+        { "t": "PR TIMES（さいたまクリテ）", "u": "https://prtimes.jp/main/html/rd/p/000000359.000140218.html", "d": "2026-07-27" }
       ],
-      "status": "確定＝全60選手・11/15開催・直前の選手差し替え。曖昧＝当日の天候による進行変更。"
+      "status": "確定＝本日開催・全60名・主力3名欠場／※d=告知ベース、本日が開催日"
     },
     {
-      "id": "20261114-bf-price-war",
+      "id": "20261115-bf-china-pricewar",
       "genre": "market", "genreLabel": "MARKET", "genreJa": "国内市場", "hot": false,
-      "image": "https://prcdn.freetls.fastly.net/release_image/189875/3/189875-3-aa98244766f746b1bb301b0409a86bf3-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "headline": "【経営メモ・市場／価格の潮目・BF商戦】国内はワイズロードが号砲（オンライン11/12〜12/7）——だが“値付けの基準”を下げるのは中華直販、年末の綱引き本番",
-      "layer1": "国内はワイズロードが『2026 BLACK FRIDAY SALE』（オンライン11/12 19時〜12/7、店頭11/13〜12/6、3,000点超値下げ）で年末商戦に号砲。だが店頭の“値段の基準”を実際に下げているのは中華直販の年末セールだ。",
-      "layer2": "裏取り：エリートホイールズはデポジット$50でクーポン→最大$320オフ、例として『DRIVE II』$1,299→$979。一部実売リストは〜11/18締切の表記もある。中華がカタログ最安を更新する間、店は“値段では勝てない”——納期・初期セットアップ・保証対応・相談力で差を作るのが年末の構え。曖昧＝個別価格/在庫は時期で変動、都度確認。",
+      "image": "https://www.cyclistshub.com/wp-content/uploads/2024/11/Best-Chinese-Carbon-Black-Friday-Deals-1.avif",
+      "headline": "【経営メモ・市場／価格の潮目・BF商戦】中華カーボンの“ブラックフライデー実売”が本番——Particle 22%OFF・ICAN・Elitewheelsが号砲、値付けの基準を直販が握る",
+      "layer1": "11月のブラックフライデー商戦で、中華カーボン各社の実セールが出そろってきた。Particleはホイール22%OFF（コード併用・11/6〜11/30）、Superteam 12%OFF、ICANは在庫限りの製品別クーポン、Elitewheelsは先行デポジット型で最大$320引き——と“直販×大幅値引き”が並ぶ。",
+      "layer2": "Winspace・YOELEO・Farsports等はまだ26年の正式告知前（昨年は11月中旬〜12月頭）。経営の観点では、年末の“値付けの基準”を欧米大手ではなく中華直販が握りつつあるのが潮目。うちの取り扱い（8LIEN/CRW/GOOSYNN/NEPEST/FARSPORTS/PARTICLE）も、直販のBF価格に“保証・初期不良対応・組立/振れ取り”をセットで乗せて語れると、価格だけの比較から抜け出せる。Particle 22%は競合インテリジェンスとして要チェック。",
       "sources": [
-        { "t": "PR TIMES（ワイズロードBF）", "u": "https://prtimes.jp/main/html/rd/p/000000003.000189875.html", "d": "2026-11" },
-        { "t": "Cyclists Hub（中華BFまとめ）", "u": "https://www.cyclistshub.com/chinese-carbon-black-friday-deals/", "d": "2026-11" }
+        { "t": "CyclistsHub（Chinese Carbon BF Deals）", "u": "https://www.cyclistshub.com/chinese-carbon-black-friday-deals", "d": "2026-11-10" }
       ],
-      "status": "確定＝ワイズロード会期・中華プリセールの枠組み。曖昧＝個別の価格・在庫は変動、要確認。"
+      "status": "確定＝各社のBF条件（11/10更新）／曖昧＝未告知ブランドの26年条件は昨年実績ベース（※要確認）"
     },
     {
-      "id": "20261114-china-bf-wheels",
+      "id": "20261115-china-buy-or-not",
       "genre": "wheel", "genreLabel": "WHEEL", "genreJa": "ホイール", "hot": false,
-      "image": "http://www.winspace.cc/cdn/shop/files/D33_E7_99_BD_E6_A0_87_7ed44d2a-5a0d-4c09-a553-eeea9cf84291.png?v=1735785527",
-      "headline": "【ホイール・中華直販／ブラックフライデー実売】中華カーボンの年末セールが本番——Winspace『HYPER 3 D33』$1,699→$1,499、Xの定番『中華は買いか』論争が再燃",
-      "layer1": "中華カーボンの年末セールが本番入り。Winspace『HYPER 3 D33』が$1,699→$1,499、エリート『DRIVE II』が$1,299→$979など実売値が動き、Xでは毎年恒例の『中華は大手に並ぶのか』論争が再燃している。",
-      "layer2": "裏取り：盛り上がりの裏で見るべきは公称値ではなく『実測重量・リム内寸・フック有無・保証』の4点。ここが初めての一本の満足度を分ける。うち（8LIEN／CRW／NEPEST／GOOSYNN等）は国内発送・保証・初期の振れ取りまで込みで渡せるのが直販との違い。曖昧＝セール価格・在庫は時期で変動、要確認。",
+      "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2025/12/best-chinese-carbon-road-bike-wheels-2026-800x800.png?media=1794213040",
+      "headline": "【ホイール・中華直販／Xの定番論争×BF実売】『中華カーボンは“買い”か』——セールで飛びつく前に、実測重量・リム内寸・保証の3点で外さない",
+      "layer1": "ブラックフライデーのたびにXで再燃する『中華カーボンは結局“買い”か』論争。安さは本物だが、裏取りすると差が出るのは“公称”ではなく実測・運用まわりだ。",
+      "layer2": "先回りの3点。①実測重量＝公称より50〜150g重いことは珍しくない、レビューの実測値を見る。②リム内寸（フックド/フックレス）＝太タイヤ時代は内寸21〜25mmが主流、フックレスは対応タイヤと空気圧上限を必ず確認。③保証と初期不良対応＝直販は“安いが自己責任”になりがち、国内代理店/ショップ経由なら振れ取り・スポーク手配が効く。2026年は『中華がエアロ・積層・価格対性能で議論をリード』との評もあり、“安かろう”から“選べば十分速い”へ。うちならPARTICLE/CRW/8LIENで“保証付きの中華”に着地できる。",
       "sources": [
-        { "t": "Winspace（Black Friday）", "u": "https://www.winspace.cc/collections/christmas", "d": "2026-11" },
-        { "t": "Cyclists Hub（中華BFまとめ）", "u": "https://www.cyclistshub.com/chinese-carbon-black-friday-deals/", "d": "2026-11" }
+        { "t": "VeloFanatics（Best Chinese Carbon Wheels 2026）", "u": "https://www.velofanatics.com/best-chinese-carbon-wheels-2026/", "d": "2026" },
+        { "t": "CyclistsHub（BF Deals・裏取り）", "u": "https://www.cyclistshub.com/chinese-carbon-black-friday-deals", "d": "2026-11-10" }
       ],
-      "status": "確定＝各ブランドの会期中値引き。曖昧＝価格/在庫は変動、都度確認。"
+      "status": "確定＝選定3点の考え方／曖昧＝個別銘柄の実測は製品差大（※各レビュー要確認）"
     },
     {
-      "id": "20261114-mud-wheel-tyre",
-      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "https://cdn.mos.cms.futurecdn.net/J7SPXvxYqamdr5d8FMa4gS-2100-80.jpg",
-      "headline": "【初中級・機材の理屈／今日の泥レースに乗せて】悪条件で効くのは“軽さ”より『接地と空気圧』——冬の実走で初中級が外さないホイール＆タイヤ3点",
-      "layer1": "今日のメルクスプラスのような泥・低温のコンディションで差が出るのは、カタログの軽さではなく“路面をつかむ”設計。冬の実走で初中級が転ばない・進むための見取り図を整理する。",
-      "layer2": "裏取り（潜って得た答え）：①リム内寸に合った太めタイヤ（例：内寸21mm以上なら28〜30Cが扱いやすい）で接地面を稼ぐ、②空気圧は夏より1〜2割下げてグリップと乗り心地を確保（チューブレスなら特に効く）、③深すぎるリムは冬の横風で疲れるので“万能は35〜50mm”。うちの中華カーボン（8LIEN／CRW等）も内寸広めで28C以上が合う世代——“軽さ神話”より実用値で選ぶのが冬の正解。※数値は目安、体重・路面で調整。",
+      "id": "20261115-senechal-rockets",
+      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-11%2Fflorian-senechal-6af744ebe92d0.jpg",
+      "headline": "【トレンド・去就／11/13】VDPの“発射台”セネシャルがアルペシンを離脱——ユニベット・ローズロケッツへ1年契約、33歳のクラシック職人が新興へ",
+      "layer1": "フロリアン・セネシャル（33）がアルペシン・プレミアテックを離れ、ユニベット・ローズロケッツと1年契約。VDPのリードアウト（発射台）を務めたベテランで、新チームのクラシック陣を補強する。",
+      "layer2": "セネシャルはモニュメント26回出走（パリ〜ルーベ11回・ロンド10回）、19年ルーベ6位・ヘント〜ウェヴェルヘム2位。21年にはヤコブセンのツール3勝を支え、自身も第13ステージを勝っている。ロケッツはこれで27年に27名が揃い、ヴェンチュリーニ・ラフェ・フェルシューレンらが離脱。新興チームが“経験値”を買いに動く転換期を象徴する動き。",
       "sources": [
-        { "t": "Cyclingnews（泥の実戦＝ニール）", "u": "https://www.cyclingnews.com/pro-cycling/racing/superprestige-niel-cameron-mason-soloes-to-first-win-of-the-season-and-biggest-victory-of-his-career/", "d": "2026-11-11" }
+        { "t": "IDL ProCycling", "u": "https://www.idlprocycling.com/cycling/former-french-champion-and-van-der-poels-lead-out-man-signs-for-unibet-rode-rockets", "d": "2026-11-13" }
       ],
-      "status": "確定＝接地・空気圧の基本方針。曖昧＝最適空気圧は体重/タイヤ/路面で変わる（目安として提示）。"
+      "status": "確定＝セネシャルのロケッツ移籍（1年契約）"
     },
     {
-      "id": "20261114-first-china-carbon",
-      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
-      "image": "http://www.winspace.cc/cdn/shop/files/D33_E7_99_BD_E6_A0_87_7ed44d2a-5a0d-4c09-a553-eeea9cf84291.png?v=1735785527",
-      "headline": "【初中級・買い方／BF商戦に乗せて】大手も中華も値下げした“今”だからこそ、『初めての中華カーボン』で外さない4点——保証・実測重量・リム内寸・フック",
-      "layer1": "ブラックフライデーで大手も中華も一斉に値下げするいま、『初めての中華カーボン』を狙う人は多い。だが“最安”だけで選ぶと後悔しやすい。見るべきは価格ではなく中身の4点だ。",
-      "layer2": "裏取り（先回り）：①保証——国内窓口・対応年数・送料負担を事前に確認（海外直販は返送が高くつく場合あり）、②実測重量——公称より実測（前後ペア）で見る、③リム内寸——21mm前後なら28C以上が前提、④フック有無——フックレスは対応タイヤと上限空気圧を必ず守る。この4点が“安物買い”と“賢い買い”を分ける。うちは①〜④を店頭で説明し、初期振れ取り込みで渡せるのが直販との差。※セール価格・条件は要都度確認。",
+      "id": "20261115-rouleur-live",
+      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
+      "image": "https://cdn.mos.cms.futurecdn.net/uuugdjaasg2ii2dGjrEdGE-2500-80.png",
+      "headline": "【トレンド・自転車文化／今週・ロンドン】『Rouleur Live』開催中——VDP・フォス・ニエワダマ＝フィニーら登壇、過去最多127ブランドが2フロアに",
+      "layer1": "ロンドンで年に一度の『Rouleur Live』が今週開催中（トゥルーマン・ブルワリー）。マチュー・ファンデルポール、マリアンヌ・フォス、カシア・ニエワダマ＝フィニーらが登壇、過去最多127ブランドが2フロアに集う。",
+      "layer2": "オフシーズン最大級の“見本市×トークショー”。VDPはこの場でも冬のクロス参戦について明言を避け『復帰があるか分からない』と含みを残した（1月に父になる予定）。新製品・限定車・レジェンドのトークが一堂に会し、英国の冬のバイクカルチャーを牽引する。日本から“海外の空気”を記事やショートで届ける格好のネタ。会期の表記は媒体で12-14と13-15に割れている。",
       "sources": [
-        { "t": "Cyclists Hub（中華BFまとめ）", "u": "https://www.cyclistshub.com/chinese-carbon-black-friday-deals/", "d": "2026-11" }
+        { "t": "Cycling Weekly（Rouleur Live 2026 line-up）", "u": "https://www.cyclingweekly.com/news/kasia-niewiadoma-phinney-mathieu-van-der-poel-and-marianne-vos-headline-rouleur-live-2026", "d": "2026-11" },
+        { "t": "IDL ProCycling（VDP登壇・クロス未定）", "u": "https://www.idlprocycling.com/cycling/mathieu-van-der-poel-and-taylor-phinney-are-coming-to-londons-rouleur-live-in-november", "d": "2026-11" }
       ],
-      "status": "確定＝確認すべき4点。曖昧＝各ブランドの保証条件・価格は変動（都度確認）。"
+      "status": "確定＝開催・登壇者・規模／曖昧＝会期の表記が媒体で12-14/13-15に割れる（※要確認）"
+    },
+    {
+      "id": "20261115-storm-coloquick",
+      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
+      "image": "https://cdn.mos.cms.futurecdn.net/aRBxLCdEAPAMi7fgw2TfQD-2000-80.jpg",
+      "headline": "【トレンド・人間ドラマ／11/13】『生きていて、まだ夢を追える』——元イネオスの逸材ストームが“3年の悪夢”を越え再出発、デンマーク3部コロクイックへ",
+      "layer1": "18歳でイネオスと3年契約（24年〜）を結んだデンマークの超新星テオドール・ストーム（元ジュニア世界選手権出場）が、デンマーク3部コロクイックへ移籍。結局一度もイネオスのジャージで走れないままの再出発となった。",
+      "layer2": "24年は稀少な自己免疫疾患ギラン・バレー症候群で2週間ICU・2か月リハビリ、ほぼ2年を棒に振った。25年は育成で復帰も、25年末にトラック合宿で背骨を骨折し26年も未出走。本人は『Shit happens、でも生きていて夢を追い続けられるのが嬉しい』。チーム側も『才能はまだある。多くの挫折が心身に負担を残した、まず整えてから目標を』。結果速報では測れない“続ける”物語。",
+      "sources": [
+        { "t": "Cyclingnews", "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/im-happy-im-still-alive-and-able-to-continue-to-try-to-live-my-dream-of-a-worldtour-career-ex-ineos-talent-theodor-storm-signs-for-new-team-after-nightmare-three-years/", "d": "2026-11-13" }
+      ],
+      "status": "確定＝病歴・移籍先・本人コメント"
+    },
+    {
+      "id": "20261115-big3-winter",
+      "genre": "trend", "genreLabel": "TREND", "genreJa": "トレンド", "hot": false,
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2024-12%2Fwout-van-aert-1-675eb1bebefb7.jpg",
+      "headline": "【トレンド・冬のクロス／誰が走る】“ビッグ3”の冬は三者三様——ピドコックは不参戦、ファンアールトは参戦、VDPのみ依然“白紙”",
+      "layer1": "今季の冬、クロスの“ビッグ3”はバラバラ。トム・ピドコックは2026/27シクロクロスを走らないと明言。ワウト・ファンアールトは参戦の意向（例年どおり12月始動の見込み）。マチュー・ファンデルポールだけが依然“白紙”だ。",
+      "layer2": "VDPは『復帰があるか分からない』とし、1月に父になる予定で始動時期も不透明。例年クリスマス前後に顔を出すが、今季は“1年飛ばす”可能性にも言及してきた。ファンは『いつ・どこで3人が揃うのか』を気にするが、少なくとも今季は三者同時対決は望み薄。新王者ナイスら新世代が“看板”を背負う冬になる。",
+      "sources": [
+        { "t": "IDL ProCycling（ビッグ3）", "u": "https://www.idlprocycling.com/cyclo-cross/will-we-ever-see-cyclocrosss-big-3-race-each-other-ever-again-van-der-poel-hasnt-decided-yet", "d": "2026-11" },
+        { "t": "IDL ProCycling（VvA参戦）", "u": "https://www.idlprocycling.com/cyclo-cross/there-are-questions-surrounding-van-der-poel-but-we-will-definitely-see-wout-van-aert-back-in-cyclocross-this-winter", "d": "2026-11" }
+      ],
+      "status": "確定＝ピドコック不参戦・VvA参戦意向・VDP白紙／曖昧＝VvA/VDPの始動時期は未確定"
+    },
+    {
+      "id": "20261115-cx-watching",
+      "genre": "beginner", "genreLabel": "BEGINNER", "genreJa": "初中級", "hot": false,
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-11%2Flucinda-brand-6af8643f0a38b.png",
+      "headline": "【初中級・観戦入門／今日の泥2連戦に乗せて】はじめてのシクロクロス観戦——“砂・階段・ピット”の3つを見れば10倍おもしろい",
+      "layer1": "ロードのオフを熱くするシクロクロス。昨日メルクスプラス、今日ハンメと泥の連戦が続く“いま”が入門の好機。難しそうに見えて、見どころは3つに絞れる。",
+      "layer2": "①砂＝乗ったまま抜ける者と走って担ぐ者で差がつく、ライン取りと“踏み続ける脚”が映える。②階段/土手＝バイクを担いで駆け上がる担ぎ区間、ここで隊列が割れる（ハンメやメルクスプラスの名物）。③ピット＝1周ごとに泥で詰まった車体を乗り換える“ダブルピット”、整備とチーム力が勝敗を分ける。昨日は女子ブランドが砂の最終周で、男子はファントゥーレンハウトがコーナーの落車で明暗——“どこで差がつくか”を知ると観戦が一気に深くなる。中継は日本時間の夜が狙い目。",
+      "sources": [
+        { "t": "CyclingUpToDate（メルクスプラス詳報）", "u": "https://cyclinguptodate.com/cyclocross/results-superprestige-merksplas-aardbeiencross-2026-vandeputte-seals-first-win-of-the-season-vanthourenhout-crashes-out-and-brand-bounces-back", "d": "2026-11-14" },
+        { "t": "Velora Cycling（今日のハンメ）", "u": "https://veloracycling.com/races/bollekescross-2026", "d": "2026-11" }
+      ],
+      "status": "確定＝観戦ポイント・直近2戦の実例／普遍ネタだが今週末の泥連戦をきっかけに構成"
     }
   ]
 }
