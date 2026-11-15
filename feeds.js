@@ -1,5 +1,261 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-11-16",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。泥のハンメはナイスがメイソンとの一騎打ちを制して『王者ジャージ初勝利』、女子はブランドが「50戦連続表彰台」の金字塔。年末商戦は中華直販の実売が“値付けの基準”を下げ、国内はジャイアント＆Livが“初”のブラックフライデーに参戦。経営の値付けどころまで添えました。",
+    "cards": [
+      {
+        "id": "20261116-nys-hamme",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/DfYSNjrQHTyaBfqPK2QN2c-1024-80.jpg",
+        "headline": "【🔥今日の一本・レース／人間ドラマ・11/16】ティボー・ナイスが泥のハンメ『フランドリエンクロス』を制覇——メイソンとの一騎打ちを最終ストレートで振り切り“王者ジャージ初勝利”、ニーウウェンハウスは序盤落車から3位",
+        "layer1": "日本時間11/15夜〜16未明のX2Oトロフェー第3戦ハンメ（フランドリエンクロス）で、欧州王者ティボー・ナイスがキャメロン・メイソンとの一騎打ちを制して優勝。深い泥のコースで中盤に抜け出したメイソンを唯一追えたのがナイスで、二人は最終ストレートまで競り合った。",
+        "layer2": "ナイスにとってこれは『ベルギー王者ジャージでの初勝利』。3位は序盤に落車しながら追い上げたヨリス・ニーウウェンハウス。X2Oは区間ごとの「合計タイム制」で、ここまで全勝のナイスがシリーズ首位を固めた。マチューもファンアールトも不在のこの時期、ナイスが“冬の主役”を一歩ずつ確定させている。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/races/x2o-trofee-hamme-thibau-nys-wins-flandriencross-after-gripping-duel-with-cameron-mason",
+            "d": "2026-11-16"
+          },
+          {
+            "t": "CyclingFlash",
+            "u": "https://cyclingflash.com/news/thibau-nys-beats-tough-cameron-mason-in-x2o-trofee-hamme-nieuwenhuis-third-despite-early-crash",
+            "d": "2026-11-16"
+          }
+        ],
+        "status": "確定＝優勝ナイス・2位メイソン・3位ニーウウェンハウス（複数メディア一致）。※ハンメの最終着差（秒数）は各メディアとも明示なし。"
+      },
+      {
+        "id": "20261116-mason-nearly",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/aBnM95KQ73W8zMJn4TcpbC-2560-80.jpg",
+        "headline": "【レース・人間ドラマ／11/16】『本当に惜しかった』——キャメロン・メイソン、またもナイスに届かず“2番手の男”、コッペンベルグに続きハンメも僅差2位",
+        "layer1": "ハンメで中盤に単独で抜け出し、初の大物レース制覇を夢見たメイソンだったが、追いついたナイスに最後で差された。本人は『今日は本当に惜しかった』と悔しさをにじませた。",
+        "layer2": "メイソンは開幕のコッペンベルグ（11/1）でもナイスに21秒差の2位、欧州選手権（11/8）は6位ながら勝者ナイスと約22秒差。この冬、ナイス最大の対抗でありながら“あと一歩”が届かない。英国人クロッサーが『頂点の壁』をどう越えるか——結果速報より、この“悔しさと準備”の物語がうちの客の心を動かす。",
+        "sources": [
+          {
+            "t": "CyclingFlash",
+            "u": "https://cyclingflash.com/news/cameron-mason-dreamed-of-first-major-win-in-hamme-was-really-close-today",
+            "d": "2026-11-16"
+          },
+          {
+            "t": "Cycling Up To Date（コッペンベルグ2位）",
+            "u": "https://cyclinguptodate.com/cyclocross/results-koppenbergcross-mens-2025-thibau-nys-crushes-to-win-season-debut-cameron-mason-superb-in-second",
+            "d": "2026-11-01"
+          },
+          {
+            "t": "Cycling Weekly（初WC表彰台）",
+            "u": "https://www.cyclingweekly.com/racing/its-tough-at-the-top-but-ive-been-preparing-my-whole-life-for-this-cameron-mason-achieves-first-ever-cx-world-cup-podium",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝メイソン2位・コメント。※欧州選手権の着差（約22秒）は概算。"
+      },
+      {
+        "id": "20261116-brand-hamme",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/QTeLPsaBKAuAzpZJnZoGig-1024-80.jpg",
+        "headline": "【レース・女子／11/16】ルシンダ・ブランドがハンメで独走V、『50戦連続表彰台』の金字塔——X2O3連勝、2位以下を4分以上引き離す",
+        "layer1": "女子エリートはルシンダ・ブランドがスタートからゴールまで独走して優勝。これでX2Oトロフェー3戦3勝、そして「50戦連続表彰台」という驚異の記録を達成した。",
+        "layer2": "X2Oは合計タイム制。3戦すべて勝ったブランドは、2位ファンデルハイデンに合計4分超のリードを築いた。“速さ”だけでなく“崩れない強さ”が勝敗を分けるのがクロス。女子の表彰台争いは当面ブランド中心に回り、若手がどこで割って入るかが見どころになる。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/lucinda-brand-continues-a-brilliant-run-taking-a-third-consecutive-victory-at-the-x2o-badkamers-race-in-hamme",
+            "d": "2026-11-16"
+          },
+          {
+            "t": "Cycling Up To Date",
+            "u": "https://cyclinguptodate.com/cyclocross/results-flandriencross-hamme-2025-lucinda-brand-strikes-again-in-brutal-hamme-mud-to-reach-landmark-50th-podium-in-a-row",
+            "d": "2026-11-16"
+          },
+          {
+            "t": "CyclingFlash",
+            "u": "https://cyclingflash.com/news/lucinda-brand-dominates-start-to-finish-in-x2o-trofee-hamme-50th-consecutive-podium-finish",
+            "d": "2026-11-16"
+          }
+        ],
+        "status": "確定＝優勝ブランド・50戦連続表彰台・X2O3連勝（複数メディア一致）。"
+      },
+      {
+        "id": "20261116-chinese-bf",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://www.cyclistshub.com/wp-content/uploads/2024/11/Best-Chinese-Carbon-Black-Friday-Deals-1.avif",
+        "headline": "【ホイール・中華直販／ブラックフライデー実売】中華カーボンの“年末実売”が本番——Elitewheels『DRIVE II』が$1,299→$1,059、Winspaceはホイール先行値引き、YOELEOは全NXT/GEN10%＋キャップ",
+        "layer1": "中華直販各社のブラックフライデーが本番に。Elitewheelsの定番『DRIVE II』は$1,299→$1,059（約2割引）、Winspaceは期間（〜12/4）内でまずホイール→フレーム→完成車の順に値引き、YOELEOは全NXT/GENホイール10%オフ＋キャップ進呈という構図。",
+        "layer2": "注意は『表示割引の“中身”』。YOELEOのように「レビュワーのコードと同率＝実質の上乗せはキャップのみ」というケースもある。効くのは割引率でなく“手元に届く総額”。うちが扱う8LIEN/CRW/GOOSYNN/NEPEST等の国内在庫は、この直販価格を横目に『納期・保証・実測つき』という“安心の差”で勝負するのが筋だ。",
+        "sources": [
+          {
+            "t": "Cyclists Hub（中華BFまとめ）",
+            "u": "https://www.cyclistshub.com/chinese-carbon-black-friday-deals/",
+            "d": "2026-11"
+          },
+          {
+            "t": "Cyclists Hub（Elitewheels BF）",
+            "u": "https://www.cyclistshub.com/elitewheels-black-friday/",
+            "d": "2026-11"
+          }
+        ],
+        "status": "曖昧＝価格はレビューサイト発（アフィリエイト有）。※最終価格・在庫は各社公式で要確認。"
+      },
+      {
+        "id": "20261116-price-floor-x",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://www.cyclistshub.com/wp-content/uploads/2024/05/Elitewheels-road-bike-wheels-compared.avif",
+        "headline": "【経営メモ・市場／Xバズ起点・価格の潮目】Xの定番『結局、直販が安い』論がBFで再燃——$1,000前後の50mmカーボンが並ぶ年末、国内ショップの綱引き",
+        "layer1": "BF期になると日本のローディーのXで必ず出るのが『国内定価で買う意味は？結局、直販が安い』という論。裏を取ると実際、基準を押し下げているのは中華直販で、Elitewheels/Winspace/YOELEO級の50mm前後カーボンが送料込み$1,000前後で並ぶ。",
+        "layer2": "店としての読み：値引き合戦に正面から付き合うと消耗する。直販が取りこぼす『初期不良対応・フィッティング・振れ取り・保証窓口』を“価格に含める”説明こそ利益の源泉。BFで客が持ち込む“直販の見積もり”は接客の入口——比較を怖がらず、総保有コストで語れる店が選ばれる。※Xの『安い』は入口、実売価格で裏取り済み。",
+        "sources": [
+          {
+            "t": "Cyclists Hub（中華BFまとめ）",
+            "u": "https://www.cyclistshub.com/chinese-carbon-black-friday-deals/",
+            "d": "2026-11"
+          },
+          {
+            "t": "Cyclists Hub（Elitewheels BF）",
+            "u": "https://www.cyclistshub.com/elitewheels-black-friday/",
+            "d": "2026-11"
+          }
+        ],
+        "status": "曖昧＝価格帯はレビューサイト集計。Xの話題は入口として扱い、実売で裏取り。経営判断は一般論。"
+      },
+      {
+        "id": "20261116-japan-bf",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://static.giant-bicycles.com/Images/Giant/giant-share-image-default-2023.jpg",
+        "headline": "【経営メモ・市場／国内・BF商戦】ジャイアント＆Livが“国内初”のブラックフライデー——11/28〜12/7、オンライン注文→店舗受取(クリック＆コレクト)で一部カーボン最大30%オフ",
+        "layer1": "大手完成車系も国内BFに参戦。ジャイアント／Livが“国内初”のブラックフライデーを11/28〜12/7で実施し、オンライン注文→店舗受取（クリック＆コレクト）方式で一部カーボン等が最大30%オフになると告知。ワイズロードのBFも継続中だ。",
+        "layer2": "クリック＆コレクトは「ネットの価格×店舗の受け渡し」のハイブリッド。大手が“店舗受取前提の値引き”に動いた意味は大きく、純ネット直販との線引きが曖昧になる。独立店は『受取時のフィッティング・初期点検の質』で差別化するしかない。年末は“安さ”でなく“引き渡しの体験”で選ばれる店になれるかが問われる。",
+        "sources": [
+          {
+            "t": "Giant Japan（BF告知）",
+            "u": "https://www.giant-bicycles.com/jp/news/30-black-friday/30274",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝ジャイアント/Livが国内クリック＆コレクトBFを告知（公式）。※割引率は車種により変動。"
+      },
+      {
+        "id": "20261116-import-cost",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2025/01/rise-chinese-brands-jan-2025.jpg",
+        "headline": "【初中級・買い方／BF中華カーボンに乗せて】“表示価格”で飛びつかない——初めての中華ホイール、見落としがちな『送料・関税・消費税・保証窓口』の4点",
+        "layer1": "BFの中華直販は魅力的だが、初中級が外しやすいのは『$表示＝支払総額』と思い込むこと。実際は送料、関税（一定額を超えると発生しうる）、輸入消費税、そして“壊れた時の窓口”が総額と満足度を左右する。",
+        "layer2": "チェックは4点——①送料が込みか別か ②課税ライン（個人輸入は税関で加算されうる） ③保証は国内対応か“本国送り返し”か ④レビュー割引コードの重ね掛け可否。$1,059のホイールが、手元に届くまでに数千〜1万円上乗せになることは珍しくない。『安さの差』が“保証と納期の差”で相殺されるなら、国内在庫を選ぶ理由になる——初めての一本ほど、そこを冷静に。",
+        "sources": [
+          {
+            "t": "Cyclists Hub（中華BFまとめ）",
+            "u": "https://www.cyclistshub.com/chinese-carbon-black-friday-deals/",
+            "d": "2026-11"
+          },
+          {
+            "t": "road.cc（中華ブランド台頭・背景）",
+            "u": "https://road.cc/content/feature/rise-chinese-brands-312243",
+            "d": "2026-01"
+          }
+        ],
+        "status": "曖昧＝関税・税は条件次第（金額/申告で変動）。※具体額は購入条件により要確認。"
+      },
+      {
+        "id": "20261116-winter-map",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/zrCHbAV3UQMrJy4jbLyAXR-1024-80.jpg",
+        "headline": "【トレンド・冬の地図／泥の週末が明けて】X2Oの泥が一段落、次は『ワールドカップ本番』へ——ビッグ3は依然三者三様、ファンアールト参戦明言・VDPはなお白紙",
+        "layer1": "コッペンベルグ→欧州選手権→ハンメと続いた泥の連戦が一段落。シーズンはいよいよワールドカップ本番（11/27オストラバ開幕の観測）へ向かい、“冬の主役”はナイスが独走態勢だ。一方でビッグ3の去就はまだ割れている。",
+        "layer2": "現時点でファンアールトは『この冬のクロス参戦』を明言、ピドコックは不参戦の見方、マチュー・ファンデルポールは依然“白紙”で始動はクリスマス前後との観測。つまり年末までは「ナイス一強」で進み、ビッグ3が揃うのは12月後半以降——“誰が走るか”が放送と来店の熱を左右する。マサルのショート的には『いつマチューが出るか』が最大のフックになる。",
+        "sources": [
+          {
+            "t": "Cyclingnews（WCカレンダー／ナイス）",
+            "u": "https://www.cyclingnews.com/news/12-race-calendar-for-2025-2026-cyclocross-world-cup-reveals-seven-dates-in-belgium-return-to-sardinia",
+            "d": "2026-11"
+          },
+          {
+            "t": "Domestique（VDPのクロス予定は未定）",
+            "u": "https://www.domestiquecycling.com/en/news/van-der-poels-cyclocross-plans-unclear-as-he-confirms-road-season-is-over/",
+            "d": "2026-11"
+          }
+        ],
+        "status": "曖昧＝VDPの始動時期は観測（本人未確定）。※要裏取り（各戦の出走はエントリーで確認を）。"
+      },
+      {
+        "id": "20261116-shimano-13",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/vJGKrkBmGJAaie8KPrXyuK-1920-80.jpg",
+        "headline": "【パーツ・機材の最前線／“13速デュラエース”観測】シマノ次期デュラエース『R9300』が13速で濃厚——E-Tubeアプリのリーク＆プロトタイプ目撃、正式発表は2027シーズン有力",
+        "layer1": "シマノ次期旗艦デュラエースが『R9300』の型番・13速で用意されているとの観測が強まっている。E-Tubeアプリ内のリークや、トップ選手がプロトタイプを実戦投入した目撃が根拠だ。",
+        "layer2": "現時点で“確定”はしていない——シマノもチームも沈黙。業界の読みは『正式発表は2027シーズン（2026末〜2027半ば）』が有力で、完全ワイヤレスではなくセミワイヤレス継続との見立て。SRAM Red XPLRは既に13速、中華マージーンも13速へ動く中、本家の13速は“いつ”が焦点。うちの客には『今DA12を買うべきか待つべきか』が現実的な相談になる。",
+        "sources": [
+          {
+            "t": "Cycling Weekly（VDPがプロトタイプ使用）",
+            "u": "https://www.cyclingweekly.com/news/mathieu-van-der-poel-rides-13-speed-dura-ace-prototype-at-uci-world-championships",
+            "d": "2026"
+          },
+          {
+            "t": "Biketips（R9300リーク）",
+            "u": "https://biketips.com/shimano-13-speed-dura-ace-r9300-e-tube-leak-2026/",
+            "d": "2026"
+          }
+        ],
+        "status": "曖昧＝型番・時期はリーク/観測。※要裏取り（シマノ公式発表なし）。"
+      },
+      {
+        "id": "20261116-pricing-split",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://kaden.watch.impress.co.jp/img/kdw/list/2141/152/001.jpg",
+        "headline": "【経営メモ・市場／値付けの二極化】2027モデルは『据え置き×一部値上げ』が混在——Livは継続車種の一部を価格改定、キャニオンは据え置き＋現行は在庫処分特価",
+        "layer1": "2027モデルの値付けは各社バラバラ。Livは継続販売車種のうち一部を『内外諸般の事情』で価格改定、一方キャニオンはエアロード新型を据え置き、現行2026モデルは“在庫限りの特別価格”に動いている。",
+        "layer2": "店の読み：円安・原材料で“上げたい”各社と、年末に“捌きたい”現行在庫が同時進行＝いまは『新型は高く、型落ちは安い』の二極化が最も鮮明な時期だ。初中級には「型落ち現行×大幅値引き」が最良の買い場で、店は“値引き原資”を新型の付加価値（フィッティング・保証）で回収する設計が要る。年末は仕入れと値付けの腕が問われる。",
+        "sources": [
+          {
+            "t": "Liv Japan（2027継続・一部価格改定）",
+            "u": "https://www.liv-cycling.com/jp/news/liv-2027-9-4/30877",
+            "d": "2026-09"
+          },
+          {
+            "t": "新機材（キャニオンAeroad2027据え置き）",
+            "u": "https://newscast.jp/smart/news/9093806",
+            "d": "2026"
+          },
+          {
+            "t": "家電 Watch（2027モデル動向）",
+            "u": "https://kaden.watch.impress.co.jp/docs/news/2141152.html",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝Liv一部価格改定・キャニオン据え置き（各公式）。※個別価格は車種で変動、割引は在庫次第。"
+      }
+    ]
+  },
+  {
     "date": "2026-11-15",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。昨日メルクスプラスはファンデピュッテ初勝利の裏でファントゥーレンハウトが腕から落車リタイア、今日はさいたまクリテとハンメの泥が同じ日。中華カーボンはBF実売が本番、うちの着地どころも添えました。",
     "cards": [
