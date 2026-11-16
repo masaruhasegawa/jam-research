@@ -1,5 +1,241 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-11-17",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。名門ビアンキが約1億ユーロの債務で『裁判所監督下の再建』へ——大手でも作りすぎが重しになる年。レースは冬の泥が続き、ファンアールトは母国世界選へ逆算で始動、中華ウィンスペースは“エンデュランスC6”で攻めます。",
+    "cards": [
+      {
+        "id": "20261117-bianchi-debt",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/9HzbuwKgS3SQ6vjJCLaxQN-2560-80.jpg",
+        "headline": "【🔥今日の一本・経営メモ／業界の体温・11/4発】名門ビアンキが『約1億ユーロの債務』で裁判所監督下の再建手続きへ——「多くの分野に欲張りすぎた」、2027年5月までに再交渉できねば破綻の瀬戸際",
+        "layer1": "1885年創業のイタリアの名門ビアンキが、約1億ユーロ（うち銀行向け6,430万ユーロ）の債務を抱え、9/30に債権者保護を申請、10/16に裁判所が承認。生産・納品は通常どおり継続するが、2027年5月までに債務を再交渉できなければ支払い不能（破綻）の恐れ、と複数媒体が報じた。",
+        "layer2": "暫定CEOグリマルディは原因を『作りすぎ・広げすぎ』と総括——新工場・eバイク新ライン・赤字の海外ディストリビューター買収を、市場が供給過剰に転じる局面で同時に進めた。所有者（スウェーデンのサイクルヨーロッパ／グリマルディ）が再建を資金支援。直前にバーレーン・ヴィクトリアスがビアンキ機材を早期終了しているが、両者とも財務問題との関連は明言していない。ショップ目線の教訓は『ブーム期の拡張投資は、調整局面で一気に重しになる』——大手ブランドでも例外ではない年だと分かる。",
+        "sources": [
+          {
+            "t": "Cycling Weekly",
+            "u": "https://www.cyclingweekly.com/news/is-bianchi-in-crisis-italian-bike-brand-restructures-amid-reports-of-eur100m-debt",
+            "d": "2026-11-04"
+          },
+          {
+            "t": "BicycleRetailer",
+            "u": "https://bicycleretailer.com/international/2026/11/03/bianchi-enters-restructuring-procedure",
+            "d": "2026-11-03"
+          },
+          {
+            "t": "Escape Collective",
+            "u": "https://escapecollective.com/bianchi-files-for-restructuring/",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝再建手続き入り・債務規模・2027年5月期限は複数媒体で一致。曖昧＝再建の成否と最終的な事業体制は交渉次第。"
+      },
+      {
+        "id": "20261117-uae-treble",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/zCAALscSH3dnM63K4b7kHA-2560-80.jpg",
+        "headline": "【トレンド・2027構想／11/5】UAEボスが『3大グランツール総なめ』を公言——「ヴィスマがやったことを、我々も」、ポガチャル＝ツール軸・デルトロ＝ジロ有力、最終決定は12月合宿",
+        "layer1": "UAEのスポーツディレクター、マシンが2027年に『ジロ・ツール・ブエルタ完全制覇』を目標に挙げ、「ヴィスマが2023年に成し遂げたことをやりたい」と明言。ポガチャルはツールを軸に、ブエルタ再挑戦にも意欲。デルトロはジロでのリーダー起用が有力視される。",
+        "layer2": "UAEはポガチャル・デルトロ・アルメイダと『GT表彰台級』を3枚抱え、起用は“贅沢な悩み”。ただし全日程は未確定で、ポガチャル自身「本当に最終的な決定は12月のトレーニングキャンプ」と話す。ヴィスマが2023年に達成した年間3GT制覇は近代では稀——実現すれば歴史的。デルトロは今年のツールでポガチャルの完璧なアシストを務めた20代、ジロ主将なら『恩返しの昇格』の物語になる。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/uae-team-emirates-xrg-manager-reveals-ambitious-dream-to-emulate-visma-in-2027-grand-tours-but-pogacar-and-del-toros-schedules-still-under-wraps/",
+            "d": "2026-11-05"
+          }
+        ],
+        "status": "確定＝目標としての公言。曖昧＝具体的な出場日程・主将配置は12月合宿まで未定。"
+      },
+      {
+        "id": "20261117-vanaert-cx",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.todomountainbike.net/images/articles/2026/wout-van-aert-correr-mundial-ciclocross-2027.jpg",
+        "headline": "【レース・冬の地図／11/15】ファンアールト、母国世界選へ『最低4回のワールドカップ出場』が必要——コーチ試算、始動はクリスマス前後の観測",
+        "layer1": "今季クロス復帰を明言しているファンアールトだが、2027年オーステンデ世界選で前列スタートを得るには、コーチ、アンジェロ・デ・クレルクの試算で『最低4戦のワールドカップ出場』が要るとされる。12/19〜29に5戦＋1/3ゾンホーフェンが並び、クリスマス期の復帰が現実的とみられる。",
+        "layer2": "ただし本人は「どこで・いつ始めるか、まだ言えない」と慎重で、トレーニング再開も最近。12/8からスペインでヴィスマのキャンプが始まる。昨季は『モルでの足首骨折』で冬を早じまい、さらに1月に第一子の誕生予定も判断材料。狙いはあくまで母国開催の世界選（オーステンデ）一点——序盤のワールドカップは『前列を確保するための手段』という位置づけだ。VDPが依然“白紙”の中、ビッグ3で最も復帰プランが具体的なのはVvA。",
+        "sources": [
+          {
+            "t": "TodoMountainBike",
+            "u": "https://www.todomountainbike.net/en/wout-van-aert-four-world-cups-2027-cyclocross-worlds",
+            "d": "2026-11-15"
+          },
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/wout-van-aert-keeps-cyclocross-plans-on-hold-but-singles-out-home-world-championships/",
+            "d": "2026-10-30"
+          }
+        ],
+        "status": "確定＝本人の復帰意思・母国世界選狙い。曖昧＝初戦の具体日程は未発表（※コーチ試算・媒体観測）。"
+      },
+      {
+        "id": "20261117-cx-weekend",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2025-12%2Fmichaelvanthourenhout-2-694d6561f1b1d.jpg",
+        "headline": "【レース・冬の地図／今週末】泥の連戦は続く——11/21ロケレン『ラペンクロス』（HGクロス）→11/22ベリンゲン『Be-Mineクロス』（X2Oトロフェー）、無敗ナイスに挑むのは誰か",
+        "layer1": "X2O/HGの週末クロスが続く。土曜11/21はロケレンのラペンクロス（今季はHGクロス区分）、日曜11/22はベリンゲンのBe-Mineクロス（X2Oトロフェー）。昨年のロケレンはJ・ニーウウェンハウスが制し、女子はブランドが勝利した。",
+        "layer2": "今季ここまで無敗のT・ナイスが本命格だが、ハンメではメイソンに最終盤まで食い下がられ本人も「かなり戦わされた」と課題を口に。ベリンゲンはX2O総合争いの重要局面で、ファントゥーレンハウトやスウェーク、復調中の面々が絡む。女子はブランドの表彰台連続記録がどこまで伸びるか、そして負傷明けのアルバラードや復帰組の仕上がりが焦点。スタートリスト・開始時刻はレース直前に発表見込み。",
+        "sources": [
+          {
+            "t": "Sporza（veldritkalender 26-27）",
+            "u": "https://sporza.be/nl/2026/09/29/wanneer-is-welke-cross-en-welke-wedstrijden-zijn-live-bij-sporza-dit-is-de-complete-veldritkalender-2026-2027~1790685673220/",
+            "d": "2026-09-29"
+          },
+          {
+            "t": "DH Net（Trophée X2O）",
+            "u": "https://www.dhnet.be/dernieres-depeches/2026/10/30/trophee-x2o-le-trophee-x2o-reprend-ses-droits-dimanche-au-koppenberg-K5QX2BIKJJAEXI7K6OMKGK75IM/",
+            "d": "2026-10-30"
+          }
+        ],
+        "status": "確定＝両レースの開催日・シリーズ区分。曖昧＝出走メンバー・開始時刻は直前発表（※スタートリスト未公開）。"
+      },
+      {
+        "id": "20261117-winspace-c6",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2026/11/Winspace_C6_Hero.jpg?media=1794213040",
+        "headline": "【パーツ・中華の最前線／11/12】ウィンスペースが新型エンデュランス『C6』を公開——快適性×性能の両立を謳う、詳細は11/18のフル発表で",
+        "layer1": "中華カーボンの実力派ウィンスペースが、エンデュランス系新型ロード『C6』を11/12にティザー公開。「耐久性のために設計し、性能のために作った」とし、完成車構成やコンポ・価格・重量などの詳細は11/18のフル発表で明らかにするとした。",
+        "layer2": "ウィンスペースはカーボンスポークホイールなどで日本のプロチームやユーチューバーにも採用が広がり、中華勢の中でも信頼性は頭一つ抜けた存在。エアロ全盛の中で“エンデュランス”を新たに立てる動きは、『速さ一辺倒』から『長く快適に乗れる一台』へと裾野を広げる狙い。うち（8LIEN/CRW/GOOSYNN/NEPEST/PARTICLE）の提案でも、初めての中華カーボンを選ぶ人に『用途（レースかロングか）から入る』という軸を示せる好材料。11/18の価格と公称重量は要チェック。",
+        "sources": [
+          {
+            "t": "Velofanatics",
+            "u": "https://www.velofanatics.com/winspace-c6-unveiled-endurance/",
+            "d": "2026-11-12"
+          }
+        ],
+        "status": "確定＝11/12ティザー公開・11/18フル発表予告。曖昧＝スペック・価格・重量は未公表（11/18発表待ち）。"
+      },
+      {
+        "id": "20261117-rouleur-live-tech",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/Jw2H3dbzmL5yNriHuu8RRJ-2560-80.jpg",
+        "headline": "【トレンド・機材最前線／11/13】ロンドン『Rouleur Live 2026』の注目テック——極上チタン、AI搭載コンセプト、32インチ・グラベル、そして“新作リムブレーキ車”まで",
+        "layer1": "11/12〜14にロンドンで開かれた自転車文化の祭典『Rouleur Live 2026』で、サイクリングニュースが注目機材をピックアップ。緻密なチタンフレーム、AIを取り入れたコンセプトバイク、32インチ化が進むグラベル技術、さらに時代に逆行する“新作リムブレーキ車”まで、多彩な『今』が並んだ。",
+        "layer2": "ディスク・フックレス全盛の裏で『新作リムブレーキ車』が話題になるのは、軽さ・整備性・クラシックな趣を求める層が確かに残っている証拠。32インチ・グラベルは接地と転がりを突き詰める最前線の実験場だ。ショー自体はVDP・フォスら大物も登壇するオフ最大級の催しで、昨季はこの場で次シーズンの機材潮流が見えた。派手な新コンポ発表こそ無かったが、『多様化（アエロ一辺倒ではない）』が今季の通奏低音。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/bikes/pro-bikes/exquisite-titanium-ai-enabled-concept-bikes-32-inch-gravel-tech-and-even-a-new-rim-brake-bike-all-the-tech-that-caught-our-eye-at-rouleur-live-2026/",
+            "d": "2026-11-13"
+          }
+        ],
+        "status": "確定＝展示・取材内容。曖昧＝コンセプト／プロトは市販時期・仕様未定のものを含む。"
+      },
+      {
+        "id": "20261117-newmen-streem-g48",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.brujulabike.com/media/212898/conversions/objectruler-imageaspx-3-1240.jpg",
+        "headline": "【ホイール・グラベル最前線／11/9】ニューメンが新『Streem G.48』で32インチ&30.5インチに対応——“太く大径”化するグラベルの波に、ワイドなエアロカーボン",
+        "layer1": "ドイツのニューメンが、ミドルハイトのエアロ・グラベルカーボンホイール『Streem G.48』を刷新し、従来の28インチに加え30.5インチ・32インチの大径サイズを用意。より軽く、より汎用的に、と謳う。発売時期は未発表。",
+        "layer2": "グラベルで進む『大径化（29→30.5→32インチ）』は、荒れた路面での転がり・乗り越え性能と接地安定を稼ぐ狙い。ロードの常識（700c＝約29インチ）を超えるサイズが選択肢に入り始めたのは、タイヤの太さ競争と同じ“接地の最適化”の文脈だ。グラベル完成車のサイズ設計にも影響しうる動きで、今は尖った実験でも数年で主流に降りてくる可能性がある。日本のグラベル派には『フレームのクリアランスとホイール径の相性』を確認する目安になる。",
+        "sources": [
+          {
+            "t": "Bikerumor",
+            "u": "https://bikerumor.com/32-30-5-28-options-for-newmens-new-wide-aero-streem-g-48-carbon-gravel-wheels/",
+            "d": "2026-11-11"
+          },
+          {
+            "t": "Brújula Bike",
+            "u": "https://en.brujulabike.com/newmen-embraces-32-inch-and-305-inch-wheels-with-its-new-streem-g48-gravel-wheels/",
+            "d": "2026-11-09"
+          }
+        ],
+        "status": "確定＝新サイズ展開の発表。曖昧＝発売日・価格は未発表。"
+      },
+      {
+        "id": "20261117-tdu-santos",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://escapecollective.com/content/images/size/w1200/2026/11/CORVOS_00031929-286.jpg",
+        "headline": "【トレンド・業界と社会／11/4】ツアー・ダウンアンダーの『化石燃料スポンサー』論争——アデレード市が広告禁止を可決、州政府は見直しを示唆、2027大会（1/16〜24）は実施へ",
+        "layer1": "開幕グランツアー、ツアー・ダウンアンダーの冠に近いガス大手サントスのスポンサーを巡り、アデレード市が市有地での化石燃料広告を『2027年7月から禁止』と可決。選手からも「もう時代遅れ」との声が上がる一方、州政府は大会の“ファンの拠点（村）”が損なわれると反発し、禁止見直しの報告書を2027年5月までに求めた。",
+        "layer2": "争点は『大会の資金源 vs 気候・健康の是非』。州政府はサントスの支援を「大会成功に不可欠」とし、2027大会（1/16〜24）は実施予定で当面の影響は無いとされる。テニス豪州が化石燃料スポンサーを外した流れを受け、スポーツ界全体に波及するかが注目点。日本のレースファンには遠い話に見えるが、『スポンサー構造の変化＝レースの存続・放送・招致』に直結する、業界の体温を映す一件だ。",
+        "sources": [
+          {
+            "t": "Escape Collective",
+            "u": "https://escapecollective.com/what-would-a-fossil-fuel-ad-ban-mean-for-the-tour-down-under/",
+            "d": "2026-11-04"
+          },
+          {
+            "t": "InDaily SA",
+            "u": "https://www.indailysa.com.au/news/opinion/2026/11/06/equal-prize-money-isnt-a-favour-from-a-gas-company-afwl-player-on-tdu-santos-sponsorship",
+            "d": "2026-11-06"
+          }
+        ],
+        "status": "確定＝市の可決・2027大会実施予定。曖昧＝禁止の最終的な発効・見直しの行方（州の判断待ち）。"
+      },
+      {
+        "id": "20261117-x-manner-blueticket",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://pinzuba.ismcdn.jp/mwimgs/6/f/1200wm/img_6f47910e47d04e17896db49eabda01e2191664.jpg",
+        "headline": "【経営メモ・市場／Xバズ起点・青切符時代】Xで再燃する『自転車×クルマのマナー論争』——ウインカー義務化を求める声も、背景に2026年4月施行の“青切符”",
+        "layer1": "Xで、山間路でのロードバイクとクルマの“ニアミス動画”をきっかけに『追い越しマナー』論争が断続的に再燃（元動画は数千万表示級）。「自転車にもウインカー・ミラー・テールランプを義務化すべき」との声が広がる一方、全車適用や電源確保の難しさを指摘する反対も多い。",
+        "layer2": "背景に2026年4月施行の改正道交法——自転車にも『青切符（交通反則通告制度）』が導入され、16歳以上・113種類の違反が反則金対象（ながらスマホ12,000円、信号無視6,000円など）、追い越し時の側方間隔確保も義務化された。専門家は『“ロードはダメ／クルマはダメ”と主語を大きくする議論』を戒める。ショップ目線では、来店客の不安（取り締まり・走行位置・装備）に正しく答えられることが信頼につながる。※この話題はXの投稿起点で、炎上の中心やRT数は変動する——断定せず『いま客が気にしている空気』として扱う。",
+        "sources": [
+          {
+            "t": "ピンズバNEWS",
+            "u": "https://pinzuba.news/articles/-/18357",
+            "d": "2026-10-21"
+          },
+          {
+            "t": "三井住友銀行（青切符解説）",
+            "u": "https://www.bk.mufg.jp/column/others/b0112.html",
+            "d": "2026"
+          }
+        ],
+        "status": "曖昧＝Xバズは継続的だが中心・規模は変動（※Xで話題、要裏取り）。確定＝青切符は2026年4月施行済み・反則金体系。"
+      },
+      {
+        "id": "20261117-beginner-endurance",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2026/01/Best-Chinese-Carbon-Road-bikes-2027-1400x788.png?media=1794213040",
+        "headline": "【初中級・買い方／ウィンスペースC6発表に乗せて】『エアロ or エンデュランス』、初めての一台はどっち？——中華カーボンが両方攻める今、用途から選ぶ3つの問い",
+        "layer1": "中華勢がエアロだけでなくエンデュランス（C6など）にも本腰を入れる今、初めての一台選びは『速さ』だけでは決めづらい。レース志向ならエアロ、ロング・快適志向ならエンデュランス——まず用途から入るのが失敗しないコツだ。",
+        "layer2": "初中級が外さない3つの問い：①『年に何回、何kmを誰と走る？』（週末ロング中心ならエアロの数ワットより快適性・クリアランスが効く）②『タイヤは何mm履きたい？』（太め＝エンデュランス系フレームのクリアランスが要る、BF期は実測リム内寸も確認）③『保証と窓口は？』（中華直販は送料・関税・消費税・保証対応まで含めて“表示価格で飛びつかない”）。数字（公称重量・ワット）は最後——まず『どう使うか』。中華カーボン（8LIEN/CRW/GOOSYNN/NEPEST/PARTICLE）でも、この順で選べば初めてでも外しにくい。",
+        "sources": [
+          {
+            "t": "Velofanatics（C6発表）",
+            "u": "https://www.velofanatics.com/winspace-c6-unveiled-endurance/",
+            "d": "2026-11-12"
+          },
+          {
+            "t": "Velofanatics（中華カーボン総論）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-road-bikes-2026/",
+            "d": "2026-01"
+          }
+        ],
+        "status": "確定＝選び方の考え方（普遍）。曖昧＝個別モデルの適性は実測・試乗で要確認。"
+      }
+    ]
+  },
+  {
     "date": "2026-11-16",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。泥のハンメはナイスがメイソンとの一騎打ちを制して『王者ジャージ初勝利』、女子はブランドが「50戦連続表彰台」の金字塔。年末商戦は中華直販の実売が“値付けの基準”を下げ、国内はジャイアント＆Livが“初”のブラックフライデーに参戦。経営の値付けどころまで添えました。",
     "cards": [
