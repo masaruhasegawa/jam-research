@@ -1,5 +1,249 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-11-18",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ビーチレースの最終コーナーで王手が消える“小突き合い”が拡散、ヴァンアールトは『自宅を調べられた』情報漏えいで提訴、中華XDSはアスタナ撤退をちらつかせ、ラファがワールドツアー復帰。明日はマージーンQED2が中華13速を正式発表します。",
+    "cards": [
+      {
+        "id": "20261118-depanne-beach-crash",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/CeHFyjXi9yqxonCsLsgSvH.jpg",
+        "headline": "【🔥今日の一本・レース／人間ドラマ・11/15】ベルギー最大のビーチレース『デ・パンネ』、最終コーナーで両先頭が転倒——“1位と2位が消えた”間隙を縫ってデヤヘルが優勝『こんな勝ち方はしたくない』",
+        "layer1": "ベルギー最大級のビーチレース、デ・パンネ・ビーチ・エンデュランス（第30回）で、独走態勢だったティモシー・デュポンと仏サミュエル・ルルーが最終ベンドで同時落車。どちらも復帰できず、後方のヤスパー・デヤヘルが2人の脇を抜けて優勝した。",
+        "layer2": "最終コーナーは砂ではなくレンガ路面で、内側を攻めたルルーのタイヤが流れて接触——デュポンは立ち上がりざまルルーの胸を小突き『ルルーが単にブレーキをかけなかった』と非難。勝ったデヤヘルは『こんな勝ち方はしたくない』。映像が出回り“棚ぼた優勝”としてSNSで拡散したが、順位・経緯は媒体報道で裏取り済み（X起点だが一次確認OK）。マサル向けの読みどころは、砂地レースの“最後は路面が変わる”罠——冬の実走でも、濡れたマンホール・白線・舗装の切れ目は砂より滑る。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ビーチレース落車）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/angry-confrontation-as-final-corner-wipeout-sees-both-leaders-lose-out-on-victory-in-belgiums-biggest-beach-race-video/",
+            "d": "2026-11-16"
+          }
+        ],
+        "status": "確定＝レース・落車・優勝者（Cyclingnews）。曖昧＝両者の主観的な過失主張（本人談）。"
+      },
+      {
+        "id": "20261118-lidltrek-cx-nys",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039525-077.jpg",
+        "headline": "【レース・冬の去就／11/16】リドル・トレックが自前のシクロクロスチームを始動——だがティボー・ナイスは『父のチームを離れない』、ブランドは離脱・ムールス&ヴァスが加入",
+        "layer1": "リドル・トレックが11/22始動で独自のCXチームを立ち上げ、フルール・ムールスとブランカ・ヴァスを起用。レッドブル・ボーラに続く動きで、ルシンダ・ブランドはスヴェン・ナイスのバロイス・ライオンズ残留のためリドル・トレックを離れる。",
+        "layer2": "焦点は“息子”ティボー・ナイス。リドル・トレックは打診したが本人は『いまリドル・トレックでクロスを走ることは予定にない』と即否定——両組織との契約は2028年末まで。大手が泥の世界にも資本を入れ始めた構図で、“家族経営の名門（ナイス父のチーム）vs 大型スポンサーチーム”という綱引きが冬の裏テーマに。マサル目線では、プロでも“所属＝機材サプライ”が動く年＝店頭トークの前提が変わる。",
+        "sources": [
+          {
+            "t": "Domestique（リドル・トレックCX始動）",
+            "u": "https://www.domestiquecycling.com/en/news/lidl-trek-launches-cyclocross-team-but-thibau-nys-refuses-to-leave-his-fathers-squad/",
+            "d": "2026-11-16"
+          }
+        ],
+        "status": "確定＝チーム始動日・加入選手・ナイス残留コメント（Domestique）。"
+      },
+      {
+        "id": "20261118-lutsenko-retire-coach",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/jmEtEdtWYJQTkYceKXh36A.jpg",
+        "headline": "【レース・人間ドラマ／11/17】アレクセイ・ルツェンコが14年の現役に幕、『特別な場所』XDSアスタナへコーチとして帰還——通算43勝、ツール&ブエルタ区間勝者が“育成する側”へ",
+        "layer1": "カザフスタンのルツェンコ（33）が10月に現役引退、2027年から古巣XDSアスタナにスポーツパフォーマンス部門のヘッドコーチとして復帰する。ヴィノクロフとGMヤナ・ゼールの下で、元プロのアレックス・ダウセットと働く。",
+        "layer2": "通算43勝＝ツール&ブエルタ区間勝、オマーン2回・北極レース・ツアー・オブ・ターキー総合など。キャリアの大半をアスタナで過ごし『このチームは僕の心の特別な場所』。ただし記事は“XDSが来季にもスポンサー撤退の可能性（契約は2029年まで）”という不穏な続報にも触れる——次カードのアスタナ騒動と地続き。選手の第二の人生＝引退後も才能を回す仕組みは、ショップの“人を育てて残す”にも通じる話。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ルツェンコ引退・コーチ就任）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/a-special-place-in-my-heart-alexey-lutsenko-returns-home-to-xds-astana-for-a-new-role-after-racing-retirement/",
+            "d": "2026-11-17"
+          }
+        ],
+        "status": "確定＝引退・新役職・戦績（Cyclingnews）。曖昧＝XDS撤退は“報道ベースの可能性”。"
+      },
+      {
+        "id": "20261118-xds-astana-exit",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2025/Creators-subfolder/Features-archive/CORVOS_00038172-150.jpg",
+        "headline": "【経営メモ・市場／中華ブランドのWT出資・11/17】中華XDSが『アスタナ撤退』をちらつかせる——ヴィノクロフの“全権”を条件に、2年でスポンサー終了の可能性、機材ブランドが政治に巻き込まれる構図",
+        "layer1": "ガゼッタ報道。中華メーカーXDS（XDSアスタナのタイトルスポンサー）が、ヴィノクロフが完全に主導権を握らない限り2027年を前に支援撤退も辞さない構え。カザフ側がヤナ・ゼールをGMに据えヴィノを競技面に限定した体制変更が、XDSの承認なく行われたという。",
+        "layer2": "レキップが『2シーズンで離脱検討』を先報。契約は“最低5年”とされていたのに、だ。チーム準備自体は進行（トゥルジ、ブルイヤールと2年契約）で『今後数日が決定的』。マサル視点の肝＝これは“中華ブランドがワールドツアーに金を出す時代”の副作用。パルダス/XDS/9Velo系が次々プロに入る一方、意思決定権を巡るゴタゴタも表面化＝「中華＝安いだけ」ではなく“経営の相手として本気で組む難しさ”も可視化。店の仕入れ交渉でも、相手の意思決定構造を見る教材になる。",
+        "sources": [
+          {
+            "t": "Domestique（XDSアスタナ撤退観測）",
+            "u": "https://www.domestiquecycling.com/en/news/xds-could-pull-out-of-astana-as-early-as-2027/",
+            "d": "2026-11-17"
+          }
+        ],
+        "status": "曖昧＝撤退は“報道ベースの観測”、XDS・チームとも正式決定の確認なし（※要裏取りの段階）。確定＝体制変更と新加入（Domestique）。"
+      },
+      {
+        "id": "20261118-totalenergies-fdj-women",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039232-126.jpg",
+        "headline": "【経営メモ・市場／スポンサーの潮目・11/16】トタルエネルジーが『女子へ5年契約』——男子を離れFDJユナイテッドの共同タイトルへ、2027から“TotalEnergies-FDJ United”、女子市場に大手マネーが流入",
+        "layer1": "トタルエネルジーがFDJユナイテッド-SUEZ女子の共同タイトルスポンサーに、5年契約で2027年1月から就任。2022年から支えたスエズに代わる形で、2016年以来支援してきた“男子”から“女子”へ投資の軸足を移す。",
+        "layer2": "受け皿の女子チームは2026年にUCIランキング2位、ドゥミ・フォレリングがツール・ド・フランス・ファム&ジロ・ドンネ・女子を制した強豪。GMデルクールは『大型予算と戦い続けるための財政的安定』と表現。マサル視点＝女子レースに大手エネルギー資本が本気で張る＝市場としての“女子・子ども・ファミリー層”の伸びしろを業界が見ている証拠。国内の店づくりでも、男性ガチ勢一辺倒でなく女性客の取り込みが次の商機、というトレンドの裏付けになる。",
+        "sources": [
+          {
+            "t": "Domestique（トタルエネルジー→FDJ女子）",
+            "u": "https://www.domestiquecycling.com/en/news/totalenergies-makes-major-move-into-womens-cycling-with-five-year-fdj-united-deal/",
+            "d": "2026-11-16"
+          }
+        ],
+        "status": "確定＝契約・開始時期・体制（Domestique）。"
+      },
+      {
+        "id": "20261118-hunt-bf-wheels",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/8QRQxwqkjcVHSgybSMcWPE.jpg",
+        "headline": "【ホイール・BF実売／価格の基準・11/17】ハントのカーボンが最大40%オフ——『40 Carbon Disc』が$1,229→$737（UK £879→£527）、年末“深リム投げ売り”の値付け基準をまた一段下げる",
+        "layer1": "ハントがブラックフライデー最安保証で主要カーボンを値引き。目玉は40 Carbon Discの40%オフ（US $1,229→$737.40／UK £879→£527.40）。30/50 Carbon Discは30%、Aerodynamicist系（34/44/54）は25%オフ。",
+        "layer2": "US実売の目安＝30 Carbon $839、50 Carbon $874、44/46 Aero $1,109。マサルの経営メモ的には“$700〜900で1,400〜1,600g級の大手系カーボン深リムが並ぶ”＝これが年末の価格の床。中華直販（Elitewheels/YOELEO/ICAN/Winspace）が$1,000前後を提示する中、英ハント（大手寄り）が$700台に降りてきた意味は大きい。国内で“完組カーボン”を売るなら、この海外実売を前提に、保証対応・振れ取り・日本語サポートという“価格に乗らない価値”で差を説明する必要がある。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ハントBF値引き）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/get-up-to-40-percent-off-top-hunt-wheelsets-at-the-guaranteed-best-black-friday-price/",
+            "d": "2026-11-17"
+          }
+        ],
+        "status": "確定＝割引率・実売価格（Cyclingnews、US/UK）。"
+      },
+      {
+        "id": "20261118-vanaert-data-breach",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/wcg3hYFJ8ozChSJEf5wzMX.jpg",
+        "headline": "【トレンド・人間ドラマ／11/17・SNSでも拡散】ヴァンアールトが『自宅を調べられた』情報漏えいで提訴——ベルギー自治体職員がプロ約30人の個人データに不正アクセス、求めるのは象徴的な400ユーロ（全額寄付）",
+        "layer1": "ベルギー・ラ・ルヴィエールの自治体職員が、プロ選手約30人（ヴァンアールト、エヴェネプール、ファンデルポール、ファンアーヴェルマートら）の個人データに市のシステムから不正アクセス。モンス検察は120時間の社会奉仕を求刑。",
+        "layer2": "アクセスは2023年1〜9月で、職員は当初『選挙目的』と釈明したが『選手たちがどこに住んでいるか知りたかった』と認めた。ヴァンアールトと妻サラ・デ・ビーは民事当事者として参加し、求めるのは象徴的な400ユーロ（全額を慈善に寄付）、弁護士は『子どもたちのプライバシー保護』を理由に挙げた。SNSで“有名選手の自宅バレ”として話題化したが、経緯・金額は媒体で裏取り済み。これは他人事ではない——次カード（初中級向け）で“一般ライダーの自宅バレ対策”に落とす。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ヴァンアールト提訴）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/wout-van-aert-seeking-damages-in-bizarre-case-of-belgian-municipal-employee-who-illegally-accessed-personal-information-of-30-pro-cyclists/",
+            "d": "2026-11-17"
+          }
+        ],
+        "status": "確定＝事件・求刑・ヴァンアールトの請求内容（Cyclingnews）。"
+      },
+      {
+        "id": "20261118-rapha-redbull-kit",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/Kv8K3WmcmPpLec6oJyuumh.jpg",
+        "headline": "【トレンド・業界／11/17】ラファがワールドツアーに復帰——レッドブル・ボーラ・ハンスグローエのウェアサプライヤーへ『世界最速のキットを作る』、スペシャライズドに取って代わる複数年契約",
+        "layer1": "ラファがレッドブル・ボーラのレースキットサプライヤーとして複数年契約でワールドツアー復帰。スペシャライズドを置き換える形で、新キットは2027年用が12月にお目見え＝2027シーズンからの始動とみられる。",
+        "layer2": "ラファは2026年トップカテゴリー不在だった（EF向け供給が2025年末で終了）。過去にはチームスカイ、キャニオン-SRAM、EFを担当。今回は“供給契約”でなく“性能パートナーシップ”を標榜し、レッドブル・ボーラの技術責任者ダン・ビガムと共同開発する。マサル的トレンドの読み＝ウェアも“空力の勝負どころ”として機材並みに開発投資される時代。店頭でも『ウェア＝ファッション』から『ウェア＝速さ/快適さの装備』へ説明軸を上げると刺さる。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ラファWT復帰）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/our-ambition-is-to-build-the-fastest-kit-in-the-world-rapha-returns-to-the-worldtour-as-racing-kit-supplier-to-red-bull-bora-hansgrohe/",
+            "d": "2026-11-17"
+          }
+        ],
+        "status": "確定＝契約・置換・開発体制（Cyclingnews）。曖昧＝正確な開始日は明言なし（12月に新キット）。"
+      },
+      {
+        "id": "20261118-pogacar-getserious",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/ojCTyEowj4Rgus2PNVH2NA.jpg",
+        "headline": "【トレンド・2027始動／11/17】ポガチャルが『そろそろ本気を出す時間だ』——ブエルタ落車後のオフを終え、12月スペイン合宿へ、2027はツール・ブエルタ・世界選が主目標か",
+        "layer1": "ポガチャルがInstagramで『Now time to get serious（そろそろ本気の時間だ）。でもその前に、世界のあちこちで良い時間を過ごした』と投稿。ブエルタ落車で早めに終わった2026年の後、数週間の旅行と緩い運動を経て、12月のUAE合宿（スペイン南東部）に向け始動する。",
+        "layer2": "オフはダンバーの結婚式（アイルランド）に参加、現地でMTBやランニング姿も目撃。2月のUAEツアーで復帰見込みで、2027の主目標はツール・ド・フランス、ブエルタ、世界選と示唆（詳細プランは12月中旬）。前カード群（UAEの3大ツール総なめ構想＝デルトロ=ジロ）と合わせ、“UAEが2027に何を狙うか”の輪郭が12月合宿で固まる。レース枠の定点観測として。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ポガチャル始動）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/now-time-to-get-serious-tadej-pogacar-wraps-up-off-season-of-travelling-running-and-fellow-pros-wedding-as-2027-preparations-set-to-begin/",
+            "d": "2026-11-17"
+          }
+        ],
+        "status": "確定＝本人投稿・合宿/復帰予定（Cyclingnews）。曖昧＝2027目標は“示唆”、確定は12月中旬。"
+      },
+      {
+        "id": "20261118-magene-qed2-13s",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://www.cyclistshub.com/wp-content/uploads/2026/11/Magene-QED2-Groupset-Preview.avif",
+        "headline": "【パーツ・機材最前線／明日11/19発表】中華マージーン『QED2』がいよいよ正式発表——完全ワイヤレス“ネイティブ2×13速”、13速が中国からまた一つ現実に（価格・重量は明日判明）",
+        "layer1": "マージーンが11/19の新製品発表会で、2作目の電動ロードグループセット『QED2』を正式発表する。ティザーで確定しているのは“ネイティブ2×13速”（詰まったギア間隔）と、初代と違う完全ワイヤレス化。価格・重量・互換・パワーメーター・中国外での販売は明日公表予定。",
+        "layer2": "初代QEDは中国内のディーラー販売のみ・¥3,099〜3,999元（約$435〜560）という破格だった＝QED2も“安い13速”なら波紋は大きい。13速の地図を整理すると——SRAMは既にRed XPLR 13速、カンパはSuper Record/Record 13（2×13）、Rotorは油圧1×13、そしてシマノは次期デュラエースR9300が13速濃厚（2027観測）。つまり“13速”はもう高級の代名詞ではなく、中国発で一気に大衆化へ。うち（8LIEN/CRW系）の提案でも、顧客の『次は13速？』という不安に“今はまだ11/12速で十分、13速は互換とコストが落ち着いてから”と先回りで答えられる材料。明日の価格を要チェック。",
+        "sources": [
+          {
+            "t": "CyclistsHub（Magene QED2プレビュー）",
+            "u": "https://www.cyclistshub.com/magene-qed2-introduced/",
+            "d": "2026-11"
+          },
+          {
+            "t": "Cyclingnews（Rotor 1x13の比較参考）",
+            "u": "https://www.cyclingnews.com/news/rotor-releases-1x13-hydraulic-groupset",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝発表日11/19・2×13完全ワイヤレス（ティザー）。曖昧＝価格/重量/互換は未発表（明日判明・要続報）。"
+      },
+      {
+        "id": "20261118-strava-home-privacy",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/wcg3hYFJ8ozChSJEf5wzMX.jpg",
+        "headline": "【初中級・自己防衛／ヴァンアールト事件に乗せて】“自宅バレ”は他人事じゃない——ストラバの『マップ表示（Map Visibility）』で自宅の1マイルを隠す、今日できる3ステップ",
+        "layer1": "プロ約30人の自宅を狙った不正アクセス事件（前出）は、一般ライダーにも刺さる話。ストラバは走行マップの“発着点”を隠せる——住所を登録すると、その半径約1マイル以内で始まる/終わる区間が全アクティビティで非表示になる。",
+        "layer2": "設定の勘所：（1）Web＝プロフィール→設定→プライバシーコントロール→『マップ表示（Map Visibility）』。アプリ＝Youタブ右上の設定→プライバシーコントロール→Map Visibility。（2）選択肢は“住所の半径を隠す／全アクティビティの発着を隠す／マップ全体を隠す”の3段階。（3）個別アクティビティは三点メニュー→Edit Map Visibilityで上書き。注意点＝半径非表示でも“他の情報から自宅を推測されうる”とストラバ自身が明記、完全に守るならマップ全体非表示＋アクティビティ公開範囲も絞る。初中級の『SNSに上げたいけど家バレは怖い』に、今日その場で答えられる実務ネタ。",
+        "sources": [
+          {
+            "t": "Strava公式サポート（Map Visibility）",
+            "u": "https://support.strava.com/hc/en-us/articles/115000173384-Hidden-Areas-Privacy-Zones",
+            "d": "2026-11"
+          },
+          {
+            "t": "Cyclingnews（事件の背景）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/wout-van-aert-seeking-damages-in-bizarre-case-of-belgian-municipal-employee-who-illegally-accessed-personal-information-of-30-pro-cyclists/",
+            "d": "2026-11-17"
+          }
+        ],
+        "status": "確定＝ストラバの設定手順・仕様（公式サポート）。"
+      },
+      {
+        "id": "20261118-dygert-twenty28-la28",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/u6MJfYq9uPMk6NnKS4mrwe.jpg",
+        "headline": "【レース・人間ドラマ／女子・11/16】五輪4度のメダリスト、クロエ・ダイガートが“原点”トゥエンティ28に出戻り——『自分に何ができるか、信じるのをやめたことはない』、狙いはLA2028",
+        "layer1": "米クロエ・ダイガート（五輪4度メダル）が、キャリアを始めた古巣ブルーリッジ・トゥエンティ28（UCIコンチネンタル）に2年契約で復帰。キャニオン-SRAMでの6シーズンを経て、創設の地へ“フルサークル”で戻る。",
+        "layer2": "本人は『自分がまだ何を成し遂げられるか、信じるのをやめたことはない』。目標はロサンゼルス2028五輪で、USAサイクリングと組んでロード&トラックを準備する。トップ選手が大型チームを離れ“育成の原点”で再起という物語は、結果速報より“なぜ心が動くか”。度重なる負傷と再起を越えてなお五輪を見据える姿は、冬に腐りがちな市民ライダーの背中も押す。女子・米国の層の厚さも、前出のトタル→女子マネー流入と地続き。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ダイガート古巣復帰）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/ive-never-stopped-believing-in-what-i-can-achieve-four-time-olympic-medalist-chloe-dygert-circles-back-to-us-based-twenty28-squad-to-reignite-career-ahead-of-la-games/",
+            "d": "2026-11-16"
+          }
+        ],
+        "status": "確定＝移籍・契約年数・LA28目標（Cyclingnews）。"
+      }
+    ]
+  },
+  {
     "date": "2026-11-17",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、10本。名門ビアンキが約1億ユーロの債務で『裁判所監督下の再建』へ——大手でも作りすぎが重しになる年。レースは冬の泥が続き、ファンアールトは母国世界選へ逆算で始動、中華ウィンスペースは“エンデュランスC6”で攻めます。",
     "cards": [
