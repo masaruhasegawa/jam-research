@@ -1,5 +1,259 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-11-19",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ログリッチが37歳で『最後の章』をスイスNSNに決め、デブイストは引退レースのヘント6日間で重傷落車、ギリシャのグラベルでは車に当てられフレームを折った男がそれでも優勝。ポッツォヴィーヴォは44歳で19回目のジロへ、ウィンスペースC6は中華完成車の値付けをまた動かし、本日マージーンが中華13速QED2を正式発表します。",
+    "cards": [
+      {
+        "id": "20261119-roglic-nsn-final",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/Bg63Ms7V43coHxqEyo4pj4.jpg",
+        "headline": "【🔥今日の一本・レース／人間ドラマ・11/18】ログリッチ、37歳で『最後の章』をスイスNSNに決める——引退観測を覆し1年契約、通算93勝の“挑戦者”がカラパス&ファンエトフェルトと組む",
+        "layer1": "プリモシュ・ログリッチ（37）が、レッドブル・ボーラを離れて引退かと見られていたが、スイスの新ワールドツアー『NSN（Never Say Never）サイクリング』に1年契約で加入。リチャル・カラパス、レナート・ファンエトフェルトと総合エースを分担する。",
+        "layer2": "本人は『僕は常に挑戦が好きだ。だからここにいる——一緒に挑み、未来に何が待つか見てみたい』。GMカルストロムは『世代を代表する傑出したライダー』と。グランツール5勝・通算93勝は、現役男子ではポガチャルに次ぐ数字だ。2026はブエルタ2位＆欧州TT王者で締めており、“落ちぶれての延命”ではなく『穏やかな最終章』を自分で選んだ格好。マサル向けの読みどころ＝ベテランが大型チームを離れ、身の丈のチームで“もう一度やる”物語は、冬にモチベが落ちる市民ライダーにも刺さる鉄板ネタ。移籍そのものもSNSで拡散したが、順位・契約は媒体で裏取り済み。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ログリッチ→NSN）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/primoz-roglic-will-continue-racing-into-2027-as-new-team-for-final-chapter-is-finally-revealed/",
+            "d": "2026-11-18"
+          },
+          {
+            "t": "Domestique（ログリッチ移籍の背景）",
+            "u": "https://www.domestiquecycling.com/en/news/i-always-like-challenges-primoz-roglic-continues-career-with-surprise-move-to-nsn/",
+            "d": "2026-11-18"
+          }
+        ],
+        "status": "確定＝移籍先・契約年数・戦績・本人コメント（Cyclingnews/Domestique）。"
+      },
+      {
+        "id": "20261119-debuyst-gent-crash",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/5sRrfLLZgSvnqnwyo5QASW.jpg",
+        "headline": "【レース・人間ドラマ／11/18】“花道”が暗転——ヤスパー・デブイスト、引退レースのヘント6日間・初日に重傷落車、鎖骨骨折＆脾臓まわり内出血でICUへ",
+        "layer1": "14年の現役を終えるはずだったヤスパー・デブイストが、母国の名物トラックレース『ヘント6日間』初日、最終種目のチームパーシュートでユレス・ヘステルスと激しく落車。残り3分50周で中止が決まり、担架で搬送された。ロット・インターマルシェは鎖骨骨折＋脾臓周辺の内出血でICU泊と発表。",
+        "layer2": "ヘント6日間は彼にとって『引退の花道』だった。レース前には『良い気持ちで、全力を出して、何より楽しめたら、日曜の僕は幸せ者だ』と語り、『僕はいつもヘントと特別な縁があった。ここで別れを告げるのは“フルサークル”の瞬間だ』と。だが別れは予定より早く、そのままロット・インターマルシェのパフォーマンス・マネージャー職へ移る。相棒ヘステルスは48時間以内に新パートナーを見つけねば大会を去る。マサル目線＝“最後の最後が一番危ない”。年末の混雑した室内・イベント走行でも、気の緩む終盤ほど接触が起きる教訓に。",
+        "sources": [
+          {
+            "t": "Cyclingnews（デブイスト重傷落車）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/gent-six-opening-night-drawn-to-a-close-early-after-heavy-crash-involving-jasper-de-buyst/",
+            "d": "2026-11-18"
+          }
+        ],
+        "status": "確定＝落車・負傷内容・引退/新職（Cyclingnews、チーム発表ベース）。"
+      },
+      {
+        "id": "20261119-malezsewski-gravel-brokenframe",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/TyGs76zQAq9af9SE8z85s7.jpg",
+        "headline": "【レース・人間ドラマ／11/18】“車に当てられ、フレームが折れても1位”——ルカス・マレゼフスキ、ギリシャ初開催のUCIグラベルを折れたチェーンステーで独走V",
+        "layer1": "UCIグラベル・ワールドシリーズのギリシャ戦『グラベル・オブ・マラトン』（初開催・95km/獲得1,300m超・7割がオフロード）で、ルカス・マレゼフスキが2位に3分差をつけ独走優勝。だがレースは序盤から壮絶だった。",
+        "layer2": "約17km地点、最初の登りを終えた直後に一般車がコースに入り彼に接触。衝撃でバッソのドライブ側チェーンステーが破断した。それでも彼は乗り直して走り切り、インスタに『車に当てられ、フレームを折られ、それでも1位でフィニッシュ』と投稿。グレッグ・ファンアーヴェルマートの『GVAゴールド』所属、元MTBerで2019年ジュニア欧州王者・2022年ベルギーU23王者という経歴。マサル向け＝“フレームが折れても走れた”は劇的だが、カーボンの破断は突然くる。グラベル人気で太タイヤ・長距離を攻める客が増えるいま、定期点検とクラック確認の大切さを伝える実話として使える。",
+        "sources": [
+          {
+            "t": "Cyclingnews（マレゼフスキ折れフレーム優勝）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/broken-frame-no-problem-for-lukas-malezsewski-who-wins-uci-gravel-race-after-being-hit-by-a-car/",
+            "d": "2026-11-18"
+          }
+        ],
+        "status": "確定＝優勝・接触・フレーム破断（Cyclingnews、本人SNS＋媒体）。"
+      },
+      {
+        "id": "20261119-reusser-worlds-regret",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00038390-036.jpg",
+        "headline": "【レース・女子／人間ドラマ・11/18】『勝てるのに、なぜ2位・3位を狙う?』——マルレン・ロイサー、世界選ロード4位の悔いと“本当はロードで勝ちたい”本音",
+        "layer1": "TT世界連覇のマルレン・ロイサーが、モントリオール世界選ロードで4位（フォレリングに8秒差）に終わった悔しさを語った。TT防衛からわずか6日後、決定的な登りでボトルを集めていて集団の分断に乗り遅れた、と。",
+        "layer2": "彼女の最も鋭い矛先はニェワドマへ——『勝てる力があるのに、なぜ人は2位・3位を狙い続けるのか理解できない』。ただ『表彰台を守りたかったのかも』とも。TTの成功（世界2連覇＋欧州TT最多5勝）が“ロードのロイサー”を覆い隠してきたと言い、『個人的な野心はロードレースで勝つこと』と明かす。2026は2度の重大落車と不調、ツール・ド・フランス・ファムで3位から14位へ転落した一方、ドワーズ・ドール・フラーンデレン制覇とツール・ド・スイス3勝目も。誇りと悔しさが同居する一年。マサル向け＝結果速報でなく“勝ち切る難しさ”の物語。女子トップ選手の本音は、伸び盛りの女性顧客層にも響く話題。",
+        "sources": [
+          {
+            "t": "Domestique（ロイサー世界選の悔い）",
+            "u": "https://www.domestiquecycling.com/en/news/i-dont-understand-why-people-keep-going-for-second-or-third-reusser-on-worlds-regrets-and-the-road-ambitions-behind-the-time-trial-titles/",
+            "d": "2026-11-18"
+          }
+        ],
+        "status": "確定＝世界選順位・本人コメント・2026戦績（Domestique）。"
+      },
+      {
+        "id": "20261119-ccg-reform",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039189-182.jpg",
+        "headline": "【経営メモ・市場／業界の権力構造・11/18】プロ自転車“団結”へ——24チームが新団体『コレクティブ・サイクリング・グループ』の株主に、UCIが潰した『One Cycling』の再挑戦",
+        "layer1": "英国拠点のCCG（コレクティブ・サイクリング・グループ）に、リドル・トレック、ヴィスマ、デカトロン、EF、NSN、ピナレロ-Q36.5ら24チームが“創設株主”として参加。UCIが2025年に止めた『One Cycling』構想を、チーム主導のビジネス団体として作り直す動きだ。",
+        "layer2": "狙いは、商業権・データ・メディア資産をチーム側に束ね、グッズ・ホスピタリティ・ファン体験で新収益を作ること。エスケープ報道では5つのシード投資家が計2,500万ユーロを拠出、グレンコアのグラゼンバーグが推進役とされる。カンチェラーラは『F1のようなコンコルド協定を自転車にも』。一方UAE・ジェイコ・グルパマFDJはUCI側につき反対＝業界が二分。UCIは12月のワールドツアー・セミナーで独自改革案（予算キャップ・カレンダー整理・女子拡大・放送近代化）を示す。マサル向けの読み＝プロの“稼ぎ方”が変われば、スポンサー撤退・チーム消滅・機材供給の流動化が加速し、店頭で扱うブランドの顔ぶれにも波及する。業界の地殻変動として定点観測を。",
+        "sources": [
+          {
+            "t": "Domestique（CCG発足・24チーム）",
+            "u": "https://www.domestiquecycling.com/en/news/collective-cycling-group-outlines-plan-to-reform-pro-cycling-with-24-teams-signed-up-to-new-project/",
+            "d": "2026-11-18"
+          }
+        ],
+        "status": "確定＝団体発足・参加チーム・資金規模（Domestique/Escape）。曖昧＝具体的な新収益モデルは今後詰め（要続報）。"
+      },
+      {
+        "id": "20261119-totalenergies-ineos-out",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/me6W6hZivfZyobav7KCLFM.jpg",
+        "headline": "【経営メモ・市場／スポンサーの潮目・11/18】トタルエネルジーがネットカンパニー・イネオスを離脱——2027は女子へ資金を移す、名門が“共同タイトル探し”に逆戻り",
+        "layer1": "トタルエネルジーが、2026年限りでネットカンパニー・イネオス（男子）のスポンサーを継続しないと確定。拡大出資の交渉も報じられていたが、資金はFDJユナイテッド-スエズ（女子）の筆頭スポンサーへ移す。",
+        "layer2": "イネオスはネットカンパニーが今季5年契約の筆頭に就いたばかりだが、CCO（最高商業責任者）は『第二の共同タイトルを市場で探しに戻る』と発言＝その探索の重みが増した。背景にはラトクリフ氏のイネオス帝国全体の財務逼迫も。前日までに本タイムラインで追ってきた“トタル→女子FDJ”の裏面＝男子側の穴が、ここで数字として表面化した形。マサル向けの経営メモ＝大手エネルギー資本でも「乗り換え」は一瞬。スポンサー依存のビジネスは土台が揺れやすく、店の仕入れ・取扱ブランド選びでも“親会社・資本の体力”を見る教材になる。",
+        "sources": [
+          {
+            "t": "Cyclingnews（トタル→イネオス離脱）",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/netcompany-ineos-lose-significant-sponsor-as-totalenergies-confirm-they-will-not-continue-in-2027/",
+            "d": "2026-11-18"
+          }
+        ],
+        "status": "確定＝離脱・女子への移行・チームのコメント（Cyclingnews、トタル声明ベース）。"
+      },
+      {
+        "id": "20261119-winspace-c6-price",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://www.cyclistshub.com/wp-content/uploads/2026/11/Winspace-C6-Introduced.avif",
+        "headline": "【経営メモ・市場／中華完成車の値付け・11/18】ウィンスペースC6の全価格が公開——40mmタイヤ対応エンデュランスが『フレーム$1,950／105完成車$3,999〜』、中華“完成車”の基準をまた動かす",
+        "layer1": "ウィンスペースが新エンデュランス『C6』の全スペックと価格を11/18に公開。40mmタイヤ対応（前後）、フレーム重量850g±30g（Mサイズ）。価格はフレームセット$1,950（€1,799）、105完成車$3,999〜、105 Di2 $4,499、アルテDi2 $5,599、デュラDi2 $6,699（いずれもLúnカーボンホイール・HYPER一体コックピット込み）。",
+        "layer2": "ここが経営メモの肝＝“中華カーボン完成車”の値付け基準が可視化された。アルテDi2＋カーボンホイールのフルバイクが$5,599（約85万円前後・送料別）という水準は、国内で同等グレードの完成車を売る店にとって無視できない“比較の床”。しかもC6はダウンチューブ収納・隠しケーブル・エンデュランス設計と“快適×性能”を謳い、単なる安売りではなく付加価値で攻めてくる。マサル向け＝うち（8LIEN/CRW/GOOSYNN系）の提案でも、「海外直販の完成車価格」を前提に、組み付け精度・保証窓口・日本語サポート・アフターという“価格に乗らない価値”で差を説明する必要がある。納期25〜35日・アジア外は送料+$100という“直販の手間”も、店の強みを語る材料。",
+        "sources": [
+          {
+            "t": "CyclistsHub（Winspace C6 全スペック/価格）",
+            "u": "https://www.cyclistshub.com/winspace-c6-introduced/",
+            "d": "2026-11-18"
+          },
+          {
+            "t": "BikeRadar（Winspace C6ローンチ）",
+            "u": "https://www.bikeradar.com/news/2026-winspace-c6",
+            "d": "2026-11-18"
+          }
+        ],
+        "status": "確定＝価格・重量・タイヤクリアランス・装備（CyclistsHub/BikeRadar）。"
+      },
+      {
+        "id": "20261119-pozzovivo-19th-giro",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00038881-109.jpg",
+        "headline": "【トレンド・人間ドラマ／11/18】走行110万km・手術20回・そして“19回目のジロ”へ——ドメニコ・ポッツォヴィーヴォ、まもなく44歳でまだ現役を続ける",
+        "layer1": "ドメニコ・ポッツォヴィーヴォが2027もソリューション・テック・ニッポ・レイルで走ると明言。11/30に44歳になる彼の目標は、自身の記録を更新する『19回目のジロ・デ・イタリア出走』。2024に一度引退し、父になり、2026に復帰した“戻ってきた男”だ。",
+        "layer2": "2005年プロ化の22年キャリアで、練習とレースの走行は約110万km。落車・負傷での手術は20回に及び、独特だが効率的なフォームを生んだ。いまはレースが緊迫すると“引く”＝結果を捨ててでもリスクを取らない。大学の学位は3つ（経営経済・スポーツ科学・栄養学）、2026ツールではスイスTVの解説も。グランツール出走は18回でパニッツァと並び、19回目なら単独記録。マサル向け＝“速さ”より“続けること”の物語。そして彼は落車増の理由を『高い強度、若手の経験不足、機材の変化、最初から最後まで速いレース』と分析——これは次の初中級カードの導入にもなる。",
+        "sources": [
+          {
+            "t": "Domestique（ポッツォヴィーヴォ現役続行）",
+            "u": "https://www.domestiquecycling.com/en/news/a-million-kilometres-20-operations-and-a-19th-giro-ditalia-domenico-pozzovivo-wants-to-race-on-in-2027/",
+            "d": "2026-11-18"
+          }
+        ],
+        "status": "確定＝続行表明・年齢・戦績・本人コメント（Domestique）。"
+      },
+      {
+        "id": "20261119-2027-storylines",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/UAE-Team-Emirates-XRG/CORVOS_00039200-684.jpg",
+        "headline": "【トレンド・2027展望／11/18】“ポガチャルの歴史への挑戦・次世代・生き残り”——来季ワールドツアーの見どころ、落車明けの王者と20歳対決、12/8の去就",
+        "layer1": "ドメスティークが2027男子ワールドツアーの注目ストーリーを整理。(1)ポガチャルの復活、(2)セイシャス対デルトロの“次世代対決”、(3)弱小チームの生き残り——という三本柱で、冬のうちに輪郭がはっきりしてくる。",
+        "layer2": "(1)ポガチャルはブエルタ第8ステージの落車で鎖骨骨折・脳震盪・椎骨3本骨折。『元の強さと“リスクを取る姿勢”まで戻るか』が最大の問い。2027目標はツール・世界選・ブエルタで、ツール6勝目なら単独記録。(2)セイシャス（20）とデルトロ（22）は2026に何度も対戦、スプリントで速いデルトロを前にセイシャスは“ゴール前までに振り切る”形を迫られる（セイシャスはロンバルディアで初モニュメント制覇）。(3)ピクニック・ポストNLは1年ライセンスのみで12/8のUCI登録判断が焦点、ピナレロ-Q36.5が繰り上げ待機。グルパマFDJ・NSN・ロットは2026-28ポイント争いで降格圏に近い。マサル向け＝レース枠の“今季これを追え”の地図。来店客との冬の会話ネタにそのまま使える。",
+        "sources": [
+          {
+            "t": "Domestique（2027の10ストーリー）",
+            "u": "https://www.domestiquecycling.com/en/features/pogacars-pursuit-of-history-cyclings-next-generation-and-the-fight-for-survival-10-storylines-to-follow-in-the-mens-worldtour-in-2027/",
+            "d": "2026-11-18"
+          }
+        ],
+        "status": "確定＝各ストーリーの事実関係（Domestique）。曖昧＝ポガチャルの“復調度”は未知数（見通し）。"
+      },
+      {
+        "id": "20261119-voice-control-computers",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/PM9D75KzCbPNayvGW8fYGh.png",
+        "headline": "【パーツ・機材最前線／11/12】サイコンが“声で操作”する時代へ——コロスDura 2ソーラーとガーミンEdgeが音声コマンド対応、走りながら画面を触らない操作が現実に",
+        "layer1": "サイクリング・ウィークリーの『今月の機材（11月）』が、サイコンの音声操作化を取り上げた。コロスのDura 2ソーラー（10月発売）とガーミンEdge 1060が音声コマンドに対応し、手を離さず・画面を見ずに操作できるようになってきた。",
+        "layer2": "できることの差＝コロスは心拍アラート・ページ切替・リマインダー・走行後メモに対応。ガーミンはリアルタイム数値の読み上げ・画面輝度・地図/音楽操作・ルート要求・“穴ぼこ報告”まで。同記事は他に、中華パルダスがトタルエネルジー系チームに複数年供給（キューブに代わり、プロ2例目の中華直販ブランド）、ニューメンG48の“30.5インチ”グラベル、バーレーンがビアンキ→ファクターへ、も紹介。マサル向け＝サイコンは“数値を見る箱”から“声で使う相棒”へ。安全（下ハンで画面を触らない）と絡めて売ると初中級に刺さる。中華がプロ機材に食い込む流れ（パルダス/XDS）も、うちの提案の追い風として押さえておきたい。",
+        "sources": [
+          {
+            "t": "Cycling Weekly（今月の機材・11月）",
+            "u": "https://www.cyclingweekly.com/products/more-chinese-bikes-in-pro-cycling-another-new-wheel-size-and-voice-controlled-cycling-computers-tech-of-the-month-november",
+            "d": "2026-11-12"
+          }
+        ],
+        "status": "確定＝音声対応機種・機能・掲載トピック（Cycling Weekly）。"
+      },
+      {
+        "id": "20261119-13speed-beginner-qed2",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://www.cyclistshub.com/wp-content/uploads/2026/11/Magene-QED2-Groupset-Preview.avif",
+        "headline": "【初中級・買い方／Xでも話題・本日マージーンQED2発表】13速はもう中華から来る——『あなたの次の一台、何速?』に先回りで答える",
+        "layer1": "本日11/19、中華マージーンが完全ワイヤレスの“ネイティブ2×13速”グループセット『QED2』を正式発表する（価格・重量は発表後に判明）。SNSでも『13速っている? いらない?』が定番の論点になりつつあり、初中級の買い替え相談で必ず出る話題だ。",
+        "layer2": "いまの“13速の地図”を整理＝SRAMは既にRed/Rival系で13速、カンパはスーパーレコード/レコード13、Rotorは油圧1×13、そしてシマノも次期デュラエースR9300が13速濃厚（2027観測）。そこへ中華マージーンが“安い13速”で加わる構図。初中級への先回りの答え＝(1)段数が増える最大の利点は「ギアの繋がりが滑らか」で、脚に合うケイデンスを保ちやすいこと。(2)ただし今の11/12速でも実用上まったく困らない。(3)13速は“互換の縛り”と“コスト”がまだ落ち着いていない＝変速機・スプロケ・チェーンが新規格になりがちで、今あわてて飛びつく必要はない。(4)『安くなってから・部品供給が安定してから』で十分間に合う。中華カーボンの“価格の攻めどころ”と同じく、13速も数年で大衆化が進む見込み——だから“今日いる?”には落ち着いて「まだ急がなくていい」と言える。",
+        "sources": [
+          {
+            "t": "CyclistsHub（Magene QED2プレビュー・本日発表）",
+            "u": "https://www.cyclistshub.com/magene-qed2-introduced/",
+            "d": "2026-11-06"
+          },
+          {
+            "t": "Cyclingnews（Rotor 1x13の比較参考）",
+            "u": "https://www.cyclingnews.com/news/rotor-releases-1x13-hydraulic-groupset",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝発表日11/19・2×13完全ワイヤレス（ティザー）・各社13速の現状。曖昧＝QED2の価格/重量/互換は本日発表待ち（要続報）。※Xの『13速いる?』は話題の空気として言及、断定しない。"
+      },
+      {
+        "id": "20261119-crash-safety-beginner",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/xnmySmWs8jLXPVtYV4RmRd.jpg",
+        "headline": "【初中級・自己防衛／ポッツォヴィーヴォの落車分析に乗せて】“なぜ落車が増えた?”を逆手に——市民ライダーが集団・イベントで身を守る3点",
+        "layer1": "44歳のポッツォヴィーヴォが、プロで落車が増えた理由を『高い強度、若手の経験不足、機材の変化、最初から最後まで速いレース』と分析した（11/18）。これは市民の集団走行・年末イベントにもそのまま通じる話だ。",
+        "layer2": "初中級が“今日からできる”身の守り方3点＝(1)終盤・ゴール前ほど危ない。デブイストが引退レース初日の最終種目で重傷落車したように、気の緩む・混み合う終盤こそ車間と肘の余裕を残す。(2)“機材の変化”に飲まれない。ディスク・ワイド化・エアロで速度域が上がった今、下りや集団では「止まれる速度」で入る——軽さや空力より“接地と制動”を優先。(3)前だけでなく“斜め後ろ”を読む。プロでもUCIが2026年7月から『直線フィニッシュは最低200m』と安全策を強化したほど、位置取りと見通しが事故を分ける。混雑イベントでは追い抜きの声かけ・ラインの予告で“予測可能”に動くのが最大の防御。派手な機材より、落ち着いた判断が一番速く家に帰る近道だと伝えたい。",
+        "sources": [
+          {
+            "t": "Domestique（ポッツォヴィーヴォの落車分析）",
+            "u": "https://www.domestiquecycling.com/en/news/a-million-kilometres-20-operations-and-a-19th-giro-ditalia-domenico-pozzovivo-wants-to-race-on-in-2027/",
+            "d": "2026-11-18"
+          },
+          {
+            "t": "Cyclingnews（UCI“直線200m”安全策の背景）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/new-uci-rules-require-finishing-straights-of-at-least-200-meters-in-bunch-sprints/",
+            "d": "2026-06-09"
+          }
+        ],
+        "status": "確定＝ポッツォヴィーヴォの分析・UCI規則（Domestique/Cyclingnews）。初中級向けの実務アドバイスは一般論として整理。"
+      }
+    ]
+  },
+  {
     "date": "2026-11-18",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ビーチレースの最終コーナーで王手が消える“小突き合い”が拡散、ヴァンアールトは『自宅を調べられた』情報漏えいで提訴、中華XDSはアスタナ撤退をちらつかせ、ラファがワールドツアー復帰。明日はマージーンQED2が中華13速を正式発表します。",
     "cards": [
