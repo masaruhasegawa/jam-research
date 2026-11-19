@@ -1,5 +1,244 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-11-20",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。アルメイダの『2週間の膝痛＝割れたサドルクランプ』が刺さります——プロでもネジ1本。ほかキューブのWT復帰(ログリッチの新天地NSN)、MAAPがジロのマリアローザを奪取、手頃カーボン『エアリクス』、マージーンQED2発表、そして11月は盗難防止強化月間。今日も“今”を底まで。",
+    "cards": [
+      {
+        "id": "20261120-almeida-saddleclamp",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039317-169.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C141",
+        "headline": "【🔥今日の一本・レース／人間ドラマ・11/19】ツール総合3位の実力者アルメイダ、2週間の膝痛の正体は『割れたサドルクランプ』だった——「こんなに馬鹿げた話はない」、満身創痍の2026を越えて2027へ",
+        "layer1": "UAEのグランツール副将ジョアン・アルメイダが、約2週間悩まされた膝の痛みの原因が「破損したサドルクランプ」だったとインスタで告白。壊れた金具の写真を添え『たった これのせいで2週間も膝痛。馬鹿げてる』と自嘲した。11/19報。",
+        "layer2": "背景には“厄年”の2026がある——ウイルス感染・血液検査の異常値でジロ欠場、ツール・ド・ポローニュは落車リタイア、ブエルタはポガチャルを支えて総合91位、世界選で閉幕。UAEは12月中旬にベニドルムで合宿を張り、アルメイダはそこから2027の“再起の土台”を作る。教訓は明快で、プロでも『ネジ1本』が走りを壊す。",
+        "sources": [
+          {
+            "t": "Domestique",
+            "u": "https://www.domestiquecycling.com/en/news/joao-almeida-discovers-unusual-cause-of-two-weeks-of-knee-pain-so-silly/",
+            "d": "2026-11-19"
+          }
+        ],
+        "status": "確定＝原因はサドルクランプ破損・本人のインスタ投稿／2027の具体日程は未定"
+      },
+      {
+        "id": "20261120-cx-lokeren-beringen",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2025/CORVOS_00038506-089.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C141",
+        "headline": "【レース・冬の泥／今週末・11/21-22】泥の連戦は続く——金曜ロケレン『ラペンクロス』(HGクロス)→日曜ベリンゲン『Be-Mineクロス』(X2O)、ハンメ覇者ナイスに挑むのは誰か",
+        "layer1": "W杯開幕(11/27オストラバ)前の“つなぎ”の2連戦。11/21にロケレンの『ラペンクロス』(HGクロス)、11/22にベリンゲンの炭鉱跡『Be-Mineクロス』(X2Oトロフェー)。直近はナイスがハンメ(11/15)、ファンデピュッテがメルクスプラス(11/14)を制し、女子はブランドが連勝街道。",
+        "layer2": "ビッグ3の空席は続く——ファンアールトの始動はビスマの12/19合宿後、ファンデルポールは1月の第1子誕生を控えなお“白紙”。つまり主役はナイス＆ファントゥーレンハウト＆ファンデピュッテの地元勢で、女子はブランドの『連続表彰台』記録がどこまで伸びるか。マサル目線では“看板不在でも客は入るか”という興行の試金石でもある。",
+        "sources": [
+          {
+            "t": "Domestique(CX日程/直近結果)",
+            "u": "https://www.domestiquecycling.com/en/news/26-27-cyclocross-season-overview-schedule-and-results/",
+            "d": "2026-11-19"
+          }
+        ],
+        "status": "確定＝11/21ロケレン・11/22ベリンゲンの開催／エリート男子の最終出走者は前日発表、VvAは今週末不出走が濃厚"
+      },
+      {
+        "id": "20261120-cube-nsn-2027",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/NSN_CUBE_LAUNCH_001-web-1-1626x846.jpg?width=2400&height=1260&quality=75&crop=1611%2C846%2C7%2C0",
+        "headline": "【経営メモ・市場／機材サプライヤーの潮目・11/19】キューブがワールドツアーに復帰——ログリッチの新天地NSNが『スコット→キューブ』を正式発表、トタル去就の玉突きで独ブランドが昇格",
+        "layer1": "NSNサイクリング(旧イスラエル系、ログリッチ加入で話題)が2027の機材を、2026年のスコットからドイツ『キューブ』へ切り替えると正式発表。ロードはLitening C:68X AERO/AIR、TTはAerium C:68X、ホイールはニューメン、変速はスラム、サドルはセライタリア。",
+        "layer2": "これはトタルエネルジー(2026はキューブ供給)が2027に中華パルダスへ動いた“玉突き”でもある——キューブはWTの受け皿を失い、NSNで復帰を果たした格好。キューブは2024にギルマイがツール3勝＋緑ジャージを獲った実績ブランドで、店頭トークとしては『プロが乗る独ブランドが戻った』が使える。中国パルダス化と欧州ブランド復帰が同時進行する2027機材地図の一片。",
+        "sources": [
+          {
+            "t": "Domestique",
+            "u": "https://www.domestiquecycling.com/en/news/cube-bikes-return-to-worldtour-in-2027-as-nsn-switch-from-scott/",
+            "d": "2026-11-19"
+          }
+        ],
+        "status": "確定＝NSNが公式発表／スコット側の次の供給先は本稿では未言及"
+      },
+      {
+        "id": "20261120-aerycs-aerowide",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://media.delius-klasing.de/dpr_auto,fl_progressive,f_jpg,c_fill,g_face:center,h_675,w_1200/q_auto:eco/tour/aero-wide-01_fbec16a39a94a1965cd897792105d633",
+        "headline": "【ホイール・新製品／手頃カーボンの基準・11/16】エアリクス『Aero Wide/S』が内寸25mmで登場——52mmで1,215g・€1,499、『1,500ユーロ以下でこの軽さは他にない』",
+        "layer1": "独TOURが11/16に報じた新興エアリクスのディスクカーボン。無印Aero Wideが€1,099(1,385〜1,475g)、上位Sが€1,499(1,165〜1,255g)。いずれもリム高42/52/62mm・内寸25mm、タイヤは約29〜35mm対応、チューブレステープ施工済み＋ホイールバッグ同梱。",
+        "layer2": "注目は“値付け”。SはDT240ハブ＋カーボンスポーク(Alpina Carbolite、+€200)で52mm・1,215gと、中華直販($1,000前後)と欧州大手($3,000級)の“あいだ”に食い込む。内寸25mmは太タイヤ前提の最新設計で、28〜32cをふっくら使いたい層に刺さる。マサル目線では『中華カーボンの“安さ”に欧州新興が価格で寄せてきた』構図＝うちの8LIEN/CRW/GOOSYNNは“実測重量・リム内寸・保証窓口”の見せ方がより効く局面。",
+        "sources": [
+          {
+            "t": "TOUR (tour-magazin)",
+            "u": "https://www.tour-magazin.de/en/buying-advice/components/impellers/aerycs-aero-wide-and-aero-wide-s-two-affordable-carbon-wheelsets-with-a-25-millimetre-inner-width/",
+            "d": "2026-11-16"
+          }
+        ],
+        "status": "確定＝価格・公称重量・内寸はTOUR掲載値／外寸・フック有無は未記載、実測レビューは未"
+      },
+      {
+        "id": "20261120-magene-qed2-launch",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://www.cyclistshub.com/wp-content/uploads/2026/11/Magene-QED2-Groupset-Preview.avif",
+        "headline": "【パーツ・機材最前線／Xでも話題・11/19発表】中華マージーン『QED2』がついに発表——完全ワイヤレスの“ネイティブ2×13速”、ただし公称価格・重量はまだ小出し",
+        "layer1": "昨日の予告どおり、マージーンが電動2本目『QED2』を11/19に発表。ウリは「完全ワイヤレス(初代QEDの有線を脱却)」と「ネイティブ2×13速」。13速がまた一つ中国から現実になった。",
+        "layer2": "ただし英語メディアでも正式な公称重量・価格はまだ出そろわず(初代QEDは約¥3,099〜¥3,999相当/リム800g・ディスク1,110gが比較基準)。海外フォーラムでは『52/36T・13-33Tワンピースカセット・RMB7,000〜9,000』との噂が出ているが未確認＝鵜呑み厳禁。シマノ次期デュラエース(R9300)13速観測と並び、2027は『13速、どこから買う?』が初中級の論点に。",
+        "sources": [
+          {
+            "t": "CyclistsHub",
+            "u": "https://www.cyclistshub.com/magene-qed2-introduced/",
+            "d": "2026-11-19"
+          }
+        ],
+        "status": "曖昧＝2×13・完全ワイヤレスは確定／価格・公称重量・カセット詳細は未確定(噂ベース、※要裏取り)"
+      },
+      {
+        "id": "20261120-maap-giro-jersey",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/MAAP.webp?width=2400&height=1260&format=jpg&quality=75&crop=1200%2C630%2C0%2C85",
+        "headline": "【トレンド・業界／アパレルの潮目・11/19】豪『MAAP』がカステリに代わりジロのマリアローザを手がける——2027からRCS全戦の公式ウェアへ、ツールの黄色はカステリが継続",
+        "layer1": "オーストラリアの新興アパレルMAAPが、RCSスポーツ(ジロ・ミラノ〜サンレモ・ストラーデビアンケ・ティレーノ〜アドリアティコ・女子ジロ等)の公式レースウェアサプライヤーに就任。2027からマリアローザ(ジロ総合首位)はじめ各賞ジャージを新デザインで手がける複数年契約。",
+        "layer2": "置き換えられるのは長年のカステリ——ただしカステリはASOと組みツール・ド・フランスの黄色ジャージ製造は継続する。ラファのWT復帰(レッドブル)に続く“アパレル勢力図”の塗り替えで、D2C発のブランドが象徴的ジャージに手を伸ばす時代。マサル的には、ウェアもホイール同様『新興が既存の“格”に価格と発信力で挑む』構図が見える一件。",
+        "sources": [
+          {
+            "t": "Domestique",
+            "u": "https://www.domestiquecycling.com/en/news/maap-promises-a-new-visual-expression-as-giro-ditalia-maglia-rosa-designer/",
+            "d": "2026-11-19"
+          }
+        ],
+        "status": "確定＝MAAPがRCS公式ウェアに就任(2027〜)／契約年数は未開示"
+      },
+      {
+        "id": "20261120-movistar-wonderkids",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/Live/CORVOS_00039401-087.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C141",
+        "headline": "【トレンド・移籍／スペインの新鋭争奪・11/19】モビスターが地元の逸材『アルバレス＆ノバル』獲得を逃す——ウンスエ「大型補強はない」、2027はE.マスを“勝てる4〜5人”に戻す勝負",
+        "layer1": "モビスターのボス、ウンスエがマルカのイベントで、スペインの新鋭エクトル・アルバレスとベンハミン・ノバルの獲得を“逃した”と認めた。2027は補強枠2つを残すが「大きな新加入は考えにくい、今の顔ぶれで開幕する」。",
+        "layer2": "代わりに賭けるのはエンリク・マスの“復調維持”——2026終盤の走りを保ち『グランツールを勝てる4〜5人』に戻せるか。女子のパウラ・ブラシは「ツール・ド・フランス・ファムの本命扱いは時期尚早、数年後に狙える器」と慎重。スペイン国内の才能を地元が獲りきれない=育成と資金の綱引きが透ける一件で、移籍市場はまだ動いている。",
+        "sources": [
+          {
+            "t": "Domestique",
+            "u": "https://www.domestiquecycling.com/en/news/movistar-miss-out-on-spanish-wonderkids-alvarez-and-noval-as-unzue-reveals-2027-ambitions/",
+            "d": "2026-11-19"
+          }
+        ],
+        "status": "確定＝ウンスエ本人がアルバレス/ノバル獲得失敗と2027方針を発言／両者の移籍先は本稿では未記載"
+      },
+      {
+        "id": "20261120-bike-theft-month",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/sRic5RF8vCuURwqKDPFwhH-2500-80.jpg",
+        "headline": "【経営メモ・市場／国内・Xでも定番・11月は強化月間】『自転車盗難防止強化月間』と11/26“ツーロックの日”——プロ界もGironaで高級車盗難が続発、店は鍵・GPS・保険の商機",
+        "layer1": "11月は各自治体で自転車の安全利用＆盗難防止の強調月間。11/26は『ツーロックの日(鍵は2つ)』。国内でXでも盗難・晒しは定期的に燃えるテーマで、年末の高額車購入期と重なる。",
+        "layer2": "“対岸の火事ではない”裏取りとして、プロ界ではGironaでガルシア・コルティナのキャニオン・エアロードがカフェ停車中に盗まれ、前月にはG.トーマスのピナレロDogma、別件でイスラエル系チームの機材17台がスペインで一括盗難——高級ロードは世界的に標的。マサル的には、ブラックフライデーで数十万円級を売る“今”こそ、店が『2ロック＋GPSトラッカー＋動産保険』をセット提案できるか＝客単価と信頼を同時に上げる好機。",
+        "sources": [
+          {
+            "t": "Cyclingnews(García Cortina盗難)",
+            "u": "https://www.cyclingnews.com/news/garcia-cortinas-canyon-aeroad-cfr-stolen-in-girona",
+            "d": "2026-11"
+          },
+          {
+            "t": "Cycling Weekly(チーム機材17台盗難)",
+            "u": "https://www.cyclingweekly.com/news/thieves-steal-17-factor-bikes-from-israel-cycling-academy-training-camp-in-spain",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝11月は盗難防止強化月間・11/26ツーロックの日／プロ盗難の個別発生日は報道で前後、※要裏取り"
+      },
+      {
+        "id": "20261120-romandie-saved",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/UAE-Team-Emirates-XRG/CORVOS_00038925-046.jpg?width=832&height=468&format=jpg&crop=2000%2C1125%2C0%2C104",
+        "headline": "【経営メモ・市場／レース経済・11/19】存続危機のツール・ド・ロマンディが新スポンサーで“救済”——『Primeo Energie』が2027-28の男女メインに、2026は女子中止・4チーム欠場の瀬戸際だった",
+        "layer1": "財政難で揺れたスイスのWTステージレース、ツール・ド・ロマンディが新スポンサーを確保。スイスの電力Primeo Energieが2027-28の男女両レースのメイン(リーダージャージに冠)に就く。11/18にラ・ショー＝ド＝フォンで発表された。",
+        "layer2": "どれほど瀬戸際だったか——2026はメイン不在で男子に4つのWTチーム(アルペシン、デカトロン、ロット・インテルマルシェ、ウノエックス)が欠場し、女子レースは中止に追い込まれていた。2027は男子4/27-5/2、女子9/10-12で復活。トタルの女子シフトやCCG設立と同じく、“お金の出入り”がレースの生死を直接左右する時代。地味だが、WT経済の体温を測る一件。",
+        "sources": [
+          {
+            "t": "Domestique",
+            "u": "https://www.domestiquecycling.com/en/news/tour-de-romandie-confirms-new-sponsors-after-financial-worries-threatened-races-future/",
+            "d": "2026-11-19"
+          }
+        ],
+        "status": "確定＝Primeo Energieが2027-28メイン・2027日程も発表／長期の収支安定は未知数"
+      },
+      {
+        "id": "20261120-cancellara-delie",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00038944-410.jpg?width=832&height=468&format=jpg&crop=2000%2C1125%2C0%2C104",
+        "headline": "【トレンド・人間ドラマ／11/19】カンチェラーラ『僕が真っ先に彼を守る』——チューダー移籍のデ・リーを“ベルギーの重圧”から解放、グローブス＆トレンティンと分担しエースの孤独を外す",
+        "layer1": "チューダーのオーナー兼象徴カンチェラーラが、ロット・インテルマルシェから移籍するアルノー・デ・リーについて『僕が真っ先に彼を守る』と宣言。スイスのチームで“ベルギーの過剰な期待”から距離を置かせ、本来の力を取り戻させる狙い。",
+        "layer2": "デ・リーは母国での「唯一のエース」という重圧に押し潰されかけていた——チューダーはグローブス、トレンティン、キュングと勝てる駒を並べ、デ・リーに単独エースを背負わせない。カンチェラーラの構想は毎年コツコツ積み、2029のWTライセンス枠を狙う長期戦。選手を“結果”より『楽しむ・健康でいる』に戻す言葉が、潰れかけた才能にどう効くか。",
+        "sources": [
+          {
+            "t": "Domestique",
+            "u": "https://www.domestiquecycling.com/en/news/ill-be-the-first-to-protect-him-cancellara-backs-de-lie-to-hit-his-stride-at-tudor/",
+            "d": "2026-11-19"
+          }
+        ],
+        "status": "確定＝カンチェラーラの発言とチューダー2027補強(デ・リー/グローブス/デンツ加入)／成績面の結果は未知"
+      },
+      {
+        "id": "20261120-pope-leo-cycling",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00037987-103.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C141",
+        "headline": "【トレンド・自転車文化／11/19】ツールの“レジェンド”と世界王者たちがローマ教皇レオ14世に招かれる——メルクス、フォレリング、セイシャスら、11/23バチカンへ",
+        "layer1": "ツール・ド・フランスの歴代レジェンドと現役世界王者らが、11/23にバチカンでローマ教皇レオ14世に謁見するよう招かれた。顔ぶれにはエディ・メルクス、デミ・フォレリング、19歳ポール・セイシャスらの名が挙がる。",
+        "layer2": "自転車とカトリックの縁は深く、教皇庁は過去にもサイクリストを迎えてきた——スポーツを通じた“平和・健康”のメッセージ発信が狙い。オフシーズンらしい一枚で、競技の外に広がる自転車の文化的な立ち位置を映す。マサル的には“ショート映え”する小ネタとして使える。",
+        "sources": [
+          {
+            "t": "Domestique",
+            "u": "https://www.domestiquecycling.com/en/news/tour-de-france-legends-and-world-champions-invited-to-meet-pope-leo/",
+            "d": "2026-11-19"
+          }
+        ],
+        "status": "確定＝11/23謁見の招待が報じられた／当日の出席者最終確定は今後"
+      },
+      {
+        "id": "20261120-beginner-winter-check",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039317-169.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C141",
+        "headline": "【初中級・自己点検／アルメイダの“割れたクランプ”に乗せて】プロでも『ネジ1本』で2週間の膝痛——冬のうちに外さない“増し締め＆ポジション”3点",
+        "layer1": "UAEのアルメイダですら、割れたサドルクランプのせいで2週間も膝を痛めた。初中級こそ、原因不明の痛み・異音の多くは“機材の小さなズレ”＝冬のオフは点検の好機。",
+        "layer2": "外さない3点。(1)サドル高・前後・クランプの増し締め——必ず規定トルクで、クランプやレールのガタは膝痛・異音の定番。(2)クリート位置——冬に靴を替えたら左右差が出やすい、母趾球基準で再調整。(3)ボルト総点検——ステム・ボトルケージ・ディスク台座をトルクレンチで。カーボン部はトルク超過が“割れ”の原因に。『痛い＝体』と思い込む前に、まず機材を疑う——これだけで冬明けが変わる。普遍ネタだが、きっかけは今日のアルメイダ。",
+        "sources": [
+          {
+            "t": "Domestique(きっかけ・アルメイダ)",
+            "u": "https://www.domestiquecycling.com/en/news/joao-almeida-discovers-unusual-cause-of-two-weeks-of-knee-pain-so-silly/",
+            "d": "2026-11-19"
+          }
+        ],
+        "status": "確定＝一般的な整備の鉄則／個別のトルク値は各パーツメーカー指定に従う"
+      }
+    ]
+  },
+  {
     "date": "2026-11-19",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。ログリッチが37歳で『最後の章』をスイスNSNに決め、デブイストは引退レースのヘント6日間で重傷落車、ギリシャのグラベルでは車に当てられフレームを折った男がそれでも優勝。ポッツォヴィーヴォは44歳で19回目のジロへ、ウィンスペースC6は中華完成車の値付けをまた動かし、本日マージーンが中華13速QED2を正式発表します。",
     "cards": [
