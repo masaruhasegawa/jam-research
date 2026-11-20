@@ -1,5 +1,225 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-11-21",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。レースは“不屈の帰還”——鉄動脈の手術から甦ったファンアンローイが来週クロス復帰、一方で欧州は選手の『安全ストライキ』が熱を帯びています。年末のインドア商戦と中華直販の値付けも底まで潜りました。",
+    "cards": [
+      {
+        "id": "20261121-vananrooij-cx-debut",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/kmZSH8nhQgJaXq4qzH4H7k.jpg",
+        "headline": "【🔥今日の一本・レース／人間ドラマ・11/20発】『鉄動脈』の手術から甦った女王、シリン・ファンアンローイが来週クロス復帰——移籍先キャニオン-SRAMでバックステッドと並び、11/27オストラバW杯が新章の初戦",
+        "layer1": "11/20、キャニオン-SRAMがシリン・ファンアンローイ（元U23クロス世界王者）のチーム初戦を発表。11/27のUCIシクロクロスW杯オストラバ（チェコ）で、新加入のゾーイ・バックステッドと共にスタートを切る。リドル-トレックとの契約を2カ月早く終え、11/1から新天地へ。",
+        "layer2": "彼女の物語の核心は『腸骨動脈内膜線維症（iliac artery endofibrosis）』——脚への血流が詰まる循環器疾患で、2024-25シーズンを丸ごと棒に振り手術で克服した経緯。2025年11月に13戦で復帰しW杯で2度の表彰台まで戻してきた、その“次の一歩”が今回の新チーム初戦だ。マラガでバックステッドと合宿を積んできたという。確定＝11/27オストラバ初戦・復帰の事実／“勝てるか”は未知数だが、物語としての重みは今季屈指。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/shirin-van-anrooij-to-make-cyclo-cross-debut-with-canyon-sram-alongside-zoe-backstedt-next-week/",
+            "d": "2026-11-20"
+          }
+        ],
+        "status": "確定＝11/27オストラバW杯でキャニオン-SRAM初戦・鉄動脈手術からの復帰は一次報道で裏取り済み。"
+      },
+      {
+        "id": "20261121-healy-safety-stand",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/GQYQLpHnriHgcaMn52vhSU.jpg",
+        "headline": "【レース・選手の反乱／安全・SNSでも拡散・11/20】ロンバルディアを5分止めた“首謀者”ベン・ヒーリーが再始動——『これはストライキではなく“スタンド（意思表示）”』、コース上に車を入れるな・安全の“仕組み”を作れとUCIに迫る",
+        "layer1": "イル・ロンバルディアのスタートを5分遅らせた抗議の中心だったベン・ヒーリー（EFエデュケーション）が、改めて選手の安全について口を開いた。『選手が持つ力を、もう一度はっきりさせる必要がある』——運営個人を責めるのではなく、選手の総意と不満を示す“スタンド”だったと説明。",
+        "layer2": "彼が求める具体は3つ。①安全を改善する『正式なプロセス（仕組み）』を作ること（「物事を安全にする手順がなければならない」）、②レース中のコース上に車両を絶対に入れないこと（「コースに車があるなんて、決して起きてはいけない」）、③UCIが毎戦現場にいない以上、選手の声を聞き共に動くこと。確定＝発言内容は一次報道で裏取り済み。マサル視点では、落車・安全の議論は市民ライダーの“自己防衛”記事にそのまま橋渡しできるテーマ。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/safety/i-just-have-to-reiterate-the-power-that-we-have-as-riders-lombardia-protest-ringleader-ben-healy-emboldened-as-he-calls-for-change-on-rider-safety/",
+            "d": "2026-11-20"
+          }
+        ],
+        "status": "確定＝発言・抗議の経緯は一次報道。SNSで賛否が拡散中の話題だが、主役ソースは信頼メディアで裏取り。"
+      },
+      {
+        "id": "20261121-depuydt-plumber-picnic",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/mWeZUhKgpx2gTLfhnNrDNU.jpg",
+        "headline": "【トレンド・人間ドラマ／“配管工からワールドツアー”・11/20】ダーン・デピュイット、23歳が来季ピクニック・ポストNLへ——庭師も電気工もやった遅咲きが夢見るのは『アムステルを走り、憧れのファンアールトと肩を並べること』",
+        "layer1": "11/20、ピクニック・ポストNLが2027年新加入にダーン・デピュイット（23歳・ベルギー、コンチネンタルのバロイス・レンズ）を発表。かつては配管工として働き、庭師や電気工の副業もこなしていた“遅咲き”が、ワールドツアーの扉を開けた。",
+        "layer2": "ジュニア期はMTBでベルギー4冠も背中の故障で停滞→ロードに転じ、2025年トリプティーク・アルデネでステージ勝利で注目。2026年はツール・ド・ワロニーで肋骨骨折を抱えながらトップ10を3度、ツール・ド・リムザンで区間勝利。自認はピュンシャー（丘のアタッカー）で、地元の練習道が舞台のアムステルゴールドを走るのが夢、そして偶像ファンアールトと走ることを公言。確定＝経歴・発言は一次報道。“働きながら這い上がった”物語はショート映え。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/from-plumbing-to-picnic-postnl-the-dutch-teams-newest-recruit-with-dreams-of-amstel-gold-race-and-riding-with-wout-van-aert/",
+            "d": "2026-11-20"
+          }
+        ],
+        "status": "確定＝移籍・経歴・本人の夢の発言は一次報道で裏取り。"
+      },
+      {
+        "id": "20261121-rebellin-case-closed",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/E2j54iRspx25gMS6iJMEVE.jpg",
+        "headline": "【トレンド・安全／悲劇の後日談・11/20】レベリンを轢き死なせたトラック運転手の裁判、“健康状態”で打ち切りへ——遺族の弁護士『そこに恨みは、決してありません』、一審の禁錮4年は確定せず",
+        "layer1": "2022年、元世界王者ダビデ・レベリンをトラックで轢き死なせたヴォルフガング・リーケ（66歳・ドイツ）の控訴審が、本人の健康状態を理由に打ち切られた。ベネチア控訴院は、2024年の脳卒中で介護施設に暮らすリーケが精神的に裁判に耐えられないと判断、新たな訴追は行われない。",
+        "layer2": "一審では禁錮4年の有罪だったが、それが確定しないまま事件は閉じられる形に。遺族側弁護士ダビデ・ピッコは『そこに恨みは、決してない』と語り、感情より事実を淡々と受け止めた。市民の交通安全・“車と自転車”の現実を、国内の青切符時代の文脈にも橋渡しできる重い一件。確定＝裁判所の判断・弁護士コメントは一次報道。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/there-is-certainly-no-bitterness-case-against-truck-driver-who-struck-and-killed-davide-rebellin-wont-continue-due-to-his-ill-health/",
+            "d": "2026-11-20"
+          }
+        ],
+        "status": "確定＝控訴審打ち切り・一審禁錮4年・弁護士コメントは一次報道で裏取り。"
+      },
+      {
+        "id": "20261121-ccg-snub-hph",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/ajJqLGYxAYmKZxvDrzsQyD.jpg",
+        "headline": "【経営メモ・市場／業界の権力構造・11/20】プロ団結の新団体『コレクティブ・サイクリング・グループ』、ある女子名門を“蚊帳の外”に——ヒューマン・パワード・ヘルスが「存在すら知らされなかった」と反発、UAEは参加辞退",
+        "layer1": "24チームが株主に名を連ねる新団体CCG（Collective Cycling Group、UCIが潰した『One Cycling』の再挑戦）。だが米国の女子名門ヒューマン・パワード・ヘルス（2022年から女子WT参戦）は、幹部が『CCGの存在も、参加の機会も一切知らされなかった』とCyclingnewsに不満を語った。",
+        "layer2": "CCGは『プロ自転車の価値を解き放つ』を掲げ、CEOオリバー・チェスラは『広く包摂的な取り組み』と説明——が、実態は選別的との声。UAEチーム・エミレーツは自ら参加を辞退、2部のピナレロ-Q36.5とチューダーは株主入りと、顔ぶれはまだら。マサル視点＝“誰が業界の値付け・放映・スポンサー構造を握るか”は、数年先の機材供給と価格に効く経営情報。確定＝HPH側の主張・参加/辞退の顔ぶれは一次報道。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/worldtour-team-ignored-by-new-collective-cycling-group-reform-project/",
+            "d": "2026-11-20"
+          }
+        ],
+        "status": "確定＝CCGの概要・HPHの不満・UAE辞退は一次報道。各チームの最終的な狙いは今後の動向待ち。"
+      },
+      {
+        "id": "20261121-indoor-blackfriday-trainers",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/KUwfhejk9EwQPYW23wgLeJ.png",
+        "headline": "【経営メモ・市場／年末インドア商戦・11/20】冬の“巣ごもり需要”に号砲——ワフー『Kickr Core 2』が過去最安$399.99（27%オフ）、Zwiftも最大27%オフのサイバーウィーク、スマトレ市場が動く",
+        "layer1": "ブラックフライデー（11/27）を前に、インドア機材が本番の値下げへ。ワフーのスマートトレーナー『Kickr Core 2』が$549.99→$399.99（約27%オフ）の過去最安、Zwift Cog付き版やZwift Ride V2との組み合わせ（$1,299.99→$999.99）も投入。Zwiftは早割の“サイバーウィーク”で最大27%オフ。",
+        "layer2": "日本はZwift・スマトレのユーザー層が厚く、冬のインドアは“来店動機”より“通販の底値”で動きやすい市場。マサル視点＝①海外直販のトレーナー最安が基準になると、国内実売の綱引きになる ②トレーナー本体が下がる今は、周辺（扇風機・心拍計・サイコン）の抱き合わせ提案が効く。価格は媒体掲載の実売で、$399.99は複数モール横並び。確定＝掲載価格・割引率は一次記事。為替・在庫・国内価格は別途要確認。",
+        "sources": [
+          {
+            "t": "Cyclingnews（Wahoo BF 2026）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/wahoo-fitness-black-friday-2026/",
+            "d": "2026-11-20"
+          }
+        ],
+        "status": "確定＝米英の掲載価格・割引率は一次記事。国内価格・円換算・在庫は未確認（要裏取り）。"
+      },
+      {
+        "id": "20261121-velodor-2026",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/C4T2zy8qip3saBWGmyq7Y3.jpg",
+        "headline": "【トレンド・年間表彰／今週末11/28パリ】2026年『ヴェロドール』の勝者が土曜に決まる——男子はポガチャル“4度目”か、それとも19歳セイシャスが掻っ攫うか、女子はフォレリングが本命",
+        "layer1": "年間最優秀選手賞『ヴェロドール』の2026年受賞者が、11/28（土）パリで発表される。男子は3度の受賞歴を持つポガチャル（今季ツール5勝目）が本命だが、ブレイクした19歳ポール・セイシャスが“持っていく”可能性も取り沙汰される。女子はデミ・フォレリングが2度目へ最有力。",
+        "layer2": "男子ノミネートはポガチャル、デルトロ、世界王者マクナルティ、ヴィンゲゴー、E.マス、セイシャス、エヴェネプール、ガル、VDP、ファンアールトの10名。女子はフォレリング、ニエワダマ、ロイサー、ロンゴボルギーニ、ブラシ、ニーダーマイアー、ベルテ、ファンデルブレッヘン、ルクール、ウィーベスら。国際ジャーナリスト陣が各10人から5人を順位付けする方式。マサル視点＝“今季の主役”が公式に確定する日＝年間総括ショート／ブログの格好の起点。確定＝日程・ノミネートは一次報道。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/velo-dor-nominations-unveiled-who-would-get-your-vote/",
+            "d": "2026-10-29"
+          }
+        ],
+        "status": "確定＝11/28パリ発表・ノミネート一覧は一次報道。受賞者は未発表（当日判明）。"
+      },
+      {
+        "id": "20261121-tour-colombia-2027",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/zWW2pYY2DHgCzZa7P4qMrg.jpg",
+        "headline": "【レース・来季の地図／11/19】『ツアー・コロンビア』が2年の中断を経て2027年に復活——1/26〜31メデジン発、ネットカンパニー・イネオスやEFなど複数WTチーム参戦見込み、南米の冬の高地決戦が帰ってくる",
+        "layer1": "財政難で2025・2026年と中止されていた南米の名物ステージレース『ツアー・コロンビア』が、2027年1/26〜31に第5回大会として復活する。メデジン発、アルト・デ・パルマス行きの6日間。復活自体は9月に告知されていた。",
+        "layer2": "コロンビア紙の報道では、ネットカンパニー・イネオスとEFエデュケーションの参戦が有力、NSN・モビスター・カハルラルも出走の可能性。シーズン序盤から標高の高い南米で“登れる脚”を試す舞台が戻ることで、2027年の開幕プログラムの選択肢が広がる。マサル視点＝1月の遠い高地レースだが、南米勢・登坂家の“物語”の供給源として押さえておきたい。確定＝日程・コースは一次報道、参戦チームは“見込み”。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/tour-colombia-returns-for-2027-after-two-year-break-with-multiple-worldtour-teams-expected-to-race/",
+            "d": "2026-11-19"
+          }
+        ],
+        "status": "確定＝1/26〜31開催・復活は一次報道。参戦チームは現地報道の“見込み”段階（要続報）。"
+      },
+      {
+        "id": "20261121-hunt50-value-benchmark",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/a5222748-19d2-4377-a819-b4510ae29986/thumbnails/0a7d8874-9750-4d53-9eda-de0c3252c0e6.jpg?appId=32337f2f-7841-4ef6-a233-d1f001580530&platform=WEB&w=1200",
+        "headline": "【ホイール・BF実売／“価値の物差し”・11/10】ハント『50 Carbon Disc』が£899→£539.40（40%オフ）——評者が『他をこれで測る基準』と呼ぶ50mmカーボン、年末“1,500ポンド機”との差を埋める値付け",
+        "layer1": "英ハントの定番カーボン『50 Carbon Disc』がブラックフライデーで£899→£539.40（約40%オフ）。BikeRadarの評者アシュリー・クインランが『他のホイールをこれで測る基準』と呼び、2024年レビューで4/5点を付けて以来の“ベンチマーク”に据えてきた一本。",
+        "layer2": "実測1,488g、リム高50mm、内寸22mm・外寸30mm、28mmタイヤ最適化、フック付きでチューブレス/クリンチャー両対応（スポークはアルミ）。評者の肝は『£1,500級との性能差はごく小さい』という一言——つまり“深リムの最低限の価値”の基準を、こうした欧州ブランドのBF実売が押し下げる。マサル視点＝中華直販（Elitewheels/Winspace/YOELEO等）が狙うのはまさにこの$1,000前後の価格帯。£539＝約10万円級が“比較の床”になると、中華カーボンは実測重量・リム内寸・保証窓口で差別化しないと埋もれる。確定＝価格・スペック・評価は一次記事（£539.40と£539.60の表記揺れあり）。",
+        "sources": [
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/news/hunt-50-carbon-disc-black-friday-2026",
+            "d": "2026-11-10"
+          }
+        ],
+        "status": "確定＝BF価格・スペック・評者の評価は一次記事。記事内で£539.40と£539.60の表記揺れあり。"
+      },
+      {
+        "id": "20261121-cyclocomputer-blackfriday",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/KUwfhejk9EwQPYW23wgLeJ.png",
+        "headline": "【パーツ・年末底値／サイコン世代交代・11/19-20】ガーミン＆ワフーのサイコンがBFで一気に下がる——Edge Roam V3が$309（33%オフ）・Elemnt Bolt V3が£227（35%オフ）、“買い替えの窓”が開く",
+        "layer1": "ブラックフライデー前倒しで、サイクルコンピュータが世代交代の底値へ。ガーミンEdge Roam V3が$464.99→$309.31（約33%オフ）、Edge Aceも値下げ。ワフーElemnt Bolt V3（英国）は£349.99→£227.10（約35%オフ）、Trackr Radar尾灯なども連動して下がっている。",
+        "layer2": "サイコンは“音声操作”対応（コロスDura 2・ガーミンEdge）など機能競争が進む一方、型落ち・現行の値引き合戦が年末に集中する局面。マサル視点＝①高機能サイコンは初中級の“次の投資”の筆頭で、BF期は買い替え相談が増える ②レーダー尾灯（被視認性）は青切符時代の安全提案として抱き合わせやすい。価格は媒体掲載の実売で、モールにより上下。確定＝掲載価格・割引率は一次記事。国内価格・円換算・在庫は別途要確認。",
+        "sources": [
+          {
+            "t": "Cyclingnews（Wahoo BF 2026）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/wahoo-fitness-black-friday-2026/",
+            "d": "2026-11-20"
+          },
+          {
+            "t": "Cyclingnews（Garmin BF 2026）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/black-friday-garmin-deals-2026/",
+            "d": "2026-11-19"
+          }
+        ],
+        "status": "確定＝米英の掲載価格・割引率は一次記事。国内価格・円換算・在庫は未確認（要裏取り）。"
+      },
+      {
+        "id": "20261121-beginner-indoor-trainer",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/KUwfhejk9EwQPYW23wgLeJ.png",
+        "headline": "【初中級・買い方／年末インドア商戦に乗せて】『初めてのスマートトレーナー』で外さない3点——BFで安くなった今だから、“方式・騒音・連携”を先に決める",
+        "layer1": "ワフーKickr Core 2が過去最安、Zwiftも最大27%オフ——冬のインドアを始める絶好のタイミング。でも『安いから』で飛びつく前に、初中級が後悔しないための3つの問いを先回りで。",
+        "layer2": "①方式＝ダイレクトドライブ（Kickr Core系）か、ホイールオン/スマートバイクか。静かさ・精度・設置性が変わる。②騒音＝集合住宅なら“音”が最大の壁。ダイレクトドライブ＋トレーニングマット＋専用タイヤ不要が基本。③連携＝Zwift等のアプリとBluetooth/ANT+でつながるか、スマホ/PCのどちらで使うか。加えて“必要トルク（最大負荷W）”は自分のレベルで十分か。マサル視点＝トレーナー本体が下がる今は、扇風機・心拍計・前後ギア周りの消耗品まで含めた“冬の一式”で提案すると満足度が高い。普遍ネタだが、起点は今まさに下がっているBF実売。",
+        "sources": [
+          {
+            "t": "Cyclingnews（Wahoo BF 2026・起点）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/wahoo-fitness-black-friday-2026/",
+            "d": "2026-11-20"
+          }
+        ],
+        "status": "確定＝起点のBF値下げは一次記事。選び方は一般原則（製品個別の静音値・対応は各自確認）。"
+      }
+    ]
+  },
+  {
     "date": "2026-11-20",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。アルメイダの『2週間の膝痛＝割れたサドルクランプ』が刺さります——プロでもネジ1本。ほかキューブのWT復帰(ログリッチの新天地NSN)、MAAPがジロのマリアローザを奪取、手頃カーボン『エアリクス』、マージーンQED2発表、そして11月は盗難防止強化月間。今日も“今”を底まで。",
     "cards": [
