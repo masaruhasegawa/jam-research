@@ -1,5 +1,235 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-11-22",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。泥のロケレンで世界王者ブランドが止まり、ポガチャルは『椎骨3本骨折』を告白——冬の人間ドラマが濃い一日です。",
+    "cards": [
+      {
+        "id": "20261122-rapencross-lokeren",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/9h8poDSKEhxzsiRhfF4nUi.jpg",
+        "headline": "【🔥今日の一本・レース／人間ドラマ・11/21】泥のロケレン『ラペンクロス』でイタリアのサラ・カサソラが世界王者ブランドを撃破、今季初勝利——男子はヘルベン・カウペルスがワイゼールを振り切り金星、メイソン3位",
+        "layer1": "11/21（土）、HGクロス・ロケレン『ラペンクロス』。女子はサラ・カサソラ（クレラン・コーレンドン）が3周目で世界王者ルシンダ・ブランドを突き放し独走、今季初優勝。ブランドは41秒差2位、アルバラードが1分07秒差3位。男子はヘルベン・カウペルス（パウエルス・サウゼン）が最終周の激闘でヨラン・ワイゼールを2秒振り切り勝利、キャメロン・メイソンが3位。",
+        "layer2": "連勝街道のブランドが『ラペンクロス』で止まった意味——カサソラは今季ずっと惜敗続きで『勝てそうで勝てない』状態だったが、泥の単独走でついに結実した。一方の男子は無敵ナイス不在（＝翌日ベリンゲンを選択）の隙を突いた一戦で、カウペルスは格上ワイゼールを相手に“格”を一段上げた。ロケレンは年に一度の泥の名物、勝者の顔ぶれが変わる日だった。",
+        "sources": [
+          {
+            "t": "Cyclingnews（女子）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/hg-cross-lokeren-sara-casasola-drops-lucinda-brand-to-take-her-first-win-of-the-season-in-the-rapencross/",
+            "d": "2026-11-21"
+          },
+          {
+            "t": "CyclingUpToDate（男子）",
+            "u": "https://cyclinguptodate.com/cyclocross/results-rapencross-lokeren-2026-gerben-kuypers-wins-over-wyseure-and-mason-casasola-surprises-over-brand-and-alvarado",
+            "d": "2026-11-21"
+          }
+        ],
+        "status": "確定＝女子カサソラ優勝・ブランド+41秒2位・アルバラード3位／男子カウペルス優勝・ワイゼール+2秒2位・メイソン3位（cyclingnews・cyclinguptodate一致）。"
+      },
+      {
+        "id": "20261122-beringen-bemine",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/www.indeleiderstrui.nl/images/2026-11/thibau-nys-bk.jpeg",
+        "headline": "【レース・冬の泥／今日11/22】旧炭鉱ボタ山の『Be-Mineクロス』ベリンゲン——無敗ナイスが“4戦全勝”を狙い、昨季ベルギー王者を獲った得意コースへ",
+        "layer1": "今日11/22（日）、X2Oトロフェー第2戦、ベリンゲンの旧炭鉱跡『Be-Mineクロス』。今季3戦3勝・欧州王者ティボー・ナイスが4戦全勝を狙う。昨季このコースでベルギー選手権を制した“庭”で、前日のロケレンを回避してこの一戦に照準を合わせた。",
+        "layer2": "なぜナイス有利か——コースはアヴォントゥーレンベルフとボタ山の激坂でパワー勝負になり、登坂力に勝るナイス向き。対抗はワイゼール、ファンデピュッテ、落車から復帰のファントゥーレンハウト、そしてメイソン。女子はブランドが本命、前日ロケレンで勝ったカサソラ、ファンアルフェン、ベツェマが追う。下りは乾くが泥区間はテクニカル、気温約6℃。※結果は本稿時点で未了（レース後に続報で裏取り）。",
+        "sources": [
+          {
+            "t": "IDL Procycling（プレビュー）",
+            "u": "https://www.idlprocycling.com/cyclo-cross/x2o-trophy-be-mine-cross-beringen-2026-nys-returns-to-familiar-belgian-championship-terrain",
+            "d": "2026-11-21"
+          },
+          {
+            "t": "Cyclingflash（プレビュー）",
+            "u": "https://cyclingflash.com/news/previer-x2o-trophy-beringen-2026-a-hilly-cyclocross-course-tailored-to-thibau-nys",
+            "d": "2026-11-21"
+          }
+        ],
+        "status": "確定＝開催日11/22・ナイス今季3戦全勝で本命・コース特性／曖昧＝結果は未了（※レース後に裏取り）。"
+      },
+      {
+        "id": "20261122-tdu-2027-harper-storer",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/G7cf8qtheKbhX4u625k4yc.jpg",
+        "headline": "【レース・来季の地図／11/21】2027ツアー・ダウンアンダー、地元豪州のハーパー＆ストーラーが参戦名乗り——1/19開幕、最終ステージはハーパーの“故郷”を走る",
+        "layer1": "WT開幕戦ツアー・ダウンアンダーが、2027大会（1/19開幕・6日間874km）の出場者としてクリス・ハーパー（ピナレロQ36.5）とマイケル・ストーラー（チューダー）を発表。ともに豪州勢で、先に発表済みのジロ覇者ハインドレーに続く“地元の主役”。",
+        "layer2": "物語の軸——南オーストラリア出身のハーパーは2017年から毎年参戦、2025ジロで“クイーンステージ”を制した実力者で、最終日スターリングへ向かうコースは彼が育ったアルドゲートを通る“凱旋”になる。ストーラーはグランツール区間2勝、チューダーのエースとして2年連続参戦。開幕戦は日本のファンにとっても“冬の来店動機”、来季の勢力図を占う一戦だ。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/tour-down-under-adds-australian-chris-harper-and-michael-storer-to-2027-lineup/",
+            "d": "2026-11-21"
+          }
+        ],
+        "status": "確定＝両者の2027参戦発表・1/19開幕・6日間874km（cyclingnews）。"
+      },
+      {
+        "id": "20261122-pogacar-3gt",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/3ApUP8JJbxzRFgG73oXBQZ.jpg",
+        "headline": "【トレンド・2027の野望／11/21】ポガチャル『いつかは3グランツール完全制覇に挑む、ただし2027ではない』——ブエルタ落車で“椎骨3本骨折”していたと明かす",
+        "layer1": "ポガチャルがメルクスの『1年で3グランツール総なめ』予言に応え、『いつかは挑む、でも2027年ではない』と発言。2027は6度目のツール、パリ〜ルーベ（全モニュメント制覇）、3度目の世界選が主目標だと語った。",
+        "layer2": "衝撃の“満身創痍”告白——2026ブエルタを終わらせた落車で、左鎖骨骨折・脳震盪に加え『椎骨を3本骨折』していたと判明。『岩に高速で突っ込んだ。生きていてよかった』。2027はフランドルとルーベに再挑戦し、ミラノ〜サンレモは防衛せず、ブエルタ再挑戦も濃厚。怪物の“次の一歩”は、グランツールの連打よりクラシック制覇へ寄っている。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/ill-try-sooner-or-later-tadej-pogacar-says-he-will-attempt-three-grand-tours-in-a-single-season-but-not-in-2027/",
+            "d": "2026-11-21"
+          }
+        ],
+        "status": "確定＝『2027で3GTはやらない』発言・椎骨3本骨折・2027目標（cyclingnews、本人コメント）。"
+      },
+      {
+        "id": "20261122-roglic-coach",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/yNRBmGfNYKBDrU5ZWKsakX.jpg",
+        "headline": "【トレンド・人間ドラマ／11/21】37歳ログリッチ、プロ入り以来“初めて”コーチを替える——新天地NSNへ、10年連れ添ったランバーツと袂を分かつ",
+        "layer1": "新チームNSNへ1年契約で移るログリッチが、2016年のプロデビュー（当時ロットNL・ユンボ）以来ずっと二人三脚だったコーチ、マルク・ランバーツと離れる。ランバーツはレッドブル・ボーラに残留する。",
+        "layer2": "なぜ“賭け”なのか——スロベニア代表コーチのウロシュ・ムルンは『この刷新が何かを足すかもしれない。プリモシュに失うものはない』とし、ポガチャルのコーチ交代を前例に挙げた。新コーチは未発表で、カラパスを含む2027体制も未確定。11月後半に急きょ決まった短期契約ゆえ大所帯のサポートは付きにくく、37歳の“最終章”は手探りで始まる。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/maybe-this-will-add-something-more-primoz-roglic-will-change-coach-for-the-first-time-in-his-career-following-move-to-nsn/",
+            "d": "2026-11-21"
+          }
+        ],
+        "status": "確定＝コーチ交代・ランバーツはレッドブル残留・ムルン発言／曖昧＝新コーチは未発表。"
+      },
+      {
+        "id": "20261122-mason-glasgow-wc",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/aPsxPE3a2rHXz788HdAgBE.jpg",
+        "headline": "【レース・人間ドラマ／11/21】『カレンダーに★印をつけた』——キャメロン・メイソン、母国スコットランド開催のグラスゴーW杯に“第一号”でエントリー",
+        "layer1": "12/13・グラスゴーのケルヴィングローブ公園で行われるUCIシクロクロスW杯（第3戦）に、4度の英国王者キャメロン・メイソンが出場者第一号として名乗りを上げた。英国でのW杯は久々の母国開催となる。",
+        "layer2": "なぜ心が動くか——31歳のメイソンは『グラスゴーW杯の存在を知った瞬間からカレンダーに★印をつけていた』と語り、“競技目標であり人生の目標”と表現した。2014年ミルトンキーンズのW杯を観戦した少年が、今度は母国の大観衆の前で主役を張る。前日ロケレンで3位と好調、ピークをこの一戦に合わせにいく。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/it-has-a-star-next-to-it-on-my-calendar-cameron-mason-is-first-rider-announced-for-glasgow-cyclo-cross-world-cup/",
+            "d": "2026-11-21"
+          }
+        ],
+        "status": "確定＝12/13グラスゴー・ケルヴィングローブ公園／第3戦・メイソン第一号エントリー（cyclingnews、本人コメント）。"
+      },
+      {
+        "id": "20261122-reds-fueling",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://image-cdn.essentiallysports.com/wp-content/uploads/imago1063754121h.jpg.jpeg",
+        "headline": "【初中級・体を壊さない／11/17】プロ選手が告白『10年以上、生理が来なかった』——“燃料不足（RED-S）”は市民ライダーにも、冬の走り込みで気をつける3点",
+        "layer1": "米エリート選手ベロニカ・エワーズが『ヒルクライマーズ・サミット』（11/16）で、RED-S（相対的エネルギー不足）との闘いを告白。10年以上の無月経、20代で骨粗しょう症寸前、20分のジョグで踵を骨折、腎臓も危険域に。『私の体は完全に止まってしまった』。",
+        "layer2": "市民にも他人事ではない——エワーズは糖質（炭水化物）の摂取を増やしたら約1週間で月経が戻った。冬は“乗る量に対して食べる量が足りない”状態に陥りやすい。先回りの3点＝①ロングやインドアの前後で炭水化物を意識的に補給②体重だけを指標にしない③疲労骨折・睡眠や気分の不調は“燃料切れ”のサイン。速さの前に、走り続けられる体を。※健康情報は一般論として扱い、不調が続くなら専門家へ。",
+        "sources": [
+          {
+            "t": "EssentiallySports",
+            "u": "https://www.essentiallysports.com/olympics-news-cycling-news-my-body-had-completely-shut-down-pro-cyclist-reveals-decade-long-battle-that-nearly-destroyed-her-health/",
+            "d": "2026-11-17"
+          }
+        ],
+        "status": "確定＝エワーズのRED-S告白・糖質増で回復・一時離脱（essentiallysports、本人証言ベース）。数値や医学判断は一般化しない。"
+      },
+      {
+        "id": "20261122-retiring-class-2026",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://escapecollective.com/content/images/2026/11/retirees-feature.jpg",
+        "headline": "【トレンド・ひとつの時代／11/15】アラフィリップ、スプラット、コート…2026限りで去る“豪華すぎる引退クラス”——WTだけで約50人が車輪を降りる",
+        "layer1": "エスケープ・コレクティブが、2026シーズン限りで引退する顔ぶれを特集。男女合わせWTで約50人、プロチーム級でも十数人が確定。ジュリアン・アラフィリップ、アマンダ・スプラット、マグヌス・コート、ムールマン・パシオ、キンタナ、クロムウェルらが名を連ねる。",
+        "layer2": "なぜ沁みるか——二度の世界王者で2019年ツールの主役だったアラフィリップは『現役では十分すぎるほど脚光を浴びた。今は少し日陰が欲しい』と語った。モニュメント勝者から逃げの職人まで、一つの世代がまとめて去る冬。来季のレースを見る目が少し変わる“節目”で、店頭での会話のきっかけにも効く話題だ。",
+        "sources": [
+          {
+            "t": "Escape Collective",
+            "u": "https://escapecollective.com/gallery-the-retiring-class-of-2026-from-julian-alaphilippe-to-amanda-spratt/",
+            "d": "2026-11-15"
+          }
+        ],
+        "status": "確定＝多数の大物が2026限りで引退・アラフィリップ発言（escapecollective、詳細ギャラリーは会員限定）。"
+      },
+      {
+        "id": "20261122-china-carbon-bf",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/hU8a84L4xMb7bhrmUtBghE.jpg",
+        "headline": "【ホイール・年末実売／Xで話題・BF本番直前】中華カーボンの“年末底値”が出揃う——Xの『直販、結局いくら?』に実額で回答：HYPER 3 D45が約$1,169、Elitewheels DRIVE SL CSが$1,119",
+        "layer1": "日本のローディーがXで『BFの直販カーボン、結局いくらまで下がる?』と盛り上がる中、海外直販各社の年末価格が出揃った。Winspace HYPER 3 D45が$1,699→約$1,169（コード込）、Elitewheels DRIVE SL CSが$1,399→$1,119、SuperteamのAll Carbon Ultraが$1,199→$1,055。",
+        "layer2": "裏取り（CyclistsHubの実セール集計・11/20更新）——YOELEOは11/13〜12/5で全NXT/GEN10%＋キャップ、Winspaceは12/4まで（12〜32%オフ）、Elitewheelsは12/1まで（20%オフ・HELIX等は除外）、Farsportsは11/27〜12/1（%引きなしだが輪行袋＋$18でVittoria Corsa Pro）。※価格は代理店コード前提の“最安提示”で、実購入は送料・関税・消費税・保証窓口まで含めて判断を。本番ピークは11/27〜30。",
+        "sources": [
+          {
+            "t": "CyclistsHub（中華カーボンBF集計）",
+            "u": "https://www.cyclistshub.com/chinese-carbon-black-friday-deals",
+            "d": "2026-11-20"
+          }
+        ],
+        "status": "確定＝各社セール期間・提示価格（CyclistsHub集計）／曖昧＝コード有効性・在庫は変動（※Xは入口、実額は要再確認）。"
+      },
+      {
+        "id": "20261122-china-completebike-pricing",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2025/04/Winspace-T1600_2.png?webp=1&w=1200",
+        "headline": "【経営メモ・市場／中華“完成車”の値付け・BF実売】ウィンスペースの完成車がBFで一段下——T1600 Ultra『105 Di2完成車が約$3,869』、国内ショップの価格説明が問われる年末",
+        "layer1": "中華直販の“完成車”年末価格が下がっている。ウィンスペースのBFでは、T1600 Ultra 105 Di2完成車が$5,299→約$3,869（コード込27%オフ）、同Dura-Ace Di2が$6,999→約$5,219、SLC5.0 Dura-Ace Di2が約$5,669。",
+        "layer2": "オーナー視点の読み——フレーム900g級のエアロ完成車がDi2付きで“実質60万円前後”まで来ると、同価格帯の国内大手完成車との差を、店は『何で埋めるか』を言語化する必要がある。＝フィッティング・即納・保証とアフター・パーツ入手性。直販は“表示価格”が強いが、送料・関税・初期不良時の往復・保証窓口が弱点。そこを店の価値として明確に示すのが年末の勝ち筋。※T1600のエアロ公称値は第三者の風洞検証が未了（Hambini等が指摘）、数字は鵜呑みにしない。",
+        "sources": [
+          {
+            "t": "CyclistsHub（Winspace BF集計）",
+            "u": "https://www.cyclistshub.com/chinese-carbon-black-friday-deals",
+            "d": "2026-11-20"
+          },
+          {
+            "t": "BikeRadar（T1600スペック・補足）",
+            "u": "https://bikeradar.com/news/winspace-t1600-spotted",
+            "d": "2025-04"
+          }
+        ],
+        "status": "確定＝Winspace BF完成車価格（CyclistsHub集計）／曖昧＝エアロ公称は独立検証なし（補足スペックは旧記事）。"
+      },
+      {
+        "id": "20261122-hodaka-sale",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://prcdn.freetls.fastly.net/release_image/102492/15/102492-15-1a54da5d5e2de5c6cdd074823e7b0640-1920x1080.png",
+        "headline": "【経営メモ・市場／国内・11/18発表】国内メーカー“ホダカ”が12月に『大決算セール』——オンライン12/1〜13＋越谷の本社倉庫12/13、年末の在庫処分が動く",
+        "layer1": "KhodaaBloom／NESTOを擁する国内メーカー・ホダカが、12月の『大決算セール』を発表（11/18）。オンラインストアは12/1〜12/13、本社倉庫（埼玉・越谷）は12/13の午前のみ。ロードバイク・クロス・パーツ・ヘルメット等、アウトレット（輸送スレ・展示/試乗車）が中心。",
+        "layer2": "オーナー視点——国内メーカーがメーカー直で“アウトレット在庫処分”を年末にぶつける流れは、BF（ワイズロードや中華直販）と合わさり、年末の価格の底を一段作る。倉庫セールは当日持ち帰り・取り置き不可・現金/各種キャッシュレス対応で、展示車や試乗車の実車処分が狙い。型番・数量は事前非公開＝“掘り出し”型の集客だ。国内は電アシ/子供車が堅調な一方スポーツ車は利益が圧迫（あさひ等）されており、在庫の回し方が今季の鍵になる。",
+        "sources": [
+          {
+            "t": "PR TIMES／ホダカ",
+            "u": "https://prtimes.jp/main/html/rd/p/000000015.000102492.html",
+            "d": "2026-11-18"
+          }
+        ],
+        "status": "確定＝セール日程・会場・対象（ホダカ公式リリース）。"
+      }
+    ]
+  },
+  {
     "date": "2026-11-21",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。レースは“不屈の帰還”——鉄動脈の手術から甦ったファンアンローイが来週クロス復帰、一方で欧州は選手の『安全ストライキ』が熱を帯びています。年末のインドア商戦と中華直販の値付けも底まで潜りました。",
     "cards": [
