@@ -1,5 +1,235 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-11-23",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。泥のベリンゲンで世界王者ブランドが散り、今日はローマ教皇が自転車界を迎える——冬の人間ドラマと年末商戦が同時に走り出す朝です。中華BFの実額にはNEPEST・PARTICLEも並びました。",
+    "cards": [
+      {
+        "id": "20261123-beringen-women-casasola",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/width:1920/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/www.indeleiderstrui.nl/images/2026-11/casasola-brand.png@webp",
+        "headline": "【🔥今日の一本・レース／人間ドラマ・11/22】泥のベリンゲン『Be-Mineクロス』、イタリア王者カサソラが世界王者ブランドを連夜撃破——ブランドは最終周の下りで杭に激突・落車、週末2連勝のカサソラに女王が沈む",
+        "layer1": "X2Oトロフェー第3戦ベリンゲン女子（11/22）。総合首位で世界王者のルシンダ・ブランドを、サラ・カサソラ（クレラン・コレンドン）が初回から抜け出して振り切り優勝。前日ロケレンに続く週末2連勝。ブランドは残り1周で一度は追いついたが、最終周の下りで攻めすぎて杭に当たり落車、24秒差の2位。ファンアルフェン3位、ファンエンペル4位。",
+        "layer2": "確定＝カサソラはロケレン（11/21）に続く連勝で、泥の技術系コースで絶好調。『なぜ女王が崩れたか』を潜ると、実態は“落車”で、原因は最終周の下りでの突っ込みすぎ。ブランドは試合後に自ら『心身の近況』を発信し、連戦の重圧と立て直しに触れた。総合では貯金（＋1:15）で主導権を残すが、カサソラの勢いは本物で、クロス女子の中心がファンエンペル不在の間に動いている。",
+        "sources": [
+          {
+            "t": "IDL ProCycling（結果）",
+            "u": "https://www.idlprocycling.com/cyclo-cross/lucinda-brand-crashes-hard-in-technical-cyclocross-race-casasola-wins-again",
+            "d": "2026-11-22"
+          },
+          {
+            "t": "IDL ProCycling（ブランド近況）",
+            "u": "https://www.idlprocycling.com/cyclo-cross/lucinda-brand-shares-medical-and-mental-health-update-after-severe-crash-at-the-beringen-cyclocross",
+            "d": "2026-11-22"
+          }
+        ],
+        "status": "確定＝カサソラ優勝・ブランド落車2位（公式リザルト）/曖昧＝ブランドの回復度合いは本人発信ベース、要続報"
+      },
+      {
+        "id": "20261123-beringen-men-nys",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/width:1920/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/www.indeleiderstrui.nl/images/2026-11/thibau-nys-6b030c824ea05.png",
+        "headline": "【レース・人間ドラマ／11/22】ティボー・ナイス、ベリンゲンも勝って今季“全勝”継続——だが『ファンデルプールのような差がつけられない』と不満顔、伏兵ウィツェ・ミーウセンに最後まで迫られる",
+        "layer1": "同じベリンゲンの男子エリートはナイスが優勝し、今季の連勝（100%ストリーク）を継続。ただし独走で大差をつけられず、クレラン・コレンドンのウィツェ・ミーウセンに最終局面まで食らいつかれての金星だった。",
+        "layer2": "確定＝ナイス優勝で全勝維持。一方で本人は『差を開けられない』ことに明らかに不満——かつてのファンデルプールやファンアールトのような“ひとり旅”ができない現状への苛立ちがにじむ。裏を返せば、今季のクロス男子は層が厚く、ミーウセンら伏兵が王者ジャージに肉薄できるほど接戦化している証拠。11/27オストラバW杯から世界の強豪も合流し、ナイスの“無敗”は本当の試練に入る。",
+        "sources": [
+          {
+            "t": "IDL ProCycling（男子・反応）",
+            "u": "https://www.idlprocycling.com/cyclo-cross/thibau-nys-is-once-again-unable-to-open-up-a-van-der-poel-style-gap-and-hes-clearly-not-happy-about-it",
+            "d": "2026-11-22"
+          }
+        ],
+        "status": "確定＝ナイス優勝・全勝継続/曖昧＝本人の“不満”はレース後コメントの解釈"
+      },
+      {
+        "id": "20261123-vollering-three-gt",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/7wBXkDuYcNe22cNRAwCkiX.jpg",
+        "headline": "【レース・女子／2027の野望・11/22】ポガチャルに続き女子でも“3大グランツール同年制覇”の声——ファンフルーテンが後輩フォレリングに『全部獲りに行ってもいい』、新ブエルタ日程が追い風に",
+        "layer1": "2026年に女子三大グランツール（ツール／ブエルタ／ジロ）を制覇したデミ・フォレリングについて、伝説のアンネミーク・ファンフルーテンが『来季は3つ全部を同じ年に獲りに行ってもいい』と提案。フォレリング側も“挑戦の可能性”を探り始めていると報じられた。",
+        "layer2": "確定＝ファンフルーテンの発言と、2027からブエルタ・フェメニーナが男子ブエルタ後（10月前半）へ移り日程が組みやすくなる点。曖昧＝チーム（FDJスエズ）の優先はあくまでツール連覇と世界選防衛で、“3冠同年”は現時点で本人・チームの公式計画ではなく構想段階。男子のポガチャル『いつかは3GT、ただし2027ではない』発言（11/21）と対になる“歴史への挑戦”の女子版で、記事化しやすい。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ファンフルーテン）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/expectations-are-sky-high-annemiek-van-vleuten-warns-demi-vollering-that-her-successful-2026-could-be-hard-to-match/",
+            "d": "2026-11-15"
+          }
+        ],
+        "status": "確定＝提案と日程変更/曖昧＝“3冠同年”は構想段階（チームの公式目標ではない）"
+      },
+      {
+        "id": "20261123-alula-withdraws",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/watermark:Sirotti/width:1920/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/www.indeleiderstrui.nl/images/2025-11/jayco-alula-koen-bouwman.jpg@webp",
+        "headline": "【トレンド・業界と地政学／11/22】中東の緊張がワールドツアーに波及——サウジ『アルウラ』が自転車から全面撤退、レース『アルウラ・ツアー』消滅＆ジェイコ・アルウラのジャージ・スポンサーも終了",
+        "layer1": "サウジの観光地アルウラが、自転車界から即時撤退。1月のステージレース『アルウラ・ツアー』の運営を取りやめ、2023年から続けてきた豪ワールドチーム“ジェイコ・アルウラ”の胸スポンサーも降りる。チームは2027年に新名称・新体制（若手重視・予算縮小）で走る見込み。",
+        "layer2": "確定＝撤退とレース消滅、チーム名変更。背景には2026年2月に始まった対イラン戦争以降の湾岸情勢の悪化（サウジへの報復攻撃・フーシ派のドローン／ミサイル、ホルムズ海峡の通航停止、空路の混乱）。10月にはリヤドの都市型世界選も中止、F1もサウジ・バーレーンGPを中止済み。経営メモとして重要なのは“湾岸マネーの退潮”——ここ数年レース経済を支えた中東資金が引く局面に入った合図で、スポンサー地図（＝選手市場の原資）が動く。",
+        "sources": [
+          {
+            "t": "IDL ProCycling",
+            "u": "https://www.idlprocycling.com/cycling/middle-east-tensions-spill-over-into-the-worldtour-alula-tour-removed-from-the-calendar-and-as-team-sponsor",
+            "d": "2026-11-22"
+          }
+        ],
+        "status": "確定＝撤退・レース消滅・スポンサー終了（Escape Collective初報をIDLが詳報）/曖昧＝新スポンサー・新名称の詳細は未発表"
+      },
+      {
+        "id": "20261123-pope-leo-audience",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/MGjgemD4gSwGHmCCstdeTa.jpg",
+        "headline": "【トレンド・自転車文化／本日11/23】ローマ教皇レオ14世が自転車界100人超を迎える——メルクス、イノー、インデュライン、ルモン、フルーム、フォレリング、セイシャス、カヴェンディッシュらがバチカンに集結",
+        "layer1": "本日11/23、教皇レオ14世がバチカンで自転車界の代表100人超と謁見。UCIと教育・文化省の共催で、“平和と異文化対話”への貢献がテーマ。謁見後にはUCIがカリタス・ローマへ自転車を象徴的に寄贈する。",
+        "layer2": "確定＝出席見込みはメルクス／イノー／ルモン／モゼール／インデュライン／ニバリ／ロンゴら伝説勢に、現役・最近ではフォレリング、セイシャス、ファンフルーテン、ロンゴ・ボルギーニ、カヴェンディッシュ、フルーム。パラやBMX、今季重傷を負ったウクライナ選手コリジュクも招かれる。なぜ今か＝教皇のスポーツ書簡『Life in Abundance』の流れで、2025年ジロ最終日のバチカン発走・祝福に続く第2弾。ポガチャルの出席は一部写真キャプションのみで未確認。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/demi-vollering-eddy-merckx-and-paul-seixas-among-cycling-stars-set-for-audience-with-pope-leo-xiv/",
+            "d": "2026-11-19"
+          },
+          {
+            "t": "Vatican News",
+            "u": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-to-meet-with-former-current-cycling-champions-at-vatica.html",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝開催日・共催・寄贈・主な招待者/曖昧＝ポガチャルの出席は未確認、最終出席者は変動あり"
+      },
+      {
+        "id": "20261123-nsn-kit-teaser",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/width:1920/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/www.indeleiderstrui.nl/images/2026-11/george-bennett-6b03291bad29e.png@webp",
+        "headline": "【トレンド・業界／遊び心のPR・11/22】NSNサイクリングの2027新ジャージ予告に“ディカプリオ共演”——ジョージ・ベネットが「もう少しオレンジを」、ログリッチ＆カラパスの新興強豪が話題づくり",
+        "layer1": "2027年にログリッチ、カラパス、ブイトラゴ、ファンエトフェルトを集め、バイクもキューブへ切り替える新興WTチーム“NSNサイクリング”が、新ジャージの予告動画を公開。ニュージーランドのベテラン、ジョージ・ベネットがレオナルド・ディカプリオに“デザイン相談”する体の遊び心ある編集で、2026の水色基調に『もう少しオレンジ』を足すと示唆した。",
+        "layer2": "確定＝ディカプリオは実出演ではなく、映画『インセプション』の映像を使ったパロディ編集（誤解しないよう明記）。デザインはstycle.design、正式発表は11月末のメディアデー。狙いは“昇格組の認知づくり”。経営・話題の観点では、ログリッチの新天地・キューブのWT復帰（11/20既報）に続くブランディングの一手で、来季勢力図の中で中位〜上位を狙うチームが“物語とビジュアル”で先に存在感を作りに来ている。",
+        "sources": [
+          {
+            "t": "IDL ProCycling",
+            "u": "https://www.idlprocycling.com/cycling/george-bennett-and-leonardo-dicaprio-star-in-nsn-cyclings-new-kit-teaser-video",
+            "d": "2026-11-22"
+          }
+        ],
+        "status": "確定＝予告動画・ディカプリオは映像引用のパロディ・11月末発表/曖昧＝ジャージ最終デザインは未公開"
+      },
+      {
+        "id": "20261123-pirelli-ineos-tyres",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/RNuyLuvT3YxpQp6cyKWUPD.jpg",
+        "headline": "【パーツ・機材サプライヤーの潮目／11/12】ネットカンパニー・イネオスが10年超のコンチネンタルと別れ、2027からピレリへ——主力は『P Zero Race SL-R』、デビューは1月ツアー・ダウンアンダー",
+        "layer1": "ネットカンパニー・イネオスが、長年のコンチネンタルからピレリへタイヤを切り替えると発表（3年契約）。主にP Zero Race SL-R（＋RS）を使用し、2027年1月のツアー・ダウンアンダーで実戦投入する。",
+        "layer2": "確定＝3年契約・デビュー戦・使用モデル。チームのG.トーマス（レースディレクター）は『ピレリの技術力と開発姿勢』を評価し、“供給”より“共同開発”を重視と説明。実態としては、今季スコープのホイールに替えた流れと合わせ、ホイール×タイヤの最適化で速さを取りに行く布石。ホビー目線では、トッププロのタイヤが各社で入れ替わる局面＝来季のインプレ・値付けが動くサインで、チューブレス世代の“次の基準”を占う材料になる。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/netcompany-ineos-end-long-term-partnership-with-continental-to-switch-to-pirelli-tyres-for-2027/",
+            "d": "2026-11-12"
+          }
+        ],
+        "status": "確定＝契約・モデル・デビュー戦（公式発表）"
+      },
+      {
+        "id": "20261123-bbb-tpu-tube",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn-img.cyclesports.jp/wp-content/uploads/2026/11/newcolor_corecap_2.jpg",
+        "headline": "【パーツ・軽量化／国内・11/25発売】BBBが超軽量TPUチューブ『バイクチューブ TPU』を投入——ロード用26g・グラベル用46g、バルブコア脱着ツール『コアコントロール』も",
+        "layer1": "アクセサリーブランドBBBが、超軽量TPU（熱可塑性ポリウレタン）チューブ『バイクチューブ TPU』を11/25発売。重量はロード用26g・グラベル用46gと、ブチルの半分以下クラス。空気入れを楽にする『コアキャップ』新色と、バルブコアを着脱できる『コアコントロール』も同時に並ぶ。",
+        "layer2": "確定＝発売日・重量・ラインナップ（国内サイクルメディア報）。先回りの深掘り＝TPUチューブは『軽い・小さく畳める・転がりが軽い』が売りだが、ブチルより“扱いの慣れ”が要る（高圧時の嚙み込みやバルブ形状の相性）。チューブレスに踏み切れない初中級層には、“重いホイールを買い替えずに軽量化を体感する”現実解で、我々の中華カーボン＋TPUチューブという組み合わせ提案にも自然につながる。",
+        "sources": [
+          {
+            "t": "cyclesports.jp",
+            "u": "https://www.cyclesports.jp/news/new-product/172782/",
+            "d": "2026-11-20"
+          }
+        ],
+        "status": "確定＝発売日・重量・品目/曖昧＝国内価格は要確認"
+      },
+      {
+        "id": "20261123-china-carbon-bf-realprice",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://www.cyclistshub.com/wp-content/uploads/2024/11/Best-Chinese-Carbon-Black-Friday-Deals-1.avif",
+        "headline": "【経営メモ・市場／Xバズ起点・BF実額】Xの『今年のBF、中華ホイールどこが買い?』に実数で回答——NEPEST NOVAが約$1,444、PARTICLE GCXが約$1,403、ICAN AERO38 IIは$499まで、UCI公認の“線引き”も要注意",
+        "layer1": "ブラックフライデー本番（11/27）を前に、日本のローディーがXやブログで『結局どの中華カーボンが買いか』を議論中。各社の実額が出揃い、我々の扱い筋では NEPEST NOVA が$1,699→約$1,444、PARTICLE GCX Hyperlight が$1,799→約$1,403。エントリーでは ICAN AERO 38 II が$670→$499、Superteam All Carbon Ultra H2 が$1,199→約$1,055。",
+        "layer2": "確定＝割引実額とコード・期間（海外比較サイトの集計、各社公式で最終確認）。X発の噂を裏取りすると、争点は“価格”だけでなく“UCI公認の有無”——レース使用やイベント規定で引っかかる非公認モデルがあり、ここが購入者の不安点。経営メモ：直販の最安値は強いが、日本のユーザーは『関税・保証・初期振れ取り・公認』で迷う。だからこそ“実店舗が面倒を引き受ける付加価値”を明示できれば、直販より高くても選ばれる。各社のコード有効期限は11/30〜12/10前後でバラつく。",
+        "sources": [
+          {
+            "t": "Cyclists Hub（2026中華BF集計）",
+            "u": "https://www.cyclistshub.com/chinese-carbon-black-friday-deals",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝各社の実額・期間（比較サイト集計）/曖昧＝在庫・為替・関税で日本着価格は変動、UCI公認はモデル別に要確認（※Xの“どこが買い”論は入口、裏取りは各社公式）"
+      },
+      {
+        "id": "20261123-ysroad-blackfriday",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://prcdn.freetls.fastly.net/release_image/189875/3/189875-3-aa98244766f746b1bb301b0409a86bf3-1200x630.png",
+        "headline": "【経営メモ・市場／国内・開催中〜12/7】大手ワイズロードが『2026 BLACK FRIDAY SALE』を全店で本番——3,000点超＋店舗オリジナル完成車の特別価格、最大36回“無金利”ローンまで",
+        "layer1": "スポーツ自転車専門店ワイズロードが年末セールを実施中。オンラインは11/12〜12/7、店舗は11/13〜12/6。ロード／クロス／フォールディングやフレーム・ホイール・シューズ・ウェアなど3,000点超を値下げし、店舗独自の特別品や“店舗オリジナル完成車”の特価も用意。さらに最大36回まで実質無金利のローン（店頭払い・審査・3万円以上）を打ち出した。",
+        "layer2": "確定＝期間・規模・無金利ローン（公式リリース、11/2告知／セールは開催中）。先回り＝国内の年末商戦は『10〜11月=型落ち2〜4割引→12〜1月=在庫処分で最大半額』の流れ。大手が“無金利36回”まで出してくると、完成車の価格だけでなく“支払いの軽さ”で競争軸がずれる。中華直販に流れがちな層を、分割と安心で引き止める動き＝我々の売り方（総額ではなく月額・面倒見）を磨く好機。",
+        "sources": [
+          {
+            "t": "PR TIMES（ワイズロード）",
+            "u": "https://prtimes.jp/main/html/rd/p/000000003.000189875.html",
+            "d": "2026-11-02"
+          }
+        ],
+        "status": "確定＝期間・規模・無金利ローン（公式告知は11/2、セールは12/7まで開催中）/曖昧＝対象完成車の具体値引きは各店で確認"
+      },
+      {
+        "id": "20261123-beginner-tire-choice",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/RNuyLuvT3YxpQp6cyKWUPD.jpg",
+        "headline": "【初中級・買い方／ピレリ乗り換え＆BF軽量チューブに乗せて】『タイヤとチューブ』はホイール替えずに一番効く投資——冬のうちに外さない3つの問い",
+        "layer1": "トッププロのタイヤ変更（イネオス→ピレリ）や、国内のTPU軽量チューブ登場（BBB 11/25）で“足まわり”の話題が続く。初中級者がホイールを買い替えずに走りを変えるなら、まずタイヤとチューブが費用対効果トップ。BF期は在庫も価格も動くので、今が替えどき。",
+        "layer2": "先回りの3問。①『太さ』＝今どきは28〜30Cが快適と転がりの両立で基準、リムの内幅（中華カーボンなら21mm前後が多い）との相性を確認。②『チューブレス or クリンチャー＋TPU』＝パンク耐性・乗り味ならチューブレスだが、手間が不安なら“クリンチャー＋TPUチューブ(26g)”で軽量化だけ先取りが現実解。③『転がり vs 耐パンク』＝決戦用（転がり重視）と練習用（耐パンク重視）を割り切って2種持ちが結局安い。数字（公称重量・推奨内圧）は必ずタイヤとリムの実寸で合わせる。",
+        "sources": [
+          {
+            "t": "Cyclingnews（ピレリ／タイヤ潮流）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/netcompany-ineos-end-long-term-partnership-with-continental-to-switch-to-pirelli-tyres-for-2027/",
+            "d": "2026-11-12"
+          },
+          {
+            "t": "cyclesports.jp（BBB TPUチューブ）",
+            "u": "https://www.cyclesports.jp/news/new-product/172782/",
+            "d": "2026-11-20"
+          }
+        ],
+        "status": "確定＝タイヤ変更・TPUチューブ発売を起点/曖昧＝太さ・内圧は普遍ガイド（各自の体重・用途で最適値は前後）"
+      }
+    ]
+  },
+  {
     "date": "2026-11-22",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。泥のロケレンで世界王者ブランドが止まり、ポガチャルは『椎骨3本骨折』を告白——冬の人間ドラマが濃い一日です。",
     "cards": [
