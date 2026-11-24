@@ -1,5 +1,259 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-11-25",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。レース界は2027体制固めが本格化——20歳セイシャスが初ツールの『怖さ』を告白し、ネットカンパニー・イネオスはベルナル2029年まで＋7人残留で再建を加速。X界隈はポガチャルの『ドーピング発言→元ドーパーのアイス屋返し』で沸騰、年末商戦は今週末がブラックフライデー本番です。",
+    "cards": [
+      {
+        "id": "20261125-seixas-first-tour",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-11%2Fpaul-seixas-6b0577e058e7b.jpg",
+        "headline": "【🔥今日の一本・レース／人間ドラマ・11/24】20歳セイシャスが初ツール・ド・フランスの本音を告白——『最初の集団スプリントは本気で怖かった、落車すると思った』『3週間終えると、心底うんざりする』、それでも総合4位・フレーシュ＆ロンバルディア制覇の怪物新人",
+        "layer1": "2026年にフレーシュ・ワロンヌとイル・ロンバルディアを勝ち、初出場のツールで総合4位に入った20歳ポール・セイシャス（デカトロンCMA CGM）が、初グランツールの過酷さを率直に語った。『他の3週間レースとは別物。毎日リーダーとしての重圧を背負い続ける』『最初のボーナススプリントでは本気で落車を怖れた』。",
+        "layer2": "確定＝発言は11/24付インタビュー、2026実績（フレーシュ＆ロンバルディア優勝、ツール総合4位、欧州選手権3位）。注目は『ツールは一日が終わっても終わらないルーティン』という表現で、3週間後には『このルーティンの一部を変えたいほど消耗した』と明かした点。一方で『悪い重圧じゃない、良い重圧だ』『狙って勝つ方が、不意の勝利より嬉しい』と語り、プレッシャーを力に変える20歳の成熟ぶりが光る。マサルのショート『次世代の怪物は何を怖れるか』に最適——世界最高の新人でも初ツールの集団スプリントは怖い、という事実が市民ライダーにも刺さる。",
+        "sources": [
+          {
+            "t": "IDL ProCycling",
+            "u": "https://www.idlprocycling.com/cycling/seixas-admits-he-found-first-tour-de-france-experience-scary-and-hard-after-three-weeks-youre-completely-done-with-it",
+            "d": "2026-11-24"
+          }
+        ],
+        "status": "確定＝本人インタビュー（11/24）と2026戦績/曖昧＝2027目標は本記事では未言及"
+      },
+      {
+        "id": "20261125-ineos-bernal-seven",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-11%2Faxel-laurance-6b05ab39aa5ae.jpg",
+        "headline": "【レース・再建／11/24】ネットカンパニー・イネオスがベルナルを『2029年超え』で残留確定——同日にロランス、フォス、O.ロドリゲスら7人も延長、G.トーマス『各選手が唯一無二の役割を持つ』、2027ロスターは28人でほぼ完成",
+        "layer1": "ネットカンパニー・イネオスが、2019年ツール覇者エガン・ベルナルの契約を2029年より先まで延長したと発表。同日、アクセル・ロランス、トビアス・フォス、オスカル・ロドリゲス、サム・ワトソン、コナー・スウィフト、キム・ハイドゥク、ブランドン・リベラの7人の残留も発表した。GMゲラント・トーマスは『各選手が唯一無二のものをもたらし、重要な役割を担う』とコメント。",
+        "layer2": "確定＝ベルナル延長（2029年超）と7人残留、ロスター28人でほぼ完成（いずれも11/24発表）。読みどころ＝ロランスは今季4勝（バスク一周区間含む）の25歳パンチャー、フォスは五輪を見据えUNO-Xからの誘いを断って残留、リベラはベルナルの親友兼トレーニングパートナー。甘くないのは昨季まで主力のガンナ（リドル移籍）やウェルスフォードを失っての再建であること。だが昨日のカード（キューブ昇格・新体制）と合わせると、イネオスは『ベルナルを核に若手＋忠実なドメスティークで2027以降を建て直す』方針が明確になった。",
+        "sources": [
+          {
+            "t": "IDL ProCycling（7人延長）",
+            "u": "https://www.idlprocycling.com/cycling/netcompany-ineos-extends-contracts-with-no-fewer-than-7-riders-they-know-the-team-well",
+            "d": "2026-11-24"
+          }
+        ],
+        "status": "確定＝ベルナル延長・7人残留・ロスター28人（11/24）/曖昧＝各選手の契約満了年は非公表"
+      },
+      {
+        "id": "20261125-cx-ostrava-opener",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/uNgHUdWgjZn83kHhRmfKYS-2560-80.jpg",
+        "headline": "【レース・冬の泥／今週末11/27開幕】シクロクロス・ワールドカップが『製鉄所跡のナイター』で開幕——初開催オストラヴァ、注目はファンデルポールの“参戦するのか”問題とブランドの女王独走、復帰のファンエンペル",
+        "layer1": "2026-27 UCIシクロクロス・ワールドカップが11/27、チェコ・オストラヴァの旧製鉄所跡（ドルニー・ヴィートコヴィツェ）でナイター開催され開幕する。初のワールドカップ開催地で、エリート女子は現地18:15発走。翌11/29にはタボルが続く“チェコ2連戦”。",
+        "layer2": "確定＝11/27オストラヴァ開幕・ナイター・初開催（UCI）。先回りの読み＝①ファンデルポールは今季クロスを全休する可能性、ファンアールトは第1子誕生を控え12月から部分参戦見込み、ピドコックは不参加を明言。②女子は世界王者ルシンダ・ブランドが今季5戦3勝と独走、昨冬の20勝超を追う。挑むのはファンエンペル（メンタル不調から復帰、週1ペースで4位・5位）、ファス、ファンアンローイ、アルバラード。③ティボー・ナイスはリドルの新クロスチームには行かず父のチームに残留、コッペンベルグクロス勝者。マサルのレース枠＝毎朝切らさず、今週末は“誰が主役か未確定”の開幕戦。",
+        "sources": [
+          {
+            "t": "Cyclingnews（今季CXの見どころ）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/will-van-der-poel-and-van-aert-race-brands-dominance-and-van-empels-return-the-storylines-to-follow-this-cyclo-cross-season/",
+            "d": "2026-11"
+          },
+          {
+            "t": "UCI Cyclo-cross World Cup（オストラヴァ）",
+            "u": "https://www.ucicyclocrossworldcup.com/en/calendar/2026-2027/ostrava",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝開幕日程・会場・ブランドの戦績/曖昧＝ファンデルポール／ファンアールトの参戦有無は本人未確定"
+      },
+      {
+        "id": "20261125-ricco-pogacar-icecream",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-11%2F143656-05e47428dc58c87bb021da56b76b71a1.jpg",
+        "headline": "【トレンド・業界の体温／SNSバズ起点・11/24】ポガチャルの『ドーピングで捕まった選手は引退後アイスを売る羽目になる』発言に、元ドーパーのリッコが即反撃——『喋る前に100％確信を持て。ポガチャルも近々、俺と一緒にアイスを作ることになる』AI画像つきで",
+        "layer1": "ポガチャルが『自転車は概ねクリーン、誰も命を危険に晒したくない』と語る中、二度の違反で選手生命を絶たれたリッカルド・リッコ（43、元サウニエル・デュバル）を引き合いに『引退後もチームに残る者はアイスを売る羽目になりかねない』とジョーク。これに本人がインスタのストーリーで反撃した。",
+        "layer2": "裏取り＝発言・返答とも11/24付の報道。リッコはテネリフェで実際にアイス店『ChocoLoco』を営んでいた過去があり、『こう言われるのは予想していた。ポガチャルも近々、俺と一緒にアイスを作ることになる』と皮肉り、ポガチャルがアイスを売るAI生成画像まで投稿。『喋る前に100％確信を持て。あれ以来、何人が寝返ったか俺は見てきた』と締めた。SNSの“入口”はリッコのインスタだが、裏にあるのは昨日のカード（ポガチャルのクリーン宣言）の延長線＝“クリーン論争”が年末のオフでも燻り続ける構図。盛らず断定せず、『発言の応酬』として扱うのが誠実。マサルのショート『名選手とドーピングの影』は刺さるが、火種なので慎重に。",
+        "sources": [
+          {
+            "t": "IDL ProCycling（リッコの反撃）",
+            "u": "https://www.idlprocycling.com/cycling/ricco-responds-to-pogacar-after-doping-comment-before-you-speak-you-have-to-be-100-percent-sure",
+            "d": "2026-11-24"
+          }
+        ],
+        "status": "確定＝ポガチャルの発言とリッコのインスタ投稿（11/24）/曖昧＝個人の応酬であり、新たな疑惑や事実関係ではない"
+      },
+      {
+        "id": "20261125-deltoro-vanaert-lesson",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2025-05%2Fisaac-del-toro-7.jpg",
+        "headline": "【レース・人間ドラマ／11/24】デルトロが明かす“2025ジロで敗れた夜”の教訓——『あれがスタートの号砲だった』、フィネストレでヨーツを見失い敗北『僕がジロを失った、チームじゃない』、以来“出し惜しみ”をやめた",
+        "layer1": "イサク・デルトロ（UAE）が、2025ジロ・デ・イタリアでの敗戦を振り返った。アユソのドメスティークとして入った第9ストラーデ・ビアンケ区間でファンアールトとベルナルが攻撃した瞬間を『あれがスタートの号砲だった』と表現。最終盤フィネストレで逃げにいたファンアールトの存在を“忘れ”、サイモン・ヨーツに逆転されマリアローザと総合を失った。",
+        "layer2": "確定＝クラックス・ポッドキャスト発の本人回想（11/24報）。核心は責任の引き受け方＝『僕がジロを失った、チームじゃない』『UAEの無線判断を責めない』と語り、あの敗北が“もう出し惜しみしない”走りへの転機になったと認めた点。アユソが腹痛で離脱し役割が急変、チームは『彼が崩れるのでは』と危惧していたという裏話も。昨日までのデルトロ関連（UAEが2027へポガチャルと彼の野心をどう両立させるか）と対になり、“王者の陰で勝ち方を学んだ22歳”の人間ドラマとして刺さる。",
+        "sources": [
+          {
+            "t": "IDL ProCycling（クラックス・ポッドキャスト発）",
+            "u": "https://www.idlprocycling.com/cycling/isaac-del-toro-recalls-the-lesson-van-aert-taught-him-at-the-2025-giro-ditalia-that-felt-like-the-starting-gun",
+            "d": "2026-11-24"
+          }
+        ],
+        "status": "確定＝本人の回想（11/24）と2025ジロの結果/曖昧＝2026詳細戦績は本記事では触れず"
+      },
+      {
+        "id": "20261125-winston-decathlon-bardet",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-11%2Fpicnic-postnl-6b0563666be40.jpg",
+        "headline": "【トレンド・裏方の移籍／11/24】名コーチ、マット・ウィンストンがピクニックからデカトロンへ——教え子バルデが“引き寄せた”、『ロマンが大きな役割を果たした』、2027はバルデがSD・ウィンストンが参謀に",
+        "layer1": "8年在籍したピクニック・ポストNLを離れる39歳の英国人コーチ、マット・ウィンストンが、デカトロンCMA CGMのスポーツスタッフに加入する。教え子のロマン・バルデ（2027スポーツディレクター就任）とニルス・エークホフを追う形で、ウィンストンは『ロマンが大きな役割を果たした』と語った。",
+        "layer2": "確定＝9月に退団表明、デカトロンが加入発表（11/24）。先回りの読み＝選手だけでなく“裏方の引き抜き合戦”が本格化している証拠。ウィンストンはサンウェブ時代から育成とWTを見てきた指導者で、バルデは『国際志向のプロジェクトが決め手になった』と歓迎。デカトロンは20歳セイシャス（今朝のトップ記事）を擁し、バルデ＝SD・ウィンストン＝参謀・エークホフ合流と“フランス発の国際チーム”を一気に強化している。マサルの視点では、強いチームは選手より先に『人（指導体制）』を固める、という経営的な示唆も。",
+        "sources": [
+          {
+            "t": "IDL ProCycling",
+            "u": "https://www.idlprocycling.com/cycling/matt-winston-credits-romain-bardet-with-major-role-in-his-move-from-picnic-postnl-to-decathlon",
+            "d": "2026-11-24"
+          }
+        ],
+        "status": "確定＝ウィンストンのデカトロン加入とバルデのコメント（11/24）/曖昧＝ウィンストンの正式な役職名は未明記"
+      },
+      {
+        "id": "20261125-maryland-us-racing",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-08%2Fquinn-simmons-6a7c1cb5ee971.jpg",
+        "headline": "【経営メモ・市場／業界の潮目・11/24】米国の『メリーランド・サイクリング・クラシック』が正式に消滅——運営NPO破綻・冠スポンサー不在で。一方UCIグラベルは米国3戦に拡大、“ロードは縮み、グラベルは伸びる”が鮮明に",
+        "layer1": "2025年に復活した米国の1.Proロードレース『メリーランド・サイクリング・クラシック』が、運営NPO破綻と冠スポンサー不在により2027カレンダーから正式に消えた。一方でUCIは米国のグラベル3戦（ボーダーランズ、BWRユタ等）を格上げし、米国勢の世界選（サウジ・アルウラ）出場枠が増えた。",
+        "layer2": "裏取り＝11/24報。マサルが商売で読むべき“需要のシフト”＝米国ではツアー・オブ・カリフォルニア等の大型ロードが相次ぎ消え、UCIグラベル世界シリーズは2022年の約12戦から45戦（32カ国）へ急拡大。アンバウンドの2026参加は全体+9.1％、女性+18％、ライブ視聴49.7万回。ただしUSAサイクリング2025調査では会員の主戦場はロード66％・MTB30％・CX3％で、“競技人口はロード志向、だがイベント経済はグラベルが牽引”というねじれ。クインシモンズら選手は米国レース増を望むが、WTステージレースの採算は依然厳しい。日本でも『完成車より体験・グラベルに金が動く』流れは他人事でなく、在庫と仕入れの重心をどこに置くかの示唆になる。",
+        "sources": [
+          {
+            "t": "IDL ProCycling",
+            "u": "https://www.idlprocycling.com/cycling/us-gravel-races-upgraded-as-the-maryland-cycling-classic-closes-a-sign-of-things-to-come-for-cycling-in-the-usa",
+            "d": "2026-11-24"
+          }
+        ],
+        "status": "確定＝メリーランド消滅・UCIグラベル米国3戦化・各種参加データ（11/24）/曖昧＝2027各レースの正確な日程は未発表"
+      },
+      {
+        "id": "20261125-china-suppliers-pardus",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/PM9D75KzCbPNayvGW8fYGh.png",
+        "headline": "【経営メモ・市場／機材サプライヤーの地殻変動・11月総括】中華ブランドがまたプロ入り——トタルエネルジーが2027からキューブ→中華『パルダス』へ、XDS（アスタナ）に続く2社目。一方ビアンキはプロ集団から事実上消える",
+        "layer1": "サイクリング・ウィークリーの11月テック総括によると、プロ機材の勢力図が中華優位へ傾いている。トタルエネルジー系が2027からキューブに代わり中華ブランド『パルダス』（山東・泰山体育傘下、中国代表の供給元）を採用。XDS（アスタナ）に続くプロ集団の中華直販2社目となる。並行してバーレーン・ヴィクトリアスがビアンキと別れファクターへ移り、2027に主要WTでビアンキを駆るチームはほぼ無くなる見込み。",
+        "layer2": "裏取り＝CWの11月機材総括（11/12）。マサルの商売に効く読み＝『中華カーボンは“安かろう”ではなく、世界最高峰のプロ機材として採用される段階』に来た、という追い風。パルダスはSPK EVO G4・ロビンEvo G3・ゴメラEvo（TT）を供給、米国市場進出も計画中。対照的に、約1億ユーロの債務で再建手続き中のビアンキ（11/4既報）はプロ供給からの後退が鮮明で、“老舗ブランドの看板”と“実利・価格”が綱引きしている。うちの8LIEN／CRW／GOOSYNN等を売るうえで『中華＝プロも選ぶ本物』という文脈を、国内のお客さんへの説明にそのまま使える。",
+        "sources": [
+          {
+            "t": "Cycling Weekly（11月テック総括）",
+            "u": "https://www.cyclingweekly.com/products/more-chinese-bikes-in-pro-cycling-another-new-wheel-size-and-voice-controlled-cycling-computers-tech-of-the-month-november",
+            "d": "2026-11-12"
+          }
+        ],
+        "status": "確定＝パルダス採用・ビアンキ後退（CW総括11/12）/曖昧＝トタル系の2027チーム名・ライセンスは別途報道あり（要続報）"
+      },
+      {
+        "id": "20261125-bf-wheel-value",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/8QRQxwqkjcVHSgybSMcWPE-2560-80.jpg",
+        "headline": "【ホイール・年末実売／本番は今週末11/27】ブラックフライデー本番直前、中華カーボンは$1,100〜1,500帯で実売——西側ハントは50mmディスクが$749（40%オフ）まで降下。実走テストでは“高い＝速い”はほぼ幻想（4.7kmで7.5秒差）",
+        "layer1": "ブラックフライデー本番（11/27）を今週末に控え、価格が出揃ってきた。中華直販はウィンスペースLún HYPER 3 D45がコード込み約$1,169、エリートDRIVE SL CSが$1,119、NEPEST NOVAが$1,444、PARTICLE GCXが$1,403。YOELEOはNXT／GEN系が10%オフ＋キャップ進呈。西側のハントは50カーボン・ディスクが$749.40（40%オフ）まで下げてきた。",
+        "layer2": "裏取り＝中華各社の実額はCyclists Hubの年末ガイド（11/20更新）、ハント実額は年末セール告知。マサルが接客で使える“物差し”＝road.ccの実走テスト（4月・補足）では£1,650のYOELEO CS60と£3,500のScope Artech 6の差は4.7km周回で約7.5秒、6本中の最速と最遅でも約7秒差。つまり『プレミアムと中華の“速さの差”は実走ではごくわずか、効くのは重量・剛性・整備性と価格』。注意点＝表示価格ではなく『コード後の実額』で比べる、UCI公認やフックレス・タイヤ互換も確認。年末に“高いホイールは本当に速いのか”と問われたら、この7秒差が最強の説明材料になる。",
+        "sources": [
+          {
+            "t": "Cyclists Hub（中華カーボンBF実額・11/20更新）",
+            "u": "https://www.cyclistshub.com/chinese-carbon-black-friday-deals/",
+            "d": "2026-11-20"
+          },
+          {
+            "t": "Cyclingnews（ハント最大40%オフ）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/get-up-to-40-percent-off-top-hunt-wheelsets-at-the-guaranteed-best-black-friday-price/",
+            "d": "2026-11"
+          },
+          {
+            "t": "road.cc（予算vsプレミアム実走テスト・補足）",
+            "u": "https://road.cc/feature/can-budget-carbon-race-wheels-compete-with-premium-offerings-on-the-road-we-assessed-a-range-of-price-points-in-a-real-world-speed-test-to-find-out",
+            "d": "2026-04-23"
+          }
+        ],
+        "status": "確定＝各社の年末実額（11/20時点）とハントの割引率/補足＝実走テストは2026-04で主役ではなく“物差し”として引用（※セール価格・在庫は流動的、公式で要確認）"
+      },
+      {
+        "id": "20261125-gravel-one-bike",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn-jupiter.metropolis.co.uk/wp-content/uploads/sites/9/2026/04/Kaius_Action_L1462465_lukaspiel_web.webp",
+        "headline": "【パーツ・機材の潮流／11/24】『1台で全部こなす』時代へ——グラベルレースバイクが主役化、シルカが“エコシステムの最後のピース”ロード用タイヤRCRを投入（29/34/38mm・カーボンビード）",
+        "layer1": "Cyclistのテックコラム（11/24）が、グラベルレース用バイクが“1台で全部こなす”万能機として主役になりつつある潮流を論じた。その象徴として、パワーメーターなどで知られるシルカが自社タイヤ群『Protocol』を完成させ、ロード用の最上位RCR（29／34／38mm）で『エコシステムに欠けていた最後の1ピースが埋まった』（創業者ポートナー）と位置づけた。",
+        "layer2": "裏取り＝潮流の論考は11/24のCyclist、RCRは『120TPIレーシングケーシング＋低抵抗Pulsarコンパウンド＋カーボン繊維ビード（ケブラー代替で寸法安定・工具不要装着）』。先回りの補足＝RCR自体の初出は今秋で、実勢は38mmで約$99・公称350g、メーカー値で38mmが31.7W（対抗40.5W）と主張（独立レビューは『価格ほどの決定的優位は見いだせない』と辛口）。マサルの文脈＝太タイヤ・ワイドリム・1台万能化の流れは、うちの扱う中華ワイドカーボン（内寸25mm級）とグラベル需要にそのまま効く。“速いロードタイヤ＝細い”の常識が崩れ、29mmが基準になりつつある点は初中級の買い替え提案にも使える。",
+        "sources": [
+          {
+            "t": "Cyclist（Tech Talk・1台で全部）",
+            "u": "https://www.cyclist.co.uk/in-depth/tech-talk-one-bike-to-do-it-all",
+            "d": "2026-11-24"
+          },
+          {
+            "t": "BikeRumor（シルカProtocol詳細・補足）",
+            "u": "https://bikerumor.com/all-new-silca-protocol-road-gravel-bike-race-tires/",
+            "d": "2026-08"
+          }
+        ],
+        "status": "確定＝潮流論考とRCRの仕様（11/24 Cyclist）/補足＝性能値はメーカー公称、独立レビューは評価分かれる・RCR初出は今秋"
+      },
+      {
+        "id": "20261125-beginner-bunch-sprint",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-11%2Fpaul-seixas-6b0577e058e7b.jpg",
+        "headline": "【初中級・自己防衛／セイシャスの“スプリントが怖かった”に乗せて】世界最高の新人でも集団は怖い——初めてのグループライド・イベントで落車しない3つの基本",
+        "layer1": "総合4位の怪物セイシャスでさえ『初ツールの最初の集団スプリントは本気で落車を怖れた』と告白した（今朝のトップ記事）。集団の怖さはプロでも同じ。だからこそ初中級が守るべきは“根性”ではなく“基本の型”だ。",
+        "layer2": "先回りの実践3点＝①前走者のタイヤを直接追わず、肩越しに2〜3人先を見る（急な減速に反応できる、“オーバーラップ=前輪を相手の後輪に重ねない”が鉄則）。②ブレーキは握り込まず、下ハン・指2本で“当て効き”、集団内では急制動より減速予告（声・手信号）。③スプリントや下りで無理に差し込まない——イベントは“完走と安全”が勝ち、年末の路面は落ち葉・濡れ・砂で特に滑る。補足＝不安なら列の後方や端に位置取り、先頭交代の輪に無理に入らない。プロの告白は『怖いのは普通、備えれば防げる』という何よりの励ましになる。",
+        "sources": [
+          {
+            "t": "IDL ProCycling（セイシャスの告白・起点）",
+            "u": "https://www.idlprocycling.com/cycling/seixas-admits-he-found-first-tour-de-france-experience-scary-and-hard-after-three-weeks-youre-completely-done-with-it",
+            "d": "2026-11-24"
+          }
+        ],
+        "status": "確定＝セイシャスの発言を起点にした普遍的な安全基本（一般論として裏取り）/曖昧＝個別の技術は走力・環境で調整が必要"
+      },
+      {
+        "id": "20261125-pogacar-sanremo-spin",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fwww.indeleiderstrui.nl%2Fimages%2F2026-11%2Ftadej-pogacar-6b0547fb26eaa.png",
+        "headline": "【トレンド・人間味／SNSで拡散・11/24】“落車明け”のポガチャルがサンレモで一般ライダーと遭遇——相手の心拍190の横で涼しい顔、『お楽しみはここまで』と言い残して再始動",
+        "layer1": "ブエルタ第8ステージの落車（鎖骨＋椎骨数本骨折）でシーズンを終えていたポガチャルが、モナコでの再始動後、国境を越え今季制したミラノ〜サンレモの地サンレモへ。地元の一般ライダー（アカウントCacciatori.kom）がその“軽い流し”を撮影し、インスタで拡散した。",
+        "layer2": "裏取り＝11/24報。微笑ましいのは、相手の心拍が既に190に達する横で、王者は平然とペダルを回していたという対比。ポガチャルの唯一の台詞は『お楽しみはここまで（＝そろそろ本気の冬練だ）』。休養にはアイルランドでのエディ・ダンバーの結婚式も挟んだという。マサルのショート素材として“プロと市民の出力差”を可視化する鉄板ネタ——同じ速度でも、こちらは全力・向こうは散歩、という現実が刺さる。昨日までの『ポガチャルは12月スペイン合宿へ』の流れとも接続する、オフ明けの明るい一本。",
+        "sources": [
+          {
+            "t": "IDL ProCycling",
+            "u": "https://www.idlprocycling.com/cycling/tadej-pogacar-humbles-recreational-cyclist-on-easy-spin-in-sanremo",
+            "d": "2026-11-24"
+          }
+        ],
+        "status": "確定＝ポガチャルのサンレモ流しとインスタ拡散（11/24）/曖昧＝動画の再生数など具体的なバズ規模は本記事では未記載"
+      }
+    ]
+  },
+  {
     "date": "2026-11-24",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。レース界は2027年の野望一色——ポガチャルが『3大ツール完全制覇、いつかやる、ただし来年ではない』と明言し、37歳ログリッチは最後のツールを賭けてNSNへ。年末商戦は中華直販の『コード重ね』とハントの投げ売りで底値が出揃いました。",
     "cards": [
