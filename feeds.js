@@ -1,5 +1,329 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-11-26",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。今日は2027体制固めと“人間ドラマ”の週——マッズ・ペデルセンが自伝で初モニュメントと母国引退を語り、ブエルタ女王ブラジは買い物中の珍落車から72時間でローラー復帰、ファンデルポールは婚約＆第一子の朗報。機材は年末ブラックフライデーの中華“底値”が今週末本番、明日はCX開幕オストラヴァ、土曜はヴェロドール発表です。",
+    "cards": [
+      {
+        "id": "20261126-pedersen-book",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039135-089.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C141",
+        "headline": "【🔥今日の一本・レース／人間ドラマ・11/21刊行】ツール緑のマッズ・ペデルセンが自伝で本音——『背中が折れていたら、もう戻ってこられないと思った』落車の恐怖、それでも狙うは初モニュメント、そして2029年“母国コペンハーゲン世界選”での引退",
+        "layer1": "デンマークのメディアTV2が、リドル・トレックのペデルセン（2026ツール・ポイント賞）の自伝の抜粋を公開。初めてのモニュメント制覇への渇望と、2029年コペンハーゲン世界選後の引退プランを改めて明かした。",
+        "layer2": "確定しているのは『2029・母国で区切り』という“希望”（撤回し得る）。理由は体への負担と「家庭を持ちたい」こと。モニュメントは『1つ勝てば、次が欲しくなる』と貪欲だ。リドル・トレックとは“生涯契約”で、辞め時は本人次第。過去の恐怖の落車を振り返り『背中が折れていたら、ここから戻ってこられない』と漏らした一節が刺さる。なぜ“今”か＝11/21の自伝抜粋公開が起点。",
+        "sources": [
+          {
+            "t": "road.cc（自伝抜粋）",
+            "u": "https://road.cc/news/cycling-live-blog-25-november-2026",
+            "d": "2026-11-25"
+          },
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/mads-pedersen-reveals-surprise-retirement-plan-as-family-fears-drive-early-exit/",
+            "d": "2026-11-24"
+          },
+          {
+            "t": "Cyclingnews（引退プラン背景）",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/mads-pedersen-reveals-plans-to-retire-after-home-world-championships/",
+            "d": "2026-07-09"
+          }
+        ],
+        "status": "確定＝自伝抜粋の公開・モニュメント志向・家庭を理由にした早期引退構想／曖昧＝引退は“希望”で正式決定ではない"
+      },
+      {
+        "id": "20261126-blasi-elbow",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/Women/UAE-Team-ADQ/CORVOS_00039214-233.jpg?width=2400&height=1260&quality=75&crop=6000%2C3150%2C0%2C425",
+        "headline": "【レース・人間ドラマ／11/15】ブエルタ女王ブラジが“買い物の道”で肘を骨折——移籍先モビスターでの船出直前、自転車で八百屋へ向かう途中の珍落車、それでも72時間でローラー復帰・12月クロス出場を狙う",
+        "layer1": "2026ブエルタ覇者パウラ・ブラジ（スペイン、2027からUAE→モビスター）が、果物の買い物へ自転車で向かう途中に落車し左肘を骨折。YouTubeとInstagramで自ら公表、三角巾姿の写真も添えた。",
+        "layer2": "確定＝肘骨折で冬のクロス計画に遅れ。だが回復は良好で『落車から72時間でローラーに乗っていた』、8日後には実走復帰。モビスター会長ウンスエは「初年度に影響はない」と楽観視する。今季は世界選の大落車（肋骨）に続く災難だが、前のめりに戻ってくるのがブラジらしい。※“スーパー”は店舗事故ではなく移動中の落車。",
+        "sources": [
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/paula-blasi-suffers-fractured-elbow-after-bizarre-supermarket-trip-crash/",
+            "d": "2026-11-15"
+          },
+          {
+            "t": "Escape Collective",
+            "u": "https://escapecollective.com/blasi-breaks-elbow-but-hopes-to-race-cx-in-december/",
+            "d": "2026-11-15"
+          },
+          {
+            "t": "Cyclingnews（8日後復帰）",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/paula-blasi-back-on-the-bike-eight-days-after-fracturing-elbow-during-grocery-run/",
+            "d": "2026-11-23"
+          }
+        ],
+        "status": "確定＝骨折・順調な復帰過程（複数ソース）／曖昧＝クロス復帰の時期は未確定"
+      },
+      {
+        "id": "20261126-cx-ostrava-men",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/Cyclocross/CORVOS_00038514-070.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C141",
+        "headline": "【レース・冬／明日11/27開幕・続報】CXワールドカップ開幕オストラヴァ、焦点は男子——“直近4連勝”ナイス vs ロードから帰還のデル・グロッソ、女王ブランドは総合連覇防衛、ベクステッドも初戦投入",
+        "layer1": "昨日伝えた初開催オストラヴァ（旧製鉄所ドルニ・ヴィートコヴィツェのナイター）がいよいよ27日開幕。男子はティボー・ナイスが本命だが、全12戦フル参戦を宣言したティボル・デル・グロッソが“ロード集中明け”で殴り込む。",
+        "layer2": "確定＝女子18:15／男子19:45（CET）、雪予想で『泥は少ない』硬めのコース。ブランドが総合連覇の防衛を開始、ゾーイ・ベクステッド（TT世界銀）もここでクロス始動する。29日はすぐタボルが続く“2連戦”。デル・グロッソの「全戦出る」はロード系選手としては異例で、ナイスの連勝街道に最初の試練となる。結果は本日夜。",
+        "sources": [
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/snow-and-floodlights-await-as-2026-27-uci-cyclo-cross-world-cup-gets-under-way-in-ostrava/",
+            "d": "2026-11-25"
+          },
+          {
+            "t": "ProCyclingUK（男子展望）",
+            "u": "https://procyclinguk.com/world-cup-ostrava-2026-men-preview-course-contenders/",
+            "d": "2026-11-24"
+          },
+          {
+            "t": "CyclingFlash",
+            "u": "https://cyclingflash.com/news/preview-ostrava-world-cup-2026-thibau-nys-faces-tibor-del-grosso",
+            "d": "2026-11-24"
+          }
+        ],
+        "status": "確定＝日程・顔ぶれ・コース（前日時点）／結果は本日夜"
+      },
+      {
+        "id": "20261126-pogacar-tdu",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/UAE-Team-Emirates-XRG/CORVOS_00038902-343.jpg?width=2400&height=1260&quality=75&crop=6000%2C3150%2C0%2C425",
+        "headline": "【トレンド・2027始動／11/23】ポガチャル、来季開幕戦にツアー・ダウンアンダーを“選ばない”——UAEの医療・パフォーマンス陣が豪州遠征に難色、復帰初戦は11/29モナコのチャリティ・クリテ『BeKing』",
+        "layer1": "ダニエル・ベンソンの報道をドメスティークが伝えた。主催側とは条件が折り合っていたが、UAE陣営が「欧州で復帰を近くで管理したい」とダウンアンダー行きに待ったをかけた、という。チームは未確認。",
+        "layer2": "確定＝8/29ブエルタ第8ステージの落車（鎖骨・椎骨・脳震盪）以来レースから遠ざかり、復帰の“最初の一歩”は11/29モナコのクリテ。暫定日程は12月のチーム合宿で提示見込み。本人は10月末『クラシック、UAEツアー、そしてツール』に言及していた。開幕の軽い一発より、本番へ向けた慎重設計がうかがえる。※チーム公式確認は未（要続報）。",
+        "sources": [
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/pogacar-will-not-race-tour-down-under-in-2027-after-uae-staff-push-back-on-australia-trip/",
+            "d": "2026-11-23"
+          }
+        ],
+        "status": "曖昧＝ベンソン報道ベース・チーム未確認（※要続報）／確定＝BeKing出場・負傷歴"
+      },
+      {
+        "id": "20261126-vdp-engaged",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fcyclinguptodatecom%2Fimages%2F2026-07%2Fmathieu-van-der-poel-and-roxanne-bertels-on-stage-9-of-the-2026-tour-de-france-6a54d426ae7e8.jpg",
+        "headline": "【トレンド・人間味／SNSで拡散・11/15】ファンデルポールが婚約——ロクサーヌ・ベルテルスが『100万回イエス』とインスタで公表、来年1月には第一子誕生予定の“ダブルの朗報”",
+        "layer1": "31歳の万能王者マチュー・ファンデルポールが、長年のパートナー、ロクサーヌ・ベルテルスと婚約。日曜にインスタで発表し、彼女は『A million times yes（100万回イエス）』と投稿。プロポーズはスペイン・モライラのマタニティ撮影中だったと報じられた。",
+        "layer2": "確定＝婚約と第一子（2027年1月予定、妊娠は6月に公表済み）。子の性別は蘭メディアで“娘か”の観測もあるが一次確認はない。式の日程は未定。クロス開幕直前のビッグニュースで、来季の去就（出産・育児で“走りは変わるのか”）にもファンの関心が向く。※性別は要裏取り。",
+        "sources": [
+          {
+            "t": "Cycling Uptodate",
+            "u": "https://cyclinguptodate.com/cycling/mathieu-van-der-poel-is-engaged-roxanne-bertels-says-a-million-times-yes-in-instagram-announcement",
+            "d": "2026-11-15"
+          },
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/mathieu-van-der-poel-and-roxanne-bertels-announce-engagement-ahead-of-first-childs-arrival/",
+            "d": "2026-11-24"
+          },
+          {
+            "t": "Paris Match",
+            "u": "https://www.parismatch.be/actualites/people/2026/11/16/mathieu-van-der-poel-sur-le-point-de-se-marier-qui-est-roxanne-bertels-la-belge-qui-la-fait-chavirer-et-donnera-bientot-naissance-a-son-enfant-NW4YYMLC4NEJ5ETQHEX2AS7WX4/",
+            "d": "2026-11-16"
+          }
+        ],
+        "status": "確定＝婚約・第一子予定（複数ソース）／曖昧＝子の性別・式日程（※要裏取り）"
+      },
+      {
+        "id": "20261126-bf-cn-wheels",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/a5222748-19d2-4377-a819-b4510ae29986/thumbnails/0a7d8874-9750-4d53-9eda-de0c3252c0e6.jpg?appId=32337f2f-7841-4ef6-a233-d1f001580530&platform=WEB&w=1200",
+        "headline": "【経営メモ・市場／年末商戦・本番は明日11/27】中華カーボン直販の“底値”は今週末——Elitewheels（11/10〜12/1）・Winspace（〜12/4）・Farsports（11/27〜12/1）が出揃い、西側ハントも最大40%オフで中華価格帯に降下",
+        "layer1": "ブラックフライデー本番（11/27）直前、中華直販のセール期間が確定。Elitewheelsは11/10〜12/1、Winspaceは〜12/4、Farsportsは11/27〜12/1。西側のハントも50 Carbon Discなどを最大40%オフにし、年末の値付けを一段下げた。",
+        "layer2": "要点は『表示価格より“コード後の実額”で比べる』こと（紹介コードで一段深くなる）。日本の買い手が最終的に払うのは送料・関税込みの総額で、ここが国内ショップの価格説明が問われる局面だ。うち（8LIEN／CRW／GOOSYNN等）も同じ土俵の“実額”を把握し、年末の相談に即答できるようにしておきたい。※各ブランドの割引率・期間は公式で要確認。",
+        "sources": [
+          {
+            "t": "Cyclists Hub（中華BFまとめ）",
+            "u": "https://www.cyclistshub.com/chinese-carbon-black-friday-deals",
+            "d": "2026-11"
+          },
+          {
+            "t": "BikeRadar（Hunt BF）",
+            "u": "https://www.bikeradar.com/news/hunt-50-carbon-disc-black-friday-2026",
+            "d": "2026-11-10"
+          }
+        ],
+        "status": "確定＝各セール期間・ハントの値引き幅／曖昧＝個別の実額は変動（公式で要確認）"
+      },
+      {
+        "id": "20261126-cn-pricewar-support",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://usercontent.one/wp/www.velofanatics.com/wp-content/uploads/2026/01/Best-Chinese-Carbon-Road-bikes-2027-1400x788.png?media=1794213040",
+        "headline": "【経営メモ・市場／競合の構造・年末に効く】“同じ技術が半額”の中華直販、それでも残る『サポートの壁』——店が売るのは価格ではなく、保証・補修・駆け込み先という安心",
+        "layer1": "2026年、中華カーボンは空力・積層・軽量・コスパで“業界の会話をリード”する存在になった。一方で海外記事が口を揃えるのは、販売拠点・保証対応・補修部品・アフターの基盤は既存ブランドが数十年かけて築いたもので、新興直販はまだ途上だという点だ。",
+        "layer2": "年末の直販“底値”に客が流れるほど、実は国内ショップの価値（組み・保証・トラブル時の駆け込み先）が相対的に際立つ。マサルの戦い方は『中華の実額を正直に認めた上で、“買った後”の安心を売る』こと。価格だけで同じ土俵に乗れば消耗戦、サポートで差を付ければ継続客になる。年末商戦こそ、この差を語る好機だ。",
+        "sources": [
+          {
+            "t": "Velo Fanatics（2026中華ベスト）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-road-bikes-2026/",
+            "d": "2026-01-10"
+          },
+          {
+            "t": "BikeRadar（中華の価格戦争）",
+            "u": "https://www.bikeradar.com/features/opinion/chinese-bike-brands-have-sparked-a-price-war",
+            "d": "2026-09-26"
+          },
+          {
+            "t": "Cycling Weekly（同技術が半額）",
+            "u": "https://www.cyclingweekly.com/news/chinese-tech",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝サポート基盤の差という業界共通見解／曖昧＝分析記事（鮮度は年末商戦という“今”の論点に接続）"
+      },
+      {
+        "id": "20261126-cadex-maxgxr",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://bikebiz.com/wp-content/uploads/Premium-Performance-1-1024x819.jpg",
+        "headline": "【ホイール・最前線／road.cc評・11月】キャデックス最上級グラベル『Max GXR』——50mm・ペア1,320g・“エアロ”専用タイヤ込みで約$4,000、頂点の軽さと剛性、しかし値段も頂点",
+        "layer1": "ジャイアント系キャデックスの新グラベル・ホイールシステムMax GXRを、road.ccが『例外的な出来だが“最高”を買える人向け』と評価。ボンデッド・カーボンスポーク採用、公称重量ペア1,320g、専用GXRエアロタイヤとのセット設計だ。",
+        "layer2": "価格は£3,499／$4,000／€3,799（タイヤ別）。公称はAR 35比でリア伝達剛性+19.9%、45cタイヤ装着時4.61W節約。Liv／ジャイアントの旗艦完成車に採用される。つまり“最高峰は約60万円”。ここを基準に見ると、中華カーボン（直販$1,000〜1,500帯）の『8割の性能を3割の価格で』という提案が、改めて数字で際立つ。",
+        "sources": [
+          {
+            "t": "road.cc（レビュー）",
+            "u": "https://road.cc/news/cycling-live-blog-25-november-2026",
+            "d": "2026-11-25"
+          },
+          {
+            "t": "BikeRadar（発表）",
+            "u": "https://www.bikeradar.com/news/cadex-max-cxr-wheelsystem",
+            "d": "2026-06-30"
+          },
+          {
+            "t": "Bikerumor",
+            "u": "https://bikerumor.com/bonded-carbon-hub-spokes-for-gravel-cadex-new-max-gxr-wheels-and-gxr-tires/",
+            "d": "2026-06-30"
+          }
+        ],
+        "status": "確定＝仕様・価格・評価／曖昧＝公称ワット・剛性は実走条件で変動"
+      },
+      {
+        "id": "20261126-ravemen-fr1000",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://i0.wp.com/thesweetcyclists.com/wp-content/uploads/2025/10/ravemen_fr1000_headlight_review_website.jpg?fit=1200%2C900&ssl=1",
+        "headline": "【パーツ・小径の工夫／road.ccが再評価・11月】“ライトがそのままアウトフロント台座”——レイヴメンFR1000、1000lmでガーミン／ワフー／ブライトン／GoPro対応、USB-Cモバイルバッテリー機能つき",
+        "layer1": "road.ccがレイヴメンFR1000を取り上げた。前方へ突き出すアウトフロント・マウント自体が1000ルーメンのライトという一体型。上面にサイコン（ガーミン等アダプタ同梱）、下面にGoProマウントを備える。",
+        "layer2": "確定＝レンズが水平〜下30°までヒンジで角度調整でき、3000mAh・USB-C充電でモバイルバッテリーにもなる。価格は約$74.95、防水IPX6。“ハンドル周りがごちゃつく”冬装備を1つにまとめたい人向けの実用ギアで、初中級が最初に買い足す『ライト＋台座』を一点で済ませられるのが利点だ。",
+        "sources": [
+          {
+            "t": "road.cc",
+            "u": "https://road.cc/news/cycling-live-blog-25-november-2026",
+            "d": "2026-11-25"
+          },
+          {
+            "t": "The Sweet Cyclists（詳細レビュー）",
+            "u": "https://thesweetcyclists.com/ravemen-fr1000-led-bike-headlight-garmin-out-front-mount-combo-review/",
+            "d": "2025-10-07"
+          }
+        ],
+        "status": "確定＝仕様・価格／曖昧＝充電残量インジケータ無しを惜しむ声あり"
+      },
+      {
+        "id": "20261126-lights-aokippu",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://autos-pctr.c.yimg.jp/dzF9o7ZTfctyx6yoKaI796zQH9DodEsLBrUCHjAt1J5sbGCBzZRENV9LY-Fp6ICeHQHie-7vUWdUTzeaUtahQpf23suUGc0wLzU4qyFZwur7k1Oatd2ItvqN-piZqA-RJ447VSxB8gVXjvW0G80cCwwq2He4N-2JwLN15eMDWEk=",
+        "headline": "【初中級・自己防衛／英の一斉取締り＋日本の青切符に乗せて】冬は“無灯火”が一番危なくて一番高くつく——英オックスフォードで50人停止、日本は無灯火5,000円・ながら運転12,000円の時代",
+        "layer1": "英オックスフォードで警察が夕方の無灯火を一斉取締りし、50人を停止・5人に罰金。日本でも2026年4月から自転車に青切符が導入済みで、無灯火5,000円・信号無視6,000円・ながら運転12,000円（16歳以上）が科される。",
+        "layer2": "冬は日没が早く、無灯火の“うっかり”が事故と反則の両方に直結する。確定＝前照灯＋尾灯はもはや『努力』ではなく実質マスト（反則金の対象）。先回りの3点——①暗くなる季節は“常時点灯”を既定に、②モバイルバッテリー兼用ライト（前出FR1000など）で“充電切れ”を回避、③リフレクター／反射ベストで被視認性を底上げ。ヘルメットは引き続き努力義務。※金額は一例、最新は警察庁発表で要確認。",
+        "sources": [
+          {
+            "t": "road.cc（オックスフォード取締り）",
+            "u": "https://road.cc/news/cycling-live-blog-25-november-2026",
+            "d": "2026-11-25"
+          },
+          {
+            "t": "carview!／ベストカー（青切符）",
+            "u": "https://carview.yahoo.co.jp/article/detail/7627846f1f791992f76900627e2ea71edcd1d97a/",
+            "d": "2026"
+          }
+        ],
+        "status": "確定＝英の取締り・日本の反則金額（自治体資料ベース）／曖昧＝金額は一例・運用は要確認"
+      },
+      {
+        "id": "20261126-cn-afterbuy",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/78785540-e315-4637-ba99-6bfb0571dbac/thumbnails/a060095b-fee6-4330-af02-c9a1f2d683d4.jpeg?appId=32337f2f-7841-4ef6-a233-d1f001580530&platform=WEB&w=1200",
+        "headline": "【初中級・買い方／年末BFと“ブランド淘汰”に乗せて】初めての中華カーボンは『買った後』で選べ——保証年数・補修部品・駆け込み先、安いだけの直販で冬に泣かない4つの確認",
+        "layer1": "年末は中華直販が“底値”。だが海外では自転車ブランドの事業再編・破綻も相次ぎ（大手の倒産ニュースが続く）、『数年後にサポートが消える』リスクは初心者ほど痛い。価格表だけで飛びつかないのが肝心だ。",
+        "layer2": "先回りの4確認——①保証年数と“誰が”対応するか（直販か国内代理店か）、②スポークやフリーボディなど“補修部品”を後から単体で買えるか、③トラブル時の駆け込み先（組み直し・振れ取りを頼める店があるか）、④UCI公認やリム規格など“長く使える仕様”か。うち（8LIEN／CRW／GOOSYNN／NEPEST／PARTICLE）を薦める理由も結局ここ——“買った後”まで面倒を見る前提で選ぶと失敗しない。",
+        "sources": [
+          {
+            "t": "Velo Fanatics（中華とサポート）",
+            "u": "https://www.velofanatics.com/best-chinese-carbon-road-bikes-2026/",
+            "d": "2026-01-10"
+          },
+          {
+            "t": "Cycling Weekly（サポートの課題）",
+            "u": "https://www.cyclingweekly.com/news/chinese-tech",
+            "d": "2026"
+          },
+          {
+            "t": "Cyclists Hub（年末BF）",
+            "u": "https://www.cyclistshub.com/chinese-carbon-black-friday-deals",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝サポート基盤が新興直販の課題という共通見解／曖昧＝個別ブランドの保証内容は各社で要確認"
+      },
+      {
+        "id": "20261126-velodor",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/CORVOS_00039189-173.jpg?width=2400&height=1260&quality=75&crop=2000%2C1050%2C0%2C141",
+        "headline": "【トレンド・年間表彰／今週土曜11/28パリ】2026ヴェロドール、いよいよ発表——男子は本命ポガチャルに20歳セイシャスが挑む構図、今年から“ルーキー賞・スプリンター賞”も新設",
+        "layer1": "2026年ヴェロドールの授賞式が11/28（土）パリで行われる。男子最終ノミネートはポガチャル、エヴェネプール、ファンデルポール、ヴァンアールト、ビンゲゴー、デルトロ、E.マス、マクナルティ、ゴール、そして20歳のセイシャス。",
+        "layer2": "本命はポガチャル（4度目か）だが、今年の見どころは新設の“ルーキー賞・スプリンター賞”。セイシャスは本賞と新設ルーキー賞の両にらみで、「最優秀新人」を掻っ攫う可能性がある。女子は2025覇者フェランプレヴォがノミネート外で、フォレリングが本命視される。マサル注目の“次世代の戴冠”が見られるか。結果は11/28。",
+        "sources": [
+          {
+            "t": "Domestique Cycling（ノミネート）",
+            "u": "https://www.domestiquecycling.com/en/news/pogacar-and-vollering-lead-2026-velo-dor-nominees-as-shortlists-are-revealed/",
+            "d": "2026-11"
+          },
+          {
+            "t": "ProCyclingUK（新設部門）",
+            "u": "https://procyclinguk.com/velo-dor-2026-nominees-men-women-sprinters-rookies/",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝日程・ノミネート・新設部門／結果は11/28"
+      }
+    ]
+  },
+  {
     "date": "2026-11-25",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。レース界は2027体制固めが本格化——20歳セイシャスが初ツールの『怖さ』を告白し、ネットカンパニー・イネオスはベルナル2029年まで＋7人残留で再建を加速。X界隈はポガチャルの『ドーピング発言→元ドーパーのアイス屋返し』で沸騰、年末商戦は今週末がブラックフライデー本番です。",
     "cards": [
