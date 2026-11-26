@@ -1,5 +1,235 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-11-27",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。今夜は製鉄所跡のナイターでクロスW杯が開幕、裏ではビッグスポンサーと老舗ブランドが同じ日に動きました。昨日今日の“本物”だけで組んでいます。",
+    "cards": [
+      {
+        "id": "20261127-nys-brand-loeters",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/aDbRFd6jLg5WG73swjUacL.jpg",
+        "headline": "【🔥今日の一本・レース／土壇場の救済・11/26】シーズン半ばで“無冠”になりかけたナイス＆ブランドの最強クロスチーム、電器店『エレクトロ・ローテルス』が新タイトルに——2027年1月から、わずか数週間でまとまった救済劇",
+        "layer1": "スヴェン・ナイス率いる強豪クロスチーム（ティボー・ナイス＆ルシンダ・ブランド）が、年明け2027/1/1から新タイトルスポンサーに電器量販『Elektro Loeters』を迎えると発表。シーズン中に撤退した『Het Poetsbureau（親会社Glowi）』の穴を、バロイゼ保険と並ぶ新名義で埋めた。",
+        "layer2": "ここは11/11・11/16のタイムラインで『シーズン中にスポンサー探し』と追ってきた話の“結末”。チーム側は『チャンスを見たら素早く動くしかない』と証言、Elektro Loeters側の打診はここ数週間のことだったという。今季すでにチーム通算12勝（ナイス4勝・ブランド6勝、欧州選手権はゼダムで両者V）という“勝てる看板”が、数週間でのスピード成約を呼んだ。同社はフランドルに10店舗＋新規5店の拡大中＝クロス人気を販促に使う典型。日本の店売りでも『勝っているチーム＝露出価値』という構図は同じ。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/when-you-see-an-opportunity-you-have-to-act-quickly-thibau-nys-and-lucinda-brands-cyclo-cross-team-find-new-sponsorship-from-2027-onwards/",
+            "d": "2026-11-26"
+          }
+        ],
+        "status": "確定＝新スポンサーはElektro Loeters・2027/1/1発効（契約年数は未発表）。曖昧＝金額は非公表。"
+      },
+      {
+        "id": "20261127-ostrava-worldcup-open",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/uNgHUdWgjZn83kHhRmfKYS-2560-80.jpg",
+        "headline": "【レース・冬／本日11/27エリート開幕】クロスW杯、製鉄所跡『ドルニ・ヴィートコヴィツェ』のナイターで初開催——エリート女子は現地18:15、男子19:45、鉄の階段と深い砂のコースが照明に浮かぶ",
+        "layer1": "2026-27 UCIシクロクロス・ワールドカップ第1戦オストラヴァ（チェコ）が、本日11/27にエリートレースを迎える。会場は旧製鉄・採掘複合施設ドルニ・ヴィートコヴィツェ、エリート女子18:15／男子19:45（現地CET＝日本時間は深夜〜未明）のナイター開催。",
+        "layer2": "ここが『UCIワールドカップ初開催』の地（過去のトイトイカップ等はW杯記録に入らない＝歴代勝者リストが無い“更地”の一戦）。鉄の階段セクションと深い砂ピットが名物で、人工照明下での地形・コーナー読みが鍵になる。2日後の11/29にはすぐ第2戦タボルが続くチェコ連戦。焦点は昨季“各8勝”の絶対女王ブランドの連覇態勢と、ファンデルポールが結局いつ初戦を入れるかの“参戦問題”。結果が出れば明日のタイムラインで続報する。",
+        "sources": [
+          {
+            "t": "ProCycling UK",
+            "u": "https://procyclinguk.com/?p=33424299287",
+            "d": "2026-11-18"
+          },
+          {
+            "t": "Velora Cycling",
+            "u": "https://veloracycling.com/races/uci-cyclo-cross-world-cup-1-ostrava-2026",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝本日エリート開催・女子18:15/男子19:45(現地)・初のW杯開催地。曖昧＝本稿時点で結果・最終スタートリストは未確定。"
+      },
+      {
+        "id": "20261127-visma-title-exit-nike",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/XqTogiuHVyCbXh6aFovKsE.jpg",
+        "headline": "【経営メモ・市場／看板の潮目・11/26】会計ソフト『Visma』がチーム名から退く——2027はタイトル名未定で暫定“Yellow B”登録、一方でナイキのスウッシュがジャージに乗る",
+        "layer1": "ワールドツアー強豪ヴィスマ・リースアバイクのタイトルスポンサー『Visma』が、2027年からチーム名義を降りる（“Founding Partner”としては残留）。共同タイトルは未決、UCIライセンス申請は持株会社『Yellow B』名義で提出。2月時点で“投資縮小”が報じられていた流れの決着。",
+        "layer2": "かつてのユンボ撤退と同じ『大手が看板を降りる』パターンで、名門でも単独タイトルを失う時代を象徴。Vismaは北欧→欧州・中南米への事業拡大で『戦略的優先度が変わった』（CEOヘルヴェン）と説明。別件発表で、2027はジャージに“ナイキのスウッシュ”が載る（製造は従来通りNimbl）＝アパレルの座組も動く。トタル離脱（11/18・11/24）やサウジ撤退（11/22）に続く“スポンサー流動化”の11月、店にとっては『来季どの看板のレプリカが売れるか』が読みにくい年。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/visma-steps-down-as-title-sponsor-of-visma-lease-a-bike-team/",
+            "d": "2026-11-26"
+          },
+          {
+            "t": "Escape Collective (関連)",
+            "u": "https://escapecollective.com/dailynews/",
+            "d": "2026-11-26"
+          }
+        ],
+        "status": "確定＝Vismaはタイトル降板・Founding Partner残留・2027はYellow B登録・ナイキロゴ追加。曖昧＝新共同タイトル名は未発表。"
+      },
+      {
+        "id": "20261127-lapierre-rescue",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/SSFAcn2WNSUgfmF7XMHf27.jpg",
+        "headline": "【経営メモ・市場／老舗の瀬戸際・11/26】仏『ラピエール』が救済の一歩手前——裁判所が複数の買収提案を審理中、名乗りは“元プロ選手”率いるダブリンのQuanta Capital、だが正式合意は『まだ』",
+        "layer1": "親会社Accell破綻で裁判所の管理下にある仏老舗ラピエール（1946年ディジョン創業・ピクニックPostNLの機材供給元）。英サンデー・タイムズが『合意成立』と報じたが、同社DGペリエはCyclingnewsに『まだ完了していない』と火消し。買い手候補はQuanta Capital。",
+        "layer2": "Quantaを率いるのは元プロ選手メル・サトクリフ。Accellは7月末にDuTech売却が流れ8月に破綻、9/21から6か月の観察期間で出資先を探している最中で、提案は今週裁判所で審理されたが決定は未だ。『本当に買いたがっているが、資金・雇用・事業計画の確認が残る』（ペリエ）。同じAccell傘下のラレーは大幅縮小（43名整理・在庫はHalfordsへ£7m超）と対照的で、『同じ技術が半額』の中華直販が攻める裏で“西側の歴史あるブランドが次々と資本の波に洗われている”年（ビアンキ11/4・テンプル閉鎖11/10に続く）。店の仕入れ・保証体制を考える上でも、背後の資本の健全性は要注視。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/cycling-kit-accessories/lapierre-on-the-brink-of-salvation-with-court-studying-multiple-offers-as-a-former-pro-cyclist-really-wants-to-acquire-the-french-bike-brand/",
+            "d": "2026-11-26"
+          }
+        ],
+        "status": "確定＝裁判所が複数提案を審理中・Quanta（サトクリフ）が有力候補・DGは“未完了”と明言。曖昧＝最終合意・価格・雇用条件は未確定。"
+      },
+      {
+        "id": "20261127-pedersen-uci-kit-rule",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/LHuaPCdajn6aom8xdSdHGA.jpg",
+        "headline": "【トレンド・業界の体温／ファンも巻き込み炎上気味・11/26】マッズ・ペデルセンがUCIの“旧チーム着用ルール”に激怒——『馬鹿げていて愚かだ』、新チーム合宿で旧ジャージを着る珍事が今年も続出、ファンレット移籍のファンアンローイは出走自体が延期に",
+        "layer1": "リドル・トレックのペデルセンが自身のポッドキャストで、『契約が12/31まで＝年内は旧チーム所属』というUCI規定を『ridiculous and stupid（馬鹿げて愚か）』と批判。『12/1や初合宿から新機材OK、という一文を入れればいいだけ』と提案した。",
+        "layer2": "規定2.15.139は“現契約中は他スポンサーの宣伝不可”。だから新天地NSNの初顔合わせでログリッチ（旧レッドブル）やカラパス（旧EF）が旧ジャージで登場、来月のリドル・トレック合宿ではガナ・ガル・ジェガも旧チーム色のまま。リドル・トレックからキャニオン-SRAMへ移るファンアンローイは年明けまで“非チームウェア”縛りでクロス初戦が遅延（11/25既報の続報）。UCIは昨年『契約開始を11/1に前倒しする、必ず変える』と明言しながら未改正＝ファンも選手も毎年ザワつく“風物詩”に。X起点で燻る典型的な制度論争。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/ridiculous-and-stupid-mads-pedersen-hits-out-at-uci-contract-rules-which-sees-riders-wearing-old-teams-kit-to-new-team-training-camps/",
+            "d": "2026-11-26"
+          }
+        ],
+        "status": "確定＝ペデルセンの発言・規定の存在・各選手の旧ジャージ着用・ファンアンローイ延期。曖昧＝UCIの改正時期は未定（昨年“必ず変える”から据え置き）。"
+      },
+      {
+        "id": "20261127-uci-points-economy",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/CdkmnN3Eu9VfimhDK6HtUh.png",
+        "headline": "【トレンド・業界の仕組み／深掘り・11/26】『勝利がすべてではない』——チーム存続を左右するUCIポイント経済の内幕、トップ10量産が王者を凌ぐ数字ゲームに、マシューズは『サイクリングを壊している』と断言",
+        "layer1": "Cyclingnewsが“UCIポイント経済”を特集。3年サイクル・18枚のWTライセンスを巡り、2026〜28のポイントが2029〜31の顔ぶれを決める構造が、ロスター編成を『データ最適化』に変えている実態を解説。",
+        "layer2": "降格は『ツール等GT出場権喪失→露出・スポンサー価値・採用力の低下』に直結するため、“勝利より着順（トップ10/30量産）”が合理になり、攻めない・小レースに出張る動きを生むとの批判。数字も具体的：ある最適化モデルは1チームの平均ポイントを375.3→824.7に跳ね上げ、XDSアスタナは2024年21位→2025年4位でWT残留、UAEは推定£50m予算で“£1mあたり656pt”に対しウノエックスは784と効率トップ、ピクニックPostNLは178で最下位。『無能だ』（バルディアーニ代表）『サイクリングを壊している』（マシューズ）と現場の不満も噴出。ネットカンパニー・イネオスのタイヤ変更やチームの小レース遠征も、この“ポイント経済”で読める。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/racing/winning-isnt-everything-inside-cyclings-high-stakes-race-for-uci-points/",
+            "d": "2026-11-26"
+          }
+        ],
+        "status": "確定＝3年サイクル・18枚WT・各数値は記事引用。曖昧＝最適化モデルは疲労を無視した概念実証と記事も注記。"
+      },
+      {
+        "id": "20261127-roglic-gt-2027",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/LeoH4KC7PFLUX5KBFgqtpc-2000-80.jpg",
+        "headline": "【トレンド・去就／37歳の最終章・11/26】ログリッチ『どのグランツールにも心が動く』——新天地NSNでの2027初戦、ツール・ジロ・ブエルタのどれを狙うかは“あと数週間”先に決定",
+        "layer1": "新天地NSN（旧レッドブル）に1年契約で移ったログリッチ（37）が、2027年の目標GTについて『3つのどれにも惹かれる』と語りつつ、最終決定は“数週間先”と明言。11/18の移籍確定、11/23の“ツールの椅子約束”報道に続く本人コメント。",
+        "layer2": "11/23にはNSNが『2027新コース（71kmTT＋山頂3回）が得意型』としてツール起用を示唆していたが、本人はまだ“全方位”に含みを残す構図。カラパス＆ファンエトフェルトと組む“挑戦者”として、どのGTに照準を合わせるかはチームのエース配分（対ポガチャルをどこで避けるか）に直結する。旧ジャージ着用ルール（本日別カード）でNSN初合宿に旧レッドブル色で現れた一人でもあり、“新体制の始動”がじわじわ進む。マサルの好きな『人間ドラマ×去就』枠。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/primoz-roglic-tempted-by-each-grand-tour-in-2027-but-a-decision-is-several-weeks-away/",
+            "d": "2026-11-26"
+          }
+        ],
+        "status": "確定＝本人が“全GTに関心・決定は数週間先”と発言・NSN1年契約。曖昧＝狙うGTは未確定。"
+      },
+      {
+        "id": "20261127-chinese-carbon-bf-final",
+        "genre": "wheel",
+        "genreLabel": "WHEEL",
+        "genreJa": "ホイール",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/8QRQxwqkjcVHSgybSMcWPE-2560-80.jpg",
+        "headline": "【ホイール・年末実売／本日ファーズポーツ開始・最終週】中華カーボンBFの“底値”が出揃い、これから閉まる——スーパーチーム11/30・ファーズポーツ/エリート12/1・ウィンスペース12/4・YOELEO12/5、実額はHYPER 3 D45が$1,299〜",
+        "layer1": "中華直販のブラックフライデーが最終コーナーへ。Farsportsは本日11/27〜12/1にセール開始（全注文ホイールバッグ無料＋$18でヴィットリア・コルサPro）。終了が近い順にSuperteam(11/30)→Farsports/Elitewheels(12/1)→Winspace(12/4)→YOELEO(12/5)。",
+        "layer2": "買う側が払う“コード後実額”の目安（cyclistshub集計・11/20更新）：Winspace Lún HYPER 3 D45が$1,699→$1,299〜（コードCYCLISTSHUB10で追加10%）、HYPER 5 50mmが$1,399〜、Elitewheels DRIVE SL CSが$1,399→$1,119／DRIVE 2が$1,299→$1,039（コードCYCLISTSHUB・20%、HELIX等除外）、Superteam All Carbon Ultra H2が$1,199→$1,055。西側の“物差し”ハントも最大40%オフ（$1,200超の値引き）で中華価格帯に降下。店の立場では『同じ50mmが$1,000前後で並ぶ年末』をどう説明するかが勝負＝価格ではなく保証・補修・駆け込み先の安心を売る。コードの有効期限は決済直前に要再確認。",
+        "sources": [
+          {
+            "t": "Cyclist's Hub（中華BFまとめ）",
+            "u": "https://www.cyclistshub.com/chinese-carbon-black-friday-deals",
+            "d": "2026-11-20"
+          },
+          {
+            "t": "Cyclingnews（Huntセール）",
+            "u": "https://www.cyclingnews.com/cycling-tech-components/get-up-to-40-percent-off-top-hunt-wheelsets-at-the-guaranteed-best-black-friday-price/",
+            "d": "2026-11-26"
+          }
+        ],
+        "status": "確定＝各ブランドのセール期間・まとめ掲載の実額。曖昧＝コード有効性と在庫は流動的（決済画面で要確認）、Farsportsの機種別実額は本日時点で未掲載。"
+      },
+      {
+        "id": "20261127-shimano-di2-bf",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/ziC6BGb3R5w2ER9HHWtYMV-2000-80.jpg",
+        "headline": "【パーツ・年末実売／コンポ半額級・11/26】シマノの電動コンポがBFで“半額割れ”——105 Di2・アルテグラ・デュラエースがSigma Sportsで軒並み半額以下、電動が機械式より安い逆転も",
+        "layer1": "英Sigma Sportsのブラックフライデーで、シマノのロード用グループセット（105 Di2／Ultegra Di2／Dura-Ace）が『軒並み半額以下』に。Cyclingnewsが“crazy”と報じる水準で、電動コンポのまとめ買いが一気に現実的になった。",
+        "layer2": "ここ数年の値付けでは『12速電動Di2が、流通在庫次第で機械式より安く出る』逆転が起きる局面があり、今年のBFはその典型。背景にはシマノの最新四半期（1〜9月で欧州の完成車在庫調整が進展）もあり、旧世代コンポの流通玉が動きやすい。マサルの店にとっては“コンポ単体アップグレード”の年末提案（工賃＋電動化の付加価値）を作る好機。並行輸入の価格と、国内での保証・適合（R8100/R7100系の互換）を押さえた上で勧めれば、ホイール以外の客単価を押し上げられる。次期デュラエース“13速R9300”観測（11/15既報）も控え、12速電動は“今が買い時”の説明がしやすい。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/cycling-kit-accessories/huge-black-friday-discounts-on-shimano-road-groupsets-at-sigma-sports-with-105-di2-ultegra-and-dura-ace-all-better-than-half-price/",
+            "d": "2026-11-26"
+          }
+        ],
+        "status": "確定＝Sigmaで105 Di2/Ultegra/Dura-Aceが半額以下との報。曖昧＝個別型番の最終価格・在庫・国内送料/関税は各自要確認。"
+      },
+      {
+        "id": "20261127-elsy-jacobs-luxembourg",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/MdBNGCc62H8t6EpaVFwhK7-1024-80.jpg",
+        "headline": "【レース・女子／存続の知恵・11/26】女子の名物『フェスティバル・エルジー・ジェイコブス』が男子ツール・オブ・ルクセンブルク運営に統合——『レースが育つ唯一の道』、単独開催の限界を“相乗り”で越える",
+        "layer1": "ルクセンブルクの女子レース『Festival Elsy Jacobs』が、男子Tour of Luxembourgの運営組織に統合されると発表。主催側は『これがレースを成長させる唯一の道』と説明し、男女の運営・資源を一体化する。",
+        "layer2": "女子レースが単独では資金・運営リソースを確保しづらい現実に対し、“既存の男子レース運営に相乗りする”のは近年の生き残り策の定番。11/19のロマンディ救済（男女メイン化）や、消滅した米メリーランド・クラシック（11/24）と対照的に、『畳むのではなく束ねて残す』選択。女子レースの数字（UCIポイント＝本日別カードの“ポイント経済”）が選手の生活と直結する今、カレンダー存続は選手会の関心事でもある。派手さは無いが“興行としての自転車”の体温が分かる一本。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/the-only-way-for-the-race-to-grow-womens-festival-elsy-jacobs-race-becomes-part-of-the-mens-tour-of-luxembourg-organisation/",
+            "d": "2026-11-26"
+          }
+        ],
+        "status": "確定＝女子エルジー・ジェイコブスが男子ツール・オブ・ルクセンブルク運営に統合。曖昧＝2027開催日程の詳細は続報待ち。"
+      },
+      {
+        "id": "20261127-winter-visibility-light",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/tVpJ6QHKHRzTGWtoRwwbqR-2560-80.jpg",
+        "headline": "【初中級・自己防衛／日没が早い季節＋青切符に乗せて】冬の“被視認性”は安い投資で一番効く——BFで40%オフの300lmリアライトを例に、初中級が年末に外さない『後ろ・前・反射』3点",
+        "layer1": "ブラックフライデーで高輝度リアライトが値下がり（例：Magicshine SEEMEE 300＝300ルーメン・最大200時間・40%オフ）。日没の早い今、初中級がまず手を打つべきは“速さ”より“見られること”。無灯火は日本でも青切符の反則金5,000円対象（2026/4〜）。",
+        "layer2": "被視認性は費用対効果が最強の投資。押さえる3点は——①後ろ：日中も点滅できる明るいリアライト（30〜50lmでも昼間視認モードがあるか）、②前：道を“照らす”前照灯（対向を眩惑しない配光、500〜800lm級が実用）、③反射：シューズ/足首・バッグへの反射材（動く点＝ドライバーが最も認識しやすい）。英オックスフォードの一斉取締り（昨日既報）でも停止50人中の多くが無灯火で、冬は“一番危なくて一番高くつく”のが無灯火。ガーミン×Waze連携（11/10既報）のような“被視認性テック”も出てきたが、まずは安い基本3点から。店頭では『速くなる前に、見られる人になる』が年末の鉄板トーク。",
+        "sources": [
+          {
+            "t": "Cyclingnews（BFリアライト）",
+            "u": "https://www.cyclingnews.com/cycling-kit-accessories/the-magicshine-seemee-300-rear-light-boasts-a-huge-300-lumens-and-200-hour-battery-life-and-its-now-40-percent-off-for-black-friday/",
+            "d": "2026-11-26"
+          }
+        ],
+        "status": "確定＝BFでリアライト値下げ・無灯火は青切符5,000円対象。曖昧＝製品の実測明るさ・ランタイムは使用モードで変動、価格は販売店で要確認。"
+      }
+    ]
+  },
+  {
     "date": "2026-11-26",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、12本。今日は2027体制固めと“人間ドラマ”の週——マッズ・ペデルセンが自伝で初モニュメントと母国引退を語り、ブエルタ女王ブラジは買い物中の珍落車から72時間でローラー復帰、ファンデルポールは婚約＆第一子の朗報。機材は年末ブラックフライデーの中華“底値”が今週末本番、明日はCX開幕オストラヴァ、土曜はヴェロドール発表です。",
     "cards": [
