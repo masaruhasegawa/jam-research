@@ -1,5 +1,188 @@
 window.LISA_FEEDS = [
   {
+    "date": "2026-11-28",
+    "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、8本。昨夜のオストラヴァは雪のナイターでシュライバーが『失格の雪辱』、裏ではイネオス移籍がドーピングで白紙に、女子チームの看板も動きました。昨日今日の“本物”を厳選しています。",
+    "cards": [
+      {
+        "id": "20261128-ostrava-schreiber-snow",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/Hieksd4GYrrTL7QPhworHg.jpg",
+        "headline": "【🔥今日の一本・レース／雪の雪辱・11/27】CXワールドカップ開幕オストラヴァ、照明と雪のナイターでマリー・シュライバーが独走V——3週間前の欧州選手権『失格降格』を晴らし、女王ブランドは凍ったペダルに泣いて15位",
+        "layer1": "2026-27 UCIシクロクロス・ワールドカップ開幕戦オストラヴァ（チェコ）のエリート女子で、ルクセンブルクのマリー・シュライバーが雪と轍の難コースを最終周の独走で制覇。2位アニーク・ファンアルフェン（＋6秒）、3位マノン・バッカーを抑え、開幕から総合リーダーに立った。",
+        "layer2": "ここが効く。シュライバーは3週間前の欧州選手権ゼダムで、スプリントでブランドを先着しながら『進路を外れた』として2位に降格された“被害者”。その雪辱を初のW杯初開催地で返した格好だ。本人は『照明と雪、こんなレースは滅多にない。全開では踏めず、流れに乗って丁寧に』と証言。一方、世界王者ルシンダ・ブランドは序盤からペダルがはまらず（ピットで凍結防止スプレーを吹く場面も）バイク交換に追われ、15位・2分25秒遅れと大崩れ。雪と氷のコンディションでは“機材より着地（クリート・ペダルの凍結対策）”が勝敗を分けると改めて示した一戦。2日後の11/29にはすぐ第2戦タボルが続くチェコ連戦で、ブランドの立て直しとファンデルポールの“参戦問題”が次の焦点。",
+        "sources": [
+          {
+            "t": "Cyclingnews",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/world-cup-ostrava-marie-schreiber-cruises-to-first-round-elite-womens-victory-on-snow-packed-course-in-czech-republic/",
+            "d": "2026-11-27"
+          },
+          {
+            "t": "Tour-Magazin",
+            "u": "https://www.tour-magazin.de/en/professional-cycling/latest-news/ostrava-cyclo-cross-world-cup-marie-schreiber-gets-her-revenge-in-a-snow-battle/",
+            "d": "2026-11-27"
+          },
+          {
+            "t": "IDL ProCycling",
+            "u": "https://www.idlprocycling.com/cyclo-cross/brand-suffers-and-schreiber-shines-at-snowy-ostrava-cyclocross-world-cup",
+            "d": "2026-11-27"
+          }
+        ],
+        "status": "確定＝女子はシュライバー優勝・2位ファンアルフェン(+6秒)・3位バッカー、ブランド15位、開幕W杯初開催地。曖昧＝本稿時点でエリート男子の最終結果は未確認（別途続報）。"
+      },
+      {
+        "id": "20261128-tejada-abp-ineos-off",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://domestique-cycling.b-cdn.net/production/2026/Men/XDS-Astana-Team/CORVOS_00038768-155.jpg",
+        "headline": "【レース・ドーピング／移籍白紙・11/27】ハロルド・テハダが暫定資格停止——“生体パスポートの異常”でITAが『答弁すべき案件』、2027年ネットカンパニー・イネオス移籍は双方合意で白紙に",
+        "layer1": "XDSアスタナで7季を過ごしたコロンビアの29歳ハロルド・テハダが、生体パスポートの『説明のつかない異常値』を理由に暫定資格停止処分を受けた。1/1付で加入予定だった2027年のネットカンパニー・イネオスは『双方合意で契約を取りやめる』とSNSで発表、移籍は白紙になった。",
+        "layer2": "ITA（国際検査機関）の専門家パネルは、本人の説明を検討した上で『パスポートの異常は禁止物質および/または方法によるものである可能性が高い』と結論し、答弁すべき案件があると判断した。ここはイネオスにとって痛い——同チームは2026登録29人中15人を失う“血の入れ替え”の最中で、補強の目玉が走る前に消えた形。チームは10月にテハダ獲得を発表したばかりで、わずか7週間での反転。日本のファン目線では『ロードのドーピングはまだ終わっていない』という冷ややかな再認識にもなり、ネットでも賛否が割れる話題。最終的な処分（出場停止年数）や本人の反論はこれから。",
+        "sources": [
+          {
+            "t": "Escape Collective (Daily News)",
+            "u": "https://escapecollective.com/dailynews/",
+            "d": "2026-11-27"
+          },
+          {
+            "t": "Domestique Cycling",
+            "u": "https://www.domestiquecycling.com/en/news/netcompany-ineos-snap-up-harold-tejada-after-seven-seasons-with-xds-astana/",
+            "d": "2026-11-27"
+          }
+        ],
+        "status": "確定＝ITAが暫定資格停止・パネルが『答弁すべき案件』と判断・イネオス移籍は双方合意で白紙。曖昧＝最終処分・本人の反論・弁明の中身は未発表。"
+      },
+      {
+        "id": "20261128-vananrooij-registration",
+        "genre": "race",
+        "genreLabel": "RACE",
+        "genreJa": "レース",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/agvAiDbbmsKqyLCMzUB7gB.jpg",
+        "headline": "【レース・人間ドラマ／続報・11/25】“鉄動脈”から甦ったファンアンローイ、新天地キャニオン-SRAMのデビューが『登録ルール』で足止め——最初の5週間は“独立選手”扱いに",
+        "layer1": "腸骨動脈の手術から復帰したシリン・ファンアンローイ（移籍先キャニオン-SRAM）のクロス本格始動が、UCIの登録ルールによって遅れる見込みだとcyclingnewsが報道。シーズン最初の約5週間は、チームのクロス登録の都合で“独立（インディペンデント）選手”として走らざるを得ないという。",
+        "layer2": "11/20に伝えた『来週オストラヴァで新章の初戦』という筋書きに、思わぬ事務手続きの壁が乗った格好。独立選手扱いだと、同じ走りでもチームのポイント加算やチーム運用で不利が出る。実はこの“登録ルール問題”は、11/26にマッズ・ペデルセンが『馬鹿げている』と噴き出した旧チーム着用規定や、ファンレット移籍組の出走延期と根が同じ——移籍期とシーズンをまたぐ登録の硬直が、年明けまで選手を縛る。病から戻った選手が今度は規則に足を取られる皮肉で、人間ドラマとしても拾える一本。",
+        "sources": [
+          {
+            "t": "Cyclingnews (Cyclo-cross)",
+            "u": "https://www.cyclingnews.com/cyclo-cross/",
+            "d": "2026-11-25"
+          }
+        ],
+        "status": "確定＝cyclingnewsが『登録ルールでデビューが遅延、最初の約5週は独立選手扱い』と報道。曖昧＝具体的な適用レース・解除日は未確認（※一次報のみ、要続報）。"
+      },
+      {
+        "id": "20261128-rabobank-women-title",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/byR9pHKBAGDbR3Mwp8i4G7.jpg",
+        "headline": "【経営メモ・市場／看板の行方・11/27】女子チームの“冠”が動く——2027年、ラボバンクがヴィスマに代わり女子のタイトルへ、名称は『Rabobank-Lease a Bike』に",
+        "layer1": "ヴィスマ・リースアバイクが、2027年から女子チームのタイトルスポンサーをヴィスマからラボバンク（蘭大手銀行）に切り替えると発表。女子チームは『Rabobank-Lease a Bike』の名で走る。ラボバンクは2025年に約3年半契約でジャージ上に復帰していたが、今回“冠”へと一歩踏み込む。",
+        "layer2": "前日に伝えた『ヴィスマがチーム名義を降り、男子は暫定Yellow B登録』の裏で、女子側は新しい冠が先に決まった形。ラボバンクは2012〜16年にフォス、ファンフルーテン、ファンデルブレッヘン、フェランプレヴォーらを擁した女子の名門を支えた歴史があり、“戻るべき場所に戻った”物語を打ち出せる。CEO（カルロ・ファンケメナーデ）は『昨年の復帰が好評で、女子でより大きな役割を担う』と説明。店目線では、来季“どのチームのレプリカ・配色が売れるか”が男子でなお未定な一方、女子は早々に看板が固まった——女子人気の商機（アパレル・ファングッズ）を読む材料になる。金額は非公表。",
+        "sources": [
+          {
+            "t": "Escape Collective (Daily News)",
+            "u": "https://escapecollective.com/dailynews/",
+            "d": "2026-11-27"
+          }
+        ],
+        "status": "確定＝チーム公式発表（Escape報）。2027女子は『Rabobank-Lease a Bike』、ラボバンクがタイトルへ。曖昧＝契約金額・年数は非公表、男子の共同タイトルは引き続き探索中。"
+      },
+      {
+        "id": "20261128-shimano-pcb-di2",
+        "genre": "market",
+        "genreLabel": "MARKET",
+        "genreJa": "国内市場",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2024/07/2023-shimano-105-r7100-mechanical-12-speed-16-1024x683.jpeg",
+        "headline": "【経営メモ・市場／供給の地殻変動・11月】シマノが一部Di2・eバイク製品の“納期”を提示できず——世界的な基板（PCB）不足が自転車業界に到達、電動の入荷が読めない年末に",
+        "layer1": "Escape Collectiveによると、世界最大の部品メーカー・シマノが、一部の電動変速（Di2）およびeバイク製品について、完成車ブランドへの納期提示を止めた。広報は『プリント基板（PCB）の供給不足により、一部のDi2・eバイク製品の供給が現在影響を受けている』とコメント。自転車業界に“基板不足”が及んだ初の明確なサインとされる。",
+        "layer2": "ここは記事ネタより“経営の実務”に効く。背景はAIデータセンター需要などで逼迫する世界の基板供給で、影響はシマノだけに留まらない可能性が高い。つまり年末〜来季にかけ、Di2完成車・補修用の電動コンポ・eバイクの入荷時期が読みにくくなる恐れがある。店としては、(1)電動系の在庫と予約の“納期前提”を今のうちに顧客へ正直に伝える、(2)機械式（105・GRX機械式など）や非電動の代替提案を用意する、(3)『同じ技術が半額の中華直販』との競争でも“確実に手に入る在庫と駆け込み先”という強みを言語化する——が効く局面。影響期間・対象型番の詳細は未開示で、続報を要する。",
+        "sources": [
+          {
+            "t": "Escape Collective",
+            "u": "https://escapecollective.com/the-global-circuit-board-shortage-has-reached-the-bike-industry/",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝シマノが一部Di2・eバイクの納期を『未定』に（広報コメントあり）。曖昧＝影響の期間・対象型番・在庫数は未開示（※Escape単独報、要続報）。"
+      },
+      {
+        "id": "20261128-conti-gp5000s-tr",
+        "genre": "parts",
+        "genreLabel": "PARTS",
+        "genreJa": "パーツ",
+        "hot": false,
+        "image": "https://cdn.road.cc/wp-content/uploads/2021/11/2021-continental-gp5000s-tr-fitted-main0.jpg",
+        "headline": "【パーツ・タイヤ／再評価・11/26】王者コンチ『GP5000 S TR』をroad.ccが再レビュー、実売£87.99でも『高いが買い』——イネオスがピレリへ去る今季、“定番の壁”はまだ高い",
+        "layer1": "road.ccが11/26、コンチネンタルのレース用チューブレス『Grand Prix 5000 S TR』を改めてレビュー。価格は£87.99と高めながら『速さ・グリップ・耐久を両立、先行投資に見合う』と高評価。BikeRadarは5/5、Cyclingnewsも“プレミアム・チューブレスの基準”と位置づける。",
+        "layer2": "ここが効く。ネットカンパニー・イネオスが2027からコンチ→ピレリ（P Zero Race系）へ乗り換える——という“潮目”を11/12・11/20で追ってきたが、そのコンチの看板タイヤは今なお評者の“物差し”であり続けている。つまり『プロが替える＝そのタイヤが落ちた』ではなく、頂点同士（GP5000 S TR／ピレリP Zero／シュワルベ・プロワン）が僅差で並ぶ時代ということ。注意点として、転がり抵抗の実測では『公称ほど速くはない』という異論もある（Bicycle Rolling Resistance）。初中級への落とし込みは普遍で、ホイールを替える前に“タイヤとチューブ”が一番効く投資。年末に新しいホイールを買う前に、まず転がりと空気の管理から。",
+        "sources": [
+          {
+            "t": "road.cc (review)",
+            "u": "https://road.cc/content/review/continental-grand-prix-5000-s-tr-287997",
+            "d": "2026-11-26"
+          },
+          {
+            "t": "BikeRadar",
+            "u": "https://www.bikeradar.com/reviews/continental-grand-prix-5000-s-tr-review",
+            "d": "2026-11"
+          }
+        ],
+        "status": "確定＝road.ccが11/26に再評価（実売£87.99で高評価）、BikeRadar5★、“基準”の位置づけ。曖昧＝転がり抵抗の実測は『期待ほどでない』との異論あり。"
+      },
+      {
+        "id": "20261128-winter-cold-basics",
+        "genre": "beginner",
+        "genreLabel": "BEGINNER",
+        "genreJa": "初中級",
+        "hot": false,
+        "image": "https://media.delius-klasing.de/images/dpr_auto,fl_progressive,f_auto,c_fill,g_auto:subject:thirds_0,h_600,w_1068/q_auto:eco/tour/gettyimages-2307151324_ebb13b77e0faed9d38b85d89da331131/ostrava-cyclo-cross-world-cup-marie-schreiber-gets-her-revenge-in-a-snow-battle",
+        "headline": "【初中級・自己防衛／シュライバーの“凍ったペダル”に乗せて】世界最高峰でも氷点下は機材が言うことを聞かない——冬の“凍結・極寒”で走りを壊さない3点",
+        "layer1": "昨夜のオストラヴァは、世界王者ブランドでさえペダルが凍ってはまらず、ピットで凍結防止スプレーを吹いてバイク交換に追われた。氷点下では、脚より先に“機材と手足”が動かなくなる。市民ライダーの冬も、原理は同じだ。",
+        "layer2": "先回りして3点。(1)クリート・ペダルの凍結——雪や融雪塩の水分がクリートに噛むと踏み込めない。走行前に金具の雪を落とし、保管は室内で。凍結が疑わしい日はフラットペダル併用も手。(2)空気圧は“気温で下がる”——寒いと中の空気が縮んで実圧が落ちる。冬は乗る直前に測り直す（タイヤは昨日のGP5000 S TRのようにグリップ重視の銘柄が安心）。(3)末端の保温と被視認性——手足の冷えは握力・反応を奪い落車の元。冬グローブ・シューズカバーと、日没の早い季節は前後ライト＋反射を“安い投資”として外さない。無理はせず、路面が白い日は距離より『無事に帰る』を優先。",
+        "sources": [
+          {
+            "t": "Cyclingnews (元ネタ・凍結の描写)",
+            "u": "https://www.cyclingnews.com/pro-cycling/womens-cycling/world-cup-ostrava-marie-schreiber-cruises-to-first-round-elite-womens-victory-on-snow-packed-course-in-czech-republic/",
+            "d": "2026-11-27"
+          }
+        ],
+        "status": "確定＝レースでの凍結描写（ブランドのペダル凍結・スプレー・バイク交換）は一次報道に基づく。助言部分は一般的な冬対策で、特定の数値主張はしていない。"
+      },
+      {
+        "id": "20261128-velodor-decision-day",
+        "genre": "trend",
+        "genreLabel": "TREND",
+        "genreJa": "トレンド",
+        "hot": false,
+        "image": "https://cdn.mos.cms.futurecdn.net/C4T2zy8qip3saBWGmyq7Y3.jpg",
+        "headline": "【トレンド・年間表彰／本日決着・11/28】2026『ヴェロドール』が今夜決まる——男子は落車で早期離脱したポガチャルが“4度目”の大本命、女子は三冠ヴォラーリング、新設のスプリンター賞・ルーキー賞も",
+        "layer1": "ロード年間最優秀を選ぶ『ヴェロドール2026』の授賞式が、本日11/28（土）に行われる。男子はブエルタの落車でシーズンを早じまいしたポガチャルが依然“圧倒的本命”、女子は今季三冠のデミ・ヴォラーリングが最有力。今年から『スプリンター賞』『ルーキー賞』も設けられた。",
+        "layer2": "ここが物語。ポガチャルは椎骨を折る落車で9〜11月を棒に振りながら、それでも年間王座が“当然視”される——それ自体が今季の支配ぶりの証明だ。対抗の20歳ポール・セイシャス（総合系ルーキー）は、新設ルーキー賞の筆頭であり、来季以降“4度目以降を脅かす最右翼”として語られる。開催地はパリとモンテカルロで情報が割れており（L’Équipeで生中継との報も）、確定は式典後。結果が出れば、受賞スピーチの“人間ドラマ”は明日のタイムラインで拾う。日本のファンにも刺さる、今季を締める一夜。",
+        "sources": [
+          {
+            "t": "Cyclingnews (ノミネート)",
+            "u": "https://www.cyclingnews.com/pro-cycling/teams-riders/velo-dor-nominations-unveiled-who-would-get-your-vote/",
+            "d": "2026-10-29"
+          },
+          {
+            "t": "ProCycling UK (新賞)",
+            "u": "https://procyclinguk.com/velo-dor-2026-nominees-men-women-sprinters-rookies/",
+            "d": "2026-10-29"
+          }
+        ],
+        "status": "確定＝式典は本日11/28、男子ポガチャル・女子ヴォラーリングが大本命、スプリンター/ルーキー賞を新設。曖昧＝受賞結果は式典後に判明、開催地（パリ/モンテカルロ）は報道で割れる（※ノミネート情報は10/29発、結果は本日・要続報）。"
+      }
+    ]
+  },
+  {
     "date": "2026-11-27",
     "greeting": "おはようございます、マサルさん！ 今朝のリサーチ、11本。今夜は製鉄所跡のナイターでクロスW杯が開幕、裏ではビッグスポンサーと老舗ブランドが同じ日に動きました。昨日今日の“本物”だけで組んでいます。",
     "cards": [
